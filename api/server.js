@@ -1,13 +1,13 @@
 const cors = require('cors')
 const express = require('express')
 const fs = require('fs')
-const { port } = require('./config')
+const { port } = require('../config')
 const app = express()
 
 app.set('port', port)
 app.use(cors())
 
-let jsonDir = 'json'
+let jsonDir = '../json'
 let jsonFiles = {
   all: 'all'
 }
@@ -70,4 +70,5 @@ app.get('/platform/:platform', function (req, res) {
 })
 
 app.listen(port, () => console.log(`App started on port ${port}.`))
+
 module.exports = app
