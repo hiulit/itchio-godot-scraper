@@ -1,1 +1,8 @@
-{}
+{
+  "version": 1,
+  "name": "itchio-scraper",
+  "alias": "itchio-scraper.now.sh",
+  "github": {
+    "silent": true
+  }
+}
