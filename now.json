@@ -4,5 +4,11 @@
   "alias": "itchio-scraper.now.sh",
   "github": {
     "silent": true
-  }
+  },
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@now/node-server"
+    }
+  ]
 }
