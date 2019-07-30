@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "local": "nodemon -r dotenv/config server.js"
+    "local": "nodemon -r dotenv/config server.js",
+    "build": "echo 'hello build'"
   },
   "author": "hiulit",
   "license": "MIT",
