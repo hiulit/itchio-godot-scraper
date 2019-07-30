@@ -70,4 +70,4 @@ app.get('/platform/:platform', function (req, res) {
 })
 
 app.listen(port, () => console.log(`App started on port ${port}.`))
-// module.exports = app
+module.exports = app
