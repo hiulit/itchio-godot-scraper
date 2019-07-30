@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node -r dotenv/config server.js",
     "local": "nodemon -r dotenv/config server.js",
-    "build": "NODE_ENV=production node -r dotenv/config server.js"
+    "build": ""
   },
   "author": "hiulit",
   "license": "MIT",
