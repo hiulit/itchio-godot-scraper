@@ -1,9 +1,12 @@
 const cors = require('cors')
 const express = require('express')
 const fs = require('fs')
+const http = require('http')
 const request = require('request')
 const { port } = require('./config')
 const app = express()
+
+console.log(process.env.NODE_ENV)
 
 app.set('port', port)
 app.use(cors())
@@ -26,6 +29,7 @@ function readJSON (path) {
 let data
 
 if (process.env.NODE_ENV === 'production') {
+  console.log('I\'m in production mode!')
   request(
     'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/json/all.json',
     function (err, res, body) {
@@ -76,6 +80,7 @@ app.get('/api/platform/:platform', function (req, res) {
   res.send(games)
 })
 
-app.listen(port, () => console.log(`App started on port ${port}.`))
+const server = http.createServer(app)
+server.listen(port, () => console.log(`App started on port ${port}.`))
 
-// module.exports = app
+module.exports = app
