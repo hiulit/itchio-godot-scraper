@@ -10,11 +10,6 @@ https.globalAgent.maxSockets = 3
 let base_url = 'https://itch.io/games/made-with-godot'
 let items_per_page = 30
 
-let jsonDir = 'json'
-let jsonFiles = {
-  all: 'all'
-}
-
 function flattenDeep (arr) {
   return arr.reduce(
     (acc, val) =>
@@ -125,7 +120,7 @@ function getAllGames () {
           scrapes = flattenDeep(scrapes)
 
           console.log(scrapes)
-          writeJSON(scrapes, jsonDir + '/' + jsonFiles.all)
+          writeJSON(scrapes, 'all.json')
         },
         function (error) {
           // At least one of them went wrong.

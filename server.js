@@ -33,7 +33,7 @@ if (process.env.NODE_ENV === 'production') {
     }
   )
 } else if (process.env.NODE_ENV === 'development') {
-  data = readJSON('json/all.json')
+  data = readJSON('all.json')
 }
 
 app.get('/', function (req, res) {
