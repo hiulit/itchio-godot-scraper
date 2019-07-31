@@ -1,16 +1,12 @@
 const cors = require('cors')
 const express = require('express')
 const fs = require('fs')
-const { port } = require('../config')
+const request = require('request')
+const { port } = require('./config')
 const app = express()
 
 app.set('port', port)
 app.use(cors())
-
-let jsonDir = '../json'
-let jsonFiles = {
-  all: 'all'
-}
 
 function readJSON (path) {
   if (path === '' || path === undefined) {
@@ -27,17 +23,29 @@ function readJSON (path) {
   }
 }
 
+let data
+
+if (process.env.NODE_ENV === 'production') {
+  request(
+    'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/json/all.json',
+    function (err, res, body) {
+      data = JSON.parse(body)
+    }
+  )
+} else if (process.env.NODE_ENV === 'development') {
+  data = readJSON('json/all.json')
+}
+
 app.get('/', function (req, res) {
-  res.redirect('/all')
+  res.redirect('/api')
 })
 
-app.get('/all', function (req, res) {
-  res.send(readJSON(jsonDir + '/' + jsonFiles.all + '.json'))
+app.get('/api', function (req, res) {
+  res.send(data)
 })
 
-app.get('/author/:author', function (req, res) {
+app.get('/api/author/:author', function (req, res) {
   let games = []
-  let data = readJSON(jsonDir + '/' + jsonFiles.all + '.json')
 
   for (let i = 0; i < data.length; i++) {
     const elem = data[i]
@@ -49,9 +57,8 @@ app.get('/author/:author', function (req, res) {
   res.send(games)
 })
 
-app.get('/platform/:platform', function (req, res) {
+app.get('/api/platform/:platform', function (req, res) {
   let games = []
-  let data = readJSON(jsonDir + '/' + jsonFiles.all + '.json')
 
   for (let i = 0; i < data.length; i++) {
     const elem = data[i]
@@ -71,4 +78,4 @@ app.get('/platform/:platform', function (req, res) {
 
 app.listen(port, () => console.log(`App started on port ${port}.`))
 
-module.exports = app
+// module.exports = app
