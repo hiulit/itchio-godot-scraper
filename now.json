@@ -1,2 +1,39 @@
 {
+  "version": 2,
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@now/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/server.js",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/all",
+      "dest": "/server.js",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/authors",
+      "dest": "/server.js",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/platforms",
+      "dest": "/server.js",
+      "methods": [
+        "GET"
+      ]
+    }
+  ]
 }
