@@ -8,28 +8,28 @@
   ],
   "routes": [
     {
-      "src": "/",
+      "src": "/api",
       "dest": "/server.js",
       "methods": [
         "GET"
       ]
     },
     {
-      "src": "/all",
+      "src": "/api/all",
       "dest": "/server.js",
       "methods": [
         "GET"
       ]
     },
     {
-      "src": "/authors",
+      "src": "/api/authors",
       "dest": "/server.js",
       "methods": [
         "GET"
       ]
     },
     {
-      "src": "/platforms",
+      "src": "/api/platforms",
       "dest": "/server.js",
       "methods": [
         "GET"
