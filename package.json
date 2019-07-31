@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node -r dotenv/config server.js",
-    "dev": "nodemon -r dotenv/config server.js",
-    "build": "NODE_ENV=production node -r dotenv/config server.js"
+    "dev": "nodemon -r dotenv/config server.js"
   },
   "author": "hiulit",
   "license": "MIT",
