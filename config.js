@@ -3,6 +3,7 @@
 // dotenv.config() // We use 'nodemon -r dotenv/config index.js' instead.
 
 module.exports = {
-  endpoint: process.env.API_URL,
+  scraperUrl: process.env.SCRAPER_URL,
+  apiUrl: process.env.API_URL,
   port: process.env.PORT
 }
