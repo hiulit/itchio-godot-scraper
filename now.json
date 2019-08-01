@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "name": "itchio-scraper",
+  "alias": "itchio-scraper.now.sh",
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api",
+      "dest": "/index.js",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/api/authors",
+      "dest": "/index.js",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/api/author/(?<author>[^/]+)",
+      "dest": "/index.js?author=$1",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/api/platform/(?<platform>[^/]+)",
+      "dest": "/index.js?platform=$1",
+      "methods": [
+        "GET"
+      ]
+    }
+  ]
+}
