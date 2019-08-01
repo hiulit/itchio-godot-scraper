@@ -2,20 +2,21 @@ const cheerio = require('cheerio')
 const fs = require('fs')
 const request = require('request')
 
+const { scraperUrl } = require('./config')
+
 const http = require('http')
 const https = require('https')
 http.globalAgent.maxSockets = 3
 https.globalAgent.maxSockets = 3
 
-let base_url = 'https://itch.io/games/made-with-godot'
+let base_url = scraperUrl
 let items_per_page = 30
+let max_pages
+let n_pages
 
-let jsonDir = 'json'
-let jsonFiles = {
-  all: 'all'
-}
+let noResults = []
 
-function flattenDeep (arr) {
+function flattenDeep(arr) {
   return arr.reduce(
     (acc, val) =>
       Array.isArray(val) ? acc.concat(flattenDeep(val)) : acc.concat(val),
@@ -23,29 +24,27 @@ function flattenDeep (arr) {
   )
 }
 
-function writeJSON (data, path) {
-  if (!data) {
-    throw new Error('Function needs a valid JSON as a first parameter!')
-  }
-  if (path === '' || path === undefined) {
-    throw new Error('Function needs a path (string) as a second parameter!')
-  } else if (typeof path !== 'string' || path instanceof String) {
-    name.toString()
-  }
-
+function writeJSON(data, path) {
   try {
     fs.writeFileSync(path + '.json', JSON.stringify(data, null, 2))
     console.log()
-    console.log('"' + path + '.json" has been created successfully!')
+    console.log(
+      '\033[1;32m"' + path + '.json"\033[0m has been created successfully!'
+    )
     console.log()
   } catch (err) {
     console.error(err)
   }
 }
 
-function scraper (url) {
-  return new Promise(function (resolve, reject) {
-    request(url, function (err, resp, body) {
+function scraper(url, i) {
+  return new Promise(function(resolve, reject) {
+    request(url, function(err, resp, body) {
+      let percentage_progress = (((i + 1) * 100) / n_pages).toFixed(0)
+      process.stdout.clearLine()
+      process.stdout.cursorTo(0)
+      process.stdout.write('Scraping progress: ' + percentage_progress + '%')
+
       var $ = cheerio.load(body)
 
       var results = []
@@ -54,7 +53,7 @@ function scraper (url) {
         reject(err)
       } else {
         if ($('.game_cell').length) {
-          $('.game_cell').each(function (i, elem) {
+          $('.game_cell').each(function(i, elem) {
             let game = {}
 
             game.thumb = $(elem)
@@ -74,7 +73,7 @@ function scraper (url) {
             $(elem)
               .find('.game_cell_data .game_platform')
               .children()
-              .each(function (i, elem) {
+              .each(function(i, elem) {
                 platform = $(elem).attr('title')
                 if (platform) {
                   platform = platform.replace('Download for ', '')
@@ -86,7 +85,7 @@ function scraper (url) {
             results.push(game)
           })
         } else {
-          results.push({ 'No results in:': url })
+          noResults.push({ 'No results at index:': i })
         }
 
         resolve(results)
@@ -95,8 +94,10 @@ function scraper (url) {
   })
 }
 
-function getAllGames () {
-  request(base_url, function (error, response, html) {
+function getAllGames() {
+  console.log('Scraping started ...')
+
+  request(base_url, function(error, response, html) {
     if (!error) {
       var $ = cheerio.load(html)
 
@@ -106,7 +107,8 @@ function getAllGames () {
           .match(/[0-9.,]+/g)[0]
           .replace(',', '')
       )
-      // console.log(max_pages)
+      console.log('Total of games: ' + max_pages)
+
       n_pages = Math.ceil(max_pages / items_per_page)
       // n_pages = 1
       // console.log(n_pages)
@@ -117,17 +119,21 @@ function getAllGames () {
         urls.push(url)
       }
 
-      var scrapers = urls.map(scraper)
+      var scrapers = urls.map(scraper, 10)
 
       Promise.all(scrapers).then(
-        function (scrapes) {
+        function(scrapes) {
+          if (noResults.length) {
+            console.log()
+            console.log(noResults)
+          }
+
           // "scrapes" collects the results from all pages.
           scrapes = flattenDeep(scrapes)
 
-          console.log(scrapes)
-          writeJSON(scrapes, jsonDir + '/' + jsonFiles.all)
+          writeJSON(scrapes, 'all')
         },
-        function (error) {
+        function(error) {
           // At least one of them went wrong.
           console.log('error', error)
         }
