@@ -2,10 +2,9 @@
   "name": "itchio-scraper",
   "version": "1.0.0",
   "description": "Scrape Godot games on itch.io",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "local": "nodemon -r dotenv/config server.js"
+    "start": "nodemon -r dotenv/config index.js"
   },
   "author": "hiulit",
   "license": "MIT",
@@ -14,6 +13,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
     "nodemon": "^1.19.1",
     "request": "^2.88.0"
   }
