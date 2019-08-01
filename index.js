@@ -1,8 +1,9 @@
 const cors = require('cors')
-const fetch = require('node-fetch')
 const express = require('express')
+const fetch = require('node-fetch')
 
-const { apiUrl, port } = require('./config')
+const apiUrl = process.env.API_URL
+const port = process.env.PORT
 
 const app = express()
 

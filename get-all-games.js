@@ -2,12 +2,12 @@ const cheerio = require('cheerio')
 const fs = require('fs')
 const request = require('request')
 
-const { scraperUrl } = require('./config')
-
 const http = require('http')
 const https = require('https')
 http.globalAgent.maxSockets = 3
 https.globalAgent.maxSockets = 3
+
+const scraperUrl = process.env.SCRAPER_URL
 
 let base_url = scraperUrl
 let items_per_page = 30
