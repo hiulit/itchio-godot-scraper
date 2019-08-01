@@ -1,7 +1,12 @@
 {
   "version": 2,
-  "name": "itchio-scraper",
-  "alias": "itchio-scraper.now.sh",
+  "name": "itchio-godot-scraper",
+  "alias": "itchio-godot-scraper.now.sh",
+  "env": {
+    "API_URL": "@api-url",
+    "PORT": "@port",
+    "SCRAPER_URL": "@scraper-url"
+  },
   "builds": [
     {
       "src": "index.js",
