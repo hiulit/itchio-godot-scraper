@@ -2,7 +2,7 @@ const cors = require('cors')
 const fetch = require('node-fetch')
 const express = require('express')
 
-const { endpoint, port } = require('./config')
+const { apiUrl, port } = require('./config')
 
 const app = express()
 
@@ -10,7 +10,7 @@ app.set('port', port)
 app.use(cors())
 
 async function getGames () {
-  const response = await fetch(endpoint)
+  const response = await fetch(apiUrl)
   return response.json()
 }
 
