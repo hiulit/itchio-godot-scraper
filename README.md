@@ -2,9 +2,13 @@
 
 A scraper for Godot games hosted on https://itch.io/
 
+## API URL
+
+https://itchio-godot-scraper.now.sh
+
 ## Usage
 
-- "/api" (get all the games)
-- "/api/authors" (get all the authors)
-- "/api/author/:author" (get games by author)
-- "/api/platforms/:platform" (get games by platform)
+- `/api` - Get all the games.
+- `/api/authors` - Get all the authors.
+- `/api/author/:author` - Get games by author.
+- `/api/platforms/:platform` - Get games by platform.
