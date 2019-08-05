@@ -4,17 +4,19 @@ const request = require('request')
 
 const http = require('http')
 const https = require('https')
-http.globalAgent.maxSockets = 3
-https.globalAgent.maxSockets = 3
+http.globalAgent.maxSockets = 2
+https.globalAgent.maxSockets = 2
 
-const scraperUrl = process.env.SCRAPER_URL
+let baseURL = 'https://itch.io/games/'
+let scrapeURLS = ['made-with-godot', 'tag-godot']
 
-let base_url = scraperUrl
-let items_per_page = 30
-let max_pages
-let n_pages
+let itemsPerPage = 30
+let maxPages
+let nPages
 
 let noResults = []
+
+let promisesDone = 0
 
 function flattenDeep(arr) {
   return arr.reduce(
@@ -22,6 +24,15 @@ function flattenDeep(arr) {
       Array.isArray(val) ? acc.concat(flattenDeep(val)) : acc.concat(val),
     []
   )
+}
+
+function readJSON(path) {
+  try {
+    return JSON.parse(fs.readFileSync(path, 'utf8'))
+  } catch (err) {
+    console.error(err)
+    return false
+  }
 }
 
 function writeJSON(data, path) {
@@ -37,17 +48,25 @@ function writeJSON(data, path) {
   }
 }
 
-function scraper(url, i) {
+function scraper(url) {
   return new Promise(function(resolve, reject) {
-    request(url, function(err, resp, body) {
-      let percentage_progress = (((i + 1) * 100) / n_pages).toFixed(0)
+    request(url.url, function(err, resp, body) {
+      let percentage_progress = ((url.id * 100) / url.nPages).toFixed(0)
       process.stdout.clearLine()
       process.stdout.cursorTo(0)
-      process.stdout.write('Scraping progress: ' + percentage_progress + '%')
+      process.stdout.write(
+        'Scraping progress for ' +
+          url.url.substring(0, url.url.indexOf('?')) +
+          ': ' +
+          percentage_progress +
+          '% of ' +
+          url.maxPages +
+          ' games.'
+      )
 
-      var $ = cheerio.load(body)
+      let $ = cheerio.load(body)
 
-      var results = []
+      let results = []
 
       if (err) {
         reject(err)
@@ -85,7 +104,7 @@ function scraper(url, i) {
             results.push(game)
           })
         } else {
-          noResults.push({ 'No results at index:': i })
+          noResults.push({ 'No results at index:': url.url })
         }
 
         resolve(results)
@@ -96,50 +115,77 @@ function scraper(url, i) {
 
 function getAllGames() {
   console.log('Scraping started ...')
+  console.log()
 
-  request(base_url, function(error, response, html) {
-    if (!error) {
-      var $ = cheerio.load(html)
+  for (let i = 0; i < scrapeURLS.length; i++) {
+    const scrapeURL = scrapeURLS[i]
 
-      max_pages = parseInt(
-        $('.game_count')
-          .text()
-          .match(/[0-9.,]+/g)[0]
-          .replace(',', '')
-      )
-      console.log('Total of games: ' + max_pages)
+    request(baseURL + scrapeURL, function(error, response, html) {
+      if (!error) {
+        let $ = cheerio.load(html)
 
-      n_pages = Math.ceil(max_pages / items_per_page)
-      // n_pages = 1
-      // console.log(n_pages)
+        maxPages = parseInt(
+          $('.game_count')
+            .text()
+            .match(/[0-9.,]+/g)[0]
+            .replace(',', '')
+        )
 
-      var urls = []
-      for (let i = 1; i < n_pages + 1; i++) {
-        let url = base_url + '?page=' + i
-        urls.push(url)
-      }
+        nPages = Math.ceil(maxPages / itemsPerPage)
+        // nPages = 1
 
-      var scrapers = urls.map(scraper, 10)
-
-      Promise.all(scrapers).then(
-        function(scrapes) {
-          if (noResults.length) {
-            console.log()
-            console.log(noResults)
-          }
-
-          // "scrapes" collects the results from all pages.
-          scrapes = flattenDeep(scrapes)
-
-          writeJSON(scrapes, 'all')
-        },
-        function(error) {
-          // At least one of them went wrong.
-          console.log('error', error)
+        let urls = []
+        for (let i = 1; i < nPages + 1; i++) {
+          const url = baseURL + scrapeURL + '?page=' + i
+          urls.push({
+            id: i,
+            maxPages: maxPages,
+            nPages: nPages,
+            url: url,
+          })
         }
-      )
-    }
-  })
+
+        let scrapers = urls.map(scraper)
+
+        Promise.all(scrapers).then(
+          function(scrapes) {
+            if (noResults.length) {
+              console.log()
+              console.log(noResults)
+            }
+
+            // "scrapes" collects the results from all pages.
+            scrapes = flattenDeep(scrapes)
+
+            writeJSON(scrapes, '.tmp/' + scrapeURL)
+
+            promisesDone++
+
+            if (promisesDone == scrapeURLS.length) {
+              console.log('DONE!')
+
+              let arr1 = readJSON('.tmp/' + scrapeURLS[0] + '.json')
+              let arr2 = readJSON('.tmp/' + scrapeURLS[1] + '.json')
+
+              arr1 = arr1.concat(arr2) // merge two arrays
+
+              let foo = new Map()
+              for (const key of arr1) {
+                foo.set(key.title, key)
+              }
+              let final = [...foo.values()]
+
+              writeJSON(final, 'all')
+            }
+          },
+          function(error) {
+            // At least one of them went wrong.
+            console.log('error', error)
+          }
+        )
+      }
+    })
+  }
 }
 
 getAllGames()
