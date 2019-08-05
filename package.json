@@ -4,9 +4,9 @@
   "description": "Scrape Godot games on itch.io",
   "main": "index.js",
   "scripts": {
-    "start": "node -r dotenv/config index.js",
-    "dev": "nodemon -r dotenv/config index.js",
-    "get-all-games": "node -r dotenv/config get-all-games.js"
+    "start": "NODE_ENV=production node index.js",
+    "dev": "NODE_ENV=development nodemon index.js",
+    "get-all-games": "node get-all-games.js"
   },
   "author": "hiulit",
   "license": "MIT",
