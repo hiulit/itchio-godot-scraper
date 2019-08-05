@@ -6,7 +6,7 @@
   "scripts": {
     "start": "NODE_ENV=production node index.js",
     "dev": "NODE_ENV=development nodemon index.js",
-    "get-all-games": "node get-all-games.js"
+    "update-games": "node update-games.js"
   },
   "author": "hiulit",
   "license": "MIT",
