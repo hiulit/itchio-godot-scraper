@@ -1,11 +1,6 @@
 {
   "version": 2,
   "name": "itchio-godot-scraper",
-  "env": {
-    "API_URL": "@api-url",
-    "PORT": "@port",
-    "SCRAPER_URL": "@scraper-url"
-  },
   "builds": [
     {
       "src": "index.js",
