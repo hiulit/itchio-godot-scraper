@@ -2,13 +2,18 @@ const cors = require('cors')
 const express = require('express')
 const fetch = require('node-fetch')
 
-const apiUrl = process.env.API_URL
-const port = process.env.PORT
-
 const app = express()
+const port = 5000
+
+if (process.env.NODE_ENV === 'development') app.use(express.static(__dirname))
 
 app.set('port', port)
 app.use(cors())
+
+const apiUrl =
+  process.env.NODE_ENV === 'development'
+    ? 'http://localhost:' + port + '/all.json'
+    : 'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/all.json'
 
 async function getGames () {
   const response = await fetch(apiUrl)
@@ -52,6 +57,25 @@ app.get('/api/author/:author', function (req, res) {
       }
     }
     res.json(gamesByAuthor)
+  })
+})
+
+app.get('/api/platforms', (req, res) => {
+  getGames().then(games => {
+    let platforms = []
+
+    for (let i = 0; i < games.length; i++) {
+      const game = games[i]
+
+      for (let j = 0; j < game.platforms.length; j++) {
+        const platform = game.platforms[j]
+
+        if (!platforms.includes(platform)) {
+          platforms.push(platform)
+        }
+      }
+    }
+    res.json(platforms)
   })
 })
 
