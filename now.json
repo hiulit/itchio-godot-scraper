@@ -16,6 +16,20 @@
       ]
     },
     {
+      "src": "/api/games",
+      "dest": "/index.js",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/api/game/(?<title>[^/]+)",
+      "dest": "/index.js?title=$1",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
       "src": "/api/authors",
       "dest": "/index.js",
       "methods": [

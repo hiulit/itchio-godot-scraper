@@ -30,6 +30,36 @@ app.get('/api', (req, res) => {
   })
 })
 
+app.get('/api/games', (req, res) => {
+  getGames().then(games => {
+    let title = []
+
+    for (let i = 0; i < games.length; i++) {
+      const game = games[i]
+
+      if (!title.includes(game.title)) {
+        title.push(game.title)
+      }
+    }
+    res.json(title)
+  })
+})
+
+app.get('/api/game/:title', function (req, res) {
+  getGames().then(games => {
+    let gamesByTitle = []
+
+    for (let i = 0; i < games.length; i++) {
+      const game = games[i]
+
+      if (game.title.toUpperCase() === req.params.title.toUpperCase()) {
+        gamesByTitle.push(game)
+      }
+    }
+    res.json(gamesByTitle)
+  })
+})
+
 app.get('/api/authors', (req, res) => {
   getGames().then(games => {
     let authors = []
