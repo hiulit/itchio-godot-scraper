@@ -35,6 +35,13 @@
       ]
     },
     {
+      "src": "/api/platforms",
+      "dest": "/index.js",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
       "src": "/api/platform/(?<platform>[^/]+)",
       "dest": "/index.js?platform=$1",
       "methods": [
