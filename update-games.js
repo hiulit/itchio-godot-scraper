@@ -26,6 +26,14 @@ function flattenDeep(arr) {
   )
 }
 
+function sortByKey (array, key) {
+  return array.sort(function (a, b) {
+    var x = a[key]
+    var y = b[key]
+    return x < y ? -1 : x > y ? 1 : 0
+  })
+}
+
 function readJSON(path) {
   try {
     return JSON.parse(fs.readFileSync(path, 'utf8'))
@@ -183,6 +191,8 @@ function getAllGames() {
                 foo.set(key.title, key)
               }
               let final = [...foo.values()]
+
+              final = sortByKey(final, 'id')
 
               writeJSON(final, 'all')
             }
