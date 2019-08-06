@@ -78,16 +78,12 @@ function scraper(url) {
             game.author = $(elem)
               .find('.game_cell_data .game_author')
               .text()
+
             game.description = $(elem)
               .find('.game_cell_data .game_text')
               .text()
+
             game.id = $(elem).attr('data-game_id')
-            game.thumb = $(elem)
-              .find('.game_thumb')
-              .attr('data-background_image')
-            game.title = $(elem)
-              .find('.game_cell_data .game_title .title.game_link')
-              .text()
 
             let platforms = []
             $(elem)
@@ -101,6 +97,18 @@ function scraper(url) {
                 }
               })
             game.platforms = platforms
+
+            game.thumb = $(elem)
+              .find('.game_thumb')
+              .attr('data-background_image')
+
+            game.title = $(elem)
+              .find('.game_cell_data .game_title .title.game_link')
+              .text()
+
+            game.video = $(elem)
+              .find('.game_thumb .gif_overlay')
+              .attr('data-gif')
 
             results.push(game)
           })
