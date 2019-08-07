@@ -11755,11 +11755,11 @@
     "id": "323953",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIxMDc1ODYucG5n/315x250%23c/%2BL0sV2.png",
-    "title": "SuperstarFighter v0.4.1"
+    "title": "SuperstarFighter v0.5"
   },
   {
     "author": "FeronyGames",
@@ -21541,9 +21541,13 @@
     "author": "Kinoko Brothers",
     "description": "A 60-Second Detective Story.",
     "id": "464832",
-    "platforms": [],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzIzNjc2NjIucG5n/315x250%23c/uDY2wS.png",
-    "title": "Alibi - Post GMTK GameJam Web Version"
+    "title": "Alibi - Updated"
   },
   {
     "author": "puppetmaster",
