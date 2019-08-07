@@ -26,8 +26,8 @@ function flattenDeep(arr) {
   )
 }
 
-function sortByKey (array, key) {
-  return array.sort(function (a, b) {
+function sortByKey(array, key) {
+  return array.sort(function(a, b) {
     var x = a[key]
     var y = b[key]
     return x < y ? -1 : x > y ? 1 : 0
@@ -86,12 +86,20 @@ function scraper(url) {
             game.author = $(elem)
               .find('.game_cell_data .game_author')
               .text()
+            game.author = game.author ? game.author : null
 
             game.description = $(elem)
               .find('.game_cell_data .game_text')
               .text()
+            game.description = game.description ? game.description : null
+
+            game.genre = $(elem)
+              .find('.game_cell_data .game_genre')
+              .text()
+            game.genre = game.genre ? game.genre : null
 
             game.id = $(elem).attr('data-game_id')
+            game.id = game.id ? game.id : null
 
             let platforms = []
             $(elem)
@@ -104,19 +112,22 @@ function scraper(url) {
                   platforms.push(platform)
                 }
               })
-            game.platforms = platforms
+            game.platforms = platforms.length ? platforms : null
 
             game.thumb = $(elem)
               .find('.game_thumb')
               .attr('data-background_image')
+            game.thumb = game.thumb ? game.thumb : null
 
             game.title = $(elem)
               .find('.game_cell_data .game_title .title.game_link')
               .text()
+            game.title = game.title ? game.title : null
 
             game.video = $(elem)
               .find('.game_thumb .gif_overlay')
               .attr('data-gif')
+            game.video = game.video ? game.video : null
 
             results.push(game)
           })

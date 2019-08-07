@@ -52,7 +52,11 @@ app.get('/api/game/:title', function (req, res) {
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
-      if (game.title.toUpperCase() === req.params.title.toUpperCase()) {
+      if (
+        game.title.toUpperCase() === req.params.title.toUpperCase() ||
+        game.title.toUpperCase().includes(req.params.title.toUpperCase()) ||
+        req.params.title.toUpperCase().includes(game.title.toUpperCase())
+      ) {
         gamesByTitle.push(game)
       }
     }
