@@ -7058,7 +7058,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMjU3MDczLzEyNDgyNzIucG5n/315x250%23c/Dh1FIF.png",
     "title": "RGB Blaster",
@@ -10381,7 +10382,7 @@
     "video": null
   },
   {
-    "author": "shellbot",
+    "author": "shelsoloa",
     "description": "Endless Drifting in SPACE! For LD42",
     "genre": "Action",
     "id": "290492",
@@ -13818,8 +13819,8 @@
     "id": "323953",
     "platforms": [
       "Windows",
-      "macOS",
-      "Android"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIxMDc1ODYucG5n/315x250%23c/%2BL0sV2.png",
     "title": "SuperstarFighter v0.5",
@@ -16691,6 +16692,20 @@
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE3OTUxNDgucG5n/315x250%23c/uymCvS.png",
     "title": "X-mas Balls (godot)",
+    "video": null
+  },
+  {
+    "author": "marcjv",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "359536",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3OTY5ODMucG5n/315x250%23c/1JBhdx.png",
+    "title": "Piggy48",
     "video": null
   },
   {
@@ -24772,6 +24787,20 @@
     "video": "https://img.itch.zone/aW1nLzIzNDcwNzEuZ2lm/original/ZKLLDC.gif"
   },
   {
+    "author": "Justo Delgado",
+    "description": null,
+    "genre": null,
+    "id": "461444",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNDczNzEucG5n/315x250%23c/i%2BcgKU.png",
+    "title": "Only One Finger Driver \"MARK\"",
+    "video": null
+  },
+  {
     "author": "IndieBullet",
     "description": "A game in which death is Inevitable, but how long can you avoid it?",
     "genre": "Survival",
@@ -25150,6 +25179,32 @@
     "video": null
   },
   {
+    "author": "Njamster",
+    "description": "You can hold ONLY ONE key of each color!",
+    "genre": "Puzzle",
+    "id": "462607",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNTQ3MDYucG5n/315x250%23c/97qnrr.png",
+    "title": "Wonkey",
+    "video": null
+  },
+  {
+    "author": "sztrovacsek",
+    "description": "Created for the GMTK Game Jam 2019",
+    "genre": "Survival",
+    "id": "462640",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNTMxNzIucG5n/315x250%23c/YClGVE.png",
+    "title": "Run or Gun",
+    "video": null
+  },
+  {
     "author": "Robert7301201",
     "description": "A rover exploring an unknown planet discovers a strange creature.",
     "genre": "Survival",
@@ -25385,6 +25440,19 @@
     "video": null
   },
   {
+    "author": "pawn_games",
+    "description": "Chess + Fantasy",
+    "genre": null,
+    "id": "464630",
+    "platforms": [
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNjU2OTEucG5n/315x250%23c/ZBroP8.png",
+    "title": "Fantasy Chess",
+    "video": null
+  },
+  {
     "author": "Kinoko Brothers",
     "description": "A 60-Second Detective Story.",
     "genre": "Puzzle",
@@ -25396,6 +25464,32 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNjc2NjIucG5n/315x250%23c/uDY2wS.png",
     "title": "Alibi - Updated",
+    "video": null
+  },
+  {
+    "author": "brokenkey",
+    "description": "Magical procedural gardening sim",
+    "genre": "Adventure",
+    "id": "465499",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNzMxNDgucG5n/315x250%23c/vG9R%2BX.png",
+    "title": "Magic Wizard Garden",
+    "video": null
+  },
+  {
+    "author": "Ingenious Gaming",
+    "description": "A cookie clicker clone",
+    "genre": null,
+    "id": "465535",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNzM0NTkucG5n/315x250%23c/T9Ozde.png",
+    "title": "Villian Clicker",
     "video": null
   },
   {
