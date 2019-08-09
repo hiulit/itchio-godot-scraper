@@ -101,6 +101,11 @@ function scraper(url) {
             game.id = $(elem).attr('data-game_id')
             game.id = game.id ? game.id : null
 
+            game.link = $(elem)
+              .find('.game_cell_data .game_title .title.game_link')
+              .attr('href')
+            game.link = game.link ? game.link : null
+
             let platforms = []
             $(elem)
               .find('.game_cell_data .game_platform')
