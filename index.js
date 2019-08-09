@@ -1,3 +1,4 @@
+const cheerio = require('cheerio')
 const cors = require('cors')
 const express = require('express')
 const fetch = require('node-fetch')
@@ -18,6 +19,11 @@ const apiUrl =
 async function getGames () {
   const response = await fetch(apiUrl)
   return response.json()
+}
+
+async function getGame (url) {
+  const response = await fetch(url)
+  return response.text()
 }
 
 app.get('/', (req, res) => {
@@ -57,10 +63,16 @@ app.get('/api/game/:title', function (req, res) {
         game.title.toUpperCase().includes(req.params.title.toUpperCase()) ||
         req.params.title.toUpperCase().includes(game.title.toUpperCase())
       ) {
-        gamesByTitle.push(game)
+        console.log(game.link)
+        getGame(game.link).then(body => {
+          let $ = cheerio.load(body)
+          let rating = $('.aggregate_rating').attr('title')
+          game['rating'] = rating
+          gamesByTitle.push(game)
+          res.json(gamesByTitle)
+        })
       }
     }
-    res.json(gamesByTitle)
   })
 })
 
