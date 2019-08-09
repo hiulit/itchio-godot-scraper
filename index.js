@@ -53,6 +53,7 @@ app.get('/api/games', (req, res) => {
 
 app.get('/api/game/:title', function (req, res) {
   getGames().then(games => {
+    let promiseArray = []
     let gamesByTitle = []
 
     for (let i = 0; i < games.length; i++) {
@@ -63,16 +64,27 @@ app.get('/api/game/:title', function (req, res) {
         game.title.toUpperCase().includes(req.params.title.toUpperCase()) ||
         req.params.title.toUpperCase().includes(game.title.toUpperCase())
       ) {
-        console.log(game.link)
-        getGame(game.link).then(body => {
-          let $ = cheerio.load(body)
-          let rating = $('.aggregate_rating').attr('title')
-          game['rating'] = rating
-          gamesByTitle.push(game)
-          res.json(gamesByTitle)
-        })
+        // console.log(game.link)
+        promiseArray.push(
+          getGame(game.link).then(body => {
+            let $ = cheerio.load(body)
+            let rating = $('.aggregate_rating').attr('title')
+            if (rating) {
+              game['rating'] = rating
+            }
+            gamesByTitle.push(game)
+            // console.log(gamesByTitle)
+            return game
+          })
+        )
       }
     }
+    // console.log(Promise.all(promiseArray))
+    // res.json(gamesByTitle)
+    Promise.all(promiseArray).then(function (response) {
+      // console.log(response)
+      res.json(response)
+    })
   })
 })
 
