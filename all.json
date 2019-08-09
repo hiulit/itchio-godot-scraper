@@ -19812,7 +19812,7 @@
     "video": null
   },
   {
-    "author": "Chris DiFazio",
+    "author": "gamedevlibrarian",
     "description": "Collect stars to rebuild the constellations.",
     "genre": "Platformer",
     "id": "404630",
@@ -23869,19 +23869,6 @@
     "video": null
   },
   {
-    "author": "Fortoj",
-    "description": "An ongoing platformer game (only three levels currently available)",
-    "genre": "Platformer",
-    "id": "451489",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyODc2NzEuanBn/315x250%23c/vRWWGG.jpg",
-    "title": "Draftform",
-    "video": null
-  },
-  {
     "author": "Tzoop",
     "description": "memory skill game",
     "genre": null,
@@ -24364,6 +24351,19 @@
     "video": null
   },
   {
+    "author": "Cammymoop",
+    "description": "You're a slime. A buildslime!",
+    "genre": "Simulation",
+    "id": "456741",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNzA3MTIucG5n/315x250%23c/4SqGkm.png",
+    "title": "Buildslime",
+    "video": null
+  },
+  {
     "author": "NightBlade",
     "description": "Procedurally-generated mini-RPG with memory-based battle mechanics",
     "genre": "Role Playing",
@@ -24666,6 +24666,18 @@
     "video": null
   },
   {
+    "author": "Sciman101",
+    "description": "Survive, banished to the Blade Pit - Made for the GMTK 2019 Jam",
+    "genre": "Action",
+    "id": "460933",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNDUxODgucG5n/315x250%23c/PioqAk.png",
+    "title": "Blade Pit",
+    "video": null
+  },
+  {
     "author": "ShinGensou",
     "description": "An item juggling Gnome decides to go on adventure.",
     "genre": "Action",
@@ -24931,7 +24943,10 @@
     "description": "Why I don't have a face you ask? Have you ever seen a damn tree with a face?",
     "genre": "Fighting",
     "id": "461842",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzIzNDkzNzgucG5n/315x250%23c/5eGyTM.png",
     "title": "UNWANTED POWER (S) : Treant Rampage",
     "video": null
@@ -25448,7 +25463,7 @@
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNjU2OTEucG5n/315x250%23c/ZBroP8.png",
+    "thumb": "https://img.itch.zone/aW1nLzIzNzY1ODMucG5n/315x250%23c/CWegJF.png",
     "title": "Fantasy Chess",
     "video": null
   },
@@ -25490,6 +25505,16 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNzM0NTkucG5n/315x250%23c/T9Ozde.png",
     "title": "Villian Clicker",
+    "video": null
+  },
+  {
+    "author": "jjramos",
+    "description": "Defeat the giant (pixeled) beast! Be a ninja, and combat it from the city roofs.",
+    "genre": "Action",
+    "id": "465771",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzNzUzNTQucG5n/315x250%23c/44gNZB.png",
+    "title": "Ninja64",
     "video": null
   },
   {
