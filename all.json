@@ -6608,7 +6608,7 @@
     "description": "Tactical Horticulture Simulator",
     "genre": "Action",
     "id": "248785",
-    "link": "https://randomhuman.itch.io/guerrilla-gardening",
+    "link": "https://hyperlinkyourheart.itch.io/guerrilla-gardening",
     "platforms": [
       "Windows",
       "Linux",
@@ -9913,7 +9913,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIyNDEwNDgucG5n/315x250%23c/c6ASwn.png",
+    "thumb": "https://img.itch.zone/aW1nLzIzNzc4NTkucG5n/315x250%23c/aUbPvd.png",
     "title": "ColCon",
     "video": null
   },
@@ -22323,7 +22323,7 @@
     "description": null,
     "genre": "Action",
     "id": "413504",
-    "link": "https://randomhuman.itch.io/people-poker",
+    "link": "https://hyperlinkyourheart.itch.io/people-poker",
     "platforms": [
       "Windows",
       "Linux",
@@ -24961,6 +24961,20 @@
     "video": "https://img.itch.zone/aW1nLzIyMjYzMTkuZ2lm/original/Z3j7df.gif"
   },
   {
+    "author": "PhantasmagoriaGames",
+    "description": null,
+    "genre": "Shooter",
+    "id": "442605",
+    "link": "https://phantasmagoriagames.itch.io/something-something-asteroids",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzMTY5MDMucG5n/315x250%23c/onWNj8.png",
+    "title": "Something Something Asteroids",
+    "video": null
+  },
+  {
     "author": "Thor Merlin Lervik",
     "description": null,
     "genre": null,
@@ -25765,6 +25779,21 @@
     "video": null
   },
   {
+    "author": "Fortoj",
+    "description": "An ongoing platformer game (only three levels currently available)",
+    "genre": "Platformer",
+    "id": "451489",
+    "link": "https://fortoj.itch.io/draftform",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyODc2NzEuanBn/315x250%23c/vRWWGG.jpg",
+    "title": "Draftform",
+    "video": null
+  },
+  {
     "author": "Tzoop",
     "description": "memory skill game",
     "genre": null,
@@ -26322,6 +26351,17 @@
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIzMjA0NjIucG5n/315x250%23c/ftrjOn.png",
     "title": "One click",
+    "video": null
+  },
+  {
+    "author": "Memodol",
+    "description": "A Short and Sweet Roguelite made in a month.",
+    "genre": "Platformer",
+    "id": "456961",
+    "link": "https://memodol.itch.io/sugar-rush",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzMjA3NzcucG5n/315x250%23c/PC2YPj.png",
+    "title": "Sugar Rush",
     "video": null
   },
   {
@@ -27019,7 +27059,7 @@
     "video": null
   },
   {
-    "author": "mrsamsh",
+    "author": "UsamaSh",
     "description": "Can you solve one maze?",
     "genre": "Puzzle",
     "id": "462103",
@@ -27051,7 +27091,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTMwMTkucG5n/315x250%23c/fMjLZe.png",
+    "thumb": "https://img.itch.zone/aW1nLzIzNzk0MTQuanBn/315x250%23c/pd7nmc.jpg",
     "title": "Alibi",
     "video": null
   },
@@ -27094,6 +27134,19 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNTg5NTEucG5n/315x250%23c/21j5kl.png",
     "title": "Lurking in the Dark",
+    "video": null
+  },
+  {
+    "author": "999devstudio",
+    "description": null,
+    "genre": "Platformer",
+    "id": "462265",
+    "link": "https://999devstudio.itch.io/escape-from-51",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNjQyMzcucG5n/315x250%23c/ycd7Dc.png",
+    "title": "Escape From 51",
     "video": null
   },
   {
@@ -27371,7 +27424,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTUwNzQuanBn/315x250%23c/8uaRfm.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzIzNzg1MjAucG5n/315x250%23c/GgHqoH.png",
     "title": "Sapro Fight",
     "video": null
   },
@@ -27502,7 +27555,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNjc2NjIucG5n/315x250%23c/uDY2wS.png",
+    "thumb": "https://img.itch.zone/aW1nLzIzNzk0MTYuanBn/315x250%23c/ZiFpKa.jpg",
     "title": "Alibi - Updated",
     "video": null
   },
@@ -27543,6 +27596,57 @@
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIzNzUzNTQucG5n/315x250%23c/44gNZB.png",
     "title": "Ninja64",
+    "video": null
+  },
+  {
+    "author": "francek",
+    "description": "Shared-screen Bomberman-inspired game.",
+    "genre": "Action",
+    "id": "466272",
+    "link": "https://francek.itch.io/bomberboys",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNzg2MTYucG5n/315x250%23c/53F948.png",
+    "title": "Bomberboys",
+    "video": null
+  },
+  {
+    "author": "Whiskydog",
+    "description": "Verticality based 256x256 puzzle platform",
+    "genre": "Platformer",
+    "id": "466394",
+    "link": "https://whiskydog.itch.io/ascensoris",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNzkzNzIucG5n/315x250%23c/QRJurW.png",
+    "title": "Ascensoris",
+    "video": null
+  },
+  {
+    "author": "NightmareElixir",
+    "description": "Gotta dodge em' all!",
+    "genre": null,
+    "id": "466562",
+    "link": "https://nightmareelixir.itch.io/tap-tap-arrow-tta",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzODA1NjkucG5n/315x250%23c/hY50I%2B.png",
+    "title": "Tap Tap Arrow - TTA",
+    "video": null
+  },
+  {
+    "author": "Maj_Zore",
+    "description": "This is a guide thru most lgbtq+ identities and terms and such.",
+    "genre": "Visual Novel",
+    "id": "466669",
+    "link": "https://maj-zore.itch.io/lgbtq-plus-guide",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzODEzNjIucG5n/315x250%23c/0QwDfh.png",
+    "title": "LGBTQ+ guide",
     "video": null
   },
   {
