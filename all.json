@@ -14920,7 +14920,7 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIxMDc1ODYucG5n/315x250%23c/%2BL0sV2.png",
-    "title": "SuperstarFighter v0.5",
+    "title": "SuperStarfighter v0.5",
     "video": null
   },
   {
@@ -19697,20 +19697,6 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE4OTQ3NTUuanBn/315x250%23c/LOnTeG.jpg",
     "title": "Dragonfly",
-    "video": null
-  },
-  {
-    "author": "devharts",
-    "description": "[Alakajam #5] Click as many blocks as you can!",
-    "genre": "Puzzle",
-    "id": "376515",
-    "link": "https://devharts.itch.io/magic-refinery",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE4ODUwNTgucG5n/315x250%23c/63ityS.png",
-    "title": "Magic Refinery",
     "video": null
   },
   {
@@ -26972,6 +26958,17 @@
     "thumb": "https://img.itch.zone/aW1nLzIzNTgxODMucG5n/315x250%23c/CxYy36.png",
     "title": "1D Sidescroller",
     "video": null
+  },
+  {
+    "author": "SimpleTeam",
+    "description": "GMTK-Jam  2019",
+    "genre": "Puzzle",
+    "id": "461770",
+    "link": "https://simple-team.itch.io/its-mine",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzNjAwMjkuZ2lm/315x250%23cm/zXT1mq.gif",
+    "title": "IT'S MINE",
+    "video": "https://img.itch.zone/aW1nLzIzNjAwMjkuZ2lm/original/REmcbF.gif"
   },
   {
     "author": "BuendiaGames",
