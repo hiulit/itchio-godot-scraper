@@ -24961,6 +24961,21 @@
     "video": "https://img.itch.zone/aW1nLzIyMjYzMTkuZ2lm/original/Z3j7df.gif"
   },
   {
+    "author": "Nihil Aleph",
+    "description": "Positive and negative; Attraction and repulsion; Avoid destruction find neutrality.",
+    "genre": "Puzzle",
+    "id": "442317",
+    "link": "https://nihilaleph.itch.io/positron",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyNjYwODgucG5n/315x250%23c/Hvmhc%2B.png",
+    "title": "Positron",
+    "video": null
+  },
+  {
     "author": "PhantasmagoriaGames",
     "description": null,
     "genre": "Shooter",
@@ -26416,6 +26431,17 @@
     "video": null
   },
   {
+    "author": "Wendal",
+    "description": "Avoid death by overwhelming coinage",
+    "genre": "Educational",
+    "id": "457434",
+    "link": "https://wendal.itch.io/japanese-money-simulator",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzNzk4OTgucG5n/315x250%23c/x6kBfc.png",
+    "title": "Japanese Money Simulator",
+    "video": null
+  },
+  {
     "author": "phinus221",
     "description": "Platformer",
     "genre": "Platformer",
@@ -26488,6 +26514,20 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzMzQ2MjkucG5n/315x250%23c/tkor1s.png",
     "title": "50 Years Later",
+    "video": null
+  },
+  {
+    "author": "rafalkowalski",
+    "description": "Simple platform game for kids",
+    "genre": "Platformer",
+    "id": "459142",
+    "link": "https://rafalkowalski.itch.io/happy-fox",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzODYxMjcuanBn/315x250%23c/jT8W5o.jpg",
+    "title": "Happy Fox",
     "video": null
   },
   {
@@ -26710,7 +26750,9 @@
     "genre": "Action",
     "id": "461035",
     "link": "https://durbo.itch.io/ctype",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzIzNDU3NDYucG5n/315x250%23c/YWn8Om.png",
     "title": "C|TYPE",
     "video": null
@@ -27076,7 +27118,8 @@
     "id": "462202",
     "link": "https://weijiunlim.itch.io/one-click-sandwich-hero",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNTE3MTYuZ2lm/315x250%23cm/q5%2F0Vg.gif",
     "title": "One Click Sandwich Hero",
@@ -27192,6 +27235,21 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNTE4MDQucG5n/315x250%23c/SSJ2W1.png",
     "title": "Onederful Wizard",
+    "video": null
+  },
+  {
+    "author": "Tim Krief",
+    "description": "Only one room. Keep it safe. Avoid damaging it.",
+    "genre": "Action",
+    "id": "462421",
+    "link": "https://timkrief.itch.io/the-last-safe-room",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNjY4NzQucG5n/315x250%23c/d0YzGa.png",
+    "title": "The Last Safe Room",
     "video": null
   },
   {
@@ -27648,6 +27706,46 @@
     "thumb": "https://img.itch.zone/aW1nLzIzODEzNjIucG5n/315x250%23c/0QwDfh.png",
     "title": "LGBTQ+ guide",
     "video": null
+  },
+  {
+    "author": "guizero",
+    "description": "Maintain the balance between the energies of light and dark",
+    "genre": "Action",
+    "id": "467032",
+    "link": "https://guizero.itch.io/the-sage-of-equilibrium",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzODM5OTkuZ2lm/315x250%23cm/IyhWVf.gif",
+    "title": "The Sage of Equilibrium",
+    "video": "https://img.itch.zone/aW1nLzIzODM5OTkuZ2lm/original/F3jpDf.gif"
+  },
+  {
+    "author": "snarmph",
+    "description": "Find the two objects that fit the absurd questions of your clients",
+    "genre": "Puzzle",
+    "id": "467243",
+    "link": "https://snarmph.itch.io/picky-clients",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzODUzNTQuZ2lm/315x250%23cm/Df%2Fr9L.gif",
+    "title": "Picky clients",
+    "video": "https://img.itch.zone/aW1nLzIzODUzNTQuZ2lm/original/aUtNYM.gif"
+  },
+  {
+    "author": "333games",
+    "description": null,
+    "genre": "Adventure",
+    "id": "467342",
+    "link": "https://333games.itch.io/abdo-alrahmandemo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzODYyMjUuZ2lm/315x250%23cm/75sdoQ.gif",
+    "title": "abdo alrahman(demo)",
+    "video": "https://img.itch.zone/aW1nLzIzODYyMjUuZ2lm/original/E0KcH6.gif"
   },
   {
     "author": "puppetmaster",
