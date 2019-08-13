@@ -134,6 +134,25 @@ function scraper(url) {
               .attr('data-gif')
             game.video = game.video ? game.video : null
 
+            let scrapeWords = game.title
+            // Remove special characters
+            scrapeWords = scrapeWords.replace(
+              /[&\/\\#,+()$~%.'":*!¡?¿<>{}@]/g,
+              ''
+            )
+            // Separate camelCase words
+            scrapeWords = scrapeWords.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
+            // Create an array of words separated by spaces
+            scrapeWords = scrapeWords.split(' ')
+            // Remove some values from the array
+            scrapeWords = scrapeWords.filter(function(el) {
+              return el !== (undefined || null || '' || '-' || '_')
+            })
+
+            // console.log(scrapeWords)
+            game.scrapeWords = scrapeWords
+            game.scrapeWords = scrapeWords.length ? scrapeWords : null
+
             results.push(game)
           })
         } else {
