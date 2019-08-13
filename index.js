@@ -54,17 +54,22 @@ app.get('/api/games', (req, res) => {
 app.get('/api/game/:title', function (req, res) {
   getGames().then(games => {
     let promiseArray = []
-    let gamesByTitle = []
+    // let gamesByTitle = []
 
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
-      if (
-        game.title.toUpperCase() === req.params.title.toUpperCase() ||
-        game.title.toUpperCase().includes(req.params.title.toUpperCase()) ||
-        req.params.title.toUpperCase().includes(game.title.toUpperCase())
-      ) {
-        // console.log(game.link)
+      let gameTitleRequest = req.params.title.toUpperCase().split(' ')
+      let scrapeWords = game.scrapeWords.map(function (x) {
+        return x.toUpperCase()
+      })
+      // How many words match
+      let intersection = gameTitleRequest.filter(element =>
+        scrapeWords.includes(element)
+      )
+      game.intersection = intersection.length
+
+      if (intersection.length) {
         promiseArray.push(
           getGame(game.link).then(body => {
             let $ = cheerio.load(body)
@@ -72,18 +77,56 @@ app.get('/api/game/:title', function (req, res) {
             if (rating) {
               game['rating'] = rating
             }
-            gamesByTitle.push(game)
+            // gamesByTitle.push(game)
             // console.log(gamesByTitle)
             return game
           })
         )
       }
+
+      // if (
+      //   // TO DO
+      //   // If same word found, check the length of the word to determine it's more valid.
+      //   game.title.toUpperCase() === req.params.title.toUpperCase() ||
+      //   game.title.toUpperCase().includes(req.params.title.toUpperCase()) ||
+      //   req.params.title.toUpperCase().includes(game.title.toUpperCase())
+      // ) {
+      //   // console.log(game.link)
+      //   promiseArray.push(
+      //     getGame(game.link).then(body => {
+      //       let $ = cheerio.load(body)
+      //       let rating = $('.aggregate_rating').attr('title')
+      //       if (rating) {
+      //         game['rating'] = rating
+      //       }
+      //       gamesByTitle.push(game)
+      //       // console.log(gamesByTitle)
+      //       return game
+      //     })
+      //   )
+      // }
     }
     // console.log(Promise.all(promiseArray))
     // res.json(gamesByTitle)
     Promise.all(promiseArray).then(function (response) {
-      // console.log(response)
-      res.json(response)
+      let finalGame
+      let intersections = []
+
+      for (let i = 0; i < response.length; i++) {
+        const elem = response[i]
+        if (elem.scrapeWords.length === elem.intersection) {
+          finalGame = elem
+          break
+        }
+        intersections.push(elem.intersection)
+      }
+      if (finalGame) {
+        res.json(finalGame)
+      } else if (intersections.length) {
+        res.json(response[intersections.indexOf(Math.max(...intersections))]) // Return only the game with the greatest intersection number
+      } else {
+        res.json({})
+      }
     })
   })
 })
