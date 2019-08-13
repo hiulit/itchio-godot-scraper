@@ -59,10 +59,17 @@ app.get('/api/game/:title', function (req, res) {
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
-      let gameTitleRequest = req.params.title.toUpperCase().split(' ')
+      let gameTitleRequest = req.params.title
+      gameTitleRequest = gameTitleRequest.replace(/([a-z0-9])([A-Z])/g, '$1 $2') // Split camelCase words
+      gameTitleRequest = gameTitleRequest.split(' ') // Split words separated by spaces
+      gameTitleRequest = gameTitleRequest.map(function (x) {
+        return x.toUpperCase()
+      })
+
       let scrapeWords = game.scrapeWords.map(function (x) {
         return x.toUpperCase()
       })
+
       // How many words match
       let intersection = gameTitleRequest.filter(element =>
         scrapeWords.includes(element)
