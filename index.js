@@ -116,20 +116,20 @@ app.get('/api/game/:title', function (req, res) {
     // console.log(Promise.all(promiseArray))
     // res.json(gamesByTitle)
     Promise.all(promiseArray).then(function (response) {
-      let finalGame
+      console.log(response)
+      // let finalGame
       let intersections = []
 
       for (let i = 0; i < response.length; i++) {
         const elem = response[i]
-        if (elem.scrapeWords.length === elem.intersection) {
-          finalGame = elem
-          break
-        }
+        // if (elem.scrapeWords.length === elem.intersection) {
+        //   finalGame = elem
+        //   break
+        // }
         intersections.push(elem.intersection)
       }
-      if (finalGame) {
-        res.json(finalGame)
-      } else if (intersections.length) {
+      
+      if (intersections.length) {
         res.json(response[intersections.indexOf(Math.max(...intersections))]) // Return only the game with the greatest intersection number
       } else {
         res.json({})
