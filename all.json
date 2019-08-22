@@ -16722,6 +16722,26 @@
     ]
   },
   {
+    "author": "Zephilinox",
+    "description": "Made for https://tildes.net/~comp/5li/programming_challenge_make_a_game_in_1_hour",
+    "genre": "Shooter",
+    "id": "297634",
+    "link": "https://zephilinox.itch.io/tildes-1-hour-game",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": null,
+    "title": "Tildes 1-hour game",
+    "video": null,
+    "scrapeWords": [
+      "Tildes",
+      "1-hour",
+      "game"
+    ]
+  },
+  {
     "author": "acvarium",
     "description": null,
     "genre": "Card Game",
@@ -24059,11 +24079,11 @@
     ]
   },
   {
-    "author": "marcjv",
+    "author": "Good Morning Games!",
     "description": null,
     "genre": "Puzzle",
     "id": "359536",
-    "link": "https://marcjv.itch.io/piggy48",
+    "link": "https://gm-games.itch.io/piggy48",
     "platforms": [
       "Windows",
       "macOS",
@@ -24277,28 +24297,6 @@
       "the",
       "Heart",
       "is"
-    ]
-  },
-  {
-    "author": "A Coniferous Chair",
-    "description": "Don't let the gremlins steal your hot water",
-    "genre": null,
-    "id": "361243",
-    "link": "https://a-coniferous-chair.itch.io/shower-simulator",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE4MDYyNTEucG5n/315x250%23c/ZBc1rw.png",
-    "title": "SHOWER SIMULATOR 2019 NAKED AND AFRAID EDITION",
-    "video": null,
-    "scrapeWords": [
-      "SHOWER",
-      "SIMULATOR",
-      "2019",
-      "NAKED",
-      "AND",
-      "AFRAID",
-      "EDITION"
     ]
   },
   {
@@ -34406,8 +34404,7 @@
     "link": "https://levrault.itch.io/godot-2d-action-adventure-platformer-demo",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIyODMxNjgucG5n/315x250%23c/yiih5Z.png",
     "title": "Godot 2d action adventure platformer demo",
@@ -36875,24 +36872,6 @@
     ]
   },
   {
-    "author": "Risemack",
-    "description": null,
-    "genre": "Adventure",
-    "id": "463634",
-    "link": "https://risemack.itch.io/mostly-friendly-monsters",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTMyMzkucG5n/315x250%23c/Mq13R3.png",
-    "title": "Mostly Friendly Monsters",
-    "video": null,
-    "scrapeWords": [
-      "Mostly",
-      "Friendly",
-      "Monsters"
-    ]
-  },
-  {
     "author": "remram44",
     "description": "Top-down shooter/RTS inspired by Team Buddies (PS1)",
     "genre": "Action",
@@ -37137,6 +37116,25 @@
     ]
   },
   {
+    "author": "john.d.mick",
+    "description": "Don't lose your food at the disco!  LOWREZJAM 2019",
+    "genre": "Puzzle",
+    "id": "467042",
+    "link": "https://johndmick.itch.io/burger-boogie",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MDUxOTcuZ2lm/315x250%23cm/ruKNGX.gif",
+    "title": "Burger Boogie",
+    "video": "https://img.itch.zone/aW1nLzI0MDUxOTcuZ2lm/original/wwvBtA.gif",
+    "scrapeWords": [
+      "Burger",
+      "Boogie"
+    ]
+  },
+  {
     "author": "Patel Meru",
     "description": null,
     "genre": "Puzzle",
@@ -37315,6 +37313,25 @@
     ]
   },
   {
+    "author": "CheryP",
+    "description": "A small game I made in 2 days to test out Godot",
+    "genre": null,
+    "id": "468785",
+    "link": "https://cheryp.itch.io/demo-bug-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzOTU5MjEucG5n/315x250%23c/OEVmwH.png",
+    "title": "Demo bug game",
+    "video": null,
+    "scrapeWords": [
+      "Demo",
+      "bug",
+      "game"
+    ]
+  },
+  {
     "author": "lpancho",
     "description": "If you are a typing maniac, you're in!",
     "genre": null,
@@ -37481,7 +37498,7 @@
     ]
   },
   {
-    "author": "neobonde",
+    "author": "Neobonde",
     "description": null,
     "genre": "Platformer",
     "id": "469907",
@@ -37524,7 +37541,11 @@
     "genre": null,
     "id": "470085",
     "link": "https://phildjii.itch.io/ham-rush",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0MDQ4OTkucG5n/315x250%23c/Yrtq%2F%2B.png",
     "title": "Ham Rush",
     "video": null,
@@ -37590,7 +37611,9 @@
     "genre": "Adventure",
     "id": "470164",
     "link": "https://bakenshake09.itch.io/nuvalis-campaign-trail",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0MDYwODUucG5n/315x250%23c/Fostjg.png",
     "title": "Nuvalis Campaign Trail",
     "video": null,
@@ -37637,7 +37660,7 @@
     ]
   },
   {
-    "author": "TinyGoose",
+    "author": "TinyGoose Interactive",
     "description": "A game for the Godot Wild Jam #12",
     "genre": "Shooter",
     "id": "470231",
@@ -37658,7 +37681,7 @@
   },
   {
     "author": "Penjami",
-    "description": "Arcade style game about defending a field of wheat from an increasing amount of hungry birds.",
+    "description": "Game about defending a field of wheat from an increasing amount of hungry birds.",
     "genre": "Action",
     "id": "470256",
     "link": "https://penjami.itch.io/farm-defence",
@@ -37723,6 +37746,158 @@
     "scrapeWords": [
       "Factory",
       "Rush"
+    ]
+  },
+  {
+    "author": "Burgseiten Apps",
+    "description": "Battle for Gaming is a parody of the different monetization schemes, that the gaming industry incorporates",
+    "genre": "Shooter",
+    "id": "470508",
+    "link": "https://burgseiten-apps.itch.io/battle-for-gaming-demo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MDc4MTIucG5n/315x250%23c/4kFB8s.png",
+    "title": "Battle for Gaming Demo",
+    "video": null,
+    "scrapeWords": [
+      "Battle",
+      "for",
+      "Gaming",
+      "Demo"
+    ]
+  },
+  {
+    "author": "Sherry Games",
+    "description": "An Extremely Diffcult But Fun 2D Platformer",
+    "genre": "Platformer",
+    "id": "470785",
+    "link": "https://sherrygames.itch.io/shadow-leaper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTAwMjIucG5n/315x250%23c/Bv9nHQ.png",
+    "title": "Shadow Leaper",
+    "video": null,
+    "scrapeWords": [
+      "Shadow",
+      "Leaper"
+    ]
+  },
+  {
+    "author": "Hologrape",
+    "description": "A puzzle adventure game based on anagrams",
+    "genre": "Puzzle",
+    "id": "471004",
+    "link": "https://hologrape.itch.io/laramagenta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTIyOTcucG5n/315x250%23c/t8Oudj.png",
+    "title": "Lara Magenta",
+    "video": null,
+    "scrapeWords": [
+      "Lara",
+      "Magenta"
+    ]
+  },
+  {
+    "author": "bkoklu001",
+    "description": "A short clicker game!",
+    "genre": "Simulation",
+    "id": "471476",
+    "link": "https://bkoklu001.itch.io/codeidle",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTQ3MzAucG5n/315x250%23c/QmVTsI.png",
+    "title": "codeIdle",
+    "video": null,
+    "scrapeWords": [
+      "code",
+      "Idle"
+    ]
+  },
+  {
+    "author": "CowThing",
+    "description": "Wander through a forest.",
+    "genre": "Adventure",
+    "id": "471682",
+    "link": "https://cowthing.itch.io/horo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTYxOTkucG5n/315x250%23c/m%2FLeDQ.png",
+    "title": "Hōrō - 放浪",
+    "video": null,
+    "scrapeWords": [
+      "Hōrō",
+      "放浪"
+    ]
+  },
+  {
+    "author": "SkellySoft",
+    "description": "My First game with Godot, based off the Dodge The Creeps tutorial.",
+    "genre": "Action",
+    "id": "471979",
+    "link": "https://skellysoft.itch.io/dodge-the-ghouls",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MTg1MjEucG5n/315x250%23c/sxHNjw.png",
+    "title": "Dodge The Ghouls!",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "The",
+      "Ghouls"
+    ]
+  },
+  {
+    "author": "LoneDespair",
+    "description": "A simple and relaxing endless climber",
+    "genre": "Adventure",
+    "id": "472009",
+    "link": "https://lonedespair.itch.io/ladderclimber",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTgzOTkucG5n/315x250%23c/TvJ4dB.png",
+    "title": "LadderClimber",
+    "video": null,
+    "scrapeWords": [
+      "Ladder",
+      "Climber"
+    ]
+  },
+  {
+    "author": "Luminopixel",
+    "description": "An arcade rampage!",
+    "genre": "Action",
+    "id": "472063",
+    "link": "https://luminopixel.itch.io/the-busy-knight",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTg2MzAucG5n/315x250%23c/PIaFEm.png",
+    "title": "The Busy Knight",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Busy",
+      "Knight"
     ]
   },
   {
