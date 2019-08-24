@@ -111,7 +111,7 @@ function scraper(url) {
               .find('.game_cell_data .game_platform')
               .children()
               .each(function(i, elem) {
-                platform = $(elem).attr('title')
+                let platform = $(elem).attr('title')
                 if (platform) {
                   platform = platform.replace('Download for ', '')
                   platforms.push(platform)
