@@ -823,6 +823,25 @@
     ]
   },
   {
+    "author": "vetta_vetka",
+    "description": "Short fps game",
+    "genre": "Shooter",
+    "id": "119868",
+    "link": "https://vetta-vetka.itch.io/grow-the-tree-vyrasti-derevo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTE5ODY4LzU1MjMwNi5wbmc=/315x250%23c/a27xuc.png",
+    "title": "Vyrasti Derevo Iznemojenie",
+    "video": null,
+    "scrapeWords": [
+      "Vyrasti",
+      "Derevo",
+      "Iznemojenie"
+    ]
+  },
+  {
     "author": "FuryGames",
     "description": "tablasdemultiplicar",
     "genre": "Educational",
@@ -2689,7 +2708,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE4MTM1MjYucG5n/315x250%23c/ieYRrS.png",
     "title": "Lionel The Guardian",
@@ -5685,6 +5705,23 @@
     ]
   },
   {
+    "author": "vetta_vetka",
+    "description": "Transmission",
+    "genre": "Adventure",
+    "id": "218850",
+    "link": "https://vetta-vetka.itch.io/agdgggj2018transmission",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjE4ODUwLzEwMzI5OTcuanBn/315x250%23c/ktfco8.jpg",
+    "title": "agdgggj2018transmission",
+    "video": null,
+    "scrapeWords": [
+      "agdgggj2018transmission"
+    ]
+  },
+  {
     "author": "BeardedFists",
     "description": "Attack the incoming airships with your army of zombies!",
     "genre": "Action",
@@ -7158,6 +7195,27 @@
     "scrapeWords": [
       "Pizza",
       "Madness"
+    ]
+  },
+  {
+    "author": "vetta_vetka",
+    "description": "Entry for TWG11v3 imageboard gamedev contest.",
+    "genre": "Simulation",
+    "id": "238460",
+    "link": "https://vetta-vetka.itch.io/diimasik-diijourney-zwei-versus-2",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjM4NDYwLzExMzU1NTkuanBn/315x250%23c/27AArg.jpg",
+    "title": "Diimasik Diijourney Zwei Versus 2",
+    "video": null,
+    "scrapeWords": [
+      "Diimasik",
+      "Diijourney",
+      "Zwei",
+      "Versus",
+      "2"
     ]
   },
   {
@@ -10769,6 +10827,25 @@
       "[Godot",
       "Course",
       "Assignment]"
+    ]
+  },
+  {
+    "author": "vetta_vetka",
+    "description": "A story about Computer Science exam.",
+    "genre": "Visual Novel",
+    "id": "264177",
+    "link": "https://vetta-vetka.itch.io/order-road-eng",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjY0MTc3LzEyNzE3OTMuZ2lm/315x250%23cm/y%2BeidC.gif",
+    "title": "Order Road [!][ENG]",
+    "video": "https://img.itch.zone/aW1hZ2UvMjY0MTc3LzEyNzE3OTMuZ2lm/original/B2OPJ9.gif",
+    "scrapeWords": [
+      "Order",
+      "Road",
+      "[][ENG]"
     ]
   },
   {
@@ -16719,6 +16796,26 @@
       "Meow",
       "Meow",
       "Mom"
+    ]
+  },
+  {
+    "author": "Zephilinox",
+    "description": "Made for https://tildes.net/~comp/5li/programming_challenge_make_a_game_in_1_hour",
+    "genre": "Shooter",
+    "id": "297634",
+    "link": "https://zephilinox.itch.io/tildes-1-hour-game",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": null,
+    "title": "Tildes 1-hour game",
+    "video": null,
+    "scrapeWords": [
+      "Tildes",
+      "1-hour",
+      "game"
     ]
   },
   {
@@ -23095,6 +23192,24 @@
     ]
   },
   {
+    "author": "vetta_vetka",
+    "description": null,
+    "genre": "Action",
+    "id": "350866",
+    "link": "https://vetta-vetka.itch.io/samozbor-skalenium-extraction",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3NDU4MjQuanBn/315x250%23c/bJv69s.jpg",
+    "title": "Samozbor Skalenium Extraction",
+    "video": null,
+    "scrapeWords": [
+      "Samozbor",
+      "Skalenium",
+      "Extraction"
+    ]
+  },
+  {
     "author": "Damv",
     "description": "Juego para el Nica Jam #1",
     "genre": "Platformer",
@@ -23938,8 +24053,8 @@
   },
   {
     "author": "Winged Adventurer",
-    "description": "Climb down the well. Reactivate the source. Climb back up before it floods.",
-    "genre": "Action",
+    "description": "You have altitude problems",
+    "genre": "Platformer",
     "id": "358465",
     "link": "https://wingedadventurer.itch.io/grandwell",
     "platforms": [
@@ -24059,11 +24174,11 @@
     ]
   },
   {
-    "author": "marcjv",
+    "author": "Good Morning Games!",
     "description": null,
     "genre": "Puzzle",
     "id": "359536",
-    "link": "https://marcjv.itch.io/piggy48",
+    "link": "https://gm-games.itch.io/piggy48",
     "platforms": [
       "Windows",
       "macOS",
@@ -24277,28 +24392,6 @@
       "the",
       "Heart",
       "is"
-    ]
-  },
-  {
-    "author": "A Coniferous Chair",
-    "description": "Don't let the gremlins steal your hot water",
-    "genre": null,
-    "id": "361243",
-    "link": "https://a-coniferous-chair.itch.io/shower-simulator",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE4MDYyNTEucG5n/315x250%23c/ZBc1rw.png",
-    "title": "SHOWER SIMULATOR 2019 NAKED AND AFRAID EDITION",
-    "video": null,
-    "scrapeWords": [
-      "SHOWER",
-      "SIMULATOR",
-      "2019",
-      "NAKED",
-      "AND",
-      "AFRAID",
-      "EDITION"
     ]
   },
   {
@@ -25715,7 +25808,7 @@
   },
   {
     "author": "Winged Adventurer",
-    "description": "Control a cactus in a pot, collect all stars, reactivate the rocket, and save your kin",
+    "description": "Somewhat accurate cactus-in-a-pot simulator",
     "genre": "Platformer",
     "id": "371715",
     "link": "https://wingedadventurer.itch.io/cactus-out-of-place",
@@ -25725,15 +25818,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE4NjM3MDkucG5n/315x250%23c/0btcXU.png",
-    "title": "Cactus Out of Place (jam edition)",
+    "title": "Cactus Out of Place",
     "video": null,
     "scrapeWords": [
       "Cactus",
       "Out",
       "of",
-      "Place",
-      "jam",
-      "edition"
+      "Place"
     ]
   },
   {
@@ -27435,7 +27526,6 @@
     "id": "391442",
     "link": "https://kelphas.itch.io/the-legend-of-hierarch",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -33850,6 +33940,24 @@
     ]
   },
   {
+    "author": "vetta_vetka",
+    "description": "Concept demonstation",
+    "genre": "Action",
+    "id": "446817",
+    "link": "https://vetta-vetka.itch.io/samozbor-revolution",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyNTY2MTIuZ2lm/315x250%23cm/6lrrkg.gif",
+    "title": "SAMOZBOR: Revolution",
+    "video": "https://img.itch.zone/aW1nLzIyNTY2MTIuZ2lm/original/qlHn62.gif",
+    "scrapeWords": [
+      "SAMOZBOR",
+      "Revolution"
+    ]
+  },
+  {
     "author": "sweeping",
     "description": "Prototype which is a remake of the arcade game",
     "genre": "Simulation",
@@ -34406,8 +34514,7 @@
     "link": "https://levrault.itch.io/godot-2d-action-adventure-platformer-demo",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIyODMxNjgucG5n/315x250%23c/yiih5Z.png",
     "title": "Godot 2d action adventure platformer demo",
@@ -36489,23 +36596,6 @@
     ]
   },
   {
-    "author": "Paxek",
-    "description": "A story of you and your best friend",
-    "genre": "Visual Novel",
-    "id": "462546",
-    "link": "https://paxek.itch.io/best-friends",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTI1MzAucG5n/315x250%23c/IpxCtS.png",
-    "title": "Best Friends",
-    "video": null,
-    "scrapeWords": [
-      "Best",
-      "Friends"
-    ]
-  },
-  {
     "author": "Alghost",
     "description": "Only one gun to end all of existence. Only ony life. Only one try.",
     "genre": "Action",
@@ -36675,6 +36765,23 @@
     "scrapeWords": [
       "Roundabout",
       "Richochet"
+    ]
+  },
+  {
+    "author": "Cryptic Silver Games",
+    "description": "One Dash Puzzle Platformer",
+    "genre": "Platformer",
+    "id": "463041",
+    "link": "https://crypticsilver.itch.io/happy-accident",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNTk3MjkucG5n/315x250%23c/awhMbC.png",
+    "title": "Happy Accident",
+    "video": null,
+    "scrapeWords": [
+      "Happy",
+      "Accident"
     ]
   },
   {
@@ -36875,24 +36982,6 @@
     ]
   },
   {
-    "author": "Risemack",
-    "description": null,
-    "genre": "Adventure",
-    "id": "463634",
-    "link": "https://risemack.itch.io/mostly-friendly-monsters",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTMyMzkucG5n/315x250%23c/Mq13R3.png",
-    "title": "Mostly Friendly Monsters",
-    "video": null,
-    "scrapeWords": [
-      "Mostly",
-      "Friendly",
-      "Monsters"
-    ]
-  },
-  {
     "author": "remram44",
     "description": "Top-down shooter/RTS inspired by Team Buddies (PS1)",
     "genre": "Action",
@@ -36991,7 +37080,10 @@
     "genre": "Action",
     "id": "465771",
     "link": "https://jjramos.itch.io/ninja64",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzIzNzUzNTQucG5n/315x250%23c/44gNZB.png",
     "title": "Ninja64",
     "video": null,
@@ -37137,6 +37229,25 @@
     ]
   },
   {
+    "author": "john.d.mick",
+    "description": "Don't lose your food at the disco!  LOWREZJAM 2019",
+    "genre": "Puzzle",
+    "id": "467042",
+    "link": "https://johndmick.itch.io/burger-boogie",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MDUxOTcuZ2lm/315x250%23cm/ruKNGX.gif",
+    "title": "Burger Boogie",
+    "video": "https://img.itch.zone/aW1nLzI0MDUxOTcuZ2lm/original/wwvBtA.gif",
+    "scrapeWords": [
+      "Burger",
+      "Boogie"
+    ]
+  },
+  {
     "author": "Patel Meru",
     "description": null,
     "genre": "Puzzle",
@@ -37263,6 +37374,41 @@
     ]
   },
   {
+    "author": "GreenCloversGuy",
+    "description": "A strange RPG where you have to go round your house, convincing your clothes to be, well, your clothes again.",
+    "genre": "Role Playing",
+    "id": "468673",
+    "link": "https://greencloversguy.itch.io/hanging-in-the-closet",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MTk5NDEuZ2lm/315x250%23cm/ATGqfB.gif",
+    "title": "I accidently insulted a witch and now all of my clothes are sentient and they hate me! (Or Hanging in the Closet)",
+    "video": "https://img.itch.zone/aW1nLzI0MTk5NDEuZ2lm/original/dP%2BxOc.gif",
+    "scrapeWords": [
+      "I",
+      "accidently",
+      "insulted",
+      "a",
+      "witch",
+      "and",
+      "now",
+      "all",
+      "of",
+      "my",
+      "clothes",
+      "are",
+      "sentient",
+      "and",
+      "they",
+      "hate",
+      "me",
+      "Or",
+      "Hanging",
+      "in",
+      "the",
+      "Closet"
+    ]
+  },
+  {
     "author": "pintman",
     "description": "Simpe asteroids clone",
     "genre": "Action",
@@ -37312,6 +37458,25 @@
     "scrapeWords": [
       "Lumberjack",
       "John"
+    ]
+  },
+  {
+    "author": "CheryP",
+    "description": "A small game I made in 2 days to test out Godot",
+    "genre": null,
+    "id": "468785",
+    "link": "https://cheryp.itch.io/demo-bug-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzOTU5MjEucG5n/315x250%23c/OEVmwH.png",
+    "title": "Demo bug game",
+    "video": null,
+    "scrapeWords": [
+      "Demo",
+      "bug",
+      "game"
     ]
   },
   {
@@ -37481,7 +37646,7 @@
     ]
   },
   {
-    "author": "neobonde",
+    "author": "Neobonde",
     "description": null,
     "genre": "Platformer",
     "id": "469907",
@@ -37524,7 +37689,11 @@
     "genre": null,
     "id": "470085",
     "link": "https://phildjii.itch.io/ham-rush",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0MDQ4OTkucG5n/315x250%23c/Yrtq%2F%2B.png",
     "title": "Ham Rush",
     "video": null,
@@ -37590,7 +37759,9 @@
     "genre": "Adventure",
     "id": "470164",
     "link": "https://bakenshake09.itch.io/nuvalis-campaign-trail",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0MDYwODUucG5n/315x250%23c/Fostjg.png",
     "title": "Nuvalis Campaign Trail",
     "video": null,
@@ -37637,7 +37808,7 @@
     ]
   },
   {
-    "author": "TinyGoose",
+    "author": "TinyGoose Interactive",
     "description": "A game for the Godot Wild Jam #12",
     "genre": "Shooter",
     "id": "470231",
@@ -37657,8 +37828,23 @@
     ]
   },
   {
+    "author": "mithul",
+    "description": "Burn your enemies to dust with your fireballs in this action/adventure game",
+    "genre": "Action",
+    "id": "470243",
+    "link": "https://mithul.itch.io/notadevil",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MjI4ODcuZ2lm/315x250%23cm/cm2Lu1.gif",
+    "title": "NotADevil",
+    "video": "https://img.itch.zone/aW1nLzI0MjI4ODcuZ2lm/original/eH3RJx.gif",
+    "scrapeWords": [
+      "Not",
+      "ADevil"
+    ]
+  },
+  {
     "author": "Penjami",
-    "description": "Arcade style game about defending a field of wheat from an increasing amount of hungry birds.",
+    "description": "Game about defending a field of wheat from an increasing amount of hungry birds.",
     "genre": "Action",
     "id": "470256",
     "link": "https://penjami.itch.io/farm-defence",
@@ -37723,6 +37909,211 @@
     "scrapeWords": [
       "Factory",
       "Rush"
+    ]
+  },
+  {
+    "author": "Burgseiten Apps",
+    "description": "Battle for Gaming is a parody of the different monetization schemes, that the gaming industry incorporates",
+    "genre": "Shooter",
+    "id": "470508",
+    "link": "https://burgseiten-apps.itch.io/battle-for-gaming-demo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MDc4MTIucG5n/315x250%23c/4kFB8s.png",
+    "title": "Battle for Gaming Demo",
+    "video": null,
+    "scrapeWords": [
+      "Battle",
+      "for",
+      "Gaming",
+      "Demo"
+    ]
+  },
+  {
+    "author": "Sherry Games",
+    "description": "An Extremely Diffcult But Fun 2D Platformer",
+    "genre": "Platformer",
+    "id": "470785",
+    "link": "https://sherrygames.itch.io/shadow-leaper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTAwMjIucG5n/315x250%23c/Bv9nHQ.png",
+    "title": "Shadow Leaper",
+    "video": null,
+    "scrapeWords": [
+      "Shadow",
+      "Leaper"
+    ]
+  },
+  {
+    "author": "Hologrape",
+    "description": "A puzzle adventure game based on anagrams",
+    "genre": "Puzzle",
+    "id": "471004",
+    "link": "https://hologrape.itch.io/laramagenta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTIyOTcucG5n/315x250%23c/t8Oudj.png",
+    "title": "Lara Magenta",
+    "video": null,
+    "scrapeWords": [
+      "Lara",
+      "Magenta"
+    ]
+  },
+  {
+    "author": "TheBigM",
+    "description": "Tower defence/ pet simulator",
+    "genre": null,
+    "id": "471351",
+    "link": "https://thebigm.itch.io/best-friends",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTYwMDMucG5n/315x250%23c/eIlUGa.png",
+    "title": "Best Friends",
+    "video": null,
+    "scrapeWords": [
+      "Best",
+      "Friends"
+    ]
+  },
+  {
+    "author": "bkoklu001",
+    "description": "A short clicker game!",
+    "genre": "Simulation",
+    "id": "471476",
+    "link": "https://bkoklu001.itch.io/codeidle",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTQ3MzAucG5n/315x250%23c/QmVTsI.png",
+    "title": "codeIdle",
+    "video": null,
+    "scrapeWords": [
+      "code",
+      "Idle"
+    ]
+  },
+  {
+    "author": "CowThing",
+    "description": "Wander through a forest.",
+    "genre": "Adventure",
+    "id": "471682",
+    "link": "https://cowthing.itch.io/horo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTYxOTkucG5n/315x250%23c/m%2FLeDQ.png",
+    "title": "Hōrō - 放浪",
+    "video": null,
+    "scrapeWords": [
+      "Hōrō",
+      "放浪"
+    ]
+  },
+  {
+    "author": "SkellySoft",
+    "description": "My First game with Godot, based off the Dodge The Creeps tutorial.",
+    "genre": "Action",
+    "id": "471979",
+    "link": "https://skellysoft.itch.io/dodge-the-ghouls",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MTg1MjEucG5n/315x250%23c/sxHNjw.png",
+    "title": "Dodge The Ghouls!",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "The",
+      "Ghouls"
+    ]
+  },
+  {
+    "author": "LoneDespair",
+    "description": "A simple and relaxing endless climber",
+    "genre": "Adventure",
+    "id": "472009",
+    "link": "https://lonedespair.itch.io/ladderclimber",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MjE4NDMucG5n/315x250%23c/LDPU4m.png",
+    "title": "LadderClimber",
+    "video": null,
+    "scrapeWords": [
+      "Ladder",
+      "Climber"
+    ]
+  },
+  {
+    "author": "Luminopixel",
+    "description": "An arcade rampage!",
+    "genre": "Action",
+    "id": "472063",
+    "link": "https://luminopixel.itch.io/the-busy-knight",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTg2MzAucG5n/315x250%23c/PIaFEm.png",
+    "title": "The Busy Knight",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Busy",
+      "Knight"
+    ]
+  },
+  {
+    "author": "GenerousBawls",
+    "description": "WMan hates MMan, but loves W's, inspired by warioware.",
+    "genre": null,
+    "id": "472215",
+    "link": "https://generousbawls.itch.io/w-man",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MTk2ODUucG5n/315x250%23c/GTnj3e.png",
+    "title": "W-Man's day off",
+    "video": null,
+    "scrapeWords": [
+      "W-Mans",
+      "day",
+      "off"
+    ]
+  },
+  {
+    "author": "Stanislav Kostka",
+    "description": null,
+    "genre": "Action",
+    "id": "472253",
+    "link": "https://satno.itch.io/devil-bbs-demo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTk5NDgucG5n/315x250%23c/owokwW.png",
+    "title": "Devil BBS (demo)",
+    "video": null,
+    "scrapeWords": [
+      "Devil",
+      "BBS",
+      "demo"
     ]
   },
   {
