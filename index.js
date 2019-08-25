@@ -2,6 +2,7 @@ const cheerio = require('cheerio')
 const cors = require('cors')
 const express = require('express')
 const fetch = require('node-fetch')
+const path = require('path')
 
 const app = express()
 const port = 5000
@@ -59,6 +60,16 @@ app.get('/api/game/:title', function (req, res) {
       const game = games[i]
 
       let gameTitleRequest = req.params.title
+      // Remove extension if matching Godot's games extensions.
+      if (
+        path.extname(gameTitleRequest) == '.pck' ||
+        path.extname(gameTitleRequest) == '.zip'
+      ) {
+        gameTitleRequest = path.basename(
+          gameTitleRequest,
+          path.extname(gameTitleRequest)
+        )
+      }
       gameTitleRequest = gameTitleRequest.replace(/([a-z0-9])([A-Z])/g, '$1 $2') // Split camelCase words
       gameTitleRequest = gameTitleRequest.replace(/_/g, ' ') // Remove underscores
       gameTitleRequest = gameTitleRequest.replace(/Jam/g, '') // Remove the word 'Jam'
