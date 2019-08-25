@@ -20342,14 +20342,13 @@
     ]
   },
   {
-    "author": "Zoltan-Labs",
+    "author": "Zoltan Labs",
     "description": "2D Retro space arcade game",
     "genre": "Shooter",
     "id": "327605",
     "link": "https://zoltan-labs.itch.io/brutal-deluxe",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE2MjI4OTYucG5n/315x250%23c/2VnTuA.png",
     "title": "Brutal Deluxe",
@@ -20447,22 +20446,6 @@
     "video": null,
     "scrapeWords": [
       "Inconnu"
-    ]
-  },
-  {
-    "author": "Direct Games",
-    "description": "A police roleplaying game set in Belgium.",
-    "genre": "Simulation",
-    "id": "328426",
-    "link": "https://directgames.itch.io/belgian-police-simulator",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE5ODMxNzEucG5n/315x250%23c/xFVqYQ.png",
-    "title": "Belgian Police Simulator",
-    "video": null,
-    "scrapeWords": [
-      "Belgian",
-      "Police",
-      "Simulator"
     ]
   },
   {
@@ -27521,7 +27504,7 @@
   },
   {
     "author": "kelphas",
-    "description": "Battle against a horde of daemons in this arcade-style shooter! Currently under active development.",
+    "description": "Battle against a horde of daemons in this arcade-style shooter!",
     "genre": "Shooter",
     "id": "391442",
     "link": "https://kelphas.itch.io/the-legend-of-hierarch",
@@ -28935,11 +28918,7 @@
     "genre": "Action",
     "id": "407687",
     "link": "https://playablecreatures.itch.io/draster-mansion",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIwMjM3MDMucG5n/315x250%23c/XfH1UZ.png",
     "title": "The Mystery of Draster Mansion",
     "video": null,
@@ -35574,6 +35553,23 @@
     ]
   },
   {
+    "author": "shadowhen89",
+    "description": "Dodge and Destroy Asteroids",
+    "genre": "Shooter",
+    "id": "459766",
+    "link": "https://shadowhen89.itch.io/starship-asteroid",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzOTU4MDMucG5n/315x250%23c/jXFixB.png",
+    "title": "Starship Asteroid",
+    "video": null,
+    "scrapeWords": [
+      "Starship",
+      "Asteroid"
+    ]
+  },
+  {
     "author": "JosephZander",
     "description": "A simple iteration of a classic.",
     "genre": "Action",
@@ -37933,6 +37929,24 @@
     ]
   },
   {
+    "author": "Tzoop",
+    "description": "Sokoban game made for GB Jam 7",
+    "genre": "Puzzle",
+    "id": "470668",
+    "link": "https://tzoop.itch.io/boxman",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTk3MzYucG5n/315x250%23c/6TbZHc.png",
+    "title": "Boxman",
+    "video": null,
+    "scrapeWords": [
+      "Boxman"
+    ]
+  },
+  {
     "author": "Sherry Games",
     "description": "An Extremely Diffcult But Fun 2D Platformer",
     "genre": "Platformer",
@@ -38001,9 +38015,9 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0MTQ3MzAucG5n/315x250%23c/QmVTsI.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0MjUzNDguZ2lm/315x250%23cm/hSSjqU.gif",
     "title": "codeIdle",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI0MjUzNDguZ2lm/original/8orPeb.gif",
     "scrapeWords": [
       "code",
       "Idle"
@@ -38114,6 +38128,22 @@
       "Devil",
       "BBS",
       "demo"
+    ]
+  },
+  {
+    "author": "lpancho",
+    "description": "Everyone can change.",
+    "genre": "Survival",
+    "id": "473310",
+    "link": "https://lpancho.itch.io/before-i-was",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MjczODUucG5n/315x250%23c/pnWGfa.png",
+    "title": "Before, I was",
+    "video": null,
+    "scrapeWords": [
+      "Before",
+      "I",
+      "was"
     ]
   },
   {
