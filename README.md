@@ -10,7 +10,7 @@ https://itchio-godot-scraper.now.sh
 
 - `/api` - Get all the games.
 - `/api/games` - Get all the games titles.
-- `/api/game/:title` - Get games by title.
+- `/api/game/:title` - Get game by title.
 - `/api/authors` - Get all the authors.
 - `/api/author/:author` - Get games by author.
 - `/api/platforms` - Get all the platforms.
