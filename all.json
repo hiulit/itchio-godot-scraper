@@ -22971,21 +22971,6 @@
     ]
   },
   {
-    "author": "nivrig",
-    "description": "How dodgy can you get?",
-    "genre": "Action",
-    "id": "348666",
-    "link": "https://nivrig.itch.io/dodgy-rocks",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzNDA1ODQucG5n/315x250%23c/LGiifo.png",
-    "title": "Dodgy Rocks",
-    "video": null,
-    "scrapeWords": [
-      "Dodgy",
-      "Rocks"
-    ]
-  },
-  {
     "author": "CIULLO CORPORATION",
     "description": "DEMO VERSION - hit \"BUY\" to purchase the full game",
     "genre": null,
@@ -23251,8 +23236,7 @@
     "id": "351380",
     "link": "https://cubyline.itch.io/byte",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE3NDg4MjUuanBn/315x250%23c/M8hQho.jpg",
     "title": "Byte: Classic",
@@ -25218,13 +25202,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE5MDUxNDYucG5n/315x250%23c/QsOFPR.png",
-    "title": "ELF GAME (demo 0.0.4)",
+    "title": "ELF GAME (demo 0.0.5)",
     "video": null,
     "scrapeWords": [
       "ELF",
       "GAME",
       "demo",
-      "004"
+      "005"
     ]
   },
   {
@@ -26008,7 +25992,7 @@
     ]
   },
   {
-    "author": "aozero",
+    "author": "Alex Ozero",
     "description": "As a PI, tie clues to events by string to solve how the thief stole the precious jewel!",
     "genre": "Puzzle",
     "id": "372479",
@@ -26600,7 +26584,7 @@
   },
   {
     "author": "chipolux",
-    "description": "Maybe after all this they'll appreciate the janitor...",
+    "description": "DEVELOPMENT IN PROGRESS - But give it a try and let me know if it is broken!",
     "genre": "Puzzle",
     "id": "378767",
     "link": "https://chipolux.itch.io/clean-escape",
@@ -27898,26 +27882,6 @@
     "scrapeWords": [
       "Bleb",
       "Master"
-    ]
-  },
-  {
-    "author": "Neku",
-    "description": null,
-    "genre": "Interactive Fiction",
-    "id": "394729",
-    "link": "https://nekugames.itch.io/i-need-t",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE5NTUzMzkucG5n/315x250%23c/7dsuVF.png",
-    "title": "I NEED to get on that conference!",
-    "video": null,
-    "scrapeWords": [
-      "I",
-      "NEED",
-      "to",
-      "get",
-      "on",
-      "that",
-      "conference"
     ]
   },
   {
@@ -31401,6 +31365,22 @@
     ]
   },
   {
+    "author": "Ark1ve",
+    "description": "A VR room builder",
+    "genre": null,
+    "id": "425140",
+    "link": "https://ark1ve.itch.io/roomwithaview",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIxMjIwNDMucG5n/315x250%23c/dGVq3%2B.png",
+    "title": "RoomWithAView",
+    "video": null,
+    "scrapeWords": [
+      "Room",
+      "With",
+      "AView"
+    ]
+  },
+  {
     "author": "eetson",
     "description": "Entry for the Godot Wild Jam 9",
     "genre": "Puzzle",
@@ -32105,26 +32085,6 @@
     "scrapeWords": [
       "EN",
       "GARDE"
-    ]
-  },
-  {
-    "author": "Build'N Play",
-    "description": "Sci-Magic",
-    "genre": null,
-    "id": "432049",
-    "link": "https://buildn-play.itch.io/sci-magic",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxNjM0NTgucG5n/315x250%23c/nRs03m.png",
-    "title": "Sci-Magic: Battle of Knowledge",
-    "video": null,
-    "scrapeWords": [
-      "Sci-Magic",
-      "Battle",
-      "of",
-      "Knowledge"
     ]
   },
   {
@@ -35241,6 +35201,22 @@
     ]
   },
   {
+    "author": "Lefumis",
+    "description": "Salvem os aliens do governo autoritário!",
+    "genre": "Platformer",
+    "id": "456545",
+    "link": "https://lefumis.itch.io/a-52",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzMTg0ODIucG5n/315x250%23c/zj%2F%2B8X.png",
+    "title": "A-52",
+    "video": null,
+    "scrapeWords": [
+      "A-52"
+    ]
+  },
+  {
     "author": "Strawman",
     "description": "This is an easy game. Play it the right way and you're sure to win!",
     "genre": null,
@@ -35514,6 +35490,21 @@
     ]
   },
   {
+    "author": "Just A Cookie",
+    "description": "Reaction-based little time killer.",
+    "genre": null,
+    "id": "459116",
+    "link": "https://just-a-cookie.itch.io/true-color",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NDA2ODUucG5n/315x250%23c/KcMJEC.png",
+    "title": "True Color",
+    "video": null,
+    "scrapeWords": [
+      "True",
+      "Color"
+    ]
+  },
+  {
     "author": "rafalkowalski",
     "description": "Simple platform game for kids",
     "genre": "Platformer",
@@ -35755,7 +35746,9 @@
     "genre": "Platformer",
     "id": "460762",
     "link": "https://hamezii.itch.io/my-missile-launcher",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzIzNjcxODUuZ2lm/315x250%23cm/GRKxqe.gif",
     "title": "Me and My Missile Launcher",
     "video": "https://img.itch.zone/aW1nLzIzNjcxODUuZ2lm/original/wwH1IE.gif",
@@ -37890,6 +37883,26 @@
     ]
   },
   {
+    "author": "Neku",
+    "description": "1vs1 duels",
+    "genre": "Fighting",
+    "id": "470443",
+    "link": "https://nekugames.itch.io/mediduel",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzUwNDMucG5n/315x250%23c/uzkawq.png",
+    "title": "MediDuel",
+    "video": null,
+    "scrapeWords": [
+      "Medi",
+      "Duel"
+    ]
+  },
+  {
     "author": "Spyr",
     "description": "A short and chellenging platformer you could try speed run",
     "genre": "Platformer",
@@ -37968,7 +37981,7 @@
   {
     "author": "Hologrape",
     "description": "A puzzle adventure game based on anagrams",
-    "genre": "Puzzle",
+    "genre": "Adventure",
     "id": "471004",
     "link": "https://hologrape.itch.io/laramagenta",
     "platforms": [
@@ -38004,11 +38017,11 @@
     ]
   },
   {
-    "author": "bkoklu001",
+    "author": "Mint Studios",
     "description": "A short clicker game!",
     "genre": "Simulation",
     "id": "471476",
-    "link": "https://bkoklu001.itch.io/codeidle",
+    "link": "https://mintstudios.itch.io/codeidle",
     "platforms": [
       "Windows",
       "Linux",
@@ -38131,6 +38144,44 @@
     ]
   },
   {
+    "author": "Shenxiaohong",
+    "description": "Hieroglyphics , Chinese characters , Platform",
+    "genre": "Educational",
+    "id": "472569",
+    "link": "https://pancheeplay.itch.io/hieroglyphics-characters",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MjIzNjEucG5n/315x250%23c/tiuMaD.png",
+    "title": "Hieroglyphics Characters",
+    "video": null,
+    "scrapeWords": [
+      "Hieroglyphics",
+      "Characters"
+    ]
+  },
+  {
+    "author": "industrial App",
+    "description": "Industrial App",
+    "genre": "Action",
+    "id": "472718",
+    "link": "https://nuke-detonator.itch.io/bonorowarforsys",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MjM2MTUucG5n/315x250%23c/Q%2FiQiU.png",
+    "title": "Bonoro War For System",
+    "video": null,
+    "scrapeWords": [
+      "Bonoro",
+      "War",
+      "For",
+      "System"
+    ]
+  },
+  {
     "author": "lpancho",
     "description": "Everyone can change.",
     "genre": "Survival",
@@ -38144,6 +38195,294 @@
       "Before",
       "I",
       "was"
+    ]
+  },
+  {
+    "author": "jg1991",
+    "description": "i have tried and i have tried and i have tried and i have tried and i have tried and",
+    "genre": "Interactive Fiction",
+    "id": "473516",
+    "link": "https://jg1991.itch.io/you-never-existed-for-billions-of-years-before-you-were-born",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0Mjg4NTMucG5n/315x250%23c/WE6p2u.png",
+    "title": "You Never Existed for Billions of Years Before You Were Born",
+    "video": null,
+    "scrapeWords": [
+      "You",
+      "Never",
+      "Existed",
+      "for",
+      "Billions",
+      "of",
+      "Years",
+      "Before",
+      "You",
+      "Were",
+      "Born"
+    ]
+  },
+  {
+    "author": "ReleeSquirrel",
+    "description": "A Short and Sweet Platformer made for the Extra Credits Game Jam 5",
+    "genre": "Platformer",
+    "id": "473669",
+    "link": "https://releesquirrel.itch.io/puppy-passages",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Mjk4NDMucG5n/315x250%23c/apNruC.png",
+    "title": "Puppy Passages",
+    "video": null,
+    "scrapeWords": [
+      "Puppy",
+      "Passages"
+    ]
+  },
+  {
+    "author": "Sarturo",
+    "description": "Survive 3 minutes against the attack of zombie bots",
+    "genre": "Survival",
+    "id": "473682",
+    "link": "https://sarturo.itch.io/zombots-attack",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Mjk5MjYucG5n/315x250%23c/2%2FOjgp.png",
+    "title": "Zombots attack",
+    "video": null,
+    "scrapeWords": [
+      "Zombots",
+      "attack"
+    ]
+  },
+  {
+    "author": "Krankomat",
+    "description": "Jump'N'Run with infinitely scrolling level",
+    "genre": "Platformer",
+    "id": "473691",
+    "link": "https://krankomat.itch.io/scroller-jumper-gb",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MzAxNzYucG5n/315x250%23c/Lh0vED.png",
+    "title": "Scroller Jumper GB",
+    "video": null,
+    "scrapeWords": [
+      "Scroller",
+      "Jumper",
+      "GB"
+    ]
+  },
+  {
+    "author": "GentoMedia",
+    "description": "Collect passages to pass through and learn a life.",
+    "genre": "Puzzle",
+    "id": "473938",
+    "link": "https://gentomedia.itch.io/passage",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzE4MTQucG5n/315x250%23c/osNeyA.png",
+    "title": "A Passage to Pass",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Passage",
+      "to",
+      "Pass"
+    ]
+  },
+  {
+    "author": "MenacingMecha",
+    "description": "WarioWare style game demo originally developed for Abertay Midsummer Jam 2018",
+    "genre": null,
+    "id": "473963",
+    "link": "https://menacingmecha.itch.io/airship-funk",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzIxMzUucG5n/315x250%23c/zgCgFo.png",
+    "title": "Airship Funk (Proof of Concept Demo)",
+    "video": null,
+    "scrapeWords": [
+      "Airship",
+      "Funk",
+      "Proof",
+      "of",
+      "Concept",
+      "Demo"
+    ]
+  },
+  {
+    "author": "Capital Ex",
+    "description": "Match your color and dodge the Xs to collect as many points as possible!",
+    "genre": "Action",
+    "id": "474168",
+    "link": "https://capitalex.itch.io/collect-em",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzMwNTQucG5n/315x250%23c/loc97S.png",
+    "title": "Collect 'Em",
+    "video": null,
+    "scrapeWords": [
+      "Collect",
+      "Em"
+    ]
+  },
+  {
+    "author": "pjtsearch",
+    "description": "IGFS",
+    "genre": "Simulation",
+    "id": "474191",
+    "link": "https://pjtsearch.itch.io/igfs",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzMzNzEucG5n/315x250%23c/g%2FKIbB.png",
+    "title": "WIP - Inter Galactic Flight Simulator",
+    "video": null,
+    "scrapeWords": [
+      "WIP",
+      "Inter",
+      "Galactic",
+      "Flight",
+      "Simulator"
+    ]
+  },
+  {
+    "author": "Daniel Anderson",
+    "description": "Calculate as many passages as you can in three minutes!",
+    "genre": null,
+    "id": "474244",
+    "link": "https://danielanderson.itch.io/pay-your-passage",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzM4ODQucG5n/315x250%23c/Gnu3zS.png",
+    "title": "Pay your Passage",
+    "video": null,
+    "scrapeWords": [
+      "Pay",
+      "your",
+      "Passage"
+    ]
+  },
+  {
+    "author": "ProfPille",
+    "description": "Contains one Extra Origami Zoey!",
+    "genre": "Adventure",
+    "id": "474318",
+    "link": "https://profpille.itch.io/detective-riley-lawson-1",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MzQ0MTkucG5n/315x250%23c/haY0Re.png",
+    "title": "Detective Riley Lawson and the Strange Case of Dr. Gallagher",
+    "video": null,
+    "scrapeWords": [
+      "Detective",
+      "Riley",
+      "Lawson",
+      "and",
+      "the",
+      "Strange",
+      "Case",
+      "of",
+      "Dr",
+      "Gallagher"
+    ]
+  },
+  {
+    "author": "Lena!",
+    "description": "A five-minute experience about a trans theory.",
+    "genre": "Visual Novel",
+    "id": "474462",
+    "link": "https://nblena.itch.io/were-getting-there",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzczNzgucG5n/315x250%23c/FPeNWP.png",
+    "title": "We're Getting There",
+    "video": null,
+    "scrapeWords": [
+      "Were",
+      "Getting",
+      "There"
+    ]
+  },
+  {
+    "author": "Helmet64 Studio",
+    "description": "Sci-Magic: The Battle of Knowledge",
+    "genre": "Action",
+    "id": "474564",
+    "link": "https://helmet64-studio.itch.io/sci-magic",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzU3MTkucG5n/315x250%23c/Y%2FVMtn.png",
+    "title": "Sci-Magic: The Battle of Knowledge",
+    "video": null,
+    "scrapeWords": [
+      "Sci-Magic",
+      "The",
+      "Battle",
+      "of",
+      "Knowledge"
+    ]
+  },
+  {
+    "author": "PedroVMVictor",
+    "description": "Platform, Action",
+    "genre": "Platformer",
+    "id": "474639",
+    "link": "https://pedrovmvictor.itch.io/ultramarina",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzY0ODEucG5n/315x250%23c/PF5rVh.png",
+    "title": "Ultramarina",
+    "video": null,
+    "scrapeWords": [
+      "Ultramarina"
+    ]
+  },
+  {
+    "author": "PedroVMVictor",
+    "description": "A top-down waves surviving game",
+    "genre": "Action",
+    "id": "474655",
+    "link": "https://pedrovmvictor.itch.io/ade",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzY0NzAuanBn/315x250%23c/Mq2Z%2Ff.jpg",
+    "title": "Alvorada das estações",
+    "video": null,
+    "scrapeWords": [
+      "Alvorada",
+      "das",
+      "estações"
+    ]
+  },
+  {
+    "author": "oda",
+    "description": null,
+    "genre": null,
+    "id": "474987",
+    "link": "https://oda.itch.io/20h40",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MzgyMjYucG5n/315x250%23c/AhX810.png",
+    "title": "20h40",
+    "video": null,
+    "scrapeWords": [
+      "20h40"
     ]
   },
   {
