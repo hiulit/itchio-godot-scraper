@@ -24201,7 +24201,7 @@
   },
   {
     "author": "MaoItsMe",
-    "description": null,
+    "description": "My first game",
     "genre": "Action",
     "id": "360196",
     "link": "https://maoitsme.itch.io/simple-space-shooter",
@@ -25784,7 +25784,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE4NjM3MDkucG5n/315x250%23c/0btcXU.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0NTgzMzkucG5n/315x250%23c/CxnFlw.png",
     "title": "Cactus Out of Place",
     "video": null,
     "scrapeWords": [
@@ -27224,6 +27224,20 @@
       "Cat",
       "and",
       "Time"
+    ]
+  },
+  {
+    "author": "Direct Games",
+    "description": "A free-to-play sandbox game with no predefined aims.",
+    "genre": "Adventure",
+    "id": "382989",
+    "link": "https://directgames.itch.io/sandvox",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzE5MjMwODQucG5n/315x250%23c/URIPpf.png",
+    "title": "Sandvox",
+    "video": null,
+    "scrapeWords": [
+      "Sandvox"
     ]
   },
   {
@@ -28713,7 +28727,7 @@
   },
   {
     "author": "ClayManZ",
-    "description": null,
+    "description": "Become a rich building tycoon in this turn-based simulation",
     "genre": "Simulation",
     "id": "405846",
     "link": "https://claymanz.itch.io/the-worldbuilder",
@@ -28721,7 +28735,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMTYwNzUucG5n/315x250%23c/KMZMmF.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0NDM3NjcucG5n/315x250%23c/pM59KA.png",
     "title": "The Worldbuilder",
     "video": null,
     "scrapeWords": [
@@ -34392,6 +34406,27 @@
     ]
   },
   {
+    "author": "Kenomic Games",
+    "description": "You think you're know tower defense? You are mistaken!",
+    "genre": "Strategy",
+    "id": "450259",
+    "link": "https://kenoma.itch.io/parallel-defense",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyOTYwMDEucG5n/315x250%23c/LXhyRD.png",
+    "title": "Pleroma Tower Defense",
+    "video": null,
+    "scrapeWords": [
+      "Pleroma",
+      "Tower",
+      "Defense"
+    ]
+  },
+  {
     "author": "Albert",
     "description": "4 directional endless swimmer. Do you have what it takes to catch the Mighty Angry Fish?",
     "genre": "Survival",
@@ -38163,7 +38198,7 @@
   {
     "author": "industrial App",
     "description": "Industrial App",
-    "genre": "Action",
+    "genre": "Platformer",
     "id": "472718",
     "link": "https://nuke-detonator.itch.io/bonorowarforsys",
     "platforms": [
@@ -38483,6 +38518,352 @@
     "video": null,
     "scrapeWords": [
       "20h40"
+    ]
+  },
+  {
+    "author": "mithul",
+    "description": "Run away or towards the laser and win the game maybe ?",
+    "genre": "Platformer",
+    "id": "475142",
+    "link": "https://mithul.itch.io/the-amazing-death-race",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTE4NjcucG5n/315x250%23c/lDlf5a.png",
+    "title": "The Amazing Death Race",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Amazing",
+      "Death",
+      "Race"
+    ]
+  },
+  {
+    "author": "TobiasM",
+    "description": "Monsters from other dimension invaded your world! Kill them all!",
+    "genre": "Shooter",
+    "id": "475252",
+    "link": "https://tobiasm.itch.io/dimension-invader",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDE0NTYucG5n/315x250%23c/o9umAN.png",
+    "title": "Dimension Invader",
+    "video": null,
+    "scrapeWords": [
+      "Dimension",
+      "Invader"
+    ]
+  },
+  {
+    "author": "Deluvi",
+    "description": "PAN PAN PAN Roarrrr PAN PAN PAN",
+    "genre": "Action",
+    "id": "475347",
+    "link": "https://deluvi.itch.io/le-detournement-du-grand-detournement",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDA2NTIucG5n/315x250%23c/2R3x94.png",
+    "title": "Le Détournement du Grand Détournement",
+    "video": null,
+    "scrapeWords": [
+      "Le",
+      "Détournement",
+      "du",
+      "Grand",
+      "Détournement"
+    ]
+  },
+  {
+    "author": "Vulpon",
+    "description": "2-bit platformer \"metroidvania\" for Community Game Jam 2019!",
+    "genre": "Platformer",
+    "id": "475738",
+    "link": "https://vulpon.itch.io/cavescape",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTQwNTQucG5n/315x250%23c/5j5sma.png",
+    "title": "CaveScape",
+    "video": null,
+    "scrapeWords": [
+      "Cave",
+      "Scape"
+    ]
+  },
+  {
+    "author": "DSGuy",
+    "description": "A new corporation promises joy, should one join them?",
+    "genre": null,
+    "id": "475767",
+    "link": "https://dsguy.itch.io/join-us",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDMzNzUucG5n/315x250%23c/D%2FgICs.png",
+    "title": "Join Us",
+    "video": null,
+    "scrapeWords": [
+      "Join",
+      "Us"
+    ]
+  },
+  {
+    "author": "DaveTheDev",
+    "description": "You're dead - Now it's up to you to decide who you're going to trust, an Angel from Heaven, or a Demon from Hell.",
+    "genre": "Shooter",
+    "id": "475867",
+    "link": "https://davethedev.itch.io/welcome-to-the-afterlife",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDM5MzYucG5n/315x250%23c/ICsDgt.png",
+    "title": "Welcome to the Afterlife",
+    "video": null,
+    "scrapeWords": [
+      "Welcome",
+      "to",
+      "the",
+      "Afterlife"
+    ]
+  },
+  {
+    "author": "MaoItsMe",
+    "description": "Simple RPG made in one week for the Community Game Jam",
+    "genre": "Role Playing",
+    "id": "475898",
+    "link": "https://maoitsme.itch.io/cave-treasuring",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDg2NDEucG5n/315x250%23c/tp0S%2Fd.png",
+    "title": "Cave Treasuring",
+    "video": null,
+    "scrapeWords": [
+      "Cave",
+      "Treasuring"
+    ]
+  },
+  {
+    "author": "StealthyNiffler",
+    "description": "You have to lie!",
+    "genre": null,
+    "id": "475930",
+    "link": "https://stealthyniffler.itch.io/there-is-a-dude",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDc1ODYucG5n/315x250%23c/SrBUwv.png",
+    "title": "There Is A Dude",
+    "video": null,
+    "scrapeWords": [
+      "There",
+      "Is",
+      "A",
+      "Dude"
+    ]
+  },
+  {
+    "author": "diogohex",
+    "description": "experimental adventure-platform game",
+    "genre": "Adventure",
+    "id": "476197",
+    "link": "https://diogohex.itch.io/temperanca",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTU5MDUucG5n/315x250%23c/frI7vN.png",
+    "title": "Temperança",
+    "video": null,
+    "scrapeWords": [
+      "Temperança"
+    ]
+  },
+  {
+    "author": "Sam Daiya",
+    "description": "It's a Puzzel Game inspired by \"Alt+F4\" Shortcut to \"Exit Applications\".",
+    "genre": "Puzzle",
+    "id": "476488",
+    "link": "https://samdaiya.itch.io/alt-f4",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDgxODcucG5n/315x250%23c/8z5ho3.png",
+    "title": "Alt + F4",
+    "video": null,
+    "scrapeWords": [
+      "Alt",
+      "",
+      "F4"
+    ]
+  },
+  {
+    "author": "3erMundo",
+    "description": "Game made for Community Game Jam 2019",
+    "genre": "Shooter",
+    "id": "476561",
+    "link": "https://3ermundo.itch.io/beach-bros-mento-y-freson",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTI0MTkucG5n/315x250%23c/q1mkfH.png",
+    "title": "Beach bros.: Mento y Freson",
+    "video": null,
+    "scrapeWords": [
+      "Beach",
+      "bros",
+      "Mento",
+      "y",
+      "Freson"
+    ]
+  },
+  {
+    "author": "Wolfy7",
+    "description": "Community Game Jam - The Game Is A Liar",
+    "genre": null,
+    "id": "476610",
+    "link": "https://wolfy7.itch.io/impossibru",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDg1ODgucG5n/315x250%23c/VPMj3t.png",
+    "title": "impossibru",
+    "video": null,
+    "scrapeWords": [
+      "impossibru"
+    ]
+  },
+  {
+    "author": "fedz",
+    "description": "Kingdom management game for Community game jam",
+    "genre": "Strategy",
+    "id": "476734",
+    "link": "https://fedz.itch.io/land-of-sunder",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDk1NjQucG5n/315x250%23c/Z6EWQ%2F.png",
+    "title": "Land of Sunder",
+    "video": null,
+    "scrapeWords": [
+      "Land",
+      "of",
+      "Sunder"
+    ]
+  },
+  {
+    "author": "PatteDeCanaard",
+    "description": null,
+    "genre": "Card Game",
+    "id": "476812",
+    "link": "https://pattedecanaard.itch.io/dungeons-and-deception",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NDk5OTguZ2lm/315x250%23cm/u%2BecPm.gif",
+    "title": "Dungeons  and Deception",
+    "video": "https://img.itch.zone/aW1nLzI0NDk5OTguZ2lm/original/Obi0Y%2B.gif",
+    "scrapeWords": [
+      "Dungeons",
+      "",
+      "and",
+      "Deception"
+    ]
+  },
+  {
+    "author": "Michael Coorlim",
+    "description": null,
+    "genre": "Action",
+    "id": "477597",
+    "link": "https://mcoorlim.itch.io/space-junk",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NTQwMTAuZ2lm/315x250%23cm/ELcplq.gif",
+    "title": "Space Junk",
+    "video": "https://img.itch.zone/aW1nLzI0NTQwMTAuZ2lm/original/LbmYKU.gif",
+    "scrapeWords": [
+      "Space",
+      "Junk"
+    ]
+  },
+  {
+    "author": "lpancho",
+    "description": "Short game using MET assets",
+    "genre": "Adventure",
+    "id": "477611",
+    "link": "https://lpancho.itch.io/when-in-gheltizka",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NTQxOTYucG5n/315x250%23c/enuZz0.png",
+    "title": "When in Gheltizka",
+    "video": null,
+    "scrapeWords": [
+      "When",
+      "in",
+      "Gheltizka"
+    ]
+  },
+  {
+    "author": "nezvers",
+    "description": "Guess code by ear",
+    "genre": "Puzzle",
+    "id": "477730",
+    "link": "https://nezvers.itch.io/crack-the-code",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NTUxODkucG5n/315x250%23c/68RpDQ.png",
+    "title": "Crack the code",
+    "video": null,
+    "scrapeWords": [
+      "Crack",
+      "the",
+      "code"
+    ]
+  },
+  {
+    "author": "asheraryam",
+    "description": "Play with multiple mortys.",
+    "genre": "Platformer",
+    "id": "477799",
+    "link": "https://asheraryam.itch.io/mortyverse",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTU3OTEucG5n/315x250%23c/6cXmoR.png",
+    "title": "Mortyverse",
+    "video": null,
+    "scrapeWords": [
+      "Mortyverse"
+    ]
+  },
+  {
+    "author": "Code with Tom",
+    "description": "A simple game about squares...",
+    "genre": "Shooter",
+    "id": "478085",
+    "link": "https://codewithtom.itch.io/primitives",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NTc3NjEucG5n/315x250%23c/5XIltf.png",
+    "title": "Primitives",
+    "video": null,
+    "scrapeWords": [
+      "Primitives"
     ]
   },
   {
