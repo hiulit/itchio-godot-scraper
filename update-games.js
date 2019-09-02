@@ -1,5 +1,6 @@
 const cheerio = require('cheerio')
 const fs = require('fs')
+const readline = require('readline')
 const request = require('request')
 
 const http = require('http')
@@ -60,17 +61,22 @@ function scraper(url) {
   return new Promise(function(resolve, reject) {
     request(url.url, function(err, resp, body) {
       let percentage_progress = ((url.id * 100) / url.nPages).toFixed(0)
-      process.stdout.clearLine()
-      process.stdout.cursorTo(0)
-      process.stdout.write(
-        'Scraping progress for ' +
+
+      function waitingPercent(p) {
+        readline.clearLine(process.stdout, 0)
+        readline.cursorTo(process.stdout, 0)
+        text =
+          'Scraping progress for ' +
           url.url.substring(0, url.url.indexOf('?')) +
           ': ' +
           percentage_progress +
           '% of ' +
           url.maxPages +
           ' games.'
-      )
+        process.stdout.write(text)
+      }
+
+      waitingPercent(percentage_progress)
 
       let $ = cheerio.load(body)
 
