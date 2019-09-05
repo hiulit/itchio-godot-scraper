@@ -55,7 +55,7 @@ app.get('/api/games', (req, res) => {
 app.get('/api/game/:title', function (req, res) {
   getGames().then(games => {
     let promiseArray = []
-
+    
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
@@ -111,9 +111,12 @@ app.get('/api/game/:title', function (req, res) {
       }
 
       if (intersections.length) {
-        // Check if every intersection is the same.
+        // Check if every intersection is the same (and it has more than one intersection).
         // If so, return an empty json because it means there are too many options.
-        if (intersections.every((val, i, arr) => val === intersections[0])) {
+        if (
+          intersections.length > 1 &&
+          intersections.every((val, i, arr) => val === arr[0])
+        ) {
           res.json({})
           return
         }
