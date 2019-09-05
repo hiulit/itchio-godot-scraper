@@ -22934,6 +22934,21 @@
     ]
   },
   {
+    "author": "RuanSR",
+    "description": null,
+    "genre": null,
+    "id": "347796",
+    "link": "https://ruansr.itch.io/tap-plane",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzE3MjcwOTQucG5n/315x250%23c/Y5FLhM.png",
+    "title": "Tap Plane",
+    "video": null,
+    "scrapeWords": [
+      "Tap",
+      "Plane"
+    ]
+  },
+  {
     "author": "AlexHoratio",
     "description": "A horizontal space shooter wherein you have to rescue your pet from a distant planet!",
     "genre": "Shooter",
@@ -26673,7 +26688,7 @@
     "description": "Dominate all planets and destroy the enemies!",
     "genre": "Strategy",
     "id": "379478",
-    "link": "https://guilhermitoo.itch.io/mass-domination",
+    "link": "https://ghcdias.itch.io/mass-domination",
     "platforms": [
       "Windows"
     ],
@@ -33602,11 +33617,11 @@
     ]
   },
   {
-    "author": "captain_ps",
+    "author": "Undiscovered",
     "description": "Future Jam Stealth Game",
     "genre": null,
     "id": "443920",
-    "link": "https://captain-ps.itch.io/not-for-them",
+    "link": "https://undiscovered.itch.io/not-for-them",
     "platforms": [
       "Windows",
       "Linux",
@@ -34339,20 +34354,6 @@
     ]
   },
   {
-    "author": "D.T.6",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "449880",
-    "link": "https://dt6.itch.io/purpy",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIyOTgyNzQuanBn/315x250%23c/YFJDGz.jpg",
-    "title": "Purpy",
-    "video": null,
-    "scrapeWords": [
-      "Purpy"
-    ]
-  },
-  {
     "author": "EagerElectronics",
     "description": "Fast Paced Rogue-Lite Platform Shooter",
     "genre": "Shooter",
@@ -34407,7 +34408,7 @@
   },
   {
     "author": "Kenomic Games",
-    "description": "You think you're know tower defense? You are mistaken!",
+    "description": "From monsters that eat each other to bullets that increases damage over distance, this TD is surely unique!",
     "genre": "Strategy",
     "id": "450259",
     "link": "https://kenoma.itch.io/parallel-defense",
@@ -35242,7 +35243,8 @@
     "id": "456545",
     "link": "https://lefumis.itch.io/a-52",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzMTg0ODIucG5n/315x250%23c/zj%2F%2B8X.png",
     "title": "A-52",
@@ -37378,7 +37380,7 @@
     ]
   },
   {
-    "author": "BoelaDW",
+    "author": "Facepalm Games",
     "description": null,
     "genre": "Platformer",
     "id": "468569",
@@ -38151,7 +38153,7 @@
     "id": "472215",
     "link": "https://generousbawls.itch.io/wman",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0MTk2ODUucG5n/315x250%23c/GTnj3e.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0NjM0MjgucG5n/315x250%23c/ZCLskh.png",
     "title": "WMan's day off",
     "video": null,
     "scrapeWords": [
@@ -38579,6 +38581,23 @@
     ]
   },
   {
+    "author": "ASecondGuy",
+    "description": null,
+    "genre": "Action",
+    "id": "475365",
+    "link": "https://asecondguy.itch.io/chicken-demon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTk4MzYucG5n/315x250%23c/UE88Iq.png",
+    "title": "Chicken Demon",
+    "video": null,
+    "scrapeWords": [
+      "Chicken",
+      "Demon"
+    ]
+  },
+  {
     "author": "Vulpon",
     "description": "2-bit platformer \"metroidvania\" for Community Game Jam 2019!",
     "genre": "Platformer",
@@ -38853,6 +38872,44 @@
     ]
   },
   {
+    "author": "José Manuel Gris Umpierrez",
+    "description": "A game in the style of classics like Ghosts' n Goblins and Game Over.",
+    "genre": "Action",
+    "id": "477943",
+    "link": "https://manuel-gris-umpierrez.itch.io/magic-and-demons",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTY4NzYucG5n/315x250%23c/OpZcg7.png",
+    "title": "Magic and Demons",
+    "video": null,
+    "scrapeWords": [
+      "Magic",
+      "and",
+      "Demons"
+    ]
+  },
+  {
+    "author": "XtremeZero",
+    "description": "Between reality and a dream takes place an adventure, story driven game .",
+    "genre": "Adventure",
+    "id": "478045",
+    "link": "https://mohammedzero43.itch.io/when-you-go-to-sleep",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTc1MDMucG5n/315x250%23c/1OMlVU.png",
+    "title": "When You Go To Sleep",
+    "video": null,
+    "scrapeWords": [
+      "When",
+      "You",
+      "Go",
+      "To",
+      "Sleep"
+    ]
+  },
+  {
     "author": "Code with Tom",
     "description": "A simple game about squares...",
     "genre": "Shooter",
@@ -38864,6 +38921,110 @@
     "video": null,
     "scrapeWords": [
       "Primitives"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Game made in 30 minutes for a 30 minute jam.",
+    "genre": "Action",
+    "id": "478311",
+    "link": "https://figytuna.itch.io/quick-road",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTk1NDgucG5n/315x250%23c/7E6mVn.png",
+    "title": "Quick Road",
+    "video": null,
+    "scrapeWords": [
+      "Quick",
+      "Road"
+    ]
+  },
+  {
+    "author": "AsherGomez",
+    "description": "A small 6 level platformer.",
+    "genre": "Platformer",
+    "id": "478375",
+    "link": "https://ashergomez.itch.io/colors",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTk5OTgucG5n/315x250%23c/jDglWX.png",
+    "title": "Colors",
+    "video": null,
+    "scrapeWords": [
+      "Colors"
+    ]
+  },
+  {
+    "author": "Guilherme Dias",
+    "description": "Sobreviva ao extremo!",
+    "genre": "Action",
+    "id": "478436",
+    "link": "https://ghcdias.itch.io/survivlesz",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NjA0NzYucG5n/315x250%23c/WFaeHG.png",
+    "title": "Survivlesz",
+    "video": null,
+    "scrapeWords": [
+      "Survivlesz"
+    ]
+  },
+  {
+    "author": "WIITD",
+    "description": "2D Top-Down Shooter",
+    "genre": "Action",
+    "id": "478470",
+    "link": "https://wiitd.itch.io/nwi",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NjA3MTYucG5n/315x250%23c/LdTvQW.png",
+    "title": "Next Wave Incoming",
+    "video": null,
+    "scrapeWords": [
+      "Next",
+      "Wave",
+      "Incoming"
+    ]
+  },
+  {
+    "author": "Whyat1872",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "478564",
+    "link": "https://whyat1872.itch.io/untitled-rpg",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NjE1NDMucG5n/315x250%23c/35JBqq.png",
+    "title": "Untitled RPG",
+    "video": null,
+    "scrapeWords": [
+      "Untitled",
+      "RPG"
+    ]
+  },
+  {
+    "author": "BrightFeather",
+    "description": "Blow on a Lemon!",
+    "genre": "Survival",
+    "id": "478961",
+    "link": "https://brightfeather.itch.io/floatylemon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NjQwMjYucG5n/315x250%23c/xj%2FZcz.png",
+    "title": "Floaty Lemon",
+    "video": null,
+    "scrapeWords": [
+      "Floaty",
+      "Lemon"
     ]
   },
   {
