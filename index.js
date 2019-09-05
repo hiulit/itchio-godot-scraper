@@ -72,7 +72,7 @@ app.get('/api/game/:title', function (req, res) {
       }
       gameTitleRequest = gameTitleRequest.replace(/([a-z0-9])([A-Z])/g, '$1 $2') // Split camelCase words
       gameTitleRequest = gameTitleRequest.replace(/_/g, ' ') // Remove underscores
-      gameTitleRequest = gameTitleRequest.replace(/Jam/g, '') // Remove the word 'Jam'
+      // gameTitleRequest = gameTitleRequest.replace(/Jam/g, '') // Remove the word 'Jam'
       gameTitleRequest = gameTitleRequest.split(' ') // Split words separated by spaces
       gameTitleRequest = gameTitleRequest.map(function (x) {
         return x.toUpperCase()
@@ -101,6 +101,7 @@ app.get('/api/game/:title', function (req, res) {
         )
       }
     }
+
     Promise.all(promiseArray).then(function (response) {
       let intersections = []
 
@@ -110,7 +111,14 @@ app.get('/api/game/:title', function (req, res) {
       }
 
       if (intersections.length) {
-        res.json(response[intersections.indexOf(Math.max(...intersections))]) // Return only the game with the greatest intersection number
+        // Check if every intersection is the same.
+        // If so, return an empty json because it means there are too many options.
+        if (intersections.every((val, i, arr) => val === intersections[0])) {
+          res.json({})
+          return
+        }
+        // Return only the game with the greatest intersection number
+        res.json(response[intersections.indexOf(Math.max(...intersections))])
       } else {
         res.json({})
       }
