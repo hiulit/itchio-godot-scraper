@@ -38534,13 +38534,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0NTE4NjcucG5n/315x250%23c/lDlf5a.png",
-    "title": "The Amazing Death Race",
+    "title": "THE AMAZING DEATH RACE",
     "video": null,
     "scrapeWords": [
-      "The",
-      "Amazing",
-      "Death",
-      "Race"
+      "THE",
+      "AMAZING",
+      "DEATH",
+      "RACE"
     ]
   },
   {
@@ -38943,6 +38943,24 @@
     ]
   },
   {
+    "author": "Ortus",
+    "description": "Convert Your Stories to Animation",
+    "genre": "Interactive Fiction",
+    "id": "478341",
+    "link": "https://ortus.itch.io/ortus",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0Njg2MzQucG5n/315x250%23c/2DLIYU.png",
+    "title": "Ortus",
+    "video": null,
+    "scrapeWords": [
+      "Ortus"
+    ]
+  },
+  {
     "author": "AsherGomez",
     "description": "A small 6 level platformer.",
     "genre": "Platformer",
@@ -39025,6 +39043,53 @@
     "scrapeWords": [
       "Floaty",
       "Lemon"
+    ]
+  },
+  {
+    "author": "Austin Rogers",
+    "description": "A fast-paced arcade game where you smash around color blobs and splash them in to fill the board as fast as possible.",
+    "genre": "Action",
+    "id": "479490",
+    "link": "https://atr.itch.io/color-smash-splash",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NjgyMDAucG5n/315x250%23c/mq9NYZ.png",
+    "title": "Color Smash Splash",
+    "video": null,
+    "scrapeWords": [
+      "Color",
+      "Smash",
+      "Splash"
+    ]
+  },
+  {
+    "author": "Corrade",
+    "description": "A colour-matching bullet hell.",
+    "genre": null,
+    "id": "479530",
+    "link": "https://corrade.itch.io/kaflydoscope",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Njg1MjYucG5n/315x250%23c/HgSQ1E.png",
+    "title": "Kaflydoscope",
+    "video": null,
+    "scrapeWords": [
+      "Kaflydoscope"
+    ]
+  },
+  {
+    "author": "JBacal",
+    "description": "a word vacation for your brain",
+    "genre": "Puzzle",
+    "id": "479558",
+    "link": "https://jbacal.itch.io/crossword-island",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Njg3MjgucG5n/315x250%23c/fj1sIt.png",
+    "title": "Crossword Island",
+    "video": null,
+    "scrapeWords": [
+      "Crossword",
+      "Island"
     ]
   },
   {
