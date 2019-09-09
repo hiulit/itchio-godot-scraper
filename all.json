@@ -36249,19 +36249,17 @@
     "description": "Multiplayer game from 2 to 4 players only with joypads.​ You have to fight to eat the last crispy cheese.",
     "genre": "Fighting",
     "id": "461849",
-    "link": "https://greaby.itch.io/the-last-crispy-cheese",
+    "link": "https://greaby.itch.io/crispy-cheese",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNDk2MjYuanBn/315x250%23c/QWPrzC.jpg",
-    "title": "The last crispy cheese",
+    "title": "Crispy cheese",
     "video": null,
     "scrapeWords": [
-      "The",
-      "last",
-      "crispy",
+      "Crispy",
       "cheese"
     ]
   },
@@ -37544,6 +37542,27 @@
     "scrapeWords": [
       "Dark",
       "Elf"
+    ]
+  },
+  {
+    "author": "CyberCamera",
+    "description": "Free, open source, top-down shooter themed on the classic films of Sci-Fi's Golden Age",
+    "genre": "Shooter",
+    "id": "469393",
+    "link": "https://cybercamera.itch.io/mutant-monsters-from-mars",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MDA0NjAucG5n/315x250%23c/jptIjs.png",
+    "title": "Mutant Monsters from Mars",
+    "video": null,
+    "scrapeWords": [
+      "Mutant",
+      "Monsters",
+      "from",
+      "Mars"
     ]
   },
   {
