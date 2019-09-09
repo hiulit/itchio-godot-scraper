@@ -70,10 +70,9 @@ app.get('/api/game/:title', function (req, res) {
           path.extname(gameTitleRequest)
         )
       }
-      gameTitleRequest = gameTitleRequest.replace(/([a-z0-9])([A-Z])/g, '$1 $2') // Split camelCase words
-      gameTitleRequest = gameTitleRequest.replace(/_/g, ' ') // Remove underscores
-      // gameTitleRequest = gameTitleRequest.replace(/Jam/g, '') // Remove the word 'Jam'
-      gameTitleRequest = gameTitleRequest.split(' ') // Split words separated by spaces
+      gameTitleRequest = gameTitleRequest.replace(/([a-z0-9])([A-Z])/g, '$1 $2') // Split camelCase words.
+      gameTitleRequest = gameTitleRequest.replace(/_|-|\.|\[|\]|\{|\}/g, ' ') // Convert dashes, underscores, dots and brackets into spaces.
+      gameTitleRequest = gameTitleRequest.split(' ') // Split words separated by spaces.
       gameTitleRequest = gameTitleRequest.map(function (x) {
         return x.toUpperCase()
       })
@@ -82,13 +81,13 @@ app.get('/api/game/:title', function (req, res) {
         return x.toUpperCase()
       })
 
-      // How many words match
-      let intersection = gameTitleRequest.filter(element =>
+      // How many words match.
+      let intersections = gameTitleRequest.filter(element =>
         scrapeWords.includes(element)
       )
-      game.intersection = intersection.length
+      game.intersections = intersections.length
 
-      if (intersection.length) {
+      if (intersections.length) {
         promiseArray.push(
           getGame(game.link).then(body => {
             let $ = cheerio.load(body)
@@ -107,7 +106,7 @@ app.get('/api/game/:title', function (req, res) {
 
       for (let i = 0; i < response.length; i++) {
         const elem = response[i]
-        intersections.push(elem.intersection)
+        intersections.push(elem.intersections)
       }
 
       if (intersections.length) {
@@ -120,7 +119,7 @@ app.get('/api/game/:title', function (req, res) {
           res.json({})
           return
         }
-        // Return only the game with the greatest intersection number
+        // Return only the game with the greatest intersection number.
         res.json(response[intersections.indexOf(Math.max(...intersections))])
       } else {
         res.json({})
