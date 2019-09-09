@@ -36,7 +36,7 @@ git stash
 echo
 
 trap ctrl_c TERM INT
-npm run update-games &
+node update-games.js &
 PID="$!"
 wait $PID
 trap - TERM INT
@@ -65,21 +65,23 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo
         echo "All the files in 'FILES_ARRAY' look the same ... Nothing to do here."
     else
+        echo
         echo "Pushing to 'develop' ..."
         echo
         git push
+        echo
         echo "Checking out to 'master' ..."
         echo
         git checkout master
-        echo "Pulling from 'master' ..."
         echo
-        git pull
         echo "Merging 'develop' into 'master' ..."
         echo
-        git merge develop
+        git merge --no-edit develop
+        echo
         echo "Pushing to 'master' ..."
         echo
         git push
+        echo
         echo "Checking out to 'develop' ..."
         echo
         git checkout develop
