@@ -36,7 +36,7 @@ git stash
 echo
 
 trap ctrl_c TERM INT
-node update-games.js &
+npm run update-games &
 PID="$!"
 wait $PID
 trap - TERM INT
