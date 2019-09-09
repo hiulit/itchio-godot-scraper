@@ -70,7 +70,6 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         git merge develop
         git push
         git checkout develop
-        echo "git merge with master and push" 
     fi
 else
     echo
