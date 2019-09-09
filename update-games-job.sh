@@ -56,8 +56,8 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
                 echo
                 echo "- '$file' found!"
                 echo
-                # git add "$file"
-                # git commit -m "Updated $file_name"
+                git add "$file"
+                git commit -m "Updated $file_name"
             fi
         done
     done
