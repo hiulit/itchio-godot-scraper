@@ -190,7 +190,7 @@ function getAllGames() {
         )
 
         nPages = Math.ceil(maxPages / itemsPerPage)
-        // nPages = 1
+        nPages = 1
 
         let urls = []
         for (let i = 1; i < nPages + 1; i++) {
