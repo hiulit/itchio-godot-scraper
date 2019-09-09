@@ -65,10 +65,23 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo
         echo "All the files in 'FILES_ARRAY' look the same ... Nothing to do here."
     else
+        echo "Pushing to 'develop' ..."
+        echo
         git push
+        echo "Checking out to 'master' ..."
+        echo
         git checkout master
+        echo "Pulling from 'master' ..."
+        echo
+        git pull
+        echo "Merging 'develop' into 'master' ..."
+        echo
         git merge develop
+        echo "Pushing to 'master' ..."
+        echo
         git push
+        echo "Checking out to 'develop' ..."
+        echo
         git checkout develop
     fi
 else
@@ -76,6 +89,7 @@ else
     echo "No modified files detected ... Nothing to do here."
 fi
 
+echo
 echo "Unstash changes ..."
 echo
 git stash pop
