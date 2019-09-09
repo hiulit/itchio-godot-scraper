@@ -19437,7 +19437,6 @@
     "id": "319653",
     "link": "https://raccoon-js.itch.io/thieves-roulette",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -21675,25 +21674,6 @@
     "video": null,
     "scrapeWords": [
       "Kamikaze"
-    ]
-  },
-  {
-    "author": "JohnGabrielUK",
-    "description": "Sacrifices must be made.",
-    "genre": "Visual Novel",
-    "id": "338682",
-    "link": "https://johngabrieluk.itch.io/finding-the-lamb",
-    "platforms": [
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE2ODAwNTAuanBn/315x250%23c/0RxsFs.jpg",
-    "title": "Finding the Lamb",
-    "video": null,
-    "scrapeWords": [
-      "Finding",
-      "the",
-      "Lamb"
     ]
   },
   {
@@ -27247,7 +27227,10 @@
     "genre": "Adventure",
     "id": "382989",
     "link": "https://directgames.itch.io/sandvox",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzE5MjMwODQucG5n/315x250%23c/URIPpf.png",
     "title": "Sandvox",
     "video": null,
@@ -34153,6 +34136,23 @@
     ]
   },
   {
+    "author": "Daisinkaizer",
+    "description": "Buzo extremo es un videojuego para mobile de formato endless runner creado por un pequeño grupo de estudiantes novatos.",
+    "genre": null,
+    "id": "448679",
+    "link": "https://daisinkaizer.itch.io/buzo-extremo",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzE3NDYucG5n/315x250%23c/zXwzU7.png",
+    "title": "Buzo extremo",
+    "video": null,
+    "scrapeWords": [
+      "Buzo",
+      "extremo"
+    ]
+  },
+  {
     "author": "Houkime",
     "description": "A short nerdy cyberpunk game about FOSS, OSHW and freedom",
     "genre": "Adventure",
@@ -34288,23 +34288,6 @@
     ]
   },
   {
-    "author": "PlanetKiller",
-    "description": "A vacuum, a desert planet, and everyone counting on you.",
-    "genre": "Shooter",
-    "id": "449621",
-    "link": "https://planetkiller.itch.io/littleone",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyNzUwNDMucG5n/315x250%23c/ILD%2FuA.png",
-    "title": "LittleOne",
-    "video": null,
-    "scrapeWords": [
-      "Little",
-      "One"
-    ]
-  },
-  {
     "author": "Fupi",
     "description": "Defuse a bomb in the dark.",
     "genre": null,
@@ -34419,11 +34402,10 @@
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIyOTYwMDEucG5n/315x250%23c/LXhyRD.png",
-    "title": "Pleroma Tower Defense",
+    "title": "Parallel Defense",
     "video": null,
     "scrapeWords": [
-      "Pleroma",
-      "Tower",
+      "Parallel",
       "Defense"
     ]
   },
@@ -36267,19 +36249,17 @@
     "description": "Multiplayer game from 2 to 4 players only with joypads.​ You have to fight to eat the last crispy cheese.",
     "genre": "Fighting",
     "id": "461849",
-    "link": "https://greaby.itch.io/the-last-crispy-cheese",
+    "link": "https://greaby.itch.io/crispy-cheese",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNDk2MjYuanBn/315x250%23c/QWPrzC.jpg",
-    "title": "The last crispy cheese",
+    "title": "Crispy cheese",
     "video": null,
     "scrapeWords": [
-      "The",
-      "last",
-      "crispy",
+      "Crispy",
       "cheese"
     ]
   },
@@ -36611,7 +36591,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTk1MzEucG5n/315x250%23c/J2zYTv.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0NzQ4OTkucG5n/315x250%23c/y5KZQG.png",
     "title": "Unprepared Adventurer(GMTK Jam)",
     "video": null,
     "scrapeWords": [
@@ -37562,6 +37542,27 @@
     "scrapeWords": [
       "Dark",
       "Elf"
+    ]
+  },
+  {
+    "author": "CyberCamera",
+    "description": "Free, open source, top-down shooter themed on the classic films of Sci-Fi's Golden Age",
+    "genre": "Shooter",
+    "id": "469393",
+    "link": "https://cybercamera.itch.io/mutant-monsters-from-mars",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MDA0NjAucG5n/315x250%23c/jptIjs.png",
+    "title": "Mutant Monsters from Mars",
+    "video": null,
+    "scrapeWords": [
+      "Mutant",
+      "Monsters",
+      "from",
+      "Mars"
     ]
   },
   {
@@ -39001,9 +39002,7 @@
     "genre": "Action",
     "id": "478470",
     "link": "https://wiitd.itch.io/nwi",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0NjA3MTYucG5n/315x250%23c/LdTvQW.png",
     "title": "Next Wave Incoming",
     "video": null,
@@ -39083,7 +39082,9 @@
     "genre": "Puzzle",
     "id": "479558",
     "link": "https://jbacal.itch.io/crossword-island",
-    "platforms": null,
+    "platforms": [
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0Njg3MjgucG5n/315x250%23c/fj1sIt.png",
     "title": "Crossword Island",
     "video": null,
@@ -39108,6 +39109,130 @@
     "scrapeWords": [
       "Pixies",
       "Flowers"
+    ]
+  },
+  {
+    "author": "Davi Fox",
+    "description": "Avoid spikes, get the fish.",
+    "genre": "Platformer",
+    "id": "479924",
+    "link": "https://davifoox.itch.io/pocket-cat",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzEzNDUucG5n/315x250%23c/ATB727.png",
+    "title": "Pocket Cat",
+    "video": null,
+    "scrapeWords": [
+      "Pocket",
+      "Cat"
+    ]
+  },
+  {
+    "author": "Truffelbaguette",
+    "description": "Dodge and Splash",
+    "genre": "Action",
+    "id": "480203",
+    "link": "https://truffelbaguette.itch.io/painsplasher",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NzI4NzAucG5n/315x250%23c/LIphzD.png",
+    "title": "PaintSplasher",
+    "video": null,
+    "scrapeWords": [
+      "Paint",
+      "Splasher"
+    ]
+  },
+  {
+    "author": "Johano R. Sulfuro",
+    "description": null,
+    "genre": "Rhythm",
+    "id": "480415",
+    "link": "https://raccoon-js.itch.io/the-food-doggy-likes",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzQyOTUucG5n/315x250%23c/mJnEZG.png",
+    "title": "The Food Doggy Likes",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Food",
+      "Doggy",
+      "Likes"
+    ]
+  },
+  {
+    "author": "Jaykingamez",
+    "description": "Grid based bullet hell",
+    "genre": "Survival",
+    "id": "480547",
+    "link": "https://jaykingamez.itch.io/hot-or-cold",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0Nzg2ODgucG5n/315x250%23c/JxWAxI.png",
+    "title": "Hot or Cold",
+    "video": null,
+    "scrapeWords": [
+      "Hot",
+      "or",
+      "Cold"
+    ]
+  },
+  {
+    "author": "Housies",
+    "description": "A game in which you help Stephen Hawking build and drive the ultimate wheelchair",
+    "genre": "Racing",
+    "id": "480646",
+    "link": "https://housies.itch.io/hawking",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzYwNTgucG5n/315x250%23c/oKoK%2Fe.png",
+    "title": "Stephen Hawking: Ultimate Wheelchair",
+    "video": null,
+    "scrapeWords": [
+      "Stephen",
+      "Hawking",
+      "Ultimate",
+      "Wheelchair"
+    ]
+  },
+  {
+    "author": "mini-m",
+    "description": "A minijam game about a seeds producer fighting ultra-liberalism",
+    "genre": "Action",
+    "id": "481037",
+    "link": "https://mini-m.itch.io/the-gardener",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgzMzAucG5n/315x250%23c/6iJ%2Bkn.png",
+    "title": "The Guerilla Gardener",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Guerilla",
+      "Gardener"
+    ]
+  },
+  {
+    "author": "Corrade",
+    "description": "A small 2D boss-battle game in which you play as a school of fish.",
+    "genre": null,
+    "id": "481044",
+    "link": "https://corrade.itch.io/bait-ball",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Nzg2MDkucG5n/315x250%23c/3xNBQ4.png",
+    "title": "Bait Ball",
+    "video": null,
+    "scrapeWords": [
+      "Bait",
+      "Ball"
     ]
   },
   {
