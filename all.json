@@ -38204,11 +38204,7 @@
     "genre": "Platformer",
     "id": "472718",
     "link": "https://nuke-detonator.itch.io/bonorowarforsys",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0MjM2MTUucG5n/315x250%23c/Q%2FiQiU.png",
     "title": "Bonoro War For System",
     "video": null,
