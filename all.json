@@ -39259,6 +39259,23 @@
     ]
   },
   {
+    "author": "ByterBrod",
+    "description": "SimplePlatformerGame",
+    "genre": "Platformer",
+    "id": "480711",
+    "link": "https://byterbrod.itch.io/jumping-jungle-adventure",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzY1MTAuanBn/315x250%23c/FRs18N.jpg",
+    "title": "Jumping Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Jumping",
+      "Adventure"
+    ]
+  },
+  {
     "author": "heckin_doggo",
     "description": "Collect the movies. Become the Governator.",
     "genre": "Platformer",
