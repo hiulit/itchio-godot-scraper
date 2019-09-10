@@ -38506,6 +38506,22 @@
     ]
   },
   {
+    "author": "Whyat1872",
+    "description": null,
+    "genre": "Survival",
+    "id": "474724",
+    "link": "https://whyat1872.itch.io/slime-tile-dodge",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MzY5OTEucG5n/315x250%23c/KYiPqT.png",
+    "title": "Slime Tile Dodge",
+    "video": null,
+    "scrapeWords": [
+      "Slime",
+      "Tile",
+      "Dodge"
+    ]
+  },
+  {
     "author": "oda",
     "description": null,
     "genre": null,
@@ -38805,6 +38821,23 @@
       "",
       "and",
       "Deception"
+    ]
+  },
+  {
+    "author": "vandrake",
+    "description": "[WIP] A roguelike game",
+    "genre": "Role Playing",
+    "id": "477436",
+    "link": "https://vandrake.itch.io/rowgue",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0Nzk4MDgucG5n/315x250%23c/8GNV8s.png",
+    "title": "Rowgue",
+    "video": null,
+    "scrapeWords": [
+      "Rowgue"
     ]
   },
   {
@@ -39145,6 +39178,27 @@
     ]
   },
   {
+    "author": "CodeGoons",
+    "description": "You strand on an unknown island and have to build up your own farm. But don't worry. You're not alone.",
+    "genre": "Simulation",
+    "id": "480330",
+    "link": "https://codegoons.itch.io/go-farm-yourself",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzU4NjQucG5n/315x250%23c/tvUYtF.png",
+    "title": "Go Farm Yourself",
+    "video": null,
+    "scrapeWords": [
+      "Go",
+      "Farm",
+      "Yourself"
+    ]
+  },
+  {
     "author": "Johano R. Sulfuro",
     "description": null,
     "genre": "Rhythm",
@@ -39205,6 +39259,28 @@
     ]
   },
   {
+    "author": "heckin_doggo",
+    "description": "Collect the movies. Become the Governator.",
+    "genre": "Platformer",
+    "id": "480855",
+    "link": "https://heckin-doggo.itch.io/arnold",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NzcxODUucG5n/315x250%23c/lcGP3z.png",
+    "title": "Arnold and the Quest to become Governor of California",
+    "video": null,
+    "scrapeWords": [
+      "Arnold",
+      "and",
+      "the",
+      "Quest",
+      "to",
+      "become",
+      "Governor",
+      "of",
+      "California"
+    ]
+  },
+  {
     "author": "mini-m",
     "description": "A minijam game about a seeds producer fighting ultra-liberalism",
     "genre": "Action",
@@ -39226,7 +39302,11 @@
     "genre": null,
     "id": "481044",
     "link": "https://corrade.itch.io/bait-ball",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0Nzg2MDkucG5n/315x250%23c/3xNBQ4.png",
     "title": "Bait Ball",
     "video": null,
