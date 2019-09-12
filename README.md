@@ -10,7 +10,8 @@ https://itchio-godot-scraper.now.sh
 
 - `/api` - Get all the games.
 - `/api/games` - Get all the games titles.
-- `/api/game/:title` - Get game by title.
+- `/api/game/title/:title` - Get game by title.
+- `/api/game/id/:id` - Get game by id.
 - `/api/authors` - Get all the authors.
 - `/api/author/:author` - Get games by author.
 - `/api/platforms` - Get all the platforms.
@@ -24,10 +25,10 @@ What the scrapes does is take `:title` and split in words, following some conven
 
 For the scraper to be able find the game, the game's name/title (and particularly the game's build name) needs to follow any of these conventions:
 
-- It must be camelCase (e.g. "thisIsMyGame").
-- It must use dashes or underscores (e.g. "this-is-my-game" or "this_is_my_game").
-- It must use spaces (e.g "this is my game").
-- It must use dots (e.g. "this.is.my.game").
+- It must be camelCase (e.g. `thisIsMyGame`).
+- It must use dashes or underscores (e.g. `this-is-my-game` or `this_is_my_game`).
+- It must use spaces (e.g `this is my game`).
+- It must use dots (e.g. `this.is.my.game`).
 
 ## Troubleshooting
 

@@ -39,23 +39,23 @@ app.get('/api', (req, res) => {
 
 app.get('/api/games', (req, res) => {
   getGames().then(games => {
-    let title = []
+    let titles = []
 
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
-      if (!title.includes(game.title)) {
-        title.push(game.title)
+      if (!titles.includes(game.title)) {
+        titles.push(game.title)
       }
     }
-    res.json(title)
+    res.json(titles)
   })
 })
 
-app.get('/api/game/:title', function (req, res) {
+app.get('/api/game/title/:title', function (req, res) {
   getGames().then(games => {
     let promiseArray = []
-    
+
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
@@ -76,6 +76,8 @@ app.get('/api/game/:title', function (req, res) {
       gameTitleRequest = gameTitleRequest.map(function (x) {
         return x.toUpperCase()
       })
+
+      console.log(gameTitleRequest)
 
       let scrapeWords = game.scrapeWords.map(function (x) {
         return x.toUpperCase()
@@ -128,6 +130,27 @@ app.get('/api/game/:title', function (req, res) {
   })
 })
 
+app.get('/api/game/id/:id', (req, res) => {
+  getGames().then(games => {
+    let gameByID
+
+    for (let i = 0; i < games.length; i++) {
+      const game = games[i]
+
+      if (game.id === req.params.id) {
+        gameByID = game
+        break
+      }
+    }
+
+    if (gameByID) {
+      res.json(gameByID)
+    } else {
+      res.json({})
+    }
+  })
+})
+
 app.get('/api/authors', (req, res) => {
   getGames().then(games => {
     let authors = []
@@ -139,7 +162,12 @@ app.get('/api/authors', (req, res) => {
         authors.push(game.author)
       }
     }
-    res.json(authors)
+
+    if (authors) {
+      res.json(authors)
+    } else {
+      res.json({})
+    }
   })
 })
 
@@ -154,7 +182,12 @@ app.get('/api/author/:author', function (req, res) {
         gamesByAuthor.push(game)
       }
     }
-    res.json(gamesByAuthor)
+
+    if (gamesByAuthor) {
+      res.json(gamesByAuthor)
+    } else {
+      res.json({})
+    }
   })
 })
 
@@ -165,15 +198,22 @@ app.get('/api/platforms', (req, res) => {
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
-      for (let j = 0; j < game.platforms.length; j++) {
-        const platform = game.platforms[j]
+      if (game.platforms && game.platforms.length) {
+        for (let j = 0; j < game.platforms.length; j++) {
+          const platform = game.platforms[j]
 
-        if (!platforms.includes(platform)) {
-          platforms.push(platform)
+          if (!platforms.includes(platform)) {
+            platforms.push(platform)
+          }
         }
       }
     }
-    res.json(platforms)
+
+    if (platforms) {
+      res.json(platforms)
+    } else {
+      res.json({})
+    }
   })
 })
 
@@ -184,7 +224,7 @@ app.get('/api/platform/:platform', function (req, res) {
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
-      if (game.platforms.length) {
+      if (game.platforms && game.platforms.length) {
         for (let j = 0; j < game.platforms.length; j++) {
           const platform = game.platforms[j]
 
@@ -194,7 +234,12 @@ app.get('/api/platform/:platform', function (req, res) {
         }
       }
     }
-    res.json(gamesByPlatforms)
+
+    if (gamesByPlatforms) {
+      res.json(gamesByPlatforms)
+    } else {
+      res.json({})
+    }
   })
 })
 
