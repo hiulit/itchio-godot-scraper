@@ -152,8 +152,10 @@ function scraper(url) {
             scrapeWords = scrapeWords.split(' ')
             // Remove some values from the array
             scrapeWords = scrapeWords.filter(function(el) {
-              return el !== (undefined || null || '' || '-' || '_')
+              return el !== ('-' || '_')
             })
+            // Remove booleans from array (null, undefined, false, '') but no the number '0'.
+            scrapeWords = scrapeWords.filter(el => el === 0 || Boolean(el))
 
             // console.log(scrapeWords)
             game.scrapeWords = scrapeWords
