@@ -23,8 +23,15 @@
       ]
     },
     {
-      "src": "/api/game/(?<title>[^/]+)",
+      "src": "/api/game/title/(?<title>[^/]+)",
       "dest": "/index.js?title=$1",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "src": "/api/game/id/(?<id>[^/]+)",
+      "dest": "/index.js?id=$1",
       "methods": [
         "GET"
       ]
