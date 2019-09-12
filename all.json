@@ -2542,11 +2542,11 @@
     ]
   },
   {
-    "author": "DeadlyAlive",
+    "author": "rtsketo",
     "description": null,
     "genre": "Platformer",
     "id": "164129",
-    "link": "https://deadlyalive.itch.io/greeendys",
+    "link": "https://rtsketo.itch.io/greeendys",
     "platforms": [
       "Windows",
       "Linux",
@@ -36265,21 +36265,21 @@
   },
   {
     "author": "johnnygossdev",
-    "description": "Flying Apple Precision",
+    "description": "Arrow to Apple Fun",
     "genre": "Action",
     "id": "461901",
-    "link": "https://johnnygossdev.itch.io/apple-hunting",
+    "link": "https://johnnygossdev.itch.io/apple-arrow",
     "platforms": [
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNjQ2NTYucG5n/315x250%23c/bNvGaQ.png",
-    "title": "Apple  Hunting",
+    "thumb": "https://img.itch.zone/aW1nLzI0ODYzMTYucG5n/315x250%23c/CvGc32.png",
+    "title": "Apple  Arrow",
     "video": null,
     "scrapeWords": [
       "Apple",
       "",
-      "Hunting"
+      "Arrow"
     ]
   },
   {
@@ -39110,6 +39110,22 @@
     ]
   },
   {
+    "author": "diego8arock",
+    "description": "This an early prototype for a sapce shooter game made in godot.",
+    "genre": "Shooter",
+    "id": "479544",
+    "link": "https://diego8arock.itch.io/godotspaceshooter",
+    "platforms": null,
+    "thumb": null,
+    "title": "GodotSpaceShooter",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Space",
+      "Shooter"
+    ]
+  },
+  {
     "author": "JBacal",
     "description": "a word vacation for your brain",
     "genre": "Puzzle",
@@ -39333,6 +39349,22 @@
     ]
   },
   {
+    "author": "BebeYoshi",
+    "description": null,
+    "genre": "Shooter",
+    "id": "481090",
+    "link": "https://bebeyoshi.itch.io/ice-idol-challenge",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Nzg1ODYucG5n/315x250%23c/vXdMO1.png",
+    "title": "Ice Idol Challenge",
+    "video": null,
+    "scrapeWords": [
+      "Ice",
+      "Idol",
+      "Challenge"
+    ]
+  },
+  {
     "author": "CowThing",
     "description": "Mountain climbing platformer.",
     "genre": "Platformer",
@@ -39347,6 +39379,26 @@
     "scrapeWords": [
       "Mountain",
       "Climb"
+    ]
+  },
+  {
+    "author": "AlexHoratio",
+    "description": null,
+    "genre": "Shooter",
+    "id": "481586",
+    "link": "https://alexhoratio.itch.io/32-bad-sectors",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0ODE4MDkuZ2lm/315x250%23cm/MJqBxw.gif",
+    "title": "32 Bad Sectors",
+    "video": "https://img.itch.zone/aW1nLzI0ODE4MDkuZ2lm/original/Nnstrl.gif",
+    "scrapeWords": [
+      "32",
+      "Bad",
+      "Sectors"
     ]
   },
   {
