@@ -70,6 +70,10 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo
         git checkout develop
         echo
+        echo "Pulling from 'develop' ..."
+        echo
+        git pull
+        echo
         echo "Pushing to 'develop' ..."
         echo
         git push
@@ -77,6 +81,10 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo "Checking out to 'master' ..."
         echo
         git checkout master
+        echo
+        echo "Pulling from 'master' ..."
+        echo
+        git pull
         echo
         echo "Merging 'develop' into 'master' ..."
         echo
