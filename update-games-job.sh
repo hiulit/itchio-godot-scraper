@@ -66,6 +66,10 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo "All the files in 'FILES_ARRAY' look the same ... Nothing to do here."
     else
         echo
+        echo "Checking out to 'develop' ..."
+        echo
+        git checkout develop
+        echo
         echo "Pushing to 'develop' ..."
         echo
         git push
@@ -95,7 +99,6 @@ echo
 echo "Unstash changes ..."
 echo
 git stash pop
-
 echo
 echo "---- END ----"
 echo
