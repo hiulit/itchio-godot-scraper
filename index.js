@@ -77,29 +77,29 @@ app.get('/api/game/title/:title', function (req, res) {
         return x.toUpperCase()
       })
 
-      console.log(gameTitleRequest)
-
-      let scrapeWords = game.scrapeWords.map(function (x) {
-        return x.toUpperCase()
-      })
-
-      // How many words match.
-      let intersections = gameTitleRequest.filter(element =>
-        scrapeWords.includes(element)
-      )
-      game.intersections = intersections.length
-
-      if (intersections.length) {
-        promiseArray.push(
-          getGame(game.link).then(body => {
-            let $ = cheerio.load(body)
-            let rating = $('.aggregate_rating').attr('title')
-            if (rating) {
-              game['rating'] = rating
-            }
-            return game
-          })
+      if (game.scrapeWords) {
+        let scrapeWords = game.scrapeWords.map(function (x) {
+          return x.toUpperCase()
+        })
+  
+        // How many words match.
+        let intersections = gameTitleRequest.filter(element =>
+          scrapeWords.includes(element)
         )
+        game.intersections = intersections.length
+  
+        if (intersections.length) {
+          promiseArray.push(
+            getGame(game.link).then(body => {
+              let $ = cheerio.load(body)
+              let rating = $('.aggregate_rating').attr('title')
+              if (rating) {
+                game['rating'] = rating
+              }
+              return game
+            })
+          )
+        }
       }
     }
 
