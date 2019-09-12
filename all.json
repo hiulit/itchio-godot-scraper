@@ -30,7 +30,6 @@
     "video": null,
     "scrapeWords": [
       "Room",
-      "",
       "Gloom"
     ]
   },
@@ -911,7 +910,6 @@
     "video": null,
     "scrapeWords": [
       "Links",
-      "",
       "Dots"
     ]
   },
@@ -1738,7 +1736,6 @@
     "video": null,
     "scrapeWords": [
       "Bulls",
-      "",
       "Cows"
     ]
   },
@@ -4296,7 +4293,6 @@
     "video": null,
     "scrapeWords": [
       "Moby",
-      "",
       "Toby"
     ]
   },
@@ -5144,7 +5140,6 @@
     "video": null,
     "scrapeWords": [
       "Jenny",
-      "",
       "the",
       "Guy"
     ]
@@ -5517,7 +5512,6 @@
     "scrapeWords": [
       "Archer",
       "Hunter",
-      "",
       "Prototype"
     ]
   },
@@ -5978,7 +5972,6 @@
     "scrapeWords": [
       "New",
       "Polar",
-      "",
       "Olympics"
     ]
   },
@@ -9629,7 +9622,6 @@
     "scrapeWords": [
       "AI",
       "Wild",
-      "",
       "Free",
       "Demo"
     ]
@@ -14167,7 +14159,6 @@
     "scrapeWords": [
       "Bomb",
       "Ware",
-      "",
       "10th",
       "Anniversary",
       "Edition"
@@ -21778,14 +21769,12 @@
       "[LD43]",
       "Ninos",
       "Servants",
-      "",
       "The",
       "Day",
       "We",
       "Die",
       "For",
-      "Her",
-      ""
+      "Her"
     ]
   },
   {
@@ -22182,7 +22171,6 @@
     "video": null,
     "scrapeWords": [
       "Blood",
-      "",
       "Loss"
     ]
   },
@@ -22963,6 +22951,25 @@
     "scrapeWords": [
       "Dungeon",
       "Crates"
+    ]
+  },
+  {
+    "author": "nivrig",
+    "description": "How dodgy can you get?",
+    "genre": "Action",
+    "id": "348666",
+    "link": "https://nivrig.itch.io/dodgy-rocks",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTczMDkucG5n/315x250%23c/YDcPAr.png",
+    "title": "Dodgy Rocks",
+    "video": null,
+    "scrapeWords": [
+      "Dodgy",
+      "Rocks"
     ]
   },
   {
@@ -23785,7 +23792,6 @@
     "video": null,
     "scrapeWords": [
       "Sword",
-      "",
       "Slime",
       "2",
       "D"
@@ -24386,7 +24392,6 @@
     "video": null,
     "scrapeWords": [
       "Hellen",
-      "",
       "Hev"
     ]
   },
@@ -27875,7 +27880,6 @@
     "video": null,
     "scrapeWords": [
       "Jhonny",
-      "",
       "Jhon"
     ]
   },
@@ -28831,8 +28835,7 @@
       "Give",
       "Me",
       "Some",
-      "Feedbacks",
-      ""
+      "Feedbacks"
     ]
   },
   {
@@ -29024,8 +29027,7 @@
     "scrapeWords": [
       "Draw",
       "it",
-      "yourself",
-      ""
+      "yourself"
     ]
   },
   {
@@ -30563,8 +30565,7 @@
     "scrapeWords": [
       "Check",
       "My",
-      "UNO",
-      ""
+      "UNO"
     ]
   },
   {
@@ -30672,8 +30673,7 @@
       "Unhackneyed",
       "Journey",
       "to",
-      "Freedom",
-      ""
+      "Freedom"
     ]
   },
   {
@@ -31986,7 +31986,6 @@
     "video": null,
     "scrapeWords": [
       "Ghosts",
-      "",
       "Sinners"
     ]
   },
@@ -32874,9 +32873,7 @@
     "video": null,
     "scrapeWords": [
       "Jump",
-      "",
       "Sword",
-      "",
       "Dash"
     ]
   },
@@ -33815,8 +33812,7 @@
       "retour",
       "de",
       "la",
-      "force",
-      ""
+      "force"
     ]
   },
   {
@@ -33850,7 +33846,6 @@
     "video": null,
     "scrapeWords": [
       "RED",
-      "",
       "SUN"
     ]
   },
@@ -36239,7 +36234,6 @@
       "UNWANTED",
       "POWER",
       "S",
-      "",
       "Treant",
       "Rampage"
     ]
@@ -36278,7 +36272,6 @@
     "video": null,
     "scrapeWords": [
       "Apple",
-      "",
       "Arrow"
     ]
   },
@@ -38603,9 +38596,7 @@
     "genre": "Action",
     "id": "475365",
     "link": "https://asecondguy.itch.io/chicken-demon",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0NTk4MzYucG5n/315x250%23c/UE88Iq.png",
     "title": "Chicken Demon",
     "video": null,
@@ -38741,7 +38732,6 @@
     "video": null,
     "scrapeWords": [
       "Alt",
-      "",
       "F4"
     ]
   },
@@ -38818,7 +38808,6 @@
     "video": "https://img.itch.zone/aW1nLzI0NDk5OTguZ2lm/original/Obi0Y%2B.gif",
     "scrapeWords": [
       "Dungeons",
-      "",
       "and",
       "Deception"
     ]
@@ -40103,7 +40092,6 @@
     "video": null,
     "scrapeWords": [
       "DARK",
-      "",
       "HOURS"
     ]
   },
@@ -40380,8 +40368,7 @@
     "scrapeWords": [
       "Escape",
       "The",
-      "Pyramid",
-      ""
+      "Pyramid"
     ]
   },
   {
@@ -40754,9 +40741,7 @@
     "thumb": null,
     "title": "...",
     "video": null,
-    "scrapeWords": [
-      ""
-    ]
+    "scrapeWords": null
   },
   {
     "author": "RadFred",
