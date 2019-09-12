@@ -55,8 +55,6 @@ app.get('/api/games', (req, res) => {
 app.get('/api/game/title/:title', function (req, res) {
   getGames().then(games => {
     let promiseArray = []
-    let scrapeWords
-    let intersections
 
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
@@ -80,12 +78,12 @@ app.get('/api/game/title/:title', function (req, res) {
       })
 
       if (game.scrapeWords) {
-        scrapeWords = game.scrapeWords.map(function (x) {
+        let scrapeWords = game.scrapeWords.map(function (x) {
           return x.toUpperCase()
         })
   
         // How many words match.
-        intersections = gameTitleRequest.filter(element =>
+        let intersections = gameTitleRequest.filter(element =>
           scrapeWords.includes(element)
         )
         game.intersections = intersections.length
