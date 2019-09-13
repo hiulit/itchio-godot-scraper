@@ -27169,7 +27169,7 @@
   },
   {
     "author": "verbalshadow",
-    "description": "A two-timing, backstabbing, klutz of a rogue hasjust gone to explore the dungeon. Unlucky bastard. Too bad they own you.",
+    "description": "A two-timing, backstabbing, klutz of a rogue has just gone to explore the dungeon. Unlucky bastard. To bad they own you.",
     "genre": null,
     "id": "382555",
     "link": "https://verbalshadow.itch.io/bastards-pet",
@@ -33384,9 +33384,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIyNjYwODgucG5n/315x250%23c/Hvmhc%2B.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0ODg3ODQuZ2lm/315x250%23cm/p%2Fkm4T.gif",
     "title": "Positron",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI0ODg3ODQuZ2lm/original/Z3o%2FPW.gif",
     "scrapeWords": [
       "Positron"
     ]
@@ -37897,23 +37897,6 @@
     ]
   },
   {
-    "author": "JBarron",
-    "description": "Help nature reclaim its land ... by force",
-    "genre": "Strategy",
-    "id": "470270",
-    "link": "https://jbarron.itch.io/naturallies",
-    "platforms": [
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0MDYxMjAucG5n/315x250%23c/on%2FgrE.png",
-    "title": "Naturallies",
-    "video": null,
-    "scrapeWords": [
-      "Naturallies"
-    ]
-  },
-  {
     "author": "Neku",
     "description": "1vs1 duels",
     "genre": "Fighting",
@@ -38202,7 +38185,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0MjM2MTUucG5n/315x250%23c/Q%2FiQiU.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0ODcwNzEucG5n/315x250%23c/5rMARx.png",
     "title": "Bonoro War For System",
     "video": null,
     "scrapeWords": [
@@ -38596,7 +38579,9 @@
     "genre": "Action",
     "id": "475365",
     "link": "https://asecondguy.itch.io/chicken-demon",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0NTk4MzYucG5n/315x250%23c/UE88Iq.png",
     "title": "Chicken Demon",
     "video": null,
@@ -39409,6 +39394,43 @@
       "Happy",
       "Fun",
       "Sun"
+    ]
+  },
+  {
+    "author": "WatDowTal",
+    "description": "Paying a visit.",
+    "genre": "Platformer",
+    "id": "482098",
+    "link": "https://watdowtal.itch.io/winter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0ODQ4NTQuZ2lm/315x250%23cm/BZDY9i.gif",
+    "title": "Winter.",
+    "video": "https://img.itch.zone/aW1nLzI0ODQ4NTQuZ2lm/original/jaBfIm.gif",
+    "scrapeWords": [
+      "Winter"
+    ]
+  },
+  {
+    "author": "Mariothedog",
+    "description": "Become a hero and don't die! Made for the weekly game jam week 113 which had the theme \"5 Minute Hero\".",
+    "genre": "Platformer",
+    "id": "482132",
+    "link": "https://mariothedog.itch.io/save-them",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0ODUwNzIucG5n/315x250%23c/gIwnTn.png",
+    "title": "Save Them",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "Them"
     ]
   },
   {
