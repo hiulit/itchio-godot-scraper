@@ -81,13 +81,13 @@ app.get('/api/game/title/:title', function (req, res) {
         let scrapeWords = game.scrapeWords.map(function (x) {
           return x.toUpperCase()
         })
-  
+
         // How many words match.
         let intersections = gameTitleRequest.filter(element =>
           scrapeWords.includes(element)
         )
         game.intersections = intersections.length
-  
+
         if (intersections.length) {
           promiseArray.push(
             getGame(game.link).then(body => {
@@ -109,6 +109,14 @@ app.get('/api/game/title/:title', function (req, res) {
       for (let i = 0; i < response.length; i++) {
         const elem = response[i]
         intersections.push(elem.intersections)
+        // If the scrapeWords equal to the intersections return the game.
+        // Because it means that all the wods match.
+        if (elem.scrapeWords.length === elem.intersections) {
+          // console.log('hola')
+          // console.log(elem)
+          res.json(elem)
+          return
+        }
       }
 
       if (intersections.length) {
