@@ -148,6 +148,8 @@ function scraper(url) {
             )
             // Separate camelCase words
             scrapeWords = scrapeWords.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
+            // Remove 'Demo' word
+            scrapeWords = scrapeWords.replace(/demo/gi, '')
             // Create an array of words separated by spaces
             scrapeWords = scrapeWords.split(' ')
             // Remove some values from the array
