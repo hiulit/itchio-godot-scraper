@@ -105,19 +105,25 @@ app.get('/api/game/title/:title', function (req, res) {
 
     Promise.all(promiseArray).then(function (response) {
       let intersections = []
+      let matchedGames = []
 
       for (let i = 0; i < response.length; i++) {
         const elem = response[i]
         intersections.push(elem.intersections)
-        // If the scrapeWords equal to the intersections return the game.
-        // Because it means that all the wods match.
+        // Add games to 'matchedGames' that match 'scrapeWords' with 'intersections'.
         if (elem.scrapeWords.length === elem.intersections) {
-          res.json(elem)
-          return
+          matchedGames.push(elem)
         }
       }
 
       if (intersections.length) {
+        // Best case scenario is if there are  'matchedGames',
+        // those are games that match 'scrapeWords' with 'intersections'.
+        if (matchedGames.length) {
+          // Return only the game with the greatest intersection number.
+          res.json(response[intersections.indexOf(Math.max(...intersections))])
+          return
+        }
         // Check if every intersection is the same (and it has more than one intersection).
         // If so, return an empty json because it means there are too many options.
         if (
@@ -127,6 +133,7 @@ app.get('/api/game/title/:title', function (req, res) {
           res.json({})
           return
         }
+        // If none of the above conditions is met,
         // Return only the game with the greatest intersection number.
         res.json(response[intersections.indexOf(Math.max(...intersections))])
       } else {
