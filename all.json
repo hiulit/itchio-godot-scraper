@@ -25964,7 +25964,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE4NjQ5NDIucG5n/315x250%23c/NeLQS0.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0OTU0MzkucG5n/315x250%23c/Y2yvg2.png",
     "title": "City Game Studio",
     "video": null,
     "scrapeWords": [
@@ -34637,26 +34637,6 @@
     ]
   },
   {
-    "author": "Devinscary",
-    "description": "2D PLATFORMER COM UM DESIGN CARTONESCO...",
-    "genre": "Platformer",
-    "id": "453163",
-    "link": "https://devinscary.itch.io/super-idle-beta",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyOTczODMucG5n/315x250%23c/UPtYsm.png",
-    "title": "Super IDLE BETA",
-    "video": null,
-    "scrapeWords": [
-      "Super",
-      "IDLE",
-      "BETA"
-    ]
-  },
-  {
     "author": "CorvatoCafeto",
     "description": "Defend you cave from multidimensional invasors.",
     "genre": "Action",
@@ -36584,7 +36564,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzQ4OTkucG5n/315x250%23c/y5KZQG.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0OTEwNTYucG5n/315x250%23c/1UIZGc.png",
     "title": "Unprepared Adventurer(GMTK Jam)",
     "video": null,
     "scrapeWords": [
@@ -37897,6 +37877,21 @@
     ]
   },
   {
+    "author": "sztrovacsek",
+    "description": "Potatoes. With guns.",
+    "genre": "Action",
+    "id": "470370",
+    "link": "https://sztrovacsek.itch.io/smashed-potatoes",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NDQzMzIuanBlZw==/315x250%23c/tF8pJl.jpeg",
+    "title": "SMASHED POTATOES",
+    "video": null,
+    "scrapeWords": [
+      "SMASHED",
+      "POTATOES"
+    ]
+  },
+  {
     "author": "Neku",
     "description": "1vs1 duels",
     "genre": "Fighting",
@@ -38798,6 +38793,28 @@
     ]
   },
   {
+    "author": "CopperCoral",
+    "description": "A shooty tooty game​",
+    "genre": "Shooter",
+    "id": "477033",
+    "link": "https://coppercoral.itch.io/evil-lurks-behind-every-corner",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTA2ODIucG5n/315x250%23c/m111lY.png",
+    "title": "Evil Lurks Behind Every Corner",
+    "video": null,
+    "scrapeWords": [
+      "Evil",
+      "Lurks",
+      "Behind",
+      "Every",
+      "Corner"
+    ]
+  },
+  {
     "author": "vandrake",
     "description": "[WIP] A roguelike game",
     "genre": "Role Playing",
@@ -38812,21 +38829,6 @@
     "video": null,
     "scrapeWords": [
       "Rowgue"
-    ]
-  },
-  {
-    "author": "Michael Coorlim",
-    "description": null,
-    "genre": "Action",
-    "id": "477597",
-    "link": "https://mcoorlim.itch.io/space-junk",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0NTQwMTAuZ2lm/315x250%23cm/ELcplq.gif",
-    "title": "Space Junk",
-    "video": "https://img.itch.zone/aW1nLzI0NTQwMTAuZ2lm/original/LbmYKU.gif",
-    "scrapeWords": [
-      "Space",
-      "Junk"
     ]
   },
   {
@@ -38859,6 +38861,26 @@
       "Crack",
       "the",
       "code"
+    ]
+  },
+  {
+    "author": "rg98",
+    "description": "Top-down action-adventure game",
+    "genre": "Adventure",
+    "id": "477738",
+    "link": "https://rg98.itch.io/the-missing-scroll",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NTUyNDYucG5n/315x250%23c/tchjQc.png",
+    "title": "The Missing Scroll",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Missing",
+      "Scroll"
     ]
   },
   {
@@ -38961,7 +38983,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0Njg2MzQucG5n/315x250%23c/2DLIYU.png",
+    "thumb": "https://img.itch.zone/aW1nLzI0ODk0MDcucG5n/315x250%23c/DTNYkP.png",
     "title": "Ortus",
     "video": null,
     "scrapeWords": [
@@ -39288,6 +39310,23 @@
     ]
   },
   {
+    "author": "nezvers",
+    "description": null,
+    "genre": "Action",
+    "id": "480906",
+    "link": "https://nezvers.itch.io/portal",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Nzk4NjMucG5n/315x250%23c/PTuyim.png",
+    "title": "Portal (Godot open source)",
+    "video": null,
+    "scrapeWords": [
+      "Portal",
+      "Godot",
+      "open",
+      "source"
+    ]
+  },
+  {
     "author": "mini-m",
     "description": "A minijam game about a seeds producer fighting ultra-liberalism",
     "genre": "Action",
@@ -39376,6 +39415,23 @@
     ]
   },
   {
+    "author": "CodeGoons",
+    "description": "You strand on an unknown island and have to build up your own farm. But don't worry. You're not alone.",
+    "genre": "Simulation",
+    "id": "481770",
+    "link": "https://codegoons.itch.io/go-farm-yourself-web",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0ODI3MTUucG5n/315x250%23c/O91wL3.png",
+    "title": "Go Farm Yourself (Web)",
+    "video": null,
+    "scrapeWords": [
+      "Go",
+      "Farm",
+      "Yourself",
+      "Web"
+    ]
+  },
+  {
     "author": "Cheeseness",
     "description": "A short prototype of a cute puzzle/exploration game.",
     "genre": "Puzzle",
@@ -39431,6 +39487,79 @@
     "scrapeWords": [
       "Save",
       "Them"
+    ]
+  },
+  {
+    "author": "GoodClover",
+    "description": null,
+    "genre": "Platformer",
+    "id": "483190",
+    "link": "https://goodclover.itch.io/platformer-test",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTE4NDkucG5n/315x250%23c/lClKsS.png",
+    "title": "Platformer Test",
+    "video": null,
+    "scrapeWords": [
+      "Platformer",
+      "Test"
+    ]
+  },
+  {
+    "author": "HayGarryGames",
+    "description": null,
+    "genre": "Action",
+    "id": "483493",
+    "link": "https://haygarrygames.itch.io/save-ghosts-from-hell-with-gems",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTQ2ODIuanBn/315x250%23c/8ujZFP.jpg",
+    "title": "Save ghosts from Hell with Gems",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "ghosts",
+      "from",
+      "Hell",
+      "with",
+      "Gems"
+    ]
+  },
+  {
+    "author": "zematrixz",
+    "description": null,
+    "genre": "Strategy",
+    "id": "483515",
+    "link": "https://zematrixz.itch.io/dinosauce",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTM5ODQucG5n/315x250%23c/RnNw7%2F.png",
+    "title": "Dinosauce",
+    "video": null,
+    "scrapeWords": [
+      "Dinosauce"
+    ]
+  },
+  {
+    "author": "Mariothedog",
+    "description": "Game I made for Trijam #36 which had the theme \"Power Up\".",
+    "genre": "Action",
+    "id": "483568",
+    "link": "https://mariothedog.itch.io/boss-fight",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTQzMTQucG5n/315x250%23c/aj07Cl.png",
+    "title": "Boss Fight",
+    "video": null,
+    "scrapeWords": [
+      "Boss",
+      "Fight"
     ]
   },
   {
