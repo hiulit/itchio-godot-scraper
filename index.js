@@ -112,8 +112,6 @@ app.get('/api/game/title/:title', function (req, res) {
         // If the scrapeWords equal to the intersections return the game.
         // Because it means that all the wods match.
         if (elem.scrapeWords.length === elem.intersections) {
-          // console.log('hola')
-          // console.log(elem)
           res.json(elem)
           return
         }
