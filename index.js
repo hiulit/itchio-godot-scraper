@@ -27,6 +27,23 @@ async function getGame (url) {
   return response.text()
 }
 
+function getObjectByMaxValueAttribute (array, attribute) {
+  // 'array' must be type Array
+  // 'attribute' must be type String
+  let max = Math.max.apply(
+    Math,
+    array.map(function (obj) {
+      return obj[attribute]
+    })
+  )
+
+  let obj = array.find(function (obj) {
+    return obj[attribute] == max
+  })
+
+  return obj
+}
+
 app.get('/', (req, res) => {
   res.redirect('/api')
 })
@@ -117,11 +134,11 @@ app.get('/api/game/title/:title', function (req, res) {
       }
 
       if (intersections.length) {
-        // Best case scenario is if there are  'matchedGames',
+        // Best case scenario is if there are 'matchedGames',
         // those are games that match 'scrapeWords' with 'intersections'.
         if (matchedGames.length) {
           // Return only the game with the greatest intersection number.
-          res.json(response[intersections.indexOf(Math.max(...intersections))])
+          res.json(getObjectByMaxValueAttribute(matchedGames, 'intersections'))
           return
         }
         // Check if every intersection is the same (and it has more than one intersection).
@@ -133,8 +150,8 @@ app.get('/api/game/title/:title', function (req, res) {
           res.json({})
           return
         }
-        // If none of the above conditions is met,
-        // Return only the game with the greatest intersection number.
+        // If none of the above conditions are met,
+        // return only the game with the greatest intersection number.
         res.json(response[intersections.indexOf(Math.max(...intersections))])
       } else {
         res.json({})
