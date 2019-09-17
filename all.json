@@ -7164,7 +7164,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": "Run and shoot a slice of pizza at the tomato",
     "genre": "Shooter",
     "id": "238458",
@@ -10659,7 +10659,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
     "id": "262931",
@@ -13546,7 +13546,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Puzzle",
     "id": "279835",
@@ -15393,7 +15393,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Survival",
     "id": "291852",
@@ -19402,7 +19402,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": "Can you SWIPE the item before you opponent?",
     "genre": "Action",
     "id": "319653",
@@ -19689,7 +19689,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
     "id": "322329",
@@ -22790,24 +22790,7 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
     "id": "347151",
@@ -22985,7 +22968,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Shooter",
     "id": "349360",
@@ -23211,6 +23194,23 @@
     ]
   },
   {
+    "author": "Bagdev",
+    "description": "Coxinha Hero is a platform game where \"Hero\", the protagonist, begins an adventure through the Coxinhas Empire.",
+    "genre": "Platformer",
+    "id": "351359",
+    "link": "https://bagdev.itch.io/coxinhahero",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0ODc2MzIucG5n/315x250%23c/JJUt9M.png",
+    "title": "Coxinha Hero",
+    "video": null,
+    "scrapeWords": [
+      "Coxinha",
+      "Hero"
+    ]
+  },
+  {
     "author": "CubyLine Studio",
     "description": "Minimalistic platformer, about Byte",
     "genre": "Platformer",
@@ -23228,7 +23228,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Interactive Fiction",
     "id": "351512",
@@ -23441,7 +23441,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Adventure",
     "id": "353543",
@@ -23776,7 +23776,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Shooter",
     "id": "357795",
@@ -24118,11 +24118,11 @@
     ]
   },
   {
-    "author": "Good Morning Games!",
+    "author": "7am Games!",
     "description": null,
     "genre": "Puzzle",
     "id": "359536",
-    "link": "https://gm-games.itch.io/piggy48",
+    "link": "https://7am-games.itch.io/piggy48",
     "platforms": [
       "Windows",
       "macOS",
@@ -28719,7 +28719,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Survival",
     "id": "406065",
@@ -32121,7 +32121,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": "A short, experimental, and monochrome visual novel.",
     "genre": "Visual Novel",
     "id": "432308",
@@ -32655,7 +32655,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": "Help getting Josh out of Room 100.",
     "genre": "Puzzle",
     "id": "436762",
@@ -33209,7 +33209,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": "A Glitchy Buggy Metagame",
     "genre": null,
     "id": "441392",
@@ -35821,7 +35821,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": null,
     "id": "461121",
@@ -37878,6 +37878,23 @@
     ]
   },
   {
+    "author": "onlyJB",
+    "description": "(Yet another side scroll space shooter) for ScoreSpaceJam",
+    "genre": "Shooter",
+    "id": "470449",
+    "link": "https://onlyjb.itch.io/yassss",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MTA1MTkuanBn/315x250%23c/XraZHm.jpg",
+    "title": "Yassss",
+    "video": null,
+    "scrapeWords": [
+      "Yassss"
+    ]
+  },
+  {
     "author": "Spyr",
     "description": "A short and chellenging platformer you could try speed run",
     "genre": "Platformer",
@@ -38646,6 +38663,23 @@
     ]
   },
   {
+    "author": "Sebajuste",
+    "description": "Explorez une planète et perçez ses secrets !",
+    "genre": "Action",
+    "id": "476031",
+    "link": "https://sebajuste.itch.io/davus-project",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTg3MDQucG5n/315x250%23c/esUeRo.png",
+    "title": "DAVUS Project",
+    "video": null,
+    "scrapeWords": [
+      "DAVUS",
+      "Project"
+    ]
+  },
+  {
     "author": "diogohex",
     "description": "experimental adventure-platform game",
     "genre": "Adventure",
@@ -39138,6 +39172,25 @@
     ]
   },
   {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "Truffelbaguette",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -39174,7 +39227,7 @@
     ]
   },
   {
-    "author": "Johano R. Sulfuro",
+    "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Rhythm",
     "id": "480415",
@@ -39470,11 +39523,30 @@
     ]
   },
   {
-    "author": "Inglo Games",
+    "author": "azagaya",
+    "description": "Change a classic game's gender! GameDev Neuquén Jam",
+    "genre": "Action",
+    "id": "483395",
+    "link": "https://azagaya.itch.io/worm-hero",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTMwNTEucG5n/315x250%23c/%2F8fsnW.png",
+    "title": "Worm Hero",
+    "video": null,
+    "scrapeWords": [
+      "Worm",
+      "Hero"
+    ]
+  },
+  {
+    "author": "Merly23",
     "description": "Death awaits you",
     "genre": "Platformer",
     "id": "483415",
-    "link": "https://inglo-games.itch.io/asphodel-meadows",
+    "link": "https://merly23.itch.io/asphodel-meadows",
     "platforms": [
       "Windows",
       "Linux"
@@ -39541,6 +39613,25 @@
     "scrapeWords": [
       "Boss",
       "Fight"
+    ]
+  },
+  {
+    "author": "T4g1",
+    "description": "Merge a maximum of flotting island cities with yours before running out of resources",
+    "genre": "Puzzle",
+    "id": "483766",
+    "link": "https://t4g1.itch.io/merge-cities",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTU3NDYucG5n/315x250%23c/GfL1Hg.png",
+    "title": "Merge Cities",
+    "video": null,
+    "scrapeWords": [
+      "Merge",
+      "Cities"
     ]
   },
   {
