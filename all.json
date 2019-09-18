@@ -9560,11 +9560,11 @@
     ]
   },
   {
-    "author": "ElNoArtista",
+    "author": "ENArtista",
     "description": "My first game for a gamejam, test my kind of platform engine made using Godot.",
     "genre": "Platformer",
     "id": "251939",
-    "link": "https://elnoartista.itch.io/picos-fall",
+    "link": "https://enartista.itch.io/picos-fall",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjUxOTM5LzEyMDUxODEucG5n/315x250%23c/7rsLGa.png",
     "title": "Pico's Fall",
@@ -18955,7 +18955,9 @@
     "genre": "Puzzle",
     "id": "317063",
     "link": "https://pwegg.itch.io/ramshackle",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzE1NjMyMjAucG5n/315x250%23c/24AD4Y.png",
     "title": "Ramshackle",
     "video": null,
@@ -39023,22 +39025,6 @@
     ]
   },
   {
-    "author": "WIITD",
-    "description": "2D Top-Down Shooter",
-    "genre": "Action",
-    "id": "478470",
-    "link": "https://wiitd.itch.io/nwi",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0NjA3MTYucG5n/315x250%23c/LdTvQW.png",
-    "title": "Next Wave Incoming",
-    "video": null,
-    "scrapeWords": [
-      "Next",
-      "Wave",
-      "Incoming"
-    ]
-  },
-  {
     "author": "Whyat1872",
     "description": null,
     "genre": "Role Playing",
@@ -39263,6 +39249,24 @@
       "Hot",
       "or",
       "Cold"
+    ]
+  },
+  {
+    "author": "Dante",
+    "description": "Arkanoid meets Space Invaders.",
+    "genre": null,
+    "id": "480556",
+    "link": "https://dantesinferno.itch.io/bloody-tears",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzUzNzIucG5n/315x250%23c/8EF4rT.png",
+    "title": "Bloody Tears",
+    "video": null,
+    "scrapeWords": [
+      "Bloody",
+      "Tears"
     ]
   },
   {
@@ -39632,6 +39636,35 @@
     "scrapeWords": [
       "Merge",
       "Cities"
+    ]
+  },
+  {
+    "author": "j9794",
+    "description": "Defendé el imperio del yogurt que conquistó al mundo o sé parte de la rebelion de los yogurt light.",
+    "genre": null,
+    "id": "484145",
+    "link": "https://j9794.itch.io/yogwars",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0OTc4NTQucG5n/315x250%23c/oFZOoY.png",
+    "title": "Yogwars",
+    "video": null,
+    "scrapeWords": [
+      "Yogwars"
+    ]
+  },
+  {
+    "author": "Wildos",
+    "description": "memory godot-engine",
+    "genre": "Card Game",
+    "id": "484150",
+    "link": "https://wildos.itch.io/memory-card",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0OTc5MDMucG5n/315x250%23c/49LlE4.png",
+    "title": "Memory Card",
+    "video": null,
+    "scrapeWords": [
+      "Memory",
+      "Card"
     ]
   },
   {
