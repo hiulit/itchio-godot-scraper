@@ -3164,6 +3164,33 @@
     ]
   },
   {
+    "author": "Nonamefornowsoft",
+    "description": "Work in Progress",
+    "genre": "Platformer",
+    "id": "174725",
+    "link": "https://nonamefornow.itch.io/taodrp",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTc0NzI1Lzg1ODYxOS5wbmc=/315x250%23c/1OXPXX.png",
+    "title": "The Adventures of Dr. P. Dorrent in the King's Temple",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Adventures",
+      "of",
+      "Dr",
+      "P",
+      "Dorrent",
+      "in",
+      "the",
+      "Kings",
+      "Temple"
+    ]
+  },
+  {
     "author": "Krad",
     "description": "A short story-based puzzle game",
     "genre": "Puzzle",
@@ -13991,6 +14018,20 @@
       "Intergalactic",
       "Space",
       "Bar"
+    ]
+  },
+  {
+    "author": "Nonamefornowsoft",
+    "description": null,
+    "genre": null,
+    "id": "283697",
+    "link": "https://nonamefornow.itch.io/labirintite",
+    "platforms": null,
+    "thumb": null,
+    "title": "Labirintite",
+    "video": null,
+    "scrapeWords": [
+      "Labirintite"
     ]
   },
   {
@@ -34271,7 +34312,7 @@
   },
   {
     "author": "Duncan Sparks",
-    "description": "Simple card-based RPG",
+    "description": "Simple card-based RPG (Godot Wild Jam  11)",
     "genre": "Role Playing",
     "id": "449770",
     "link": "https://duncansparks.itch.io/sixfive",
@@ -35669,7 +35710,7 @@
   },
   {
     "author": "Duncan Sparks",
-    "description": "There is only one light",
+    "description": "There is only one light (GMTK Jam 2019)",
     "genre": "Platformer",
     "id": "460701",
     "link": "https://duncansparks.itch.io/afterlight",
@@ -37529,7 +37570,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MDE1NTMucG5n/315x250%23c/8XQ4zS.png",
     "title": "Stoneflower Harvest",
@@ -38520,7 +38562,8 @@
     "id": "475252",
     "link": "https://tobiasm.itch.io/dimension-invader",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0NDE0NTYucG5n/315x250%23c/o9umAN.png",
     "title": "Dimension Invader",
@@ -39665,6 +39708,24 @@
     "scrapeWords": [
       "Memory",
       "Card"
+    ]
+  },
+  {
+    "author": "PlainCrown",
+    "description": "Basic tetris clone with a few tweaks and additional features. Made in Godot 3.1.",
+    "genre": null,
+    "id": "485178",
+    "link": "https://plaincrown.itch.io/tetris",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MDQ0MzMucG5n/315x250%23c/TiQglc.png",
+    "title": "Tetris",
+    "video": null,
+    "scrapeWords": [
+      "Tetris"
     ]
   },
   {
