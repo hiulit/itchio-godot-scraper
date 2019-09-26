@@ -37018,8 +37018,7 @@
     "link": "https://pawn-games.itch.io/fantasy-chess",
     "platforms": [
       "Windows",
-      "Linux",
-      "Android"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNzY1ODMucG5n/315x250%23c/CWegJF.png",
     "title": "Fantasy Chess",
@@ -39746,7 +39745,7 @@
     ]
   },
   {
-    "author": "ereborn",
+    "author": "Ereborn",
     "description": "Blend in and don't act suspicious",
     "genre": "Rhythm",
     "id": "484026",
@@ -39819,6 +39818,26 @@
     "scrapeWords": [
       "Hungry",
       "Jax"
+    ]
+  },
+  {
+    "author": "Jason Tse",
+    "description": "Compete for resources in a robot bumper car style free-for-all!",
+    "genre": "Action",
+    "id": "484810",
+    "link": "https://jatse.itch.io/dark-matter-run",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjI0MzAuanBn/315x250%23c/POdTLp.jpg",
+    "title": "Dark Matter Run",
+    "video": null,
+    "scrapeWords": [
+      "Dark",
+      "Matter",
+      "Run"
     ]
   },
   {
@@ -40371,6 +40390,20 @@
     ]
   },
   {
+    "author": "gnitsaf",
+    "description": "#TimeKiller #Boxes #Square",
+    "genre": "Puzzle",
+    "id": "487562",
+    "link": "https://gnitsaf.itch.io/boxy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1MTc4MjIucG5n/315x250%23c/57XpG%2B.png",
+    "title": "Boxy",
+    "video": null,
+    "scrapeWords": [
+      "Boxy"
+    ]
+  },
+  {
     "author": "treblig-punisher",
     "description": "2d puzzle platformer Demo",
     "genre": "Platformer",
@@ -40392,6 +40425,24 @@
     ]
   },
   {
+    "author": "Gangorra games",
+    "description": "A 2D sidescrolling shooter",
+    "genre": "Shooter",
+    "id": "487709",
+    "link": "https://gangorragames.itch.io/savequest",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjExNzQucG5n/315x250%23c/90autQ.png",
+    "title": "Save Quest",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "Quest"
+    ]
+  },
+  {
     "author": "Toby Chadderton",
     "description": "A game where you play as the titanic written in godot",
     "genre": "Action",
@@ -40408,6 +40459,41 @@
       "Hands",
       "on",
       "Deck"
+    ]
+  },
+  {
+    "author": "wuchta",
+    "description": null,
+    "genre": "Platformer",
+    "id": "488172",
+    "link": "https://wuchta.itch.io/personal-copy",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjI4ODMucG5n/315x250%23c/NPLGMw.png",
+    "title": "Personal Copy",
+    "video": null,
+    "scrapeWords": [
+      "Personal",
+      "Copy"
+    ]
+  },
+  {
+    "author": "2Buz-z™",
+    "description": "Aplicativo simulador de erros para ensino de informática básica",
+    "genre": "Puzzle",
+    "id": "488402",
+    "link": "https://2buz-z.itch.io/maquiboot",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjMzMjUuanBn/315x250%23c/t0Y17m.jpg",
+    "title": "maquiBOOT",
+    "video": null,
+    "scrapeWords": [
+      "maqui",
+      "BOOT"
     ]
   },
   {
