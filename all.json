@@ -15163,11 +15163,11 @@
     ]
   },
   {
-    "author": "ProWolfPC",
+    "author": "widberg",
     "description": "A ship tries to push crates through a portal as trash piles up around it.",
     "genre": "Action",
     "id": "291030",
-    "link": "https://prowolfpc.itch.io/waste-in-space",
+    "link": "https://widberg.itch.io/waste-in-space",
     "platforms": [
       "Windows",
       "Linux",
@@ -35607,7 +35607,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNDEwMTUuanBn/315x250%23c/YITiDn.jpg",
     "title": "Carcass ONE",
@@ -37018,7 +37018,8 @@
     "link": "https://pawn-games.itch.io/fantasy-chess",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNzY1ODMucG5n/315x250%23c/CWegJF.png",
     "title": "Fantasy Chess",
@@ -39943,17 +39944,17 @@
   },
   {
     "author": "Syndi Studios",
-    "description": null,
+    "description": "A multiplayer heist game about ghosts robbing houses.",
     "genre": "Strategy",
     "id": "486087",
     "link": "https://syndi-studios.itch.io/polterheist",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1MDk0OTIucG5n/315x250%23c/MJybOg.png",
-    "title": "Polterheist! (v1.0.0-alpha.2.6)",
+    "title": "Polterheist! (v1.0.0-alpha.2.7)",
     "video": null,
     "scrapeWords": [
       "Polterheist",
-      "v100-alpha26"
+      "v100-alpha27"
     ]
   },
   {
