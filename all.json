@@ -39929,6 +39929,26 @@
     ]
   },
   {
+    "author": "Jacob Bell",
+    "description": "A  short story about a witch's intern",
+    "genre": "Interactive Fiction",
+    "id": "485679",
+    "link": "https://jacobbell.itch.io/magiccoffeeshop",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MDcyOTQucG5n/315x250%23c/HRIa60.png",
+    "title": "Magic Coffee Shop",
+    "video": null,
+    "scrapeWords": [
+      "Magic",
+      "Coffee",
+      "Shop"
+    ]
+  },
+  {
     "author": "DEVEL_BOX",
     "description": null,
     "genre": null,
