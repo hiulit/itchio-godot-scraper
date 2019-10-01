@@ -2015,7 +2015,7 @@
     ]
   },
   {
-    "author": "CodeTriangle",
+    "author": "Reuben Staley",
     "description": "A little glob on an adventure",
     "genre": "Platformer",
     "id": "159270",
@@ -4674,6 +4674,21 @@
       "Ludum",
       "Dare",
       "40"
+    ]
+  },
+  {
+    "author": "Mayuso",
+    "description": "Complete 3 laps as fast as posible",
+    "genre": "Racing",
+    "id": "199825",
+    "link": "https://mayuso.itch.io/sticky-racer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTk5ODI1LzkzNDgwNy5wbmc=/315x250%23c/kBAXnR.png",
+    "title": "Sticky Racer",
+    "video": null,
+    "scrapeWords": [
+      "Sticky",
+      "Racer"
     ]
   },
   {
@@ -8669,7 +8684,7 @@
     ]
   },
   {
-    "author": "Gurb",
+    "author": "Philip Lindberg",
     "description": "Play golf in the dungeon!",
     "genre": "Adventure",
     "id": "248321",
@@ -15111,7 +15126,7 @@
     ]
   },
   {
-    "author": "Gurb",
+    "author": "Philip Lindberg",
     "description": null,
     "genre": "Action",
     "id": "290829",
@@ -23243,7 +23258,7 @@
     "id": "351359",
     "link": "https://bagdev.itch.io/coxinhahero",
     "platforms": [
-      "Windows"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0ODc2MzIucG5n/315x250%23c/JJUt9M.png",
     "title": "Coxinha Hero",
@@ -25939,11 +25954,11 @@
     ]
   },
   {
-    "author": "s7ai",
+    "author": "ruly",
     "description": null,
     "genre": "Platformer",
     "id": "371799",
-    "link": "https://s7ai.itch.io/violets-castle",
+    "link": "https://ruly.itch.io/violets-castle",
     "platforms": [
       "Windows",
       "Linux",
@@ -26437,22 +26452,6 @@
     "scrapeWords": [
       "Magic",
       "Refinery"
-    ]
-  },
-  {
-    "author": "guizero",
-    "description": "Catherine wants to find the rare anime SuperNyan.",
-    "genre": "Fighting",
-    "id": "376823",
-    "link": "https://guizero.itch.io/the-supernyan",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE4ODYwNzEuZ2lm/315x250%23cm/gdYTkZ.gif",
-    "title": "The SuperNyan",
-    "video": "https://img.itch.zone/aW1nLzE4ODYwNzEuZ2lm/original/ydA2AP.gif",
-    "scrapeWords": [
-      "The",
-      "Super",
-      "Nyan"
     ]
   },
   {
@@ -27521,6 +27520,28 @@
     ]
   },
   {
+    "author": "Papaya Games",
+    "description": "Discover the mysteries of Town and help Duckson in his quest to become a real Duck Knight!",
+    "genre": "Adventure",
+    "id": "391326",
+    "link": "https://papaya-games.itch.io/duck-in-town",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNzg0ODMucG5n/315x250%23c/006Xpa.png",
+    "title": "Duck in Town - A Rising Knight",
+    "video": null,
+    "scrapeWords": [
+      "Duck",
+      "in",
+      "Town",
+      "A",
+      "Rising",
+      "Knight"
+    ]
+  },
+  {
     "author": "kelphas",
     "description": "Battle against a horde of daemons in this arcade-style shooter!",
     "genre": "Shooter",
@@ -27955,6 +27976,26 @@
     ]
   },
   {
+    "author": "NooB_Productions",
+    "description": "Never kill a man called Alcide",
+    "genre": "Shooter",
+    "id": "395710",
+    "link": "https://badbyte.itch.io/golisco-alcide-assault",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1Mjc3MzMucG5n/315x250%23c/8T3kRw.png",
+    "title": "Golisco: Alcide Assault",
+    "video": null,
+    "scrapeWords": [
+      "Golisco",
+      "Alcide",
+      "Assault"
+    ]
+  },
+  {
     "author": "TacticalAirHorse",
     "description": "A tiny arcade survival game.",
     "genre": "Action",
@@ -28005,20 +28046,22 @@
   },
   {
     "author": "AaronMakesGames",
-    "description": "Shoot-em up meets Rouge-like in this arcade throwback",
+    "description": "Shoot-em up meets Rougelite in this challenging arcade throwback",
     "genre": "Action",
     "id": "397045",
     "link": "https://aaronmakesgames.itch.io/clouds-of-fire",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIxMzEwMjMucG5n/315x250%23c/J4jUTa.png",
-    "title": "Clouds of Fire",
-    "video": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1MzUzODQuZ2lm/315x250%23cm/Oc0ocd.gif",
+    "title": "Clouds of Fire: Blazing Skies",
+    "video": "https://img.itch.zone/aW1nLzI1MzUzODQuZ2lm/original/7kaptO.gif",
     "scrapeWords": [
       "Clouds",
       "of",
-      "Fire"
+      "Fire",
+      "Blazing",
+      "Skies"
     ]
   },
   {
@@ -28365,24 +28408,6 @@
     "scrapeWords": [
       "Cursed",
       "Gem"
-    ]
-  },
-  {
-    "author": "blacksheep#00",
-    "description": "Toxic World  is a little post-apocalyptic role-playing game.",
-    "genre": "Action",
-    "id": "401041",
-    "link": "https://blacksheep00.itch.io/toxicworld",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMTMwODAucG5n/315x250%23c/5tSPBt.png",
-    "title": "Toxic World",
-    "video": null,
-    "scrapeWords": [
-      "Toxic",
-      "World"
     ]
   },
   {
@@ -30681,7 +30706,10 @@
     "id": "418227",
     "link": "https://caroldot.itch.io/unhackneyed",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIwODE3ODYucG5n/315x250%23c/c0fqv0.png",
     "title": "Unhackneyed ~Journey to Freedom ~",
@@ -38403,7 +38431,11 @@
     "genre": "Adventure",
     "id": "474318",
     "link": "https://profpille.itch.io/detective-riley-lawson-1",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0MzQ0MTkucG5n/315x250%23c/haY0Re.png",
     "title": "Detective Riley Lawson and the Strange Case of Dr. Gallagher",
     "video": null,
@@ -38702,12 +38734,16 @@
   },
   {
     "author": "Sebajuste",
-    "description": "Explorez une planète et perçez ses secrets !",
+    "description": "Répondez à un appel à détresse en provenance d'une lointaine planète !",
     "genre": "Action",
     "id": "476031",
     "link": "https://sebajuste.itch.io/davus-project",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0OTg3MDQucG5n/315x250%23c/esUeRo.png",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjY2ODkucG5n/315x250%23c/01j2mB.png",
     "title": "DAVUS Project",
     "video": null,
     "scrapeWords": [
@@ -38862,6 +38898,21 @@
     "video": null,
     "scrapeWords": [
       "Rowgue"
+    ]
+  },
+  {
+    "author": "SketchyZambie",
+    "description": null,
+    "genre": "Platformer",
+    "id": "477463",
+    "link": "https://sketchyzambie.itch.io/lie-gcj",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NTI2MTcucG5n/315x250%23c/bjZSPl.png",
+    "title": "LiE",
+    "video": null,
+    "scrapeWords": [
+      "Li",
+      "E"
     ]
   },
   {
@@ -39065,14 +39116,15 @@
     "description": null,
     "genre": "Role Playing",
     "id": "478564",
-    "link": "https://whyat1872.itch.io/untitled-rpg",
+    "link": "https://whyat1872.itch.io/tamagotchi-rpg-lite",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1MTQ5NTkuZ2lm/315x250%23cm/Se2Ufq.gif",
-    "title": "Untitled RPG",
+    "title": "Tamagotchi RPG lite",
     "video": "https://img.itch.zone/aW1nLzI1MTQ5NTkuZ2lm/original/QncfRi.gif",
     "scrapeWords": [
-      "Untitled",
-      "RPG"
+      "Tamagotchi",
+      "RPG",
+      "lite"
     ]
   },
   {
@@ -39842,6 +39894,23 @@
     ]
   },
   {
+    "author": "LeibnizKeks",
+    "description": "Play as a thirsty vampire, killing the whole village.",
+    "genre": "Action",
+    "id": "484889",
+    "link": "https://leibnizkeks.itch.io/nightly-trouble",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MDI2MzcucG5n/315x250%23c/oEQ6MV.png",
+    "title": "Nightly Trouble",
+    "video": null,
+    "scrapeWords": [
+      "Nightly",
+      "Trouble"
+    ]
+  },
+  {
     "author": "PlainCrown",
     "description": "Basic tetris clone with a few tweaks and additional features. Made in Godot 3.1.",
     "genre": null,
@@ -39948,13 +40017,18 @@
     "genre": "Strategy",
     "id": "486087",
     "link": "https://syndi-studios.itch.io/polterheist",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI1MDk0OTIucG5n/315x250%23c/MJybOg.png",
-    "title": "Polterheist! (v1.0.0-alpha.2.7)",
+    "title": "Polterheist! (Alpha)",
     "video": null,
     "scrapeWords": [
       "Polterheist",
-      "v100-alpha27"
+      "Alpha"
     ]
   },
   {
@@ -40118,7 +40192,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MTM2ODIuanBn/315x250%23c/Gy8DJ%2F.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzI1MjkwMjIucG5n/315x250%23c/TjEIZP.png",
     "title": "Out Rock",
     "video": null,
     "scrapeWords": [
@@ -40221,23 +40295,6 @@
     "scrapeWords": [
       "Project",
       "MERGE"
-    ]
-  },
-  {
-    "author": "guizero",
-    "description": "Build barriers to protect the flower from strong winds and rain!",
-    "genre": "Simulation",
-    "id": "487034",
-    "link": "https://guizero.itch.io/walls-against-the-weather",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI1MTQ4MzIuZ2lm/315x250%23cm/bfCk%2BR.gif",
-    "title": "Walls Against The Weather",
-    "video": "https://img.itch.zone/aW1nLzI1MTQ4MzIuZ2lm/original/NESuvw.gif",
-    "scrapeWords": [
-      "Walls",
-      "Against",
-      "The",
-      "Weather"
     ]
   },
   {
@@ -40463,6 +40520,25 @@
     ]
   },
   {
+    "author": "SadPumpkin",
+    "description": "Fast-paced Flappy Bird with lasers",
+    "genre": "Action",
+    "id": "488055",
+    "link": "https://sadpumpkin.itch.io/flat-white",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjM4NjMucG5n/315x250%23c/5W2fdw.png",
+    "title": "Flat White",
+    "video": null,
+    "scrapeWords": [
+      "Flat",
+      "White"
+    ]
+  },
+  {
     "author": "wuchta",
     "description": null,
     "genre": "Platformer",
@@ -40495,6 +40571,236 @@
     "scrapeWords": [
       "maqui",
       "BOOT"
+    ]
+  },
+  {
+    "author": "Squabix",
+    "description": "Solve mazes... as a dinosaur!",
+    "genre": "Puzzle",
+    "id": "489677",
+    "link": "https://squabix.itch.io/dinomaze",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1MzA1NjcucG5n/315x250%23c/r9bOyo.png",
+    "title": "Dinomaze",
+    "video": null,
+    "scrapeWords": [
+      "Dinomaze"
+    ]
+  },
+  {
+    "author": "Carrot Game Studio",
+    "description": null,
+    "genre": "Shooter",
+    "id": "489685",
+    "link": "https://carrot-game-studio.itch.io/bullets-and-blocks",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzA3MjEucG5n/315x250%23c/S5g%2FWg.png",
+    "title": "Bullets and Blocks!",
+    "video": null,
+    "scrapeWords": [
+      "Bullets",
+      "and",
+      "Blocks"
+    ]
+  },
+  {
+    "author": "Paulo RL",
+    "description": "Jogo de construção de armas e controle de recursos de formas simples e divertida, resolvendo puzzles para avançar",
+    "genre": "Puzzle",
+    "id": "490262",
+    "link": "https://paulo-rl.itch.io/the-good-of-war",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzQ2NjIucG5n/315x250%23c/o%2FAh5A.png",
+    "title": "The Good of War - [IFPI / Labiras]",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Good",
+      "of",
+      "War",
+      "[IFPI",
+      "Labiras]"
+    ]
+  },
+  {
+    "author": "trllaw",
+    "description": "its a 2d random plataformer game made in SemComp Jam 22.",
+    "genre": "Platformer",
+    "id": "490279",
+    "link": "https://trllaw.itch.io/randventures",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzQ0NzMuanBn/315x250%23c/Telrmv.jpg",
+    "title": "Randventures",
+    "video": null,
+    "scrapeWords": [
+      "Randventures"
+    ]
+  },
+  {
+    "author": "HalysonItallo",
+    "description": "Um jogo de plataforma em que um ninja deve coletar as 3 chaves de uma fase para conseguir passar para outra",
+    "genre": "Adventure",
+    "id": "490315",
+    "link": "https://halysonitallo.itch.io/as-aventuras-do-ninja-raimundo-da-silva-labirasifpi",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzQ5MTcucG5n/315x250%23c/AlEk7k.png",
+    "title": "As Aventuras do Ninja Raimundo da Silva - [Labiras/IFPI]",
+    "video": null,
+    "scrapeWords": [
+      "As",
+      "Aventuras",
+      "do",
+      "Ninja",
+      "Raimundo",
+      "da",
+      "Silva",
+      "[Labiras",
+      "IFPI]"
+    ]
+  },
+  {
+    "author": "Yalo",
+    "description": "Avoid the rockets from hitting you",
+    "genre": "Action",
+    "id": "490499",
+    "link": "https://yalo-brad.itch.io/evade",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzY5MjIucG5n/315x250%23c/RBiMNG.png",
+    "title": "Evade",
+    "video": null,
+    "scrapeWords": [
+      "Evade"
+    ]
+  },
+  {
+    "author": "halfstache",
+    "description": "Click hexes to create connections between the X's!",
+    "genre": "Puzzle",
+    "id": "490514",
+    "link": "https://halfstache.itch.io/xxconnexx",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzUzNTMucG5n/315x250%23c/mDk9LK.png",
+    "title": "xXconneXx",
+    "video": null,
+    "scrapeWords": [
+      "x",
+      "Xconne",
+      "Xx"
+    ]
+  },
+  {
+    "author": "Vinicius Tomaz",
+    "description": null,
+    "genre": "Adventure",
+    "id": "490543",
+    "link": "https://vinicius-tomaz.itch.io/no-time-bro-ifpilabiras",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzU1MTIucG5n/315x250%23c/I1Ahqa.png",
+    "title": "No Time Bro [IFPI/Labiras]",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Time",
+      "Bro",
+      "[IFPILabiras]"
+    ]
+  },
+  {
+    "author": "AstroPippin",
+    "description": "OpenJam 2019 submission: The FUTURE",
+    "genre": "Puzzle",
+    "id": "490908",
+    "link": "https://astropippin.itch.io/we-are-the-future",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1Mzc2NTMucG5n/315x250%23c/twKzXs.png",
+    "title": "We Are The Future",
+    "video": null,
+    "scrapeWords": [
+      "We",
+      "Are",
+      "The",
+      "Future"
+    ]
+  },
+  {
+    "author": "Capital Ex",
+    "description": "See the present, See the future, but nothing in-between",
+    "genre": "Puzzle",
+    "id": "491036",
+    "link": "https://capitalex.itch.io/nothing-in-between",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzgzNTgucG5n/315x250%23c/dsA1da.png",
+    "title": "Nothing In-Between",
+    "video": null,
+    "scrapeWords": [
+      "Nothing",
+      "In-Between"
+    ]
+  },
+  {
+    "author": "bluestreak0",
+    "description": "Action platformer set in a cyberpunk future",
+    "genre": "Platformer",
+    "id": "491044",
+    "link": "https://bluestreak0.itch.io/hunt-for-the-shadow-rider",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzgyNzkucG5n/315x250%23c/EWrF6P.png",
+    "title": "Hunt for the Shadow Rider",
+    "video": null,
+    "scrapeWords": [
+      "Hunt",
+      "for",
+      "the",
+      "Shadow",
+      "Rider"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Go for your best lap times while avoiding futuristically bad drivers.",
+    "genre": "Racing",
+    "id": "491065",
+    "link": "https://figytuna.itch.io/sci-fi-pileup",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MzgzODcucG5n/315x250%23c/bm%2BWLV.png",
+    "title": "Sci-Fi Pileup",
+    "video": null,
+    "scrapeWords": [
+      "Sci-Fi",
+      "Pileup"
     ]
   },
   {
