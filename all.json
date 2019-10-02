@@ -2015,7 +2015,7 @@
     ]
   },
   {
-    "author": "Reuben Staley",
+    "author": "CodeTriangle",
     "description": "A little glob on an adventure",
     "genre": "Platformer",
     "id": "159270",
@@ -37002,6 +37002,24 @@
     ]
   },
   {
+    "author": "Essojadojef",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "463651",
+    "link": "https://essojadojef.itch.io/autonomous-singularity",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NjIyMTgucG5n/315x250%23c/6dtrCS.png",
+    "title": "Autonomous Singularity",
+    "video": null,
+    "scrapeWords": [
+      "Autonomous",
+      "Singularity"
+    ]
+  },
+  {
     "author": "remram44",
     "description": "Top-down shooter/RTS inspired by Team Buddies (PS1)",
     "genre": "Action",
@@ -38743,9 +38761,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MjY2ODkucG5n/315x250%23c/01j2mB.png",
+    "thumb": "https://img.itch.zone/aW1nLzI1NDE4MTQuZ2lm/315x250%23cm/IZDP3n.gif",
     "title": "DAVUS Project",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI1NDE4MTQuZ2lm/original/8UGclG.gif",
     "scrapeWords": [
       "DAVUS",
       "Project"
@@ -39929,26 +39947,6 @@
     ]
   },
   {
-    "author": "Jacob Bell",
-    "description": "A  short story about a witch's intern",
-    "genre": "Interactive Fiction",
-    "id": "485679",
-    "link": "https://jacobbell.itch.io/magiccoffeeshop",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MDcyOTQucG5n/315x250%23c/HRIa60.png",
-    "title": "Magic Coffee Shop",
-    "video": null,
-    "scrapeWords": [
-      "Magic",
-      "Coffee",
-      "Shop"
-    ]
-  },
-  {
     "author": "DEVEL_BOX",
     "description": null,
     "genre": null,
@@ -40434,6 +40432,25 @@
     ]
   },
   {
+    "author": "Anto",
+    "description": "A pong game created in Godot Game Engine",
+    "genre": "Sports",
+    "id": "487182",
+    "link": "https://justantors.itch.io/neonpong",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1Mzk2ODkucG5n/315x250%23c/SGcPXc.png",
+    "title": "NeonPong",
+    "video": null,
+    "scrapeWords": [
+      "Neon",
+      "Pong"
+    ]
+  },
+  {
     "author": "Sebastian",
     "description": "Breath fire; destroy the tower.",
     "genre": "Action",
@@ -40767,7 +40784,7 @@
   },
   {
     "author": "Capital Ex",
-    "description": "See the present, See the future, but nothing in-between",
+    "description": "See the present, see the future, but nothing in-between",
     "genre": "Puzzle",
     "id": "491036",
     "link": "https://capitalex.itch.io/nothing-in-between",
