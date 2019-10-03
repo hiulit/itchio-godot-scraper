@@ -25954,7 +25954,7 @@
     ]
   },
   {
-    "author": "ruly",
+    "author": "Ruly",
     "description": null,
     "genre": "Platformer",
     "id": "371799",
@@ -34323,6 +34323,21 @@
     ]
   },
   {
+    "author": "PlanetKiller",
+    "description": "A vacuum, a desert planet, and everyone counting on you.",
+    "genre": "Shooter",
+    "id": "449621",
+    "link": "https://planetkiller.itch.io/littleone",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NzExMjAucG5n/315x250%23c/kn%2F26x.png",
+    "title": "LittleOne",
+    "video": null,
+    "scrapeWords": [
+      "Little",
+      "One"
+    ]
+  },
+  {
     "author": "Fupi",
     "description": "Defuse a bomb in the dark.",
     "genre": null,
@@ -38753,7 +38768,7 @@
   {
     "author": "Sebajuste",
     "description": "Répondez à un appel à détresse en provenance d'une lointaine planète !",
-    "genre": "Action",
+    "genre": "Platformer",
     "id": "476031",
     "link": "https://sebajuste.itch.io/davus-project",
     "platforms": [
@@ -39078,7 +39093,7 @@
   },
   {
     "author": "Ortus",
-    "description": "Convert Your Stories to Animation",
+    "description": "Convert Stories to Animation",
     "genre": "Interactive Fiction",
     "id": "478341",
     "link": "https://ortus.itch.io/ortus",
@@ -39087,7 +39102,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NDMyMTAucG5n/315x250%23c/%2F0re%2B5.png",
     "title": "Ortus",
     "video": null,
     "scrapeWords": [
@@ -39944,6 +39959,26 @@
     "video": null,
     "scrapeWords": [
       "Tetris"
+    ]
+  },
+  {
+    "author": "Jacob Bell",
+    "description": "A  short story about a witch's intern",
+    "genre": "Interactive Fiction",
+    "id": "485679",
+    "link": "https://jacobbell.itch.io/magiccoffeeshop",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NDQzOTkucG5n/315x250%23c/QGW0GG.png",
+    "title": "Magic Coffee Shop",
+    "video": null,
+    "scrapeWords": [
+      "Magic",
+      "Coffee",
+      "Shop"
     ]
   },
   {
@@ -40838,6 +40873,38 @@
     "scrapeWords": [
       "Sci-Fi",
       "Pileup"
+    ]
+  },
+  {
+    "author": "MangoGames",
+    "description": null,
+    "genre": "Platformer",
+    "id": "491573",
+    "link": "https://mangogames.itch.io/blow-back",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NDE4MzMucG5n/315x250%23c/miJifG.png",
+    "title": "Blow Back",
+    "video": null,
+    "scrapeWords": [
+      "Blow",
+      "Back"
+    ]
+  },
+  {
+    "author": "JustusPan",
+    "description": "A simple high-score space shooting game.",
+    "genre": "Shooter",
+    "id": "492109",
+    "link": "https://justuspan.itch.io/x-capsule",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NDQ3MDcucG5n/315x250%23c/eJjQVQ.png",
+    "title": "X Capsule",
+    "video": null,
+    "scrapeWords": [
+      "X",
+      "Capsule"
     ]
   },
   {
