@@ -932,6 +932,24 @@
     ]
   },
   {
+    "author": "Nonamefornowsoft",
+    "description": "Invaders Rip-off",
+    "genre": "Shooter",
+    "id": "123614",
+    "link": "https://nonamefornow.itch.io/invasion",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTIzNjE0LzU2OTQzNS5wbmc=/315x250%23c/BT9dGt.png",
+    "title": "Invasion",
+    "video": null,
+    "scrapeWords": [
+      "Invasion"
+    ]
+  },
+  {
     "author": "Non0w",
     "description": "Here is the version 0.2 of ButtButt. (Still in Development)",
     "genre": "Platformer",
@@ -4620,11 +4638,11 @@
     ]
   },
   {
-    "author": "hypersnow",
+    "author": "joh",
     "description": "The world is ending.",
     "genre": "Action",
     "id": "199664",
-    "link": "https://hypersnow.itch.io/project-savior-prologue",
+    "link": "https://johjoh.itch.io/project-savior-prologue",
     "platforms": [
       "Windows"
     ],
@@ -17497,6 +17515,24 @@
     "scrapeWords": [
       "Get",
       "Down"
+    ]
+  },
+  {
+    "author": "Whyat1872",
+    "description": "A fantastic flat farming experience!",
+    "genre": "Simulation",
+    "id": "302853",
+    "link": "https://whyat1872.itch.io/flat-farms",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMzAyODUzLzE0ODMxNjUucG5n/315x250%23c/nNro%2Fx.png",
+    "title": "Flat Farms",
+    "video": null,
+    "scrapeWords": [
+      "Flat",
+      "Farms"
     ]
   },
   {
@@ -34574,11 +34610,7 @@
     "genre": "Platformer",
     "id": "451489",
     "link": "https://fortoj.itch.io/draftform",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0MDY2NzMuZ2lm/315x250%23cm/gdXYmW.gif",
     "title": "Draftform",
     "video": "https://img.itch.zone/aW1nLzI0MDY2NzMuZ2lm/original/2yXEpl.gif",
@@ -39813,11 +39845,11 @@
     ]
   },
   {
-    "author": "hypersnow",
+    "author": "joh",
     "description": "Every hit is lethal, and every win counts. Lightning-fast 1-on-1 fighting!",
     "genre": "Fighting",
     "id": "483937",
-    "link": "https://hypersnow.itch.io/hyperfight",
+    "link": "https://johjoh.itch.io/hyperfight",
     "platforms": [
       "Windows",
       "Linux",
