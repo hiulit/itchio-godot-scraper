@@ -18941,11 +18941,11 @@
     ]
   },
   {
-    "author": "ljhsgames",
+    "author": "lajollagamesclub",
     "description": "Avoid the egyptan spirits and cats all while searching for three keys. All donations go to La Jolla High School ASB.",
     "genre": "Action",
     "id": "315556",
-    "link": "https://ljhsgames.itch.io/egyptian-treasure",
+    "link": "https://lajollagamesclub.itch.io/egyptian-treasure",
     "platforms": [
       "Windows",
       "Linux",
@@ -21323,11 +21323,11 @@
     ]
   },
   {
-    "author": "ljhsgames",
+    "author": "lajollagamesclub",
     "description": "release your road rage",
     "genre": "Action",
     "id": "336490",
-    "link": "https://ljhsgames.itch.io/offensive-driver",
+    "link": "https://lajollagamesclub.itch.io/offensive-driver",
     "platforms": [
       "Windows",
       "Linux",
@@ -25271,13 +25271,13 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE5MDUxNDYucG5n/315x250%23c/QsOFPR.png",
-    "title": "ELF GAME (demo 0.0.6)",
+    "thumb": "https://img.itch.zone/aW1nLzI1NDkyODkucG5n/315x250%23c/WLHhRR.png",
+    "title": "ELF GAME (demo 0.0.7)",
     "video": null,
     "scrapeWords": [
       "ELF",
       "GAME",
-      "006"
+      "007"
     ]
   },
   {
@@ -27835,7 +27835,7 @@
   },
   {
     "author": "Canina",
-    "description": "Its a remake of the classic pong game by Atari",
+    "description": "Its a remake of the classic pong game",
     "genre": "Action",
     "id": "393220",
     "link": "https://canina.itch.io/retro-pong",
@@ -29739,20 +29739,19 @@
     ]
   },
   {
-    "author": "Dieghito03",
-    "description": "A star is born, so a killer is born.",
-    "genre": "Action",
+    "author": "Diego Fortuna",
+    "description": null,
+    "genre": null,
     "id": "411626",
-    "link": "https://dieghito03.itch.io/star-killer",
+    "link": "https://diego-fortuna.itch.io/arc-ellar",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIwNDczNjIucG5n/315x250%23c/XU%2FuaP.png",
-    "title": "STAR KILLER",
+    "thumb": "https://img.itch.zone/aW1nLzI1NTUzODEucG5n/315x250%23c/AzmUTY.png",
+    "title": "ARCELLAR",
     "video": null,
     "scrapeWords": [
-      "STAR",
-      "KILLER"
+      "ARCELLAR"
     ]
   },
   {
@@ -30976,10 +30975,7 @@
     "genre": null,
     "id": "421743",
     "link": "https://kalgator.itch.io/fallingpoppins",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIxMDQzMDIucG5n/315x250%23c/nMXqeY.png",
     "title": "Falling Poppins",
     "video": null,
@@ -35658,22 +35654,6 @@
     ]
   },
   {
-    "author": "idletalent_me",
-    "description": "Out-swim the other sharks to get the best meat! For 1 or 2 players!",
-    "genre": "Action",
-    "id": "459920",
-    "link": "https://idletalent-me.itch.io/hungry-shark-challenge",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzNDAwNTUucG5n/315x250%23c/YQ4vFB.png",
-    "title": "Hungry Shark Challenge",
-    "video": null,
-    "scrapeWords": [
-      "Hungry",
-      "Shark",
-      "Challenge"
-    ]
-  },
-  {
     "author": "smoula",
     "description": "Mix board game Carcassonne , puzzle, tetris and much more!",
     "genre": "Strategy",
@@ -35682,7 +35662,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzNDEwMTUuanBn/315x250%23c/YITiDn.jpg",
     "title": "Carcass ONE",
@@ -37806,6 +37787,21 @@
     "scrapeWords": [
       "Ham",
       "Rush"
+    ]
+  },
+  {
+    "author": "Future Proof Games",
+    "description": "Take back the land from those keeping it a food desert. Every run transforms the land in your favor.",
+    "genre": "Strategy",
+    "id": "470113",
+    "link": "https://futureproofgames.itch.io/cultivating-insurgency",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MDUxNzMucG5n/315x250%23c/8QS1jS.png",
+    "title": "Cultivating Insurgency",
+    "video": null,
+    "scrapeWords": [
+      "Cultivating",
+      "Insurgency"
     ]
   },
   {
@@ -40102,12 +40098,7 @@
     "genre": "Strategy",
     "id": "486087",
     "link": "https://syndi-studios.itch.io/polterheist",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1MDk0OTIucG5n/315x250%23c/MJybOg.png",
     "title": "Polterheist! (Alpha)",
     "video": null,
@@ -40181,7 +40172,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI1MTY0MzUuanBn/315x250%23c/bKv4dL.jpg",
     "title": "Not A Halloween Game",
@@ -40660,6 +40652,24 @@
     ]
   },
   {
+    "author": "Frusco",
+    "description": "Jump around ancient temples with Indiana Frog!",
+    "genre": "Platformer",
+    "id": "488314",
+    "link": "https://frusco.itch.io/indiana-frog",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjQzMzAuanBn/315x250%23c/AubNrC.jpg",
+    "title": "Indiana Frog",
+    "video": null,
+    "scrapeWords": [
+      "Indiana",
+      "Frog"
+    ]
+  },
+  {
     "author": "2Buz-z™",
     "description": "Aplicativo simulador de erros para ensino de informática básica",
     "genre": "Puzzle",
@@ -40818,7 +40828,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MzU1MTIucG5n/315x250%23c/I1Ahqa.png",
+    "thumb": "https://img.itch.zone/aW1nLzI1NTE5NjQuanBlZw==/315x250%23c/Je2uWC.jpeg",
     "title": "No Time Bro [IFPI/Labiras]",
     "video": null,
     "scrapeWords": [
@@ -40908,6 +40918,25 @@
     ]
   },
   {
+    "author": "Athenian_Queen",
+    "description": "A platformer where you can't stop",
+    "genre": "Platformer",
+    "id": "491145",
+    "link": "https://athenian-queen.itch.io/cant-stop",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTAzODAucG5n/315x250%23c/X0ZECP.png",
+    "title": "Can't Stop",
+    "video": null,
+    "scrapeWords": [
+      "Cant",
+      "Stop"
+    ]
+  },
+  {
     "author": "MangoGames",
     "description": null,
     "genre": "Platformer",
@@ -40937,6 +40966,202 @@
     "scrapeWords": [
       "X",
       "Capsule"
+    ]
+  },
+  {
+    "author": "Fupi",
+    "description": "The universe is yours to destroy.",
+    "genre": null,
+    "id": "493896",
+    "link": "https://fupi.itch.io/god-complex",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTQxOTAucG5n/315x250%23c/JY2rmV.png",
+    "title": "God Complex",
+    "video": null,
+    "scrapeWords": [
+      "God",
+      "Complex"
+    ]
+  },
+  {
+    "author": "skemp",
+    "description": "Bare naked endless runner made for ldjam45",
+    "genre": "Platformer",
+    "id": "493920",
+    "link": "https://skemp.itch.io/you-start-end-with-nothing",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTQyMDgucG5n/315x250%23c/xvfJDo.png",
+    "title": "You start-end with nothing",
+    "video": null,
+    "scrapeWords": [
+      "You",
+      "start-end",
+      "with",
+      "nothing"
+    ]
+  },
+  {
+    "author": "Corrade",
+    "description": "A short ordeal involving raising a plant.",
+    "genre": null,
+    "id": "493950",
+    "link": "https://corrade.itch.io/flourish",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTQzMjgucG5n/315x250%23c/pKrvyt.png",
+    "title": "Flourish",
+    "video": null,
+    "scrapeWords": [
+      "Flourish"
+    ]
+  },
+  {
+    "author": "Version 4.0",
+    "description": "The game I made for the LD#45, whose theme is \"start with nothing\"",
+    "genre": null,
+    "id": "493971",
+    "link": "https://itch-version.itch.io/start-then-nothing",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTQyNDAucG5n/315x250%23c/Gsxn5Y.png",
+    "title": "start, then nothing",
+    "video": null,
+    "scrapeWords": [
+      "start",
+      "then",
+      "nothing"
+    ]
+  },
+  {
+    "author": "Kwarf",
+    "description": "Created in 48 hours during Ludum Dare 45",
+    "genre": "Platformer",
+    "id": "493997",
+    "link": "https://kwarf.itch.io/esc",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTQ1MzkucG5n/315x250%23c/n%2Fbr1N.png",
+    "title": "Esc",
+    "video": null,
+    "scrapeWords": [
+      "Esc"
+    ]
+  },
+  {
+    "author": "krautnerds",
+    "description": null,
+    "genre": "Simulation",
+    "id": "494172",
+    "link": "https://krautnerds.itch.io/kids-dress-up",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NTUzNTIucG5n/315x250%23c/g5jvXv.png",
+    "title": "Kids Dress Up",
+    "video": null,
+    "scrapeWords": [
+      "Kids",
+      "Dress",
+      "Up"
+    ]
+  },
+  {
+    "author": "Someoneman",
+    "description": "Entry for Ludum Dare 45 - You Start With Nothing",
+    "genre": null,
+    "id": "494230",
+    "link": "https://someoneman.itch.io/void-builder",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTU2MDUucG5n/315x250%23c/C%2F1Z1Z.png",
+    "title": "Void Builder",
+    "video": null,
+    "scrapeWords": [
+      "Void",
+      "Builder"
+    ]
+  },
+  {
+    "author": "Slagathor-ld",
+    "description": "You start with nothing, how long can you last?",
+    "genre": "Shooter",
+    "id": "494298",
+    "link": "https://slagathor-ld.itch.io/nix",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NTgxMTEucG5n/315x250%23c/rToVyN.png",
+    "title": "Nix",
+    "video": null,
+    "scrapeWords": [
+      "Nix"
+    ]
+  },
+  {
+    "author": "Pizzasgood",
+    "description": "You've lost everything and must reclaim your mind.",
+    "genre": "Role Playing",
+    "id": "494557",
+    "link": "https://pizzasgood.itch.io/empty-rooms",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NTY2NTAucG5n/315x250%23c/ekQIHt.png",
+    "title": "Empty Rooms",
+    "video": null,
+    "scrapeWords": [
+      "Empty",
+      "Rooms"
+    ]
+  },
+  {
+    "author": "svntax",
+    "description": null,
+    "genre": "Strategy",
+    "id": "494903",
+    "link": "https://svntax.itch.io/solar-grid",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTgzODMucG5n/315x250%23c/IS21xZ.png",
+    "title": "Solar Grid",
+    "video": null,
+    "scrapeWords": [
+      "Solar",
+      "Grid"
+    ]
+  },
+  {
+    "author": "Kevin Xue",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "494935",
+    "link": "https://ciechroma.itch.io/i-am-a-square",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTg1NTYucG5n/315x250%23c/9vJ%2BWM.png",
+    "title": "I Am A Square",
+    "video": null,
+    "scrapeWords": [
+      "I",
+      "Am",
+      "A",
+      "Square"
     ]
   },
   {
