@@ -23590,7 +23590,9 @@
     "genre": "Adventure",
     "id": "354666",
     "link": "https://nilanjan.itch.io/skully1",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzE3OTQ4MTAucG5n/315x250%23c/Q2Xhz8.png",
     "title": "Skully",
     "video": null,
@@ -32657,6 +32659,24 @@
     ]
   },
   {
+    "author": "Master Pose",
+    "description": "Magic the gathering (MTG) Card Maker",
+    "genre": "Card Game",
+    "id": "436198",
+    "link": "https://master-pose.itch.io/himmlisch-card-maker",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIxODgyNjQucG5n/315x250%23c/M7rJkF.png",
+    "title": "Himmlisch Card Maker",
+    "video": null,
+    "scrapeWords": [
+      "Himmlisch",
+      "Card",
+      "Maker"
+    ]
+  },
+  {
     "author": "Zylann",
     "description": "Create marble race tracks to put sheep into",
     "genre": "Racing",
@@ -34077,6 +34097,27 @@
     "video": null,
     "scrapeWords": [
       "Spaced"
+    ]
+  },
+  {
+    "author": "ihave13digits",
+    "description": "CSDC",
+    "genre": "Role Playing",
+    "id": "447828",
+    "link": "https://ihave13digits.itch.io/csdc",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzMjIyNjcucG5n/315x250%23c/2BfdOJ.png",
+    "title": "Charlie and Saul's Dungeon Crawl",
+    "video": null,
+    "scrapeWords": [
+      "Charlie",
+      "and",
+      "Sauls",
+      "Dungeon",
+      "Crawl"
     ]
   },
   {
@@ -40640,9 +40681,7 @@
     "genre": "Platformer",
     "id": "488172",
     "link": "https://wuchta.itch.io/personal-copy",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1MjI4ODMucG5n/315x250%23c/NPLGMw.png",
     "title": "Personal Copy",
     "video": null,
@@ -40969,6 +41008,57 @@
     ]
   },
   {
+    "author": "Coding Geronimo",
+    "description": "A roguelite fantasy card game",
+    "genre": "Card Game",
+    "id": "492848",
+    "link": "https://codinggeronimo.itch.io/fearless-islands",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjE1NDUucG5n/315x250%23c/BKeqaU.png",
+    "title": "Fearless Islands",
+    "video": null,
+    "scrapeWords": [
+      "Fearless",
+      "Islands"
+    ]
+  },
+  {
+    "author": "logo4poop",
+    "description": "It’s a lovely morning in the open plan workspace, and you are a horrible developer.",
+    "genre": "Role Playing",
+    "id": "493381",
+    "link": "https://logo4poop.itch.io/untitled-developer-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NTE2NTkucG5n/315x250%23c/QJByBR.png",
+    "title": "Untitled Developer Game",
+    "video": null,
+    "scrapeWords": [
+      "Untitled",
+      "Developer",
+      "Game"
+    ]
+  },
+  {
+    "author": "rafalkowalski",
+    "description": "Quick abstract arcade game with explosions",
+    "genre": "Action",
+    "id": "493775",
+    "link": "https://rafalkowalski.itch.io/pyk",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTQwMjQucG5n/315x250%23c/nULDPf.png",
+    "title": "Pyk",
+    "video": null,
+    "scrapeWords": [
+      "Pyk"
+    ]
+  },
+  {
     "author": "Fupi",
     "description": "The universe is yours to destroy.",
     "genre": null,
@@ -41061,6 +41151,42 @@
     ]
   },
   {
+    "author": "Jiri Hysek",
+    "description": null,
+    "genre": "Action",
+    "id": "494064",
+    "link": "https://jhysek.itch.io/nightbirds",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTg0MjcuanBn/315x250%23c/BhfJD6.jpg",
+    "title": "Nightbirds",
+    "video": null,
+    "scrapeWords": [
+      "Nightbirds"
+    ]
+  },
+  {
+    "author": "EbbDrop",
+    "description": "The find your own game game",
+    "genre": "Rhythm",
+    "id": "494128",
+    "link": "https://ebbdrop.itch.io/space",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTkxNDgucG5n/315x250%23c/Kl%2F7ju.png",
+    "title": "Space",
+    "video": null,
+    "scrapeWords": [
+      "Space"
+    ]
+  },
+  {
     "author": "krautnerds",
     "description": null,
     "genre": "Simulation",
@@ -41110,6 +41236,21 @@
     ]
   },
   {
+    "author": "erinpentecost",
+    "description": "ld45 - pull yourself up by your bootstraps!",
+    "genre": "Rhythm",
+    "id": "494434",
+    "link": "https://erinpentecost.itch.io/brunos-bootstraps",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NTc3MTQucG5n/315x250%23c/mM5n7z.png",
+    "title": "Bruno's Bootstraps",
+    "video": null,
+    "scrapeWords": [
+      "Brunos",
+      "Bootstraps"
+    ]
+  },
+  {
     "author": "Pizzasgood",
     "description": "You've lost everything and must reclaim your mind.",
     "genre": "Role Playing",
@@ -41122,6 +41263,25 @@
     "scrapeWords": [
       "Empty",
       "Rooms"
+    ]
+  },
+  {
+    "author": "nisovin",
+    "description": "Build a spaceship, then venture into the black.",
+    "genre": null,
+    "id": "494829",
+    "link": "https://nisovin.itch.io/scrap-spaceship",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTc5ODIuanBn/315x250%23c/tzhMZB.jpg",
+    "title": "Scrap Spaceship",
+    "video": null,
+    "scrapeWords": [
+      "Scrap",
+      "Spaceship"
     ]
   },
   {
@@ -41165,6 +41325,52 @@
     ]
   },
   {
+    "author": "HowYouDoing",
+    "description": "Just an demo for testing",
+    "genre": null,
+    "id": "495051",
+    "link": "https://howyoudoing.itch.io/pilot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NTkwMzMucG5n/315x250%23c/OVrjto.png",
+    "title": "Pilot",
+    "video": null,
+    "scrapeWords": [
+      "Pilot"
+    ]
+  },
+  {
+    "author": "sprngr",
+    "description": null,
+    "genre": "Platformer",
+    "id": "495082",
+    "link": "https://sprngr.itch.io/ld45-steal",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTkxODQucG5n/315x250%23c/gLbSYs.png",
+    "title": "LD45: Steal",
+    "video": null,
+    "scrapeWords": [
+      "LD45",
+      "Steal"
+    ]
+  },
+  {
+    "author": "gilokko",
+    "description": "Brian is on a quest to find the love of his life.  Will he find it?  Play and find out.",
+    "genre": null,
+    "id": "495119",
+    "link": "https://gilokko.itch.io/brians-quest",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NTkyODEucG5n/315x250%23c/Dll972.png",
+    "title": "Brian's Quest",
+    "video": null,
+    "scrapeWords": [
+      "Brians",
+      "Quest"
+    ]
+  },
+  {
     "author": "P1X",
     "description": "Game for Hangover Game Jam",
     "genre": "Action",
@@ -41181,6 +41387,199 @@
     "scrapeWords": [
       "Sweet",
       "Comet"
+    ]
+  },
+  {
+    "author": "Nikolaj",
+    "description": "Ludum Dare 45 Entry - Split Screen racing game with joystick support made in Godot 3.1",
+    "genre": "Racing",
+    "id": "495484",
+    "link": "https://nikolaj.itch.io/junk-racer-xl-ludum-dare-45",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjA5NDkucG5n/315x250%23c/RKp1m4.png",
+    "title": "Junk Racer XL - Ludum Dare 45",
+    "video": null,
+    "scrapeWords": [
+      "Junk",
+      "Racer",
+      "XL",
+      "Ludum",
+      "Dare",
+      "45"
+    ]
+  },
+  {
+    "author": "igaryhe",
+    "description": "An entry to LD45 - theme \"start with nothing\"",
+    "genre": "Platformer",
+    "id": "495614",
+    "link": "https://igaryhe.itch.io/ds",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjE1NzkucG5n/315x250%23c/6rEF0y.png",
+    "title": "Draw Something",
+    "video": null,
+    "scrapeWords": [
+      "Draw",
+      "Something"
+    ]
+  },
+  {
+    "author": "PatteDeCanaard",
+    "description": null,
+    "genre": "Shooter",
+    "id": "495844",
+    "link": "https://pattedecanaard.itch.io/scrappy-mc-spaceface-vs-the-terrible-tentacoolos",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NjM1NDcucG5n/315x250%23c/8269UY.png",
+    "title": "Scrappy MC Spaceface VS the terrible tentacoolos",
+    "video": null,
+    "scrapeWords": [
+      "Scrappy",
+      "MC",
+      "Spaceface",
+      "VS",
+      "the",
+      "terrible",
+      "tentacoolos"
+    ]
+  },
+  {
+    "author": "organicpencil",
+    "description": "Silly typing game made for Ludum Dare 45",
+    "genre": "Educational",
+    "id": "496017",
+    "link": "https://organicpencil.itch.io/muscle-typer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjM2NjkucG5n/315x250%23c/6xiDGM.png",
+    "title": "Muscle Typer",
+    "video": null,
+    "scrapeWords": [
+      "Muscle",
+      "Typer"
+    ]
+  },
+  {
+    "author": "gnitsaf",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "496063",
+    "link": "https://gnitsaf.itch.io/detect-nothing",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjM0OTIucG5n/315x250%23c/8162yh.png",
+    "title": "Detect Nothing",
+    "video": null,
+    "scrapeWords": [
+      "Detect",
+      "Nothing"
+    ]
+  },
+  {
+    "author": "MrPiedPiper",
+    "description": "Made in 72 hours for Ludum Dare 45. Art and animation by StinkyKitty",
+    "genre": null,
+    "id": "496174",
+    "link": "https://mrpiedpiper.itch.io/acornrush",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjM4ODEuanBn/315x250%23c/JbraTL.jpg",
+    "title": "Acorn Rush",
+    "video": null,
+    "scrapeWords": [
+      "Acorn",
+      "Rush"
+    ]
+  },
+  {
+    "author": "soyrandom1",
+    "description": "ludumdare",
+    "genre": "Puzzle",
+    "id": "496240",
+    "link": "https://soyrandom1.itch.io/keep-dreaming-joshua-ld",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NjM4OTYucG5n/315x250%23c/7OQdpB.png",
+    "title": "Keep Dreaming Joshua",
+    "video": null,
+    "scrapeWords": [
+      "Keep",
+      "Dreaming",
+      "Joshua"
+    ]
+  },
+  {
+    "author": "Beebo Studios",
+    "description": "Let me tell you the Tale of the Toad King",
+    "genre": "Action",
+    "id": "496268",
+    "link": "https://beebo-studios.itch.io/tale-of-the-toad-king",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjUwNDAucG5n/315x250%23c/QlHFKp.png",
+    "title": "Tale of the Toad King",
+    "video": null,
+    "scrapeWords": [
+      "Tale",
+      "of",
+      "the",
+      "Toad",
+      "King"
+    ]
+  },
+  {
+    "author": "Site12",
+    "description": "Ludum Dare 45 Entry",
+    "genre": "Role Playing",
+    "id": "496301",
+    "link": "https://site12dev.itch.io/fetch-quest",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjQ1MjYucG5n/315x250%23c/8t4eN3.png",
+    "title": "Fetch Quest",
+    "video": null,
+    "scrapeWords": [
+      "Fetch",
+      "Quest"
+    ]
+  },
+  {
+    "author": "JLV",
+    "description": "A Phony Incarnation is a short narrative game where you start even without a body.",
+    "genre": "Visual Novel",
+    "id": "496358",
+    "link": "https://jlv.itch.io/a-phony-incarnation",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjQ0OTAucG5n/315x250%23c/%2Fnl1tM.png",
+    "title": "A Phony Incarnation",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Phony",
+      "Incarnation"
     ]
   },
   {
@@ -42301,20 +42700,6 @@
       "LOGO",
       "-The",
       "Game-"
-    ]
-  },
-  {
-    "author": "Gelato Labs",
-    "description": "Cyberpunk RPG about cyborg cats on drugs",
-    "genre": "Role Playing",
-    "id": "84385",
-    "link": "https://gelatolabs.itch.io/catachresis",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvODQzODUvMzk3ODc0LnBuZw==/315x250%23c/DYOxgB.png",
-    "title": "Catachresis",
-    "video": null,
-    "scrapeWords": [
-      "Catachresis"
     ]
   },
   {
