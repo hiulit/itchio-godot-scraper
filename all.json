@@ -6021,10 +6021,9 @@
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMjIzOTM0LzEwNjMwNDQuZ2lm/315x250%23cm/BEXe73.gif",
-    "title": "New! Polar  Olympics",
+    "title": "Polar  Olympics",
     "video": "https://img.itch.zone/aW1hZ2UvMjIzOTM0LzEwNjMwNDQuZ2lm/original/vjjbV9.gif",
     "scrapeWords": [
-      "New",
       "Polar",
       "Olympics"
     ]
@@ -37836,8 +37835,12 @@
     "genre": "Strategy",
     "id": "470113",
     "link": "https://futureproofgames.itch.io/cultivating-insurgency",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0MDUxNzMucG5n/315x250%23c/8QS1jS.png",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1Njc4NjkucG5n/315x250%23c/u3dTL4.png",
     "title": "Cultivating Insurgency",
     "video": null,
     "scrapeWords": [
@@ -41151,6 +41154,25 @@
     ]
   },
   {
+    "author": "SingleBit",
+    "description": "A feel-good micro game about what can be created from nothing",
+    "genre": "Interactive Fiction",
+    "id": "494031",
+    "link": "https://singlebit.itch.io/amor-fati",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjAzMDAucG5n/315x250%23c/6RtIwQ.png",
+    "title": "Amor Fati",
+    "video": null,
+    "scrapeWords": [
+      "Amor",
+      "Fati"
+    ]
+  },
+  {
     "author": "Jiri Hysek",
     "description": null,
     "genre": "Action",
@@ -41266,7 +41288,7 @@
     ]
   },
   {
-    "author": "nisovin",
+    "author": "Nisovin",
     "description": "Build a spaceship, then venture into the black.",
     "genre": null,
     "id": "494829",
@@ -41390,6 +41412,26 @@
     ]
   },
   {
+    "author": "MatheusPese",
+    "description": "Ludum Dare 45",
+    "genre": null,
+    "id": "495369",
+    "link": "https://matheuspese.itch.io/there-is-nothing-here",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": null,
+    "title": "There is Nothing Here",
+    "video": null,
+    "scrapeWords": [
+      "There",
+      "is",
+      "Nothing",
+      "Here"
+    ]
+  },
+  {
     "author": "Nikolaj",
     "description": "Ludum Dare 45 Entry - Split Screen racing game with joystick support made in Godot 3.1",
     "genre": "Racing",
@@ -41409,6 +41451,45 @@
       "Ludum",
       "Dare",
       "45"
+    ]
+  },
+  {
+    "author": "Phoenix Fireflower",
+    "description": "Help a girl get through many dangerous dungeon floors!",
+    "genre": "Action",
+    "id": "495509",
+    "link": "https://phoenix-fireflower.itch.io/girl-in-a-dungeon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjE4MDEuZ2lm/315x250%23cm/1KCuEC.gif",
+    "title": "Girl in a Dungeon",
+    "video": "https://img.itch.zone/aW1nLzI1NjE4MDEuZ2lm/original/REf78n.gif",
+    "scrapeWords": [
+      "Girl",
+      "in",
+      "a",
+      "Dungeon"
+    ]
+  },
+  {
+    "author": "werthen",
+    "description": null,
+    "genre": null,
+    "id": "495612",
+    "link": "https://werthen.itch.io/draw-my-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "Draw My Game",
+    "video": null,
+    "scrapeWords": [
+      "Draw",
+      "My",
+      "Game"
     ]
   },
   {
@@ -41450,6 +41531,30 @@
     ]
   },
   {
+    "author": "ExecMeGames",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "495857",
+    "link": "https://execmegames.itch.io/refilltris",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjI3NzMucG5n/315x250%23c/zCBgP2.png",
+    "title": "Refilltris - Ludum Dare 45 - Start With Nothing",
+    "video": null,
+    "scrapeWords": [
+      "Refilltris",
+      "Ludum",
+      "Dare",
+      "45",
+      "Start",
+      "With",
+      "Nothing"
+    ]
+  },
+  {
     "author": "organicpencil",
     "description": "Silly typing game made for Ludum Dare 45",
     "genre": "Educational",
@@ -41475,7 +41580,6 @@
     "id": "496063",
     "link": "https://gnitsaf.itch.io/detect-nothing",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -41489,7 +41593,7 @@
   },
   {
     "author": "MrPiedPiper",
-    "description": "Made in 72 hours for Ludum Dare 45. Art and animation by StinkyKitty",
+    "description": "Frantic arcade acorn action! Made in 72 hours for Ludum Dare 45. Art and animation by StinkyKitty",
     "genre": null,
     "id": "496174",
     "link": "https://mrpiedpiper.itch.io/acornrush",
@@ -41580,6 +41684,21 @@
       "A",
       "Phony",
       "Incarnation"
+    ]
+  },
+  {
+    "author": "QuaserNovus",
+    "description": "Awoken after millenniums past and branded as the nefarious young spirit, explore the abyss to restore your former glory!",
+    "genre": "Visual Novel",
+    "id": "497021",
+    "link": "https://quasernovus.itch.io/histericum-solaria",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1Njg5MjEuanBn/315x250%23c/6cl1kE.jpg",
+    "title": "Histericum Solaria",
+    "video": null,
+    "scrapeWords": [
+      "Histericum",
+      "Solaria"
     ]
   },
   {
