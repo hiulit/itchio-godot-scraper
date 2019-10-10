@@ -3607,7 +3607,7 @@
   },
   {
     "author": "PWEGG",
-    "description": null,
+    "description": "The art of stealing art!",
     "genre": null,
     "id": "184243",
     "link": "https://pwegg.itch.io/gimme-the-monet",
@@ -38249,7 +38249,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MjE4NDMucG5n/315x250%23c/LDPU4m.png",
     "title": "LadderClimber",
@@ -41412,6 +41413,24 @@
     ]
   },
   {
+    "author": "spaceWumpus",
+    "description": "A solo LudumDare45 Game Jam entry - written entirely in a weekend.",
+    "genre": "Action",
+    "id": "495268",
+    "link": "https://spacewumpus.itch.io/shadowy-monster-land",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjQwMzEucG5n/315x250%23c/l4Zkjc.png",
+    "title": "Shadowy Monster Land",
+    "video": null,
+    "scrapeWords": [
+      "Shadowy",
+      "Monster",
+      "Land"
+    ]
+  },
+  {
     "author": "MatheusPese",
     "description": "Ludum Dare 45",
     "genre": null,
@@ -41687,6 +41706,22 @@
     ]
   },
   {
+    "author": "strutcode",
+    "description": "A game jam game about robots",
+    "genre": null,
+    "id": "497010",
+    "link": "https://strutcode.itch.io/i-am-here",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1Njg4MjkucG5n/315x250%23c/gSeR79.png",
+    "title": "I Am Here",
+    "video": null,
+    "scrapeWords": [
+      "I",
+      "Am",
+      "Here"
+    ]
+  },
+  {
     "author": "QuaserNovus",
     "description": "Awoken after millenniums past and branded as the nefarious young spirit, explore the abyss to restore your former glory!",
     "genre": "Visual Novel",
@@ -41694,11 +41729,66 @@
     "link": "https://quasernovus.itch.io/histericum-solaria",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1Njg5MjEuanBn/315x250%23c/6cl1kE.jpg",
-    "title": "Histericum Solaria",
+    "title": "HISTERICUM SOLARIA",
     "video": null,
     "scrapeWords": [
-      "Histericum",
-      "Solaria"
+      "HISTERICUM",
+      "SOLARIA"
+    ]
+  },
+  {
+    "author": "pandartb3d",
+    "description": null,
+    "genre": "Educational",
+    "id": "497109",
+    "link": "https://pandartb3d.itch.io/typing",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1Njk2NDQuanBn/315x250%23c/fv6%2Fbc.jpg",
+    "title": "Typing",
+    "video": null,
+    "scrapeWords": [
+      "Typing"
+    ]
+  },
+  {
+    "author": "ATalbi Games",
+    "description": "Friend House Escape Room Game",
+    "genre": "Puzzle",
+    "id": "497379",
+    "link": "https://atalbi-games.itch.io/friend-house",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NzE0OTAuanBn/315x250%23c/VK4BXw.jpg",
+    "title": "Friend House",
+    "video": null,
+    "scrapeWords": [
+      "Friend",
+      "House"
+    ]
+  },
+  {
+    "author": "Ariel Gimenez",
+    "description": "Un juego de laberinto diseñado con Blender3D y Godot Engine donde tendrás que encontrar la llave para abrir la puerta",
+    "genre": "Puzzle",
+    "id": "497402",
+    "link": "https://kone9.itch.io/taller-laberinto-con-blender3d-y-godot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NzE2ODgucG5n/315x250%23c/wCe8W3.png",
+    "title": "Taller Laberinto con Blender3D y Godot Engine",
+    "video": null,
+    "scrapeWords": [
+      "Taller",
+      "Laberinto",
+      "con",
+      "Blender3",
+      "D",
+      "y",
+      "Godot",
+      "Engine"
     ]
   },
   {
