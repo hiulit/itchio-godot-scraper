@@ -4639,7 +4639,7 @@
   },
   {
     "author": "joh",
-    "description": "The world is ending.",
+    "description": "The world is ending. (Made for GitHub Game Off 2017)",
     "genre": "Action",
     "id": "199664",
     "link": "https://johjoh.itch.io/project-savior-prologue",
@@ -9948,6 +9948,24 @@
     ]
   },
   {
+    "author": "joh",
+    "description": "2D platforming, card mixing action (INCOMPLETE)",
+    "genre": "Platformer",
+    "id": "253780",
+    "link": "https://johjoh.itch.io/cardheart",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjUzNzgwLzE0ODkxNzIucG5n/315x250%23c/h3f5MN.png",
+    "title": "Cardheart",
+    "video": null,
+    "scrapeWords": [
+      "Cardheart"
+    ]
+  },
+  {
     "author": "Tzoop",
     "description": "Do not get caught by the ladybugs",
     "genre": "Survival",
@@ -14371,7 +14389,7 @@
     ]
   },
   {
-    "author": "Arrecis",
+    "author": "Mr. Arrecis",
     "description": "Saves humans from the dinosaur.",
     "genre": "Action",
     "id": "286980",
@@ -29451,7 +29469,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMjE5NDkucG5n/315x250%23c/lPo91M.png",
+    "thumb": "https://img.itch.zone/aW1nLzI1NzM5MDkucG5n/315x250%23c/xisNH1.png",
     "title": "Cossanox",
     "video": null,
     "scrapeWords": [
@@ -31911,7 +31929,7 @@
     ]
   },
   {
-    "author": "dogrocketeer",
+    "author": "jessierocket",
     "description": null,
     "genre": null,
     "id": "429024",
@@ -39968,9 +39986,7 @@
     "genre": "Platformer",
     "id": "484800",
     "link": "https://godspower.itch.io/hungry-jax",
-    "platforms": [
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1MDIwOTEucG5n/315x250%23c/xJx3DY.png",
     "title": "Hungry Jax",
     "video": null,
@@ -41259,6 +41275,29 @@
     ]
   },
   {
+    "author": "AsayakeAkira",
+    "description": "A game made for LudumDare 45, with the theme \"Start with nothing\".",
+    "genre": "Puzzle",
+    "id": "494358",
+    "link": "https://asayakeakira.itch.io/spooky",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjExMDAucG5n/315x250%23c/cuIYTx.png",
+    "title": "Spooky: The one who lost everything",
+    "video": null,
+    "scrapeWords": [
+      "Spooky",
+      "The",
+      "one",
+      "who",
+      "lost",
+      "everything"
+    ]
+  },
+  {
     "author": "erinpentecost",
     "description": "ld45 - pull yourself up by your bootstraps!",
     "genre": "Rhythm",
@@ -41728,7 +41767,7 @@
     "id": "497021",
     "link": "https://quasernovus.itch.io/histericum-solaria",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI1Njg5MjEuanBn/315x250%23c/6cl1kE.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzI1NzM2MzAucG5n/315x250%23c/7pKbrW.png",
     "title": "HISTERICUM SOLARIA",
     "video": null,
     "scrapeWords": [
@@ -41738,14 +41777,12 @@
   },
   {
     "author": "pandartb3d",
-    "description": null,
+    "description": "Looking for Feedback",
     "genre": "Educational",
     "id": "497109",
     "link": "https://pandartb3d.itch.io/typing",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1Njk2NDQuanBn/315x250%23c/fv6%2Fbc.jpg",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NzI2MjkuanBn/315x250%23c/jHh5QB.jpg",
     "title": "Typing",
     "video": null,
     "scrapeWords": [
@@ -41754,7 +41791,7 @@
   },
   {
     "author": "ATalbi Games",
-    "description": "Friend House Escape Room Game",
+    "description": "Escape Room Puzzle Game",
     "genre": "Puzzle",
     "id": "497379",
     "link": "https://atalbi-games.itch.io/friend-house",
@@ -41789,6 +41826,40 @@
       "y",
       "Godot",
       "Engine"
+    ]
+  },
+  {
+    "author": "Sylver",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "497620",
+    "link": "https://sylver.itch.io/the-insectforma-curse",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NzMwNDkucG5n/315x250%23c/3jebF9.png",
+    "title": "The Insectforma Curse",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Insectforma",
+      "Curse"
+    ]
+  },
+  {
+    "author": "Black Mamba Studio",
+    "description": "Modify public opinion through TV news",
+    "genre": null,
+    "id": "497819",
+    "link": "https://black-mamba-studio.itch.io/machinaria1982",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NzQxMDYuZ2lm/315x250%23cm/ZVolT3.gif",
+    "title": "Machinaria 1982",
+    "video": "https://img.itch.zone/aW1nLzI1NzQxMDYuZ2lm/original/rIE9y%2F.gif",
+    "scrapeWords": [
+      "Machinaria",
+      "1982"
     ]
   },
   {
