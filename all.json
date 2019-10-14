@@ -20384,7 +20384,7 @@
   },
   {
     "author": "chiendev",
-    "description": "[work in progress]",
+    "description": "[suspended]",
     "genre": null,
     "id": "326322",
     "link": "https://chiendev.itch.io/cylquest",
@@ -31780,7 +31780,7 @@
     ]
   },
   {
-    "author": "dayvidfm",
+    "author": "DayvidFM",
     "description": "Protect the garden from evil slimes!",
     "genre": "Action",
     "id": "427360",
@@ -34591,7 +34591,6 @@
     "link": "https://ioribranford.itch.io/string-em-up",
     "platforms": [
       "Windows",
-      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIyODg5NjgucG5n/315x250%23c/gg3jbH.png",
@@ -38348,27 +38347,6 @@
     ]
   },
   {
-    "author": "industrial App",
-    "description": "Industrial App",
-    "genre": "Platformer",
-    "id": "472718",
-    "link": "https://nuke-detonator.itch.io/bonorowarforsys",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MDc3MTQucG5n/315x250%23c/y5n4W5.png",
-    "title": "Bonoro War For System",
-    "video": null,
-    "scrapeWords": [
-      "Bonoro",
-      "War",
-      "For",
-      "System"
-    ]
-  },
-  {
     "author": "lpancho",
     "description": "Everyone can change.",
     "genre": "Survival",
@@ -38873,6 +38851,25 @@
     "scrapeWords": [
       "DAVUS",
       "Project"
+    ]
+  },
+  {
+    "author": "rettt",
+    "description": null,
+    "genre": "Card Game",
+    "id": "476056",
+    "link": "https://rettt.itch.io/dengerouscards",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODA3MjkucG5n/315x250%23c/a2E9nD.png",
+    "title": "DengerousCards",
+    "video": null,
+    "scrapeWords": [
+      "Dengerous",
+      "Cards"
     ]
   },
   {
@@ -40779,6 +40776,24 @@
     ]
   },
   {
+    "author": "xezton",
+    "description": "Cut through waves of spacetime as they collapse and rebound in this LCD-style game.",
+    "genre": "Action",
+    "id": "489982",
+    "link": "https://rlseaton.itch.io/spacetime-sunder",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1Nzk4MjcucG5n/315x250%23c/%2F6%2BWbc.png",
+    "title": "Spacetime Sunder",
+    "video": null,
+    "scrapeWords": [
+      "Spacetime",
+      "Sunder"
+    ]
+  },
+  {
     "author": "Paulo RL",
     "description": "Jogo de construção de armas e controle de recursos de formas simples e divertida, resolvendo puzzles para avançar",
     "genre": "Puzzle",
@@ -41387,20 +41402,6 @@
     ]
   },
   {
-    "author": "HowYouDoing",
-    "description": "Just an demo for testing",
-    "genre": null,
-    "id": "495051",
-    "link": "https://howyoudoing.itch.io/pilot",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI1NTkwMzMucG5n/315x250%23c/OVrjto.png",
-    "title": "Pilot",
-    "video": null,
-    "scrapeWords": [
-      "Pilot"
-    ]
-  },
-  {
     "author": "sprngr",
     "description": null,
     "genre": "Platformer",
@@ -41650,6 +41651,25 @@
     ]
   },
   {
+    "author": "USPGameDev",
+    "description": "A game about racing (vehicles not included)",
+    "genre": "Racing",
+    "id": "496125",
+    "link": "https://uspgamedev.itch.io/blueprint-blast",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjMzMzYucG5n/315x250%23c/LDMHLb.png",
+    "title": "Blueprint Blast",
+    "video": null,
+    "scrapeWords": [
+      "Blueprint",
+      "Blast"
+    ]
+  },
+  {
     "author": "MrPiedPiper",
     "description": "Frantic arcade acorn action! Made in 72 hours for Ludum Dare 45. Art and animation by StinkyKitty",
     "genre": null,
@@ -41797,9 +41817,10 @@
     "link": "https://atalbi-games.itch.io/friend-house",
     "platforms": [
       "Windows",
+      "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI1NzE0OTAuanBn/315x250%23c/VK4BXw.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzI1NzU5NjUuanBn/315x250%23c/mpwOdL.jpg",
     "title": "Friend House",
     "video": null,
     "scrapeWords": [
@@ -41860,6 +41881,209 @@
     "scrapeWords": [
       "Machinaria",
       "1982"
+    ]
+  },
+  {
+    "author": "Nono Kros",
+    "description": "3D flappy bird, still as frustrating as you remembered.",
+    "genre": "Action",
+    "id": "498527",
+    "link": "https://yxt0531.itch.io/fluffy-bird",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NzgzMDQucG5n/315x250%23c/GrTdfL.png",
+    "title": "Fluffy Bird",
+    "video": null,
+    "scrapeWords": [
+      "Fluffy",
+      "Bird"
+    ]
+  },
+  {
+    "author": "wiphotos",
+    "description": "Take the form of a penguin in this fun, fast-paced, 3d sledding game.",
+    "genre": "Racing",
+    "id": "498692",
+    "link": "https://wiphotos.itch.io/3d-sledding",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1Nzk1ODMucG5n/315x250%23c/lCxhP7.png",
+    "title": "3D Sledding",
+    "video": null,
+    "scrapeWords": [
+      "3",
+      "D",
+      "Sledding"
+    ]
+  },
+  {
+    "author": "Xofox",
+    "description": "A Puzzle Game where you can only use 2d representations of 3D Space",
+    "genre": "Puzzle",
+    "id": "498836",
+    "link": "https://xofox.itch.io/the-next-dimension",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODEyMTAucG5n/315x250%23c/W2%2Fns1.png",
+    "title": "The Next Dimension v.0.1",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Next",
+      "Dimension",
+      "v01"
+    ]
+  },
+  {
+    "author": "DDRKirby(ISQ)",
+    "description": "A love letter to Mega Man with a twist!",
+    "genre": "Action",
+    "id": "498881",
+    "link": "https://ddrkirbyisq.itch.io/unlock-everything",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODAzODguZ2lm/315x250%23cm/OAokTN.gif",
+    "title": "Unlock Everything",
+    "video": "https://img.itch.zone/aW1nLzI1ODAzODguZ2lm/original/4q%2BUgv.gif",
+    "scrapeWords": [
+      "Unlock",
+      "Everything"
+    ]
+  },
+  {
+    "author": "HyperDrop Studios",
+    "description": "A 2D platformer where you jump beteween planets",
+    "genre": null,
+    "id": "498944",
+    "link": "https://hyperdrop-studios.itch.io/galaxyjump",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODE0MjEucG5n/315x250%23c/FkbMex.png",
+    "title": "GalaxyJump",
+    "video": null,
+    "scrapeWords": [
+      "Galaxy",
+      "Jump"
+    ]
+  },
+  {
+    "author": "ShoeFisherGames",
+    "description": "Like Flappy Bird, but 3D!",
+    "genre": "Action",
+    "id": "498992",
+    "link": "https://shoefishergames.itch.io/flappy-cat",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1ODExMjQucG5n/315x250%23c/YTPNuo.png",
+    "title": "Flappy Cat",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Cat"
+    ]
+  },
+  {
+    "author": "PatteDeCanaard",
+    "description": "2D shooter - Mechanic from SUPERHOT",
+    "genre": "Shooter",
+    "id": "499204",
+    "link": "https://pattedecanaard.itch.io/hypercold",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1ODIzOTcucG5n/315x250%23c/8PUKBd.png",
+    "title": "HyperCold",
+    "video": null,
+    "scrapeWords": [
+      "Hyper",
+      "Cold"
+    ]
+  },
+  {
+    "author": "MVP Good Games Easy",
+    "description": "2D homage to Physgun from Garrys Mod",
+    "genre": null,
+    "id": "499223",
+    "link": "https://mvpggez.itch.io/larrys-mod-fun-gun-reloaded",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODI2ODkuanBn/315x250%23c/al93Hi.jpg",
+    "title": "Larrys Mod: Fun Gun Reloaded",
+    "video": null,
+    "scrapeWords": [
+      "Larrys",
+      "Mod",
+      "Fun",
+      "Gun",
+      "Reloaded"
+    ]
+  },
+  {
+    "author": "mianzhi",
+    "description": "A little girl finds her way home with her new friend pterodactyl.",
+    "genre": "Platformer",
+    "id": "499268",
+    "link": "https://mianzhi.itch.io/journey-2d",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODMxNjUucG5n/315x250%23c/%2Bq%2FeSy.png",
+    "title": "Journey 2D",
+    "video": null,
+    "scrapeWords": [
+      "Journey",
+      "2",
+      "D"
+    ]
+  },
+  {
+    "author": "BirchTree",
+    "description": "A timing-heavy precision platformer!",
+    "genre": "Platformer",
+    "id": "499457",
+    "link": "https://birchtree.itch.io/gemini",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1ODMzNzkuZ2lm/315x250%23cm/1OHVEV.gif",
+    "title": "GEMINI",
+    "video": "https://img.itch.zone/aW1nLzI1ODMzNzkuZ2lm/original/sEZWCx.gif",
+    "scrapeWords": [
+      "GEMINI"
+    ]
+  },
+  {
+    "author": "Thoughtquake",
+    "description": "An experimental language deciphering game (made in 48 hrs)",
+    "genre": "Puzzle",
+    "id": "499475",
+    "link": "https://thoughtquake.itch.io/archives-of-voxdeep",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODM1MDUucG5n/315x250%23c/8eDC8t.png",
+    "title": "The Archives of VoxDeep (Game Jam Version)",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Archives",
+      "of",
+      "Vox",
+      "Deep",
+      "Game",
+      "Jam",
+      "Version"
     ]
   },
   {
