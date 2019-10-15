@@ -32939,24 +32939,6 @@
     ]
   },
   {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
-    ]
-  },
-  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -41928,7 +41910,6 @@
     "id": "498836",
     "link": "https://xofox.itch.io/the-next-dimension",
     "platforms": [
-      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI1ODEyMTAucG5n/315x250%23c/W2%2Fns1.png",
@@ -42084,6 +42065,23 @@
       "Game",
       "Jam",
       "Version"
+    ]
+  },
+  {
+    "author": "Erdnusshonig",
+    "description": "A fun little game - completely ad-free",
+    "genre": "Action",
+    "id": "499727",
+    "link": "https://erdnusshonig.itch.io/arcus",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODQ3MTAucG5n/315x250%23c/zSBLhL.png",
+    "title": "Arcus",
+    "video": null,
+    "scrapeWords": [
+      "Arcus"
     ]
   },
   {
