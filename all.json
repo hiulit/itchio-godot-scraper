@@ -32939,6 +32939,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -38840,17 +38858,17 @@
     "description": null,
     "genre": "Card Game",
     "id": "476056",
-    "link": "https://rettt.itch.io/dengerouscards",
+    "link": "https://rettt.itch.io/dangerouscards",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI1ODA3MjkucG5n/315x250%23c/a2E9nD.png",
-    "title": "DengerousCards",
+    "thumb": "https://img.itch.zone/aW1nLzI1ODc2MjIucG5n/315x250%23c/VsdlVk.png",
+    "title": "DangerousCards",
     "video": null,
     "scrapeWords": [
-      "Dengerous",
+      "Dangerous",
       "Cards"
     ]
   },
@@ -41035,7 +41053,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI1NjE1NDUucG5n/315x250%23c/BKeqaU.png",
+    "thumb": "https://img.itch.zone/aW1nLzI1ODc2MzMucG5n/315x250%23c/B4NkyV.png",
     "title": "Fearless Islands",
     "video": null,
     "scrapeWords": [
@@ -41511,6 +41529,25 @@
       "in",
       "a",
       "Dungeon"
+    ]
+  },
+  {
+    "author": "Vasilis Chonianakis",
+    "description": null,
+    "genre": "Action",
+    "id": "495554",
+    "link": "https://negator2vc.itch.io/wandering-soul",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjQyNjAuanBn/315x250%23c/sa0KEg.jpg",
+    "title": "Wandering Soul",
+    "video": null,
+    "scrapeWords": [
+      "Wandering",
+      "Soul"
     ]
   },
   {
@@ -42082,6 +42119,41 @@
     "video": null,
     "scrapeWords": [
       "Arcus"
+    ]
+  },
+  {
+    "author": "JohnRex",
+    "description": "Another Arkanoid variation",
+    "genre": "Puzzle",
+    "id": "500021",
+    "link": "https://johnrex.itch.io/blocks-n-bubbles",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1ODY1MjEucG5n/315x250%23c/ikdGhn.png",
+    "title": "Blocks & Bubbles",
+    "video": null,
+    "scrapeWords": [
+      "Blocks",
+      "Bubbles"
+    ]
+  },
+  {
+    "author": "andersmmg",
+    "description": "Take care of your very own wuzz!",
+    "genre": "Simulation",
+    "id": "500526",
+    "link": "https://andersmmg.itch.io/keep-your-wuzz-healthy",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODk0NTEucG5n/315x250%23c/G2q1OR.png",
+    "title": "Keep Your Wuzz Healthy",
+    "video": null,
+    "scrapeWords": [
+      "Keep",
+      "Your",
+      "Wuzz",
+      "Healthy"
     ]
   },
   {
