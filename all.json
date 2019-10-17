@@ -33185,21 +33185,6 @@
     ]
   },
   {
-    "author": "Rahul Hegde",
-    "description": null,
-    "genre": null,
-    "id": "441213",
-    "link": "https://rahul-hegde.itch.io/dolphin-island",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIyMTkyNTMucG5n/315x250%23c/qn6W3C.png",
-    "title": "Dolphin Island",
-    "video": null,
-    "scrapeWords": [
-      "Dolphin",
-      "Island"
-    ]
-  },
-  {
     "author": "FleecyFly",
     "description": "Entry for June 2019 Godot Wild Jam",
     "genre": "Puzzle",
@@ -34284,7 +34269,8 @@
     "id": "448693",
     "link": "https://houkime.itch.io/neonhead",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIyNjg3NDQucG5n/315x250%23c/11r9Cp.png",
     "title": "NeonHead",
@@ -37474,26 +37460,6 @@
       "Flight",
       "Browser",
       "Version"
-    ]
-  },
-  {
-    "author": "Facepalm Games",
-    "description": null,
-    "genre": "Platformer",
-    "id": "468569",
-    "link": "https://boeladw.itch.io/lisa-is-lost",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzOTQyNzEucG5n/315x250%23c/zu49E0.png",
-    "title": "Lisa is Lost",
-    "video": null,
-    "scrapeWords": [
-      "Lisa",
-      "is",
-      "Lost"
     ]
   },
   {
@@ -42122,11 +42088,11 @@
     ]
   },
   {
-    "author": "JohnRex",
+    "author": "zxgames",
     "description": "Another Arkanoid variation",
     "genre": "Puzzle",
     "id": "500021",
-    "link": "https://johnrex.itch.io/blocks-n-bubbles",
+    "link": "https://zxgames.itch.io/blocks-n-bubbles",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1ODY1MjEucG5n/315x250%23c/ikdGhn.png",
     "title": "Blocks & Bubbles",
@@ -42154,6 +42120,40 @@
       "Your",
       "Wuzz",
       "Healthy"
+    ]
+  },
+  {
+    "author": "bitbotzgames",
+    "description": null,
+    "genre": "Platformer",
+    "id": "500597",
+    "link": "https://bitbotzgames.itch.io/spacerunner",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1OTAyNTUucG5n/315x250%23c/PqNCOU.png",
+    "title": "Spacerunner Demo 1",
+    "video": null,
+    "scrapeWords": [
+      "Spacerunner",
+      "1"
+    ]
+  },
+  {
+    "author": "LillyByte",
+    "description": "Remember all the things!",
+    "genre": "Puzzle",
+    "id": "501004",
+    "link": "https://lillybyte.itch.io/shadymemory",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1OTIxMzEucG5n/315x250%23c/1%2Bn8QI.png",
+    "title": "Shady Memory",
+    "video": null,
+    "scrapeWords": [
+      "Shady",
+      "Memory"
     ]
   },
   {
