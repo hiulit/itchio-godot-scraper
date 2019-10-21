@@ -3804,6 +3804,21 @@
     ]
   },
   {
+    "author": "zetlostudio",
+    "description": "Fast-paced colour matching game.",
+    "genre": "Action",
+    "id": "189585",
+    "link": "https://zetlostudio.itch.io/colour-quad",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTg5NTg1Lzg5MzMwNS5wbmc=/315x250%23c/9Cojyz.png",
+    "title": "Colour Quad",
+    "video": null,
+    "scrapeWords": [
+      "Colour",
+      "Quad"
+    ]
+  },
+  {
     "author": "sprngr",
     "description": "A throwback RPG for GitHub Game Off 2017",
     "genre": "Role Playing",
@@ -4297,6 +4312,22 @@
     "video": null,
     "scrapeWords": [
       "Saïdia"
+    ]
+  },
+  {
+    "author": "zetlostudio",
+    "description": "Help Tiana Save Christmas",
+    "genre": "Action",
+    "id": "198188",
+    "link": "https://zetlostudio.itch.io/tiana-saves-christmas",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTk4MTg4LzkyNzI0OC5wbmc=/315x250%23c/y1F5XG.png",
+    "title": "Tiana Saves Christmas",
+    "video": null,
+    "scrapeWords": [
+      "Tiana",
+      "Saves",
+      "Christmas"
     ]
   },
   {
@@ -22337,26 +22368,6 @@
     ]
   },
   {
-    "author": "ESB Linux Custom Software Solutions",
-    "description": null,
-    "genre": "Platformer",
-    "id": "340927",
-    "link": "https://esblinuxcss.itch.io/dangerous-dilbert",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE2ODg5NTEucG5n/315x250%23c/glMhB1.png",
-    "title": "Dangerous Dilbert",
-    "video": null,
-    "scrapeWords": [
-      "Dangerous",
-      "Dilbert"
-    ]
-  },
-  {
     "author": "easy82",
     "description": "Collect as many gems as you can and get back to your rocket before the lava erupts.",
     "genre": "Action",
@@ -23272,7 +23283,7 @@
     "description": "A basic dress up game.",
     "genre": null,
     "id": "351083",
-    "link": "https://antonwilc0x.itch.io/nathansdressup",
+    "link": "https://tonytins.itch.io/nathansdressup",
     "platforms": [
       "Windows",
       "Linux"
@@ -24726,7 +24737,7 @@
   },
   {
     "author": "Turtlewit",
-    "description": "Global Game Jam 2019",
+    "description": "Find your way home (Global Game Jam 2019)",
     "genre": "Action",
     "id": "362387",
     "link": "https://turtlewit.itch.io/float-home",
@@ -30937,11 +30948,11 @@
     ]
   },
   {
-    "author": "blacksheep#00",
+    "author": "am.blacksheep",
     "description": "Zombie Flambe' is an horde zombies game. Try to survive!",
     "genre": "Shooter",
     "id": "420396",
-    "link": "https://blacksheep00.itch.io/zombie-flambe",
+    "link": "https://amblacksheep.itch.io/zombie-flambe",
     "platforms": [
       "Windows",
       "Linux"
@@ -31833,6 +31844,20 @@
     "scrapeWords": [
       "Honeycomb",
       "CRUNCH"
+    ]
+  },
+  {
+    "author": "DeadOnArrival",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "427730",
+    "link": "https://deadonarrival.itch.io/m3",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzMDI1NjgucG5n/315x250%23c/YPRQoh.png",
+    "title": "M3",
+    "video": null,
+    "scrapeWords": [
+      "M3"
     ]
   },
   {
@@ -32832,11 +32857,11 @@
     ]
   },
   {
-    "author": "blacksheep#00",
+    "author": "am.blacksheep",
     "description": null,
     "genre": "Puzzle",
     "id": "437055",
-    "link": "https://blacksheep00.itch.io/tetraktys",
+    "link": "https://amblacksheep.itch.io/tetraktys",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIyMDM2OTIucG5n/315x250%23c/vu0r0v.png",
     "title": "Tetraktys",
@@ -35412,7 +35437,11 @@
     "genre": "Platformer",
     "id": "456961",
     "link": "https://memodol.itch.io/sugar-rush",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzIzMjA3NzcucG5n/315x250%23c/PC2YPj.png",
     "title": "Sugar Rush",
     "video": null,
@@ -36368,11 +36397,11 @@
     ]
   },
   {
-    "author": "blacksheep#00",
+    "author": "am.blacksheep",
     "description": "Scroll Wheel Master is a platformer in which all actions are crontrolled by the scroll wheel.",
     "genre": "Platformer",
     "id": "461976",
-    "link": "https://blacksheep00.itch.io/swm",
+    "link": "https://amblacksheep.itch.io/swm",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIzNTA5MDQucG5n/315x250%23c/aack%2B9.png",
     "title": "Scroll Wheel Master",
@@ -37374,11 +37403,11 @@
     ]
   },
   {
-    "author": "blacksheep#00",
+    "author": "am.blacksheep",
     "description": "Split World is a puzzle game in which the game world is divided into two perspectives.",
     "genre": "Puzzle",
     "id": "467210",
-    "link": "https://blacksheep00.itch.io/split-world",
+    "link": "https://amblacksheep.itch.io/split-world",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIzODg3ODQucG5n/315x250%23c/lO6dcs.png",
     "title": "Split World",
@@ -39196,22 +39225,6 @@
     "video": null,
     "scrapeWords": [
       "Survivlesz"
-    ]
-  },
-  {
-    "author": "Whyat1872",
-    "description": null,
-    "genre": "Role Playing",
-    "id": "478564",
-    "link": "https://whyat1872.itch.io/tamagotchi-rpg-lite",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI1MTQ5NTkuZ2lm/315x250%23cm/Se2Ufq.gif",
-    "title": "Tamagotchi RPG lite",
-    "video": "https://img.itch.zone/aW1nLzI1MTQ5NTkuZ2lm/original/QncfRi.gif",
-    "scrapeWords": [
-      "Tamagotchi",
-      "RPG",
-      "lite"
     ]
   },
   {
@@ -41152,11 +41165,11 @@
     ]
   },
   {
-    "author": "SingleBit",
+    "author": "Gabriel Cornish",
     "description": "A feel-good micro game about what can be created from nothing",
     "genre": "Interactive Fiction",
     "id": "494031",
-    "link": "https://singlebit.itch.io/amor-fati",
+    "link": "https://gabrielcornish.itch.io/amor-fati",
     "platforms": [
       "Windows",
       "Linux",
@@ -41390,7 +41403,10 @@
     "genre": null,
     "id": "495119",
     "link": "https://gilokko.itch.io/brians-quest",
-    "platforms": null,
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI1NTkyODEucG5n/315x250%23c/Dll972.png",
     "title": "Brian's Quest",
     "video": null,
@@ -41887,6 +41903,25 @@
     ]
   },
   {
+    "author": "Pandaqi",
+    "description": "A couch co-op about delivering packages! (On time, and not completely damaged.)",
+    "genre": "Platformer",
+    "id": "498665",
+    "link": "https://pandaqi.itch.io/package-party",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1OTU5MjgucG5n/315x250%23c/7loLHZ.png",
+    "title": "Package Party",
+    "video": null,
+    "scrapeWords": [
+      "Package",
+      "Party"
+    ]
+  },
+  {
     "author": "wiphotos",
     "description": "Take the form of a penguin in this fun, fast-paced, 3d sledding game.",
     "genre": "Racing",
@@ -42103,6 +42138,21 @@
     ]
   },
   {
+    "author": "Irwin",
+    "description": "Mi primer juego hecho en GODOT engine.",
+    "genre": "Survival",
+    "id": "500361",
+    "link": "https://irwin1985.itch.io/foxdash",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1ODg1MjQucG5n/315x250%23c/raFEDY.png",
+    "title": "FoxDash",
+    "video": null,
+    "scrapeWords": [
+      "Fox",
+      "Dash"
+    ]
+  },
+  {
     "author": "andersmmg",
     "description": "Take care of your very own wuzz!",
     "genre": "Simulation",
@@ -42138,6 +42188,21 @@
     ]
   },
   {
+    "author": "PedroVMVictor",
+    "description": "Objeto de Aprendizagem com intuito de introduzir o  usuário a Engine Godot.",
+    "genre": "Educational",
+    "id": "500962",
+    "link": "https://pedrovmvictor.itch.io/game-godot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1OTE5MjkuanBn/315x250%23c/YiO4m4.jpg",
+    "title": "Game Godot",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "Godot"
+    ]
+  },
+  {
     "author": "LillyByte",
     "description": "Remember all the things!",
     "genre": "Puzzle",
@@ -42154,6 +42219,239 @@
     "scrapeWords": [
       "Shady",
       "Memory"
+    ]
+  },
+  {
+    "author": "H.",
+    "description": "\"eel is not snake\"",
+    "genre": "Action",
+    "id": "501300",
+    "link": "https://polygull.itch.io/eel",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1OTM5NTcucG5n/315x250%23c/QbMv9u.png",
+    "title": "eel",
+    "video": null,
+    "scrapeWords": [
+      "eel"
+    ]
+  },
+  {
+    "author": "Inglo Games",
+    "description": null,
+    "genre": "Platformer",
+    "id": "501500",
+    "link": "https://inglo-games.itch.io/my-shadows-keeper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1OTUwODYucG5n/315x250%23c/kOR019.png",
+    "title": "My Shadow's Keeper",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "Shadows",
+      "Keeper"
+    ]
+  },
+  {
+    "author": "Flaming Thunder",
+    "description": "You're in a dark cave surrounded by shadows. Luckily, you have your rechargeable flashlight and handgun.",
+    "genre": "Action",
+    "id": "502040",
+    "link": "https://flaming-thunder.itch.io/in-the-dark",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1OTg0ODcucG5n/315x250%23c/QY31P4.png",
+    "title": "In The Dark",
+    "video": null,
+    "scrapeWords": [
+      "In",
+      "The",
+      "Dark"
+    ]
+  },
+  {
+    "author": "Ereborn",
+    "description": "A vampire has a hard time going to bed",
+    "genre": "Puzzle",
+    "id": "502162",
+    "link": "https://ereborn.itch.io/melvin",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MDMwNjgucG5n/315x250%23c/aSASfo.png",
+    "title": "Melvin's Misfortune",
+    "video": null,
+    "scrapeWords": [
+      "Melvins",
+      "Misfortune"
+    ]
+  },
+  {
+    "author": "yaqb",
+    "description": "Short game about collecting gems made for Godot Wild Jam #14",
+    "genre": "Puzzle",
+    "id": "502166",
+    "link": "https://yaqb.itch.io/gemor",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1OTk0MjQucG5n/315x250%23c/hFVzFB.png",
+    "title": "Gemor",
+    "video": null,
+    "scrapeWords": [
+      "Gemor"
+    ]
+  },
+  {
+    "author": "indexart",
+    "description": "Domine sua Dungeon e elimine todos os monstros dela!",
+    "genre": "Action",
+    "id": "502171",
+    "link": "https://devinscary.itch.io/gotod",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1OTkxNzcucG5n/315x250%23c/42s5qk.png",
+    "title": "GOTOD",
+    "video": null,
+    "scrapeWords": [
+      "GOTOD"
+    ]
+  },
+  {
+    "author": "XtremeZero",
+    "description": "Align the shapes to find the logos hidden in the shadows",
+    "genre": "Puzzle",
+    "id": "502176",
+    "link": "https://mohammedzero43.itch.io/spotlightlogo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1OTkyMDcucG5n/315x250%23c/dVvaed.png",
+    "title": "SpotLightLogo",
+    "video": null,
+    "scrapeWords": [
+      "Spot",
+      "Light",
+      "Logo"
+    ]
+  },
+  {
+    "author": "mousenger",
+    "description": "A horror game for The MaturityExplained J-Horror Jam",
+    "genre": "Adventure",
+    "id": "502266",
+    "link": "https://mousenger.itch.io/we-lost-jason",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1OTk4NDgucG5n/315x250%23c/N0DpKl.png",
+    "title": "We Lost Jason!",
+    "video": null,
+    "scrapeWords": [
+      "We",
+      "Lost",
+      "Jason"
+    ]
+  },
+  {
+    "author": "Thinking Frog Studios",
+    "description": null,
+    "genre": null,
+    "id": "502352",
+    "link": "https://thinking-frog-studios.itch.io/stay-in-the-light",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MDA1MzkucG5n/315x250%23c/ZC5wUM.png",
+    "title": "Stay in the light",
+    "video": null,
+    "scrapeWords": [
+      "Stay",
+      "in",
+      "the",
+      "light"
+    ]
+  },
+  {
+    "author": "fedz",
+    "description": "Horror game made for the Godot Wild Jam 14",
+    "genre": null,
+    "id": "502380",
+    "link": "https://fedz.itch.io/shadows",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MDIwNDUuanBn/315x250%23c/ElVbN7.jpg",
+    "title": "Shadows",
+    "video": null,
+    "scrapeWords": [
+      "Shadows"
+    ]
+  },
+  {
+    "author": "Pttn40",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "502386",
+    "link": "https://pttn40.itch.io/dying-of-the-light",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MDA3ODYucG5n/315x250%23c/GjS6TM.png",
+    "title": "Dying of the Light",
+    "video": null,
+    "scrapeWords": [
+      "Dying",
+      "of",
+      "the",
+      "Light"
+    ]
+  },
+  {
+    "author": "GaidamakUA",
+    "description": "A detective game inspired by IBM's the IDS Detective Game.",
+    "genre": "Educational",
+    "id": "502891",
+    "link": "https://gaidamakua.itch.io/sqlitedetective",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MDM5NTYucG5n/315x250%23c/XCWzSS.png",
+    "title": "SQLiteDetective",
+    "video": null,
+    "scrapeWords": [
+      "SQLite",
+      "Detective"
+    ]
+  },
+  {
+    "author": "QbieShay",
+    "description": "A short game inspired by the nerdflu that caught us at GodotCon 2019",
+    "genre": "Sports",
+    "id": "502929",
+    "link": "https://qbieshay.itch.io/bring-out-your-dead",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MDQxMDUucG5n/315x250%23c/TZo2ED.png",
+    "title": "Bring out your dead",
+    "video": null,
+    "scrapeWords": [
+      "Bring",
+      "out",
+      "your",
+      "dead"
     ]
   },
   {
