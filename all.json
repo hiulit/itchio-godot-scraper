@@ -42236,6 +42236,24 @@
     ]
   },
   {
+    "author": "David Snopek",
+    "description": "Online 2-4 player top-down tank battle",
+    "genre": "Action",
+    "id": "501379",
+    "link": "https://dsnopek.itch.io/retro-tank-party",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MDMzNDgucG5n/315x250%23c/TW%2B%2Bda.png",
+    "title": "David Snopek's Retro Tank Party",
+    "video": null,
+    "scrapeWords": [
+      "David",
+      "Snopeks",
+      "Retro",
+      "Tank",
+      "Party"
+    ]
+  },
+  {
     "author": "Inglo Games",
     "description": null,
     "genre": "Platformer",
@@ -42415,6 +42433,25 @@
     ]
   },
   {
+    "author": "Doomed Lord",
+    "description": "Stealth, Pixel, Limited Colourpalette, Prototype",
+    "genre": null,
+    "id": "502398",
+    "link": "https://doomed-lord.itch.io/hyde-in-shadows",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MDA5MzAucG5n/315x250%23c/yKolRr.png",
+    "title": "Hyde in Shadows",
+    "video": null,
+    "scrapeWords": [
+      "Hyde",
+      "in",
+      "Shadows"
+    ]
+  },
+  {
     "author": "GaidamakUA",
     "description": "A detective game inspired by IBM's the IDS Detective Game.",
     "genre": "Educational",
@@ -42441,8 +42478,8 @@
     "link": "https://qbieshay.itch.io/bring-out-your-dead",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2MDQxMDUucG5n/315x250%23c/TZo2ED.png",
     "title": "Bring out your dead",
@@ -42452,6 +42489,21 @@
       "out",
       "your",
       "dead"
+    ]
+  },
+  {
+    "author": "justplanegames",
+    "description": "Dodge the clouds and survive as long as you can!",
+    "genre": "Survival",
+    "id": "503201",
+    "link": "https://justplanegames.itch.io/sky-dodger",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MDU3NDgucG5n/315x250%23c/ydHgdE.png",
+    "title": "Sky Dodger",
+    "video": null,
+    "scrapeWords": [
+      "Sky",
+      "Dodger"
     ]
   },
   {
