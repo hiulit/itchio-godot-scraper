@@ -42440,7 +42440,8 @@
     "link": "https://doomed-lord.itch.io/hyde-in-shadows",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2MDA5MzAucG5n/315x250%23c/yKolRr.png",
     "title": "Hyde in Shadows",
@@ -42449,6 +42450,20 @@
       "Hyde",
       "in",
       "Shadows"
+    ]
+  },
+  {
+    "author": "Kevar",
+    "description": null,
+    "genre": "Interactive Fiction",
+    "id": "502604",
+    "link": "https://kevar.itch.io/passage",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MDIxMDQucG5n/315x250%23c/6iOtbV.png",
+    "title": "Passage",
+    "video": null,
+    "scrapeWords": [
+      "Passage"
     ]
   },
   {
@@ -42504,6 +42519,37 @@
     "scrapeWords": [
       "Sky",
       "Dodger"
+    ]
+  },
+  {
+    "author": "Gabriel Cornish",
+    "description": "A minimalist 1-button puzzle game",
+    "genre": "Puzzle",
+    "id": "503866",
+    "link": "https://gabrielcornish.itch.io/crescere",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MDk4NjEucG5n/315x250%23c/%2FhF2U7.png",
+    "title": "CRESCERE",
+    "video": null,
+    "scrapeWords": [
+      "CRESCERE"
+    ]
+  },
+  {
+    "author": "rg98",
+    "description": "Small turn-based RPG",
+    "genre": "Role Playing",
+    "id": "503990",
+    "link": "https://rg98.itch.io/slay-the-purple-dragon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MTAzMzQucG5n/315x250%23c/aJqXOh.png",
+    "title": "Slay the Purple Dragon",
+    "video": null,
+    "scrapeWords": [
+      "Slay",
+      "the",
+      "Purple",
+      "Dragon"
     ]
   },
   {
