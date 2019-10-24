@@ -22912,6 +22912,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
@@ -32252,23 +32269,6 @@
     ]
   },
   {
-    "author": "redvn347",
-    "description": "It's simple, don't press the button. A school project made in 1 week.",
-    "genre": null,
-    "id": "432300",
-    "link": "https://redvn347.itch.io/cheesemasta",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxNjUxNjEucG5n/315x250%23c/822LUv.png",
-    "title": "CheeseMasta",
-    "video": null,
-    "scrapeWords": [
-      "Cheese",
-      "Masta"
-    ]
-  },
-  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": "A short, experimental, and monochrome visual novel.",
     "genre": "Visual Novel",
@@ -39346,25 +39346,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Truffelbaguette",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -41404,6 +41385,7 @@
     "id": "495119",
     "link": "https://gilokko.itch.io/brians-quest",
     "platforms": [
+      "Windows",
       "Linux",
       "macOS"
     ],
@@ -42437,7 +42419,7 @@
     "description": "Stealth, Pixel, Limited Colourpalette, Prototype",
     "genre": null,
     "id": "502398",
-    "link": "https://doomed-lord.itch.io/hyde-in-shadows",
+    "link": "https://doomed-lord.itch.io/hydeinshadows",
     "platforms": [
       "Windows",
       "Linux",
@@ -42550,6 +42532,62 @@
       "the",
       "Purple",
       "Dragon"
+    ]
+  },
+  {
+    "author": "Coder12",
+    "description": "Tamagotchi-like Game with a goal and endings.",
+    "genre": "Simulation",
+    "id": "504098",
+    "link": "https://coder12.itch.io/caretaken",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MTA5NzIucG5n/315x250%23c/MhLIib.png",
+    "title": "CareTaken",
+    "video": null,
+    "scrapeWords": [
+      "Care",
+      "Taken"
+    ]
+  },
+  {
+    "author": "Rat King",
+    "description": "visiting Salvador, thinking of Halle",
+    "genre": null,
+    "id": "504490",
+    "link": "https://ratking.itch.io/halle-salvador",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MTM0MDEuanBn/315x250%23c/6c6jCh.jpg",
+    "title": "Halle / Salvador",
+    "video": null,
+    "scrapeWords": [
+      "Halle",
+      "Salvador"
+    ]
+  },
+  {
+    "author": "Gamplis",
+    "description": "¡Una aventura live action point & click de gamplis!",
+    "genre": "Adventure",
+    "id": "504612",
+    "link": "https://gamplis.itch.io/los-prados-de-mierda-verde-el-noble",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MTM5OTEucG5n/315x250%23c/6AiPsj.png",
+    "title": "Los prados de Mierda Verde el noble",
+    "video": null,
+    "scrapeWords": [
+      "Los",
+      "prados",
+      "de",
+      "Mierda",
+      "Verde",
+      "el",
+      "noble"
     ]
   },
   {
