@@ -28238,23 +28238,6 @@
     ]
   },
   {
-    "author": "Sylver",
-    "description": "2D Football/Soccer inspired sports game adventure",
-    "genre": "Sports",
-    "id": "398939",
-    "link": "https://sylver.itch.io/ball-league",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE5NzcxNDguanBn/315x250%23c/aJpR3f.jpg",
-    "title": "Ball League",
-    "video": null,
-    "scrapeWords": [
-      "Ball",
-      "League"
-    ]
-  },
-  {
     "author": "SweeneyXx",
     "description": "Climate change=hoax, Gravity= ?",
     "genre": "Survival",
@@ -32269,6 +32252,23 @@
     ]
   },
   {
+    "author": "redvn347",
+    "description": "It's simple, don't press the button. A school project made in 1 week.",
+    "genre": null,
+    "id": "432300",
+    "link": "https://redvn347.itch.io/cheesemasta",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIxNjUxNjEucG5n/315x250%23c/822LUv.png",
+    "title": "CheeseMasta",
+    "video": null,
+    "scrapeWords": [
+      "Cheese",
+      "Masta"
+    ]
+  },
+  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": "A short, experimental, and monochrome visual novel.",
     "genre": "Visual Novel",
@@ -34436,6 +34436,24 @@
     "scrapeWords": [
       "Little",
       "One"
+    ]
+  },
+  {
+    "author": "KamikazeCoPilot",
+    "description": "This is going to be my first self-inflicted game jam.  Just a shoot-em-up game.  Nothing special.",
+    "genre": "Action",
+    "id": "449637",
+    "link": "https://kamikazecopilot.itch.io/endless-waves",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "Endless Waves",
+    "video": null,
+    "scrapeWords": [
+      "Endless",
+      "Waves"
     ]
   },
   {
@@ -42449,14 +42467,28 @@
     ]
   },
   {
+    "author": "Twinster",
+    "description": null,
+    "genre": null,
+    "id": "502871",
+    "link": "https://twinster.itch.io/alchemist-simulator-mdcccxx",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MDQxMTgucG5n/315x250%23c/DCqUKQ.png",
+    "title": "Alchemist Simulator MDCCCXX",
+    "video": null,
+    "scrapeWords": [
+      "Alchemist",
+      "Simulator",
+      "MDCCCXX"
+    ]
+  },
+  {
     "author": "GaidamakUA",
     "description": "A detective game inspired by IBM's the IDS Detective Game.",
     "genre": "Educational",
     "id": "502891",
     "link": "https://gaidamakua.itch.io/sqlitedetective",
     "platforms": [
-      "Windows",
-      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2MDM5NTYucG5n/315x250%23c/XCWzSS.png",
@@ -42588,6 +42620,20 @@
       "Verde",
       "el",
       "noble"
+    ]
+  },
+  {
+    "author": "CraxGrayfeathers",
+    "description": "A game where you have to manage tamagotchis for other people",
+    "genre": "Simulation",
+    "id": "504848",
+    "link": "https://craxgrayfeathers.itch.io/tama",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MTUzNzgucG5n/315x250%23c/qvUn%2FG.png",
+    "title": "Tama",
+    "video": null,
+    "scrapeWords": [
+      "Tama"
     ]
   },
   {
