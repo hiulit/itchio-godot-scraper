@@ -7058,7 +7058,11 @@
     "genre": "Action",
     "id": "236805",
     "link": "https://lightboat.itch.io/beowulf",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMjM2ODA1LzExMjYyODQuanBn/315x250%23c/5ZkB65.jpg",
     "title": "Beowulf",
     "video": null,
@@ -9615,7 +9619,7 @@
   },
   {
     "author": "Dark Sun Developer",
-    "description": "O objetivo do jogo é evitar as bolas de fogo no cenário à medida que diminuem.",
+    "description": "The objective of the game is to avoid the fireballs in the scenario as it gets smaller.",
     "genre": "Platformer",
     "id": "251405",
     "link": "https://darksundeveloper.itch.io/avoid",
@@ -22912,23 +22916,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
@@ -25347,6 +25334,25 @@
     ]
   },
   {
+    "author": "kcabra",
+    "description": null,
+    "genre": "Adventure",
+    "id": "367280",
+    "link": "https://kcabra.itch.io/moonlit-hood",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MTk2MDkucG5n/315x250%23c/GD%2BdFZ.png",
+    "title": "Moonlit Hood",
+    "video": null,
+    "scrapeWords": [
+      "Moonlit",
+      "Hood"
+    ]
+  },
+  {
     "author": "JARS-ar",
     "description": "Proyecto educativo. Más de 150 niveles creados por alumnos en su primera experiencia de programación.",
     "genre": "Platformer",
@@ -25698,7 +25704,7 @@
   },
   {
     "author": "Dark Sun Developer",
-    "description": "Teste suas reações com Finger Trap.",
+    "description": "Test your reactions with Finger Trap!",
     "genre": null,
     "id": "371454",
     "link": "https://darksundeveloper.itch.io/finger-trap",
@@ -27932,16 +27938,17 @@
   },
   {
     "author": "FuryGames",
-    "description": null,
+    "description": "RPG Top Down Shooter (In development)",
     "genre": "Role Playing",
     "id": "393412",
     "link": "https://furygames.itch.io/the-zero-day",
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE5NjUzMzcucG5n/315x250%23c/N0kcDw.png",
+    "thumb": "https://img.itch.zone/aW1nLzI2MTgyMjQucG5n/315x250%23c/HM8mHg.png",
     "title": "The Zero Day",
     "video": null,
     "scrapeWords": [
@@ -33879,6 +33886,24 @@
     ]
   },
   {
+    "author": "semperfoo",
+    "description": "Rival Schools 2 volleyball mini game inspired mini game",
+    "genre": "Sports",
+    "id": "445928",
+    "link": "https://semperfoo.itch.io/nice-serve",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyNjMyNTUucG5n/315x250%23c/07O8p0.png",
+    "title": "Nice Serve! Volleyball",
+    "video": null,
+    "scrapeWords": [
+      "Nice",
+      "Serve",
+      "Volleyball"
+    ]
+  },
+  {
     "author": "remram44",
     "description": "A 3D tank fighting arena made using Godot 3.1 (prototype)",
     "genre": "Action",
@@ -39364,6 +39389,25 @@
     ]
   },
   {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "Truffelbaguette",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -39534,11 +39578,11 @@
     ]
   },
   {
-    "author": "mini-m",
+    "author": "dissid",
     "description": "A minijam game about a seeds producer fighting ultra-liberalism",
     "genre": "Action",
     "id": "481037",
-    "link": "https://mini-m.itch.io/the-gardener",
+    "link": "https://dissid.itch.io/the-gardener",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0NzgzMzAucG5n/315x250%23c/6iJ%2Bkn.png",
     "title": "The Guerilla Gardener",
@@ -42634,6 +42678,70 @@
     "video": null,
     "scrapeWords": [
       "Tama"
+    ]
+  },
+  {
+    "author": "Games I Made For Freya",
+    "description": "Kind of like Flappy Bird, but you're a pug with a jetpack!",
+    "genre": "Action",
+    "id": "505815",
+    "link": "https://gamesimadeforfreya.itch.io/jetpack-pug",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MjIwOTkucG5n/315x250%23c/qfmni7.png",
+    "title": "Jetpack Pug",
+    "video": null,
+    "scrapeWords": [
+      "Jetpack",
+      "Pug"
+    ]
+  },
+  {
+    "author": "Gray Parse",
+    "description": "You are a ghost. Haunt your gravekeeper. Or not.",
+    "genre": "Interactive Fiction",
+    "id": "505932",
+    "link": "https://gray-parse.itch.io/untitled-ghost-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MjI2ODQucG5n/315x250%23c/9d1i%2BN.png",
+    "title": "Untitled Ghost Game",
+    "video": null,
+    "scrapeWords": [
+      "Untitled",
+      "Ghost",
+      "Game"
+    ]
+  },
+  {
+    "author": "Romeosierra13",
+    "description": "Convert trash to energy !",
+    "genre": null,
+    "id": "506592",
+    "link": "https://romeosierra13.itch.io/trashman",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MjY0NzUucG5n/315x250%23c/A6bBqT.png",
+    "title": "TrashMan",
+    "video": null,
+    "scrapeWords": [
+      "Trash",
+      "Man"
+    ]
+  },
+  {
+    "author": "jdzsk",
+    "description": null,
+    "genre": "Shooter",
+    "id": "506744",
+    "link": "https://jdzsk.itch.io/pumpkin-spice",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MjY2NTcucG5n/315x250%23c/knK9Xc.png",
+    "title": "Pumkin Spice",
+    "video": null,
+    "scrapeWords": [
+      "Pumkin",
+      "Spice"
     ]
   },
   {
