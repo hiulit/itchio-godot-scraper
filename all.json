@@ -40748,6 +40748,23 @@
     ]
   },
   {
+    "author": "Estúdio Vaca Roxa",
+    "description": "Welcome to Spooky Station! A Halloween-themed game pack for all ages.",
+    "genre": "Action",
+    "id": "488364",
+    "link": "https://bakudas.itch.io/spooky-station",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MjI5ODMucG5n/315x250%23c/Pxi73X.png",
+    "title": "Spooky Station",
+    "video": null,
+    "scrapeWords": [
+      "Spooky",
+      "Station"
+    ]
+  },
+  {
     "author": "2Buz-z™",
     "description": "Aplicativo simulador de erros para ensino de informática básica",
     "genre": "Puzzle",
@@ -40932,6 +40949,25 @@
       "Time",
       "Bro",
       "[IFPILabiras]"
+    ]
+  },
+  {
+    "author": "Hep Coco!",
+    "description": "A 2D platformer game about onions, because why not?",
+    "genre": "Platformer",
+    "id": "490711",
+    "link": "https://hepcoco.itch.io/tamanegi-nashi",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NDUxMjkucG5n/315x250%23c/3Im4BS.png",
+    "title": "Tamanegi Nashi",
+    "video": null,
+    "scrapeWords": [
+      "Tamanegi",
+      "Nashi"
     ]
   },
   {
@@ -42285,7 +42321,10 @@
     "genre": "Action",
     "id": "501379",
     "link": "https://dsnopek.itch.io/retro-tank-party",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI2MDMzNDgucG5n/315x250%23c/TW%2B%2Bda.png",
     "title": "David Snopek's Retro Tank Party",
     "video": null,
@@ -42720,13 +42759,35 @@
     "genre": null,
     "id": "506592",
     "link": "https://romeosierra13.itch.io/trashman",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI2MjY0NzUucG5n/315x250%23c/A6bBqT.png",
     "title": "TrashMan",
     "video": null,
     "scrapeWords": [
       "Trash",
       "Man"
+    ]
+  },
+  {
+    "author": "newjoker6",
+    "description": "An action-packed game that is reminiscent of the great arcade games of the past.",
+    "genre": null,
+    "id": "506710",
+    "link": "https://newjoker6.itch.io/galactic-space-force",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MjY0OTcucG5n/315x250%23c/syuZVy.png",
+    "title": "Galactic Space Force",
+    "video": null,
+    "scrapeWords": [
+      "Galactic",
+      "Space",
+      "Force"
     ]
   },
   {
@@ -42742,6 +42803,74 @@
     "scrapeWords": [
       "Pumkin",
       "Spice"
+    ]
+  },
+  {
+    "author": "ManuACruz",
+    "description": "A dungeon puzzle where each room you enter is a new window screen.",
+    "genre": "Puzzle",
+    "id": "506830",
+    "link": "https://manuacruz.itch.io/windowed-forest-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2Mjc3MzQuZ2lm/315x250%23cm/g%2B3MDG.gif",
+    "title": "Windowed Forest Dungeon",
+    "video": "https://img.itch.zone/aW1nLzI2Mjc3MzQuZ2lm/original/0g3ZKY.gif",
+    "scrapeWords": [
+      "Windowed",
+      "Forest",
+      "Dungeon"
+    ]
+  },
+  {
+    "author": "Robert D",
+    "description": "A 2D platformer where you must shift between worlds to complete levels.",
+    "genre": "Platformer",
+    "id": "507155",
+    "link": "https://robertdonaver.itch.io/shift-platformer",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MjkxMzQucG5n/315x250%23c/jgyX4B.png",
+    "title": "Shift Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Shift",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "Aamon",
+    "description": "Stay alive as long as possible, running in the dark.",
+    "genre": "Platformer",
+    "id": "507172",
+    "link": "https://aamon9130.itch.io/dark-runner",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MzA2MzAucG5n/315x250%23c/PeQNp2.png",
+    "title": "Dark Runner",
+    "video": null,
+    "scrapeWords": [
+      "Dark",
+      "Runner"
+    ]
+  },
+  {
+    "author": "DennisWorks",
+    "description": "A Halloween Game",
+    "genre": "Adventure",
+    "id": "507242",
+    "link": "https://dennisworks.itch.io/sneekypumkins",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2Mjk2ODUucG5n/315x250%23c/6bLhbT.png",
+    "title": "Sneeky Pumkins",
+    "video": null,
+    "scrapeWords": [
+      "Sneeky",
+      "Pumkins"
     ]
   },
   {
