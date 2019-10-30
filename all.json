@@ -33021,6 +33021,25 @@
     ]
   },
   {
+    "author": "PlainCrown",
+    "description": "Basic clone of the classic snake game with a few tweaks and additional features. Made in Godot 3.1.",
+    "genre": null,
+    "id": "439503",
+    "link": "https://plaincrown.itch.io/blockcrasher",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDg3OTYucG5n/315x250%23c/os6Hie.png",
+    "title": "BlockCrasher",
+    "video": null,
+    "scrapeWords": [
+      "Block",
+      "Crasher"
+    ]
+  },
+  {
     "author": "Star",
     "description": "jump to avoid worldly contact",
     "genre": null,
@@ -41808,24 +41827,6 @@
     ]
   },
   {
-    "author": "Site12",
-    "description": "Ludum Dare 45 Entry",
-    "genre": "Role Playing",
-    "id": "496301",
-    "link": "https://site12dev.itch.io/fetch-quest",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1NjQ1MjYucG5n/315x250%23c/8t4eN3.png",
-    "title": "Fetch Quest",
-    "video": null,
-    "scrapeWords": [
-      "Fetch",
-      "Quest"
-    ]
-  },
-  {
     "author": "JLV",
     "description": "A Phony Incarnation is a short narrative game where you start even without a body.",
     "genre": "Visual Novel",
@@ -42536,6 +42537,26 @@
     ]
   },
   {
+    "author": "Calame",
+    "description": "Something is lurking in the shadows",
+    "genre": "Survival",
+    "id": "502404",
+    "link": "https://calame.itch.io/shadow-forest-graveyard",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MzI4MDQucG5n/315x250%23c/BCOMsi.png",
+    "title": "Shadow Forest Graveyard",
+    "video": null,
+    "scrapeWords": [
+      "Shadow",
+      "Forest",
+      "Graveyard"
+    ]
+  },
+  {
     "author": "Kevar",
     "description": null,
     "genre": "Interactive Fiction",
@@ -42806,6 +42827,25 @@
     ]
   },
   {
+    "author": "IoriBranford",
+    "description": "Prototype of a drag-and-drop monster part growing mechanic with a voodoo doll.",
+    "genre": null,
+    "id": "506766",
+    "link": "https://ioribranford.itch.io/monster-doll-prototype",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MzI2NDcucG5n/315x250%23c/flTsOp.png",
+    "title": "Monster Doll Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Monster",
+      "Doll",
+      "Prototype"
+    ]
+  },
+  {
     "author": "ManuACruz",
     "description": "A dungeon puzzle where each room you enter is a new window screen.",
     "genre": "Puzzle",
@@ -42871,6 +42911,20 @@
     "scrapeWords": [
       "Sneeky",
       "Pumkins"
+    ]
+  },
+  {
+    "author": "Haplotyper",
+    "description": "A small puzzle game made with the Godot engine",
+    "genre": "Puzzle",
+    "id": "507429",
+    "link": "https://haplotyper.itch.io/bwrgb",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MzEwMDkucG5n/315x250%23c/eOtLG9.png",
+    "title": "BWRGB",
+    "video": null,
+    "scrapeWords": [
+      "BWRGB"
     ]
   },
   {
