@@ -42592,9 +42592,7 @@
     "genre": "Educational",
     "id": "502891",
     "link": "https://gaidamakua.itch.io/sqlitedetective",
-    "platforms": [
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI2MDM5NTYucG5n/315x250%23c/XCWzSS.png",
     "title": "SQLiteDetective",
     "video": null,
@@ -42738,6 +42736,25 @@
     "video": null,
     "scrapeWords": [
       "Tama"
+    ]
+  },
+  {
+    "author": "Bronsky",
+    "description": "Social PC/Mobile Game, Role-play with your friends outside the table!",
+    "genre": null,
+    "id": "505557",
+    "link": "https://bronsky.itch.io/tavern-talk",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MzQzMDAucG5n/315x250%23c/o2UaE%2B.png",
+    "title": "Tavern Talk",
+    "video": null,
+    "scrapeWords": [
+      "Tavern",
+      "Talk"
     ]
   },
   {
@@ -42925,6 +42942,24 @@
     "video": null,
     "scrapeWords": [
       "BWRGB"
+    ]
+  },
+  {
+    "author": "J.R. Sulfuro (pseudonym)",
+    "description": null,
+    "genre": "Visual Novel",
+    "id": "508334",
+    "link": "https://raccoon-js.itch.io/ghosts-of-new-jersey",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2MzYyMDYucG5n/315x250%23c/lE3P5o.png",
+    "title": "Ghosts of New Jersey (Work-In-Progress)",
+    "video": null,
+    "scrapeWords": [
+      "Ghosts",
+      "of",
+      "New",
+      "Jersey",
+      "Work-In-Progress"
     ]
   },
   {
