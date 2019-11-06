@@ -6516,7 +6516,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE4OTc4MDEucG5n/315x250%23c/g6eL9r.png",
+    "thumb": "https://img.itch.zone/aW1nLzI2NTYxNzMucG5n/315x250%23c/D0i8QH.png",
     "title": "Alphaman (beta demo)",
     "video": null,
     "scrapeWords": [
@@ -8894,6 +8894,24 @@
       "Ludum",
       "Dare",
       "41"
+    ]
+  },
+  {
+    "author": "dt",
+    "description": "ld41 incompatible themes - skeleboys vs astroboys",
+    "genre": null,
+    "id": "248679",
+    "link": "https://xhg.itch.io/ld41",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjQ4Njc5LzExOTM4NDkucG5n/315x250%23c/MaH1cu.png",
+    "title": "tappy towers",
+    "video": null,
+    "scrapeWords": [
+      "tappy",
+      "towers"
     ]
   },
   {
@@ -32205,24 +32223,6 @@
     ]
   },
   {
-    "author": "Blue Attire",
-    "description": "an undertale-like made in godot",
-    "genre": "Adventure",
-    "id": "432243",
-    "link": "https://bravemind.itch.io/key-of-truth",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNjczMTQucG5n/315x250%23c/1D8QzI.png",
-    "title": "KEY OF TRUTH",
-    "video": null,
-    "scrapeWords": [
-      "KEY",
-      "OF",
-      "TRUTH"
-    ]
-  },
-  {
     "author": "redvn347",
     "description": "It's simple, don't press the button. A school project made in 1 week.",
     "genre": null,
@@ -39985,6 +39985,27 @@
     ]
   },
   {
+    "author": "Blue Attire",
+    "description": "A hardcore adventure",
+    "genre": "Adventure",
+    "id": "484755",
+    "link": "https://bravemind.itch.io/key-of-truth-2",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MDE5MDgucG5n/315x250%23c/wBabGW.png",
+    "title": "KEY OF TRUTH 2",
+    "video": null,
+    "scrapeWords": [
+      "KEY",
+      "OF",
+      "TRUTH",
+      "2"
+    ]
+  },
+  {
     "author": "Godspower",
     "description": null,
     "genre": "Platformer",
@@ -43162,6 +43183,24 @@
       "Sigma",
       "Title",
       "Pending"
+    ]
+  },
+  {
+    "author": "jimmyjonezz",
+    "description": null,
+    "genre": "Shooter",
+    "id": "509740",
+    "link": "https://jimmyjonezz.itch.io/not-a-dungeon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/315x250%23cm/1ptTYa.gif",
+    "title": "Not a Dungeon",
+    "video": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/original/xUEQAt.gif",
+    "scrapeWords": [
+      "Not",
+      "a",
+      "Dungeon"
     ]
   },
   {
