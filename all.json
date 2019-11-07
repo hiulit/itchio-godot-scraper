@@ -22457,7 +22457,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MDEwOTkuanBn/315x250%23c/mgtUB%2F.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzI2NjAxMzkuanBn/315x250%23c/9arP%2FZ.jpg",
     "title": "[PC] Chyrkyan Trial",
     "video": null,
     "scrapeWords": [
@@ -23049,7 +23049,7 @@
     "id": "348683",
     "link": "https://ciullocorporation.itch.io/chyrkyan-trial-online",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE3MzIwODYuanBn/315x250%23c/BUEvBZ.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzI2NjAxNDYuanBn/315x250%23c/S6dNT2.jpg",
     "title": "Chyrkyan Trial ONLINE",
     "video": null,
     "scrapeWords": [
@@ -26309,15 +26309,15 @@
     ]
   },
   {
-    "author": "TroyKobias",
+    "author": "Kobias",
     "description": "A blue alien needs to destroy an asteroid mining station that contains dangerous blood.",
     "genre": "Platformer",
     "id": "375604",
-    "link": "https://troykobias.itch.io/the-blood-asteroid",
+    "link": "https://kobias.itch.io/the-blood-asteroid",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE4OTAwNzAuZ2lm/315x250%23cm/U3as7%2F.gif",
+    "thumb": "https://img.itch.zone/aW1nLzI2NTg4ODQuZ2lm/315x250%23cm/Rjbw%2Bf.gif",
     "title": "The Blood Asteroid",
-    "video": "https://img.itch.zone/aW1nLzE4OTAwNzAuZ2lm/original/iDGkM5.gif",
+    "video": "https://img.itch.zone/aW1nLzI2NTg4ODQuZ2lm/original/zkZlW6.gif",
     "scrapeWords": [
       "The",
       "Blood",
@@ -32220,6 +32220,26 @@
       "Hot",
       "Pursuit",
       "3"
+    ]
+  },
+  {
+    "author": "Blue Attire",
+    "description": "an undertale-like made in godot",
+    "genre": "Adventure",
+    "id": "432243",
+    "link": "https://bravemind.itch.io/key-of-truth",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNjczMTQucG5n/315x250%23c/1D8QzI.png",
+    "title": "KEY OF TRUTH",
+    "video": null,
+    "scrapeWords": [
+      "KEY",
+      "OF",
+      "TRUTH"
     ]
   },
   {
@@ -42343,6 +42363,7 @@
     "id": "501379",
     "link": "https://dsnopek.itch.io/retro-tank-party",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2MDMzNDgucG5n/315x250%23c/TW%2B%2Bda.png",
@@ -43078,7 +43099,7 @@
   },
   {
     "author": "pyrecraft",
-    "description": "make a mess, see if it sells",
+    "description": "make relevant art (or starve)",
     "genre": "Simulation",
     "id": "508829",
     "link": "https://pyrecraft.itch.io/starving-artist",
@@ -43353,6 +43374,25 @@
     "scrapeWords": [
       "Shooter",
       "Shooters"
+    ]
+  },
+  {
+    "author": "Wavesonics",
+    "description": "A multiplayer, objective based, hide and seek game.",
+    "genre": "Action",
+    "id": "511937",
+    "link": "https://wavesonics.itch.io/fugitive",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NTgyNjcuanBn/315x250%23c/V0Lhjq.jpg",
+    "title": "Fugitive",
+    "video": null,
+    "scrapeWords": [
+      "Fugitive"
     ]
   },
   {
