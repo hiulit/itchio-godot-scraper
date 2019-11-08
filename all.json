@@ -38087,7 +38087,7 @@
     "id": "470370",
     "link": "https://sztrovacsek.itch.io/smashed-potatoes",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0NDQzMzIuanBlZw==/315x250%23c/tF8pJl.jpeg",
+    "thumb": "https://img.itch.zone/aW1nLzI2NjA0MzgucG5n/315x250%23c/rqsgUF.png",
     "title": "SMASHED POTATOES",
     "video": null,
     "scrapeWords": [
@@ -41867,6 +41867,24 @@
     ]
   },
   {
+    "author": "Site12",
+    "description": "Ludum Dare 45 Entry",
+    "genre": "Role Playing",
+    "id": "496301",
+    "link": "https://site12dev.itch.io/fetch-quest",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjQ1MjYucG5n/315x250%23c/8t4eN3.png",
+    "title": "Fetch Quest",
+    "video": null,
+    "scrapeWords": [
+      "Fetch",
+      "Quest"
+    ]
+  },
+  {
     "author": "JLV",
     "description": "A Phony Incarnation is a short narrative game where you start even without a body.",
     "genre": "Visual Novel",
@@ -43082,6 +43100,25 @@
     ]
   },
   {
+    "author": "boshimanu",
+    "description": "Football Game 2 players",
+    "genre": "Sports",
+    "id": "508447",
+    "link": "https://boshimanu.itch.io/cube-dude",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NTg3MzYucG5n/315x250%23c/Wpx%2Fqe.png",
+    "title": "CubeDude",
+    "video": null,
+    "scrapeWords": [
+      "Cube",
+      "Dude"
+    ]
+  },
+  {
     "author": "Mrdudeiii",
     "description": "In a world where war is proxied by autonomous battle drones, the drones have gone beserk! Fight to protect everyone!",
     "genre": "Shooter",
@@ -43393,6 +43430,60 @@
     "video": null,
     "scrapeWords": [
       "Fugitive"
+    ]
+  },
+  {
+    "author": "Hooy",
+    "description": "Twist to escape physics puzzles! Get the ball to the goal, how hard can it be?",
+    "genre": "Puzzle",
+    "id": "512580",
+    "link": "https://hooy-games.itch.io/neon-twist-escape",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2NjE0NDkucG5n/315x250%23c/lxIiSf.png",
+    "title": "Neon Twist Escape",
+    "video": null,
+    "scrapeWords": [
+      "Neon",
+      "Twist",
+      "Escape"
+    ]
+  },
+  {
+    "author": "cleysonph",
+    "description": "A simple Space Shooter game made in Godot 3",
+    "genre": "Shooter",
+    "id": "512713",
+    "link": "https://cleysonph.itch.io/a-space-shooter-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NjIxNDEucG5n/315x250%23c/%2BiTFH9.png",
+    "title": "A Space Shooter Game",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Space",
+      "Shooter",
+      "Game"
+    ]
+  },
+  {
+    "author": "gocolumbia",
+    "description": "Arcade-style garbage collection action for 1 to 2 players!",
+    "genre": "Simulation",
+    "id": "512783",
+    "link": "https://gocolumbia.itch.io/trash-town",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NjIzODcucG5n/315x250%23c/VMTW2A.png",
+    "title": "Trash Town",
+    "video": null,
+    "scrapeWords": [
+      "Trash",
+      "Town"
     ]
   },
   {
