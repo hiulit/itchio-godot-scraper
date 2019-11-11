@@ -15861,6 +15861,24 @@
     ]
   },
   {
+    "author": "Lodugh",
+    "description": "Top-Down Bartering Roguelite",
+    "genre": "Action",
+    "id": "292858",
+    "link": "https://lodugh.itch.io/junk-dealerz",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkyODU4LzE0MjgwMzAucG5n/315x250%23c/DZavF9.png",
+    "title": "Junk Dealerz",
+    "video": null,
+    "scrapeWords": [
+      "Junk",
+      "Dealerz"
+    ]
+  },
+  {
     "author": "adam_saudagar",
     "description": "Out of Space",
     "genre": "Survival",
@@ -19929,6 +19947,23 @@
     ]
   },
   {
+    "author": "Fred Bird",
+    "description": "You were made for one thing. Do it.",
+    "genre": "Platformer",
+    "id": "322650",
+    "link": "https://fredbird.itch.io/consume-evil",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDY0OTMucG5n/315x250%23c/7cShp4.png",
+    "title": "Consume_Evil",
+    "video": null,
+    "scrapeWords": [
+      "Consume_Evil"
+    ]
+  },
+  {
     "author": "lpancho",
     "description": null,
     "genre": "Shooter",
@@ -22351,6 +22386,24 @@
     "scrapeWords": [
       "Vampires",
       "Tower"
+    ]
+  },
+  {
+    "author": "Lodugh",
+    "description": "Goblins seeking Refuge",
+    "genre": "Adventure",
+    "id": "340880",
+    "link": "https://lodugh.itch.io/goblins-demise",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE2ODg5NjMucG5n/315x250%23c/Ca1jXq.png",
+    "title": "Goblins Demise",
+    "video": null,
+    "scrapeWords": [
+      "Goblins",
+      "Demise"
     ]
   },
   {
@@ -27314,14 +27367,13 @@
     ]
   },
   {
-    "author": "Direct Games",
+    "author": "Bomasaucesays",
     "description": "A free-to-play sandbox game with no predefined aims.",
     "genre": "Adventure",
     "id": "382989",
     "link": "https://directgames.itch.io/sandvox",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE5MjMwODQucG5n/315x250%23c/URIPpf.png",
     "title": "Sandvox",
@@ -30462,6 +30514,25 @@
     ]
   },
   {
+    "author": "Lodugh",
+    "description": "Free the Slimes!",
+    "genre": "Platformer",
+    "id": "415286",
+    "link": "https://lodugh.itch.io/snots-quest",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwNjU4NDMucG5n/315x250%23c/jPefaF.png",
+    "title": "Snots Quest",
+    "video": null,
+    "scrapeWords": [
+      "Snots",
+      "Quest"
+    ]
+  },
+  {
     "author": "One Seed Fruit",
     "description": "BIT BIT BIT BIT",
     "genre": "Strategy",
@@ -33237,28 +33308,6 @@
       "Save",
       "Your",
       "Father"
-    ]
-  },
-  {
-    "author": "ajargrey",
-    "description": "Run, teleport, revert gravity, freeze time and gun",
-    "genre": "Shooter",
-    "id": "441263",
-    "link": "https://ajargrey.itch.io/a-bullet-through-the-dimensions",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMjA3ODAucG5n/315x250%23c/NZtSN5.png",
-    "title": "A bullet through the Dimensions",
-    "video": null,
-    "scrapeWords": [
-      "A",
-      "bullet",
-      "through",
-      "the",
-      "Dimensions"
     ]
   },
   {
@@ -39544,6 +39593,24 @@
     ]
   },
   {
+    "author": "Coffé Junk Studio",
+    "description": "Find cities around the world and prevent others from finding them first!",
+    "genre": "Racing",
+    "id": "480751",
+    "link": "https://coffejunkstudio.itch.io/erasterra",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1ODg0MDUucG5n/315x250%23c/ISeV0l.png",
+    "title": "Erasterra",
+    "video": null,
+    "scrapeWords": [
+      "Erasterra"
+    ]
+  },
+  {
     "author": "heckin_doggo",
     "description": "Collect the movies. Become the Governator.",
     "genre": "Platformer",
@@ -40516,25 +40583,6 @@
       "Inhale",
       "Green",
       "Subsistence"
-    ]
-  },
-  {
-    "author": "ajargrey",
-    "description": "Retro Themed Side Scroller: Kill monsters become Powerful",
-    "genre": "Action",
-    "id": "487088",
-    "link": "https://ajargrey.itch.io/dungeon-valley",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MTUzMDcucG5n/315x250%23c/EPJWCa.png",
-    "title": "Dungeon Valley",
-    "video": null,
-    "scrapeWords": [
-      "Dungeon",
-      "Valley"
     ]
   },
   {
@@ -42416,6 +42464,25 @@
     ]
   },
   {
+    "author": "emanu-dev",
+    "description": "Can you save yourself from the clutches of evil in this pure metal retro FPS?",
+    "genre": "Action",
+    "id": "501920",
+    "link": "https://emanu-dev.itch.io/hazardpulse",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NjQ5MTcucG5n/315x250%23c/ePtJCn.png",
+    "title": "Hazard Pulse",
+    "video": null,
+    "scrapeWords": [
+      "Hazard",
+      "Pulse"
+    ]
+  },
+  {
     "author": "Flaming Thunder",
     "description": "You're in a dark cave surrounded by shadows. Luckily, you have your rechargeable flashlight and handgun.",
     "genre": "Action",
@@ -42460,9 +42527,7 @@
     "genre": "Puzzle",
     "id": "502166",
     "link": "https://yaqb.itch.io/gemor",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1OTk0MjQucG5n/315x250%23c/hFVzFB.png",
     "title": "Gemor",
     "video": null,
@@ -42945,6 +43010,26 @@
     ]
   },
   {
+    "author": "Jas 💖",
+    "description": "Grow plants, brew potions, maybe even solve a mystery",
+    "genre": "Simulation",
+    "id": "506853",
+    "link": "https://jsmnbom.itch.io/potion-commotion",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2MzA5ODgucG5n/315x250%23c/44Y1Xy.png",
+    "title": "Potion Commotion:  Heart Edition",
+    "video": null,
+    "scrapeWords": [
+      "Potion",
+      "Commotion",
+      "Heart",
+      "Edition"
+    ]
+  },
+  {
     "author": "Robert D",
     "description": "A 2D platformer where you must shift between worlds to complete levels.",
     "genre": "Platformer",
@@ -43172,7 +43257,7 @@
   },
   {
     "author": "lunicodev",
-    "description": "A game about having fun and being friendly",
+    "description": "Get a second childhood!",
     "genre": "Adventure",
     "id": "508850",
     "link": "https://lunicodev.itch.io/lunico",
@@ -43180,7 +43265,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDAwNTQucG5n/315x250%23c/cV%2FEdm.png",
+    "thumb": "https://img.itch.zone/aW1nLzI2NzA0NzAucG5n/315x250%23c/xLTa7A.png",
     "title": "Lunico",
     "video": null,
     "scrapeWords": [
@@ -43396,6 +43481,25 @@
     ]
   },
   {
+    "author": "Joedesiii",
+    "description": "A challenging platformer, in which you can change gravity.",
+    "genre": "Platformer",
+    "id": "510780",
+    "link": "https://joedesiii.itch.io/up-is-relative",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NzAyNDMucG5n/315x250%23c/IUpQDR.png",
+    "title": "UP IS RELATIVE",
+    "video": null,
+    "scrapeWords": [
+      "UP",
+      "IS",
+      "RELATIVE"
+    ]
+  },
+  {
     "author": "Izzan Fakhril Islam",
     "description": "Shoot em' all, reach your highest point!",
     "genre": "Shooter",
@@ -43414,22 +43518,23 @@
     ]
   },
   {
-    "author": "Wavesonics",
-    "description": "A multiplayer, objective based, hide and seek game.",
+    "author": "Pandaqi",
+    "description": "An action platformer about keeping yourself alive by shooting trees and then setting them on fire",
     "genre": "Action",
-    "id": "511937",
-    "link": "https://wavesonics.itch.io/fugitive",
+    "id": "511816",
+    "link": "https://pandaqi.itch.io/the-holy-treenity",
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NTgyNjcuanBn/315x250%23c/V0Lhjq.jpg",
-    "title": "Fugitive",
+    "thumb": "https://img.itch.zone/aW1nLzI2NjMzODcucG5n/315x250%23c/2weQLN.png",
+    "title": "The Holy Treenity",
     "video": null,
     "scrapeWords": [
-      "Fugitive"
+      "The",
+      "Holy",
+      "Treenity"
     ]
   },
   {
@@ -43449,7 +43554,7 @@
     ]
   },
   {
-    "author": "cleysonph",
+    "author": "Cleyson Lima",
     "description": "A simple Space Shooter game made in Godot 3",
     "genre": "Shooter",
     "id": "512713",
@@ -43484,6 +43589,43 @@
     "scrapeWords": [
       "Trash",
       "Town"
+    ]
+  },
+  {
+    "author": "CMBT Studio",
+    "description": "An infinite side scroller game where you controll Pixie fighting against cactus !",
+    "genre": "Adventure",
+    "id": "512875",
+    "link": "https://cmbt-studio.itch.io/run-a-story-of-pixel",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NjMwNjcucG5n/315x250%23c/ivUyVm.png",
+    "title": "Run - A Story Of Pixel",
+    "video": null,
+    "scrapeWords": [
+      "Run",
+      "A",
+      "Story",
+      "Of",
+      "Pixel"
+    ]
+  },
+  {
+    "author": "NoodleSushi",
+    "description": null,
+    "genre": "Action",
+    "id": "514013",
+    "link": "https://noodlesushi.itch.io/hack-scratchers",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2Njk2MDkucG5n/315x250%23c/b8slv6.png",
+    "title": "Hack Scratchers",
+    "video": null,
+    "scrapeWords": [
+      "Hack",
+      "Scratchers"
     ]
   },
   {
