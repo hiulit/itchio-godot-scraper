@@ -23922,23 +23922,6 @@
     ]
   },
   {
-    "author": "wskii",
-    "description": "2D Platformer made in Godot 3.0.6",
-    "genre": "Platformer",
-    "id": "357702",
-    "link": "https://wskii.itch.io/slay-the-slime",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE3ODgwMDkucG5n/315x250%23c/Fqg4qu.png",
-    "title": "Sword & Slime 2D",
-    "video": null,
-    "scrapeWords": [
-      "Sword",
-      "Slime",
-      "2",
-      "D"
-    ]
-  },
-  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Shooter",
@@ -43308,6 +43291,25 @@
     ]
   },
   {
+    "author": "Peter Wood",
+    "description": "A simple Space Game inspired by old PC space sims",
+    "genre": "Shooter",
+    "id": "509387",
+    "link": "https://peternatewood.itch.io/space-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDM2NzIucG5n/315x250%23c/YwwpO3.png",
+    "title": "Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Game"
+    ]
+  },
+  {
     "author": "World Eater Games",
     "description": "Short combat gameplay demo.",
     "genre": "Action",
@@ -43334,9 +43336,7 @@
     "genre": "Shooter",
     "id": "509740",
     "link": "https://jimmyjonezz.itch.io/not-a-dungeon",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/315x250%23cm/1ptTYa.gif",
     "title": "Not a Dungeon",
     "video": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/original/xUEQAt.gif",
@@ -43612,6 +43612,24 @@
     ]
   },
   {
+    "author": "Arkhist",
+    "description": "A Vegan Tower Defense about protecting magical eggs from human hunters",
+    "genre": "Puzzle",
+    "id": "513902",
+    "link": "https://arkhist.itch.io/nest-defense",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NjkyMjYuanBn/315x250%23c/9N3nmM.jpg",
+    "title": "Nest Defense",
+    "video": null,
+    "scrapeWords": [
+      "Nest",
+      "Defense"
+    ]
+  },
+  {
     "author": "NoodleSushi",
     "description": null,
     "genre": "Action",
@@ -43626,6 +43644,26 @@
     "scrapeWords": [
       "Hack",
       "Scratchers"
+    ]
+  },
+  {
+    "author": "azagaya",
+    "description": null,
+    "genre": null,
+    "id": "514513",
+    "link": "https://azagaya.itch.io/another-dungeon-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NzIxODAucG5n/315x250%23c/2pa66P.png",
+    "title": "Another Dungeon Game",
+    "video": null,
+    "scrapeWords": [
+      "Another",
+      "Dungeon",
+      "Game"
     ]
   },
   {
