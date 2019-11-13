@@ -20435,23 +20435,6 @@
     ]
   },
   {
-    "author": "chiendev",
-    "description": "[suspended]",
-    "genre": null,
-    "id": "326322",
-    "link": "https://chiendev.itch.io/cylquest",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE2MTM4MzIucG5n/315x250%23c/x5XaX6.png",
-    "title": "cylquest[0.1.4]",
-    "video": null,
-    "scrapeWords": [
-      "cylquest[014]"
-    ]
-  },
-  {
     "author": "Obigre Fichtredonc",
     "description": "un cadeau alala qu'il est bien",
     "genre": "Simulation",
@@ -24272,8 +24255,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE3OTY5ODMucG5n/315x250%23c/1JBhdx.png",
     "title": "Piggy48",
@@ -42392,20 +42374,6 @@
     ]
   },
   {
-    "author": "H.",
-    "description": "\"eel is not snake\"",
-    "genre": "Action",
-    "id": "501300",
-    "link": "https://polygull.itch.io/eel",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI1OTM5NTcucG5n/315x250%23c/QbMv9u.png",
-    "title": "eel",
-    "video": null,
-    "scrapeWords": [
-      "eel"
-    ]
-  },
-  {
     "author": "David Snopek",
     "description": "Online 2-4 player top-down tank battle",
     "genre": "Action",
@@ -43638,7 +43606,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI2Njk2MDkucG5n/315x250%23c/b8slv6.png",
+    "thumb": "https://img.itch.zone/aW1nLzI2Nzg5NjgucG5n/315x250%23c/p420b6.png",
     "title": "Hack Scratchers",
     "video": null,
     "scrapeWords": [
