@@ -6133,6 +6133,20 @@
     ]
   },
   {
+    "author": "tailsthegamerfox",
+    "description": "this is the demo that comes with godot so i can test html 5 export",
+    "genre": "Platformer",
+    "id": "224601",
+    "link": "https://tailsthegamerfox.itch.io/test",
+    "platforms": null,
+    "thumb": null,
+    "title": "test",
+    "video": null,
+    "scrapeWords": [
+      "test"
+    ]
+  },
+  {
     "author": "dino-team",
     "description": "Infect your office dino boss with the flu, so you can go home and relax.",
     "genre": "Puzzle",
@@ -12827,20 +12841,6 @@
       "Sea",
       "Coin",
       "Catcher"
-    ]
-  },
-  {
-    "author": "juhe",
-    "description": null,
-    "genre": "Action",
-    "id": "270578",
-    "link": "https://juhe.itch.io/test",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjcwNTc4LzEzMDczMzEucG5n/315x250%23c/XVt3Ku.png",
-    "title": "test",
-    "video": null,
-    "scrapeWords": [
-      "test"
     ]
   },
   {
@@ -38100,7 +38100,11 @@
     "genre": "Action",
     "id": "470370",
     "link": "https://sztrovacsek.itch.io/smashed-potatoes",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI2NjA0MzgucG5n/315x250%23c/rqsgUF.png",
     "title": "SMASHED POTATOES",
     "video": null,
@@ -42671,7 +42675,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI2MDM5NTYucG5n/315x250%23c/XCWzSS.png",
+    "thumb": "https://img.itch.zone/aW1nLzI2Nzk3NjYucG5n/315x250%23c/4yozmU.png",
     "title": "SQLiteDetective",
     "video": null,
     "scrapeWords": [
@@ -43161,7 +43165,9 @@
     "id": "508690",
     "link": "https://mrdudeiii.itch.io/dynastinae",
     "platforms": [
-      "Linux"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2MzgzODguZ2lm/315x250%23cm/kvANXp.gif",
     "title": "Dynistinae",
@@ -43539,6 +43545,21 @@
       "Space",
       "Shooter",
       "Game"
+    ]
+  },
+  {
+    "author": "fabio_rn",
+    "description": "Fight with your friends in a map full of traps",
+    "genre": "Action",
+    "id": "512731",
+    "link": "https://fabio-rn.itch.io/pixelbrawl",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2NjIxMjQucG5n/315x250%23c/S9Fxxe.png",
+    "title": "PixelBrawl",
+    "video": null,
+    "scrapeWords": [
+      "Pixel",
+      "Brawl"
     ]
   },
   {
