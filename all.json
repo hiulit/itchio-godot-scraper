@@ -28065,7 +28065,7 @@
     ]
   },
   {
-    "author": "NooB_Productions",
+    "author": "BadByte",
     "description": "Never kill a man called Alcide",
     "genre": "Shooter",
     "id": "395710",
@@ -43553,7 +43553,9 @@
     "genre": "Action",
     "id": "512731",
     "link": "https://fabio-rn.itch.io/pixelbrawl",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI2NjIxMjQucG5n/315x250%23c/S9Fxxe.png",
     "title": "PixelBrawl",
     "video": null,
@@ -43671,6 +43673,43 @@
       "Super",
       "Crash",
       "Bros"
+    ]
+  },
+  {
+    "author": "ToufouMaster",
+    "description": "a MineSweeper game madi with godot in 3 hours and 90 line of GdScript code",
+    "genre": "Strategy",
+    "id": "516715",
+    "link": "https://toufoumaster.itch.io/minesweeper",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2ODM0NDAucG5n/315x250%23c/gT1MqI.png",
+    "title": "Godot MineSweeper",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Mine",
+      "Sweeper"
+    ]
+  },
+  {
+    "author": "Voris",
+    "description": "Top-down shooter",
+    "genre": "Action",
+    "id": "517081",
+    "link": "https://voris.itch.io/voto",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2ODUyMDYucG5n/315x250%23c/zY9lyA.png",
+    "title": "VoTo",
+    "video": null,
+    "scrapeWords": [
+      "Vo",
+      "To"
     ]
   },
   {
