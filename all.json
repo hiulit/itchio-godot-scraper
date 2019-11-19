@@ -26726,11 +26726,11 @@
     ]
   },
   {
-    "author": "ZombieBoar",
+    "author": "Darklizard",
     "description": "Spaceship Launcher",
     "genre": null,
     "id": "379354",
-    "link": "https://zombieboar.itch.io/spaceship-launcher",
+    "link": "https://darklizard1111.itch.io/spaceship-launcher",
     "platforms": [
       "Windows"
     ],
@@ -40027,7 +40027,11 @@
     "genre": "Rhythm",
     "id": "484026",
     "link": "https://ereborn.itch.io/undercover-dancer",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI1MDU4MTgucG5n/315x250%23c/M5C7Gc.png",
     "title": "Undercover Dancer",
     "video": null,
@@ -43301,6 +43305,26 @@
     ]
   },
   {
+    "author": "Choppa2",
+    "description": "One last gift for his beloved daughter before he leaves this world",
+    "genre": "Visual Novel",
+    "id": "509087",
+    "link": "https://choppa2.itch.io/one-last-wish",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDA4NzYucG5n/315x250%23c/Tlr6Gd.png",
+    "title": "One Last Wish",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Last",
+      "Wish"
+    ]
+  },
+  {
     "author": "borko",
     "description": null,
     "genre": "Action",
@@ -43803,6 +43827,25 @@
     ]
   },
   {
+    "author": "Hassan Heydari N.",
+    "description": "Build a tower as tall as possible",
+    "genre": null,
+    "id": "517213",
+    "link": "https://hsn6.itch.io/turo-3",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2ODU3NzgucG5n/315x250%23c/RniMFp.png",
+    "title": "Turo 3",
+    "video": null,
+    "scrapeWords": [
+      "Turo",
+      "3"
+    ]
+  },
+  {
     "author": "GrivLock Interactive",
     "description": "A Windows styled game where you protect your computer from enemies!",
     "genre": "Action",
@@ -43933,6 +43976,39 @@
     ]
   },
   {
+    "author": "AnythingWorks",
+    "description": "Mobile Rpg (IN DEVELOPMENT)",
+    "genre": null,
+    "id": "518042",
+    "link": "https://anythingworks.itch.io/skullgame",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2OTAzMTkucG5n/315x250%23c/Ag4XFn.png",
+    "title": "SkullGame",
+    "video": null,
+    "scrapeWords": [
+      "Skull",
+      "Game"
+    ]
+  },
+  {
+    "author": "isabellabs",
+    "description": "Endless runner inspired by skifree, featuring the Yeti as the main character after just eating a passerby snowboarder.",
+    "genre": "Sports",
+    "id": "518241",
+    "link": "https://isabellabs.itch.io/snowboardyeti",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTU2MzAucG5n/315x250%23c/J6IVzp.png",
+    "title": "Snowboard Yeti",
+    "video": null,
+    "scrapeWords": [
+      "Snowboard",
+      "Yeti"
+    ]
+  },
+  {
     "author": "Inglo Games",
     "description": "The Rapture is here... but so is Johnny!",
     "genre": "Action",
@@ -43990,11 +44066,7 @@
     "genre": "Puzzle",
     "id": "518413",
     "link": "https://jameekim.itch.io/make-the-island-float-again",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI2OTQxNzAucG5n/315x250%23c/hzCVdN.png",
     "title": "Make the Island Float Again",
     "video": null,
@@ -44019,6 +44091,26 @@
     "scrapeWords": [
       "Space",
       "Bounder"
+    ]
+  },
+  {
+    "author": "Victor Domiciano",
+    "description": "Simulador de Coordenador Pedagógico",
+    "genre": "Educational",
+    "id": "518455",
+    "link": "https://victordomiciano.itch.io/pode-entrar",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTUyMzkucG5n/315x250%23c/z2wAWz.png",
+    "title": "Pode Entrar!",
+    "video": null,
+    "scrapeWords": [
+      "Pode",
+      "Entrar"
     ]
   },
   {
@@ -44076,6 +44168,99 @@
     "scrapeWords": [
       "Grow",
       "Up"
+    ]
+  },
+  {
+    "author": "MartimDev",
+    "description": null,
+    "genre": "Action",
+    "id": "518589",
+    "link": "https://martimdev.itch.io/skydive-forever",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTYxNzkucG5n/315x250%23c/vStZcL.png",
+    "title": "Skydive Forever",
+    "video": null,
+    "scrapeWords": [
+      "Skydive",
+      "Forever"
+    ]
+  },
+  {
+    "author": "iwilliams",
+    "description": "Physics based infinite runner for Godot Wildjam #15",
+    "genre": "Platformer",
+    "id": "518665",
+    "link": "https://iwilliams.itch.io/chicken-or-egg",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTM1NjcucG5n/315x250%23c/kgAA3D.png",
+    "title": "Chicken? ...Or Egg?",
+    "video": null,
+    "scrapeWords": [
+      "Chicken",
+      "Or",
+      "Egg"
+    ]
+  },
+  {
+    "author": "RocpainGames",
+    "description": "​A paper plane fights against stone, paper and scissors.",
+    "genre": "Shooter",
+    "id": "518769",
+    "link": "https://rocpain.itch.io/rocpain",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTY4NDAucG5n/315x250%23c/LTj10H.png",
+    "title": "ROCPAIN",
+    "video": null,
+    "scrapeWords": [
+      "ROCPAIN"
+    ]
+  },
+  {
+    "author": "ising on a cake",
+    "description": "Produce and deliver hastily.",
+    "genre": "Puzzle",
+    "id": "518920",
+    "link": "https://comf52.itch.io/bad-alchemy",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTQ3NDAucG5n/315x250%23c/XHphhE.png",
+    "title": "BAD ALCHEMY",
+    "video": null,
+    "scrapeWords": [
+      "BAD",
+      "ALCHEMY"
+    ]
+  },
+  {
+    "author": "RetsynNL",
+    "description": "2D Platformer -- Crush your enemies in a surreal 9-stage adventure.",
+    "genre": "Platformer",
+    "id": "519346",
+    "link": "https://retsyn.itch.io/cheese-escape",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTY3MjAucG5n/315x250%23c/n79qGW.png",
+    "title": "Cheese Escape",
+    "video": null,
+    "scrapeWords": [
+      "Cheese",
+      "Escape"
     ]
   },
   {
