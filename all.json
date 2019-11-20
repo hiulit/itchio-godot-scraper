@@ -6508,7 +6508,7 @@
   },
   {
     "author": "Yomic",
-    "description": "A short demo of a megaman classic clone in Godot with a few levels",
+    "description": "Save the world from the berserker virus released by the Red Bombers as Alpha!",
     "genre": "Platformer",
     "id": "230253",
     "link": "https://yomic.itch.io/alphaman",
@@ -6517,11 +6517,10 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2NTYxNzMucG5n/315x250%23c/D0i8QH.png",
-    "title": "Alphaman (beta demo)",
+    "title": "Alphaman",
     "video": null,
     "scrapeWords": [
-      "Alphaman",
-      "beta"
+      "Alphaman"
     ]
   },
   {
@@ -40095,7 +40094,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MDE5MDgucG5n/315x250%23c/wBabGW.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3MDAxMDYucG5n/315x250%23c/dNHISu.png",
     "title": "KEY OF TRUTH 2",
     "video": null,
     "scrapeWords": [
@@ -44179,7 +44178,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2OTYxNzkucG5n/315x250%23c/vStZcL.png",
     "title": "Skydive Forever",
@@ -44211,7 +44211,7 @@
   },
   {
     "author": "RocpainGames",
-    "description": "​A paper plane fights against stone, paper and scissors.",
+    "description": "​A paper plane fights against rock, paper and scissors. Um avião de papel luta contra pedra, papel e tesoura.",
     "genre": "Shooter",
     "id": "518769",
     "link": "https://rocpain.itch.io/rocpain",
@@ -44225,6 +44225,22 @@
     "video": null,
     "scrapeWords": [
       "ROCPAIN"
+    ]
+  },
+  {
+    "author": "echojonas",
+    "description": "my first game",
+    "genre": "Role Playing",
+    "id": "518882",
+    "link": "https://echojonas.itch.io/angel",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTQ2MTQucG5n/315x250%23c/bvmzY0.png",
+    "title": "Angel",
+    "video": null,
+    "scrapeWords": [
+      "Angel"
     ]
   },
   {
