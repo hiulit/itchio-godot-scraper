@@ -5265,11 +5265,11 @@
     ]
   },
   {
-    "author": "MonkeyBlanket",
+    "author": "Sometimes Dev",
     "description": "Counting game for toddlers.",
     "genre": "Educational",
     "id": "206285",
-    "link": "https://monkeyblanket.itch.io/count-the-fruit",
+    "link": "https://sometimesdev.itch.io/count-the-fruit",
     "platforms": [
       "Android"
     ],
@@ -6514,7 +6514,8 @@
     "link": "https://yomic.itch.io/alphaman",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2NTYxNzMucG5n/315x250%23c/D0i8QH.png",
     "title": "Alphaman",
@@ -8294,11 +8295,11 @@
     ]
   },
   {
-    "author": "G Pennefather",
+    "author": "Palenar",
     "description": "Navigate the map collecting food while  the encroaching flames shrink the world!",
     "genre": null,
     "id": "246624",
-    "link": "https://gregpennefather.itch.io/encroaching-flames",
+    "link": "https://palenar.itch.io/encroaching-flames",
     "platforms": [
       "Windows",
       "Linux",
@@ -25240,6 +25241,26 @@
     ]
   },
   {
+    "author": "Noiros",
+    "description": "Un jeu d'aventure impressionnant grand et difficile une grand aventure t'attend",
+    "genre": "Adventure",
+    "id": "366124",
+    "link": "https://noiros.itch.io/endless-adventur",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE5MTU2NjUucG5n/315x250%23c/4CDaha.png",
+    "title": "Endless Adventur V0.4",
+    "video": null,
+    "scrapeWords": [
+      "Endless",
+      "Adventur",
+      "V04"
+    ]
+  },
+  {
     "author": "WeRideForCoffee",
     "description": "A modern Nokia 3310 dungeon crawler",
     "genre": null,
@@ -38135,7 +38156,7 @@
   },
   {
     "author": "sztrovacsek",
-    "description": "Potatoes. With guns.",
+    "description": "Kitchen Warfare",
     "genre": "Action",
     "id": "470370",
     "link": "https://sztrovacsek.itch.io/smashed-potatoes",
@@ -40094,7 +40115,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MDAxMDYucG5n/315x250%23c/dNHISu.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3MDM1OTAucG5n/315x250%23c/pzxPg4.png",
     "title": "KEY OF TRUTH 2",
     "video": null,
     "scrapeWords": [
@@ -40595,6 +40616,26 @@
       "Inhale",
       "Green",
       "Subsistence"
+    ]
+  },
+  {
+    "author": "flor96",
+    "description": "This slime is going through some tests, can you solve the puzzle to get the reward?",
+    "genre": "Puzzle",
+    "id": "487087",
+    "link": "https://flor96.itch.io/slime-research-facilities",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MDIwNzkucG5n/315x250%23c/nbtd5D.png",
+    "title": "Slime Research Facilities",
+    "video": null,
+    "scrapeWords": [
+      "Slime",
+      "Research",
+      "Facilities"
     ]
   },
   {
@@ -44277,6 +44318,45 @@
     "scrapeWords": [
       "Cheese",
       "Escape"
+    ]
+  },
+  {
+    "author": "frankiezafe",
+    "description": "In collaboration with the choreographer Lisa Nelson",
+    "genre": null,
+    "id": "520102",
+    "link": "https://frankiezafe.itch.io/tuning-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MDI2MjQucG5n/315x250%23c/rUVU%2Bh.png",
+    "title": "Tuning game",
+    "video": null,
+    "scrapeWords": [
+      "Tuning",
+      "game"
+    ]
+  },
+  {
+    "author": "Xenorm",
+    "description": null,
+    "genre": "Shooter",
+    "id": "520359",
+    "link": "https://xenorm.itch.io/inverted-space",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MDIxMzUucG5n/315x250%23c/QVwX8R.png",
+    "title": "Inverted Space",
+    "video": null,
+    "scrapeWords": [
+      "Inverted",
+      "Space"
     ]
   },
   {
