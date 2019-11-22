@@ -25252,12 +25252,12 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE5MTU2NjUucG5n/315x250%23c/4CDaha.png",
-    "title": "Endless Adventur V0.4",
+    "title": "Endless Adventur V0.4.5",
     "video": null,
     "scrapeWords": [
       "Endless",
       "Adventur",
-      "V04"
+      "V045"
     ]
   },
   {
@@ -43630,6 +43630,24 @@
     ]
   },
   {
+    "author": "Wavesonics",
+    "description": "A multiplayer, objective based, hide and seek game.",
+    "genre": "Action",
+    "id": "511937",
+    "link": "https://wavesonics.itch.io/fugitive",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NTgyNjcuanBn/315x250%23c/V0Lhjq.jpg",
+    "title": "Fugitive",
+    "video": null,
+    "scrapeWords": [
+      "Fugitive"
+    ]
+  },
+  {
     "author": "Hooy",
     "description": "Twist to escape physics puzzles! Get the ball to the goal, how hard can it be?",
     "genre": "Puzzle",
@@ -44321,6 +44339,23 @@
     ]
   },
   {
+    "author": "Palenar",
+    "description": null,
+    "genre": "Simulation",
+    "id": "520084",
+    "link": "https://palenar.itch.io/sharkhero",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": null,
+    "title": "Shark Hero",
+    "video": null,
+    "scrapeWords": [
+      "Shark",
+      "Hero"
+    ]
+  },
+  {
     "author": "frankiezafe",
     "description": "In collaboration with the choreographer Lisa Nelson",
     "genre": null,
@@ -44357,6 +44392,23 @@
     "scrapeWords": [
       "Inverted",
       "Space"
+    ]
+  },
+  {
+    "author": "Le Professeur Stagiaire",
+    "description": null,
+    "genre": null,
+    "id": "520881",
+    "link": "https://le-professeur-stagiaire.itch.io/missile",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MDQ1ODkucG5n/315x250%23c/Kc7Q%2BV.png",
+    "title": "Missile",
+    "video": null,
+    "scrapeWords": [
+      "Missile"
     ]
   },
   {
