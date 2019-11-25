@@ -22415,7 +22415,8 @@
     "link": "https://duncansparks.itch.io/base-6",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE3OTU0NTUucG5n/315x250%23c/mxW6GW.png",
     "title": "BASE-6",
@@ -33062,16 +33063,12 @@
   },
   {
     "author": "PlainCrown",
-    "description": "Basic clone of the classic snake game with a few tweaks and additional features. Made in Godot 3.1.",
+    "description": "Crash into blocks and complete increasingly challenging levels with the help of some power-ups.",
     "genre": null,
     "id": "439503",
     "link": "https://plaincrown.itch.io/blockcrasher",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDg3OTYucG5n/315x250%23c/os6Hie.png",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MTY0NTUucG5n/315x250%23c/tGgHH%2B.png",
     "title": "BlockCrasher",
     "video": null,
     "scrapeWords": [
@@ -34244,6 +34241,20 @@
     "scrapeWords": [
       "Farkle",
       "Test"
+    ]
+  },
+  {
+    "author": "Gustavo Marciano",
+    "description": "cordeis cultura literatura Iara Maria Bonita",
+    "genre": null,
+    "id": "448111",
+    "link": "https://gustavo-marciano.itch.io/cordeis",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1NDU5NzcucG5n/315x250%23c/c5ME%2Fq.png",
+    "title": "Cordéis",
+    "video": null,
+    "scrapeWords": [
+      "Cordéis"
     ]
   },
   {
@@ -42069,7 +42080,7 @@
     "description": "Escape Room Puzzle Game",
     "genre": "Puzzle",
     "id": "497379",
-    "link": "https://atalbi-games.itch.io/friend-house",
+    "link": "https://atalbi.itch.io/friend-house",
     "platforms": [
       "Windows",
       "Linux",
@@ -43428,7 +43439,9 @@
     "genre": "Shooter",
     "id": "509740",
     "link": "https://jimmyjonezz.itch.io/not-a-dungeon",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/315x250%23cm/1ptTYa.gif",
     "title": "Not a Dungeon",
     "video": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/original/xUEQAt.gif",
@@ -44034,6 +44047,24 @@
     ]
   },
   {
+    "author": "H. [polygull]",
+    "description": "Fast Action Snake",
+    "genre": "Action",
+    "id": "517924",
+    "link": "https://polygull.itch.io/eel",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2ODk3MDUucG5n/315x250%23c/ZZsoYg.png",
+    "title": "eel",
+    "video": null,
+    "scrapeWords": [
+      "eel"
+    ]
+  },
+  {
     "author": "AnythingWorks",
     "description": "Mobile Rpg (IN DEVELOPMENT)",
     "genre": null,
@@ -44375,11 +44406,32 @@
     ]
   },
   {
-    "author": "Xenorm",
+    "author": "Pandaqi",
+    "description": "A puzzle game about love, faith, and a witch who might be the hero of the story.",
+    "genre": "Puzzle",
+    "id": "520355",
+    "link": "https://pandaqi.itch.io/into-my-arms",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MTE5NDIucG5n/315x250%23c/jWaUP%2B.png",
+    "title": "Into My Arms",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "My",
+      "Arms"
+    ]
+  },
+  {
+    "author": "Innocent Sakala",
     "description": null,
     "genre": "Shooter",
     "id": "520359",
-    "link": "https://xenorm.itch.io/inverted-space",
+    "link": "https://pixelzenstudios.itch.io/inverted-space",
     "platforms": [
       "Windows",
       "Linux",
@@ -44400,15 +44452,78 @@
     "genre": null,
     "id": "520881",
     "link": "https://le-professeur-stagiaire.itch.io/missile",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI3MDQ1ODkucG5n/315x250%23c/Kc7Q%2BV.png",
     "title": "Missile",
     "video": null,
     "scrapeWords": [
       "Missile"
+    ]
+  },
+  {
+    "author": "qcrafa",
+    "description": "The online version of DigiGotchi",
+    "genre": null,
+    "id": "522116",
+    "link": "https://qcrafa.itch.io/digi",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MTEyNzUucG5n/315x250%23c/htJKW1.png",
+    "title": "DigiGotchi",
+    "video": null,
+    "scrapeWords": [
+      "Digi",
+      "Gotchi"
+    ]
+  },
+  {
+    "author": "aletheos",
+    "description": "Musical negotiations with a hostile alien, for the fate of the earth.",
+    "genre": "Puzzle",
+    "id": "522831",
+    "link": "https://aletheos.itch.io/sus-out",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MTU1OTMucG5n/315x250%23c/0nqN7x.png",
+    "title": "Sus Out",
+    "video": null,
+    "scrapeWords": [
+      "Sus",
+      "Out"
+    ]
+  },
+  {
+    "author": "electric-jammers",
+    "description": "Slap or stack your way to victory!",
+    "genre": "Action",
+    "id": "522835",
+    "link": "https://electric-jammers.itch.io/slappin-stackers",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MTU1MzIucG5n/315x250%23c/UMaV5C.png",
+    "title": "👏 Slappin' Stackers 👏",
+    "video": null,
+    "scrapeWords": [
+      "👏",
+      "Slappin",
+      "Stackers",
+      "👏"
+    ]
+  },
+  {
+    "author": "Vulpon",
+    "description": "The mouse got stuck inside an oven and it's unbearably hot! Made for DevuJam!",
+    "genre": "Strategy",
+    "id": "522869",
+    "link": "https://vulpon.itch.io/torrato",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MTY3ODIucG5n/315x250%23c/GtlYC5.png",
+    "title": "Torrato",
+    "video": null,
+    "scrapeWords": [
+      "Torrato"
     ]
   },
   {
