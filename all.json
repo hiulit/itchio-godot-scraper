@@ -2722,8 +2722,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE4MTM1MjYucG5n/315x250%23c/ieYRrS.png",
     "title": "Lionel The Guardian",
@@ -42076,7 +42075,7 @@
     ]
   },
   {
-    "author": "ATalbi Games",
+    "author": "ATalbi",
     "description": "Escape Room Puzzle Game",
     "genre": "Puzzle",
     "id": "497379",
@@ -44417,9 +44416,9 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MTE5NDIucG5n/315x250%23c/jWaUP%2B.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3MTgzMTIuZ2lm/315x250%23cm/1KKCx1.gif",
     "title": "Into My Arms",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI3MTgzMTIuZ2lm/original/wb4ifo.gif",
     "scrapeWords": [
       "Into",
       "My",
@@ -44453,7 +44452,7 @@
     "id": "520881",
     "link": "https://le-professeur-stagiaire.itch.io/missile",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI3MDQ1ODkucG5n/315x250%23c/Kc7Q%2BV.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3MTkzNDkucG5n/315x250%23c/4OSo6x.png",
     "title": "Missile",
     "video": null,
     "scrapeWords": [
@@ -44524,6 +44523,25 @@
     "video": null,
     "scrapeWords": [
       "Torrato"
+    ]
+  },
+  {
+    "author": "Ariel Gimenez",
+    "description": "Juego tipo flappy bird,recreando las mecanicas del tutorial de  Hugo Ruscitti de pilas engine 2 en Godot engine",
+    "genre": "Platformer",
+    "id": "523470",
+    "link": "https://kone9.itch.io/flappybird-de-pilas-en-godot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MTkwNzIucG5n/315x250%23c/gcDbN1.png",
+    "title": "FlappyBird de pilas en Godot",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Bird",
+      "de",
+      "pilas",
+      "en",
+      "Godot"
     ]
   },
   {
