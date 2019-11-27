@@ -24306,7 +24306,7 @@
     ]
   },
   {
-    "author": "MaoDev",
+    "author": "MaoItsMe",
     "description": "My first game",
     "genre": "Action",
     "id": "360196",
@@ -24855,7 +24855,7 @@
     ]
   },
   {
-    "author": "MaoDev",
+    "author": "MaoItsMe",
     "description": "You're a guy/girl who shoots zombies ... also, the zombies speed up.",
     "genre": "Action",
     "id": "363284",
@@ -30298,24 +30298,6 @@
     "scrapeWords": [
       "LD",
       "Force"
-    ]
-  },
-  {
-    "author": "RelativeParadox",
-    "description": "A Lite Story Driven 2D RPG",
-    "genre": "Adventure",
-    "id": "414872",
-    "link": "https://relativeparadox.itch.io/soulbound",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwNjE2MjYuanBn/315x250%23c/rm5YyV.jpg",
-    "title": "Soulbound",
-    "video": null,
-    "scrapeWords": [
-      "Soulbound"
     ]
   },
   {
@@ -38927,7 +38909,7 @@
     ]
   },
   {
-    "author": "MaoDev",
+    "author": "MaoItsMe",
     "description": "Simple RPG made in one week for the Community Game Jam",
     "genre": "Role Playing",
     "id": "475898",
@@ -43622,6 +43604,22 @@
     ]
   },
   {
+    "author": "Ice Pixel Team",
+    "description": "A hardcore space shooter. Can you survive for 180 seconds?",
+    "genre": "Shooter",
+    "id": "511760",
+    "link": "https://icepixelteam.itch.io/vacuum",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/315x250%23cm/GkIDyj.gif",
+    "title": "VACUUM",
+    "video": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/original/flzpEL.gif",
+    "scrapeWords": [
+      "VACUUM"
+    ]
+  },
+  {
     "author": "Pandaqi",
     "description": "An action platformer about keeping yourself alive by shooting trees and then setting them on fire",
     "genre": "Action",
@@ -44542,6 +44540,25 @@
       "pilas",
       "en",
       "Godot"
+    ]
+  },
+  {
+    "author": "clay",
+    "description": "Joust and Pole Vault with a Knight!",
+    "genre": "Platformer",
+    "id": "524440",
+    "link": "https://clay.itch.io/the-jumping-jouster",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjM3NTAucG5n/315x250%23c/BntqBv.png",
+    "title": "The Jumping Jouster",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Jumping",
+      "Jouster"
     ]
   },
   {
