@@ -29533,25 +29533,6 @@
     ]
   },
   {
-    "author": "Sylver",
-    "description": "point and click game",
-    "genre": "Card Game",
-    "id": "409500",
-    "link": "https://sylver.itch.io/kill-the-evil-slime",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMzUwNDUucG5n/315x250%23c/7Fvuov.png",
-    "title": "Kill The Evil Slime",
-    "video": null,
-    "scrapeWords": [
-      "Kill",
-      "The",
-      "Evil",
-      "Slime"
-    ]
-  },
-  {
     "author": "Hairic Lilred",
     "description": "A simple open source game with commands alla metal slug",
     "genre": "Action",
@@ -30298,6 +30279,24 @@
     "scrapeWords": [
       "LD",
       "Force"
+    ]
+  },
+  {
+    "author": "RelativeParadox",
+    "description": "A Lite Story Driven 2D RPG",
+    "genre": "Adventure",
+    "id": "414872",
+    "link": "https://relativeparadox.itch.io/soulbound",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwNjE2MjYuanBn/315x250%23c/rm5YyV.jpg",
+    "title": "Soulbound",
+    "video": null,
+    "scrapeWords": [
+      "Soulbound"
     ]
   },
   {
@@ -42097,25 +42096,6 @@
     ]
   },
   {
-    "author": "Sylver",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "497620",
-    "link": "https://sylver.itch.io/the-insectforma-curse",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1NzMwNDkucG5n/315x250%23c/3jebF9.png",
-    "title": "The Insectforma Curse",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Insectforma",
-      "Curse"
-    ]
-  },
-  {
     "author": "Black Mamba Studio",
     "description": "Modify public opinion through TV news",
     "genre": null,
@@ -44515,7 +44495,10 @@
     "genre": "Strategy",
     "id": "522869",
     "link": "https://vulpon.itch.io/torrato",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3MTY3ODIucG5n/315x250%23c/GtlYC5.png",
     "title": "Torrato",
     "video": null,
