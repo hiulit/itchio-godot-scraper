@@ -43589,9 +43589,7 @@
     "genre": "Shooter",
     "id": "511760",
     "link": "https://icepixelteam.itch.io/vacuum",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/315x250%23cm/GkIDyj.gif",
     "title": "VACUUM",
     "video": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/original/flzpEL.gif",
@@ -44542,6 +44540,120 @@
       "The",
       "Jumping",
       "Jouster"
+    ]
+  },
+  {
+    "author": "Raul Lessa",
+    "description": "A monochromatic space shooter made with Godot Engine.",
+    "genre": "Shooter",
+    "id": "524485",
+    "link": "https://raullessa.itch.io/ashooter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjQ4ODUuZ2lm/315x250%23cm/kyGnSO.gif",
+    "title": "AShooter",
+    "video": "https://img.itch.zone/aW1nLzI3MjQ4ODUuZ2lm/original/RVkVWv.gif",
+    "scrapeWords": [
+      "AShooter"
+    ]
+  },
+  {
+    "author": "skeletox",
+    "description": "30 sec Pong game",
+    "genre": null,
+    "id": "524800",
+    "link": "https://skeletox.itch.io/pong",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3Mjg1ODcucG5n/315x250%23c/fFfsMt.png",
+    "title": "Pong",
+    "video": null,
+    "scrapeWords": [
+      "Pong"
+    ]
+  },
+  {
+    "author": "davidporos92",
+    "description": "Yep, this is a Game that you play backwards!",
+    "genre": "Platformer",
+    "id": "525125",
+    "link": "https://davidporos92.itch.io/reverse-world",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3Mjc0NjIucG5n/315x250%23c/fOpGU4.png",
+    "title": "Reverse World",
+    "video": null,
+    "scrapeWords": [
+      "Reverse",
+      "World"
+    ]
+  },
+  {
+    "author": "aldlevine",
+    "description": "A \"topdown\" 2D action game",
+    "genre": "Action",
+    "id": "525214",
+    "link": "https://aldlevine.itch.io/january",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MjgwNTIucG5n/315x250%23c/vA2iWS.png",
+    "title": "January",
+    "video": null,
+    "scrapeWords": [
+      "January"
+    ]
+  },
+  {
+    "author": "Drew Martin",
+    "description": "Squiddy is High on Fruit!",
+    "genre": "Adventure",
+    "id": "525423",
+    "link": "https://drew-martin.itch.io/fruitcrazy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MjkwNjgucG5n/315x250%23c/UCPjfz.png",
+    "title": "Fruit Crazy Web Edition",
+    "video": null,
+    "scrapeWords": [
+      "Fruit",
+      "Crazy",
+      "Web",
+      "Edition"
+    ]
+  },
+  {
+    "author": "Ariel Gimenez",
+    "description": "Un proyecto de arquitectura visualización con Godot engine y Blender3D",
+    "genre": "Simulation",
+    "id": "525515",
+    "link": "https://kone9.itch.io/arquitectura-visualizacin-con-godot-engine",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3Mjk1MTMucG5n/315x250%23c/S79Mo2.png",
+    "title": "Arquitectura visualización con Godot Engine",
+    "video": null,
+    "scrapeWords": [
+      "Arquitectura",
+      "visualización",
+      "con",
+      "Godot",
+      "Engine"
+    ]
+  },
+  {
+    "author": "Wicho2D",
+    "description": null,
+    "genre": "Platformer",
+    "id": "525603",
+    "link": "https://luis2d.itch.io/8x8-hero",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MzAwNTUucG5n/315x250%23c/WLiTSd.png",
+    "title": "8x8 Hero",
+    "video": null,
+    "scrapeWords": [
+      "8x8",
+      "Hero"
     ]
   },
   {
