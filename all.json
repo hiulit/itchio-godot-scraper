@@ -3317,7 +3317,7 @@
     "description": "Intended for entry into CFN GameJam #1.  Time to go back to school!",
     "genre": "Puzzle",
     "id": "178987",
-    "link": "https://enmod.itch.io/school-years",
+    "link": "https://enmodgames.itch.io/school-years",
     "platforms": [
       "Windows",
       "Linux",
@@ -3569,7 +3569,7 @@
     "description": "Intended for entry into No Excuses Game Jam #1.  Find your family and escape the Night!",
     "genre": "Survival",
     "id": "183760",
-    "link": "https://enmod.itch.io/the-labyrinthine-night",
+    "link": "https://enmodgames.itch.io/the-labyrinthine-night",
     "platforms": [
       "Windows",
       "Linux",
@@ -30974,24 +30974,6 @@
     ]
   },
   {
-    "author": "am.blacksheep",
-    "description": "Zombie Flambe' is an horde zombies game. Try to survive!",
-    "genre": "Shooter",
-    "id": "420396",
-    "link": "https://amblacksheep.itch.io/zombie-flambe",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwOTQzMDIucG5n/315x250%23c/WXqGac.png",
-    "title": "Zombie Flambe'",
-    "video": null,
-    "scrapeWords": [
-      "Zombie",
-      "Flambe"
-    ]
-  },
-  {
     "author": "TwistedTwigleg",
     "description": "A short and fun platformer!",
     "genre": "Platformer",
@@ -31831,26 +31813,6 @@
     "scrapeWords": [
       "Over",
       "Grown"
-    ]
-  },
-  {
-    "author": "Shmellyorc",
-    "description": "Join millions of players worldwide as you fight your way up the leader-boards!",
-    "genre": "Strategy",
-    "id": "427524",
-    "link": "https://shmellyorc.itch.io/rps-mmo",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxMzU3NjkucG5n/315x250%23c/kqDmPt.png",
-    "title": "RPS MMO",
-    "video": null,
-    "scrapeWords": [
-      "RPS",
-      "MMO"
     ]
   },
   {
@@ -32882,20 +32844,6 @@
     "video": null,
     "scrapeWords": [
       "MEDICINE"
-    ]
-  },
-  {
-    "author": "am.blacksheep",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "437055",
-    "link": "https://amblacksheep.itch.io/tetraktys",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIyMDM2OTIucG5n/315x250%23c/vu0r0v.png",
-    "title": "Tetraktys",
-    "video": null,
-    "scrapeWords": [
-      "Tetraktys"
     ]
   },
   {
@@ -34206,21 +34154,6 @@
       "Sauls",
       "Dungeon",
       "Crawl"
-    ]
-  },
-  {
-    "author": "Alekmor",
-    "description": "Just a test trying to learn godot engine",
-    "genre": null,
-    "id": "448051",
-    "link": "https://alekmor.itch.io/farkle",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIyNjUwNTMucG5n/315x250%23c/LOAb1q.png",
-    "title": "Farkle Test",
-    "video": null,
-    "scrapeWords": [
-      "Farkle",
-      "Test"
     ]
   },
   {
@@ -36492,22 +36425,6 @@
     ]
   },
   {
-    "author": "am.blacksheep",
-    "description": "Scroll Wheel Master is a platformer in which all actions are crontrolled by the scroll wheel.",
-    "genre": "Platformer",
-    "id": "461976",
-    "link": "https://amblacksheep.itch.io/swm",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzNTA5MDQucG5n/315x250%23c/aack%2B9.png",
-    "title": "Scroll Wheel Master",
-    "video": null,
-    "scrapeWords": [
-      "Scroll",
-      "Wheel",
-      "Master"
-    ]
-  },
-  {
     "author": "ComputerCow",
     "description": "a shooter with only one dimension",
     "genre": "Action",
@@ -37498,21 +37415,6 @@
     ]
   },
   {
-    "author": "am.blacksheep",
-    "description": "Split World is a puzzle game in which the game world is divided into two perspectives.",
-    "genre": "Puzzle",
-    "id": "467210",
-    "link": "https://amblacksheep.itch.io/split-world",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzODg3ODQucG5n/315x250%23c/lO6dcs.png",
-    "title": "Split World",
-    "video": null,
-    "scrapeWords": [
-      "Split",
-      "World"
-    ]
-  },
-  {
     "author": "snarmph",
     "description": "Find the two objects that fit the absurd questions of your clients",
     "genre": "Puzzle",
@@ -38208,8 +38110,7 @@
     "id": "470453",
     "link": "https://spyr.itch.io/factory-rush",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MDc2OTMucG5n/315x250%23c/iTxkgC.png",
     "title": "Factory Rush",
@@ -42063,7 +41964,6 @@
     "link": "https://atalbi.itch.io/friend-house",
     "platforms": [
       "Windows",
-      "Linux",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI1NzU5NjUuanBn/315x250%23c/mpwOdL.jpg",
@@ -43016,26 +42916,25 @@
   },
   {
     "author": "ManuACruz",
-    "description": "A dungeon puzzle where each room you enter is a new window screen.",
+    "description": "A dungeon music puzzle where each room you enter is a new window screen.",
     "genre": "Puzzle",
     "id": "506830",
-    "link": "https://manuacruz.itch.io/windowed-forest-dungeon",
+    "link": "https://manuacruz.itch.io/windowed-dungeon",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2Mjc3MzQuZ2lm/315x250%23cm/g%2B3MDG.gif",
-    "title": "Windowed Forest Dungeon",
+    "title": "Windowed Dungeon",
     "video": "https://img.itch.zone/aW1nLzI2Mjc3MzQuZ2lm/original/0g3ZKY.gif",
     "scrapeWords": [
       "Windowed",
-      "Forest",
       "Dungeon"
     ]
   },
   {
-    "author": "Jas 💖",
+    "author": "JENNY_",
     "description": "Grow plants, brew potions, maybe even solve a mystery",
     "genre": "Simulation",
     "id": "506853",
@@ -43589,7 +43488,9 @@
     "genre": "Shooter",
     "id": "511760",
     "link": "https://icepixelteam.itch.io/vacuum",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/315x250%23cm/GkIDyj.gif",
     "title": "VACUUM",
     "video": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/original/flzpEL.gif",
@@ -43746,15 +43647,16 @@
   },
   {
     "author": "Zeroji",
-    "description": "Game Off 2019 entry",
+    "description": "A color-based puzzling platformer",
     "genre": "Platformer",
     "id": "514005",
     "link": "https://zeroji.itch.io/colorbound",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NDExNzEucG5n/315x250%23c/eNXxhD.png",
     "title": "Colorbound",
     "video": null,
     "scrapeWords": [
@@ -43817,6 +43719,24 @@
     ]
   },
   {
+    "author": "chippmann",
+    "description": "save the world!",
+    "genre": "Strategy",
+    "id": "515380",
+    "link": "https://chippmann.itch.io/planty",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzU0MDIucG5n/315x250%23c/tVkFW4.png",
+    "title": "Planty",
+    "video": null,
+    "scrapeWords": [
+      "Planty"
+    ]
+  },
+  {
     "author": "Ereborn",
     "description": "Get picked on by a god",
     "genre": "Puzzle",
@@ -43852,6 +43772,23 @@
       "Godot",
       "Mine",
       "Sweeper"
+    ]
+  },
+  {
+    "author": "JENNY_",
+    "description": "HexaMaze - Limited-visibility hexagonal maze game",
+    "genre": "Puzzle",
+    "id": "516832",
+    "link": "https://jsmnbom.itch.io/hexamaze",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjIyNDAuZ2lm/315x250%23cm/EyFaZW.gif",
+    "title": "⬡Maze",
+    "video": "https://img.itch.zone/aW1nLzI3MjIyNDAuZ2lm/original/K5mdRC.gif",
+    "scrapeWords": [
+      "⬡Maze"
     ]
   },
   {
@@ -44436,6 +44373,38 @@
     ]
   },
   {
+    "author": "Galbenshire",
+    "description": "Rebound bullets to hit enemies",
+    "genre": "Shooter",
+    "id": "521433",
+    "link": "https://galbenshire.itch.io/rebounds",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjQ4NjAucG5n/315x250%23c/IzAYQr.png",
+    "title": "Rebounds",
+    "video": null,
+    "scrapeWords": [
+      "Rebounds"
+    ]
+  },
+  {
+    "author": "Kamevros",
+    "description": "Fire's cracking, looking into the flames we face our fears.",
+    "genre": "Action",
+    "id": "521771",
+    "link": "https://kamevros.itch.io/around-a-campfire",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MDkwMTMucG5n/315x250%23c/6V4Lov.png",
+    "title": "Around a Campfire",
+    "video": null,
+    "scrapeWords": [
+      "Around",
+      "a",
+      "Campfire"
+    ]
+  },
+  {
     "author": "qcrafa",
     "description": "The online version of DigiGotchi",
     "genre": null,
@@ -44502,6 +44471,26 @@
     "video": null,
     "scrapeWords": [
       "Torrato"
+    ]
+  },
+  {
+    "author": "TheElderBloodFire",
+    "description": "Bounce at the Border",
+    "genre": "Platformer",
+    "id": "522918",
+    "link": "https://theelderbloodfire.itch.io/bounce-at-the-border",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MTY2MTQucG5n/315x250%23c/Rx3I4n.png",
+    "title": "Bounce at the Border",
+    "video": null,
+    "scrapeWords": [
+      "Bounce",
+      "at",
+      "the",
+      "Border"
     ]
   },
   {
@@ -44654,6 +44643,238 @@
     "scrapeWords": [
       "8x8",
       "Hero"
+    ]
+  },
+  {
+    "author": "securas",
+    "description": "A short platformer for the Github GameOff Jam",
+    "genre": "Action",
+    "id": "525657",
+    "link": "https://securas.itch.io/sealedbite",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzY3MTkuZ2lm/315x250%23cm/yUs5vv.gif",
+    "title": "Sealed Bite",
+    "video": "https://img.itch.zone/aW1nLzI3MzY3MTkuZ2lm/original/eUzPfk.gif",
+    "scrapeWords": [
+      "Sealed",
+      "Bite"
+    ]
+  },
+  {
+    "author": "mole06",
+    "description": "Godot testing",
+    "genre": "Adventure",
+    "id": "525871",
+    "link": "https://crplay.itch.io/roguelike",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MzE2NTQucG5n/315x250%23c/APUm9Q.png",
+    "title": "ROGUELIKE",
+    "video": null,
+    "scrapeWords": [
+      "ROGUELIKE"
+    ]
+  },
+  {
+    "author": "LKGameDev",
+    "description": "It's only 1 level.  Good luck finishing it.",
+    "genre": "Platformer",
+    "id": "526077",
+    "link": "https://lkgamedev.itch.io/impossible-platformer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzI3NjUucG5n/315x250%23c/3r5RFP.png",
+    "title": "Impossible Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Impossible",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "doomium-chloride",
+    "description": "Touhou ripoff",
+    "genre": "Shooter",
+    "id": "526133",
+    "link": "https://doomium-chloride.itch.io/space-danmaku-gameoff",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzMxODgucG5n/315x250%23c/JTFFLY.png",
+    "title": "Space danmaku",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "danmaku"
+    ]
+  },
+  {
+    "author": "ShoeFisherGames",
+    "description": "What if sumo wrestlers could leap?",
+    "genre": "Fighting",
+    "id": "526368",
+    "link": "https://shoefishergames.itch.io/sumo-leap",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MzQ2NzYucG5n/315x250%23c/SYFcxJ.png",
+    "title": "Sumo Leap",
+    "video": null,
+    "scrapeWords": [
+      "Sumo",
+      "Leap"
+    ]
+  },
+  {
+    "author": "STKzica",
+    "description": "A bullet hell space shooter, defeat the evil cup!",
+    "genre": "Shooter",
+    "id": "526372",
+    "link": "https://stkzica.itch.io/astro-cruncher",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzcwNzEucG5n/315x250%23c/p3qkSD.png",
+    "title": "Astro Cruncher",
+    "video": null,
+    "scrapeWords": [
+      "Astro",
+      "Cruncher"
+    ]
+  },
+  {
+    "author": "regakakobigman",
+    "description": "Submission for the GitHub Game Off 2019",
+    "genre": "Puzzle",
+    "id": "526519",
+    "link": "https://regakakobigman.itch.io/leaps-and-bounds",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzUzMTQucG5n/315x250%23c/paqA1T.png",
+    "title": "Leaps and Bounds",
+    "video": null,
+    "scrapeWords": [
+      "Leaps",
+      "and",
+      "Bounds"
+    ]
+  },
+  {
+    "author": "Gregzenegair",
+    "description": "Local Multiplayer 2D football mayem game",
+    "genre": "Sports",
+    "id": "526542",
+    "link": "https://gregzenegair.itch.io/flootball",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzU0MDAucG5n/315x250%23c/8bpX8S.png",
+    "title": "FlootBall",
+    "video": null,
+    "scrapeWords": [
+      "Floot",
+      "Ball"
+    ]
+  },
+  {
+    "author": "dzejkop",
+    "description": "The adventures of hyper snake trapped in euclidean space",
+    "genre": "Puzzle",
+    "id": "526556",
+    "link": "https://dzejkop.itch.io/the-adventures-of-hyper-snake-trapped-in-the-bounds-of-space",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzcyMzMucG5n/315x250%23c/Dl5SqF.png",
+    "title": "Hyper Snake",
+    "video": null,
+    "scrapeWords": [
+      "Hyper",
+      "Snake"
+    ]
+  },
+  {
+    "author": "rg98",
+    "description": "2D Platformer",
+    "genre": "Platformer",
+    "id": "526833",
+    "link": "https://rg98.itch.io/giraffe",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3Mzc2ODMucG5n/315x250%23c/xmREBt.png",
+    "title": "Giraffe",
+    "video": null,
+    "scrapeWords": [
+      "Giraffe"
+    ]
+  },
+  {
+    "author": "Mariothedog",
+    "description": "A platformer made for the GitHub Game Off 2019 Game Jam.",
+    "genre": "Platformer",
+    "id": "526842",
+    "link": "https://mariothedog.itch.io/leap-and-sweep",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MzkxODUuZ2lm/315x250%23cm/oHnvtV.gif",
+    "title": "Leap and Sweep",
+    "video": "https://img.itch.zone/aW1nLzI3MzkxODUuZ2lm/original/pa86OU.gif",
+    "scrapeWords": [
+      "Leap",
+      "and",
+      "Sweep"
+    ]
+  },
+  {
+    "author": "Hernz",
+    "description": null,
+    "genre": "Adventure",
+    "id": "526930",
+    "link": "https://hernz.itch.io/warden-of-the-isles",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3Mzg3MTIuZ2lm/315x250%23cm/YcSwB1.gif",
+    "title": "Warden of the isles",
+    "video": "https://img.itch.zone/aW1nLzI3Mzg3MTIuZ2lm/original/%2BbomWe.gif",
+    "scrapeWords": [
+      "Warden",
+      "of",
+      "the",
+      "isles"
+    ]
+  },
+  {
+    "author": "guizero",
+    "description": "Help Mr. Cube create a gift for his someone special.",
+    "genre": "Platformer",
+    "id": "527142",
+    "link": "https://guizero.itch.io/x-mas-quest",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MzkxMzYuZ2lm/315x250%23cm/aAhS88.gif",
+    "title": "X-mas Quest",
+    "video": "https://img.itch.zone/aW1nLzI3MzkxMzYuZ2lm/original/1TPQrY.gif",
+    "scrapeWords": [
+      "X-mas",
+      "Quest"
     ]
   },
   {
