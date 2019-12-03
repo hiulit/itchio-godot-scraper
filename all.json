@@ -30813,7 +30813,7 @@
     ]
   },
   {
-    "author": "Wobbumash",
+    "author": "Ramiro Almeida Basso",
     "description": "An experimental game",
     "genre": "Puzzle",
     "id": "418281",
@@ -32185,23 +32185,6 @@
     "scrapeWords": [
       "Bot",
       "Connect"
-    ]
-  },
-  {
-    "author": "OddvarLookus",
-    "description": "Local multi-player competitive game.",
-    "genre": "Fighting",
-    "id": "431930",
-    "link": "https://oddvarlookus.itch.io/en-garde",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxNjI1MjUucG5n/315x250%23c/mwGb2R.png",
-    "title": "EN GARDE",
-    "video": null,
-    "scrapeWords": [
-      "EN",
-      "GARDE"
     ]
   },
   {
@@ -34347,7 +34330,7 @@
     ]
   },
   {
-    "author": "Wobbumash",
+    "author": "Ramiro Almeida Basso",
     "description": "A different take on the arcade game Asteroids",
     "genre": "Action",
     "id": "448890",
@@ -35751,6 +35734,20 @@
     "scrapeWords": [
       "Simple",
       "Snake"
+    ]
+  },
+  {
+    "author": "Asix",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "459847",
+    "link": "https://byjustasix.itch.io/hacked",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzMzk3MzMucG5n/315x250%23c/7IouO%2B.png",
+    "title": "Hacked",
+    "video": null,
+    "scrapeWords": [
+      "Hacked"
     ]
   },
   {
@@ -40001,20 +39998,18 @@
     "description": "A hardcore adventure",
     "genre": "Adventure",
     "id": "484755",
-    "link": "https://bravemind.itch.io/key-of-truth-2",
+    "link": "https://bravemind.itch.io/the-truth",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MDM1OTAucG5n/315x250%23c/pzxPg4.png",
-    "title": "KEY OF TRUTH 2",
+    "thumb": "https://img.itch.zone/aW1nLzI3NDM4ODYucG5n/315x250%23c/r3jKyX.png",
+    "title": "THE TRUTH",
     "video": null,
     "scrapeWords": [
-      "KEY",
-      "OF",
-      "TRUTH",
-      "2"
+      "THE",
+      "TRUTH"
     ]
   },
   {
@@ -43483,6 +43478,25 @@
     ]
   },
   {
+    "author": "Fenreliania",
+    "description": "It's a comedy, I promise.",
+    "genre": "Interactive Fiction",
+    "id": "511283",
+    "link": "https://fenreliania.itch.io/he-was",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NDMxNTAucG5n/315x250%23c/1Q%2FX8W.png",
+    "title": "He Was",
+    "video": null,
+    "scrapeWords": [
+      "He",
+      "Was"
+    ]
+  },
+  {
     "author": "Ice Pixel Team",
     "description": "A hardcore space shooter. Can you survive for 180 seconds?",
     "genre": "Shooter",
@@ -43625,6 +43639,22 @@
       "Story",
       "Of",
       "Pixel"
+    ]
+  },
+  {
+    "author": "Jamep",
+    "description": null,
+    "genre": null,
+    "id": "513835",
+    "link": "https://jamep.itch.io/dodgeoutplus",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NzU2ODkuZ2lm/315x250%23cm/QKXP1G.gif",
+    "title": "DODGEOUT+",
+    "video": "https://img.itch.zone/aW1nLzI2NzU2ODkuZ2lm/original/CIiaNK.gif",
+    "scrapeWords": [
+      "DODGEOUT"
     ]
   },
   {
@@ -43974,6 +44004,26 @@
     "video": null,
     "scrapeWords": [
       "eel"
+    ]
+  },
+  {
+    "author": "AloveZ",
+    "description": "`Time Leap` by bike Cycle",
+    "genre": "Racing",
+    "id": "517979",
+    "link": "https://alovez.itch.io/leep-bycycle",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTAwNDIucG5n/315x250%23c/ajUMm4.png",
+    "title": "LeapBycycle",
+    "video": null,
+    "scrapeWords": [
+      "Leap",
+      "Bycycle"
     ]
   },
   {
@@ -44670,7 +44720,9 @@
     "genre": "Adventure",
     "id": "525871",
     "link": "https://crplay.itch.io/roguelike",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3MzE2NTQucG5n/315x250%23c/APUm9Q.png",
     "title": "ROGUELIKE",
     "video": null,
@@ -44714,6 +44766,22 @@
     "scrapeWords": [
       "Space",
       "danmaku"
+    ]
+  },
+  {
+    "author": "rafaelconcept",
+    "description": null,
+    "genre": null,
+    "id": "526367",
+    "link": "https://rafaelconcept.itch.io/teste",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MzUxNDIucG5n/315x250%23c/MLJlJh.png",
+    "title": "HipoRun(Dev)",
+    "video": null,
+    "scrapeWords": [
+      "Hipo",
+      "Run",
+      "Dev"
     ]
   },
   {
@@ -44780,7 +44848,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MzU0MDAucG5n/315x250%23c/8bpX8S.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3NDI4MzQucG5n/315x250%23c/nPcgNL.png",
     "title": "FlootBall",
     "video": null,
     "scrapeWords": [
@@ -44842,6 +44910,23 @@
     ]
   },
   {
+    "author": "am.blacksheep",
+    "description": "Leaps over Bounds is a short 3D platformer in which the goal is to complete the game as quickly as possible.",
+    "genre": "Platformer",
+    "id": "526865",
+    "link": "https://amblacksheep.itch.io/lob",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3Mzc0NDMucG5n/315x250%23c/DoJ4zA.png",
+    "title": "LOB",
+    "video": null,
+    "scrapeWords": [
+      "LOB"
+    ]
+  },
+  {
     "author": "Hernz",
     "description": null,
     "genre": "Adventure",
@@ -44875,6 +44960,58 @@
     "scrapeWords": [
       "X-mas",
       "Quest"
+    ]
+  },
+  {
+    "author": "Vinyo",
+    "description": "A magical shop with a witch.",
+    "genre": null,
+    "id": "527742",
+    "link": "https://vinyoo.itch.io/mesmerised-store",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NDI4NDIucG5n/315x250%23c/CwaZnq.png",
+    "title": "Mesmerised Store",
+    "video": null,
+    "scrapeWords": [
+      "Mesmerised",
+      "Store"
+    ]
+  },
+  {
+    "author": "Le Professeur Stagiaire",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "527751",
+    "link": "https://le-professeur-stagiaire.itch.io/drag-and-clips",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NDIxNDgucG5n/315x250%23c/o70Cbv.png",
+    "title": "Drag and Clips",
+    "video": null,
+    "scrapeWords": [
+      "Drag",
+      "and",
+      "Clips"
+    ]
+  },
+  {
+    "author": "Tim Krief",
+    "description": "When you merge houses to make towns!",
+    "genre": "Puzzle",
+    "id": "527884",
+    "link": "https://timkrief.itch.io/craftycounty",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NDM1MTUuZ2lm/315x250%23cm/XTogpx.gif",
+    "title": "CraftyCounty",
+    "video": "https://img.itch.zone/aW1nLzI3NDM1MTUuZ2lm/original/8X52RN.gif",
+    "scrapeWords": [
+      "Crafty",
+      "County"
     ]
   },
   {
