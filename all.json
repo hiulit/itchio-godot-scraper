@@ -32188,6 +32188,23 @@
     ]
   },
   {
+    "author": "OddvarLookus",
+    "description": "Local multi-player competitive game.",
+    "genre": "Fighting",
+    "id": "431930",
+    "link": "https://oddvarlookus.itch.io/en-garde",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIxNjI1MjUucG5n/315x250%23c/mwGb2R.png",
+    "title": "EN GARDE",
+    "video": null,
+    "scrapeWords": [
+      "EN",
+      "GARDE"
+    ]
+  },
+  {
     "author": "Olive Tree Oil",
     "description": "A short \"runner\"-like game.",
     "genre": null,
@@ -41812,6 +41829,26 @@
     ]
   },
   {
+    "author": "adngdb",
+    "description": "Ludum Dare 45 Jam Game",
+    "genre": "Rhythm",
+    "id": "496166",
+    "link": "https://adngdb.itch.io/the-last-word",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NjQwMTEucG5n/315x250%23c/%2BVAxEj.png",
+    "title": "The Last Word",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Last",
+      "Word"
+    ]
+  },
+  {
     "author": "MrPiedPiper",
     "description": "Frantic arcade acorn action! Made in 72 hours for Ludum Dare 45. Art and animation by StinkyKitty",
     "genre": null,
@@ -44614,6 +44651,25 @@
     ]
   },
   {
+    "author": "nivrig",
+    "description": "Help Santa save Christmas!",
+    "genre": "Action",
+    "id": "524857",
+    "link": "https://nivrig.itch.io/santa-rocks",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjYwOTkucG5n/315x250%23c/a%2B5kff.png",
+    "title": "Santa Rocks",
+    "video": null,
+    "scrapeWords": [
+      "Santa",
+      "Rocks"
+    ]
+  },
+  {
     "author": "davidporos92",
     "description": "Yep, this is a Game that you play backwards!",
     "genre": "Platformer",
@@ -44816,6 +44872,23 @@
     "scrapeWords": [
       "Astro",
       "Cruncher"
+    ]
+  },
+  {
+    "author": "Harry Munro",
+    "description": "20 Levels of Screen-Wrapping Action, Reborn!",
+    "genre": "Platformer",
+    "id": "526453",
+    "link": "https://munrogames.itch.io/cwgd",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NDMzMjEuZ2lm/315x250%23cm/7JtLIQ.gif",
+    "title": "Candy Wrapper: Godot Edition",
+    "video": "https://img.itch.zone/aW1nLzI3NDMzMjEuZ2lm/original/E3jl7d.gif",
+    "scrapeWords": [
+      "Candy",
+      "Wrapper",
+      "Godot",
+      "Edition"
     ]
   },
   {
