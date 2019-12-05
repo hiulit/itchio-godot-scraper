@@ -33371,6 +33371,27 @@
     ]
   },
   {
+    "author": "Joseph Manley",
+    "description": "Terminal themed platformer built in Godot featuring randomly generated maps!",
+    "genre": "Platformer",
+    "id": "441406",
+    "link": "https://joebmanley.itch.io/glitchinthesystem",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMjA1MzkucG5n/315x250%23c/t46s1Q.png",
+    "title": "Glitch in the System",
+    "video": null,
+    "scrapeWords": [
+      "Glitch",
+      "in",
+      "the",
+      "System"
+    ]
+  },
+  {
     "author": "newyear",
     "description": "What memories escape the chains of time?",
     "genre": null,
@@ -43768,6 +43789,24 @@
     ]
   },
   {
+    "author": "Clauveira",
+    "description": "Casual puzzle.",
+    "genre": "Puzzle",
+    "id": "514743",
+    "link": "https://clauveira.itch.io/magnetic-projectiles",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NTAyNjcuanBn/315x250%23c/vmdf4Q.jpg",
+    "title": "Magnetic Projectiles (Beta)",
+    "video": null,
+    "scrapeWords": [
+      "Magnetic",
+      "Projectiles",
+      "Beta"
+    ]
+  },
+  {
     "author": "Hubix9",
     "description": "Local multiplayer fighting game.",
     "genre": "Action",
@@ -45085,6 +45124,40 @@
     "scrapeWords": [
       "Crafty",
       "County"
+    ]
+  },
+  {
+    "author": "xstresedg",
+    "description": "November creative project. It is playable but does not have any objectives.",
+    "genre": "Action",
+    "id": "528994",
+    "link": "https://sk-game-dev.itch.io/hope-the-stolen-wish",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NDkxMzYucG5n/315x250%23c/9b9Wqw.png",
+    "title": "Hope: The Stolen Wish",
+    "video": null,
+    "scrapeWords": [
+      "Hope",
+      "The",
+      "Stolen",
+      "Wish"
+    ]
+  },
+  {
+    "author": "BioNidi",
+    "description": null,
+    "genre": "Survival",
+    "id": "529260",
+    "link": "https://bionidi.itch.io/disc-room",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NTAxNzcucG5n/315x250%23c/9LaLDv.png",
+    "title": "Disc Room",
+    "video": null,
+    "scrapeWords": [
+      "Disc",
+      "Room"
     ]
   },
   {
