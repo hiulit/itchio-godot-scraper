@@ -32868,6 +32868,25 @@
     ]
   },
   {
+    "author": "N-Jima",
+    "description": "A simple test of a 3D dungeon",
+    "genre": "Role Playing",
+    "id": "437377",
+    "link": "https://n-jima.itch.io/3d-dungeon-test-in-godot",
+    "platforms": null,
+    "thumb": null,
+    "title": "3D Dungeon Test in Godot",
+    "video": null,
+    "scrapeWords": [
+      "3",
+      "D",
+      "Dungeon",
+      "Test",
+      "in",
+      "Godot"
+    ]
+  },
+  {
     "author": "doctorvaan",
     "description": "Small but enjoyable TD game, I hope",
     "genre": "Strategy",
@@ -44772,20 +44791,6 @@
     ]
   },
   {
-    "author": "skeletox",
-    "description": "30 sec Pong game",
-    "genre": null,
-    "id": "524800",
-    "link": "https://skeletox.itch.io/pong",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI3Mjg1ODcucG5n/315x250%23c/fFfsMt.png",
-    "title": "Pong",
-    "video": null,
-    "scrapeWords": [
-      "Pong"
-    ]
-  },
-  {
     "author": "nivrig",
     "description": "Help Santa save Christmas!",
     "genre": "Action",
@@ -45422,6 +45427,25 @@
     ]
   },
   {
+    "author": "KoBeWi",
+    "description": "Something something Luke, something something forces of evil.",
+    "genre": "Action",
+    "id": "530764",
+    "link": "https://kobewi.itch.io/something-something-dark-side",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NTg2MjcucG5n/315x250%23c/5qLEw8.png",
+    "title": "Something Something Dark Side",
+    "video": null,
+    "scrapeWords": [
+      "Something",
+      "Something",
+      "Dark",
+      "Side"
+    ]
+  },
+  {
     "author": "CMBT Studio",
     "description": null,
     "genre": "Platformer",
@@ -45450,7 +45474,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3NjIxOTQucG5n/315x250%23c/yKzbX1.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3NjQ0MTQucG5n/315x250%23c/bJTlRo.png",
     "title": "Winter Games: 10,000 BC",
     "video": null,
     "scrapeWords": [
@@ -45466,7 +45490,10 @@
     "genre": "Racing",
     "id": "531201",
     "link": "https://greenbeakcrow.itch.io/maximum-speed",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3NjEyOTcucG5n/315x250%23c/tt5spT.png",
     "title": "Maximum Speed",
     "video": null,
@@ -45492,6 +45519,60 @@
       "Little",
       "Robot",
       "Toy"
+    ]
+  },
+  {
+    "author": "Stagfoo",
+    "description": "hunters are coming, return to the moon mother, wolf child",
+    "genre": "Puzzle",
+    "id": "531379",
+    "link": "https://stagfoo.itch.io/manenvarg",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NjI2NTgucG5n/315x250%23c/OAIPal.png",
+    "title": "månenvarg",
+    "video": null,
+    "scrapeWords": [
+      "månenvarg"
+    ]
+  },
+  {
+    "author": "Coldragon",
+    "description": "A fun little game where you explore multiple worlds with your bird!",
+    "genre": null,
+    "id": "531999",
+    "link": "https://coldragon.itch.io/birdy-world",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NjU5ODYucG5n/315x250%23c/gJ4FXm.png",
+    "title": "Birdy World",
+    "video": null,
+    "scrapeWords": [
+      "Birdy",
+      "World"
+    ]
+  },
+  {
+    "author": "sourWood",
+    "description": "Dodge...but with two buttons only",
+    "genre": "Action",
+    "id": "532249",
+    "link": "https://sourwood.itch.io/two-button-shooter",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NjczOTYucG5n/315x250%23c/xxHFhk.png",
+    "title": "Two Button Dodger",
+    "video": null,
+    "scrapeWords": [
+      "Two",
+      "Button",
+      "Dodger"
     ]
   },
   {
