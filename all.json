@@ -3250,7 +3250,10 @@
     "genre": "Platformer",
     "id": "176866",
     "link": "https://pigdev.itch.io/kitchen-tales",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMTc2ODY2LzE1MTAyMTgucG5n/315x250%23c/hDnXN1.png",
     "title": "Kitchen Tales",
     "video": null,
@@ -17586,24 +17589,6 @@
     ]
   },
   {
-    "author": "Whyat1872",
-    "description": "A fantastic flat farming experience!",
-    "genre": "Simulation",
-    "id": "302853",
-    "link": "https://whyat1872.itch.io/flat-farms",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMzAyODUzLzE0ODMxNjUucG5n/315x250%23c/nNro%2Fx.png",
-    "title": "Flat Farms",
-    "video": null,
-    "scrapeWords": [
-      "Flat",
-      "Farms"
-    ]
-  },
-  {
     "author": "cvkarakoc",
     "description": "a puzzle-platformer",
     "genre": "Platformer",
@@ -25235,7 +25220,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE5MTU2NjUucG5n/315x250%23c/4CDaha.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3NzE0MjAucG5n/315x250%23c/a7mPYb.png",
     "title": "Endless Adventur V0.4.5.3",
     "video": null,
     "scrapeWords": [
@@ -45435,7 +45420,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3NTg2MjcucG5n/315x250%23c/5qLEw8.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3Njc4NTcucG5n/315x250%23c/Rb09YO.png",
     "title": "Something Something Dark Side",
     "video": null,
     "scrapeWords": [
@@ -45474,7 +45459,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3NjQ0MTQucG5n/315x250%23c/bJTlRo.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3NjkxMDkucG5n/315x250%23c/5mM0bc.png",
     "title": "Winter Games: 10,000 BC",
     "video": null,
     "scrapeWords": [
