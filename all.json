@@ -8811,7 +8811,7 @@
   },
   {
     "author": "Neon",
-    "description": "Throwing shiny cards at enemies with explosive results",
+    "description": "Throw shiny cards at enemies and get explosive results.",
     "genre": "Shooter",
     "id": "248494",
     "link": "https://nc.itch.io/heart-of-the-cards",
@@ -22374,6 +22374,26 @@
     ]
   },
   {
+    "author": "ESB Linux Custom Software Solutions",
+    "description": null,
+    "genre": "Platformer",
+    "id": "340927",
+    "link": "https://esblinuxcss.itch.io/dangerous-dilbert",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE2ODg5NTEucG5n/315x250%23c/glMhB1.png",
+    "title": "Dangerous Dilbert",
+    "video": null,
+    "scrapeWords": [
+      "Dangerous",
+      "Dilbert"
+    ]
+  },
+  {
     "author": "easy82",
     "description": "Collect as many gems as you can and get back to your rocket before the lava erupts.",
     "genre": "Action",
@@ -30945,6 +30965,25 @@
     ]
   },
   {
+    "author": "Cheeseness",
+    "description": "A small bee themed management sim/base builder",
+    "genre": "Simulation",
+    "id": "420407",
+    "link": "https://cheeseness.itch.io/hive-time",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NjQ0MzQucG5n/315x250%23c/C8JDT7.png",
+    "title": "Hive Time",
+    "video": null,
+    "scrapeWords": [
+      "Hive",
+      "Time"
+    ]
+  },
+  {
     "author": "TwistedTwigleg",
     "description": "A short and fun platformer!",
     "genre": "Platformer",
@@ -33188,11 +33227,11 @@
     ]
   },
   {
-    "author": "RS-GMNG",
+    "author": "SARamirez",
     "description": "Clear the grid from glitches",
     "genre": "Role Playing",
     "id": "441072",
-    "link": "https://rs-gmng.itch.io/prqlproyect",
+    "link": "https://saramirez.itch.io/prqlproyect",
     "platforms": [
       "Windows",
       "Linux",
@@ -44646,6 +44685,21 @@
     ]
   },
   {
+    "author": "OtterWays",
+    "description": "A minimalist platformer with an engaged message.",
+    "genre": "Platformer",
+    "id": "522352",
+    "link": "https://otterways.itch.io/sweet-love",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MzgyMjEucG5n/315x250%23c/P7eLH3.png",
+    "title": "Sweet Love",
+    "video": null,
+    "scrapeWords": [
+      "Sweet",
+      "Love"
+    ]
+  },
+  {
     "author": "aletheos",
     "description": "Musical negotiations with a hostile alien, for the fate of the earth.",
     "genre": "Puzzle",
@@ -45558,6 +45612,23 @@
       "Two",
       "Button",
       "Dodger"
+    ]
+  },
+  {
+    "author": "Jay",
+    "description": "PUZZLE GAME",
+    "genre": "Puzzle",
+    "id": "533593",
+    "link": "https://jaydevstuff.itch.io/color-square-demo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NzQyMjgucG5n/315x250%23c/atEoxl.png",
+    "title": "COLOR SQUARE DEMO",
+    "video": null,
+    "scrapeWords": [
+      "COLOR",
+      "SQUARE"
     ]
   },
   {
