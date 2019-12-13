@@ -22939,6 +22939,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
@@ -39480,25 +39497,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Truffelbaguette",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -43443,24 +43441,6 @@
     ]
   },
   {
-    "author": "jimmyjonezz",
-    "description": null,
-    "genre": "Shooter",
-    "id": "509740",
-    "link": "https://jimmyjonezz.itch.io/not-a-dungeon",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/315x250%23cm/1ptTYa.gif",
-    "title": "Not a Dungeon",
-    "video": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/original/xUEQAt.gif",
-    "scrapeWords": [
-      "Not",
-      "a",
-      "Dungeon"
-    ]
-  },
-  {
     "author": "theLudovyc",
     "description": null,
     "genre": "Puzzle",
@@ -43964,6 +43944,23 @@
     "video": null,
     "scrapeWords": [
       "Planty"
+    ]
+  },
+  {
+    "author": "theLudovyc",
+    "description": null,
+    "genre": "Adventure",
+    "id": "515650",
+    "link": "https://theludovyc.itch.io/space-cieux",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NzY3OTIuZ2lm/315x250%23cm/zduAr3.gif",
+    "title": "Space-cieux",
+    "video": "https://img.itch.zone/aW1nLzI3NzY3OTIuZ2lm/original/MCXcvB.gif",
+    "scrapeWords": [
+      "Space-cieux"
     ]
   },
   {
@@ -45054,7 +45051,7 @@
     ]
   },
   {
-    "author": "Harry Munro",
+    "author": "Munro Games",
     "description": "20 Levels of Screen-Wrapping Action, Reborn!",
     "genre": "Platformer",
     "id": "526453",
@@ -45361,7 +45358,8 @@
     "id": "529554",
     "link": "https://mrpres1dent.itch.io/cat-vs-nightmares",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI3NTE1MjkucG5n/315x250%23c/%2F%2B4j3D.png",
     "title": "Cat VS Nightmares",
@@ -45629,6 +45627,58 @@
     "scrapeWords": [
       "COLOR",
       "SQUARE"
+    ]
+  },
+  {
+    "author": "sizen",
+    "description": "A simple tower defense game.",
+    "genre": "Strategy",
+    "id": "533625",
+    "link": "https://sizen.itch.io/rise-of-monsters",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NzUyMzcucG5n/315x250%23c/f2jO9L.png",
+    "title": "Rise of Monsters: Tower Defense",
+    "video": null,
+    "scrapeWords": [
+      "Rise",
+      "of",
+      "Monsters",
+      "Tower",
+      "Defense"
+    ]
+  },
+  {
+    "author": "binglo",
+    "description": "You see a guy walking from a corpse and desides to follow him",
+    "genre": "Adventure",
+    "id": "533722",
+    "link": "https://binglo.itch.io/stop-the-hero",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NzQ2ODEucG5n/315x250%23c/0PFnCf.png",
+    "title": "Stop the hero",
+    "video": null,
+    "scrapeWords": [
+      "Stop",
+      "the",
+      "hero"
+    ]
+  },
+  {
+    "author": "Binsk",
+    "description": "Begin the Anxiety",
+    "genre": "Platformer",
+    "id": "534052",
+    "link": "https://binsk.itch.io/block-rush",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NzYxNTgucG5n/315x250%23c/NXL04l.png",
+    "title": "Block Rush",
+    "video": null,
+    "scrapeWords": [
+      "Block",
+      "Rush"
     ]
   },
   {
