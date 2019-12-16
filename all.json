@@ -18672,22 +18672,6 @@
     ]
   },
   {
-    "author": "Pigdev",
-    "description": "Shoot spam cans on the SPAM king",
-    "genre": "Platformer",
-    "id": "313419",
-    "link": "https://pigdev.itch.io/spam-the-spammer",
-    "platforms": null,
-    "thumb": null,
-    "title": "SPAM THE SPAMMER!!",
-    "video": null,
-    "scrapeWords": [
-      "SPAM",
-      "THE",
-      "SPAMMER"
-    ]
-  },
-  {
     "author": "geckolocation",
     "description": "inktober day 6, game 6",
     "genre": null,
@@ -22936,23 +22920,6 @@
       "be",
       "a",
       "Triangle"
-    ]
-  },
-  {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -37766,7 +37733,7 @@
   },
   {
     "author": "Stegoratops",
-    "description": "Platformer wher you play two Characters.",
+    "description": "Platformer where you play two Characters.",
     "genre": "Platformer",
     "id": "469157",
     "link": "https://stegoratops.itch.io/a-and-z",
@@ -39494,6 +39461,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -42837,6 +42823,20 @@
     ]
   },
   {
+    "author": "digitalki",
+    "description": "A mobile low-poly 3D game where you colonize mars.",
+    "genre": "Strategy",
+    "id": "503436",
+    "link": "https://digitalki.itch.io/mars",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NTYwMTEucG5n/315x250%23c/k9N6gY.png",
+    "title": "Mars",
+    "video": null,
+    "scrapeWords": [
+      "Mars"
+    ]
+  },
+  {
     "author": "Gabriel Cornish",
     "description": "A minimalist 1-button puzzle game",
     "genre": "Puzzle",
@@ -43438,6 +43438,24 @@
       "Sigma",
       "Title",
       "Pending"
+    ]
+  },
+  {
+    "author": "jimmyjonezz",
+    "description": null,
+    "genre": "Shooter",
+    "id": "509740",
+    "link": "https://jimmyjonezz.itch.io/not-a-dungeon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/315x250%23cm/1ptTYa.gif",
+    "title": "Not a Dungeon",
+    "video": "https://img.itch.zone/aW1nLzI2NDU1NzkuZ2lm/original/xUEQAt.gif",
+    "scrapeWords": [
+      "Not",
+      "a",
+      "Dungeon"
     ]
   },
   {
@@ -44955,7 +44973,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MzE2NTQucG5n/315x250%23c/APUm9Q.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3NzkzMzIucG5n/315x250%23c/M4jY0U.png",
     "title": "ROGUELIKE",
     "video": null,
     "scrapeWords": [
@@ -44964,7 +44982,7 @@
   },
   {
     "author": "LKGameDev",
-    "description": "It's only 1 level.  Good luck finishing it.",
+    "description": "It's impossible but not really",
     "genre": "Platformer",
     "id": "526077",
     "link": "https://lkgamedev.itch.io/impossible-platformer",
@@ -45051,11 +45069,11 @@
     ]
   },
   {
-    "author": "Munro Games",
+    "author": "Monroe Games",
     "description": "20 Levels of Screen-Wrapping Action, Reborn!",
     "genre": "Platformer",
     "id": "526453",
-    "link": "https://munrogames.itch.io/cwgd",
+    "link": "https://monroegames.itch.io/cwgd",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI3NDMzMjEuZ2lm/315x250%23cm/7JtLIQ.gif",
     "title": "Candy Wrapper: Godot",
@@ -45470,7 +45488,9 @@
     "id": "530764",
     "link": "https://kobewi.itch.io/something-something-dark-side",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI3Njc4NTcucG5n/315x250%23c/Rb09YO.png",
     "title": "Something Something Dark Side",
@@ -45613,6 +45633,24 @@
     ]
   },
   {
+    "author": "AniMerrill Productions",
+    "description": "Top down shooter where you have to kill evil interlopers and save the multiverse!",
+    "genre": "Shooter",
+    "id": "532847",
+    "link": "https://animerrill.itch.io/timeshifter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODQwMTIucG5n/315x250%23c/KGw90I.png",
+    "title": "Timeshifter",
+    "video": null,
+    "scrapeWords": [
+      "Timeshifter"
+    ]
+  },
+  {
     "author": "Jay",
     "description": "PUZZLE GAME",
     "genre": "Puzzle",
@@ -45667,6 +45705,23 @@
     ]
   },
   {
+    "author": "DomedVortex",
+    "description": "How hard can being Helly be?",
+    "genre": "Platformer",
+    "id": "533900",
+    "link": "https://domedvortex.itch.io/hard-helly",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NzkwNTEucG5n/315x250%23c/Ju41ct.png",
+    "title": "Hard Helly",
+    "video": null,
+    "scrapeWords": [
+      "Hard",
+      "Helly"
+    ]
+  },
+  {
     "author": "Binsk",
     "description": "Begin the Anxiety",
     "genre": "Platformer",
@@ -45679,6 +45734,473 @@
     "scrapeWords": [
       "Block",
       "Rush"
+    ]
+  },
+  {
+    "author": "Dersa",
+    "description": "A mix of TD and Arcade Shooter",
+    "genre": "Action",
+    "id": "534751",
+    "link": "https://dersa.itch.io/profugo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3Nzk5NDgucG5n/315x250%23c/9SINN9.png",
+    "title": "Profugo",
+    "video": null,
+    "scrapeWords": [
+      "Profugo"
+    ]
+  },
+  {
+    "author": "GreatChristmasGamesEct",
+    "description": "A swashbuckling action puzzle game",
+    "genre": "Puzzle",
+    "id": "534854",
+    "link": "https://greatchristmasgamesect.itch.io/cavalier",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODAyMTMucG5n/315x250%23c/3XuNza.png",
+    "title": "Cavalier",
+    "video": null,
+    "scrapeWords": [
+      "Cavalier"
+    ]
+  },
+  {
+    "author": "HackTrout",
+    "description": "Create Fractals from Chaos!",
+    "genre": "Educational",
+    "id": "535332",
+    "link": "https://hacktrout.itch.io/chaos-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3ODMwMTgucG5n/315x250%23c/USNj9F.png",
+    "title": "Chaos Game",
+    "video": null,
+    "scrapeWords": [
+      "Chaos",
+      "Game"
+    ]
+  },
+  {
+    "author": "Nerd Everyday",
+    "description": "Try to escape by manipulating time to your advantage",
+    "genre": "Puzzle",
+    "id": "535363",
+    "link": "https://nerd-everyday.itch.io/chrono-traveller",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODMwODMucG5n/315x250%23c/boXOWy.png",
+    "title": "Chrono Traveller",
+    "video": null,
+    "scrapeWords": [
+      "Chrono",
+      "Traveller"
+    ]
+  },
+  {
+    "author": "Bagdev",
+    "description": "The day of the metero has arrived. But hope lives in the heart  of every dinosaur armed to the teeth.",
+    "genre": "Platformer",
+    "id": "535453",
+    "link": "https://bagdev.itch.io/not-today-extinction",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODM5MDgucG5n/315x250%23c/RN7kcQ.png",
+    "title": "Not Today: Extinction",
+    "video": null,
+    "scrapeWords": [
+      "Not",
+      "Today",
+      "Extinction"
+    ]
+  },
+  {
+    "author": "KaizarNike",
+    "description": "Get the gift of death this Christmas",
+    "genre": "Adventure",
+    "id": "535542",
+    "link": "https://kaizarnike.itch.io/an-abundance-of-death",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODQzNzMucG5n/315x250%23c/XMwmNd.png",
+    "title": "An Abundance of Death",
+    "video": null,
+    "scrapeWords": [
+      "An",
+      "Abundance",
+      "of",
+      "Death"
+    ]
+  },
+  {
+    "author": "sox",
+    "description": "A 2D platformer with all your favourite TTT yogscast members",
+    "genre": "Platformer",
+    "id": "535543",
+    "link": "https://sox.itch.io/ctt",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODQzNzcuanBn/315x250%23c/E6K3ZG.jpg",
+    "title": "Christmas in Terrorist Town",
+    "video": null,
+    "scrapeWords": [
+      "Christmas",
+      "in",
+      "Terrorist",
+      "Town"
+    ]
+  },
+  {
+    "author": "RustyStriker",
+    "description": "Made for the Godot Wild Jam 16: Short on Time",
+    "genre": "Platformer",
+    "id": "535581",
+    "link": "https://rustystriker.itch.io/shrinky-the-rabbit",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODQ1ODAucG5n/315x250%23c/FRlpbc.png",
+    "title": "Shrinky The Rabbit",
+    "video": null,
+    "scrapeWords": [
+      "Shrinky",
+      "The",
+      "Rabbit"
+    ]
+  },
+  {
+    "author": "blatalzar",
+    "description": "Help Santa get his gifts to the children and avoid Krampus underlings!",
+    "genre": "Racing",
+    "id": "535607",
+    "link": "https://blatalzar.itch.io/santa-vs-krampus",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3ODcwNDEucG5n/315x250%23c/4UwqZz.png",
+    "title": "Santa VS Krampus",
+    "video": null,
+    "scrapeWords": [
+      "Santa",
+      "VS",
+      "Krampus"
+    ]
+  },
+  {
+    "author": "ELginas",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "535620",
+    "link": "https://elginas.itch.io/move-and-nobody-explodes",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODQ4MjMucG5n/315x250%23c/W04Glu.png",
+    "title": "Move and nobody explodes",
+    "video": null,
+    "scrapeWords": [
+      "Move",
+      "and",
+      "nobody",
+      "explodes"
+    ]
+  },
+  {
+    "author": "Olaf007",
+    "description": "Stay in the timeslope, and create a Chrismas Poem!",
+    "genre": "Visual Novel",
+    "id": "535649",
+    "link": "https://olaf007.itch.io/a-chrismas-poem",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg3MTgucG5n/315x250%23c/BjE0tH.png",
+    "title": "A Christmas Poem",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Christmas",
+      "Poem"
+    ]
+  },
+  {
+    "author": "pyrbin",
+    "description": "Help Santa make toys for the needy whippersnappers",
+    "genre": null,
+    "id": "535707",
+    "link": "https://pyrbin.itch.io/santas-is-workshop",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODUyOTUucG5n/315x250%23c/p%2FMKyu.png",
+    "title": "Santa Is Workshop",
+    "video": null,
+    "scrapeWords": [
+      "Santa",
+      "Is",
+      "Workshop"
+    ]
+  },
+  {
+    "author": "Ereborn",
+    "description": "To get back home, give your best performance!",
+    "genre": "Rhythm",
+    "id": "535730",
+    "link": "https://ereborn.itch.io/christmas-in-paris",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODU1MDMucG5n/315x250%23c/BT9G%2FR.png",
+    "title": "Christmas in Paris",
+    "video": null,
+    "scrapeWords": [
+      "Christmas",
+      "in",
+      "Paris"
+    ]
+  },
+  {
+    "author": "Vercyx",
+    "description": "A fast-paced, action packed top-down 2d shooter where you blast angry children with presents at high velocities",
+    "genre": "Action",
+    "id": "535896",
+    "link": "https://vercyx.itch.io/santa-blaster",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODY0OTYucG5n/315x250%23c/RGazbv.png",
+    "title": "Santa Blaster",
+    "video": null,
+    "scrapeWords": [
+      "Santa",
+      "Blaster"
+    ]
+  },
+  {
+    "author": "sheodox",
+    "description": "Help Santa dig up all the presents that got burried in the snow!",
+    "genre": "Action",
+    "id": "535916",
+    "link": "https://sheodox.itch.io/diggy-diggy-santa",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3ODY1NzEucG5n/315x250%23c/9anbHa.png",
+    "title": "Diggy Diggy Santa",
+    "video": null,
+    "scrapeWords": [
+      "Diggy",
+      "Diggy",
+      "Santa"
+    ]
+  },
+  {
+    "author": "opl",
+    "description": "For the greater good!",
+    "genre": "Puzzle",
+    "id": "535954",
+    "link": "https://im-opl.itch.io/thieve",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODY3NzYucG5n/315x250%23c/s3SI8D.png",
+    "title": "THIEVE",
+    "video": null,
+    "scrapeWords": [
+      "THIEVE"
+    ]
+  },
+  {
+    "author": "MVP Good Games Easy",
+    "description": "Little Christmas Game with local multiplayer. Grab as many presents as you can!",
+    "genre": "Action",
+    "id": "535986",
+    "link": "https://mvpggez.itch.io/pinch-giving",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODcxMTcucG5n/315x250%23c/0bhaKl.png",
+    "title": "Pinch Giving",
+    "video": null,
+    "scrapeWords": [
+      "Pinch",
+      "Giving"
+    ]
+  },
+  {
+    "author": "4Digit",
+    "description": "Escape the zombie horde",
+    "genre": "Shooter",
+    "id": "536203",
+    "link": "https://4digit.itch.io/short-on-time",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3ODc3OTkucG5n/315x250%23c/cuBv0B.png",
+    "title": "Short On Time",
+    "video": null,
+    "scrapeWords": [
+      "Short",
+      "On",
+      "Time"
+    ]
+  },
+  {
+    "author": "brandonhare",
+    "description": "throw em around",
+    "genre": "Simulation",
+    "id": "536234",
+    "link": "https://brandonhare.itch.io/cubes-on-the-floor",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODgyODkucG5n/315x250%23c/OcKpJI.png",
+    "title": "cubes on the floor",
+    "video": null,
+    "scrapeWords": [
+      "cubes",
+      "on",
+      "the",
+      "floor"
+    ]
+  },
+  {
+    "author": "GreenBeakCrow",
+    "description": "To reach the exit you literally have to walk over your dead body.",
+    "genre": "Puzzle",
+    "id": "536312",
+    "link": "https://greenbeakcrow.itch.io/over-my-dead-body",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg0OTYucG5n/315x250%23c/ovoZ9B.png",
+    "title": "Over My Dead Body",
+    "video": null,
+    "scrapeWords": [
+      "Over",
+      "My",
+      "Dead",
+      "Body"
+    ]
+  },
+  {
+    "author": "newmoonfestival",
+    "description": "Destroy hostile submarines!",
+    "genre": "Action",
+    "id": "536314",
+    "link": "https://newmoonfestival.itch.io/sub-hunter",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODgzNDYucG5n/315x250%23c/ghW7OX.png",
+    "title": "Sub hunter",
+    "video": null,
+    "scrapeWords": [
+      "Sub",
+      "hunter"
+    ]
+  },
+  {
+    "author": "jlothamer",
+    "description": "Shorty the Elf in his new job at Santa's Workshop",
+    "genre": "Simulation",
+    "id": "536324",
+    "link": "https://jlothamer.itch.io/shorty-on-time",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg0MDIucG5n/315x250%23c/JeiBA2.png",
+    "title": "Shorty on Time",
+    "video": null,
+    "scrapeWords": [
+      "Shorty",
+      "on",
+      "Time"
+    ]
+  },
+  {
+    "author": "Golden",
+    "description": "Puzzle Platformer with a retro look",
+    "genre": "Puzzle",
+    "id": "536339",
+    "link": "https://goldenapples.itch.io/fort-robot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg0NTQucG5n/315x250%23c/PotDjm.png",
+    "title": "Fort Robot",
+    "video": null,
+    "scrapeWords": [
+      "Fort",
+      "Robot"
+    ]
+  },
+  {
+    "author": "Inglo Games",
+    "description": "Bah!  Let it rot.",
+    "genre": "Action",
+    "id": "536371",
+    "link": "https://inglo-games.itch.io/lifetoll",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg2NjcuanBn/315x250%23c/QvFvfm.jpg",
+    "title": "Lifetoll",
+    "video": null,
+    "scrapeWords": [
+      "Lifetoll"
+    ]
+  },
+  {
+    "author": "Willowblade",
+    "description": "Short puzzle game about a girl searching for answers.",
+    "genre": "Puzzle",
+    "id": "536451",
+    "link": "https://willowblade.itch.io/re-memory",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODk0NDYucG5n/315x250%23c/twm4%2FK.png",
+    "title": "Re: Memory",
+    "video": null,
+    "scrapeWords": [
+      "Re",
+      "Memory"
+    ]
+  },
+  {
+    "author": "Red Alpha",
+    "description": null,
+    "genre": null,
+    "id": "536592",
+    "link": "https://red-alpha-studios.itch.io/phase",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODk4MTUucG5n/315x250%23c/qg72d7.png",
+    "title": "Phase",
+    "video": null,
+    "scrapeWords": [
+      "Phase"
     ]
   },
   {
