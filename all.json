@@ -4995,7 +4995,7 @@
     ]
   },
   {
-    "author": "gdquest",
+    "author": "GDQuest",
     "description": "Ludum dare 40 compo with Godot 3 beta",
     "genre": null,
     "id": "201287",
@@ -12645,7 +12645,7 @@
     ]
   },
   {
-    "author": "gdquest",
+    "author": "GDQuest",
     "description": "Just a toy: a character controller with 4 fire-based weapons for the Godot jam.",
     "genre": null,
     "id": "270360",
@@ -44640,11 +44640,15 @@
   },
   {
     "author": "Le Professeur Stagiaire",
-    "description": null,
+    "description": "a dodging game made with Godot Egine made in 3 days",
     "genre": null,
     "id": "520881",
     "link": "https://le-professeur-stagiaire.itch.io/missile",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3MTkzNDkucG5n/315x250%23c/4OSo6x.png",
     "title": "Missile",
     "video": null,
@@ -45286,11 +45290,14 @@
   },
   {
     "author": "Le Professeur Stagiaire",
-    "description": null,
+    "description": "a simple drag and drop game made with Godot Engine in 2 days",
     "genre": "Puzzle",
     "id": "527751",
     "link": "https://le-professeur-stagiaire.itch.io/drag-and-clips",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3NDIxNDgucG5n/315x250%23c/o70Cbv.png",
     "title": "Drag and Clips",
     "video": null,
@@ -45321,7 +45328,7 @@
   },
   {
     "author": "Yalo",
-    "description": "A simple board game made in Kenya",
+    "description": "A simple Kenyan board game",
     "genre": "Puzzle",
     "id": "528320",
     "link": "https://yalo-brad.itch.io/deski",
@@ -45633,6 +45640,22 @@
     ]
   },
   {
+    "author": "Stagfoo",
+    "description": "Complete the ramen, egg in ramen or ramen on egg",
+    "genre": "Puzzle",
+    "id": "532303",
+    "link": "https://stagfoo.itch.io/tamago-san",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3Njc3MTYuanBn/315x250%23c/hGDfjx.jpg",
+    "title": "Tamago-san",
+    "video": null,
+    "scrapeWords": [
+      "Tamago-san"
+    ]
+  },
+  {
     "author": "AniMerrill Productions",
     "description": "Top down shooter where you have to kill evil interlopers and save the multiverse!",
     "genre": "Shooter",
@@ -45648,6 +45671,42 @@
     "video": null,
     "scrapeWords": [
       "Timeshifter"
+    ]
+  },
+  {
+    "author": "AzuleGames",
+    "description": "Solve the puzzle by exploring and obtaining resources in a cubic world",
+    "genre": "Puzzle",
+    "id": "532898",
+    "link": "https://azulegames.itch.io/pocketworlds",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3ODkzMDQucG5n/315x250%23c/YKsuYw.png",
+    "title": "PocketWorlds - Explore the cubic worlds",
+    "video": null,
+    "scrapeWords": [
+      "Pocket",
+      "Worlds",
+      "Explore",
+      "the",
+      "cubic",
+      "worlds"
+    ]
+  },
+  {
+    "author": "✨charly✨",
+    "description": "3d hamsterball platformer game",
+    "genre": "Platformer",
+    "id": "533286",
+    "link": "https://sleepycharlyy.itch.io/go-babsi",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NzUxMDYucG5n/315x250%23c/mDWfcJ.png",
+    "title": "go! BABSI",
+    "video": null,
+    "scrapeWords": [
+      "go",
+      "BABSI"
     ]
   },
   {
@@ -46017,7 +46076,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3ODY3NzYucG5n/315x250%23c/s3SI8D.png",
+    "thumb": "https://img.itch.zone/aW1nLzI3OTEwNTgucG5n/315x250%23c/P7hQ1v.png",
     "title": "THIEVE",
     "video": null,
     "scrapeWords": [
@@ -46048,7 +46107,10 @@
     "genre": "Shooter",
     "id": "536203",
     "link": "https://4digit.itch.io/short-on-time",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3ODc3OTkucG5n/315x250%23c/cuBv0B.png",
     "title": "Short On Time",
     "video": null,
@@ -46079,13 +46141,32 @@
     ]
   },
   {
+    "author": "Wagner GFX",
+    "description": "Get all the tokens before you car run out of fuel",
+    "genre": "Racing",
+    "id": "536252",
+    "link": "https://gfx5000i.itch.io/wild-race",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODgzNjQucG5n/315x250%23c/Y%2ByYo5.png",
+    "title": "Wild Race",
+    "video": null,
+    "scrapeWords": [
+      "Wild",
+      "Race"
+    ]
+  },
+  {
     "author": "GreenBeakCrow",
     "description": "To reach the exit you literally have to walk over your dead body.",
     "genre": "Puzzle",
     "id": "536312",
     "link": "https://greenbeakcrow.itch.io/over-my-dead-body",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI3ODg0OTYucG5n/315x250%23c/ovoZ9B.png",
     "title": "Over My Dead Body",
@@ -46168,6 +46249,23 @@
     ]
   },
   {
+    "author": "zondarg",
+    "description": "Watch over the Centauri Terraforming Site",
+    "genre": "Shooter",
+    "id": "536384",
+    "link": "https://zondarg.itch.io/omega-patrol-demo",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg3NjgucG5n/315x250%23c/0RbLXy.png",
+    "title": "Omega Patrol (demo)",
+    "video": null,
+    "scrapeWords": [
+      "Omega",
+      "Patrol"
+    ]
+  },
+  {
     "author": "Willowblade",
     "description": "Short puzzle game about a girl searching for answers.",
     "genre": "Puzzle",
@@ -46186,7 +46284,7 @@
     ]
   },
   {
-    "author": "Red Alpha",
+    "author": "Red Alpha Studios",
     "description": null,
     "genre": null,
     "id": "536592",
@@ -46201,6 +46299,37 @@
     "video": null,
     "scrapeWords": [
       "Phase"
+    ]
+  },
+  {
+    "author": "Presepeiro",
+    "description": "Over Seas - Versão da Noord Game Jam 2019",
+    "genre": null,
+    "id": "536953",
+    "link": "https://presepeiro.itch.io/over-seas-noord-game-jam-2019",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3OTIwODguanBn/315x250%23c/vxuF1Q.jpg",
+    "title": "Over Seas",
+    "video": null,
+    "scrapeWords": [
+      "Over",
+      "Seas"
+    ]
+  },
+  {
+    "author": "frances",
+    "description": "Relax by changing colors with arrow keys.",
+    "genre": "Puzzle",
+    "id": "537134",
+    "link": "https://frances.itch.io/color-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3OTMwNDkuZ2lm/315x250%23cm/WEoZlB.gif",
+    "title": "Color Changing Toy",
+    "video": "https://img.itch.zone/aW1nLzI3OTMwNDkuZ2lm/original/UNwr9D.gif",
+    "scrapeWords": [
+      "Color",
+      "Changing",
+      "Toy"
     ]
   },
   {
