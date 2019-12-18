@@ -3142,6 +3142,20 @@
     ]
   },
   {
+    "author": "Enric Llagostera",
+    "description": "A contemplative world-building game.",
+    "genre": "Simulation",
+    "id": "1746",
+    "link": "https://enricllagostera.itch.io/gardenia",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3ODA2NDUuZ2lm/315x250%23cm/7xo3OE.gif",
+    "title": "Gardenia",
+    "video": "https://img.itch.zone/aW1nLzI3ODA2NDUuZ2lm/original/ZbIcoE.gif",
+    "scrapeWords": [
+      "Gardenia"
+    ]
+  },
+  {
     "author": "Nutr1z",
     "description": "For the Dragon Game jam 2017, theme : \"Space and Sea\"",
     "genre": "Platformer",
@@ -22923,6 +22937,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
@@ -39464,25 +39495,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Truffelbaguette",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -45679,7 +45691,10 @@
     "genre": "Puzzle",
     "id": "532898",
     "link": "https://azulegames.itch.io/pocketworlds",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3ODkzMDQucG5n/315x250%23c/YKsuYw.png",
     "title": "PocketWorlds - Explore the cubic worlds",
     "video": null,
@@ -46330,6 +46345,24 @@
       "Color",
       "Changing",
       "Toy"
+    ]
+  },
+  {
+    "author": "CatFRCode",
+    "description": "Count A Basic Math !",
+    "genre": "Educational",
+    "id": "537753",
+    "link": "https://catfrcode.itch.io/calculacore",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3OTY2MzMucG5n/315x250%23c/8A3IZJ.png",
+    "title": "CalculaCore",
+    "video": null,
+    "scrapeWords": [
+      "Calcula",
+      "Core"
     ]
   },
   {
