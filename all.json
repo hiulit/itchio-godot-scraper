@@ -23342,11 +23342,11 @@
     ]
   },
   {
-    "author": "Bagdev",
+    "author": "BagDev Studios",
     "description": "Coxinha Hero is a platform game where \"Hero\", the protagonist, begins an adventure through the Coxinhas Empire.",
     "genre": "Platformer",
     "id": "351359",
-    "link": "https://bagdev.itch.io/coxinhahero",
+    "link": "https://bagdev-studios.itch.io/coxinhahero",
     "platforms": [
       "macOS"
     ],
@@ -45695,9 +45695,9 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3ODkzMDQucG5n/315x250%23c/YKsuYw.png",
+    "thumb": "https://img.itch.zone/aW1nLzI4MDAwNTUuZ2lm/315x250%23cm/aBlr8D.gif",
     "title": "PocketWorlds - Explore the cubic worlds",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI4MDAwNTUuZ2lm/original/mbSNr9.gif",
     "scrapeWords": [
       "Pocket",
       "Worlds",
@@ -45705,6 +45705,23 @@
       "the",
       "cubic",
       "worlds"
+    ]
+  },
+  {
+    "author": "kianaj",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "533094",
+    "link": "https://kianaj.itch.io/word-hero",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NzE3NzIucG5n/315x250%23c/srkBCP.png",
+    "title": "WORD Hero",
+    "video": null,
+    "scrapeWords": [
+      "WORD",
+      "Hero"
     ]
   },
   {
@@ -45785,7 +45802,8 @@
     "id": "533900",
     "link": "https://domedvortex.itch.io/hard-helly",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI3NzkwNTEucG5n/315x250%23c/Ju41ct.png",
     "title": "Hard Helly",
@@ -45875,11 +45893,11 @@
     ]
   },
   {
-    "author": "Bagdev",
+    "author": "BagDev Studios",
     "description": "The day of the metero has arrived. But hope lives in the heart  of every dinosaur armed to the teeth.",
     "genre": "Platformer",
     "id": "535453",
-    "link": "https://bagdev.itch.io/not-today-extinction",
+    "link": "https://bagdev-studios.itch.io/not-today-extinction",
     "platforms": [
       "Windows"
     ],
@@ -46363,6 +46381,78 @@
     "scrapeWords": [
       "Calcula",
       "Core"
+    ]
+  },
+  {
+    "author": "Snufkeen",
+    "description": "Santa doesn't want good presents for you.",
+    "genre": "Platformer",
+    "id": "538032",
+    "link": "https://anilbk.itch.io/bad-santa",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3OTgxMDcucG5n/315x250%23c/q6Xw9X.png",
+    "title": "Bad Santa",
+    "video": null,
+    "scrapeWords": [
+      "Bad",
+      "Santa"
+    ]
+  },
+  {
+    "author": "kianaj",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "538080",
+    "link": "https://kianaj.itch.io/diceways",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3OTgyODMucG5n/315x250%23c/KqpxhN.png",
+    "title": "DiceWays",
+    "video": null,
+    "scrapeWords": [
+      "Dice",
+      "Ways"
+    ]
+  },
+  {
+    "author": "nwarcord",
+    "description": "A short, simple game about taxes.",
+    "genre": null,
+    "id": "538183",
+    "link": "https://nwarcord.itch.io/death-taxes",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3OTg5NTAucG5n/315x250%23c/w0Bimb.png",
+    "title": "Death and Taxes",
+    "video": null,
+    "scrapeWords": [
+      "Death",
+      "and",
+      "Taxes"
+    ]
+  },
+  {
+    "author": "kabrewme",
+    "description": "Fix the pixel game jam project",
+    "genre": null,
+    "id": "538328",
+    "link": "https://kabrewme.itch.io/fix-it-please-127",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3OTk2MzQuanBn/315x250%23c/jymDRi.jpg",
+    "title": "Fix It Please!",
+    "video": null,
+    "scrapeWords": [
+      "Fix",
+      "It",
+      "Please"
     ]
   },
   {
