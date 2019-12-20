@@ -17674,23 +17674,6 @@
     ]
   },
   {
-    "author": "DoubleOThu",
-    "description": "Fight snakes and skeletons! Short first game.",
-    "genre": "Platformer",
-    "id": "304258",
-    "link": "https://doubleothu.itch.io/tinyknight",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMzA0MjU4LzE0OTEyOTYucG5n/315x250%23c/vWTM9H.png",
-    "title": "TinyKnight",
-    "video": null,
-    "scrapeWords": [
-      "Tiny",
-      "Knight"
-    ]
-  },
-  {
     "author": "oioiTheThird",
     "description": "Platform game with retro aesthetic. Find your way out",
     "genre": "Platformer",
@@ -20900,26 +20883,6 @@
     ]
   },
   {
-    "author": "timokoesters",
-    "description": "A restaurant killing everyone who wants to give a bad rating",
-    "genre": null,
-    "id": "331707",
-    "link": "https://timokoesters.itch.io/bad-service",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE2NDIwMzMucG5n/315x250%23c/bdT5De.png",
-    "title": "Bad Service",
-    "video": null,
-    "scrapeWords": [
-      "Bad",
-      "Service"
-    ]
-  },
-  {
     "author": "paradigmo",
     "description": "3D Survival game set in a not so distant future",
     "genre": "Survival",
@@ -22934,23 +22897,6 @@
       "be",
       "a",
       "Triangle"
-    ]
-  },
-  {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -30668,24 +30614,6 @@
     "video": null,
     "scrapeWords": [
       "Racer"
-    ]
-  },
-  {
-    "author": "Blue Attire",
-    "description": "not quite metroid, not quite cave story.  ANTINY.",
-    "genre": "Adventure",
-    "id": "417476",
-    "link": "https://bravemind.itch.io/antiny",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwNzcxNDgucG5n/315x250%23c/qvB3xS.png",
-    "title": "ANTINY",
-    "video": null,
-    "scrapeWords": [
-      "ANTINY"
     ]
   },
   {
@@ -39495,6 +39423,25 @@
     ]
   },
   {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "Truffelbaguette",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -46314,6 +46261,25 @@
     "scrapeWords": [
       "Re",
       "Memory"
+    ]
+  },
+  {
+    "author": "Deledrius",
+    "description": "A Game of Christmas Deliveries",
+    "genre": "Action",
+    "id": "536463",
+    "link": "https://deledrius.itch.io/santatime",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg5OTMucG5n/315x250%23c/cZR3V0.png",
+    "title": "SantaTime",
+    "video": null,
+    "scrapeWords": [
+      "Santa",
+      "Time"
     ]
   },
   {
