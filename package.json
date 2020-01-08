@@ -17,5 +17,8 @@
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.1",
     "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
