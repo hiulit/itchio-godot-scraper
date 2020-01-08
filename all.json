@@ -29188,7 +29188,7 @@
     ]
   },
   {
-    "author": "nivrad00",
+    "author": "Niv 🦌",
     "description": "a slice-of-death adventure",
     "genre": "Visual Novel",
     "id": "408890",
@@ -47401,20 +47401,6 @@
     ]
   },
   {
-    "author": "Jack LaLonde",
-    "description": "Race and explore on an open island",
-    "genre": "Racing",
-    "id": "542990",
-    "link": "https://jlalonde.itch.io/coast",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4NDk2NTkucG5n/315x250%23c/ArjJG%2B.png",
-    "title": "Coast",
-    "video": null,
-    "scrapeWords": [
-      "Coast"
-    ]
-  },
-  {
     "author": "DragMZ",
     "description": "Sokoban-like made with Godot Engine",
     "genre": "Puzzle",
@@ -47449,7 +47435,7 @@
     ]
   },
   {
-    "author": "nivrad00",
+    "author": "Niv 🦌",
     "description": "Collect stars in outer space!",
     "genre": "Platformer",
     "id": "543679",
@@ -47631,7 +47617,7 @@
   },
   {
     "author": "Positive Zero",
-    "description": "Navigate your spaceship around dangerous space debris by orbiting around planets",
+    "description": "Avoid dangerous space debris by orbiting your spaceship around planets",
     "genre": null,
     "id": "545787",
     "link": "https://positive-zero.itch.io/flappy-orbit",
@@ -47664,6 +47650,23 @@
     "scrapeWords": [
       "Cat-Lateral",
       "Damage"
+    ]
+  },
+  {
+    "author": "Kalleby Santos",
+    "description": "Made in Godot 3.1",
+    "genre": "Platformer",
+    "id": "546725",
+    "link": "https://kalleby-santos.itch.io/t-rex-game-web-version",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NTQ1MDYucG5n/315x250%23c/MQuk0J.png",
+    "title": "T-Rex Game (Web Version)",
+    "video": null,
+    "scrapeWords": [
+      "T-Rex",
+      "Game",
+      "Web",
+      "Version"
     ]
   },
   {
