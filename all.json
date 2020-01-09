@@ -45616,6 +45616,22 @@
     ]
   },
   {
+    "author": "mellowed",
+    "description": "Prototype platformer",
+    "genre": "Platformer",
+    "id": "530993",
+    "link": "https://mellowed.itch.io/this-is-easy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3NjY0NDIucG5n/315x250%23c/fPVufw.png",
+    "title": "This is easy",
+    "video": null,
+    "scrapeWords": [
+      "This",
+      "is",
+      "easy"
+    ]
+  },
+  {
     "author": "CMBT Studio",
     "description": null,
     "genre": "Platformer",
@@ -47667,6 +47683,24 @@
       "Game",
       "Web",
       "Version"
+    ]
+  },
+  {
+    "author": "frankiezafe",
+    "description": "strategy board game inspired by abalone",
+    "genre": "Strategy",
+    "id": "546759",
+    "link": "https://frankiezafe.itch.io/ormer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NTU0MzcucG5n/315x250%23c/3cGwSn.png",
+    "title": "Ormer",
+    "video": null,
+    "scrapeWords": [
+      "Ormer"
     ]
   },
   {
