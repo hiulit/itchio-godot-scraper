@@ -4302,6 +4302,20 @@
     ]
   },
   {
+    "author": "imekon",
+    "description": "Breakout sample in Godot 2.1.4",
+    "genre": null,
+    "id": "197722",
+    "link": "https://imekon.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
+    ]
+  },
+  {
     "author": "securas",
     "description": "A hack and slash roguelike winner of the Github Game Off Jam",
     "genre": "Role Playing",
@@ -14946,20 +14960,6 @@
     ]
   },
   {
-    "author": "Chuckles P.  Monkeyworth",
-    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
-    "genre": null,
-    "id": "290114",
-    "link": "https://chucklespmonkeyworth.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
-    ]
-  },
-  {
     "author": "TheVampster",
     "description": null,
     "genre": "Action",
@@ -19891,8 +19891,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE1OTMzOTguanBn/315x250%23c/4ZHXY8.jpg",
     "title": "Planetary Sanitations Inc.",
@@ -20956,7 +20955,6 @@
     "id": "332751",
     "link": "https://asheraryam.itch.io/madam",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -25713,7 +25711,6 @@
     "id": "371557",
     "link": "https://asheraryam.itch.io/new-york-cactus",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE4NjM5OTAucG5n/315x250%23c/TFGnRL.png",
@@ -28089,7 +28086,7 @@
     ]
   },
   {
-    "author": "vikinghelmet99",
+    "author": "Michael Macha",
     "description": "Asteroids, in a gravity well. Pet project of mine for the past few weeks; expect updates to it!",
     "genre": "Action",
     "id": "397671",
@@ -28890,7 +28887,7 @@
     ]
   },
   {
-    "author": "vikinghelmet99",
+    "author": "Michael Macha",
     "description": "A knight confronts a dragon on an extremely unfair staircase...",
     "genre": "Action",
     "id": "407178",
@@ -30779,7 +30776,7 @@
     ]
   },
   {
-    "author": "vikinghelmet99",
+    "author": "Michael Macha",
     "description": "Groundhog. Out of hole. Like, now.",
     "genre": "Action",
     "id": "419206",
@@ -32731,7 +32728,7 @@
     ]
   },
   {
-    "author": "vikinghelmet99",
+    "author": "Michael Macha",
     "description": "A Brief Metroidvania inspired by Edwin Abbot's Flatland",
     "genre": "Action",
     "id": "436691",
@@ -36626,7 +36623,6 @@
     "id": "462264",
     "link": "https://asheraryam.itch.io/lurking-in-the-dark",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -45884,6 +45880,27 @@
     ]
   },
   {
+    "author": "sizen",
+    "description": "A fantasy tower defense game.",
+    "genre": "Strategy",
+    "id": "533625",
+    "link": "https://sizen.itch.io/rise-of-monsters",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4MTc2OTAucG5n/315x250%23c/vkYWlo.png",
+    "title": "Rise of Monsters: Tower Defense",
+    "video": null,
+    "scrapeWords": [
+      "Rise",
+      "of",
+      "Monsters",
+      "Tower",
+      "Defense"
+    ]
+  },
+  {
     "author": "binglo",
     "description": "You see a guy walking from a corpse and desides to follow him",
     "genre": "Adventure",
@@ -47701,6 +47718,76 @@
     "video": null,
     "scrapeWords": [
       "Ormer"
+    ]
+  },
+  {
+    "author": "MrCakeChezee",
+    "description": null,
+    "genre": "Action",
+    "id": "546994",
+    "link": "https://mrcakechezee.itch.io/way-to-hell",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NTYxNDMucG5n/315x250%23c/JEtJ72.png",
+    "title": "Way To Hell",
+    "video": null,
+    "scrapeWords": [
+      "Way",
+      "To",
+      "Hell"
+    ]
+  },
+  {
+    "author": "RVenson",
+    "description": "An unfinished jam game featuring IT Crowd scene",
+    "genre": "Fighting",
+    "id": "547160",
+    "link": "https://rvenson.itch.io/real-man",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NTcwOTMucG5n/315x250%23c/KhmF%2FX.png",
+    "title": "Real Man",
+    "video": null,
+    "scrapeWords": [
+      "Real",
+      "Man"
+    ]
+  },
+  {
+    "author": "viindicater",
+    "description": null,
+    "genre": "Platformer",
+    "id": "547309",
+    "link": "https://viindicater.itch.io/snakes-breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NTgxMzYucG5n/315x250%23c/opZ4sa.png",
+    "title": "Snake's Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Snakes",
+      "Breakout"
+    ]
+  },
+  {
+    "author": "Bypell",
+    "description": "A very short christmas horror game",
+    "genre": null,
+    "id": "547374",
+    "link": "https://bypell.itch.io/no-gifts-for-christmas",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NTg4MjQucG5n/315x250%23c/K5BKyK.png",
+    "title": "No Gifts for Christmas",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Gifts",
+      "for",
+      "Christmas"
     ]
   },
   {
