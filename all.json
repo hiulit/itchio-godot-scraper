@@ -3284,7 +3284,8 @@
     "link": "https://pigdev.itch.io/kitchen-tales",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMTc2ODY2LzE1MTAyMTgucG5n/315x250%23c/hDnXN1.png",
     "title": "Kitchen Tales",
@@ -4299,20 +4300,6 @@
     "scrapeWords": [
       "Mecha",
       "Roguelike"
-    ]
-  },
-  {
-    "author": "imekon",
-    "description": "Breakout sample in Godot 2.1.4",
-    "genre": null,
-    "id": "197722",
-    "link": "https://imekon.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
     ]
   },
   {
@@ -14957,6 +14944,20 @@
       "Dare",
       "42",
       "Entry"
+    ]
+  },
+  {
+    "author": "Chuckles P.  Monkeyworth",
+    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
+    "genre": null,
+    "id": "290114",
+    "link": "https://chucklespmonkeyworth.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
     ]
   },
   {
@@ -29841,6 +29842,27 @@
     ]
   },
   {
+    "author": "cenullum",
+    "description": null,
+    "genre": "Visual Novel",
+    "id": "413297",
+    "link": "https://cenullum.itch.io/the-fountain-of-youth",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjExMzYuanBn/315x250%23c/pIgG3x.jpg",
+    "title": "The Fountain of Youth",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Fountain",
+      "of",
+      "Youth"
+    ]
+  },
+  {
     "author": "Grewoss",
     "description": "Trade your health for goods!",
     "genre": "Shooter",
@@ -34410,25 +34432,6 @@
     ]
   },
   {
-    "author": "baut",
-    "description": "Experience what Dr. Robert Scranton  experienced.",
-    "genre": null,
-    "id": "449605",
-    "link": "https://baut.itch.io/scp3001-experience",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyNzQ5MjUucG5n/315x250%23c/WrloD%2F.png",
-    "title": "SCP3001 experience",
-    "video": null,
-    "scrapeWords": [
-      "SCP3001",
-      "experience"
-    ]
-  },
-  {
     "author": "PlanetKiller",
     "description": "A vacuum, a desert planet, and everyone counting on you.",
     "genre": "Shooter",
@@ -35091,6 +35094,24 @@
     ]
   },
   {
+    "author": "FalloutFloyd",
+    "description": "What if tennis but with explosions?",
+    "genre": null,
+    "id": "454535",
+    "link": "https://falloutfloyd.itch.io/neon-tennis",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzMDYwNDkucG5n/315x250%23c/gtoHYn.png",
+    "title": "Neon: Tennis",
+    "video": null,
+    "scrapeWords": [
+      "Neon",
+      "Tennis"
+    ]
+  },
+  {
     "author": "AlexandrosKap",
     "description": "A short automation puzzle game",
     "genre": "Puzzle",
@@ -35472,6 +35493,26 @@
       "click",
       "Open",
       "source"
+    ]
+  },
+  {
+    "author": "23turtles",
+    "description": null,
+    "genre": "Adventure",
+    "id": "456904",
+    "link": "https://23turtles.itch.io/frog-fable",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNjY1ODgucG5n/315x250%23c/7hL3H4.png",
+    "title": "Frog Fable Remastered",
+    "video": null,
+    "scrapeWords": [
+      "Frog",
+      "Fable",
+      "Remastered"
     ]
   },
   {
@@ -40473,6 +40514,24 @@
     ]
   },
   {
+    "author": "maxdifraia",
+    "description": "A relaxing game about equilibrium",
+    "genre": "Puzzle",
+    "id": "486833",
+    "link": "https://maxdifraia.itch.io/tilt",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MTM5NjEucG5n/315x250%23c/Ix%2FqiY.png",
+    "title": "TILT!",
+    "video": null,
+    "scrapeWords": [
+      "TILT"
+    ]
+  },
+  {
     "author": "groove",
     "description": "A turn-based comat/adventure game about Sven: The Bearded Programmer",
     "genre": "Adventure",
@@ -41711,6 +41770,27 @@
       "Shadowy",
       "Monster",
       "Land"
+    ]
+  },
+  {
+    "author": "cenullum",
+    "description": "An Experimental Thriller Game",
+    "genre": "Adventure",
+    "id": "495362",
+    "link": "https://cenullum.itch.io/there-is-nothing-here",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjA0NDIuanBlZw==/315x250%23c/YH2vE%2B.jpeg",
+    "title": "There Is Nothing Here",
+    "video": null,
+    "scrapeWords": [
+      "There",
+      "Is",
+      "Nothing",
+      "Here"
     ]
   },
   {
@@ -44153,6 +44233,21 @@
     ]
   },
   {
+    "author": "MeowMooGames",
+    "description": "Destroy the enemy's many military bases and weapons. Currently still in active development.",
+    "genre": "Action",
+    "id": "517499",
+    "link": "https://meowmoogames.itch.io/tank-assault",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NjA0NDUucG5n/315x250%23c/KO16ij.png",
+    "title": "Tank Assault",
+    "video": null,
+    "scrapeWords": [
+      "Tank",
+      "Assault"
+    ]
+  },
+  {
     "author": "Elena G",
     "description": "Defeat all the aliens to protect your ship!",
     "genre": "Shooter",
@@ -44280,6 +44375,26 @@
     "scrapeWords": [
       "Leap",
       "Bycycle"
+    ]
+  },
+  {
+    "author": "AnythingWorks",
+    "description": "Mobile Rpg (IN DEVELOPMENT)",
+    "genre": null,
+    "id": "518042",
+    "link": "https://anythingworks.itch.io/skullgame",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTAzMTkucG5n/315x250%23c/Ag4XFn.png",
+    "title": "SkullGame",
+    "video": null,
+    "scrapeWords": [
+      "Skull",
+      "Game"
     ]
   },
   {
@@ -44518,22 +44633,6 @@
     "video": null,
     "scrapeWords": [
       "ROCPAIN"
-    ]
-  },
-  {
-    "author": "echojonas",
-    "description": "my first game",
-    "genre": "Role Playing",
-    "id": "518882",
-    "link": "https://echojonas.itch.io/angel",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2OTQ2MTQucG5n/315x250%23c/bvmzY0.png",
-    "title": "Angel",
-    "video": null,
-    "scrapeWords": [
-      "Angel"
     ]
   },
   {
@@ -45591,6 +45690,27 @@
     ]
   },
   {
+    "author": "Vicious Robot Rodent",
+    "description": "Sci-fi hell-horror roguelike on the Jupiter moon",
+    "genre": "Action",
+    "id": "530695",
+    "link": "https://chiguireitor.itch.io/ganymede-gate-reboot",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4MjE5MjQucG5n/315x250%23c/5aKnkE.png",
+    "title": "Ganymede Gate (Reboot) - Alpha Release",
+    "video": null,
+    "scrapeWords": [
+      "Ganymede",
+      "Gate",
+      "Reboot",
+      "Alpha",
+      "Release"
+    ]
+  },
+  {
     "author": "KoBeWi",
     "description": "Something something Luke, something something forces of evil.",
     "genre": "Action",
@@ -46176,8 +46296,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4MDk0NDcucG5n/315x250%23c/ideUMG.png",
     "title": "doradoro Zero",
@@ -46996,7 +47115,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MjIwNDUucG5n/315x250%23c/GQpoO1.png",
+    "thumb": "https://img.itch.zone/aW1nLzI4NjUxMzcucG5n/315x250%23c/GFz4M6.png",
     "title": "Fable Maker",
     "video": null,
     "scrapeWords": [
@@ -47632,7 +47751,7 @@
   },
   {
     "author": "Theoteno",
-    "description": "v. 0.0.0.0 (not-an-HTML-OS)",
+    "description": "v. 0.0.0.0 (meow?)",
     "genre": "Simulation",
     "id": "545762",
     "link": "https://theoteno.itch.io/mouse-os",
@@ -47721,6 +47840,22 @@
     ]
   },
   {
+    "author": "DomedVortex",
+    "description": "Dying makes you stronger!",
+    "genre": "Action",
+    "id": "546797",
+    "link": "https://domedvortex.itch.io/rage-within-rage",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NTUwNDkucG5n/315x250%23c/bJJtI4.png",
+    "title": "Rage Within Rage",
+    "video": null,
+    "scrapeWords": [
+      "Rage",
+      "Within",
+      "Rage"
+    ]
+  },
+  {
     "author": "MrCakeChezee",
     "description": null,
     "genre": "Action",
@@ -47780,7 +47915,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4NTg4MjQucG5n/315x250%23c/K5BKyK.png",
+    "thumb": "https://img.itch.zone/aW1nLzI4NjAzODgucG5n/315x250%23c/qG8xNl.png",
     "title": "No Gifts for Christmas",
     "video": null,
     "scrapeWords": [
@@ -47788,6 +47923,132 @@
       "Gifts",
       "for",
       "Christmas"
+    ]
+  },
+  {
+    "author": "DOAmaster",
+    "description": null,
+    "genre": "Simulation",
+    "id": "547897",
+    "link": "https://doamaster.itch.io/pocket-dungeon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NjgzODIuZ2lm/315x250%23cm/qd9tKJ.gif",
+    "title": "My Pocket Dungeon",
+    "video": "https://img.itch.zone/aW1nLzI4NjgzODIuZ2lm/original/2oprv1.gif",
+    "scrapeWords": [
+      "My",
+      "Pocket",
+      "Dungeon"
+    ]
+  },
+  {
+    "author": "MicroMaster",
+    "description": null,
+    "genre": "Platformer",
+    "id": "547949",
+    "link": "https://micromaster.itch.io/2d-adventure-name-may-change",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjI0MzAucG5n/315x250%23c/9XBeYR.png",
+    "title": "2D Adventure",
+    "video": null,
+    "scrapeWords": [
+      "2",
+      "D",
+      "Adventure"
+    ]
+  },
+  {
+    "author": "jmbjr",
+    "description": "Entry for Red Panda Jam",
+    "genre": "Platformer",
+    "id": "547968",
+    "link": "https://jmbjr.itch.io/a-birthday-everyday",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjI1NDkucG5n/315x250%23c/bQ9zFZ.png",
+    "title": "A Birthday Everyday",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Birthday",
+      "Everyday"
+    ]
+  },
+  {
+    "author": "pikamon025",
+    "description": "My first platformer game made with the Godot Game Engine.",
+    "genre": "Adventure",
+    "id": "548143",
+    "link": "https://pikamon025.itch.io/my-pixel-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NjM4MDMucG5n/315x250%23c/aPek6x.png",
+    "title": "My Pixel Platformer",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "Pixel",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "Cheeseness",
+    "description": "A prototype of Hive Time based on the initial 10 day jam version",
+    "genre": "Simulation",
+    "id": "548268",
+    "link": "https://cheeseness.itch.io/hive-time-prototype",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjQ2MzcucG5n/315x250%23c/Jfy3uQ.png",
+    "title": "Hive Time Jam Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Hive",
+      "Time",
+      "Jam",
+      "Prototype"
+    ]
+  },
+  {
+    "author": "pyrecraft",
+    "description": "a titled goose game about defeating a horrible goose",
+    "genre": "Action",
+    "id": "548454",
+    "link": "https://pyrecraft.itch.io/goose-hunt",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjU4NTguZ2lm/315x250%23cm/MvPyyA.gif",
+    "title": "Goose Hunt",
+    "video": "https://img.itch.zone/aW1nLzI4NjU4NTguZ2lm/original/%2Fx%2FCzT.gif",
+    "scrapeWords": [
+      "Goose",
+      "Hunt"
+    ]
+  },
+  {
+    "author": "itsraineing",
+    "description": "Tool assisted speedrun-inspired platformer",
+    "genre": "Action",
+    "id": "548954",
+    "link": "https://itsraineing.itch.io/tool-assisted",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4Njg4MjMucG5n/315x250%23c/Wm2%2FyF.png",
+    "title": "Tool Assisted",
+    "video": null,
+    "scrapeWords": [
+      "Tool",
+      "Assisted"
     ]
   },
   {
