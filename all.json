@@ -11493,21 +11493,6 @@
     ]
   },
   {
-    "author": "Damv",
-    "description": "Flappy bird pixeled",
-    "genre": "Platformer",
-    "id": "268042",
-    "link": "https://damv.itch.io/flappy-bit",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjY4MDQyLzEyOTI4NzcucG5n/315x250%23c/QjeMUy.png",
-    "title": "Flappy Bit",
-    "video": null,
-    "scrapeWords": [
-      "Flappy",
-      "Bit"
-    ]
-  },
-  {
     "author": "reightb",
     "description": "a dungeon crawler taking cues from famous hack-n-slashes",
     "genre": "Role Playing",
@@ -15359,7 +15344,7 @@
     ]
   },
   {
-    "author": "SebaSOFT!",
+    "author": "SebaSOFT! Games",
     "description": "Two player Triple Town",
     "genre": "Puzzle",
     "id": "291142",
@@ -24753,9 +24738,7 @@
     "genre": "Puzzle",
     "id": "363180",
     "link": "https://deadonarrival.itch.io/klondike-solitaire",
-    "platforms": [
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE4OTU3NDEucG5n/315x250%23c/3ZiqBZ.png",
     "title": "Klondike Solitaire",
     "video": null,
@@ -39635,24 +39618,6 @@
     ]
   },
   {
-    "author": "Coffé Junk Studio",
-    "description": "Find cities around the world and prevent others from finding them first!",
-    "genre": "Racing",
-    "id": "480751",
-    "link": "https://coffejunkstudio.itch.io/erasterra",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1ODg0MDUucG5n/315x250%23c/ISeV0l.png",
-    "title": "Erasterra",
-    "video": null,
-    "scrapeWords": [
-      "Erasterra"
-    ]
-  },
-  {
     "author": "heckin_doggo",
     "description": "Collect the movies. Become the Governator.",
     "genre": "Platformer",
@@ -43375,11 +43340,11 @@
     ]
   },
   {
-    "author": "pyrecraft",
+    "author": "Jon Topielski",
     "description": "make relevant art (or starve)",
     "genre": "Simulation",
     "id": "508829",
-    "link": "https://pyrecraft.itch.io/starving-artist",
+    "link": "https://jontopielski.itch.io/starving-artist",
     "platforms": [
       "Windows",
       "Linux",
@@ -45187,11 +45152,11 @@
     ]
   },
   {
-    "author": "pyrecraft",
+    "author": "Jon Topielski",
     "description": "when in doubt, hop about",
     "genre": "Adventure",
     "id": "526327",
-    "link": "https://pyrecraft.itch.io/hops-and-harmony",
+    "link": "https://jontopielski.itch.io/hops-and-harmony",
     "platforms": [
       "Windows",
       "Linux",
@@ -47978,6 +47943,23 @@
     ]
   },
   {
+    "author": "gamedeveloper14",
+    "description": "A game where you have to escape from a maze.",
+    "genre": "Survival",
+    "id": "548107",
+    "link": "https://gamedeveloper14.itch.io/death-maze",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjM0ODQucG5n/315x250%23c/SSB4qx.png",
+    "title": "Death Maze",
+    "video": null,
+    "scrapeWords": [
+      "Death",
+      "Maze"
+    ]
+  },
+  {
     "author": "pikamon025",
     "description": "My first platformer game made with the Godot Game Engine.",
     "genre": "Adventure",
@@ -48015,11 +47997,11 @@
     ]
   },
   {
-    "author": "pyrecraft",
+    "author": "Jon Topielski",
     "description": "a titled goose game about defeating a horrible goose",
     "genre": "Action",
     "id": "548454",
-    "link": "https://pyrecraft.itch.io/goose-hunt",
+    "link": "https://jontopielski.itch.io/goose-hunt",
     "platforms": [
       "Windows",
       "macOS"
@@ -48030,6 +48012,23 @@
     "scrapeWords": [
       "Goose",
       "Hunt"
+    ]
+  },
+  {
+    "author": "ZygZag",
+    "description": "Walking in strange the forest",
+    "genre": "Adventure",
+    "id": "548663",
+    "link": "https://zygzag.itch.io/duckintheforest",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NjcxNDUucG5n/315x250%23c/XF8Loi.png",
+    "title": "DuckInTheForest",
+    "video": null,
+    "scrapeWords": [
+      "Duck",
+      "In",
+      "The",
+      "Forest"
     ]
   },
   {
@@ -48052,6 +48051,26 @@
     ]
   },
   {
+    "author": "Do-naught Star Bureau",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "549047",
+    "link": "https://do-naught.itch.io/into-the-techbase",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NjkzMzgucG5n/315x250%23c/QqAooC.png",
+    "title": "Into The TechBase",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "The",
+      "Tech",
+      "Base"
+    ]
+  },
+  {
     "author": "CowThing",
     "description": null,
     "genre": "Action",
@@ -48066,6 +48085,25 @@
     "scrapeWords": [
       "Robot",
       "Dungeon"
+    ]
+  },
+  {
+    "author": "Damv",
+    "description": "A Flappy Bird Example Game.",
+    "genre": "Platformer",
+    "id": "549302",
+    "link": "https://damv.itch.io/flappy-beans-godot-engine",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NzEwNDAucG5n/315x250%23c/oiRx70.png",
+    "title": "Flappy Beans Godot Engine",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Beans",
+      "Godot",
+      "Engine"
     ]
   },
   {
