@@ -47518,6 +47518,22 @@
     ]
   },
   {
+    "author": "Jack LaLonde",
+    "description": "Race and explore on an open island",
+    "genre": "Racing",
+    "id": "542990",
+    "link": "https://jlalonde.itch.io/coast",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NzM1ODAucG5n/315x250%23c/ZLyHBr.png",
+    "title": "Coast",
+    "video": null,
+    "scrapeWords": [
+      "Coast"
+    ]
+  },
+  {
     "author": "DragMZ",
     "description": "Sokoban-like made with Godot Engine",
     "genre": "Puzzle",
@@ -47712,24 +47728,6 @@
       "Egress",
       "Backpacked",
       "X-ray"
-    ]
-  },
-  {
-    "author": "Theoteno",
-    "description": "v. 0.0.0.0 (meow?)",
-    "genre": "Simulation",
-    "id": "545762",
-    "link": "https://theoteno.itch.io/mouse-os",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4NDg0OTUucG5n/315x250%23c/axLK69.png",
-    "title": "Mouse-OS",
-    "video": null,
-    "scrapeWords": [
-      "Mouse-OS"
     ]
   },
   {
@@ -48104,6 +48102,44 @@
       "Beans",
       "Godot",
       "Engine"
+    ]
+  },
+  {
+    "author": "BodaMat",
+    "description": "Puzzle game made in Godot 3.2 beta 5",
+    "genre": "Puzzle",
+    "id": "549584",
+    "link": "https://bodamat.itch.io/crystalballgodot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NzI4MzUucG5n/315x250%23c/mFiZx%2F.png",
+    "title": "CrystalBall Godot",
+    "video": null,
+    "scrapeWords": [
+      "Crystal",
+      "Ball",
+      "Godot"
+    ]
+  },
+  {
+    "author": "systemsoverload",
+    "description": "A remake of the classic Qbasic demo `GORILLAS.BAS` recreated with Godot Engine",
+    "genre": "Strategy",
+    "id": "549959",
+    "link": "https://systemsoverload.itch.io/gorillas",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NzUwNTUucG5n/315x250%23c/ba8p%2FI.png",
+    "title": "Gorillas.tscn",
+    "video": null,
+    "scrapeWords": [
+      "Gorillastscn"
     ]
   },
   {
