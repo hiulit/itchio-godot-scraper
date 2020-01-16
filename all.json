@@ -40290,25 +40290,6 @@
     ]
   },
   {
-    "author": "Syndi Studios",
-    "description": "A multiplayer heist game about ghosts robbing houses.",
-    "genre": "Strategy",
-    "id": "486087",
-    "link": "https://syndi-studios.itch.io/polterheist",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MDk0OTIucG5n/315x250%23c/MJybOg.png",
-    "title": "Polterheist! (Alpha)",
-    "video": null,
-    "scrapeWords": [
-      "Polterheist",
-      "Alpha"
-    ]
-  },
-  {
     "author": "PurpleSphynx",
     "description": "Fast-food based match 3 game with story",
     "genre": "Puzzle",
@@ -46253,25 +46234,6 @@
     ]
   },
   {
-    "author": "doradoro",
-    "description": "Esta es mi primera prueba de contacto con Godot Engine",
-    "genre": null,
-    "id": "535680",
-    "link": "https://doradoro-com.itch.io/doradoro-zero",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MDk0NDcucG5n/315x250%23c/ideUMG.png",
-    "title": "doradoro Zero",
-    "video": null,
-    "scrapeWords": [
-      "doradoro",
-      "Zero"
-    ]
-  },
-  {
     "author": "pyrbin",
     "description": "Help Santa make toys for the needy whippersnappers",
     "genre": null,
@@ -47524,6 +47486,7 @@
     "id": "542990",
     "link": "https://jlalonde.itch.io/coast",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4NzM1ODAucG5n/315x250%23c/ZLyHBr.png",
@@ -47947,7 +47910,8 @@
     "id": "548107",
     "link": "https://gamedeveloper14.itch.io/death-maze",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4NjM0ODQucG5n/315x250%23c/SSB4qx.png",
     "title": "Death Maze",
@@ -48015,7 +47979,7 @@
   {
     "author": "ZygZag",
     "description": "Walking in strange the forest",
-    "genre": "Adventure",
+    "genre": "Action",
     "id": "548663",
     "link": "https://zygzag.itch.io/duckintheforest",
     "platforms": null,
@@ -48140,6 +48104,44 @@
     "video": null,
     "scrapeWords": [
       "Gorillastscn"
+    ]
+  },
+  {
+    "author": "Ashtrail",
+    "description": null,
+    "genre": "Action",
+    "id": "550239",
+    "link": "https://ashtrail.itch.io/frog-bazooka",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NzY4MTkucG5n/315x250%23c/nAcah0.png",
+    "title": "Frog Bazooka",
+    "video": null,
+    "scrapeWords": [
+      "Frog",
+      "Bazooka"
+    ]
+  },
+  {
+    "author": "JulyTheMonth",
+    "description": "Weekly Game Jam 131",
+    "genre": "Platformer",
+    "id": "550464",
+    "link": "https://julythemonth.itch.io/tony-and-the-mask",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4Nzc5NDUucG5n/315x250%23c/nJDKKq.png",
+    "title": "Tony and the Mask",
+    "video": null,
+    "scrapeWords": [
+      "Tony",
+      "and",
+      "the",
+      "Mask"
     ]
   },
   {
