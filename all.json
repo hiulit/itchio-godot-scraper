@@ -22436,12 +22436,13 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2NjAxMzkuanBn/315x250%23c/9arP%2FZ.jpg",
-    "title": "[PC] Chyrkyan Trial",
+    "title": "[PC] Chyrkyan Trial II",
     "video": null,
     "scrapeWords": [
       "[PC]",
       "Chyrkyan",
-      "Trial"
+      "Trial",
+      "II"
     ]
   },
   {
@@ -37183,6 +37184,24 @@
     ]
   },
   {
+    "author": "Risemack",
+    "description": null,
+    "genre": "Adventure",
+    "id": "463634",
+    "link": "https://risemack.itch.io/mostly-friendly-monsters",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNTMyMzkucG5n/315x250%23c/Mq13R3.png",
+    "title": "Mostly Friendly Monsters",
+    "video": null,
+    "scrapeWords": [
+      "Mostly",
+      "Friendly",
+      "Monsters"
+    ]
+  },
+  {
     "author": "Essojadojef",
     "description": null,
     "genre": "Puzzle",
@@ -45062,7 +45081,7 @@
   },
   {
     "author": "mole06",
-    "description": "Godot testing 06-12-2019",
+    "description": "Godot ROGUE GAME",
     "genre": "Adventure",
     "id": "525871",
     "link": "https://crplay.itch.io/roguelike",
@@ -47487,7 +47506,8 @@
     "link": "https://jlalonde.itch.io/coast",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4NzM1ODAucG5n/315x250%23c/ZLyHBr.png",
     "title": "Coast",
@@ -48142,6 +48162,74 @@
       "and",
       "the",
       "Mask"
+    ]
+  },
+  {
+    "author": "AUREA",
+    "description": "Demo for AUREA's Feline Game.",
+    "genre": "Platformer",
+    "id": "550582",
+    "link": "https://aureafunsoft.itch.io/feline-demo",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4Nzg1MzguanBn/315x250%23c/z0JV1l.jpg",
+    "title": "Feline - DEMO",
+    "video": null,
+    "scrapeWords": [
+      "Feline"
+    ]
+  },
+  {
+    "author": "Anipy",
+    "description": "Save The UFO is a arcade game, were you need to save the UFO by playing the role of Aliens.",
+    "genre": "Role Playing",
+    "id": "550717",
+    "link": "https://aniketambore.itch.io/save-the-ufo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4Nzk0ODUucG5n/315x250%23c/bt2XDg.png",
+    "title": "Save The UFO",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "The",
+      "UFO"
+    ]
+  },
+  {
+    "author": "zakker",
+    "description": null,
+    "genre": "Fighting",
+    "id": "550844",
+    "link": "https://zakker.itch.io/batsbatsbats",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4ODAzODEucG5n/315x250%23c/DrI8BA.png",
+    "title": "BatsBatsBats",
+    "video": null,
+    "scrapeWords": [
+      "Bats",
+      "Bats",
+      "Bats"
+    ]
+  },
+  {
+    "author": "Niv 🦌",
+    "description": "Prove your piety by typing the entire Bible!",
+    "genre": null,
+    "id": "550981",
+    "link": "https://nivrad00.itch.io/type-the-bible",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4ODE1MjgucG5n/315x250%23c/yYsHv9.png",
+    "title": "Type the Bible",
+    "video": null,
+    "scrapeWords": [
+      "Type",
+      "the",
+      "Bible"
     ]
   },
   {
