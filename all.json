@@ -7923,27 +7923,6 @@
     ]
   },
   {
-    "author": "Jiri Hysek",
-    "description": "My name is Jim. And I did something I shouldn't have.  I didn't finish my game...",
-    "genre": "Platformer",
-    "id": "243008",
-    "link": "https://jhysek.itch.io/finish-the-damn-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjQzMDA4LzExNjA2NzYucG5n/315x250%23c/CpkY8m.png",
-    "title": "Finish a Damn Game",
-    "video": null,
-    "scrapeWords": [
-      "Finish",
-      "a",
-      "Damn",
-      "Game"
-    ]
-  },
-  {
     "author": "P1X",
     "description": null,
     "genre": null,
@@ -42106,10 +42085,7 @@
     "genre": "Puzzle",
     "id": "497379",
     "link": "https://atalbi.itch.io/friend-house",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI4ODYzNjIucG5n/315x250%23c/4gexTb.png",
     "title": "Friend's House",
     "video": null,
@@ -44581,7 +44557,7 @@
     ]
   },
   {
-    "author": "HERMO",
+    "author": "hermo",
     "description": "auto arcade game with the lights off",
     "genre": null,
     "id": "519498",
@@ -48000,7 +47976,9 @@
     "id": "548468",
     "link": "https://asheraryam.itch.io/super-jungle-wrestling",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4OTYyMjEucG5n/315x250%23c/aZ%2Fz%2BB.png",
     "title": "Super Jungle Wrestling",
@@ -48304,7 +48282,8 @@
     "link": "https://nimblebeasts.itch.io/rail-n-write",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4OTE0NzUucG5n/315x250%23c/dQaaIb.png",
     "title": "Rail&Write - GWJ17",
@@ -48428,6 +48407,23 @@
     ]
   },
   {
+    "author": "tufduck",
+    "description": null,
+    "genre": null,
+    "id": "551817",
+    "link": "https://tufduck.itch.io/factory",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4ODY5MzUucG5n/315x250%23c/tddf2P.png",
+    "title": "Factory",
+    "video": null,
+    "scrapeWords": [
+      "Factory"
+    ]
+  },
+  {
     "author": "Nooh Alavi",
     "description": "Battle your friends and crown one champion in Blox Fighters!",
     "genre": "Action",
@@ -48498,6 +48494,25 @@
     ]
   },
   {
+    "author": "au-re",
+    "description": "A competitive endless runner, push obstacles on your oponent's way to get an edge",
+    "genre": "Platformer",
+    "id": "552126",
+    "link": "https://au-re.itch.io/have-it-your-way",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4ODg4NDQucG5n/315x250%23c/rsNtaz.png",
+    "title": "Have it your way",
+    "video": null,
+    "scrapeWords": [
+      "Have",
+      "it",
+      "your",
+      "way"
+    ]
+  },
+  {
     "author": "The_Moye",
     "description": null,
     "genre": "Platformer",
@@ -48554,6 +48569,23 @@
       "Box",
       "Game",
       "Hub"
+    ]
+  },
+  {
+    "author": "noterday",
+    "description": "A (very unfinished) Bunbunmaru newspaper generator.",
+    "genre": null,
+    "id": "552351",
+    "link": "https://noterday.itch.io/aya-shameimarus-very-t",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4OTA1MTcucG5n/315x250%23c/PWF4OA.png",
+    "title": "Aya Shameimaru Doesn't Lie",
+    "video": null,
+    "scrapeWords": [
+      "Aya",
+      "Shameimaru",
+      "Doesnt",
+      "Lie"
     ]
   },
   {
@@ -48734,6 +48766,29 @@
     ]
   },
   {
+    "author": "Jonas Kolodzie",
+    "description": "A little highspeed platformer",
+    "genre": "Platformer",
+    "id": "552957",
+    "link": "https://jonas-kolodzie.itch.io/clonking-around-happily-with-my-trusty-sword",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTM4MTgucG5n/315x250%23c/oWpzE5.png",
+    "title": "Clonking around happily with my trusty sword",
+    "video": null,
+    "scrapeWords": [
+      "Clonking",
+      "around",
+      "happily",
+      "with",
+      "my",
+      "trusty",
+      "sword"
+    ]
+  },
+  {
     "author": "MeTuS12",
     "description": "Platformer Puzzle Game - Use the console to break the levels so you can make some progress",
     "genre": "Puzzle",
@@ -48844,11 +48899,13 @@
     "link": "https://kenoma.itch.io/uncontained-an-scp-card-game",
     "platforms": [
       "Windows",
+      "Linux",
+      "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4OTc5MTkucG5n/315x250%23c/Zl2kXQ.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5MDA1NzEuZ2lm/315x250%23cm/rsp%2FI%2B.gif",
     "title": "Uncontained: An SCP Digital Card Game",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI5MDA1NzEuZ2lm/original/GJErK4.gif",
     "scrapeWords": [
       "Uncontained",
       "An",
@@ -48856,6 +48913,24 @@
       "Digital",
       "Card",
       "Game"
+    ]
+  },
+  {
+    "author": "gerald1248",
+    "description": "80s style shooter loosely based on Thrust and Gravitar",
+    "genre": "Action",
+    "id": "553864",
+    "link": "https://gerald1248.itch.io/hollows",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTk2NTAucG5n/315x250%23c/ExtP0w.png",
+    "title": "Hollows",
+    "video": null,
+    "scrapeWords": [
+      "Hollows"
     ]
   },
   {
