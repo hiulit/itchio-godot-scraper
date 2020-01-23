@@ -7923,6 +7923,27 @@
     ]
   },
   {
+    "author": "Jiri Hysek",
+    "description": "My name is Jim. And I did something I shouldn't have.  I didn't finish my game...",
+    "genre": "Platformer",
+    "id": "243008",
+    "link": "https://jhysek.itch.io/finish-the-damn-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjQzMDA4LzExNjA2NzYucG5n/315x250%23c/CpkY8m.png",
+    "title": "Finish a Damn Game",
+    "video": null,
+    "scrapeWords": [
+      "Finish",
+      "a",
+      "Damn",
+      "Game"
+    ]
+  },
+  {
     "author": "P1X",
     "description": null,
     "genre": null,
@@ -32897,7 +32918,11 @@
     "genre": null,
     "id": "439503",
     "link": "https://plaincrown.itch.io/blockcrasher",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI3MTY0NTUucG5n/315x250%23c/tGgHH%2B.png",
     "title": "BlockCrasher",
     "video": null,
@@ -34322,7 +34347,7 @@
   },
   {
     "author": "PlainCrown",
-    "description": "Eat, grow, and compete for high scores.",
+    "description": "Eat, grow, and try not to crash into anything.​",
     "genre": null,
     "id": "449408",
     "link": "https://plaincrown.itch.io/foodeater",
@@ -40249,6 +40274,27 @@
       "That",
       "Weird",
       "Dream"
+    ]
+  },
+  {
+    "author": "Team Syndi",
+    "description": "A multiplayer heist game about ghosts robbing houses.",
+    "genre": "Strategy",
+    "id": "486087",
+    "link": "https://team-syndi.itch.io/polterheist",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MDk0OTIucG5n/315x250%23c/MJybOg.png",
+    "title": "Polterheist! v0.4.5 (Pre-Alpha)",
+    "video": null,
+    "scrapeWords": [
+      "Polterheist",
+      "v045",
+      "Pre-Alpha"
     ]
   },
   {
@@ -46886,24 +46932,6 @@
     ]
   },
   {
-    "author": "AniMerrill Productions",
-    "description": "Recreation of the arcade classic in Godot!",
-    "genre": "Shooter",
-    "id": "540210",
-    "link": "https://animerrill.itch.io/meteoroids",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MTEwNzEucG5n/315x250%23c/SrBYGh.png",
-    "title": "Meteoroids",
-    "video": null,
-    "scrapeWords": [
-      "Meteoroids"
-    ]
-  },
-  {
     "author": "ZeroZipZilch",
     "description": null,
     "genre": "Simulation",
@@ -47181,6 +47209,23 @@
       "Game",
       "Jam",
       "128"
+    ]
+  },
+  {
+    "author": "OpenLightGames",
+    "description": null,
+    "genre": "Survival",
+    "id": "541371",
+    "link": "https://openlightgames.itch.io/craftrix",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4ODU1OTgucG5n/315x250%23c/HavkdO.png",
+    "title": "Craftrix",
+    "video": null,
+    "scrapeWords": [
+      "Craftrix"
     ]
   },
   {
@@ -47775,14 +47820,12 @@
     ]
   },
   {
-    "author": "MrCakeChezee",
+    "author": "CakeChezee",
     "description": null,
     "genre": "Action",
     "id": "546994",
-    "link": "https://mrcakechezee.itch.io/way-to-hell",
-    "platforms": [
-      "Windows"
-    ],
+    "link": "https://cakechezee.itch.io/way-to-hell",
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI4NTYxNDMucG5n/315x250%23c/JEtJ72.png",
     "title": "Way To Hell",
     "video": null,
@@ -48367,6 +48410,21 @@
     ]
   },
   {
+    "author": "ASecondGuy",
+    "description": null,
+    "genre": null,
+    "id": "551264",
+    "link": "https://asecondguy.itch.io/glitchscare",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4ODM0NzMucG5n/315x250%23c/hy1SN%2B.png",
+    "title": "Glitch Scare",
+    "video": null,
+    "scrapeWords": [
+      "Glitch",
+      "Scare"
+    ]
+  },
+  {
     "author": "kintrix",
     "description": "Bugs are bad... So let's fix them?",
     "genre": "Platformer",
@@ -48393,7 +48451,8 @@
     "id": "551560",
     "link": "https://viperreid.itch.io/chance",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4ODcxMDUuanBn/315x250%23c/JxnUPz.jpg",
     "title": "Chance ou pas de chance",
@@ -48513,6 +48572,24 @@
     ]
   },
   {
+    "author": "Ilya",
+    "description": "Labyrinth puzzle",
+    "genre": "Puzzle",
+    "id": "552193",
+    "link": "https://tfethiel.itch.io/maze-art",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MDM4OTYucG5n/315x250%23c/MY9y5g.png",
+    "title": "Maze art",
+    "video": null,
+    "scrapeWords": [
+      "Maze",
+      "art"
+    ]
+  },
+  {
     "author": "The_Moye",
     "description": null,
     "genre": "Platformer",
@@ -48595,9 +48672,7 @@
     "id": "552369",
     "link": "https://the-missing-bracket.itch.io/cyber-turtle",
     "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4OTAzMTcucG5n/315x250%23c/ANtVN0.png",
     "title": "Cyber Turtle",
@@ -48605,6 +48680,37 @@
     "scrapeWords": [
       "Cyber",
       "Turtle"
+    ]
+  },
+  {
+    "author": "isundu",
+    "description": null,
+    "genre": "Action",
+    "id": "552402",
+    "link": "https://isundu.itch.io/dsoucotsgsowrobm",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTAzNDgucG5n/315x250%23c/vzGBdT.png",
+    "title": "Dark Shadow Of Ultimate Chronicles Of The Super Ghost Samurai Of War: Rising Of Bugs Monsters",
+    "video": null,
+    "scrapeWords": [
+      "Dark",
+      "Shadow",
+      "Of",
+      "Ultimate",
+      "Chronicles",
+      "Of",
+      "The",
+      "Super",
+      "Ghost",
+      "Samurai",
+      "Of",
+      "War",
+      "Rising",
+      "Of",
+      "Bugs",
+      "Monsters"
     ]
   },
   {
@@ -48701,6 +48807,25 @@
     ]
   },
   {
+    "author": "Maxim Lebedev",
+    "description": "Anti-clicker prototype for #GodotWildJam №17",
+    "genre": null,
+    "id": "552785",
+    "link": "https://toby3d.itch.io/debt-clicker",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTIwMzcuanBn/315x250%23c/%2BDPhG8.jpg",
+    "title": "Debt Clicker",
+    "video": null,
+    "scrapeWords": [
+      "Debt",
+      "Clicker"
+    ]
+  },
+  {
     "author": "Ololbu",
     "description": null,
     "genre": null,
@@ -48744,6 +48869,26 @@
       "Bed",
       "Bugs",
       "Bite"
+    ]
+  },
+  {
+    "author": "Jon Topielski",
+    "description": "cute little puzzle game about a bug stuck in a cold place",
+    "genre": "Puzzle",
+    "id": "552926",
+    "link": "https://jontopielski.itch.io/tip-of-the-icebug",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTM2MDguZ2lm/315x250%23cm/krAwcu.gif",
+    "title": "Tip of the Icebug",
+    "video": "https://img.itch.zone/aW1nLzI4OTM2MDguZ2lm/original/h66I9C.gif",
+    "scrapeWords": [
+      "Tip",
+      "of",
+      "the",
+      "Icebug"
     ]
   },
   {
@@ -48877,6 +49022,28 @@
     ]
   },
   {
+    "author": "UltraDogges",
+    "description": "Belive me, that's really boring!",
+    "genre": "Simulation",
+    "id": "553132",
+    "link": "https://ultradogges.itch.io/rbbgs",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTQ3OTIucG5n/315x250%23c/ruTxJz.png",
+    "title": "Really Boring Board Game Simulator",
+    "video": null,
+    "scrapeWords": [
+      "Really",
+      "Boring",
+      "Board",
+      "Game",
+      "Simulator"
+    ]
+  },
+  {
     "author": "H. [polygull]",
     "description": "Stack the stack well!",
     "genre": null,
@@ -48931,6 +49098,74 @@
     "video": null,
     "scrapeWords": [
       "Hollows"
+    ]
+  },
+  {
+    "author": "yarray",
+    "description": "These are not Snakes, these are Spades (a. k. a. Spade, pluralized)",
+    "genre": "Action",
+    "id": "554063",
+    "link": "https://yarray.itch.io/spades",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MDA4NjEucG5n/315x250%23c/JYCBj5.png",
+    "title": "Spades",
+    "video": null,
+    "scrapeWords": [
+      "Spades"
+    ]
+  },
+  {
+    "author": "DataDrongo",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "554378",
+    "link": "https://datadrongo.itch.io/gravball",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MDI2ODYucG5n/315x250%23c/dbWxXJ.png",
+    "title": "GravBall",
+    "video": null,
+    "scrapeWords": [
+      "Grav",
+      "Ball"
+    ]
+  },
+  {
+    "author": "Vasilis Chonianakis",
+    "description": null,
+    "genre": "Action",
+    "id": "554469",
+    "link": "https://negator2vc.itch.io/pearl-hunter",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MDMyNDMuanBn/315x250%23c/nu1Cu%2F.jpg",
+    "title": "Pearl Hunter",
+    "video": null,
+    "scrapeWords": [
+      "Pearl",
+      "Hunter"
+    ]
+  },
+  {
+    "author": "Creatio Games",
+    "description": "Top-Down Shooter with Deck-Building Element",
+    "genre": "Action",
+    "id": "554597",
+    "link": "https://creatio-games.itch.io/ichr",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5MDQxMjEucG5n/315x250%23c/F4Nr2g.png",
+    "title": "Project ICHR",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "ICHR"
     ]
   },
   {
