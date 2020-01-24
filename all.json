@@ -17953,22 +17953,6 @@
     ]
   },
   {
-    "author": "GDP UFRJ",
-    "description": "Jogo do Grupo I - Processo Seletivo 2018",
-    "genre": null,
-    "id": "305568",
-    "link": "https://gdpufrj.itch.io/ampulheta",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMzA1NTY4LzE1MDI2NDEucG5n/315x250%23c/CO%2FVdj.png",
-    "title": "Ampulheta",
-    "video": null,
-    "scrapeWords": [
-      "Ampulheta"
-    ]
-  },
-  {
     "author": "dalton5000",
     "description": "Escape from Daltonga Island",
     "genre": "Puzzle",
@@ -23635,6 +23619,24 @@
     "video": "https://img.itch.zone/aW1nLzE3ODA2NDcuZ2lm/original/MhQlL5.gif",
     "scrapeWords": [
       "Knak"
+    ]
+  },
+  {
+    "author": "Jamep",
+    "description": null,
+    "genre": null,
+    "id": "356745",
+    "link": "https://jamep.itch.io/dodgeout",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3ODQzNTEuZ2lm/315x250%23cm/tLjkJB.gif",
+    "title": "Dodgeout",
+    "video": "https://img.itch.zone/aW1nLzE3ODQzNTEuZ2lm/original/cSwdZh.gif",
+    "scrapeWords": [
+      "Dodgeout"
     ]
   },
   {
@@ -49166,6 +49168,23 @@
     "scrapeWords": [
       "Project",
       "ICHR"
+    ]
+  },
+  {
+    "author": "zarifdesanta",
+    "description": "Lost in space",
+    "genre": "Platformer",
+    "id": "554700",
+    "link": "https://zarifdesanta.itch.io/planet-pico",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MDQ4MTEucG5n/315x250%23c/hlOXIg.png",
+    "title": "Planet Pico",
+    "video": null,
+    "scrapeWords": [
+      "Planet",
+      "Pico"
     ]
   },
   {
