@@ -27246,7 +27246,7 @@
   },
   {
     "author": "dalton5000",
-    "description": "Alpha Version des Flummi Open Games",
+    "description": "Flummi Controlled Aracade Racer for Flummi Open",
     "genre": "Racing",
     "id": "383335",
     "link": "https://dalton5000.itch.io/f-hero",
@@ -36617,6 +36617,7 @@
     "id": "462264",
     "link": "https://asheraryam.itch.io/lurking-in-the-dark",
     "platforms": [
+      "Windows",
       "Linux",
       "macOS"
     ],
@@ -43709,11 +43710,11 @@
     ]
   },
   {
-    "author": "Ice Pixel Team",
+    "author": "Ice Pixel Games",
     "description": "A hardcore space shooter. Can you survive for 180 seconds?",
     "genre": "Shooter",
     "id": "511760",
-    "link": "https://icepixelteam.itch.io/vacuum",
+    "link": "https://icepixelgames.itch.io/vacuum",
     "platforms": [
       "Windows",
       "Linux"
@@ -46568,7 +46569,7 @@
     ]
   },
   {
-    "author": "Presepeiro",
+    "author": "Presepeiro by Jorge Maranhão",
     "description": "Over Seas - Versão da Noord Game Jam 2019",
     "genre": null,
     "id": "536953",
@@ -46631,23 +46632,6 @@
     "scrapeWords": [
       "Calcula",
       "Core"
-    ]
-  },
-  {
-    "author": "Snufkeen",
-    "description": "Santa doesn't want good presents for you.",
-    "genre": "Platformer",
-    "id": "538032",
-    "link": "https://anilbk.itch.io/bad-santa",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI3OTgxMDcucG5n/315x250%23c/q6Xw9X.png",
-    "title": "Bad Santa",
-    "video": null,
-    "scrapeWords": [
-      "Bad",
-      "Santa"
     ]
   },
   {
@@ -47308,7 +47292,7 @@
     ]
   },
   {
-    "author": "PkmnLovar",
+    "author": "Candy Night",
     "description": "A short simulation game where your tasked with helping people achieve their New Year's resolutions.",
     "genre": "Simulation",
     "id": "541655",
@@ -47656,6 +47640,21 @@
       "Happy",
       "Little",
       "Trees"
+    ]
+  },
+  {
+    "author": "Dorthu",
+    "description": "A collab game-in-progress",
+    "genre": "Adventure",
+    "id": "545681",
+    "link": "https://dorthu.itch.io/working-title",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5MTIwNDUucG5n/315x250%23c/wfbaJ1.png",
+    "title": "Working Title",
+    "video": null,
+    "scrapeWords": [
+      "Working",
+      "Title"
     ]
   },
   {
@@ -48501,15 +48500,15 @@
   },
   {
     "author": "jhonnystene",
-    "description": null,
-    "genre": null,
+    "description": "A 2D survival game. Early alpha.",
+    "genre": "Survival",
     "id": "551990",
     "link": "https://jhonnystene.itch.io/enigma",
     "platforms": [
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4OTA5MTcucG5n/315x250%23c/D%2FBRlC.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5MTIxNzEucG5n/315x250%23c/jm%2Bt2f.png",
     "title": "Enigma",
     "video": null,
     "scrapeWords": [
@@ -49061,6 +49060,27 @@
     ]
   },
   {
+    "author": "TehMerow",
+    "description": "Walking around in the middle of the night can be quite unnerving.",
+    "genre": null,
+    "id": "553535",
+    "link": "https://tehmerow.itch.io/a-walk-in-the-woods",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTc1NDkucG5n/315x250%23c/OeVBlz.png",
+    "title": "A Walk in the Woods",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Walk",
+      "in",
+      "the",
+      "Woods"
+    ]
+  },
+  {
     "author": "Kenomic Games",
     "description": "Can you contain all anomalies against your friends?",
     "genre": "Card Game",
@@ -49145,29 +49165,15 @@
     "id": "554469",
     "link": "https://negator2vc.itch.io/pearl-hunter",
     "platforms": [
+      "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5MDMyNDMuanBn/315x250%23c/nu1Cu%2F.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzI5MDgyNzAucG5n/315x250%23c/7ID1LO.png",
     "title": "Pearl Hunter",
     "video": null,
     "scrapeWords": [
       "Pearl",
       "Hunter"
-    ]
-  },
-  {
-    "author": "Creatio Games",
-    "description": "Top-Down Shooter with Deck-Building Element",
-    "genre": "Action",
-    "id": "554597",
-    "link": "https://creatio-games.itch.io/ichr",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI5MDQxMjEucG5n/315x250%23c/F4Nr2g.png",
-    "title": "Project ICHR",
-    "video": null,
-    "scrapeWords": [
-      "Project",
-      "ICHR"
     ]
   },
   {
@@ -49185,6 +49191,157 @@
     "scrapeWords": [
       "Planet",
       "Pico"
+    ]
+  },
+  {
+    "author": "ZygZag",
+    "description": "Walking Duck in the  forest in 3D",
+    "genre": "Action",
+    "id": "555203",
+    "link": "https://zygzag.itch.io/duck-look-for-luck",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MDc4NzIucG5n/315x250%23c/q7RW88.png",
+    "title": "DUCK look for luck!",
+    "video": null,
+    "scrapeWords": [
+      "DUCK",
+      "look",
+      "for",
+      "luck"
+    ]
+  },
+  {
+    "author": "Iddmeister",
+    "description": "Brawl Stars Rip Off",
+    "genre": "Fighting",
+    "id": "555844",
+    "link": "https://iddmeister.itch.io/bad-stars",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MTIyNDEucG5n/315x250%23c/7vJ7Qn.png",
+    "title": "Bad Stars",
+    "video": null,
+    "scrapeWords": [
+      "Bad",
+      "Stars"
+    ]
+  },
+  {
+    "author": "DOAmaster",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "556037",
+    "link": "https://doamaster.itch.io/space-judge",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5MTMxOTAucG5n/315x250%23c/3g4A5n.png",
+    "title": "Space Judge",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Judge"
+    ]
+  },
+  {
+    "author": "Dmitry Mozgin",
+    "description": "A 2D physics puzzle",
+    "genre": "Puzzle",
+    "id": "556373",
+    "link": "https://m039.itch.io/uncontrollable-stick-prototype",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MTU3NzEucG5n/315x250%23c/OUwdIQ.png",
+    "title": "Uncontrollable Stick",
+    "video": null,
+    "scrapeWords": [
+      "Uncontrollable",
+      "Stick"
+    ]
+  },
+  {
+    "author": "yammosk",
+    "description": "Learn from your mistakes and roll the hard six",
+    "genre": "Action",
+    "id": "556414",
+    "link": "https://yammosk.itch.io/roll-the-hard-six",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MTU5OTQucG5n/315x250%23c/ZdaRad.png",
+    "title": "Sometimes you gotta roll the hard six",
+    "video": null,
+    "scrapeWords": [
+      "Sometimes",
+      "you",
+      "gotta",
+      "roll",
+      "the",
+      "hard",
+      "six"
+    ]
+  },
+  {
+    "author": "SweeneyXx",
+    "description": "Steal all of the diamonds from their rightful owner, Rex, if he hears you, hide!!",
+    "genre": "Puzzle",
+    "id": "556676",
+    "link": "https://sweeneyxx.itch.io/dont-steal-from-rex",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MTgwMDMucG5n/315x250%23c/8IohLy.png",
+    "title": "Don't Steal From Rex!",
+    "video": null,
+    "scrapeWords": [
+      "Dont",
+      "Steal",
+      "From",
+      "Rex"
+    ]
+  },
+  {
+    "author": "Marcus Forsberg",
+    "description": "FPS zombie game created in Godot Engine. [Test Version]",
+    "genre": "Shooter",
+    "id": "556688",
+    "link": "https://marcusforsberg.itch.io/zwarm",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MTgwNjYucG5n/315x250%23c/chg2Ii.png",
+    "title": "Zwarm",
+    "video": null,
+    "scrapeWords": [
+      "Zwarm"
+    ]
+  },
+  {
+    "author": "dogsplusplus",
+    "description": "Claim your islands!",
+    "genre": "Platformer",
+    "id": "556740",
+    "link": "https://dogsplusplus.itch.io/land-o-flags",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MTgzMjQuZ2lm/315x250%23cm/QeSj2z.gif",
+    "title": "Land 'O Flags",
+    "video": "https://img.itch.zone/aW1nLzI5MTgzMjQuZ2lm/original/s9Ra0e.gif",
+    "scrapeWords": [
+      "Land",
+      "O",
+      "Flags"
     ]
   },
   {
