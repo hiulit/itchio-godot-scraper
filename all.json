@@ -30353,11 +30353,11 @@
     ]
   },
   {
-    "author": "Torak3015",
+    "author": "TrevSaysHi",
     "description": "A game about real life problems.",
     "genre": "Simulation",
     "id": "415232",
-    "link": "https://torak3015.itch.io/work-interrupted",
+    "link": "https://trevsayshi.itch.io/work-interrupted",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIwNjMxNzIucG5n/315x250%23c/GiuVmH.png",
     "title": "Work, Interrupted",
@@ -35054,9 +35054,10 @@
     "link": "https://falloutfloyd.itch.io/neon-tennis",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzMDYwNDkucG5n/315x250%23c/gtoHYn.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5MjExMTkucG5n/315x250%23c/rB3GgX.png",
     "title": "Neon: Tennis",
     "video": null,
     "scrapeWords": [
@@ -37527,6 +37528,21 @@
       "The",
       "internet",
       "museum"
+    ]
+  },
+  {
+    "author": "Defaultsound",
+    "description": "Simple Maze Game",
+    "genre": "Puzzle",
+    "id": "467835",
+    "link": "https://defaultsound.itch.io/spoopy-blobs",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5MTk5MTkucG5n/315x250%23c/okpw6u.png",
+    "title": "Spoopy Blobs",
+    "video": null,
+    "scrapeWords": [
+      "Spoopy",
+      "Blobs"
     ]
   },
   {
@@ -48789,6 +48805,25 @@
     ]
   },
   {
+    "author": "TheWhiteLlama",
+    "description": "Try to fix your spacecraft to save you from an Asteroid!",
+    "genre": "Puzzle",
+    "id": "552766",
+    "link": "https://thewhitellama.itch.io/enter-the-glitch",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4OTM4MDgucG5n/315x250%23c/WMzi%2BC.png",
+    "title": "Enter the Glitch",
+    "video": null,
+    "scrapeWords": [
+      "Enter",
+      "the",
+      "Glitch"
+    ]
+  },
+  {
     "author": "Darenn Keller",
     "description": "A tactical space shooter with intentional bugs.",
     "genre": "Shooter",
@@ -49309,7 +49344,7 @@
   },
   {
     "author": "Marcus Forsberg",
-    "description": "FPS zombie game created in Godot Engine. [Test Version]",
+    "description": "FPS zombie game created in Godot Engine.",
     "genre": "Shooter",
     "id": "556688",
     "link": "https://marcusforsberg.itch.io/zwarm",
@@ -49342,6 +49377,23 @@
       "Land",
       "O",
       "Flags"
+    ]
+  },
+  {
+    "author": "Stuckne1",
+    "description": "Save as many hikers as you can before the avalanche catches you!",
+    "genre": "Action",
+    "id": "557321",
+    "link": "https://stuckne1.itch.io/avalanche",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MjE3MTYucG5n/315x250%23c/rQtAXp.png",
+    "title": "Avalanched",
+    "video": null,
+    "scrapeWords": [
+      "Avalanched"
     ]
   },
   {
