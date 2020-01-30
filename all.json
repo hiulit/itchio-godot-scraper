@@ -10317,6 +10317,25 @@
     ]
   },
   {
+    "author": "Luzon Games",
+    "description": "Take command of your first colony as an orc prince. Dig, Build and expand your colony deeper underground.",
+    "genre": "Simulation",
+    "id": "256174",
+    "link": "https://luzongames.itch.io/orc-colony",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjU2MTc0LzEzMjEzNDEucG5n/315x250%23c/dy4fnX.png",
+    "title": "Orc Colony",
+    "video": null,
+    "scrapeWords": [
+      "Orc",
+      "Colony"
+    ]
+  },
+  {
     "author": "New_Node",
     "description": "Adventure in the desert with multiple game modes",
     "genre": "Platformer",
@@ -34640,8 +34659,11 @@
     "genre": "Puzzle",
     "id": "451437",
     "link": "https://johnnygossdev.itch.io/lgbt-flag-quiz",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzNjQ1ODEucG5n/315x250%23c/e9Qv2j.png",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MjYyMzQucG5n/315x250%23c/245foC.png",
     "title": "LGBT+ Flags",
     "video": null,
     "scrapeWords": [
@@ -41867,7 +41889,7 @@
     ]
   },
   {
-    "author": "igaryhe",
+    "author": "Dan",
     "description": "An entry to LD45 - theme \"start with nothing\"",
     "genre": "Platformer",
     "id": "495614",
@@ -42150,7 +42172,9 @@
     "genre": "Puzzle",
     "id": "497379",
     "link": "https://atalbi.itch.io/friend-house",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI4ODYzNjIucG5n/315x250%23c/4gexTb.png",
     "title": "Friend's House",
     "video": null,
@@ -47466,24 +47490,6 @@
     ]
   },
   {
-    "author": "Jack LaLonde",
-    "description": "Race and explore on an open island",
-    "genre": "Racing",
-    "id": "542990",
-    "link": "https://jlalonde.itch.io/coast",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4ODg1MjkucG5n/315x250%23c/yi4yJk.png",
-    "title": "Coast",
-    "video": null,
-    "scrapeWords": [
-      "Coast"
-    ]
-  },
-  {
     "author": "DragMZ",
     "description": "Sokoban-like made with Godot Engine",
     "genre": "Puzzle",
@@ -49127,9 +49133,9 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5MDA1NzEuZ2lm/315x250%23cm/rsp%2FI%2B.gif",
+    "thumb": "https://img.itch.zone/aW1nLzI5MjI3NzguZ2lm/315x250%23cm/8%2FVE8d.gif",
     "title": "Uncontained: An SCP Digital Card Game",
-    "video": "https://img.itch.zone/aW1nLzI5MDA1NzEuZ2lm/original/GJErK4.gif",
+    "video": "https://img.itch.zone/aW1nLzI5MjI3NzguZ2lm/original/uYA0N8.gif",
     "scrapeWords": [
       "Uncontained",
       "An",
@@ -49394,6 +49400,23 @@
     "video": null,
     "scrapeWords": [
       "Avalanched"
+    ]
+  },
+  {
+    "author": "Rainware",
+    "description": "Funny shuffleboard game with fat cats!",
+    "genre": "Sports",
+    "id": "557952",
+    "link": "https://ruffiely.itch.io/shuffleboard-cat",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MjU2MDUucG5n/315x250%23c/9EdWDo.png",
+    "title": "Shuffleboard Cat",
+    "video": null,
+    "scrapeWords": [
+      "Shuffleboard",
+      "Cat"
     ]
   },
   {
