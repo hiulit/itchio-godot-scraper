@@ -10317,25 +10317,6 @@
     ]
   },
   {
-    "author": "Luzon Games",
-    "description": "Take command of your first colony as an orc prince. Dig, Build and expand your colony deeper underground.",
-    "genre": "Simulation",
-    "id": "256174",
-    "link": "https://luzongames.itch.io/orc-colony",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjU2MTc0LzEzMjEzNDEucG5n/315x250%23c/dy4fnX.png",
-    "title": "Orc Colony",
-    "video": null,
-    "scrapeWords": [
-      "Orc",
-      "Colony"
-    ]
-  },
-  {
     "author": "New_Node",
     "description": "Adventure in the desert with multiple game modes",
     "genre": "Platformer",
@@ -26207,25 +26188,6 @@
     ]
   },
   {
-    "author": "karotofel",
-    "description": "The new Flappy Bird",
-    "genre": "Action",
-    "id": "375305",
-    "link": "https://karotofel.itch.io/salty-piranha",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE4ODE3MzUucG5n/315x250%23c/EvtPa%2F.png",
-    "title": "Salty Piranha",
-    "video": null,
-    "scrapeWords": [
-      "Salty",
-      "Piranha"
-    ]
-  },
-  {
     "author": "WatDowTal",
     "description": "Defeat the monitor at the end of the building.",
     "genre": "Adventure",
@@ -29786,6 +29748,23 @@
       "Work",
       "Life",
       "Balance"
+    ]
+  },
+  {
+    "author": "Toasted Gears",
+    "description": null,
+    "genre": "Adventure",
+    "id": "412690",
+    "link": "https://toasted-gears.itch.io/legendary-dungeon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MzE4MzEucG5n/315x250%23c/CQSVzk.png",
+    "title": "Legendary Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Legendary",
+      "Dungeon"
     ]
   },
   {
@@ -42173,7 +42152,8 @@
     "id": "497379",
     "link": "https://atalbi.itch.io/friend-house",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4ODYzNjIucG5n/315x250%23c/4gexTb.png",
     "title": "Friend's House",
@@ -47243,10 +47223,7 @@
     "genre": "Survival",
     "id": "541371",
     "link": "https://openlightgames.itch.io/craftrix",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI4ODU1OTgucG5n/315x250%23c/HavkdO.png",
     "title": "Craftrix",
     "video": null,
@@ -48522,7 +48499,7 @@
   },
   {
     "author": "jhonnystene",
-    "description": "A 2D survival game. Early alpha.",
+    "description": "A 2D sandbox survival game. Early alpha.",
     "genre": "Survival",
     "id": "551990",
     "link": "https://jhonnystene.itch.io/enigma",
@@ -49350,7 +49327,7 @@
   },
   {
     "author": "Marcus Forsberg",
-    "description": "FPS zombie game created in Godot Engine.",
+    "description": "First person shooter zombie game created in Godot Engine.",
     "genre": "Shooter",
     "id": "556688",
     "link": "https://marcusforsberg.itch.io/zwarm",
@@ -49403,6 +49380,21 @@
     ]
   },
   {
+    "author": "ForestoShen",
+    "description": null,
+    "genre": "Shooter",
+    "id": "557605",
+    "link": "https://forestoshen.itch.io/polygon-shooter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5MzExMzAucG5n/315x250%23c/mYqAEI.png",
+    "title": "Polygon Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Polygon",
+      "Shooter"
+    ]
+  },
+  {
     "author": "Rainware",
     "description": "Funny shuffleboard game with fat cats!",
     "genre": "Sports",
@@ -49417,6 +49409,45 @@
     "scrapeWords": [
       "Shuffleboard",
       "Cat"
+    ]
+  },
+  {
+    "author": "jtlol8",
+    "description": "Pass or block the cannonball to hit or protect the target!",
+    "genre": null,
+    "id": "558348",
+    "link": "https://jtlol8.itch.io/hit-or-block",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MzI1OTUucG5n/315x250%23c/EN1o4G.png",
+    "title": "Hit or Block",
+    "video": null,
+    "scrapeWords": [
+      "Hit",
+      "or",
+      "Block"
+    ]
+  },
+  {
+    "author": "Juppi",
+    "description": "3D, C# Godot Demo Project",
+    "genre": "Puzzle",
+    "id": "558654",
+    "link": "https://juppi.itch.io/ballntower",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MzE5MTEucG5n/315x250%23c/9pm3s%2B.png",
+    "title": "Ball'n'Tower",
+    "video": null,
+    "scrapeWords": [
+      "Balln",
+      "Tower"
     ]
   },
   {
