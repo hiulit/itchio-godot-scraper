@@ -11750,7 +11750,7 @@
     ]
   },
   {
-    "author": "Max Warsinke",
+    "author": "Maximilian Warsinke",
     "description": "Icecube simulator",
     "genre": "Simulation",
     "id": "269955",
@@ -25131,12 +25131,15 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI3NzE0MjAucG5n/315x250%23c/a7mPYb.png",
-    "title": "Endless Adventur V0.4.6",
+    "title": "Endless Adventur A Sword Of Power",
     "video": null,
     "scrapeWords": [
       "Endless",
       "Adventur",
-      "V046"
+      "A",
+      "Sword",
+      "Of",
+      "Power"
     ]
   },
   {
@@ -26185,6 +26188,25 @@
     "scrapeWords": [
       "White",
       "Hearts"
+    ]
+  },
+  {
+    "author": "karotofel",
+    "description": "The new Flappy Bird",
+    "genre": "Action",
+    "id": "375305",
+    "link": "https://karotofel.itch.io/salty-piranha",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE4ODE3MzUucG5n/315x250%23c/EvtPa%2F.png",
+    "title": "Salty Piranha",
+    "video": null,
+    "scrapeWords": [
+      "Salty",
+      "Piranha"
     ]
   },
   {
@@ -29753,11 +29775,12 @@
   {
     "author": "Toasted Gears",
     "description": null,
-    "genre": "Adventure",
+    "genre": "Platformer",
     "id": "412690",
     "link": "https://toasted-gears.itch.io/legendary-dungeon",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5MzE4MzEucG5n/315x250%23c/CQSVzk.png",
     "title": "Legendary Dungeon",
@@ -31774,10 +31797,10 @@
   },
   {
     "author": "Martin Donald",
-    "description": "the diametric opposite of asteroids",
+    "description": "The diametric opposite of asteroids.",
     "genre": null,
     "id": "428442",
-    "link": "https://gamesbymartin.itch.io/not-asteroids",
+    "link": "https://bolddunkley.itch.io/not-asteroids",
     "platforms": [
       "Windows",
       "macOS"
@@ -38134,11 +38157,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2NjA0MzgucG5n/315x250%23c/rqsgUF.png",
-    "title": "SMASHED POTATOES",
+    "title": "SMASHED POTATOES (early access)",
     "video": null,
     "scrapeWords": [
       "SMASHED",
-      "POTATOES"
+      "POTATOES",
+      "early",
+      "access"
     ]
   },
   {
@@ -39131,12 +39156,14 @@
     ]
   },
   {
-    "author": "SketchyZambie",
+    "author": "aZamBie",
     "description": null,
     "genre": "Platformer",
     "id": "477463",
     "link": "https://sketchyzambie.itch.io/lie-gcj",
-    "platforms": null,
+    "platforms": [
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI0NTI2MTcucG5n/315x250%23c/bjZSPl.png",
     "title": "LiE",
     "video": null,
@@ -39425,7 +39452,7 @@
   },
   {
     "author": "Davi Fox",
-    "description": "Avoid spikes, get the fish.",
+    "description": "Not an easy game.",
     "genre": "Platformer",
     "id": "479924",
     "link": "https://davifoox.itch.io/pocket-cat",
@@ -44678,7 +44705,7 @@
   },
   {
     "author": "Pandaqi",
-    "description": "A puzzle game about love, faith, and a witch who might be the hero of the story.",
+    "description": "Solve puzzles by falling into each other's arms",
     "genre": "Puzzle",
     "id": "520355",
     "link": "https://pandaqi.itch.io/into-my-arms",
@@ -46089,7 +46116,7 @@
   },
   {
     "author": "Nerd Everyday",
-    "description": "Try to escape by manipulating time to your advantage",
+    "description": "Step through time to escape",
     "genre": "Puzzle",
     "id": "535363",
     "link": "https://nerd-everyday.itch.io/chrono-traveller",
@@ -48222,7 +48249,7 @@
   },
   {
     "author": "HealliesGames",
-    "description": "A runner game.",
+    "description": "A casual runner game.",
     "genre": null,
     "id": "550518",
     "link": "https://healliesgames.itch.io/nitrogenous",
@@ -49239,7 +49266,8 @@
     "link": "https://iddmeister.itch.io/bad-stars",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5MTIyNDEucG5n/315x250%23c/7vJ7Qn.png",
     "title": "Bad Stars",
@@ -49385,7 +49413,9 @@
     "genre": "Shooter",
     "id": "557605",
     "link": "https://forestoshen.itch.io/polygon-shooter",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI5MzExMzAucG5n/315x250%23c/mYqAEI.png",
     "title": "Polygon Shooter",
     "video": null,
@@ -49409,6 +49439,28 @@
     "scrapeWords": [
       "Shuffleboard",
       "Cat"
+    ]
+  },
+  {
+    "author": "Stone Age Jazz",
+    "description": "Hardcore Zombie Survival",
+    "genre": "Survival",
+    "id": "558026",
+    "link": "https://stone-age-jazz.itch.io/arza",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDA2NzcucG5n/315x250%23c/ga7pV1.png",
+    "title": "​ARZA - Adrenaline Rush Zombie Assault",
+    "video": null,
+    "scrapeWords": [
+      "​ARZA",
+      "Adrenaline",
+      "Rush",
+      "Zombie",
+      "Assault"
     ]
   },
   {
@@ -49451,6 +49503,70 @@
     ]
   },
   {
+    "author": "PlainCrown",
+    "description": "A collection of three retro game clones that can be easily accessed through a simple interface.",
+    "genre": null,
+    "id": "558684",
+    "link": "https://plaincrown.itch.io/oldbox",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MzE5OTkucG5n/315x250%23c/669j7D.png",
+    "title": "OldBox",
+    "video": null,
+    "scrapeWords": [
+      "Old",
+      "Box"
+    ]
+  },
+  {
+    "author": "LegionGames",
+    "description": "What's a submarine doing in space?",
+    "genre": "Adventure",
+    "id": "558943",
+    "link": "https://legiongames.itch.io/space-submarine",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5MzM4MzYuZ2lm/315x250%23cm/mty0GI.gif",
+    "title": "Space Submarine",
+    "video": "https://img.itch.zone/aW1nLzI5MzM4MzYuZ2lm/original/cxDPtS.gif",
+    "scrapeWords": [
+      "Space",
+      "Submarine"
+    ]
+  },
+  {
+    "author": "HalfwayWrong Games",
+    "description": "A NES/Gameboy inspired platforming adventure.",
+    "genre": "Platformer",
+    "id": "560028",
+    "link": "https://halfwaywrong.itch.io/odessa",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDAxODcucG5n/315x250%23c/3VNSG3.png",
+    "title": "Odessa",
+    "video": null,
+    "scrapeWords": [
+      "Odessa"
+    ]
+  },
+  {
+    "author": "Ivan-Tigan",
+    "description": null,
+    "genre": "Fighting",
+    "id": "560205",
+    "link": "https://ivan-tigan.itch.io/reckless",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NDI1NDcucG5n/315x250%23c/4OU6Z0.png",
+    "title": "RECKLESS",
+    "video": null,
+    "scrapeWords": [
+      "RECKLESS"
+    ]
+  },
+  {
     "author": "paulio",
     "description": "A two button game about digging made in Godot. The web version is iffy.",
     "genre": "Action",
@@ -49462,6 +49578,156 @@
     "video": null,
     "scrapeWords": [
       "Dig"
+    ]
+  },
+  {
+    "author": "Ramona Neill",
+    "description": "Ritualize Self Preservation",
+    "genre": null,
+    "id": "560852",
+    "link": "https://rainingsidewaysportfolio.itch.io/one-day-at-a-time",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDM2MTUuanBn/315x250%23c/oHEvNf.jpg",
+    "title": "One Day At A Time",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Day",
+      "At",
+      "A",
+      "Time"
+    ]
+  },
+  {
+    "author": "HyperDrop Studios",
+    "description": "A light circuitry based puzzle game",
+    "genre": "Puzzle",
+    "id": "561018",
+    "link": "https://hyperdrop-studios.itch.io/fluxgrid",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDQ0MjcucG5n/315x250%23c/QlpQ3s.png",
+    "title": "LuxGrid",
+    "video": null,
+    "scrapeWords": [
+      "Lux",
+      "Grid"
+    ]
+  },
+  {
+    "author": "Pigdev",
+    "description": "Repair porcelain pieces with glue by coordinating your hands",
+    "genre": "Puzzle",
+    "id": "561100",
+    "link": "https://pigdev.itch.io/untitled-glue-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDQ4NjUucG5n/315x250%23c/SsbXYJ.png",
+    "title": "Untitled Glue Game",
+    "video": null,
+    "scrapeWords": [
+      "Untitled",
+      "Glue",
+      "Game"
+    ]
+  },
+  {
+    "author": "FrankRazor",
+    "description": "Use Tetrominos to repair bridges and platform your way through them!",
+    "genre": "Platformer",
+    "id": "561119",
+    "link": "https://frankrazor.itch.io/bridgefall",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NDUzNTkucG5n/315x250%23c/ZN0iw5.png",
+    "title": "BridgeFall",
+    "video": null,
+    "scrapeWords": [
+      "Bridge",
+      "Fall"
+    ]
+  },
+  {
+    "author": "synsugarstudio",
+    "description": null,
+    "genre": "Action",
+    "id": "561130",
+    "link": "https://synsugarstudio.itch.io/ggj-2020",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDUwMjUucG5n/315x250%23c/jwDsRP.png",
+    "title": "ggj-2020",
+    "video": null,
+    "scrapeWords": [
+      "ggj-2020"
+    ]
+  },
+  {
+    "author": "remruts",
+    "description": "Jueguito hecho en la Global Game Jam 2020",
+    "genre": "Platformer",
+    "id": "561157",
+    "link": "https://remruts.itch.io/la-bola-2020",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDUyMTcuanBn/315x250%23c/T48CBS.jpg",
+    "title": "La Bola 2020",
+    "video": null,
+    "scrapeWords": [
+      "La",
+      "Bola",
+      "2020"
+    ]
+  },
+  {
+    "author": "Duncan Sparks",
+    "description": "Repair a fallen kingdom (Global Game Jam 2020)",
+    "genre": "Action",
+    "id": "561179",
+    "link": "https://duncansparks.itch.io/return-from-dust",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDY5MTEucG5n/315x250%23c/YUdW8l.png",
+    "title": "Return From Dust",
+    "video": null,
+    "scrapeWords": [
+      "Return",
+      "From",
+      "Dust"
+    ]
+  },
+  {
+    "author": "P10er101",
+    "description": "Building the ultimate diving game for Android and maybe iOS",
+    "genre": "Sports",
+    "id": "561322",
+    "link": "https://p10er101.itch.io/pixeldiving",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDU2ODcucG5n/315x250%23c/mReiNi.png",
+    "title": "Pixel Diving",
+    "video": null,
+    "scrapeWords": [
+      "Pixel",
+      "Diving"
     ]
   },
   {
