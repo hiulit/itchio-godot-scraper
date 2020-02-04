@@ -7966,7 +7966,7 @@
     "description": "Make some clones, collect some rubies.",
     "genre": "Platformer",
     "id": "243198",
-    "link": "https://davifoox.itch.io/shadow-clone-sheep",
+    "link": "https://davifox.itch.io/shadow-clone-sheep",
     "platforms": [
       "Windows",
       "macOS"
@@ -8273,7 +8273,7 @@
     "description": "Just slide.",
     "genre": "Platformer",
     "id": "245977",
-    "link": "https://davifoox.itch.io/move-and-slime",
+    "link": "https://davifox.itch.io/move-and-slime",
     "platforms": [
       "Windows"
     ],
@@ -8291,7 +8291,7 @@
     "description": "Make that robot rich!",
     "genre": "Platformer",
     "id": "245985",
-    "link": "https://davifoox.itch.io/gobot",
+    "link": "https://davifox.itch.io/gobot",
     "platforms": [
       "Windows"
     ],
@@ -10871,7 +10871,7 @@
     "description": "Make your way through the rainy night",
     "genre": "Platformer",
     "id": "262932",
-    "link": "https://davifoox.itch.io/rainbow-road",
+    "link": "https://davifox.itch.io/rainbow-road",
     "platforms": [
       "Windows"
     ],
@@ -11201,7 +11201,7 @@
     "description": "Watch out for those traps!",
     "genre": "Platformer",
     "id": "266667",
-    "link": "https://davifoox.itch.io/rat-maze",
+    "link": "https://davifox.itch.io/rat-maze",
     "platforms": [
       "Windows",
       "Android"
@@ -11695,7 +11695,7 @@
     "description": "He likes the heat!",
     "genre": "Platformer",
     "id": "269936",
-    "link": "https://davifoox.itch.io/sunny-winter",
+    "link": "https://davifox.itch.io/sunny-winter",
     "platforms": [
       "Windows",
       "Linux",
@@ -17187,7 +17187,7 @@
     "description": "You control his luck.",
     "genre": "Platformer",
     "id": "300182",
-    "link": "https://davifoox.itch.io/lucky-guy",
+    "link": "https://davifox.itch.io/lucky-guy",
     "platforms": [
       "Windows",
       "Linux",
@@ -23659,7 +23659,7 @@
     "description": "Jump on each other's head",
     "genre": "Platformer",
     "id": "356947",
-    "link": "https://davifoox.itch.io/spring-time",
+    "link": "https://davifox.itch.io/spring-time",
     "platforms": [
       "Windows"
     ],
@@ -28024,7 +28024,7 @@
     "description": "Think outside the box",
     "genre": "Puzzle",
     "id": "396986",
-    "link": "https://davifoox.itch.io/how-to-make-frankie",
+    "link": "https://davifox.itch.io/how-to-make-frankie",
     "platforms": [
       "Windows"
     ],
@@ -37462,25 +37462,6 @@
     ]
   },
   {
-    "author": "john.d.mick",
-    "description": "Don't lose your food at the disco!  LOWREZJAM 2019",
-    "genre": "Puzzle",
-    "id": "467042",
-    "link": "https://johndmick.itch.io/burger-boogie",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0MDUxOTcuZ2lm/315x250%23cm/ruKNGX.gif",
-    "title": "Burger Boogie",
-    "video": "https://img.itch.zone/aW1nLzI0MDUxOTcuZ2lm/original/wwvBtA.gif",
-    "scrapeWords": [
-      "Burger",
-      "Boogie"
-    ]
-  },
-  {
     "author": "Patel Meru",
     "description": null,
     "genre": "Puzzle",
@@ -39455,7 +39436,7 @@
     "description": "Not an easy game.",
     "genre": "Platformer",
     "id": "479924",
-    "link": "https://davifoox.itch.io/pocket-cat",
+    "link": "https://davifox.itch.io/pocket-cat",
     "platforms": [
       "Windows",
       "Android"
@@ -40398,28 +40379,6 @@
     "scrapeWords": [
       "Blob",
       "Runner"
-    ]
-  },
-  {
-    "author": "Sam Sarette",
-    "description": "One small town, one crazy witch, and impending fishy doom.",
-    "genre": "Interactive Fiction",
-    "id": "486585",
-    "link": "https://samsarette.itch.io/not-a-halloween-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MTY0MzUuanBn/315x250%23c/bKv4dL.jpg",
-    "title": "Not A Halloween Game",
-    "video": null,
-    "scrapeWords": [
-      "Not",
-      "A",
-      "Halloween",
-      "Game"
     ]
   },
   {
@@ -43560,6 +43519,26 @@
     ]
   },
   {
+    "author": "davidwesst",
+    "description": "Exploring and learn by leaps and bounds to become the world's first car scientist!",
+    "genre": "Role Playing",
+    "id": "510051",
+    "link": "https://davidwesst.itch.io/leaps-and-bounds",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI3MzI5MzEucG5n/315x250%23c/bhcy22.png",
+    "title": "Car Scientist (GitHub GameJam 2019)",
+    "video": null,
+    "scrapeWords": [
+      "Car",
+      "Scientist",
+      "Git",
+      "Hub",
+      "Game",
+      "Jam",
+      "2019"
+    ]
+  },
+  {
     "author": "TombikKus",
     "description": null,
     "genre": "Survival",
@@ -43577,7 +43556,7 @@
   },
   {
     "author": "Shiny Logarius",
-    "description": "Submission for 49er Game Jam",
+    "description": "Submission for 49er Game Jam Fall 2019",
     "genre": "Shooter",
     "id": "510332",
     "link": "https://shiny-logarius.itch.io/time-hackerz",
@@ -47649,6 +47628,24 @@
     ]
   },
   {
+    "author": "s9menine",
+    "description": "half puzzle, half instrument. an audio game.",
+    "genre": "Puzzle",
+    "id": "545270",
+    "link": "https://s9menine.itch.io/strung",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MDY5MjMucG5n/315x250%23c/3LgoHI.png",
+    "title": "Strung",
+    "video": null,
+    "scrapeWords": [
+      "Strung"
+    ]
+  },
+  {
     "author": "Thomdin",
     "description": null,
     "genre": "Shooter",
@@ -48895,29 +48892,6 @@
     ]
   },
   {
-    "author": "john.d.mick",
-    "description": "Submission for Wowie Jam 2.0",
-    "genre": "Action",
-    "id": "552911",
-    "link": "https://johndmick.itch.io/dont-let-the-bed-bugs-bite",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4OTM0ODUucG5n/315x250%23c/qMfWS3.png",
-    "title": "Don't Let the Bed Bugs Bite",
-    "video": null,
-    "scrapeWords": [
-      "Dont",
-      "Let",
-      "the",
-      "Bed",
-      "Bugs",
-      "Bite"
-    ]
-  },
-  {
     "author": "Jon Topielski",
     "description": "cute little puzzle game about a bug stuck in a cold place",
     "genre": "Puzzle",
@@ -49553,8 +49527,24 @@
     ]
   },
   {
+    "author": "MasterProject",
+    "description": "A medieval diplomacy game based on the Prisoner's Dilemma",
+    "genre": "Strategy",
+    "id": "560169",
+    "link": "https://masterproject.itch.io/the-long-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NDEyNzcucG5n/315x250%23c/nyKJSC.png",
+    "title": "The Long Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Long",
+      "Game"
+    ]
+  },
+  {
     "author": "Ivan-Tigan",
-    "description": null,
+    "description": "Limbs everywhere. Don't lose you head...",
     "genre": "Fighting",
     "id": "560205",
     "link": "https://ivan-tigan.itch.io/reckless",
@@ -49578,6 +49568,24 @@
     "video": null,
     "scrapeWords": [
       "Dig"
+    ]
+  },
+  {
+    "author": "Orama Interactive",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "560567",
+    "link": "https://orama-interactive.itch.io/re-pairing",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTA0ODkucG5n/315x250%23c/NBKgcU.png",
+    "title": "Re-Pairing...",
+    "video": null,
+    "scrapeWords": [
+      "Re-Pairing"
     ]
   },
   {
@@ -49728,6 +49736,82 @@
     "scrapeWords": [
       "Pixel",
       "Diving"
+    ]
+  },
+  {
+    "author": "Dante",
+    "description": "Remember the shape of a toy and try to recreate it from pieces and see how it holds together.",
+    "genre": "Puzzle",
+    "id": "562115",
+    "link": "https://dantesinferno.itch.io/toysmith",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTA2OTUucG5n/315x250%23c/9pLa6c.png",
+    "title": "Toysmith",
+    "video": null,
+    "scrapeWords": [
+      "Toysmith"
+    ]
+  },
+  {
+    "author": "Citizen Of Mêlée",
+    "description": "2-4 competitive players sharing a set of resources",
+    "genre": "Action",
+    "id": "562142",
+    "link": "https://citizen-of-melee.itch.io/repair-robots",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDk3MDIucG5n/315x250%23c/zq%2B2v8.png",
+    "title": "Repair Robots",
+    "video": null,
+    "scrapeWords": [
+      "Repair",
+      "Robots"
+    ]
+  },
+  {
+    "author": "EliosHERB",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "562362",
+    "link": "https://eliosherb.itch.io/the-forest-brothers",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTE1NDcucG5n/315x250%23c/kprWY2.png",
+    "title": "The forest brothers",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "forest",
+      "brothers"
+    ]
+  },
+  {
+    "author": "CloneDeath",
+    "description": "A short Zelda-like for the Nokia 3310 Jam 2",
+    "genre": "Adventure",
+    "id": "562514",
+    "link": "https://clonedeath.itch.io/legends-of-love",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTI4ODMuZ2lm/315x250%23cm/QDT8kq.gif",
+    "title": "Legends of Love [Nokia 3310]",
+    "video": "https://img.itch.zone/aW1nLzI5NTI4ODMuZ2lm/original/cLDHTK.gif",
+    "scrapeWords": [
+      "Legends",
+      "of",
+      "Love",
+      "[Nokia",
+      "3310]"
     ]
   },
   {
