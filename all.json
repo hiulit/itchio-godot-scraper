@@ -39234,7 +39234,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NTY4NzYucG5n/315x250%23c/OpZcg7.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5NTUxMzcuanBn/315x250%23c/70jz12.jpg",
     "title": "Magic and Demons",
     "video": null,
     "scrapeWords": [
@@ -40379,6 +40379,28 @@
     "scrapeWords": [
       "Blob",
       "Runner"
+    ]
+  },
+  {
+    "author": "Sam Sarette",
+    "description": "One small town, one crazy witch, and impending fishy doom.",
+    "genre": "Interactive Fiction",
+    "id": "486585",
+    "link": "https://samsarette.itch.io/not-a-halloween-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MTY0MzUuanBn/315x250%23c/bKv4dL.jpg",
+    "title": "Not A Halloween Game",
+    "video": null,
+    "scrapeWords": [
+      "Not",
+      "A",
+      "Halloween",
+      "Game"
     ]
   },
   {
@@ -42129,24 +42151,6 @@
     "video": null,
     "scrapeWords": [
       "Typing"
-    ]
-  },
-  {
-    "author": "ATalbi",
-    "description": "Escape Room Puzzle Game",
-    "genre": "Puzzle",
-    "id": "497379",
-    "link": "https://atalbi.itch.io/friend-house",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4ODYzNjIucG5n/315x250%23c/4gexTb.png",
-    "title": "Friend's House",
-    "video": null,
-    "scrapeWords": [
-      "Friends",
-      "House"
     ]
   },
   {
@@ -49511,6 +49515,40 @@
     ]
   },
   {
+    "author": "kintrix",
+    "description": "Just a simple snake game. Wait, what? ... Yep, your goal it to die!",
+    "genre": "Strategy",
+    "id": "559306",
+    "link": "https://kintrix.itch.io/suicide-snake",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTU1MjEucG5n/315x250%23c/rwMjb9.png",
+    "title": "Suicide SnAIk",
+    "video": null,
+    "scrapeWords": [
+      "Suicide",
+      "Sn",
+      "AIk"
+    ]
+  },
+  {
+    "author": "Jesús Lautaro Careglio Albornoz",
+    "description": "Juego creado para la Global Game Jam 2020, Temática: REPAIR",
+    "genre": "Puzzle",
+    "id": "559857",
+    "link": "https://jlcareglio.itch.io/bizarrepair",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NTQwNzEucG5n/315x250%23c/ut3jDQ.png",
+    "title": "BIZARREPAIR",
+    "video": null,
+    "scrapeWords": [
+      "BIZARREPAIR"
+    ]
+  },
+  {
     "author": "HalfwayWrong Games",
     "description": "A NES/Gameboy inspired platforming adventure.",
     "genre": "Platformer",
@@ -49624,6 +49662,26 @@
     "scrapeWords": [
       "Lux",
       "Grid"
+    ]
+  },
+  {
+    "author": "ahintoflime",
+    "description": "Fix the wake of destruction your cat leaves behind to keep your date happy!",
+    "genre": "Puzzle",
+    "id": "561086",
+    "link": "https://ahintoflime.itch.io/must-love-cats",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDQ3ODUucG5n/315x250%23c/P5QWuf.png",
+    "title": "Must Love Cats",
+    "video": null,
+    "scrapeWords": [
+      "Must",
+      "Love",
+      "Cats"
     ]
   },
   {
@@ -49774,6 +49832,25 @@
     ]
   },
   {
+    "author": "Mezz'Estate Studios",
+    "description": "A simple puzzle game where you have to push an iron sphere around using a magnet to end the level",
+    "genre": "Puzzle",
+    "id": "562287",
+    "link": "https://mezzestate-studios.itch.io/magnet-n-iron",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTA2OTcucG5n/315x250%23c/hRkRi5.png",
+    "title": "Magnet 'n' Iron",
+    "video": null,
+    "scrapeWords": [
+      "Magnet",
+      "n",
+      "Iron"
+    ]
+  },
+  {
     "author": "EliosHERB",
     "description": null,
     "genre": "Puzzle",
@@ -49812,6 +49889,145 @@
       "Love",
       "[Nokia",
       "3310]"
+    ]
+  },
+  {
+    "author": "Albin",
+    "description": "Global Game Jam 2020 Entry",
+    "genre": "Platformer",
+    "id": "562685",
+    "link": "https://thealexstewart.itch.io/crafty-fox",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTMzMDUuanBn/315x250%23c/OLHuTJ.jpg",
+    "title": "Crafty Fox",
+    "video": null,
+    "scrapeWords": [
+      "Crafty",
+      "Fox"
+    ]
+  },
+  {
+    "author": "ATalbi",
+    "description": "an Escape Room Puzzle Game",
+    "genre": "Puzzle",
+    "id": "562777",
+    "link": "https://atalbi.itch.io/puzzles-house",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTM2NjcucG5n/315x250%23c/FimSoj.png",
+    "title": "Puzzles House",
+    "video": null,
+    "scrapeWords": [
+      "Puzzles",
+      "House"
+    ]
+  },
+  {
+    "author": "aniani",
+    "description": "Enjoy all of your favorite moments of the playoffs",
+    "genre": "Sports",
+    "id": "562867",
+    "link": "https://aniani.itch.io/classic-air-hockey",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTQzMjYucG5n/315x250%23c/S7a4xA.png",
+    "title": "Classic Air Hockey",
+    "video": null,
+    "scrapeWords": [
+      "Classic",
+      "Air",
+      "Hockey"
+    ]
+  },
+  {
+    "author": "kurishutofu",
+    "description": "Patch in to the BIGCOPR's mainframe and liberate your data.",
+    "genre": null,
+    "id": "562988",
+    "link": "https://kurishutofu.itch.io/patchin",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTUwNDMucG5n/315x250%23c/OwTT1B.png",
+    "title": "patchIN",
+    "video": null,
+    "scrapeWords": [
+      "patch",
+      "IN"
+    ]
+  },
+  {
+    "author": "cgcaruzo",
+    "description": "A game made at the Rosario Global Game Jam 2020",
+    "genre": null,
+    "id": "563022",
+    "link": "https://cgcaruzo.itch.io/mantra",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NTUyNDguanBn/315x250%23c/X7ah29.jpg",
+    "title": "Mantra",
+    "video": null,
+    "scrapeWords": [
+      "Mantra"
+    ]
+  },
+  {
+    "author": "jort93",
+    "description": "Very simple parkour game",
+    "genre": "Platformer",
+    "id": "563096",
+    "link": "https://jort93.itch.io/jumping-jack",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTU2NjYucG5n/315x250%23c/hDJUvV.png",
+    "title": "Jumping Jack",
+    "video": null,
+    "scrapeWords": [
+      "Jumping",
+      "Jack"
+    ]
+  },
+  {
+    "author": "Vasilis Chonianakis",
+    "description": null,
+    "genre": "Action",
+    "id": "563164",
+    "link": "https://negator2vc.itch.io/airstrike",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTYyMjEucG5n/315x250%23c/s5viH2.png",
+    "title": "Airstrike",
+    "video": null,
+    "scrapeWords": [
+      "Airstrike"
+    ]
+  },
+  {
+    "author": "fedz",
+    "description": "Nokia jam 2 evolution game",
+    "genre": "Platformer",
+    "id": "563310",
+    "link": "https://fedz.itch.io/evolution",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTcwMTkucG5n/315x250%23c/HLet1o.png",
+    "title": "Evolution",
+    "video": null,
+    "scrapeWords": [
+      "Evolution"
     ]
   },
   {
