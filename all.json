@@ -13437,7 +13437,7 @@
   },
   {
     "author": "Item Crate",
-    "description": "Join the fight against health food propaganda!",
+    "description": "Join the fight against health food propaganda! Pittsburgh Game Jam 2018",
     "genre": "Shooter",
     "id": "276616",
     "link": "https://itemcrate.itch.io/fizzlebomber",
@@ -25967,7 +25967,7 @@
     "description": "Build a crystalline shell out of ice and fight for survival!",
     "genre": "Action",
     "id": "371833",
-    "link": "https://starryraccoon.itch.io/kuiper",
+    "link": "https://starrynightgame.itch.io/kuiper",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE4NjQzODYucG5n/315x250%23c/4mltzt.png",
     "title": "Kuiper",
@@ -30288,8 +30288,7 @@
     "link": "https://pixel-boy.itch.io/guardian-sphere",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/315x250%23cm/SUdaN5.gif",
     "title": "Guardian Sphere",
@@ -47897,25 +47896,6 @@
     ]
   },
   {
-    "author": "Bypell",
-    "description": "A very short christmas horror game",
-    "genre": null,
-    "id": "547374",
-    "link": "https://bypell.itch.io/no-gifts-for-christmas",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4NjAzODgucG5n/315x250%23c/qG8xNl.png",
-    "title": "No Gifts for Christmas",
-    "video": null,
-    "scrapeWords": [
-      "No",
-      "Gifts",
-      "for",
-      "Christmas"
-    ]
-  },
-  {
     "author": "DOAmaster",
     "description": null,
     "genre": "Simulation",
@@ -48816,11 +48796,11 @@
     ]
   },
   {
-    "author": "TheWhiteLlama",
+    "author": "SlothDevLlama",
     "description": "Try to fix your spacecraft to save you from an Asteroid!",
     "genre": "Puzzle",
     "id": "552766",
-    "link": "https://thewhitellama.itch.io/enter-the-glitch",
+    "link": "https://slothdevllama.itch.io/enter-the-glitch",
     "platforms": [
       "Windows",
       "macOS"
@@ -49226,7 +49206,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5MDc4NzIucG5n/315x250%23c/q7RW88.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5NTg5OTkucG5n/315x250%23c/wQYvTW.png",
     "title": "DUCK look for luck!",
     "video": null,
     "scrapeWords": [
@@ -49516,7 +49496,7 @@
   },
   {
     "author": "kintrix",
-    "description": "Just a simple snake game. Wait, what? ... Yep, your goal it to die!",
+    "description": "Just a simple snake game. Wait, what? ... Yep, your goal is to die!",
     "genre": "Strategy",
     "id": "559306",
     "link": "https://kintrix.itch.io/suicide-snake",
@@ -49525,7 +49505,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NTU1MjEucG5n/315x250%23c/rwMjb9.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5NTg4MzEucG5n/315x250%23c/dL1Kfj.png",
     "title": "Suicide SnAIk",
     "video": null,
     "scrapeWords": [
@@ -49778,6 +49758,24 @@
     ]
   },
   {
+    "author": "zodsmar",
+    "description": "Build a base on the moon!",
+    "genre": null,
+    "id": "561300",
+    "link": "https://zodsmar.itch.io/copernicon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDU2MTYucG5n/315x250%23c/NJQ0nt.png",
+    "title": "Copernicon",
+    "video": null,
+    "scrapeWords": [
+      "Copernicon"
+    ]
+  },
+  {
     "author": "P10er101",
     "description": "Building the ultimate diving game for Android and maybe iOS",
     "genre": "Sports",
@@ -49919,7 +49917,7 @@
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5NTM2NjcucG5n/315x250%23c/FimSoj.png",
-    "title": "Puzzles House",
+    "title": "Puzzles House (Demo)",
     "video": null,
     "scrapeWords": [
       "Puzzles",
@@ -49995,6 +49993,21 @@
     "scrapeWords": [
       "Jumping",
       "Jack"
+    ]
+  },
+  {
+    "author": "IcefoxZettai",
+    "description": "Pocket roguelike",
+    "genre": "Role Playing",
+    "id": "563119",
+    "link": "https://icefoxzettai.itch.io/broughlike-godot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NTU4MTMucG5n/315x250%23c/jLN8rx.png",
+    "title": "Broughlike Godot",
+    "video": null,
+    "scrapeWords": [
+      "Broughlike",
+      "Godot"
     ]
   },
   {
