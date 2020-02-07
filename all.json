@@ -7060,22 +7060,6 @@
     ]
   },
   {
-    "author": "ycarowr",
-    "description": "Smash the creepy creatures with your shield!",
-    "genre": "Survival",
-    "id": "236217",
-    "link": "https://ycarowr.itch.io/creepy-meat-balls",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjM2MjE3LzEyNDQ5OTgucG5n/315x250%23c/Ua5XNN.png",
-    "title": "Creepy Meat Balls",
-    "video": null,
-    "scrapeWords": [
-      "Creepy",
-      "Meat",
-      "Balls"
-    ]
-  },
-  {
     "author": "Raespark",
     "description": "Witch Pong!",
     "genre": null,
@@ -9540,7 +9524,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjUwMTcwLzExOTQ3NjMucG5n/315x250%23c/tp1oD9.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5NjI5MjAucG5n/315x250%23c/KXzLNc.png",
     "title": "Torn",
     "video": null,
     "scrapeWords": [
@@ -20900,7 +20884,7 @@
     ]
   },
   {
-    "author": "asheraryam",
+    "author": "kotob",
     "description": "Obey the madam or else!",
     "genre": "Puzzle",
     "id": "332751",
@@ -24412,7 +24396,7 @@
     ]
   },
   {
-    "author": "asheraryam",
+    "author": "kotob",
     "description": "Discover treasures in the trash and create a place that you can call home.",
     "genre": null,
     "id": "361564",
@@ -25292,7 +25276,7 @@
     ]
   },
   {
-    "author": "asheraryam",
+    "author": "kotob",
     "description": "You play as a ghost that possesses cult members. Pass all the tests to gain enlightenment!",
     "genre": null,
     "id": "368318",
@@ -25678,7 +25662,7 @@
     ]
   },
   {
-    "author": "asheraryam",
+    "author": "kotob",
     "description": "Donning his prickly attire, Dallas used his clever trick to evade the COPS once more...",
     "genre": null,
     "id": "371557",
@@ -36635,7 +36619,7 @@
     ]
   },
   {
-    "author": "asheraryam",
+    "author": "kotob",
     "description": "You can only see one tile in front of you.",
     "genre": "Puzzle",
     "id": "462264",
@@ -38856,7 +38840,7 @@
     ]
   },
   {
-    "author": "Vulpon",
+    "author": "Daniel Gazzaneo",
     "description": "2-bit platformer \"metroidvania\" for Community Game Jam 2019!",
     "genre": "Platformer",
     "id": "475738",
@@ -39207,7 +39191,7 @@
     ]
   },
   {
-    "author": "asheraryam",
+    "author": "kotob",
     "description": "Play with multiple mortys.",
     "genre": "Platformer",
     "id": "477799",
@@ -40685,25 +40669,6 @@
       "Snapshots",
       "of",
       "Styx"
-    ]
-  },
-  {
-    "author": "Shenxiaohong",
-    "description": "Inspired by my last job — Mobile-game ad marketing",
-    "genre": "Simulation",
-    "id": "487134",
-    "link": "https://pancheeplay.itch.io/free-and-ad",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MTU1MDIucG5n/315x250%23c/mMBa8B.png",
-    "title": "Free and Ad",
-    "video": null,
-    "scrapeWords": [
-      "Free",
-      "and",
-      "Ad"
     ]
   },
   {
@@ -44866,7 +44831,7 @@
     ]
   },
   {
-    "author": "Vulpon",
+    "author": "Daniel Gazzaneo",
     "description": "The mouse got stuck inside an oven and it's unbearably hot! Made for DevuJam!",
     "genre": "Strategy",
     "id": "522869",
@@ -46719,6 +46684,26 @@
     ]
   },
   {
+    "author": "Double Sept",
+    "description": "A VR Coop adventure",
+    "genre": "Puzzle",
+    "id": "538536",
+    "link": "https://doublesept.itch.io/escape",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MTk3MzMuZ2lm/315x250%23cm/FYwTDl.gif",
+    "title": "Escape From The Void",
+    "video": "https://img.itch.zone/aW1nLzI5MTk3MzMuZ2lm/original/KrOp%2Fi.gif",
+    "scrapeWords": [
+      "Escape",
+      "From",
+      "The",
+      "Void"
+    ]
+  },
+  {
     "author": "Timo Koesters",
     "description": "An elephant wants to go right",
     "genre": "Platformer",
@@ -48021,7 +48006,7 @@
     ]
   },
   {
-    "author": "asheraryam",
+    "author": "kotob",
     "description": "Can you beat the wrestling champion El Bullito?",
     "genre": "Strategy",
     "id": "548468",
@@ -49515,6 +49500,26 @@
     ]
   },
   {
+    "author": "Openhood",
+    "description": null,
+    "genre": "Action",
+    "id": "559630",
+    "link": "https://openhood.itch.io/senlima-space-shooter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5MzgxNzIuanBn/315x250%23c/icSnmq.jpg",
+    "title": "Senlima Space Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Senlima",
+      "Space",
+      "Shooter"
+    ]
+  },
+  {
     "author": "Jesús Lautaro Careglio Albornoz",
     "description": "Juego creado para la Global Game Jam 2020, Temática: REPAIR",
     "genre": "Puzzle",
@@ -49545,6 +49550,25 @@
     ]
   },
   {
+    "author": "rafaelgdp",
+    "description": "Game developed for the Global Game Jam 2020!",
+    "genre": "Action",
+    "id": "560103",
+    "link": "https://rafaelgdp.itch.io/heart-attack",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDA1NDcucG5n/315x250%23c/fvs9Cw.png",
+    "title": "Heart Attack",
+    "video": null,
+    "scrapeWords": [
+      "Heart",
+      "Attack"
+    ]
+  },
+  {
     "author": "MasterProject",
     "description": "A medieval diplomacy game based on the Prisoner's Dilemma",
     "genre": "Strategy",
@@ -49572,6 +49596,25 @@
     "video": null,
     "scrapeWords": [
       "RECKLESS"
+    ]
+  },
+  {
+    "author": "l33tllama",
+    "description": "Fix your bot",
+    "genre": "Puzzle",
+    "id": "560207",
+    "link": "https://l33tllama.itch.io/robo-repair",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDExNDIucG5n/315x250%23c/BwKYFH.png",
+    "title": "Robo Repair",
+    "video": null,
+    "scrapeWords": [
+      "Robo",
+      "Repair"
     ]
   },
   {
@@ -49728,9 +49771,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NDUyMTcuanBn/315x250%23c/T48CBS.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzI5NjE1ODQuZ2lm/315x250%23cm/6%2FirvA.gif",
     "title": "La Bola 2020",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI5NjE1ODQuZ2lm/original/H3nSGe.gif",
     "scrapeWords": [
       "La",
       "Bola",
@@ -49777,7 +49820,7 @@
   },
   {
     "author": "P10er101",
-    "description": "Building the ultimate diving game for Android and maybe iOS",
+    "description": "Building the ultimate diving game for Android and possibly iOS",
     "genre": "Sports",
     "id": "561322",
     "link": "https://p10er101.itch.io/pixeldiving",
@@ -49830,11 +49873,11 @@
     ]
   },
   {
-    "author": "Mezz'Estate Studios",
+    "author": "GbaCretin",
     "description": "A simple puzzle game where you have to push an iron sphere around using a magnet to end the level",
     "genre": "Puzzle",
     "id": "562287",
-    "link": "https://mezzestate-studios.itch.io/magnet-n-iron",
+    "link": "https://gbacretin.itch.io/magnet-n-iron",
     "platforms": [
       "Windows",
       "Linux"
@@ -49865,6 +49908,21 @@
       "The",
       "forest",
       "brothers"
+    ]
+  },
+  {
+    "author": "volffili",
+    "description": "Zero Balloon - free puzzle game in Hotline Miami style",
+    "genre": "Puzzle",
+    "id": "562420",
+    "link": "https://volffili.itch.io/zero-balloon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NTE0OTUucG5n/315x250%23c/UVhMV2.png",
+    "title": "Zero Balloon",
+    "video": null,
+    "scrapeWords": [
+      "Zero",
+      "Balloon"
     ]
   },
   {
