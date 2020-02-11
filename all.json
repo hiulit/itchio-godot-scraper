@@ -18663,7 +18663,7 @@
     ]
   },
   {
-    "author": "Yongmin Park",
+    "author": "YONGMIN PARK",
     "description": null,
     "genre": "Action",
     "id": "313866",
@@ -19257,7 +19257,7 @@
     ]
   },
   {
-    "author": "Yongmin Park",
+    "author": "YONGMIN PARK",
     "description": "Save your previous idea notes from burning, and slash your old pumpkin sprites [Blackthornprod Jam 1 entry]",
     "genre": "Action",
     "id": "319420",
@@ -22191,7 +22191,7 @@
     ]
   },
   {
-    "author": "Yongmin Park",
+    "author": "YONGMIN PARK",
     "description": "breakout-like shooter that uses your blood as ammo",
     "genre": "Shooter",
     "id": "340758",
@@ -31397,24 +31397,6 @@
       "Room",
       "With",
       "AView"
-    ]
-  },
-  {
-    "author": "eetson",
-    "description": "Entry for the Godot Wild Jam 9",
-    "genre": "Puzzle",
-    "id": "425141",
-    "link": "https://eetson.itch.io/underland",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxMjI0ODIuanBn/315x250%23c/taDaGC.jpg",
-    "title": "Underland",
-    "video": null,
-    "scrapeWords": [
-      "Underland"
     ]
   },
   {
@@ -46819,26 +46801,6 @@
     ]
   },
   {
-    "author": "bsvercl",
-    "description": "The sunflower is waiting for you.",
-    "genre": "Platformer",
-    "id": "539132",
-    "link": "https://bsvercl.itch.io/avoid",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MDk3NTcucG5n/315x250%23c/X1aRQB.png",
-    "title": "Avoid (early access)",
-    "video": null,
-    "scrapeWords": [
-      "Avoid",
-      "early",
-      "access"
-    ]
-  },
-  {
     "author": "sevensidedmarble",
     "description": "Made for Text Only Jam 2019. Set in the 4th Century AD.",
     "genre": "Simulation",
@@ -49481,7 +49443,9 @@
     "genre": null,
     "id": "558095",
     "link": "https://loen.itch.io/autistic-geometry",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI5MjY3NDQucG5n/315x250%23c/NbKEiZ.png",
     "title": "Autistic Geometry",
     "video": null,
@@ -50229,7 +50193,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NjU5MTUucG5n/315x250%23c/jocHRK.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5NzY5MTEucG5n/315x250%23c/b6MyEF.png",
     "title": "RUN GHOST",
     "video": null,
     "scrapeWords": [
@@ -50274,6 +50238,27 @@
     ]
   },
   {
+    "author": "Steven Beebe",
+    "description": "Very difficult investing game with hardcore number calculations",
+    "genre": "Simulation",
+    "id": "564897",
+    "link": "https://stevenabb.itch.io/hardcore-landlord-tycoon",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NjY5MDIuanBn/315x250%23c/A0uFuA.jpg",
+    "title": "Hardcore Landlord Tycoon BETA NEED FEEDBACK",
+    "video": null,
+    "scrapeWords": [
+      "Hardcore",
+      "Landlord",
+      "Tycoon",
+      "BETA",
+      "NEED",
+      "FEEDBACK"
+    ]
+  },
+  {
     "author": "Slyka",
     "description": "​A short, story driven game like experience about anxiety",
     "genre": null,
@@ -50287,6 +50272,21 @@
       "Red",
       "Dot",
       "Mover"
+    ]
+  },
+  {
+    "author": "LegionGames",
+    "description": "Relax with some lofi while blocking the pesky ads coming after your user.",
+    "genre": "Rhythm",
+    "id": "565146",
+    "link": "https://legiongames.itch.io/adblocker",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NzQ1MzIucG5n/315x250%23c/a1BIUt.png",
+    "title": "Lofi Adblocker",
+    "video": null,
+    "scrapeWords": [
+      "Lofi",
+      "Adblocker"
     ]
   },
   {
@@ -50387,7 +50387,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NzI2MTkucG5n/315x250%23c/lxgaDK.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5NzU5OTIucG5n/315x250%23c/Mn3Tz3.png",
     "title": "Death Bounce",
     "video": null,
     "scrapeWords": [
@@ -50426,6 +50426,80 @@
     "scrapeWords": [
       "Interknight",
       "Jam-Edition"
+    ]
+  },
+  {
+    "author": "mralex",
+    "description": "You've crash landed on the moon, can you get out?",
+    "genre": "Platformer",
+    "id": "566266",
+    "link": "https://mralex.itch.io/lunar-escape",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NzQ3NzYucG5n/315x250%23c/RMKR7O.png",
+    "title": "Lunar Escape",
+    "video": null,
+    "scrapeWords": [
+      "Lunar",
+      "Escape"
+    ]
+  },
+  {
+    "author": "8corpsgames",
+    "description": "Submarine adventure a free arcade game in the best tradition of hardcore games.",
+    "genre": "Simulation",
+    "id": "566294",
+    "link": "https://8corpsgames.itch.io/submarine-adventure-ballast",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NzQ5NTguanBn/315x250%23c/z9jYzx.jpg",
+    "title": "Submarine adventure: Ballast",
+    "video": null,
+    "scrapeWords": [
+      "Submarine",
+      "adventure",
+      "Ballast"
+    ]
+  },
+  {
+    "author": "Jayanth L",
+    "description": "[WIP] Godot Car Racing Prototype-1",
+    "genre": "Racing",
+    "id": "566325",
+    "link": "https://jayanth-l.itch.io/carracingprototype1godot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NzUxNDcucG5n/315x250%23c/6QAmhr.png",
+    "title": "Car Racing Prototype 1",
+    "video": null,
+    "scrapeWords": [
+      "Car",
+      "Racing",
+      "Prototype",
+      "1"
+    ]
+  },
+  {
+    "author": "Rapiere Gridoro",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "566659",
+    "link": "https://rapiere-gridoro.itch.io/detechicken",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NzY5NzYucG5n/315x250%23c/oL1l%2FC.png",
+    "title": "Detechicken",
+    "video": null,
+    "scrapeWords": [
+      "Detechicken"
     ]
   },
   {
