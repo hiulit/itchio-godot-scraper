@@ -20951,27 +20951,6 @@
     ]
   },
   {
-    "author": "Kıvanç Tezören",
-    "description": "A classic Snake clone for Android, Windows and Linux",
-    "genre": null,
-    "id": "333456",
-    "link": "https://kiwotez.itch.io/fake-snake",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE2NTE5NTYucG5n/315x250%23c/tf3Jxb.png",
-    "title": "Cakma Yılan (Fake Snake)",
-    "video": null,
-    "scrapeWords": [
-      "Cakma",
-      "Yılan",
-      "Fake",
-      "Snake"
-    ]
-  },
-  {
     "author": "lawnjelly",
     "description": "Guide your frog to victory!",
     "genre": "Action",
@@ -22769,23 +22748,6 @@
     "scrapeWords": [
       "Cherry",
       "Jelly"
-    ]
-  },
-  {
-    "author": "Kıvanç Tezören",
-    "description": "Control time with your new present!",
-    "genre": "Platformer",
-    "id": "347004",
-    "link": "https://kiwotez.itch.io/present-time",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjI3NjgucG5n/315x250%23c/9xhBnF.png",
-    "title": "Present Time",
-    "video": null,
-    "scrapeWords": [
-      "Present",
-      "Time"
     ]
   },
   {
@@ -31397,6 +31359,24 @@
       "Room",
       "With",
       "AView"
+    ]
+  },
+  {
+    "author": "eetson",
+    "description": "Entry for the Godot Wild Jam 9",
+    "genre": "Puzzle",
+    "id": "425141",
+    "link": "https://eetson.itch.io/underland",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIxMjI0ODIuanBn/315x250%23c/taDaGC.jpg",
+    "title": "Underland",
+    "video": null,
+    "scrapeWords": [
+      "Underland"
     ]
   },
   {
@@ -50244,7 +50224,7 @@
     "id": "564897",
     "link": "https://stevenabb.itch.io/hardcore-landlord-tycoon",
     "platforms": [
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5NjY5MDIuanBn/315x250%23c/A0uFuA.jpg",
     "title": "Hardcore Landlord Tycoon BETA NEED FEEDBACK",
@@ -50256,6 +50236,21 @@
       "BETA",
       "NEED",
       "FEEDBACK"
+    ]
+  },
+  {
+    "author": "bionick7",
+    "description": "Violent rumba simulator where your healthpcks are also your lightsource",
+    "genre": "Shooter",
+    "id": "565067",
+    "link": "https://bionick7.itch.io/energy-crysis",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NzM0NTMuanBn/315x250%23c/BZGmtc.jpg",
+    "title": "Energy crysis",
+    "video": null,
+    "scrapeWords": [
+      "Energy",
+      "crysis"
     ]
   },
   {
@@ -50500,6 +50495,25 @@
     "video": null,
     "scrapeWords": [
       "Detechicken"
+    ]
+  },
+  {
+    "author": "kiiwiibiirb",
+    "description": "Small platformer :)",
+    "genre": "Platformer",
+    "id": "567166",
+    "link": "https://kiiwiibiirb.itch.io/slinks-adventure",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5Nzk4MzYucG5n/315x250%23c/enpzKl.png",
+    "title": "Slink's Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Slinks",
+      "Adventure"
     ]
   },
   {
