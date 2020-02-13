@@ -11660,7 +11660,7 @@
     "description": "Maintain temperature as you dodge obstacles.",
     "genre": "Action",
     "id": "269920",
-    "link": "https://belz.itch.io/heatfrost",
+    "link": "https://jorgebaptista.itch.io/heatfrost",
     "platforms": [
       "Windows",
       "Linux",
@@ -16391,6 +16391,23 @@
     "scrapeWords": [
       "Time",
       "Wingman"
+    ]
+  },
+  {
+    "author": "kotlin",
+    "description": "A very stressful game about a dungeon full of traps. Can you survive?",
+    "genre": "Puzzle",
+    "id": "294201",
+    "link": "https://kotlin.itch.io/trappy-dungeon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjk0MjAxLzE0MzU5MzUucG5n/315x250%23c/G700rT.png",
+    "title": "Trappy Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Trappy",
+      "Dungeon"
     ]
   },
   {
@@ -42602,22 +42619,6 @@
     ]
   },
   {
-    "author": "indexart",
-    "description": "Domine sua Dungeon e elimine todos os monstros dela!",
-    "genre": "Action",
-    "id": "502171",
-    "link": "https://devinscary.itch.io/gotod",
-    "platforms": [
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1OTkxNzcucG5n/315x250%23c/42s5qk.png",
-    "title": "GOTOD",
-    "video": null,
-    "scrapeWords": [
-      "GOTOD"
-    ]
-  },
-  {
     "author": "XtremeZero",
     "description": "Align the shapes to find the logos hidden in the shadows",
     "genre": "Puzzle",
@@ -44630,25 +44631,6 @@
     ]
   },
   {
-    "author": "frankiezafe",
-    "description": "In collaboration with the choreographer Lisa Nelson",
-    "genre": null,
-    "id": "520102",
-    "link": "https://frankiezafe.itch.io/tuning-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MDI2MjQucG5n/315x250%23c/rUVU%2Bh.png",
-    "title": "Tuning game",
-    "video": null,
-    "scrapeWords": [
-      "Tuning",
-      "game"
-    ]
-  },
-  {
     "author": "Pandaqi",
     "description": "Solve puzzles by falling into each other's arms",
     "genre": "Puzzle",
@@ -45651,6 +45633,22 @@
       "Gate",
       "Alpha",
       "Release"
+    ]
+  },
+  {
+    "author": "LegionGames",
+    "description": "Reigns with a twist",
+    "genre": "Card Game",
+    "id": "530739",
+    "link": "https://legiongames.itch.io/the-good-king",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODQ1MjIuZ2lm/315x250%23cm/AFQe6l.gif",
+    "title": "The Good King",
+    "video": "https://img.itch.zone/aW1nLzI5ODQ1MjIuZ2lm/original/2h%2FT33.gif",
+    "scrapeWords": [
+      "The",
+      "Good",
+      "King"
     ]
   },
   {
@@ -46970,13 +46968,11 @@
     "link": "https://xyqobot.itch.io/johnny-johnny",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI4MjE5NDIucG5n/315x250%23c/lapSkj.png",
-    "title": "Johnny Johnny (Early Access)",
+    "title": "Johnny Johnny",
     "video": null,
     "scrapeWords": [
       "Johnny",
-      "Johnny",
-      "Early",
-      "Access"
+      "Johnny"
     ]
   },
   {
@@ -49313,10 +49309,7 @@
     "genre": "Shooter",
     "id": "556688",
     "link": "https://marcusforsberg.itch.io/zwarm",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI5MTgwNjYucG5n/315x250%23c/chg2Ii.png",
     "title": "Zwarm",
     "video": null,
@@ -50514,6 +50507,53 @@
     "scrapeWords": [
       "Slinks",
       "Adventure"
+    ]
+  },
+  {
+    "author": "lifer87",
+    "description": "Procrastina en el trabajo",
+    "genre": "Action",
+    "id": "567502",
+    "link": "https://lifer87.itch.io/procrastinator",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODE4MDIucG5n/315x250%23c/8g%2FC1i.png",
+    "title": "Procrastinator",
+    "video": null,
+    "scrapeWords": [
+      "Procrastinator"
+    ]
+  },
+  {
+    "author": "Aegide",
+    "description": "Explore the deep abyss",
+    "genre": "Adventure",
+    "id": "567515",
+    "link": "https://aegide.itch.io/grimabyss",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODE4ODIucG5n/315x250%23c/XnspFg.png",
+    "title": "GrimAbyss",
+    "video": null,
+    "scrapeWords": [
+      "Grim",
+      "Abyss"
+    ]
+  },
+  {
+    "author": "Charles",
+    "description": "Short 2D platformer game made with the Godot Engine",
+    "genre": "Platformer",
+    "id": "567862",
+    "link": "https://charlexmachina.itch.io/hoppy-woods",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODM5MzcucG5n/315x250%23c/%2FFvrtY.png",
+    "title": "Hoppy Woods",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Woods"
     ]
   },
   {
