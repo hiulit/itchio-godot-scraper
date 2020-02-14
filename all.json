@@ -16396,7 +16396,7 @@
   {
     "author": "kotlin",
     "description": "A very stressful game about a dungeon full of traps. Can you survive?",
-    "genre": "Puzzle",
+    "genre": "Platformer",
     "id": "294201",
     "link": "https://kotlin.itch.io/trappy-dungeon",
     "platforms": [
@@ -22372,25 +22372,6 @@
     ]
   },
   {
-    "author": "CIULLO CORPORATION",
-    "description": "Planar 3D puzzle game",
-    "genre": "Puzzle",
-    "id": "342985",
-    "link": "https://ciullocorporation.itch.io/chyrkyan-trial",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NjAxMzkuanBn/315x250%23c/9arP%2FZ.jpg",
-    "title": "[PC] Chyrkyan Trial II",
-    "video": null,
-    "scrapeWords": [
-      "[PC]",
-      "Chyrkyan",
-      "Trial",
-      "II"
-    ]
-  },
-  {
     "author": "rresto",
     "description": "A clone of the game Pong",
     "genre": "Action",
@@ -27768,6 +27749,23 @@
     "scrapeWords": [
       "Retro",
       "Pong"
+    ]
+  },
+  {
+    "author": "mdogdope",
+    "description": "A space adventure",
+    "genre": "Simulation",
+    "id": "393243",
+    "link": "https://mdogdope.itch.io/galbarion",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE5NjMxMzcucG5n/315x250%23c/ttt3wn.png",
+    "title": "Galbarion",
+    "video": null,
+    "scrapeWords": [
+      "Galbarion"
     ]
   },
   {
@@ -36717,7 +36715,7 @@
   },
   {
     "author": "Tim Krief",
-    "description": "Only one room. Keep it safe. Avoid damaging it.",
+    "description": "Only four thin walls between you and...",
     "genre": "Action",
     "id": "462421",
     "link": "https://timkrief.itch.io/the-last-safe-room",
@@ -43820,7 +43818,6 @@
     "id": "512783",
     "link": "https://gocolumbia.itch.io/trash-town",
     "platforms": [
-      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2NjIzODcucG5n/315x250%23c/VMTW2A.png",
@@ -44628,6 +44625,25 @@
     "scrapeWords": [
       "Shark",
       "Hero"
+    ]
+  },
+  {
+    "author": "frankiezafe",
+    "description": "In collaboration with the choreographer Lisa Nelson",
+    "genre": null,
+    "id": "520102",
+    "link": "https://frankiezafe.itch.io/tuning-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MDI2MjQucG5n/315x250%23c/rUVU%2Bh.png",
+    "title": "Tuning game",
+    "video": null,
+    "scrapeWords": [
+      "Tuning",
+      "game"
     ]
   },
   {
@@ -46520,6 +46536,25 @@
     "scrapeWords": [
       "Omega",
       "Patrol"
+    ]
+  },
+  {
+    "author": "DayvidFM",
+    "description": "Escape from the afterlife prison. All the gates are closing in less than a minute. You only have a wand.",
+    "genre": "Action",
+    "id": "536385",
+    "link": "https://dayvidfm.itch.io/limbobreak",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODg4MTIucG5n/315x250%23c/rX%2FfkG.png",
+    "title": "LimboBreak",
+    "video": null,
+    "scrapeWords": [
+      "Limbo",
+      "Break"
     ]
   },
   {
@@ -50542,7 +50577,7 @@
     ]
   },
   {
-    "author": "Charles",
+    "author": "Carlos E. Pérez",
     "description": "Short 2D platformer game made with the Godot Engine",
     "genre": "Platformer",
     "id": "567862",
@@ -50554,6 +50589,52 @@
     "scrapeWords": [
       "Hoppy",
       "Woods"
+    ]
+  },
+  {
+    "author": "AmDMaster",
+    "description": "Play as an Ice Cube till you Melt",
+    "genre": null,
+    "id": "567934",
+    "link": "https://amdmaster.itch.io/reach-the-freezers",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODQyODIucG5n/315x250%23c/y1zNsw.png",
+    "title": "Reach the Freezers!",
+    "video": null,
+    "scrapeWords": [
+      "Reach",
+      "the",
+      "Freezers"
+    ]
+  },
+  {
+    "author": "clerkliercorgi",
+    "description": "Save the cookies from dunking into the Milky Way!",
+    "genre": "Platformer",
+    "id": "568138",
+    "link": "https://clerkliercorgi.itch.io/milkyway",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODUyMzUucG5n/315x250%23c/7auSri.png",
+    "title": "Milky Way",
+    "video": null,
+    "scrapeWords": [
+      "Milky",
+      "Way"
+    ]
+  },
+  {
+    "author": "Mischka Kamener",
+    "description": "Casual puzzle game - played best on mobile",
+    "genre": "Puzzle",
+    "id": "568556",
+    "link": "https://mischkakamener.itch.io/pathslider",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODcyMTUucG5n/315x250%23c/1B6IDc.png",
+    "title": "PathSlider",
+    "video": null,
+    "scrapeWords": [
+      "Path",
+      "Slider"
     ]
   },
   {
