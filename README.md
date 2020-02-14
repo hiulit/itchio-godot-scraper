@@ -19,11 +19,11 @@ https://itchio-godot-scraper.now.sh
 
 ## How does the scraper finds games
 
-To find a specific game, the scraper uses `/api/game/:title`.
+To find a specific game, the scraper uses `/api/game/title/:title`.
 
-What the scrapes does is take `:title` and split in words, following some conventions (see below). Then it looks for all the games that have those words in it, and returns the one that have the more words.
+What the scrapes does is take `:title` parameter and split it in words, following some conventions (see below). Then it looks for all the games that have those words in it, and returns the one that have the more words.
 
-For the scraper to be able find the game, the game's name/title (and particularly the game's build name) needs to follow any of these conventions:
+For the scraper to be able find the game, the game's title (and particularly the game's build name) needs to follow any of these conventions:
 
 - It must be camelCase (e.g. `thisIsMyGame`).
 - It must use dashes or underscores (e.g. `this-is-my-game` or `this_is_my_game`).
@@ -36,5 +36,9 @@ For the scraper to be able find the game, the game's name/title (and particularl
 
 For the scraper to be able to find a game, the game's build name must follow these conventions:
 
-- It must have the game's title in it (it may seem obvious but some game builds doesnt' match with the game's title at all).
-- It must follow the above conventions.
+- It must have the game's title in it (it may seem obvious but some game builds doesn't match with the game's title at all).
+- It must follow any of the conventions above.
+
+## License
+
+[MIT License](LICENSE).
