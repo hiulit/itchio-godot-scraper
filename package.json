@@ -1,7 +1,7 @@
 {
-  "name": "itchio-scraper",
+  "name": "itchio-godot-scraper",
   "version": "1.0.0",
-  "description": "Scrape Godot games on itch.io",
+  "description": "A scraper for Godot games hosted on https://itch.io/",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node index.js",
@@ -15,8 +15,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
-    "nodemon": "^1.19.1",
-    "request": "^2.88.0"
+    "nodemon": "^2.0.2",
+    "request": "^2.88.2"
   },
   "engines": {
     "node": "12.x"
