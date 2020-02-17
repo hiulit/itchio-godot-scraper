@@ -34,7 +34,7 @@
       "methods": ["GET"]
     },
     {
-      "src": "/api/author/top/(?<number>[^/]+)",
+      "src": "/api/authors/top/(?<number>[^/]+)",
       "dest": "/index.js?number=$1",
       "methods": ["GET"]
     },
