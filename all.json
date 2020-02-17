@@ -1833,6 +1833,23 @@
     ]
   },
   {
+    "author": "Burnerknight Studios",
+    "description": "Bladerunner and Tron meets Dungeons & Dragons",
+    "genre": "Role Playing",
+    "id": "151270",
+    "link": "https://burnerknight-studios.itch.io/desktop-dungeon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTUxMjcwLzY5MjU0NS5qcGc=/315x250%23c/RqzWbp.jpg",
+    "title": "Desktop Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Desktop",
+      "Dungeon"
+    ]
+  },
+  {
     "author": "ash_makes",
     "description": "Magical Bean platformer",
     "genre": "Platformer",
@@ -23149,6 +23166,8 @@
     "id": "351359",
     "link": "https://bagdev-studios.itch.io/coxinhahero",
     "platforms": [
+      "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0ODc2MzIucG5n/315x250%23c/JJUt9M.png",
@@ -36037,20 +36056,6 @@
     ]
   },
   {
-    "author": "Drillur",
-    "description": "Mine for ore, smelt resources, and harvest cancer.",
-    "genre": null,
-    "id": "461027",
-    "link": "https://drillur.itch.io/lored",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzNzM1OTgucG5n/315x250%23c/EcOQjy.png",
-    "title": "LORED",
-    "video": null,
-    "scrapeWords": [
-      "LORED"
-    ]
-  },
-  {
     "author": "Durbo",
     "description": "A typing game with single character length enemies",
     "genre": "Action",
@@ -36433,7 +36438,7 @@
   },
   {
     "author": "Greaby",
-    "description": "Jeu multijoueur de 2 à 4 joueurs. Vous devez vous battre pour manger le dernier fromage.",
+    "description": "Jeu multijoueur de 2 à 4 joueurs. Battez-vous pour attraper le fromage.",
     "genre": "Fighting",
     "id": "461849",
     "link": "https://greaby.itch.io/crispy-cheese",
@@ -42982,11 +42987,11 @@
     ]
   },
   {
-    "author": "Gray Parse",
+    "author": "Zextillion",
     "description": "You are a ghost. Haunt your gravekeeper. Or not.",
     "genre": "Interactive Fiction",
     "id": "505932",
-    "link": "https://gray-parse.itch.io/untitled-ghost-game",
+    "link": "https://zextillion.itch.io/untitled-ghost-game",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI2MjI2ODQucG5n/315x250%23c/9d1i%2BN.png",
     "title": "Untitled Ghost Game",
@@ -46774,15 +46779,15 @@
     ]
   },
   {
-    "author": "Gray Parse",
+    "author": "Zextillion",
     "description": "Initially I called it a metroidvania but it's not really, at least right now.",
     "genre": "Platformer",
     "id": "538941",
-    "link": "https://gray-parse.itch.io/fantasy-action-platformer",
+    "link": "https://zextillion.itch.io/fantasy-action-platformer",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MDUxNzgucG5n/315x250%23c/ypdOsV.png",
+    "thumb": "https://img.itch.zone/aW1nLzI5OTc1OTMucG5n/315x250%23c/1aeIC1.png",
     "title": "Fantasy Action Platformer WIP",
     "video": null,
     "scrapeWords": [
@@ -50246,27 +50251,6 @@
     ]
   },
   {
-    "author": "Steven Beebe",
-    "description": "Very difficult investing game with hardcore number calculations",
-    "genre": "Simulation",
-    "id": "564897",
-    "link": "https://stevenabb.itch.io/hardcore-landlord-tycoon",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NjY5MDIuanBn/315x250%23c/A0uFuA.jpg",
-    "title": "Hardcore Landlord Tycoon BETA NEED FEEDBACK",
-    "video": null,
-    "scrapeWords": [
-      "Hardcore",
-      "Landlord",
-      "Tycoon",
-      "BETA",
-      "NEED",
-      "FEEDBACK"
-    ]
-  },
-  {
     "author": "bionick7",
     "description": "Violent rumba simulator where your healthpcks are also your lightsource",
     "genre": "Shooter",
@@ -50526,25 +50510,6 @@
     ]
   },
   {
-    "author": "kiiwiibiirb",
-    "description": "Small platformer :)",
-    "genre": "Platformer",
-    "id": "567166",
-    "link": "https://kiiwiibiirb.itch.io/slinks-adventure",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5Nzk4MzYucG5n/315x250%23c/enpzKl.png",
-    "title": "Slink's Adventure",
-    "video": null,
-    "scrapeWords": [
-      "Slinks",
-      "Adventure"
-    ]
-  },
-  {
     "author": "lifer87",
     "description": "Procrastina en el trabajo",
     "genre": "Action",
@@ -50574,6 +50539,24 @@
     "scrapeWords": [
       "Grim",
       "Abyss"
+    ]
+  },
+  {
+    "author": "Vasilis Chonianakis",
+    "description": null,
+    "genre": "Survival",
+    "id": "567806",
+    "link": "https://negator2vc.itch.io/they-are-coming-for-us",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODM1OTQucG5n/315x250%23c/QJ769I.png",
+    "title": "They Are Coming For Us!",
+    "video": null,
+    "scrapeWords": [
+      "They",
+      "Are",
+      "Coming",
+      "For",
+      "Us"
     ]
   },
   {
@@ -50635,6 +50618,57 @@
     "scrapeWords": [
       "Path",
       "Slider"
+    ]
+  },
+  {
+    "author": "Djaro",
+    "description": "A cat is in love, and wants a gift to give to his girlfriend",
+    "genre": "Puzzle",
+    "id": "569087",
+    "link": "https://djaro.itch.io/catsoflove",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5OTAyNjcucG5n/315x250%23c/kM15%2BO.png",
+    "title": "CatsOfLove",
+    "video": null,
+    "scrapeWords": [
+      "Cats",
+      "Of",
+      "Love"
+    ]
+  },
+  {
+    "author": "ChrisDanger",
+    "description": "No one asked for this, so here you go!",
+    "genre": "Survival",
+    "id": "569478",
+    "link": "https://chrisdanger.itch.io/shoot-em-dead",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5OTI2MzAuanBn/315x250%23c/cw5T33.jpg",
+    "title": "Shoot Em Dead",
+    "video": null,
+    "scrapeWords": [
+      "Shoot",
+      "Em",
+      "Dead"
+    ]
+  },
+  {
+    "author": "LegionGames",
+    "description": "Where does time come from?",
+    "genre": "Puzzle",
+    "id": "569562",
+    "link": "https://legiongames.itch.io/chronofactory",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5OTI3ODMuZ2lm/315x250%23cm/I%2BGAZr.gif",
+    "title": "ChronoFactory",
+    "video": "https://img.itch.zone/aW1nLzI5OTI3ODMuZ2lm/original/cw1vl9.gif",
+    "scrapeWords": [
+      "Chrono",
+      "Factory"
     ]
   },
   {
