@@ -13,6 +13,7 @@ https://itchio-godot-scraper.now.sh
 - `/api/game/title/:title` - Get game by title.
 - `/api/game/id/:id` - Get game by id.
 - `/api/authors` - Get all the authors.
+- `/api/authors/top/:number` - Get top authors by game count.
 - `/api/author/:author` - Get games by author.
 - `/api/platforms` - Get all the platforms.
 - `/api/platforms/:platform` - Get games by platform.

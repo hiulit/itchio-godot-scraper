@@ -11,58 +11,47 @@
     {
       "src": "/api",
       "dest": "/index.js",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
     },
     {
       "src": "/api/games",
       "dest": "/index.js",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
     },
     {
       "src": "/api/game/title/(?<title>[^/]+)",
       "dest": "/index.js?title=$1",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
     },
     {
       "src": "/api/game/id/(?<id>[^/]+)",
       "dest": "/index.js?id=$1",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
     },
     {
       "src": "/api/authors",
       "dest": "/index.js",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
+    },
+    {
+      "src": "/api/author/top/(?<number>[^/]+)",
+      "dest": "/index.js?number=$1",
+      "methods": ["GET"]
     },
     {
       "src": "/api/author/(?<author>[^/]+)",
       "dest": "/index.js?author=$1",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
     },
     {
       "src": "/api/platforms",
       "dest": "/index.js",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
     },
     {
       "src": "/api/platform/(?<platform>[^/]+)",
       "dest": "/index.js?platform=$1",
-      "methods": [
-        "GET"
-      ]
+      "methods": ["GET"]
     }
   ]
 }
