@@ -36056,6 +36056,20 @@
     ]
   },
   {
+    "author": "Drillur",
+    "description": "Mine for ore, smelt resources, and harvest cancer.",
+    "genre": null,
+    "id": "461027",
+    "link": "https://drillur.itch.io/lored",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzNzM1OTgucG5n/315x250%23c/EcOQjy.png",
+    "title": "LORED",
+    "video": null,
+    "scrapeWords": [
+      "LORED"
+    ]
+  },
+  {
     "author": "Durbo",
     "description": "A typing game with single character length enemies",
     "genre": "Action",
@@ -38880,7 +38894,7 @@
     ]
   },
   {
-    "author": "DaveTheDev",
+    "author": "EXPWorlds",
     "description": "You're dead - Now it's up to you to decide who you're going to trust, an Angel from Heaven, or a Demon from Hell.",
     "genre": "Shooter",
     "id": "475867",
@@ -44633,25 +44647,6 @@
     ]
   },
   {
-    "author": "frankiezafe",
-    "description": "In collaboration with the choreographer Lisa Nelson",
-    "genre": null,
-    "id": "520102",
-    "link": "https://frankiezafe.itch.io/tuning-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MDI2MjQucG5n/315x250%23c/rUVU%2Bh.png",
-    "title": "Tuning game",
-    "video": null,
-    "scrapeWords": [
-      "Tuning",
-      "game"
-    ]
-  },
-  {
     "author": "Pandaqi",
     "description": "Solve puzzles by falling into each other's arms",
     "genre": "Puzzle",
@@ -47493,6 +47488,20 @@
     ]
   },
   {
+    "author": "Jack LaLonde",
+    "description": "Race and explore on an open island",
+    "genre": "Racing",
+    "id": "542990",
+    "link": "https://jlalonde.itch.io/coast",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4ODg1MjkucG5n/315x250%23c/yi4yJk.png",
+    "title": "Coast",
+    "video": null,
+    "scrapeWords": [
+      "Coast"
+    ]
+  },
+  {
     "author": "DragMZ",
     "description": "Sokoban-like made with Godot Engine",
     "genre": "Puzzle",
@@ -49561,6 +49570,22 @@
     ]
   },
   {
+    "author": "zacryol",
+    "description": "An open source word guessing game with fully customizable entries",
+    "genre": "Puzzle",
+    "id": "559331",
+    "link": "https://zacryol.itch.io/spindle-of-serendipity",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5OTkwOTQucG5n/315x250%23c/P8%2FZUN.png",
+    "title": "spindle of serendipity",
+    "video": null,
+    "scrapeWords": [
+      "spindle",
+      "of",
+      "serendipity"
+    ]
+  },
+  {
     "author": "Openhood",
     "description": null,
     "genre": "Action",
@@ -50416,6 +50441,24 @@
     "video": "https://img.itch.zone/aW1nLzI5NzMxODEuZ2lm/original/g7SqBI.gif",
     "scrapeWords": [
       "Etherblade"
+    ]
+  },
+  {
+    "author": "Patel Meru",
+    "description": null,
+    "genre": null,
+    "id": "565951",
+    "link": "https://janglee.itch.io/tower-defense",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": null,
+    "title": "Tower Defense",
+    "video": null,
+    "scrapeWords": [
+      "Tower",
+      "Defense"
     ]
   },
   {
