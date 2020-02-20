@@ -6039,25 +6039,6 @@
     ]
   },
   {
-    "author": "RustyMonky",
-    "description": "Submission for Weekly Gam Jam #30",
-    "genre": "Simulation",
-    "id": "222764",
-    "link": "https://rustymonky.itch.io/stop-them-you-fools",
-    "platforms": [
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjIyNzY0LzExNTU0MjUucG5n/315x250%23c/32D4%2B8.png",
-    "title": "Stop Them, You Fools",
-    "video": null,
-    "scrapeWords": [
-      "Stop",
-      "Them",
-      "You",
-      "Fools"
-    ]
-  },
-  {
     "author": "Tachyons",
     "description": "The WarioWare of memes",
     "genre": "Action",
@@ -8715,6 +8696,7 @@
     "link": "https://damienp.itch.io/shit-country-sweeper",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMjQ4MDYzLzExODk4NTkucG5n/315x250%23c/ZgZqr7.png",
@@ -21609,25 +21591,6 @@
     ]
   },
   {
-    "author": "LiamIsUnlucky",
-    "description": "LudemDare 43 Compo",
-    "genre": null,
-    "id": "338428",
-    "link": "https://liam-swarbrick.itch.io/floweryou",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE2Nzg5MDAuZ2lm/315x250%23cm/ud73N3.gif",
-    "title": "Flower>You",
-    "video": "https://img.itch.zone/aW1nLzE2Nzg5MDAuZ2lm/original/d8zwmA.gif",
-    "scrapeWords": [
-      "Flower",
-      "You"
-    ]
-  },
-  {
     "author": "vinzBad",
     "description": "My entry for LD43",
     "genre": "Adventure",
@@ -22989,6 +22952,24 @@
     ]
   },
   {
+    "author": "GreenieGames",
+    "description": "Just your average top-down-shooter",
+    "genre": null,
+    "id": "349568",
+    "link": "https://greeniegames.itch.io/stuntds",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": null,
+    "title": "Stun TDS",
+    "video": null,
+    "scrapeWords": [
+      "Stun",
+      "TDS"
+    ]
+  },
+  {
     "author": "olaff",
     "description": "Simple and fun football game",
     "genre": "Sports",
@@ -23369,6 +23350,24 @@
     "video": null,
     "scrapeWords": [
       "Pew"
+    ]
+  },
+  {
+    "author": "kotob",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "352917",
+    "link": "https://asheraryam.itch.io/flying-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": null,
+    "title": "A Flying Game",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Flying",
+      "Game"
     ]
   },
   {
@@ -39936,11 +39935,11 @@
     ]
   },
   {
-    "author": "deciesivedovegames",
+    "author": "decisivedovegames",
     "description": "Merge with other balls to grow.",
     "genre": "Platformer",
     "id": "483469",
-    "link": "https://deciesivedovegames.itch.io/ball-merger",
+    "link": "https://decisivedovegames.itch.io/ball-merger",
     "platforms": [
       "Windows",
       "Linux",
@@ -47489,12 +47488,14 @@
   },
   {
     "author": "Jack LaLonde",
-    "description": "Race and explore on an open island",
+    "description": "Race and explore on floating islands in the sky",
     "genre": "Racing",
     "id": "542990",
     "link": "https://jlalonde.itch.io/coast",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4ODg1MjkucG5n/315x250%23c/yi4yJk.png",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMDgxMjMucG5n/315x250%23c/jfrhiP.png",
     "title": "Coast",
     "video": null,
     "scrapeWords": [
@@ -49151,6 +49152,24 @@
     ]
   },
   {
+    "author": "RenasDev",
+    "description": "Action horror game",
+    "genre": "Action",
+    "id": "553734",
+    "link": "https://renasdev.itch.io/project-z",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMDQ2NTUucG5n/315x250%23c/CHB4Dz.png",
+    "title": "Project Z",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "Z"
+    ]
+  },
+  {
     "author": "gerald1248",
     "description": "80s style shooter loosely based on Thrust and Gravitar",
     "genre": "Action",
@@ -49468,7 +49487,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5MjY3NDQucG5n/315x250%23c/NbKEiZ.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMDY5MDAucG5n/315x250%23c/DmRWuS.png",
     "title": "Autistic Geometry",
     "video": null,
     "scrapeWords": [
@@ -50339,6 +50358,24 @@
     ]
   },
   {
+    "author": "K-Arthur Games",
+    "description": "Feed your caterpillar to become a pretty butterfly.",
+    "genre": "Action",
+    "id": "565309",
+    "link": "https://k-arthur-games.itch.io/the-great-grub",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5Njk2MjIucG5n/315x250%23c/qzKzfL.png",
+    "title": "The Great Grub",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Great",
+      "Grub"
+    ]
+  },
+  {
     "author": "DaVinci789",
     "description": "A short platformer about a kid and his dog trying to get out of the depths of hell",
     "genre": "Platformer",
@@ -50585,6 +50622,21 @@
     ]
   },
   {
+    "author": "Matt",
+    "description": null,
+    "genre": "Adventure",
+    "id": "567648",
+    "link": "https://mattshyu.itch.io/dead-color",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMDc1MTEucG5n/315x250%23c/HqcIWQ.png",
+    "title": "Dead Color",
+    "video": null,
+    "scrapeWords": [
+      "Dead",
+      "Color"
+    ]
+  },
+  {
     "author": "Vasilis Chonianakis",
     "description": null,
     "genre": "Survival",
@@ -50751,6 +50803,56 @@
       "the",
       "ns",
       "Sword"
+    ]
+  },
+  {
+    "author": "Daring01",
+    "description": "gameboy like top down shooter",
+    "genre": "Survival",
+    "id": "571330",
+    "link": "https://daring01.itch.io/a-zombie-shooter-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMDMwNDcuanBn/315x250%23c/GKfElu.jpg",
+    "title": "A Zombie Shooter Game",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Zombie",
+      "Shooter",
+      "Game"
+    ]
+  },
+  {
+    "author": "ansimuz",
+    "description": "A Game about a Plague  transmitted by the rain",
+    "genre": "Survival",
+    "id": "571519",
+    "link": "https://ansimuz.itch.io/plage-road",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMDQyNjIucG5n/315x250%23c/dPXVTy.png",
+    "title": "Plague Road",
+    "video": null,
+    "scrapeWords": [
+      "Plague",
+      "Road"
+    ]
+  },
+  {
+    "author": "lajollagamesclub",
+    "description": "Pilot a sub, blind!",
+    "genre": "Action",
+    "id": "571549",
+    "link": "https://lajollagamesclub.itch.io/podmornica",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMDgyNTQucG5n/315x250%23c/GUDSYx.png",
+    "title": "Podmornica",
+    "video": null,
+    "scrapeWords": [
+      "Podmornica"
     ]
   },
   {
