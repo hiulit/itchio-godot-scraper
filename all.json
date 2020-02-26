@@ -1134,6 +1134,26 @@
     ]
   },
   {
+    "author": "beelzy",
+    "description": "A libre Metroidvania game",
+    "genre": "Platformer",
+    "id": "134825",
+    "link": "https://beelzy.itch.io/the-diasporic-crypt",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTM0ODI1LzY3MjY4MC5wbmc=/315x250%23c/LzWQTs.png",
+    "title": "The Diasporic Crypt",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Diasporic",
+      "Crypt"
+    ]
+  },
+  {
     "author": "AlexHoratio",
     "description": "Be a robot, collect shoes, don't run out of power!",
     "genre": "Action",
@@ -8515,6 +8535,26 @@
       "Break",
       "Ludumdare",
       "41"
+    ]
+  },
+  {
+    "author": "joh",
+    "description": "High-speed racing to the beat! (Made for LD41)",
+    "genre": "Racing",
+    "id": "247610",
+    "link": "https://johjoh.itch.io/hyper-beat-engine",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjQ3NjEwLzExODczOTIuZ2lm/315x250%23cm/9OtWt0.gif",
+    "title": "Hyper Beat Engine",
+    "video": "https://img.itch.zone/aW1hZ2UvMjQ3NjEwLzExODczOTIuZ2lm/original/nEFGRx.gif",
+    "scrapeWords": [
+      "Hyper",
+      "Beat",
+      "Engine"
     ]
   },
   {
@@ -21803,6 +21843,26 @@
     ]
   },
   {
+    "author": "joh",
+    "description": "Instakill 3-attack fighting game (Made for LD43)",
+    "genre": "Fighting",
+    "id": "339328",
+    "link": "https://johjoh.itch.io/hyperfight-ld43",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE2ODIzMzMucG5n/315x250%23c/DVjUSF.png",
+    "title": "HYPERFIGHT (LD43 ver.)",
+    "video": null,
+    "scrapeWords": [
+      "HYPERFIGHT",
+      "LD43",
+      "ver"
+    ]
+  },
+  {
     "author": "devharts",
     "description": "[Ludum Dare #43] Rescue the unicorn eggs!",
     "genre": "Adventure",
@@ -30877,9 +30937,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NjQ0MzQucG5n/315x250%23c/C8JDT7.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzQ5MzkuZ2lm/315x250%23cm/qoti04.gif",
     "title": "Hive Time",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzMwMzQ5MzkuZ2lm/original/M8BJKP.gif",
     "scrapeWords": [
       "Hive",
       "Time"
@@ -35030,7 +35090,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzMjI4ODgucG5n/315x250%23c/wIPAu1.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzQ1NzgucG5n/315x250%23c/TOzRDU.png",
     "title": "SpaceMail",
     "video": null,
     "scrapeWords": [
@@ -36737,11 +36797,11 @@
     ]
   },
   {
-    "author": "David Saltares",
+    "author": "dsaltares",
     "description": "One wizard. One spell. One dungeon.",
     "genre": "Action",
     "id": "462319",
-    "link": "https://david-saltares.itch.io/onederfulwizard",
+    "link": "https://dsaltares.itch.io/onederfulwizard",
     "platforms": [
       "Windows",
       "Linux",
@@ -39525,11 +39585,11 @@
     ]
   },
   {
-    "author": "Truffelbaguette",
+    "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
     "id": "480203",
-    "link": "https://truffelbaguette.itch.io/painsplasher",
+    "link": "https://timon-herzog.itch.io/painsplasher",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0NzI4NzAucG5n/315x250%23c/LIphzD.png",
     "title": "PaintSplasher",
@@ -41629,6 +41689,24 @@
     ]
   },
   {
+    "author": "joh",
+    "description": "Grid-based? roguelite (Made for LD45)",
+    "genre": "Action",
+    "id": "494620",
+    "link": "https://johjoh.itch.io/rewriter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTczMjIuZ2lm/315x250%23cm/uQoJA6.gif",
+    "title": "REWRITER",
+    "video": "https://img.itch.zone/aW1nLzI1NTczMjIuZ2lm/original/rf2j2K.gif",
+    "scrapeWords": [
+      "REWRITER"
+    ]
+  },
+  {
     "author": "Cleverzoid",
     "description": "A game where you explore a ancient castle filled with interesting puzzles",
     "genre": "Puzzle",
@@ -42602,6 +42680,21 @@
       "My",
       "Shadows",
       "Keeper"
+    ]
+  },
+  {
+    "author": "joh",
+    "description": "It's festival time, and demons are running wild!",
+    "genre": "Action",
+    "id": "501581",
+    "link": "https://johjoh.itch.io/demon-festival",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1OTU2MDUucG5n/315x250%23c/WlELGD.png",
+    "title": "Demon Festival",
+    "video": null,
+    "scrapeWords": [
+      "n",
+      "Festival"
     ]
   },
   {
@@ -49639,7 +49732,10 @@
     "genre": "Puzzle",
     "id": "559331",
     "link": "https://zacryol.itch.io/spindle-of-serendipity",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI5OTkwOTQucG5n/315x250%23c/P8%2FZUN.png",
     "title": "spindle of serendipity",
     "video": null,
@@ -49970,7 +50066,7 @@
   },
   {
     "author": "P10er101",
-    "description": "Building the ultimate diving game for Android and possibly iOS",
+    "description": "Building the ultimate mobile diving game",
     "genre": "Sports",
     "id": "561322",
     "link": "https://p10er101.itch.io/pixeldiving",
@@ -50633,6 +50729,25 @@
     ]
   },
   {
+    "author": "kiiwiibiirb",
+    "description": "Small platformer :)",
+    "genre": "Platformer",
+    "id": "567166",
+    "link": "https://kiiwiibiirb.itch.io/slinks-adventure",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5Nzk4MzYucG5n/315x250%23c/enpzKl.png",
+    "title": "Slink's Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Slinks",
+      "Adventure"
+    ]
+  },
+  {
     "author": "lifer87",
     "description": "Procrastina en el trabajo",
     "genre": "Action",
@@ -50729,11 +50844,11 @@
     ]
   },
   {
-    "author": "clerkliercorgi",
+    "author": "Everyman",
     "description": "Save the cookies from dunking into the Milky Way!",
     "genre": "Platformer",
     "id": "568138",
-    "link": "https://clerkliercorgi.itch.io/milkyway",
+    "link": "https://everyman.itch.io/milkyway",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI5ODUyMzUucG5n/315x250%23c/7auSri.png",
     "title": "Milky Way",
@@ -50820,7 +50935,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMjUzNzYucG5n/315x250%23c/loHtZQ.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzA0MzUucG5n/315x250%23c/aV6XG%2B.png",
     "title": "Holedown",
     "video": null,
     "scrapeWords": [
@@ -50936,6 +51051,25 @@
     ]
   },
   {
+    "author": "TreeTimes",
+    "description": "a cool mosquito game",
+    "genre": "Survival",
+    "id": "571442",
+    "link": "https://treetimes.itch.io/flying-plague",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzA1NDEucG5n/315x250%23c/xFPiTM.png",
+    "title": "Flying Plague",
+    "video": null,
+    "scrapeWords": [
+      "Flying",
+      "Plague"
+    ]
+  },
+  {
     "author": "jibbs",
     "description": "Sokoban puzzle-game made for Brackeys GameJam 2020.1",
     "genre": "Puzzle",
@@ -50956,7 +51090,6 @@
     "id": "571519",
     "link": "https://ansimuz.itch.io/plage-road",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -51104,11 +51237,7 @@
     "genre": "Action",
     "id": "572707",
     "link": "https://jwillc.itch.io/1080-chase-in-progress",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMwMTE4NTMucG5n/315x250%23c/jbPawV.png",
     "title": "1080 Chase in Progress",
     "video": null,
@@ -51368,11 +51497,31 @@
     ]
   },
   {
-    "author": "David Saltares",
+    "author": "pmarkee",
+    "description": "Shmup-like game created for the Godot Wild Jam #18",
+    "genre": "Shooter",
+    "id": "574706",
+    "link": "https://pmarkee.itch.io/heal-em-up",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMjg4MDkucG5n/315x250%23c/ubGy7h.png",
+    "title": "Heal 'em Up",
+    "video": null,
+    "scrapeWords": [
+      "Heal",
+      "em",
+      "Up"
+    ]
+  },
+  {
+    "author": "dsaltares",
     "description": "Survive The Plague",
     "genre": "Platformer",
     "id": "574758",
-    "link": "https://david-saltares.itch.io/plague",
+    "link": "https://dsaltares.itch.io/plague",
     "platforms": [
       "Windows",
       "Linux",
@@ -51405,7 +51554,7 @@
   },
   {
     "author": "joel127",
-    "description": "Year 2037: pilot a Haverstor drone in an environment ravaged by locust swarms.",
+    "description": "Year 2037: pilot a Haverstor drone in an environment plagued by locust swarms.",
     "genre": "Puzzle",
     "id": "574803",
     "link": "https://joel127.itch.io/harvestor-3000",
@@ -51414,7 +51563,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMjU1ODEucG5n/315x250%23c/yYkQvz.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzUyNjAucG5n/315x250%23c/qdaRwl.png",
     "title": "Harvestor",
     "video": null,
     "scrapeWords": [
@@ -51460,6 +51609,24 @@
     ]
   },
   {
+    "author": "Kijo",
+    "description": "Love",
+    "genre": "Puzzle",
+    "id": "575140",
+    "link": "https://kijo.itch.io/hongo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMjY0MTYucG5n/315x250%23c/V9gEQL.png",
+    "title": "Hongo",
+    "video": null,
+    "scrapeWords": [
+      "Hongo"
+    ]
+  },
+  {
     "author": "IcefoxZettai",
     "description": "Submission for GameJam Argentina Online 2",
     "genre": "Puzzle",
@@ -51481,6 +51648,24 @@
     ]
   },
   {
+    "author": "bitshift-r",
+    "description": "Hunt for harmful bacterial before the antibodies catch you.",
+    "genre": "Action",
+    "id": "575226",
+    "link": "https://bitshift-r.itch.io/germicidal",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMjY5NDcucG5n/315x250%23c/AzxhgE.png",
+    "title": "Germicidal",
+    "video": null,
+    "scrapeWords": [
+      "Germicidal"
+    ]
+  },
+  {
     "author": "ralh",
     "description": "Team up with an unlikely ally to escape the Labyrinth!",
     "genre": "Action",
@@ -51495,6 +51680,229 @@
     "scrapeWords": [
       "The",
       "Labyrinth"
+    ]
+  },
+  {
+    "author": "730",
+    "description": "1v1 mostly luck-based western duel",
+    "genre": "Fighting",
+    "id": "575409",
+    "link": "https://730.itch.io/cowboy-duel",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMjc3MjQucG5n/315x250%23c/76UzxY.png",
+    "title": "Cowboy Duel",
+    "video": null,
+    "scrapeWords": [
+      "Cowboy",
+      "Duel"
+    ]
+  },
+  {
+    "author": "MVP Good Games Easy",
+    "description": "You have to develop a cure for a new plague which was just found on earth.",
+    "genre": null,
+    "id": "575497",
+    "link": "https://mvpggez.itch.io/pandemic-cold-war",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzAxODIucG5n/315x250%23c/rZf8WO.png",
+    "title": "Pandemic : Cold War V",
+    "video": null,
+    "scrapeWords": [
+      "Pandemic",
+      "Cold",
+      "War",
+      "V"
+    ]
+  },
+  {
+    "author": "DeadAppleGames [Regie]",
+    "description": "Lovecraftian platformer, not what we imagined, but we tried! :D",
+    "genre": "Platformer",
+    "id": "575714",
+    "link": "https://deadapple.itch.io/we-tried-the-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMjk3NzkucG5n/315x250%23c/OwyhJ4.png",
+    "title": "We Tried: The Game",
+    "video": null,
+    "scrapeWords": [
+      "We",
+      "Tried",
+      "The",
+      "Game"
+    ]
+  },
+  {
+    "author": "justinwash",
+    "description": "Test your knowledge of the 1983 plagues of New Egypt, New Jersey, USA",
+    "genre": "Interactive Fiction",
+    "id": "575739",
+    "link": "https://justinwash.itch.io/plaguearism",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzA4NzYucG5n/315x250%23c/5LXm4p.png",
+    "title": "Plaguearism",
+    "video": null,
+    "scrapeWords": [
+      "Plaguearism"
+    ]
+  },
+  {
+    "author": "dingsbums productions",
+    "description": "Arcade Topdown Action Shooter",
+    "genre": "Action",
+    "id": "575778",
+    "link": "https://dingsbumsproductions.itch.io/buggy-battle",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzAxNzYuanBn/315x250%23c/xVFPAK.jpg",
+    "title": "Buggy Battle",
+    "video": null,
+    "scrapeWords": [
+      "Buggy",
+      "Battle"
+    ]
+  },
+  {
+    "author": "jmbjr",
+    "description": "Do your best to improve Corvid Transportation Efficiency",
+    "genre": "Visual Novel",
+    "id": "575790",
+    "link": "https://jmbjr.itch.io/murder-on-the-oriole-express",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMzM2MjEucG5n/315x250%23c/EpZHDw.png",
+    "title": "Murder on the Oriole Express!",
+    "video": null,
+    "scrapeWords": [
+      "Murder",
+      "on",
+      "the",
+      "Oriole",
+      "Express"
+    ]
+  },
+  {
+    "author": "tchinda",
+    "description": null,
+    "genre": "Shooter",
+    "id": "575796",
+    "link": "https://tchinda.itch.io/biters",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzAyNDguanBn/315x250%23c/lYeOQL.jpg",
+    "title": "BITERS",
+    "video": null,
+    "scrapeWords": [
+      "BITERS"
+    ]
+  },
+  {
+    "author": "Juan",
+    "description": null,
+    "genre": "Adventure",
+    "id": "575810",
+    "link": "https://jvan.itch.io/jumpman-meteor",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzAzMzgucG5n/315x250%23c/HCKhWs.png",
+    "title": "Jumpman Meteor",
+    "video": null,
+    "scrapeWords": [
+      "Jumpman",
+      "Meteor"
+    ]
+  },
+  {
+    "author": "Burd",
+    "description": "Post-apocalyptic disco zombie shooter.",
+    "genre": "Shooter",
+    "id": "575839",
+    "link": "https://burd.itch.io/glam-doc",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzA0NjMucG5n/315x250%23c/kD5nbY.png",
+    "title": "Glam Doc",
+    "video": null,
+    "scrapeWords": [
+      "Glam",
+      "Doc"
+    ]
+  },
+  {
+    "author": "ninjager1",
+    "description": null,
+    "genre": "Survival",
+    "id": "575887",
+    "link": "https://ninjager1.itch.io/rat-plague",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzA4MTYucG5n/315x250%23c/Ix9%2BMY.png",
+    "title": "Rat Plague",
+    "video": null,
+    "scrapeWords": [
+      "Rat",
+      "Plague"
+    ]
+  },
+  {
+    "author": "BeBraveBeBoldStudios",
+    "description": "A 2D Platformer Made In Godot",
+    "genre": "Platformer",
+    "id": "576432",
+    "link": "https://bebravebeboldstudios.itch.io/the-actors-platforming-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzM5NzIucG5n/315x250%23c/E2qzOO.png",
+    "title": "The Actors Platforming Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Actors",
+      "Platforming",
+      "Game"
+    ]
+  },
+  {
+    "author": "smeanox",
+    "description": "Stranded after the year 2038, one left-behind robot tries to make its way back to humanity using only its depth sensor.",
+    "genre": "Adventure",
+    "id": "576455",
+    "link": "https://smeanox.itch.io/near-the-far-plane",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzQwNjcucG5n/315x250%23c/kZKgjM.png",
+    "title": "Near the Far Plane",
+    "video": null,
+    "scrapeWords": [
+      "Near",
+      "the",
+      "Far",
+      "Plane"
     ]
   },
   {
