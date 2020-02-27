@@ -1134,6 +1134,26 @@
     ]
   },
   {
+    "author": "beelzy",
+    "description": "A libre Metroidvania game",
+    "genre": "Platformer",
+    "id": "134825",
+    "link": "https://beelzy.itch.io/the-diasporic-crypt",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTM0ODI1LzY3MjY4MC5wbmc=/315x250%23c/LzWQTs.png",
+    "title": "The Diasporic Crypt",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Diasporic",
+      "Crypt"
+    ]
+  },
+  {
     "author": "AlexHoratio",
     "description": "Be a robot, collect shoes, don't run out of power!",
     "genre": "Action",
@@ -16312,24 +16332,6 @@
     ]
   },
   {
-    "author": "tenori_o",
-    "description": "Project from Godot 24h book",
-    "genre": "Shooter",
-    "id": "294003",
-    "link": "https://tenori-o.itch.io/space-shooter",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjk0MDAzLzE0MzUzMTcucG5n/315x250%23c/sBcnOK.png",
-    "title": "Space Shooter",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Shooter"
-    ]
-  },
-  {
     "author": "paradev",
     "description": "you are a con artiste...",
     "genre": null,
@@ -30917,9 +30919,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NjQ0MzQucG5n/315x250%23c/C8JDT7.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzQ5MzkuZ2lm/315x250%23cm/qoti04.gif",
     "title": "Hive Time",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzMwMzQ5MzkuZ2lm/original/M8BJKP.gif",
     "scrapeWords": [
       "Hive",
       "Time"
@@ -34985,6 +34987,23 @@
     ]
   },
   {
+    "author": "tiny_computer",
+    "description": "generic space shooter",
+    "genre": null,
+    "id": "453352",
+    "link": "https://tiny-computer.itch.io/space-shooter",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyOTg3NDYucG5n/315x250%23c/TuiJoc.png",
+    "title": "Space Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Shooter"
+    ]
+  },
+  {
     "author": "rancidbacon",
     "description": "Save your local Post Office. And your job! With mail fraud!!",
     "genre": "Simulation",
@@ -35070,7 +35089,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzMjI4ODgucG5n/315x250%23c/wIPAu1.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzQ1NzgucG5n/315x250%23c/TOzRDU.png",
     "title": "SpaceMail",
     "video": null,
     "scrapeWords": [
@@ -49712,7 +49731,10 @@
     "genre": "Puzzle",
     "id": "559331",
     "link": "https://zacryol.itch.io/spindle-of-serendipity",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI5OTkwOTQucG5n/315x250%23c/P8%2FZUN.png",
     "title": "spindle of serendipity",
     "video": null,
@@ -49813,7 +49835,9 @@
     "genre": "Fighting",
     "id": "560205",
     "link": "https://ivan-tigan.itch.io/reckless",
-    "platforms": null,
+    "platforms": [
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI5NDI1NDcucG5n/315x250%23c/4OU6Z0.png",
     "title": "RECKLESS",
     "video": null,
@@ -50043,7 +50067,7 @@
   },
   {
     "author": "P10er101",
-    "description": "Building the ultimate diving game for Android and possibly iOS",
+    "description": "Building the ultimate mobile diving game",
     "genre": "Sports",
     "id": "561322",
     "link": "https://p10er101.itch.io/pixeldiving",
@@ -50940,6 +50964,24 @@
     ]
   },
   {
+    "author": "nivrig",
+    "description": "Classic no-nonsense Klondike Solitaire",
+    "genre": "Card Game",
+    "id": "570522",
+    "link": "https://nivrig.itch.io/salitaire",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzMwNDcucG5n/315x250%23c/uC734Y.png",
+    "title": "Salitaire!",
+    "video": null,
+    "scrapeWords": [
+      "Salitaire"
+    ]
+  },
+  {
     "author": "tulas.xyz",
     "description": "Small ball throwing game for android",
     "genre": "Simulation",
@@ -51540,7 +51582,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMjU1ODEucG5n/315x250%23c/yYkQvz.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzUyNjAucG5n/315x250%23c/qdaRwl.png",
     "title": "Harvestor",
     "video": null,
     "scrapeWords": [
@@ -51625,6 +51667,24 @@
     ]
   },
   {
+    "author": "bitshift-r",
+    "description": "Hunt for harmful bacterial before the antibodies catch you.",
+    "genre": "Action",
+    "id": "575226",
+    "link": "https://bitshift-r.itch.io/germicidal",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMjY5NDcucG5n/315x250%23c/AzxhgE.png",
+    "title": "Germicidal",
+    "video": null,
+    "scrapeWords": [
+      "Germicidal"
+    ]
+  },
+  {
     "author": "ralh",
     "description": "Team up with an unlikely ally to escape the Labyrinth!",
     "genre": "Action",
@@ -51647,9 +51707,7 @@
     "genre": "Fighting",
     "id": "575409",
     "link": "https://730.itch.io/cowboy-duel",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMwMjc3MjQucG5n/315x250%23c/76UzxY.png",
     "title": "Cowboy Duel",
     "video": null,
@@ -51718,13 +51776,31 @@
     ]
   },
   {
+    "author": "dingsbums productions",
+    "description": "Arcade Topdown Action Shooter",
+    "genre": "Action",
+    "id": "575778",
+    "link": "https://dingsbumsproductions.itch.io/buggy-battle",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzAxNzYuanBn/315x250%23c/xVFPAK.jpg",
+    "title": "Buggy Battle",
+    "video": null,
+    "scrapeWords": [
+      "Buggy",
+      "Battle"
+    ]
+  },
+  {
     "author": "jmbjr",
     "description": "Do your best to improve Corvid Transportation Efficiency",
-    "genre": "Visual Novel",
+    "genre": null,
     "id": "575790",
     "link": "https://jmbjr.itch.io/murder-on-the-oriole-express",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMwMzAyMzYuanBn/315x250%23c/ud%2BWkm.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzMwMzM2MjEucG5n/315x250%23c/EpZHDw.png",
     "title": "Murder on the Oriole Express!",
     "video": null,
     "scrapeWords": [
@@ -51806,6 +51882,47 @@
     "scrapeWords": [
       "Rat",
       "Plague"
+    ]
+  },
+  {
+    "author": "BeBraveBeBoldStudios",
+    "description": "A 2D Platformer Made In Godot",
+    "genre": "Platformer",
+    "id": "576432",
+    "link": "https://bebravebeboldstudios.itch.io/the-actors-platforming-game",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzM5NzIucG5n/315x250%23c/E2qzOO.png",
+    "title": "The Actors Platforming Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Actors",
+      "Platforming",
+      "Game"
+    ]
+  },
+  {
+    "author": "smeanox",
+    "description": "Stranded after the year 2038, one left-behind robot tries to make its way back to humanity using only its depth sensor.",
+    "genre": "Adventure",
+    "id": "576455",
+    "link": "https://smeanox.itch.io/near-the-far-plane",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzQwNjcucG5n/315x250%23c/kZKgjM.png",
+    "title": "Near the Far Plane",
+    "video": null,
+    "scrapeWords": [
+      "Near",
+      "the",
+      "Far",
+      "Plane"
     ]
   },
   {
