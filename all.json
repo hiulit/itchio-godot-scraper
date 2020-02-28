@@ -45037,6 +45037,26 @@
     ]
   },
   {
+    "author": "dotti",
+    "description": "Small physics based space game for OneButton Jam 2019",
+    "genre": null,
+    "id": "524752",
+    "link": "https://dotti.itch.io/onebutton-electromagnetism",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjU0MzcucG5n/315x250%23c/gE%2F4Qc.png",
+    "title": "OneButton Electromagnetism",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Electromagnetism"
+    ]
+  },
+  {
     "author": "davidporos92",
     "description": "Yep, this is a Game that you play backwards!",
     "genre": "Platformer",
@@ -49253,7 +49273,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4OTc1NDkucG5n/315x250%23c/OeVBlz.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwNDIxMzQuanBn/315x250%23c/b5h%2BqD.jpg",
     "title": "A Walk in the Woods",
     "video": null,
     "scrapeWords": [
@@ -51268,6 +51288,25 @@
     ]
   },
   {
+    "author": "defiler218",
+    "description": "A multiplayer pong clone",
+    "genre": "Sports",
+    "id": "573119",
+    "link": "https://defiler218.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
+    ]
+  },
+  {
     "author": "eldelnacho",
     "description": "Play as a riot cop fighting hordes of criminals and degenerates in this top-down style beat 'em up.",
     "genre": "Action",
@@ -51923,6 +51962,27 @@
       "the",
       "Far",
       "Plane"
+    ]
+  },
+  {
+    "author": "Ariel Gimenez",
+    "description": "Juego tipo Snake 3D desarrollado con Godot Engine versión c#",
+    "genre": "Puzzle",
+    "id": "577345",
+    "link": "https://kone9.itch.io/godot-engine-c-juego-tipo-snake-3d",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMzk4ODIucG5n/315x250%23c/8R6g8M.png",
+    "title": "Godot Engine c# juego tipo Snake 3D",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Engine",
+      "c",
+      "juego",
+      "tipo",
+      "Snake",
+      "3",
+      "D"
     ]
   },
   {
