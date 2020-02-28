@@ -16332,24 +16332,6 @@
     ]
   },
   {
-    "author": "tenori_o",
-    "description": "Project from Godot 24h book",
-    "genre": "Shooter",
-    "id": "294003",
-    "link": "https://tenori-o.itch.io/space-shooter",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjk0MDAzLzE0MzUzMTcucG5n/315x250%23c/sBcnOK.png",
-    "title": "Space Shooter",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Shooter"
-    ]
-  },
-  {
     "author": "paradev",
     "description": "you are a con artiste...",
     "genre": null,
@@ -35005,6 +34987,23 @@
     ]
   },
   {
+    "author": "tiny_computer",
+    "description": "generic space shooter",
+    "genre": null,
+    "id": "453352",
+    "link": "https://tiny-computer.itch.io/space-shooter",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyOTg3NDYucG5n/315x250%23c/TuiJoc.png",
+    "title": "Space Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Shooter"
+    ]
+  },
+  {
     "author": "rancidbacon",
     "description": "Save your local Post Office. And your job! With mail fraud!!",
     "genre": "Simulation",
@@ -45038,6 +45037,26 @@
     ]
   },
   {
+    "author": "dotti",
+    "description": "Small physics based space game for OneButton Jam 2019",
+    "genre": null,
+    "id": "524752",
+    "link": "https://dotti.itch.io/onebutton-electromagnetism",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjU0MzcucG5n/315x250%23c/gE%2F4Qc.png",
+    "title": "OneButton Electromagnetism",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Electromagnetism"
+    ]
+  },
+  {
     "author": "davidporos92",
     "description": "Yep, this is a Game that you play backwards!",
     "genre": "Platformer",
@@ -49254,7 +49273,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4OTc1NDkucG5n/315x250%23c/OeVBlz.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwNDIxMzQuanBn/315x250%23c/b5h%2BqD.jpg",
     "title": "A Walk in the Woods",
     "video": null,
     "scrapeWords": [
@@ -49836,7 +49855,9 @@
     "genre": "Fighting",
     "id": "560205",
     "link": "https://ivan-tigan.itch.io/reckless",
-    "platforms": null,
+    "platforms": [
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI5NDI1NDcucG5n/315x250%23c/4OU6Z0.png",
     "title": "RECKLESS",
     "video": null,
@@ -50963,6 +50984,24 @@
     ]
   },
   {
+    "author": "nivrig",
+    "description": "Classic no-nonsense Klondike Solitaire",
+    "genre": "Card Game",
+    "id": "570522",
+    "link": "https://nivrig.itch.io/salitaire",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzMwNDcucG5n/315x250%23c/uC734Y.png",
+    "title": "Salitaire!",
+    "video": null,
+    "scrapeWords": [
+      "Salitaire"
+    ]
+  },
+  {
     "author": "tulas.xyz",
     "description": "Small ball throwing game for android",
     "genre": "Simulation",
@@ -51246,6 +51285,25 @@
       "Chase",
       "in",
       "Progress"
+    ]
+  },
+  {
+    "author": "defiler218",
+    "description": "A multiplayer pong clone",
+    "genre": "Sports",
+    "id": "573119",
+    "link": "https://defiler218.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -51777,7 +51835,7 @@
   {
     "author": "jmbjr",
     "description": "Do your best to improve Corvid Transportation Efficiency",
-    "genre": "Visual Novel",
+    "genre": null,
     "id": "575790",
     "link": "https://jmbjr.itch.io/murder-on-the-oriole-express",
     "platforms": null,
@@ -51872,7 +51930,8 @@
     "id": "576432",
     "link": "https://bebravebeboldstudios.itch.io/the-actors-platforming-game",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwMzM5NzIucG5n/315x250%23c/E2qzOO.png",
     "title": "The Actors Platforming Game",
@@ -51903,6 +51962,27 @@
       "the",
       "Far",
       "Plane"
+    ]
+  },
+  {
+    "author": "Ariel Gimenez",
+    "description": "Juego tipo Snake 3D desarrollado con Godot Engine versión c#",
+    "genre": "Puzzle",
+    "id": "577345",
+    "link": "https://kone9.itch.io/godot-engine-c-juego-tipo-snake-3d",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMzk4ODIucG5n/315x250%23c/8R6g8M.png",
+    "title": "Godot Engine c# juego tipo Snake 3D",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Engine",
+      "c",
+      "juego",
+      "tipo",
+      "Snake",
+      "3",
+      "D"
     ]
   },
   {
