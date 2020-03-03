@@ -34513,7 +34513,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzExMjAucG5n/315x250%23c/kn%2F26x.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwNTY2MzUucG5n/315x250%23c/PyshEb.png",
     "title": "LittleOne",
     "video": null,
     "scrapeWords": [
@@ -34927,6 +34927,26 @@
       "Billys",
       "Timeless",
       "Home"
+    ]
+  },
+  {
+    "author": "DownhillGames",
+    "description": "3-D Platformer that starts as a 2D point 'n click adventure",
+    "genre": "Platformer",
+    "id": "453234",
+    "link": "https://downhillgames.itch.io/me-in-3-d",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyOTc5MjgucG5n/315x250%23c/lfuNS8.png",
+    "title": "Me, In 3-D",
+    "video": null,
+    "scrapeWords": [
+      "Me",
+      "In",
+      "3-D"
     ]
   },
   {
@@ -49771,7 +49791,8 @@
     "link": "https://zacryol.itch.io/spindle-of-serendipity",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5OTkwOTQucG5n/315x250%23c/P8%2FZUN.png",
     "title": "spindle of serendipity",
@@ -52042,6 +52063,28 @@
     ]
   },
   {
+    "author": "AndreRM",
+    "description": "Generic Plataformer prototype for Speedrun",
+    "genre": "Platformer",
+    "id": "577787",
+    "link": "https://andrerm.itch.io/black-n-white-2d-plataformer",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDIwMTEucG5n/315x250%23c/qeIY9G.png",
+    "title": "Black n White - 2D Plataformer",
+    "video": null,
+    "scrapeWords": [
+      "Black",
+      "n",
+      "White",
+      "2",
+      "D",
+      "Plataformer"
+    ]
+  },
+  {
     "author": "BlacoInc",
     "description": "A 2 players PvP with Fun and Platforms!",
     "genre": "Action",
@@ -52093,6 +52136,23 @@
       "Quebra-Cabeça",
       "dos",
       "Quinze",
+      "Bichométrico"
+    ]
+  },
+  {
+    "author": "Bichométrico Brinquedos",
+    "description": "jogo da memória com três dificuldades, bastar formar os pares e virar todas as peças",
+    "genre": "Puzzle",
+    "id": "578790",
+    "link": "https://bichometrico.itch.io/jogo-da-memria-bichomtrico",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwNDgwNjYucG5n/315x250%23c/%2BOXDon.png",
+    "title": "Jogo da Memória - Bichométrico",
+    "video": null,
+    "scrapeWords": [
+      "Jogo",
+      "da",
+      "Memória",
       "Bichométrico"
     ]
   },
@@ -52152,7 +52212,9 @@
     "genre": "Action",
     "id": "579259",
     "link": "https://pumpkin-central.itch.io/cyber-aitor",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMwNTAzODkucG5n/315x250%23c/xP6kKe.png",
     "title": "Cyber-aitor",
     "video": null,
@@ -52227,6 +52289,38 @@
     "scrapeWords": [
       "Node",
       "Collector"
+    ]
+  },
+  {
+    "author": "void_false",
+    "description": "Platformer about crawling spider",
+    "genre": "Platformer",
+    "id": "580466",
+    "link": "https://void-false.itch.io/the-crawling-spider",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwNTY3NzYucG5n/315x250%23c/0Z38ns.png",
+    "title": "The Crawling Spider",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Crawling",
+      "Spider"
+    ]
+  },
+  {
+    "author": "jaydensippy",
+    "description": "Short platformer that uses physics and guns to get you to big places.",
+    "genre": "Platformer",
+    "id": "580622",
+    "link": "https://jaydensippy.itch.io/gunnkour",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNTc1OTcucG5n/315x250%23c/QJ2sgc.png",
+    "title": "GUNNKOUR",
+    "video": null,
+    "scrapeWords": [
+      "GUNNKOUR"
     ]
   },
   {
