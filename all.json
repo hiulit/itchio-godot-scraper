@@ -30383,7 +30383,7 @@
     "link": "https://pixel-boy.itch.io/guardian-sphere",
     "platforms": [
       "Windows",
-      "Linux"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/315x250%23cm/SUdaN5.gif",
     "title": "Guardian Sphere",
@@ -51353,7 +51353,8 @@
     "id": "573199",
     "link": "https://eldelnacho.itch.io/paco-ql",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwMTQ5NTgucG5n/315x250%23c/Z5ongP.png",
     "title": "Paco QL",
@@ -51764,23 +51765,6 @@
     ]
   },
   {
-    "author": "ralh",
-    "description": "Team up with an unlikely ally to escape the Labyrinth!",
-    "genre": "Action",
-    "id": "575279",
-    "link": "https://ralh.itch.io/the-labyrinth",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMjcxMzkucG5n/315x250%23c/taQ3LG.png",
-    "title": "The Labyrinth",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Labyrinth"
-    ]
-  },
-  {
     "author": "730",
     "description": "1v1 mostly luck-based western duel",
     "genre": "Fighting",
@@ -52042,6 +52026,21 @@
     ]
   },
   {
+    "author": "rende36",
+    "description": "Use the arrow keys to move, jump into a hole to see what you can do!",
+    "genre": "Puzzle",
+    "id": "576479",
+    "link": "https://rende36.itch.io/doun",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMzQ5NTEucG5n/315x250%23c/pQeHLN.png",
+    "title": "doun (alpha)",
+    "video": null,
+    "scrapeWords": [
+      "doun",
+      "alpha"
+    ]
+  },
+  {
     "author": "Ariel Gimenez",
     "description": "Juego tipo Snake 3D desarrollado con Godot Engine versión c#",
     "genre": "Puzzle",
@@ -52067,12 +52066,11 @@
     "description": "Generic Plataformer prototype for Speedrun",
     "genre": "Platformer",
     "id": "577787",
-    "link": "https://andrerm.itch.io/black-n-white-2d-plataformer",
+    "link": "https://andrerm.itch.io/black-n-white",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDIwMTEucG5n/315x250%23c/qeIY9G.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwNjAzNjQucG5n/315x250%23c/ZGDu%2Bi.png",
     "title": "Black n White - 2D Plataformer",
     "video": null,
     "scrapeWords": [
@@ -52090,9 +52088,7 @@
     "genre": "Action",
     "id": "577935",
     "link": "https://calboinc.itch.io/sorcerers-pvp",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMwNDI4MzgucG5n/315x250%23c/mxVPA5.png",
     "title": "Sorcerer's PvP",
     "video": null,
@@ -52109,7 +52105,6 @@
     "id": "578208",
     "link": "https://heddypablito.itch.io/luminescence-the-falling-kingdom",
     "platforms": [
-      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwNDQzODEuanBn/315x250%23c/ZxZDZN.jpg",
@@ -52321,6 +52316,22 @@
     "video": null,
     "scrapeWords": [
       "GUNNKOUR"
+    ]
+  },
+  {
+    "author": "Miniputs",
+    "description": "Sci fi woman fighting robots in platformer game",
+    "genre": "Platformer",
+    "id": "581125",
+    "link": "https://miniputs.itch.io/obliterina",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNjA3OTIuanBn/315x250%23c/U0KZb5.jpg",
+    "title": "Obliterina",
+    "video": null,
+    "scrapeWords": [
+      "Obliterina"
     ]
   },
   {
