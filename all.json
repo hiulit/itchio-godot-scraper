@@ -2961,7 +2961,7 @@
     ]
   },
   {
-    "author": "kyperbelt",
+    "author": "Jonathan Camarena",
     "description": "simple push puzzle in a castle setting",
     "genre": "Puzzle",
     "id": "168207",
@@ -17724,23 +17724,6 @@
     ]
   },
   {
-    "author": "kotlin",
-    "description": "A game about a virus that wants to destroy your system.",
-    "genre": "Action",
-    "id": "303781",
-    "link": "https://kotlin.itch.io/ant-virus",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMzAzNzgxLzE0ODg1MDIucG5n/315x250%23c/u53Brv.png",
-    "title": "Ant Virus",
-    "video": null,
-    "scrapeWords": [
-      "Ant",
-      "Virus"
-    ]
-  },
-  {
     "author": "Neil Makes Games",
     "description": "Can you overcome the obstacle course game show?",
     "genre": null,
@@ -20116,13 +20099,12 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIxMDc1ODYucG5n/315x250%23c/%2BL0sV2.png",
-    "title": "SuperStarfighter v0.5",
+    "thumb": "https://img.itch.zone/aW1nLzMwNjMyMTIucG5n/315x250%23c/kfGoYE.png",
+    "title": "SuperStarfighter",
     "video": null,
     "scrapeWords": [
       "Super",
-      "Starfighter",
-      "v05"
+      "Starfighter"
     ]
   },
   {
@@ -27465,7 +27447,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE5MzU5MjUucG5n/315x250%23c/VUzm9N.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwNjI3MzcucG5n/315x250%23c/7E4d64.png",
     "title": "Catch Up With Myself",
     "video": null,
     "scrapeWords": [
@@ -45203,7 +45185,8 @@
     "id": "525871",
     "link": "https://crplay.itch.io/roguelike",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4NDk1NjAucG5n/315x250%23c/3eaBrG.png",
     "title": "ROGUELIKE",
@@ -50919,6 +50902,24 @@
     ]
   },
   {
+    "author": "LABORIOUS REX",
+    "description": "Throw the map at your friends! ( + FREE DEMO )",
+    "genre": "Platformer",
+    "id": "568372",
+    "link": "https://laboriousrex.itch.io/cratepunks",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNTM4OTUucG5n/315x250%23c/Q7vhSP.png",
+    "title": "Crate Punks",
+    "video": null,
+    "scrapeWords": [
+      "Crate",
+      "Punks"
+    ]
+  },
+  {
     "author": "Mischka Kamener",
     "description": "Casual puzzle game - played best on mobile",
     "genre": "Puzzle",
@@ -52088,7 +52089,9 @@
     "genre": "Action",
     "id": "577935",
     "link": "https://calboinc.itch.io/sorcerers-pvp",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMwNDI4MzgucG5n/315x250%23c/mxVPA5.png",
     "title": "Sorcerer's PvP",
     "video": null,
@@ -52287,6 +52290,20 @@
     ]
   },
   {
+    "author": "quandangv",
+    "description": null,
+    "genre": null,
+    "id": "580240",
+    "link": "https://quandangv.itch.io/dinosaurs",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwNTk1MjQucG5n/315x250%23c/fIIHSl.png",
+    "title": "Dinosaurs",
+    "video": null,
+    "scrapeWords": [
+      "Dinosaurs"
+    ]
+  },
+  {
     "author": "void_false",
     "description": "Platformer about crawling spider",
     "genre": "Platformer",
@@ -52300,6 +52317,22 @@
       "The",
       "Crawling",
       "Spider"
+    ]
+  },
+  {
+    "author": "Micron_Flash",
+    "description": "You're hired to hack into the mainframe. Can you do it?",
+    "genre": "Platformer",
+    "id": "580617",
+    "link": "https://micron-flash.itch.io/hired-to-hack",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwNTc1NzUucG5n/315x250%23c/gXpKw%2F.png",
+    "title": "Hired To Hack",
+    "video": null,
+    "scrapeWords": [
+      "Hired",
+      "To",
+      "Hack"
     ]
   },
   {
@@ -52332,6 +52365,26 @@
     "video": null,
     "scrapeWords": [
       "Obliterina"
+    ]
+  },
+  {
+    "author": "Vlad",
+    "description": "Game for Weekly Game Jam 138",
+    "genre": null,
+    "id": "581358",
+    "link": "https://koval-ru-eng.itch.io/we-need-to-go-deeper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNjI0OTcucG5n/315x250%23c/Agjtjq.png",
+    "title": "We need to go deeper",
+    "video": null,
+    "scrapeWords": [
+      "We",
+      "need",
+      "to",
+      "go",
+      "deeper"
     ]
   },
   {
