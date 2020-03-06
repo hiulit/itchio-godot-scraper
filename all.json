@@ -38210,27 +38210,6 @@
     ]
   },
   {
-    "author": "sztrovacsek",
-    "description": "Fast paced 2D deathmatch",
-    "genre": "Action",
-    "id": "470370",
-    "link": "https://sztrovacsek.itch.io/smashed-potatoes",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NjA0MzgucG5n/315x250%23c/rqsgUF.png",
-    "title": "SMASHED POTATOES (early access)",
-    "video": null,
-    "scrapeWords": [
-      "SMASHED",
-      "POTATOES",
-      "early",
-      "access"
-    ]
-  },
-  {
     "author": "Neku",
     "description": "1vs1 duels",
     "genre": "Fighting",
@@ -45188,7 +45167,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4NDk1NjAucG5n/315x250%23c/3eaBrG.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwNjc4NDEucG5n/315x250%23c/ywuSqf.png",
     "title": "ROGUELIKE",
     "video": null,
     "scrapeWords": [
@@ -52102,12 +52081,13 @@
     ]
   },
   {
-    "author": "Heddy.pablito",
+    "author": "Heddy",
     "description": "Save the kingdom of Light!!!",
     "genre": "Adventure",
     "id": "578208",
     "link": "https://heddypablito.itch.io/luminescence-the-falling-kingdom",
     "platforms": [
+      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwNDQzODEuanBn/315x250%23c/ZxZDZN.jpg",
@@ -52376,7 +52356,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNjI0OTcucG5n/315x250%23c/Agjtjq.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwNjc1MjcucG5n/315x250%23c/2tT2IZ.png",
     "title": "We need to go deeper",
     "video": null,
     "scrapeWords": [
@@ -52385,6 +52365,24 @@
       "to",
       "go",
       "deeper"
+    ]
+  },
+  {
+    "author": "CucaDev",
+    "description": "Can you cheat through the rooms to reach your way out?",
+    "genre": "Puzzle",
+    "id": "581859",
+    "link": "https://cucadev.itch.io/cmdungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNjU0MTYucG5n/315x250%23c/0Pw88d.png",
+    "title": "CMDungeon",
+    "video": null,
+    "scrapeWords": [
+      "CMDungeon"
     ]
   },
   {
