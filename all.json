@@ -16434,11 +16434,11 @@
     ]
   },
   {
-    "author": "kotlin",
+    "author": "wallaby",
     "description": "A very stressful game about a dungeon full of traps. Can you survive?",
     "genre": "Platformer",
     "id": "294201",
-    "link": "https://kotlin.itch.io/trappy-dungeon",
+    "link": "https://wallaby.itch.io/trappy-dungeon",
     "platforms": [
       "Windows"
     ],
@@ -17810,7 +17810,7 @@
     ]
   },
   {
-    "author": "Damv",
+    "author": "Deybis Melendez",
     "description": "Space Shooter",
     "genre": "Shooter",
     "id": "304714",
@@ -18269,7 +18269,7 @@
     ]
   },
   {
-    "author": "Damv",
+    "author": "Deybis Melendez",
     "description": "Made for Different Colors Game Jam",
     "genre": "Racing",
     "id": "308084",
@@ -18422,7 +18422,7 @@
     ]
   },
   {
-    "author": "Damv",
+    "author": "Deybis Melendez",
     "description": "A simple platformer",
     "genre": "Platformer",
     "id": "311055",
@@ -19014,20 +19014,6 @@
     ]
   },
   {
-    "author": "geckolocation",
-    "description": "inktober day 11, game 10",
-    "genre": "Action",
-    "id": "315863",
-    "link": "https://geckolocation.itch.io/flowing",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE1NTQ2OTIucG5n/315x250%23c/ZUXqZo.png",
-    "title": "Flowing",
-    "video": null,
-    "scrapeWords": [
-      "Flowing"
-    ]
-  },
-  {
     "author": "VoidLabs",
     "description": "Run Turkey Run is a remake of Classic desktop game from the 90s made by ZapSpot",
     "genre": "Adventure",
@@ -19386,7 +19372,7 @@
     ]
   },
   {
-    "author": "Damv",
+    "author": "Deybis Melendez",
     "description": null,
     "genre": "Role Playing",
     "id": "319532",
@@ -21405,7 +21391,7 @@
     ]
   },
   {
-    "author": "Damv",
+    "author": "Deybis Melendez",
     "description": "Duotone Reloaded is the classic platformer with very hard levels.",
     "genre": "Platformer",
     "id": "337279",
@@ -23904,7 +23890,7 @@
     ]
   },
   {
-    "author": "Damv",
+    "author": "Deybis Melendez",
     "description": null,
     "genre": "Platformer",
     "id": "358195",
@@ -25268,12 +25254,12 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI1NDkyODkucG5n/315x250%23c/WLHhRR.png",
-    "title": "ELF GAME (demo 0.0.7)",
+    "title": "ELF GAME (demo 0.1)",
     "video": null,
     "scrapeWords": [
       "ELF",
       "GAME",
-      "007"
+      "01"
     ]
   },
   {
@@ -27279,9 +27265,7 @@
     "genre": "Adventure",
     "id": "382989",
     "link": "https://directgames.itch.io/sandvox",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE5MjMwODQucG5n/315x250%23c/URIPpf.png",
     "title": "Sandvox",
     "video": null,
@@ -28133,6 +28117,44 @@
       "Fire",
       "Blazing",
       "Skies"
+    ]
+  },
+  {
+    "author": "CIULLO CORPORATION",
+    "description": "Planar 3D puzzle game",
+    "genre": "Puzzle",
+    "id": "397530",
+    "link": "https://ciullocorporation.itch.io/mac-chyrkyan-trial",
+    "platforms": [
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzAuanBn/315x250%23c/59b9Iw.jpg",
+    "title": "[MAC] Chyrkyan Trial II",
+    "video": null,
+    "scrapeWords": [
+      "[MAC]",
+      "Chyrkyan",
+      "Trial",
+      "II"
+    ]
+  },
+  {
+    "author": "CIULLO CORPORATION",
+    "description": "Planar 3D puzzle game",
+    "genre": "Puzzle",
+    "id": "397534",
+    "link": "https://ciullocorporation.itch.io/linux-chyrkyan-trial",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NTkuanBn/315x250%23c/KRxwe4.jpg",
+    "title": "[LINUX] Chyrkyan Trial II",
+    "video": null,
+    "scrapeWords": [
+      "[LINUX]",
+      "Chyrkyan",
+      "Trial",
+      "II"
     ]
   },
   {
@@ -30927,7 +30949,7 @@
   },
   {
     "author": "Cheeseness",
-    "description": "A small bee themed management sim/base builder",
+    "description": "A cute and zany bee themed management sim/base builder.",
     "genre": "Simulation",
     "id": "420407",
     "link": "https://cheeseness.itch.io/hive-time",
@@ -32249,7 +32271,7 @@
     ]
   },
   {
-    "author": "redvn347",
+    "author": "Tung Phan",
     "description": "It's simple, don't press the button. A school project made in 1 week.",
     "genre": null,
     "id": "432300",
@@ -33505,7 +33527,8 @@
     "link": "https://mastern2k3.itch.io/tom",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIyMzU2MjgucG5n/315x250%23c/K4QPl0.png",
     "title": "Throne of Mithril",
@@ -36912,7 +36935,7 @@
   },
   {
     "author": "sztrovacsek",
-    "description": "Created for the GMTK Game Jam 2019 in (less than) 48 hours",
+    "description": "Created for the GMTK Game Jam 2019",
     "genre": "Survival",
     "id": "462640",
     "link": "https://sztrovacsek.itch.io/run-or-gun",
@@ -37648,6 +37671,24 @@
       "Flight",
       "Browser",
       "Version"
+    ]
+  },
+  {
+    "author": "Poe1831",
+    "description": "A little battle by jumping.",
+    "genre": "Platformer",
+    "id": "468567",
+    "link": "https://poe1831.itch.io/jump-and-stamp",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzI0MzcucG5n/315x250%23c/a1GKsU.png",
+    "title": "Jump and stamp!（方块跳跃）",
+    "video": null,
+    "scrapeWords": [
+      "Jump",
+      "and",
+      "stamp（方块跳跃）"
     ]
   },
   {
@@ -39305,6 +39346,46 @@
     ]
   },
   {
+    "author": "CIULLO CORPORATION",
+    "description": "Will you drag the sorts of an endless war? Discover it NOW!",
+    "genre": "Action",
+    "id": "477899",
+    "link": "https://ciullocorporation.itch.io/pc-the-ahriman-project",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzguanBn/315x250%23c/0j5oGE.jpg",
+    "title": "[PC] The Ahriman Project I",
+    "video": null,
+    "scrapeWords": [
+      "[PC]",
+      "The",
+      "Ahriman",
+      "Project",
+      "I"
+    ]
+  },
+  {
+    "author": "CIULLO CORPORATION",
+    "description": "Will you drag the sorts of an endless war? Discover it NOW!",
+    "genre": "Action",
+    "id": "477919",
+    "link": "https://ciullocorporation.itch.io/mac-the-ahriman-project",
+    "platforms": [
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzMuanBn/315x250%23c/UfhKiN.jpg",
+    "title": "[MAC] The Ahriman Project I",
+    "video": null,
+    "scrapeWords": [
+      "[MAC]",
+      "The",
+      "Ahriman",
+      "Project",
+      "I"
+    ]
+  },
+  {
     "author": "José Manuel Gris Umpierrez",
     "description": "A game in the style of classics like Ghosts' n Goblins and Game Over.",
     "genre": "Action",
@@ -39320,6 +39401,26 @@
       "Magic",
       "and",
       "ns"
+    ]
+  },
+  {
+    "author": "CIULLO CORPORATION",
+    "description": "Will you drag the sorts of an endless war? Discover it NOW!",
+    "genre": "Action",
+    "id": "477952",
+    "link": "https://ciullocorporation.itch.io/linux-the-ahriman-project",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NjcuanBn/315x250%23c/iLqKz8.jpg",
+    "title": "[LINUX] The Ahriman Project I",
+    "video": null,
+    "scrapeWords": [
+      "[LINUX]",
+      "The",
+      "Ahriman",
+      "Project",
+      "I"
     ]
   },
   {
@@ -42589,6 +42690,25 @@
     ]
   },
   {
+    "author": "Simmo",
+    "description": "An AuriTheAlien community themed card game!",
+    "genre": "Card Game",
+    "id": "500868",
+    "link": "https://simmotipo.itch.io/auri-cards",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzI0OTAucG5n/315x250%23c/lUaxSi.png",
+    "title": "Auri Cards",
+    "video": null,
+    "scrapeWords": [
+      "Auri",
+      "Cards"
+    ]
+  },
+  {
     "author": "PedroVMVictor",
     "description": "Objeto de Aprendizagem com intuito de introduzir o  usuário a Engine Godot.",
     "genre": "Educational",
@@ -45071,6 +45191,59 @@
     ]
   },
   {
+    "author": "School for Games",
+    "description": "Fight against evil robots and save your doll-friends in No Room For Tailor, a moody Twin Stick Shooter by Team E7.",
+    "genre": "Action",
+    "id": "525260",
+    "link": "https://s4g.itch.io/noroomfortailor",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMDIyNTcucG5n/315x250%23c/00tiTr.png",
+    "title": "No Room For Tailor",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Room",
+      "For",
+      "Tailor"
+    ]
+  },
+  {
+    "author": "School for Games",
+    "description": "Puzzle Game in the Wild West with action elements",
+    "genre": "Puzzle",
+    "id": "525262",
+    "link": "https://s4g.itch.io/rico-sheriff",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNjYyNTAucG5n/315x250%23c/67RqSS.png",
+    "title": "Rico-Sheriff",
+    "video": null,
+    "scrapeWords": [
+      "Rico-Sheriff"
+    ]
+  },
+  {
+    "author": "School for Games",
+    "description": "A 3D Roll-a-Ball game in a temple setting with obstacless and collectables.",
+    "genre": null,
+    "id": "525263",
+    "link": "https://s4g.itch.io/roll-about",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNjU3ODEucG5n/315x250%23c/y5PX7G.png",
+    "title": "Roll About",
+    "video": null,
+    "scrapeWords": [
+      "Roll",
+      "About"
+    ]
+  },
+  {
     "author": "Drew Martin",
     "description": "Squiddy is High on Fruit!",
     "genre": "Adventure",
@@ -45574,7 +45747,7 @@
   {
     "author": "Tim Krief",
     "description": "When you merge houses to make towns!",
-    "genre": "Puzzle",
+    "genre": "Simulation",
     "id": "527884",
     "link": "https://timkrief.itch.io/craftycounty",
     "platforms": [
@@ -46767,7 +46940,7 @@
   },
   {
     "author": "bakingsoda",
-    "description": "2017 - 2019",
+    "description": "2017 - 2020",
     "genre": null,
     "id": "537738",
     "link": "https://bakingsoda.itch.io/unfinished-projects",
@@ -46862,8 +47035,7 @@
     "id": "538536",
     "link": "https://doublesept.itch.io/escape",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5MTk3MzMuZ2lm/315x250%23cm/FYwTDl.gif",
     "title": "Escape From The Void",
@@ -47912,24 +48084,6 @@
     ]
   },
   {
-    "author": "Positive Zero",
-    "description": "Avoid dangerous space debris by orbiting your spaceship around planets",
-    "genre": null,
-    "id": "545787",
-    "link": "https://positive-zero.itch.io/flappy-orbit",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4NDg3MzcucG5n/315x250%23c/6zx0XS.png",
-    "title": "Flappy Orbit",
-    "video": null,
-    "scrapeWords": [
-      "Flappy",
-      "Orbit"
-    ]
-  },
-  {
     "author": "DaVinci789",
     "description": "A game where mice can fly and a certain cat doesn't like that.",
     "genre": "Action",
@@ -48319,7 +48473,7 @@
     ]
   },
   {
-    "author": "Damv",
+    "author": "Deybis Melendez",
     "description": "Un juego completo de ejemplo hecho en Godot Engine.",
     "genre": "Platformer",
     "id": "549302",
@@ -48859,23 +49013,6 @@
     ]
   },
   {
-    "author": "noterday",
-    "description": "A (very unfinished) Bunbunmaru newspaper generator.",
-    "genre": null,
-    "id": "552351",
-    "link": "https://noterday.itch.io/aya-shameimarus-very-t",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4OTA1MTcucG5n/315x250%23c/PWF4OA.png",
-    "title": "Aya Shameimaru Doesn't Lie",
-    "video": null,
-    "scrapeWords": [
-      "Aya",
-      "Shameimaru",
-      "Doesnt",
-      "Lie"
-    ]
-  },
-  {
     "author": "The Missing Bracket",
     "description": "fight computer \"bugs\" and survive!",
     "genre": "Survival",
@@ -49271,7 +49408,8 @@
     "link": "https://tehmerow.itch.io/a-walk-in-the-woods",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwNDIxMzQuanBn/315x250%23c/b5h%2BqD.jpg",
     "title": "A Walk in the Woods",
@@ -49864,25 +50002,6 @@
     "video": null,
     "scrapeWords": [
       "RECKLESS"
-    ]
-  },
-  {
-    "author": "l33tllama",
-    "description": "Fix your bot",
-    "genre": "Puzzle",
-    "id": "560207",
-    "link": "https://l33tllama.itch.io/robo-repair",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NDExNDIucG5n/315x250%23c/BwKYFH.png",
-    "title": "Robo Repair",
-    "video": null,
-    "scrapeWords": [
-      "Robo",
-      "Repair"
     ]
   },
   {
@@ -50899,6 +51018,25 @@
     ]
   },
   {
+    "author": "derac",
+    "description": "Casual party game for 4+ players.",
+    "genre": null,
+    "id": "568458",
+    "link": "https://derac.itch.io/artparty",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzIxMjUucG5n/315x250%23c/sfsV49.png",
+    "title": "Art Party",
+    "video": null,
+    "scrapeWords": [
+      "Art",
+      "Party"
+    ]
+  },
+  {
     "author": "Mischka Kamener",
     "description": "Casual puzzle game - played best on mobile",
     "genre": "Puzzle",
@@ -51296,7 +51434,11 @@
     "genre": "Action",
     "id": "572707",
     "link": "https://jwillc.itch.io/1080-chase-in-progress",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMwMTE4NTMucG5n/315x250%23c/jbPawV.png",
     "title": "1080 Chase in Progress",
     "video": null,
@@ -52021,6 +52163,21 @@
     ]
   },
   {
+    "author": "BonesJones",
+    "description": "Frog Frenzy",
+    "genre": "Platformer",
+    "id": "576756",
+    "link": "https://bonesjones.itch.io/frogfrenzy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwMzkyNTYucG5n/315x250%23c/6s4Oo%2F.png",
+    "title": "Frog Frenzy",
+    "video": null,
+    "scrapeWords": [
+      "Frog",
+      "Frenzy"
+    ]
+  },
+  {
     "author": "Ariel Gimenez",
     "description": "Juego tipo Snake 3D desarrollado con Godot Engine versión c#",
     "genre": "Puzzle",
@@ -52270,6 +52427,24 @@
     ]
   },
   {
+    "author": "Seilburg",
+    "description": "A (slightly) esoteric seven-day roguelite",
+    "genre": "Role Playing",
+    "id": "579950",
+    "link": "https://seilburg.itch.io/slumber",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "Slumber",
+    "video": null,
+    "scrapeWords": [
+      "Slumber"
+    ]
+  },
+  {
     "author": "quandangv",
     "description": null,
     "genre": null,
@@ -52332,6 +52507,23 @@
     ]
   },
   {
+    "author": "Cry Dev",
+    "description": "flapybird",
+    "genre": null,
+    "id": "580976",
+    "link": "https://cry-dev.itch.io/flapybox",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNTk2OTQucG5n/315x250%23c/GPkaO3.png",
+    "title": "FlapyBox (demo)",
+    "video": null,
+    "scrapeWords": [
+      "Flapy",
+      "Box"
+    ]
+  },
+  {
     "author": "Miniputs",
     "description": "Sci fi woman fighting robots in platformer game",
     "genre": "Platformer",
@@ -52383,6 +52575,239 @@
     "video": null,
     "scrapeWords": [
       "CMDungeon"
+    ]
+  },
+  {
+    "author": "vetta_vetka",
+    "description": "Just like make game",
+    "genre": "Action",
+    "id": "582580",
+    "link": "https://vetta-vetka.itch.io/borderline-heartbreak",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzAzNjYucG5n/315x250%23c/e1pRwC.png",
+    "title": "Borderline Heartbreak",
+    "video": null,
+    "scrapeWords": [
+      "Borderline",
+      "Heartbreak"
+    ]
+  },
+  {
+    "author": "tndwolf",
+    "description": "As the Captain of your own ship live a life of trade and adventuring in a randomly generated fantasy sea.",
+    "genre": "Role Playing",
+    "id": "582647",
+    "link": "https://tndwolf.itch.io/rogue-sails",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzA3MDEucG5n/315x250%23c/VeDcBG.png",
+    "title": "Rogue Sails",
+    "video": null,
+    "scrapeWords": [
+      "Rogue",
+      "Sails"
+    ]
+  },
+  {
+    "author": "PackageEdge",
+    "description": "Couch Co-op Roguelike",
+    "genre": "Role Playing",
+    "id": "582793",
+    "link": "https://packageedge.itch.io/raccoon-delver",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzI1NTAucG5n/315x250%23c/CZKZGy.png",
+    "title": "Raccoon Delver",
+    "video": null,
+    "scrapeWords": [
+      "Raccoon",
+      "Delver"
+    ]
+  },
+  {
+    "author": "FluxPlay",
+    "description": null,
+    "genre": "Platformer",
+    "id": "582929",
+    "link": "https://minoave.itch.io/tot",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzIwNTkucG5n/315x250%23c/TwynRd.png",
+    "title": "ToT - Prototype",
+    "video": null,
+    "scrapeWords": [
+      "To",
+      "T",
+      "Prototype"
+    ]
+  },
+  {
+    "author": "sh1n24",
+    "description": "Puzzle game made for TriJam#60",
+    "genre": "Puzzle",
+    "id": "583008",
+    "link": "https://sh1n24.itch.io/two-phase-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzI1MzgucG5n/315x250%23c/TWN6cd.png",
+    "title": "Two-Phase Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Two-Phase",
+      "Dungeon"
+    ]
+  },
+  {
+    "author": "Rusty Raygun",
+    "description": "Take your time, watch your step. Welcome to Groglin Ave. | All Things Wicked Game Jam",
+    "genre": "Platformer",
+    "id": "583264",
+    "link": "https://rustyraygun.itch.io/groglin",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzM5MzkuanBn/315x250%23c/lImDMa.jpg",
+    "title": "GROGLIN",
+    "video": null,
+    "scrapeWords": [
+      "GROGLIN"
+    ]
+  },
+  {
+    "author": "SHY Studios",
+    "description": "Dyslexia Mini-games",
+    "genre": "Educational",
+    "id": "583408",
+    "link": "https://shy-studios.itch.io/readnplay",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzQ2OTYucG5n/315x250%23c/co8SAM.png",
+    "title": "Read'n'Play",
+    "video": null,
+    "scrapeWords": [
+      "Readn",
+      "Play"
+    ]
+  },
+  {
+    "author": "Firebomb Games",
+    "description": "New Engine, New Style",
+    "genre": "Platformer",
+    "id": "583567",
+    "link": "https://firebombgames.itch.io/skumm",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzU3NDEucG5n/315x250%23c/25%2FpjF.png",
+    "title": "Skumm",
+    "video": null,
+    "scrapeWords": [
+      "Skumm"
+    ]
+  },
+  {
+    "author": "DOAmaster",
+    "description": null,
+    "genre": "Action",
+    "id": "583993",
+    "link": "https://doamaster.itch.io/lux-light",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwNzgyMDUuZ2lm/315x250%23cm/oZFyLP.gif",
+    "title": "Lux Light",
+    "video": "https://img.itch.zone/aW1nLzMwNzgyMDUuZ2lm/original/F7AiIQ.gif",
+    "scrapeWords": [
+      "Lux",
+      "Light"
+    ]
+  },
+  {
+    "author": "VerttiXPertti",
+    "description": "Hand Shadow Puzzles",
+    "genre": "Puzzle",
+    "id": "584021",
+    "link": "https://verttixpertti.itch.io/the-hand-made-tale",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwNzg0MDIucG5n/315x250%23c/zjouIx.png",
+    "title": "The Hand Made Tale",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Hand",
+      "Made",
+      "Tale"
+    ]
+  },
+  {
+    "author": "codetorex",
+    "description": "An adrenaline fueled Survival horror game made in 40 hours",
+    "genre": "Action",
+    "id": "584131",
+    "link": "https://codetorex.itch.io/pathfinder",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzkxMTUucG5n/315x250%23c/uFMJqX.png",
+    "title": "PATHFINDER: Last Stand",
+    "video": null,
+    "scrapeWords": [
+      "PATHFINDER",
+      "Last",
+      "Stand"
+    ]
+  },
+  {
+    "author": "Choppa2",
+    "description": "In pursuit of Order, its Disciples crafted a town. Where all is fair.",
+    "genre": "Adventure",
+    "id": "584132",
+    "link": "https://choppa2.itch.io/awoo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzkwOTgucG5n/315x250%23c/lANNuB.png",
+    "title": "A World of Order (DEMO)",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "World",
+      "of",
+      "Order"
+    ]
+  },
+  {
+    "author": "flaffal",
+    "description": "A Touhou Bullethell Clone",
+    "genre": "Action",
+    "id": "584184",
+    "link": "https://flaffal.itch.io/2hu-clone",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzkyNzAucG5n/315x250%23c/W6u58b.png",
+    "title": "Touhou Clone Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Touhou",
+      "Clone",
+      "Prototype"
     ]
   },
   {
