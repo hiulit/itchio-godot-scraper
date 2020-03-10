@@ -19014,6 +19014,20 @@
     ]
   },
   {
+    "author": "geckolocation",
+    "description": "inktober day 11, game 10",
+    "genre": "Action",
+    "id": "315863",
+    "link": "https://geckolocation.itch.io/flowing",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzE1NTQ2OTIucG5n/315x250%23c/ZUXqZo.png",
+    "title": "Flowing",
+    "video": null,
+    "scrapeWords": [
+      "Flowing"
+    ]
+  },
+  {
     "author": "VoidLabs",
     "description": "Run Turkey Run is a remake of Classic desktop game from the 90s made by ZapSpot",
     "genre": "Adventure",
@@ -34668,7 +34682,7 @@
   },
   {
     "author": "Albert",
-    "description": "4 directional endless swimmer. Do you have what it takes to catch the Mighty Angry Fish?",
+    "description": "4 directional endless swimmer. Do you have what it takes to catch the Mighty Angry Fish? (2019)",
     "genre": "Survival",
     "id": "450457",
     "link": "https://alberto-luviano.itch.io/divejam2fishup",
@@ -45755,9 +45769,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4ODk4OTkuZ2lm/315x250%23cm/lyvC8I.gif",
+    "thumb": "https://img.itch.zone/aW1nLzMwODM5NzAucG5n/315x250%23c/HDHZxn.png",
     "title": "CraftyCounty",
-    "video": "https://img.itch.zone/aW1nLzI4ODk4OTkuZ2lm/original/%2BUZzjP.gif",
+    "video": null,
     "scrapeWords": [
       "Crafty",
       "County"
@@ -48084,6 +48098,24 @@
     ]
   },
   {
+    "author": "Positive Zero",
+    "description": "Avoid dangerous space debris by orbiting your spaceship around planets",
+    "genre": null,
+    "id": "545787",
+    "link": "https://positive-zero.itch.io/flappy-orbit",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NDg3MzcucG5n/315x250%23c/6zx0XS.png",
+    "title": "Flappy Orbit",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Orbit"
+    ]
+  },
+  {
     "author": "DaVinci789",
     "description": "A game where mice can fly and a certain cat doesn't like that.",
     "genre": "Action",
@@ -50005,6 +50037,25 @@
     ]
   },
   {
+    "author": "l33tllama",
+    "description": "Fix your bot",
+    "genre": "Puzzle",
+    "id": "560207",
+    "link": "https://l33tllama.itch.io/robo-repair",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDExNDIucG5n/315x250%23c/BwKYFH.png",
+    "title": "Robo Repair",
+    "video": null,
+    "scrapeWords": [
+      "Robo",
+      "Repair"
+    ]
+  },
+  {
     "author": "paulio",
     "description": "A two button game about digging made in Godot. The web version is iffy.",
     "genre": "Action",
@@ -50255,6 +50306,24 @@
     "video": null,
     "scrapeWords": [
       "Toysmith"
+    ]
+  },
+  {
+    "author": "Citizen Of Mêlée",
+    "description": "2-4 competitive players sharing a set of resources",
+    "genre": "Action",
+    "id": "562142",
+    "link": "https://citizen-of-melee.itch.io/repair-robots",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDk3MDIucG5n/315x250%23c/zq%2B2v8.png",
+    "title": "Repair Robots",
+    "video": null,
+    "scrapeWords": [
+      "Repair",
+      "Robots"
     ]
   },
   {
@@ -51025,6 +51094,7 @@
     "link": "https://derac.itch.io/artparty",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS",
       "Android"
     ],
@@ -52437,7 +52507,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwODExNDAucG5n/315x250%23c/5Io2ny.png",
     "title": "Slumber",
     "video": null,
     "scrapeWords": [
@@ -52669,6 +52739,23 @@
     ]
   },
   {
+    "author": "Vlad",
+    "description": "Game for Minigam 49",
+    "genre": "Adventure",
+    "id": "583047",
+    "link": "https://koval-ru-eng.itch.io/a-cycle-of-life",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwNzgyOTIucG5n/315x250%23c/NDDnDe.png",
+    "title": "A cycle of life",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "cycle",
+      "of",
+      "life"
+    ]
+  },
+  {
     "author": "Rusty Raygun",
     "description": "Take your time, watch your step. Welcome to Groglin Ave. | All Things Wicked Game Jam",
     "genre": "Platformer",
@@ -52684,6 +52771,24 @@
     "video": null,
     "scrapeWords": [
       "GROGLIN"
+    ]
+  },
+  {
+    "author": "sztrovacsek",
+    "description": "Created for TriJam 60",
+    "genre": null,
+    "id": "583322",
+    "link": "https://sztrovacsek.itch.io/spymaze",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzQyNTIuanBn/315x250%23c/6A0IEu.jpg",
+    "title": "SpyMaze",
+    "video": null,
+    "scrapeWords": [
+      "Spy",
+      "Maze"
     ]
   },
   {
@@ -52754,6 +52859,25 @@
     ]
   },
   {
+    "author": "PanosTrak",
+    "description": "How long can you survive before the Shadow consumes you?",
+    "genre": "Action",
+    "id": "584048",
+    "link": "https://panostrak.itch.io/light-consumed",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzg0MjIucG5n/315x250%23c/hprdXh.png",
+    "title": "Light Consumed",
+    "video": null,
+    "scrapeWords": [
+      "Light",
+      "Consumed"
+    ]
+  },
+  {
     "author": "codetorex",
     "description": "An adrenaline fueled Survival horror game made in 40 hours",
     "genre": "Action",
@@ -52808,6 +52932,27 @@
       "Touhou",
       "Clone",
       "Prototype"
+    ]
+  },
+  {
+    "author": "zedpoum",
+    "description": "Santa needs your light!  #Trijam n°60",
+    "genre": "Adventure",
+    "id": "584459",
+    "link": "https://ausindiz.itch.io/friction-in-the-dark",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwODA5ODAucG5n/315x250%23c/OCRjZh.png",
+    "title": "Friction in the dark",
+    "video": null,
+    "scrapeWords": [
+      "Friction",
+      "in",
+      "the",
+      "dark"
     ]
   },
   {
