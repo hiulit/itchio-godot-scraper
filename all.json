@@ -31911,7 +31911,7 @@
     ]
   },
   {
-    "author": "Sp4ndy",
+    "author": "Spandy",
     "description": "A submittion for WGJ98 by Sp4ndy",
     "genre": "Platformer",
     "id": "428508",
@@ -45241,7 +45241,7 @@
   },
   {
     "author": "School for Games",
-    "description": "A 3D Roll-a-Ball game in a temple setting with obstacless and collectables.",
+    "description": "A 3D Roll-a-Ball game in a temple setting with obstacles and collectables.",
     "genre": null,
     "id": "525263",
     "link": "https://s4g.itch.io/roll-about",
@@ -52744,7 +52744,10 @@
     "genre": "Adventure",
     "id": "583047",
     "link": "https://koval-ru-eng.itch.io/a-cycle-of-life",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMwNzgyOTIucG5n/315x250%23c/NDDnDe.png",
     "title": "A cycle of life",
     "video": null,
@@ -52827,6 +52830,25 @@
     ]
   },
   {
+    "author": "Jary Jurax",
+    "description": "Collect loot and avoid dying for as long as you can.",
+    "genre": "Survival",
+    "id": "583922",
+    "link": "https://jary-jurax.itch.io/the-minotaurs-lair",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwODAwMTEucG5n/315x250%23c/9DHP%2FI.png",
+    "title": "The Minotaur's Lair",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Minotaurs",
+      "Lair"
+    ]
+  },
+  {
     "author": "DOAmaster",
     "description": null,
     "genre": "Action",
@@ -52897,7 +52919,7 @@
   },
   {
     "author": "Choppa2",
-    "description": "In pursuit of Order, its Disciples crafted a town. Where all is fair.",
+    "description": "Adventure game imagining life under a cult town.",
     "genre": "Adventure",
     "id": "584132",
     "link": "https://choppa2.itch.io/awoo",
@@ -52953,6 +52975,24 @@
       "in",
       "the",
       "dark"
+    ]
+  },
+  {
+    "author": "Mashikouli",
+    "description": "Mashi-Ninja Hand-animated beat-them-all",
+    "genre": "Action",
+    "id": "585020",
+    "link": "https://mashikouli.itch.io/mashi-ninja",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwODQ3NTQucG5n/315x250%23c/f10JbJ.png",
+    "title": "Mashi-Ninja",
+    "video": null,
+    "scrapeWords": [
+      "Mashi-Ninja"
     ]
   },
   {
