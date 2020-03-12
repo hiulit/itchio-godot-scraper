@@ -11381,7 +11381,7 @@
     ]
   },
   {
-    "author": "Fast Turtle Games",
+    "author": "FlanGrande",
     "description": "PizzaJam June 2018, Memory",
     "genre": "Puzzle",
     "id": "267222",
@@ -23258,11 +23258,11 @@
     ]
   },
   {
-    "author": "CubyLine Studio",
+    "author": "WheatleyHDD",
     "description": "Minimalistic platformer, about Byte",
     "genre": "Platformer",
     "id": "351380",
-    "link": "https://cubyline.itch.io/byte",
+    "link": "https://wheatleyhdd.itch.io/byte",
     "platforms": [
       "Windows"
     ],
@@ -23750,11 +23750,11 @@
     ]
   },
   {
-    "author": "CubyLine Studio",
+    "author": "WheatleyHDD",
     "description": "A very very slow loading",
     "genre": null,
     "id": "357011",
-    "link": "https://cubyline.itch.io/loading-simulator",
+    "link": "https://wheatleyhdd.itch.io/loading-simulator",
     "platforms": [
       "Windows"
     ],
@@ -37048,7 +37048,7 @@
     ]
   },
   {
-    "author": "Fast Turtle Games",
+    "author": "FlanGrande",
     "description": "Fast Turtle Games GMTK Jam 2019 entry.",
     "genre": "Puzzle",
     "id": "462814",
@@ -39402,7 +39402,7 @@
   {
     "author": "José Manuel Gris Umpierrez",
     "description": "A game in the style of classics like Ghosts' n Goblins and Game Over.",
-    "genre": "Action",
+    "genre": "Platformer",
     "id": "477943",
     "link": "https://manuel-gris-umpierrez.itch.io/magic-and-demons",
     "platforms": [
@@ -47292,9 +47292,10 @@
     "id": "540278",
     "link": "https://zarifdesanta.itch.io/picoto",
     "platforms": [
+      "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MTIwOTkucG5n/315x250%23c/PpQIX2.png",
+    "thumb": "https://img.itch.zone/aW1nLzMwODg5NTYucG5n/315x250%23c/DsUoGB.png",
     "title": "Picoto",
     "video": null,
     "scrapeWords": [
@@ -52936,6 +52937,21 @@
       "World",
       "of",
       "Order"
+    ]
+  },
+  {
+    "author": "lajollagamesclub",
+    "description": "Take down the suitcasess to avoid pursuers!",
+    "genre": "Action",
+    "id": "584174",
+    "link": "https://lajollagamesclub.itch.io/suitcase-takedown",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwOTExMjQucG5n/315x250%23c/6ne9lR.png",
+    "title": "Suitcase Takedown",
+    "video": null,
+    "scrapeWords": [
+      "Suitcase",
+      "Takedown"
     ]
   },
   {
