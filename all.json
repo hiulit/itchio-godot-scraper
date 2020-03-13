@@ -52631,6 +52631,23 @@
     ]
   },
   {
+    "author": "Defo Mort",
+    "description": "your horse is dead",
+    "genre": "Adventure",
+    "id": "581760",
+    "link": "https://defomort.itch.io/hors",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwOTMwMDMucG5n/315x250%23c/91X5gs.png",
+    "title": "DEAD HORS",
+    "video": null,
+    "scrapeWords": [
+      "DEAD",
+      "HORS"
+    ]
+  },
+  {
     "author": "CucaDev",
     "description": "Can you cheat through the rooms to reach your way out?",
     "genre": "Puzzle",
@@ -53009,6 +53026,25 @@
     "video": null,
     "scrapeWords": [
       "Mashi-Ninja"
+    ]
+  },
+  {
+    "author": "SunsetMoth",
+    "description": "Build levels... Hopefully together soon?",
+    "genre": null,
+    "id": "585845",
+    "link": "https://sunsetmoth.itch.io/justanotherleveleditor",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": null,
+    "title": "Just Another Level Editor",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "Another",
+      "Level",
+      "Editor"
     ]
   },
   {
