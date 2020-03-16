@@ -9158,6 +9158,24 @@
     ]
   },
   {
+    "author": "Yngwarr",
+    "description": "A command line controlled platformer.",
+    "genre": "Platformer",
+    "id": "249098",
+    "link": "https://yngwarr.itch.io/remote-bot",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4NTE1MzAucG5n/315x250%23c/Wqp4Ar.png",
+    "title": "Remote Bot",
+    "video": null,
+    "scrapeWords": [
+      "Remote",
+      "Bot"
+    ]
+  },
+  {
     "author": "jcwelgemoed",
     "description": "Ludum Dare 41 entry",
     "genre": "Card Game",
@@ -27279,7 +27297,9 @@
     "genre": "Adventure",
     "id": "382989",
     "link": "https://directgames.itch.io/sandvox",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzE5MjMwODQucG5n/315x250%23c/URIPpf.png",
     "title": "Sandvox",
     "video": null,
@@ -32067,23 +32087,6 @@
     "scrapeWords": [
       "Zoo",
       "Blocks"
-    ]
-  },
-  {
-    "author": "sisyphean",
-    "description": "A robot uprising is brewing, and you're the protagonist. Made for the Cyberpunk Jam 2019",
-    "genre": "Adventure",
-    "id": "430203",
-    "link": "https://sisyphean.itch.io/escape",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxNTUzOTMuZ2lm/315x250%23cm/ZJFo0d.gif",
-    "title": "ESCAPE",
-    "video": "https://img.itch.zone/aW1nLzIxNTUzOTMuZ2lm/original/GC9fob.gif",
-    "scrapeWords": [
-      "ESCAPE"
     ]
   },
   {
@@ -37582,7 +37585,7 @@
     ]
   },
   {
-    "author": "Patel Meru",
+    "author": "janglee",
     "description": null,
     "genre": "Puzzle",
     "id": "467207",
@@ -45351,8 +45354,7 @@
     "id": "525871",
     "link": "https://crplay.itch.io/roguelike",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwNjc4NDEucG5n/315x250%23c/ywuSqf.png",
     "title": "ROGUELIKE",
@@ -47826,7 +47828,7 @@
     ]
   },
   {
-    "author": "Patel Meru",
+    "author": "janglee",
     "description": "A colorful puzzle game",
     "genre": "Puzzle",
     "id": "543583",
@@ -50028,6 +50030,7 @@
     "id": "560205",
     "link": "https://ivan-tigan.itch.io/reckless",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5NDI1NDcucG5n/315x250%23c/4OU6Z0.png",
@@ -50540,6 +50543,27 @@
     ]
   },
   {
+    "author": "Aristonaut",
+    "description": "Match socks to win! Global Game Jam 2020. Theme: Repaired",
+    "genre": null,
+    "id": "563200",
+    "link": "https://aristonaut.itch.io/match-maker-the-sock-matching-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTYyNzYuZ2lm/315x250%23cm/EJvbXm.gif",
+    "title": "Match Maker - The Sock Matching Game",
+    "video": "https://img.itch.zone/aW1nLzI5NTYyNzYuZ2lm/original/6PV7yW.gif",
+    "scrapeWords": [
+      "Match",
+      "Maker",
+      "The",
+      "Sock",
+      "Matching",
+      "Game"
+    ]
+  },
+  {
     "author": "fedz",
     "description": "Nokia jam 2 evolution game",
     "genre": "Platformer",
@@ -50745,6 +50769,24 @@
     ]
   },
   {
+    "author": "Leef 6010",
+    "description": "A small, unconventional horror rpg.",
+    "genre": "Role Playing",
+    "id": "565400",
+    "link": "https://leef6010.itch.io/projectkat",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwOTcyMjIucG5n/315x250%23c/a0NL9j.png",
+    "title": "Project Kat",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "Kat"
+    ]
+  },
+  {
     "author": "systemsoverload",
     "description": "Created for My First Game Jam Winter 2020",
     "genre": "Action",
@@ -50831,7 +50873,7 @@
     ]
   },
   {
-    "author": "Patel Meru",
+    "author": "janglee",
     "description": null,
     "genre": null,
     "id": "565951",
@@ -51140,6 +51182,20 @@
       "Cats",
       "Of",
       "Love"
+    ]
+  },
+  {
+    "author": "Aristonaut",
+    "description": "An infinite scrolling minesweeper game. Get coins to unlock stuff!",
+    "genre": "Puzzle",
+    "id": "569218",
+    "link": "https://aristonaut.itch.io/minescroller",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwOTYzODEucG5n/315x250%23c/cJRg%2Bu.png",
+    "title": "Minescroller",
+    "video": null,
+    "scrapeWords": [
+      "Minescroller"
     ]
   },
   {
@@ -52666,6 +52722,26 @@
     ]
   },
   {
+    "author": "Tony LindoRock",
+    "description": "What you do will save all of humanity. But they are always watching...",
+    "genre": "Puzzle",
+    "id": "582096",
+    "link": "https://tony-lindorock.itch.io/into-the-web",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwODYyMzMucG5n/315x250%23c/OH5OVe.png",
+    "title": "Into the Web",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "the",
+      "Web"
+    ]
+  },
+  {
     "author": "vetta_vetka",
     "description": "Just like make game",
     "genre": "Action",
@@ -53011,6 +53087,23 @@
     ]
   },
   {
+    "author": "Default Cube",
+    "description": "Collect bots and get them to follow you to the goal",
+    "genre": "Puzzle",
+    "id": "585012",
+    "link": "https://quicksilver151.itch.io/follower",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwODQ0NTYucG5n/315x250%23c/i8L%2FUV.png",
+    "title": "Follower",
+    "video": null,
+    "scrapeWords": [
+      "Follower"
+    ]
+  },
+  {
     "author": "Mashikouli",
     "description": "Mashi-Ninja Hand-animated beat-them-all",
     "genre": "Action",
@@ -53045,6 +53138,189 @@
       "Another",
       "Level",
       "Editor"
+    ]
+  },
+  {
+    "author": "WigglyGull",
+    "description": "HacknSlash your way through a procedurally generated farm saving as many carrots as you can.",
+    "genre": "Platformer",
+    "id": "586021",
+    "link": "https://wigglygull.itch.io/carrot-attack",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDEwMzYucG5n/315x250%23c/HgFoKm.png",
+    "title": "Carrot Attack",
+    "video": null,
+    "scrapeWords": [
+      "Carrot",
+      "Attack"
+    ]
+  },
+  {
+    "author": "Pirate Chip Games",
+    "description": "Can you open the un-openable?",
+    "genre": "Adventure",
+    "id": "586620",
+    "link": "https://piratechipgames.itch.io/howtoopenalockedchest",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwOTM5NDEuZ2lm/315x250%23cm/4oXMcz.gif",
+    "title": "How to Open a Locked Chest",
+    "video": "https://img.itch.zone/aW1nLzMwOTM5NDEuZ2lm/original/uaM%2F6w.gif",
+    "scrapeWords": [
+      "How",
+      "to",
+      "Open",
+      "a",
+      "Locked",
+      "Chest"
+    ]
+  },
+  {
+    "author": "Iron Stag Games",
+    "description": "Navigate through the caves, collect the treasure, and survive!",
+    "genre": "Action",
+    "id": "587005",
+    "link": "https://ironstaggames.itch.io/aquarius",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwOTY2MjYucG5n/315x250%23c/%2Fb1PsP.png",
+    "title": "Aquarius",
+    "video": null,
+    "scrapeWords": [
+      "Aquarius"
+    ]
+  },
+  {
+    "author": "Casual Game Design",
+    "description": "Survive in an asteroids field.",
+    "genre": "Shooter",
+    "id": "587277",
+    "link": "https://casualgamedesign.itch.io/geometroids",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwOTg0MzMucG5n/315x250%23c/d0dTMJ.png",
+    "title": "Geometroids",
+    "video": null,
+    "scrapeWords": [
+      "Geometroids"
+    ]
+  },
+  {
+    "author": "MoonPod",
+    "description": "A simple 2d platformer with custom levels",
+    "genre": "Platformer",
+    "id": "587395",
+    "link": "https://moonpod.itch.io/spry",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwOTkzNTAucG5n/315x250%23c/7UI0cN.png",
+    "title": "Spry",
+    "video": null,
+    "scrapeWords": [
+      "Spry"
+    ]
+  },
+  {
+    "author": "nezvers",
+    "description": null,
+    "genre": null,
+    "id": "587576",
+    "link": "https://nezvers.itch.io/near-miss-snake",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMDAyNTYucG5n/315x250%23c/SjQi3l.png",
+    "title": "Near miss snake",
+    "video": null,
+    "scrapeWords": [
+      "Near",
+      "miss",
+      "snake"
+    ]
+  },
+  {
+    "author": "Dusk",
+    "description": "A bee farming game",
+    "genre": "Simulation",
+    "id": "587767",
+    "link": "https://zldusk.itch.io/bees-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMDE4NjAucG5n/315x250%23c/k4hllu.png",
+    "title": "Bees (demo)",
+    "video": null,
+    "scrapeWords": [
+      "Bees"
+    ]
+  },
+  {
+    "author": "memel06",
+    "description": "A memory game about birbs",
+    "genre": "Adventure",
+    "id": "587937",
+    "link": "https://memel06.itch.io/photobirb",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMDMwMDQucG5n/315x250%23c/Vtr3Zh.png",
+    "title": "Photobirb",
+    "video": null,
+    "scrapeWords": [
+      "Photobirb"
+    ]
+  },
+  {
+    "author": "Diego Fortuna",
+    "description": "This os is very smart... too smart..",
+    "genre": "Puzzle",
+    "id": "588179",
+    "link": "https://diego-fortuna.itch.io/smart-os",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDQ0NTUucG5n/315x250%23c/iGK97n.png",
+    "title": "Smart OS",
+    "video": null,
+    "scrapeWords": [
+      "Smart",
+      "OS"
+    ]
+  },
+  {
+    "author": "DownhillGames",
+    "description": "Lots of spawning zombies",
+    "genre": "Shooter",
+    "id": "588195",
+    "link": "https://downhillgames.itch.io/lots-of-zoms",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDQ1NjEucG5n/315x250%23c/WNsaVv.png",
+    "title": "Lots of Zoms",
+    "video": null,
+    "scrapeWords": [
+      "Lots",
+      "of",
+      "Zoms"
+    ]
+  },
+  {
+    "author": "zedpoum",
+    "description": "Winim is about Win & its antimatter shadow Nim lost in a strange dungeon",
+    "genre": "Adventure",
+    "id": "588371",
+    "link": "https://ausindiz.itch.io/the-shadows-of-winim",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMDU2NTYucG5n/315x250%23c/vGTTct.png",
+    "title": "The shadows of winim",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "shadows",
+      "of",
+      "winim"
     ]
   },
   {
