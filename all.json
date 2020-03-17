@@ -33074,7 +33074,7 @@
     ]
   },
   {
-    "author": "Star",
+    "author": "Nabarun",
     "description": "jump to avoid worldly contact",
     "genre": null,
     "id": "439678",
@@ -44432,21 +44432,6 @@
     ]
   },
   {
-    "author": "MeowMooGames",
-    "description": "Destroy the enemy's many military bases and weapons. Currently still in active development.",
-    "genre": "Action",
-    "id": "517499",
-    "link": "https://meowmoogames.itch.io/tank-assault",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4NjA0NDUucG5n/315x250%23c/KO16ij.png",
-    "title": "Tank Assault",
-    "video": null,
-    "scrapeWords": [
-      "Tank",
-      "Assault"
-    ]
-  },
-  {
     "author": "Elena G",
     "description": "Defeat all the aliens to protect your ship!",
     "genre": "Shooter",
@@ -50776,7 +50761,8 @@
     "link": "https://leef6010.itch.io/projectkat",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwOTcyMjIucG5n/315x250%23c/a0NL9j.png",
     "title": "Project Kat",
@@ -53160,6 +53146,22 @@
     ]
   },
   {
+    "author": "Alecsis",
+    "description": "A dangerous virus has started to spread in your local farm, save your humans !",
+    "genre": "Survival",
+    "id": "586031",
+    "link": "https://alecsis.itch.io/the-human-farm",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMwOTAwOTIuZ2lm/315x250%23cm/XQRtNJ.gif",
+    "title": "The Human Farm",
+    "video": "https://img.itch.zone/aW1nLzMwOTAwOTIuZ2lm/original/DACyta.gif",
+    "scrapeWords": [
+      "The",
+      "Human",
+      "Farm"
+    ]
+  },
+  {
     "author": "Pirate Chip Games",
     "description": "Can you open the un-openable?",
     "genre": "Adventure",
@@ -53178,6 +53180,47 @@
       "a",
       "Locked",
       "Chest"
+    ]
+  },
+  {
+    "author": "Gadelan",
+    "description": "Conquer the city with plants",
+    "genre": "Strategy",
+    "id": "586893",
+    "link": "https://gadelan.itch.io/quarantine-jam",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDY2MDYucG5n/315x250%23c/HNvKiT.png",
+    "title": "Plenty Of Plants",
+    "video": null,
+    "scrapeWords": [
+      "Plenty",
+      "Of",
+      "Plants"
+    ]
+  },
+  {
+    "author": "vikingman",
+    "description": null,
+    "genre": "Simulation",
+    "id": "586895",
+    "link": "https://vikingman.itch.io/lotsofpackets",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDU2OTkucG5n/315x250%23c/%2BxyguR.png",
+    "title": "A Lots Of Packets",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Lots",
+      "Of",
+      "Packets"
     ]
   },
   {
@@ -53210,7 +53253,7 @@
   },
   {
     "author": "MoonPod",
-    "description": "A simple 2d platformer with custom levels",
+    "description": "A 2d platformer with custom levels",
     "genre": "Platformer",
     "id": "587395",
     "link": "https://moonpod.itch.io/spry",
@@ -53233,12 +53276,13 @@
     "link": "https://nezvers.itch.io/near-miss-snake",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMxMDAyNTYucG5n/315x250%23c/SjQi3l.png",
-    "title": "Near miss snake",
+    "title": "Near miss snake (Open-sourced)",
     "video": null,
     "scrapeWords": [
       "Near",
       "miss",
-      "snake"
+      "snake",
+      "Open-sourced"
     ]
   },
   {
@@ -53270,23 +53314,6 @@
     ]
   },
   {
-    "author": "Diego Fortuna",
-    "description": "This os is very smart... too smart..",
-    "genre": "Puzzle",
-    "id": "588179",
-    "link": "https://diego-fortuna.itch.io/smart-os",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMxMDQ0NTUucG5n/315x250%23c/iGK97n.png",
-    "title": "Smart OS",
-    "video": null,
-    "scrapeWords": [
-      "Smart",
-      "OS"
-    ]
-  },
-  {
     "author": "DownhillGames",
     "description": "Lots of spawning zombies",
     "genre": "Shooter",
@@ -53307,12 +53334,34 @@
     ]
   },
   {
+    "author": "rares52",
+    "description": null,
+    "genre": null,
+    "id": "588333",
+    "link": "https://rares52.itch.io/godot-demo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDk3OTAucG5n/315x250%23c/ItAGFI.png",
+    "title": "godot_demo",
+    "video": null,
+    "scrapeWords": [
+      "godot_"
+    ]
+  },
+  {
     "author": "zedpoum",
-    "description": "Winim is about Win & its antimatter shadow Nim lost in a strange dungeon",
+    "description": "Winim is about Win & its antimatter shadow Nim lost in a strange dungeon. #Trijam-61",
     "genre": "Adventure",
     "id": "588371",
     "link": "https://ausindiz.itch.io/the-shadows-of-winim",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMxMDU2NTYucG5n/315x250%23c/vGTTct.png",
     "title": "The shadows of winim",
     "video": null,
@@ -53321,6 +53370,130 @@
       "shadows",
       "of",
       "winim"
+    ]
+  },
+  {
+    "author": "PlantLeaf",
+    "description": "just a prototype of a platformer",
+    "genre": "Platformer",
+    "id": "588394",
+    "link": "https://plantleaf-games.itch.io/godot-platformer",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDU4MTQucG5n/315x250%23c/%2BBkZkL.png",
+    "title": "Godot-Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Godot-Platformer"
+    ]
+  },
+  {
+    "author": "Grevius Studio",
+    "description": "Find it... pick it... you have to be fast.. as fast as you can..",
+    "genre": "Puzzle",
+    "id": "588484",
+    "link": "https://grevius-studio.itch.io/pick-it",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDYyMTkucG5n/315x250%23c/GExbYM.png",
+    "title": "Pick It",
+    "video": null,
+    "scrapeWords": [
+      "Pick",
+      "It"
+    ]
+  },
+  {
+    "author": "ManuACruz",
+    "description": "Fractic local-multiplayer game about creating papercraft animals.",
+    "genre": "Puzzle",
+    "id": "588501",
+    "link": "https://manuacruz.itch.io/graft",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTA0NjIucG5n/315x250%23c/8uDGEc.png",
+    "title": "Graft",
+    "video": null,
+    "scrapeWords": [
+      "Graft"
+    ]
+  },
+  {
+    "author": "ElValle",
+    "description": "You need to get the vaccines to survive",
+    "genre": "Platformer",
+    "id": "588685",
+    "link": "https://vallemrv.itch.io/virus-attact",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMDc1NDMucG5n/315x250%23c/%2Bpk0j0.png",
+    "title": "Virus attack",
+    "video": null,
+    "scrapeWords": [
+      "Virus",
+      "attack"
+    ]
+  },
+  {
+    "author": "yaqb",
+    "description": "Control crowd of people to avoid attacking obstacles",
+    "genre": null,
+    "id": "588733",
+    "link": "https://yaqb.itch.io/crowd-runner",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDc3NjAucG5n/315x250%23c/jjlAcy.png",
+    "title": "Crowd Runner",
+    "video": null,
+    "scrapeWords": [
+      "Crowd",
+      "Runner"
+    ]
+  },
+  {
+    "author": "8BitBadger",
+    "description": "The project is for my game a month challenge for the month of Feb",
+    "genre": "Action",
+    "id": "588817",
+    "link": "https://8bitbadger.itch.io/guardian",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMDgyMDgucG5n/315x250%23c/bWcnW6.png",
+    "title": "Guardian",
+    "video": null,
+    "scrapeWords": [
+      "Guardian"
+    ]
+  },
+  {
+    "author": "Slang",
+    "description": "Game made for the \"Quarantine Jam\"",
+    "genre": null,
+    "id": "588819",
+    "link": "https://slang.itch.io/a-thousand-words-to-tell-i-love-you",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDgxODAucG5n/315x250%23c/yvqmbp.png",
+    "title": "A Thousand Words To Tell I Love You",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Thousand",
+      "Words",
+      "To",
+      "Tell",
+      "I",
+      "Love",
+      "You"
     ]
   },
   {
