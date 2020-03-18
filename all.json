@@ -46975,6 +46975,24 @@
     ]
   },
   {
+    "author": "Gubbles",
+    "description": "A snazzy arcade game that absolutely isn't just Breakout",
+    "genre": "Action",
+    "id": "537793",
+    "link": "https://gubbles.itch.io/gub-ball",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODY3NjAucG5n/315x250%23c/%2FZncee.png",
+    "title": "Gub-Ball!",
+    "video": null,
+    "scrapeWords": [
+      "Gub-Ball"
+    ]
+  },
+  {
     "author": "kianaj",
     "description": "Zuma-like game with different method",
     "genre": "Puzzle",
@@ -53193,7 +53211,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxMDY2MDYucG5n/315x250%23c/HNvKiT.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxMTI0NDYucG5n/315x250%23c/soxwRl.png",
     "title": "Plenty Of Plants",
     "video": null,
     "scrapeWords": [
@@ -53334,6 +53352,24 @@
     ]
   },
   {
+    "author": "Jellonator",
+    "description": null,
+    "genre": "Platformer",
+    "id": "588238",
+    "link": "https://jellonator.itch.io/photobound",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTM5NjQucG5n/315x250%23c/4uRtU1.png",
+    "title": "Photobound (demo)",
+    "video": null,
+    "scrapeWords": [
+      "Photobound"
+    ]
+  },
+  {
     "author": "rares52",
     "description": null,
     "genre": null,
@@ -53459,6 +53495,26 @@
     ]
   },
   {
+    "author": "VikVelev",
+    "description": "Our galaxy is packed like sardines in a can with all those infiltrators. Can you get rid of them?",
+    "genre": "Strategy",
+    "id": "588799",
+    "link": "https://vikvelev.itch.io/shortage-of-space",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDgyNzAuanBn/315x250%23c/fZb6cp.jpg",
+    "title": "Shortage of Space",
+    "video": null,
+    "scrapeWords": [
+      "Shortage",
+      "of",
+      "Space"
+    ]
+  },
+  {
     "author": "8BitBadger",
     "description": "The project is for my game a month challenge for the month of Feb",
     "genre": "Action",
@@ -53494,6 +53550,34 @@
       "I",
       "Love",
       "You"
+    ]
+  },
+  {
+    "author": "ACE:DEV",
+    "description": "A puzzle platformer where the map changes with each jump!",
+    "genre": "Platformer",
+    "id": "588887",
+    "link": "https://aacurate2.itch.io/heartpulse",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMDgzNTYucG5n/315x250%23c/hNki60.png",
+    "title": "heartpulse",
+    "video": null,
+    "scrapeWords": [
+      "heartpulse"
+    ]
+  },
+  {
+    "author": "Dusk",
+    "description": "A short retro platformer",
+    "genre": "Platformer",
+    "id": "589439",
+    "link": "https://zldusk.itch.io/narps",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMTI3NzYuanBn/315x250%23c/23cCcu.jpg",
+    "title": "Narps",
+    "video": null,
+    "scrapeWords": [
+      "Narps"
     ]
   },
   {
