@@ -53004,7 +53004,9 @@
     "id": "584131",
     "link": "https://codetorex.itch.io/pathfinder",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwNzkxMTUucG5n/315x250%23c/uFMJqX.png",
     "title": "PATHFINDER: Last Stand",
@@ -53309,7 +53311,9 @@
     "genre": "Simulation",
     "id": "587767",
     "link": "https://zldusk.itch.io/bees-demo",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMxMDE4NjAucG5n/315x250%23c/k4hllu.png",
     "title": "Bees (demo)",
     "video": null,
@@ -53505,7 +53509,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxMDgyNzAuanBn/315x250%23c/fZb6cp.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzMxMTY2MDUucG5n/315x250%23c/g%2FDzRu.png",
     "title": "Shortage of Space",
     "video": null,
     "scrapeWords": [
@@ -53572,12 +53576,94 @@
     "genre": "Platformer",
     "id": "589439",
     "link": "https://zldusk.itch.io/narps",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMxMTI3NzYuanBn/315x250%23c/23cCcu.jpg",
     "title": "Narps",
     "video": null,
     "scrapeWords": [
       "Narps"
+    ]
+  },
+  {
+    "author": "Octagon Devs",
+    "description": "Just click on the egg",
+    "genre": "Action",
+    "id": "589810",
+    "link": "https://octagon-devs.itch.io/egg-clicker",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTUwMjIucG5n/315x250%23c/E07PGg.png",
+    "title": "Egg Clicker",
+    "video": null,
+    "scrapeWords": [
+      "Egg",
+      "Clicker"
+    ]
+  },
+  {
+    "author": "An Olive",
+    "description": "The world is broken, and it is up to you to fix it!",
+    "genre": "Puzzle",
+    "id": "589818",
+    "link": "https://an-olive.itch.io/pieceful",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMTU1NzIucG5n/315x250%23c/p2razL.png",
+    "title": "Pieceful",
+    "video": null,
+    "scrapeWords": [
+      "Pieceful"
+    ]
+  },
+  {
+    "author": "Vlad",
+    "description": "Top-down low-poly shooter",
+    "genre": "Shooter",
+    "id": "590021",
+    "link": "https://koval-ru-eng.itch.io/shapesteal",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTYzNTAucG5n/315x250%23c/r5Kclj.png",
+    "title": "Shapesteal",
+    "video": null,
+    "scrapeWords": [
+      "Shapesteal"
+    ]
+  },
+  {
+    "author": "damihl",
+    "description": "Mobile-focused arcade game created in Godot Engine",
+    "genre": null,
+    "id": "590056",
+    "link": "https://damihl.itch.io/taptaaptaaaptap",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMTY1OTMucG5n/315x250%23c/O9AiKo.png",
+    "title": "TapTaapTaaapTap",
+    "video": null,
+    "scrapeWords": [
+      "Tap",
+      "Taap",
+      "Taaap",
+      "Tap"
+    ]
+  },
+  {
+    "author": "Juan Diego Suarez M.",
+    "description": null,
+    "genre": "Simulation",
+    "id": "590178",
+    "link": "https://juan-diego-suarez-m.itch.io/espace-adventure-ds",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMTc0NzEucG5n/315x250%23c/t73Pbc.png",
+    "title": "Space Adventure DS",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Adventure",
+      "DS"
     ]
   },
   {
