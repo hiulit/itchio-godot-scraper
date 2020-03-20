@@ -23649,6 +23649,24 @@
     ]
   },
   {
+    "author": "hopem",
+    "description": null,
+    "genre": null,
+    "id": "355870",
+    "link": "https://hopem.itch.io/tortle-get-leaf",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": null,
+    "title": "tortle get leaf",
+    "video": null,
+    "scrapeWords": [
+      "tortle",
+      "get",
+      "leaf"
+    ]
+  },
+  {
     "author": "Koros",
     "description": "SciFi level demo for Godot 3.1",
     "genre": "Action",
@@ -48259,7 +48277,7 @@
   },
   {
     "author": "DOAmaster",
-    "description": null,
+    "description": "simple simulation dungeon overview",
     "genre": "Simulation",
     "id": "547897",
     "link": "https://doamaster.itch.io/pocket-dungeon",
@@ -50878,15 +50896,15 @@
   },
   {
     "author": "janglee",
-    "description": null,
-    "genre": null,
+    "description": "A reversed tower defence game",
+    "genre": "Strategy",
     "id": "565951",
     "link": "https://janglee.itch.io/tower-defense",
     "platforms": [
       "Windows",
       "Linux"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMTk4NzkucG5n/315x250%23c/12CLcQ.png",
     "title": "Tower Defense",
     "video": null,
     "scrapeWords": [
@@ -52696,9 +52714,7 @@
     "genre": "Adventure",
     "id": "581760",
     "link": "https://defomort.itch.io/hors",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMwOTMwMDMucG5n/315x250%23c/91X5gs.png",
     "title": "DEAD HORS",
     "video": null,
@@ -52948,7 +52964,7 @@
   },
   {
     "author": "DOAmaster",
-    "description": null,
+    "description": "Extremely pace mouse only arade game",
     "genre": "Action",
     "id": "583993",
     "link": "https://doamaster.itch.io/lux-light",
@@ -53099,8 +53115,7 @@
     "id": "585012",
     "link": "https://quicksilver151.itch.io/follower",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwODQ0NTYucG5n/315x250%23c/i8L%2FUV.png",
     "title": "Follower",
@@ -53322,6 +53337,22 @@
     ]
   },
   {
+    "author": "Romidas",
+    "description": "Wrd_Hckr is a typing game that makes you feel like an old school hacker.",
+    "genre": "Educational",
+    "id": "587863",
+    "link": "https://romidas.itch.io/wrd",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDI5MzIuanBn/315x250%23c/IUdGpK.jpg",
+    "title": "Wrd_Hckr",
+    "video": null,
+    "scrapeWords": [
+      "Wrd_Hckr"
+    ]
+  },
+  {
     "author": "memel06",
     "description": "A memory game about birbs",
     "genre": "Adventure",
@@ -53353,6 +53384,21 @@
       "Lots",
       "of",
       "Zoms"
+    ]
+  },
+  {
+    "author": "sisyphean",
+    "description": "A game about Spring - and a game about a spring.",
+    "genre": null,
+    "id": "588237",
+    "link": "https://sisyphean.itch.io/spring-tale",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMjE0ODMucG5n/315x250%23c/rlP7zm.png",
+    "title": "Spring tale",
+    "video": null,
+    "scrapeWords": [
+      "Spring",
+      "tale"
     ]
   },
   {
@@ -53587,6 +53633,26 @@
     ]
   },
   {
+    "author": "deltadev",
+    "description": "Become an invincible warrior by tempering your sword in battles",
+    "genre": "Platformer",
+    "id": "589524",
+    "link": "https://deltadev.itch.io/last-hero",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTcyNDgucG5n/315x250%23c/oGinnF.png",
+    "title": "Last Hero : Immortal battle",
+    "video": null,
+    "scrapeWords": [
+      "Last",
+      "Hero",
+      "Immortal",
+      "battle"
+    ]
+  },
+  {
     "author": "Octagon Devs",
     "description": "Just click on the egg",
     "genre": "Action",
@@ -53651,6 +53717,23 @@
     ]
   },
   {
+    "author": "THEN3LLI",
+    "description": "Quarantined is about fighting Coronavirus but cooler",
+    "genre": "Strategy",
+    "id": "590175",
+    "link": "https://then3lli.itch.io/quarantined",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTc0ODAucG5n/315x250%23c/wj65fr.png",
+    "title": "Quarantined!",
+    "video": null,
+    "scrapeWords": [
+      "Quarantined"
+    ]
+  },
+  {
     "author": "Juan Diego Suarez M.",
     "description": null,
     "genre": "Simulation",
@@ -53664,6 +53747,39 @@
       "Space",
       "Adventure",
       "DS"
+    ]
+  },
+  {
+    "author": "Micron_Flash",
+    "description": "Help Abby save the forest by using her unique power",
+    "genre": "Platformer",
+    "id": "590321",
+    "link": "https://micron-flash.itch.io/abbys-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMTg0MDIucG5n/315x250%23c/DgOtfU.png",
+    "title": "Abby's Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Abbys",
+      "Adventure"
+    ]
+  },
+  {
+    "author": "draketrought",
+    "description": "A game based on connect-4 in which you can sabotage your opponents.",
+    "genre": "Strategy",
+    "id": "590416",
+    "link": "https://draketrought.itch.io/disconnect",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTkyODQucG5n/315x250%23c/SCnCDH.png",
+    "title": "Disconnect",
+    "video": null,
+    "scrapeWords": [
+      "Disconnect"
     ]
   },
   {
@@ -53681,6 +53797,25 @@
     "scrapeWords": [
       "Mouse",
       "Boat"
+    ]
+  },
+  {
+    "author": "Mariothedog",
+    "description": "A short platformer made for the 140th Weekly Game Jam - Theme: \"Shapeshift\".",
+    "genre": "Platformer",
+    "id": "590572",
+    "link": "https://mariothedog.itch.io/shifty-slime",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMjAyMTcuZ2lm/315x250%23cm/RmsRun.gif",
+    "title": "Shifty Slime",
+    "video": "https://img.itch.zone/aW1nLzMxMjAyMTcuZ2lm/original/nQNKgp.gif",
+    "scrapeWords": [
+      "Shifty",
+      "Slime"
     ]
   },
   {
