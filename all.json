@@ -4037,7 +4037,7 @@
     "description": "A Sokoban recreation.",
     "genre": "Puzzle",
     "id": "192593",
-    "link": "https://alxxlc.itch.io/sokoban-dungeon",
+    "link": "https://quot.itch.io/sokoban-dungeon",
     "platforms": [
       "Windows",
       "Linux",
@@ -18758,11 +18758,11 @@
     ]
   },
   {
-    "author": "magodev",
+    "author": "Nimble Beasts Collective",
     "description": "Be a junk mail delivery boy!",
     "genre": null,
     "id": "313939",
-    "link": "https://magodev.itch.io/spamboy-deluxe-openjam2018",
+    "link": "https://nimblebeastscollective.itch.io/spamboy-deluxe-openjam2018",
     "platforms": [
       "Windows",
       "Linux"
@@ -34391,11 +34391,11 @@
     ]
   },
   {
-    "author": "Daisinkaizer",
+    "author": "BFG Studios",
     "description": "Buzo extremo es un videojuego para mobile de formato endless runner creado por un pequeño grupo de estudiantes novatos.",
     "genre": null,
     "id": "448679",
-    "link": "https://daisinkaizer.itch.io/buzo-extremo",
+    "link": "https://bfg-studios.itch.io/buzo-extremo",
     "platforms": [
       "Android"
     ],
@@ -37320,24 +37320,6 @@
     ]
   },
   {
-    "author": "Risemack",
-    "description": null,
-    "genre": "Adventure",
-    "id": "463634",
-    "link": "https://risemack.itch.io/mostly-friendly-monsters",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTMyMzkucG5n/315x250%23c/Mq13R3.png",
-    "title": "Mostly Friendly Monsters",
-    "video": null,
-    "scrapeWords": [
-      "Mostly",
-      "Friendly",
-      "Monsters"
-    ]
-  },
-  {
     "author": "Essojadojef",
     "description": null,
     "genre": "Puzzle",
@@ -38053,29 +38035,6 @@
     ]
   },
   {
-    "author": "Dan Waywell",
-    "description": "Mini Metroidvania",
-    "genre": "Platformer",
-    "id": "470082",
-    "link": "https://danwaywell.itch.io/the-legend-of-death-soul-reaper",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0MDU2ODIucG5n/315x250%23c/J586K7.png",
-    "title": "The Legend of Death: Soul Reaper",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Legend",
-      "of",
-      "Death",
-      "Soul",
-      "Reaper"
-    ]
-  },
-  {
     "author": "Phildjii",
     "description": "Help Hamlet the Hamster reach his home!",
     "genre": null,
@@ -38119,10 +38078,8 @@
     "genre": "Strategy",
     "id": "470125",
     "link": "https://sarturo.itch.io/popol",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MjAzNTMucG5n/315x250%23c/76sMdK.png",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzM5MDEucG5n/315x250%23c/t2L%2B1f.png",
     "title": "Popol",
     "video": null,
     "scrapeWords": [
@@ -48744,7 +48701,7 @@
     "description": "Roll and Write Puzzler for the Godot Wild Jam #17",
     "genre": "Card Game",
     "id": "550822",
-    "link": "https://nimblebeasts.itch.io/rail-n-write",
+    "link": "https://nb-inactive.itch.io/rail-n-write",
     "platforms": [
       "Windows",
       "Linux",
@@ -52600,7 +52557,7 @@
     "id": "580240",
     "link": "https://quandangv.itch.io/dinosaurs",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMwNTk1MjQucG5n/315x250%23c/fIIHSl.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxMzIxNzYucG5n/315x250%23c/07x%2Ftw.png",
     "title": "Dinosaurs",
     "video": null,
     "scrapeWords": [
@@ -52710,7 +52667,7 @@
   },
   {
     "author": "Defo Mort",
-    "description": "your horse is dead",
+    "description": "Explore a strange valley in search of a saloon.",
     "genre": "Adventure",
     "id": "581760",
     "link": "https://defomort.itch.io/hors",
@@ -53603,6 +53560,21 @@
     ]
   },
   {
+    "author": "Jasonsumm",
+    "description": "an animal-themed treat-em-up, with over 10 animal species to meet AND treat",
+    "genre": "Simulation",
+    "id": "588877",
+    "link": "https://theresnosuchthing.itch.io/paramedicats",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzQwMjAuZ2lm/315x250%23cm/fJN5hz.gif",
+    "title": "ParamediCats",
+    "video": "https://img.itch.zone/aW1nLzMxMzQwMjAuZ2lm/original/Y1DHhM.gif",
+    "scrapeWords": [
+      "Paramedi",
+      "Cats"
+    ]
+  },
+  {
     "author": "ACE:DEV",
     "description": "A puzzle platformer where the map changes with each jump!",
     "genre": "Platformer",
@@ -53637,12 +53609,13 @@
     "description": "Become an invincible warrior by tempering your sword in battles",
     "genre": "Platformer",
     "id": "589524",
-    "link": "https://deltadev.itch.io/last-hero",
+    "link": "https://deltadev.itch.io/lasthero",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxMTcyNDgucG5n/315x250%23c/oGinnF.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxMzMxNjYucG5n/315x250%23c/GnC5l7.png",
     "title": "Last Hero : Immortal battle",
     "video": null,
     "scrapeWords": [
@@ -53816,6 +53789,233 @@
     "scrapeWords": [
       "Shifty",
       "Slime"
+    ]
+  },
+  {
+    "author": "LMC_dd",
+    "description": "Memory",
+    "genre": "Educational",
+    "id": "591033",
+    "link": "https://lmc-dd.itch.io/memory",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMjg4MjEucG5n/315x250%23c/NAsnIO.png",
+    "title": "Memory_N",
+    "video": null,
+    "scrapeWords": [
+      "Memory_N"
+    ]
+  },
+  {
+    "author": "LT Entertainment",
+    "description": null,
+    "genre": "Action",
+    "id": "591737",
+    "link": "https://lt-entertainment.itch.io/dogfight-the-great-war",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMjg0MzQucG5n/315x250%23c/pZ6AQm.png",
+    "title": "Dogfight: The Great War",
+    "video": null,
+    "scrapeWords": [
+      "Dogfight",
+      "The",
+      "Great",
+      "War"
+    ]
+  },
+  {
+    "author": "Jawfish",
+    "description": "Godot Wild Jam #19 Entry",
+    "genre": "Puzzle",
+    "id": "591791",
+    "link": "https://jawfish.itch.io/archaeo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMjg4NzAuanBlZw==/315x250%23c/Kgtk3G.jpeg",
+    "title": "Archaeo",
+    "video": null,
+    "scrapeWords": [
+      "Archaeo"
+    ]
+  },
+  {
+    "author": "RexLupie",
+    "description": "The Finnish Tower Defense",
+    "genre": "Strategy",
+    "id": "591820",
+    "link": "https://rexlupie.itch.io/finnish-them",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMjg4NzEucG5n/315x250%23c/G8E%2Buw.png",
+    "title": "Finnish them!",
+    "video": null,
+    "scrapeWords": [
+      "Finnish",
+      "them"
+    ]
+  },
+  {
+    "author": "Inglo Games",
+    "description": "Follow the clues, discover the treasure",
+    "genre": "Action",
+    "id": "591893",
+    "link": "https://inglo-games.itch.io/the-incredible-pirate-race",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzA2NDUucG5n/315x250%23c/0Nzs5N.png",
+    "title": "The Incredible Pirate Race",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Incredible",
+      "Pirate",
+      "Race"
+    ]
+  },
+  {
+    "author": "Tony LindoRock",
+    "description": "What you do will save all of humanity. But they are always watching...",
+    "genre": "Puzzle",
+    "id": "591999",
+    "link": "https://tony-lindorock.itch.io/into-the-web-browser",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzAwMzMucG5n/315x250%23c/tYFpky.png",
+    "title": "Into the Web (Browser)",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "the",
+      "Web",
+      "Browser"
+    ]
+  },
+  {
+    "author": "jogacolhue",
+    "description": null,
+    "genre": "Platformer",
+    "id": "592067",
+    "link": "https://jogacolhue.itch.io/tropical-vacations",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzE5OTIucG5n/315x250%23c/9FiI9j.png",
+    "title": "Tropical Vacations",
+    "video": null,
+    "scrapeWords": [
+      "Tropical",
+      "Vacations"
+    ]
+  },
+  {
+    "author": "Schweini007",
+    "description": "A short metroidvania platformer for the Godot Wild Jam #19",
+    "genre": "Platformer",
+    "id": "592408",
+    "link": "https://schweini007.itch.io/spirits",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzMxMTEucG5n/315x250%23c/wD5rcQ.png",
+    "title": "Spirits",
+    "video": null,
+    "scrapeWords": [
+      "Spirits"
+    ]
+  },
+  {
+    "author": "JohnGabrielUK",
+    "description": "The answers await.",
+    "genre": "Adventure",
+    "id": "592472",
+    "link": "https://johngabrieluk.itch.io/untold",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzM1NTEucG5n/315x250%23c/CIVSQe.png",
+    "title": "Untold",
+    "video": null,
+    "scrapeWords": [
+      "Untold"
+    ]
+  },
+  {
+    "author": "guillaumephamngoc",
+    "description": "Dig your way through the underground to discover stuff and beat the hunter - GWJ#19",
+    "genre": "Action",
+    "id": "592511",
+    "link": "https://guillaumephamngoc.itch.io/fire-in-the-mole",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzM3NDYucG5n/315x250%23c/r%2FcPtQ.png",
+    "title": "Fire in the mole!",
+    "video": null,
+    "scrapeWords": [
+      "Fire",
+      "in",
+      "the",
+      "mole"
+    ]
+  },
+  {
+    "author": "Fire_SP",
+    "description": null,
+    "genre": "Shooter",
+    "id": "592634",
+    "link": "https://fire-sp.itch.io/dungeon-delver",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzQ1ODEucG5n/315x250%23c/QAlqlj.png",
+    "title": "Dungeon Delver",
+    "video": null,
+    "scrapeWords": [
+      "Dungeon",
+      "Delver"
+    ]
+  },
+  {
+    "author": "Fox Game Dev",
+    "description": "Escape a kraken's attack on this rhythm game",
+    "genre": "Rhythm",
+    "id": "592686",
+    "link": "https://foxgamedev.itch.io/bermuda-beach",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzQ4MzkucG5n/315x250%23c/gsMZN%2B.png",
+    "title": "Bermuda Beach",
+    "video": null,
+    "scrapeWords": [
+      "Bermuda",
+      "Beach"
+    ]
+  },
+  {
+    "author": "VikVelev",
+    "description": "Collect all the positive reactions for your posts on social media so that you go viral!",
+    "genre": "Survival",
+    "id": "592722",
+    "link": "https://vikvelev.itch.io/viral-life",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzUwNjUucG5n/315x250%23c/I%2B%2F5KE.png",
+    "title": "Viral Life",
+    "video": null,
+    "scrapeWords": [
+      "Viral",
+      "Life"
     ]
   },
   {
