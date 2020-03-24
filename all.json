@@ -12501,24 +12501,6 @@
     ]
   },
   {
-    "author": "HailTheKraken",
-    "description": null,
-    "genre": "Platformer",
-    "id": "270318",
-    "link": "https://hailthekraken.itch.io/underheating",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjcwMzE4LzEzMDU4OTkuanBn/315x250%23c/ZzYKi2.jpg",
-    "title": "Underheating",
-    "video": null,
-    "scrapeWords": [
-      "Underheating"
-    ]
-  },
-  {
     "author": "Dimonasdf",
     "description": "Taking bath may be tricky, as water never wants to be of right temperature.",
     "genre": "Puzzle",
@@ -28459,7 +28441,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0MDQ2MTkucG5n/315x250%23c/0VbcIz.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxMzg2MDIucG5n/315x250%23c/fW7zCZ.png",
     "title": "Drafting Tales",
     "video": null,
     "scrapeWords": [
@@ -38035,6 +38017,29 @@
     ]
   },
   {
+    "author": "Dan Waywell",
+    "description": "Mini Metroidvania",
+    "genre": "Platformer",
+    "id": "470082",
+    "link": "https://danwaywell.itch.io/the-legend-of-death-soul-reaper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0MDU2ODIucG5n/315x250%23c/J586K7.png",
+    "title": "The Legend of Death: Soul Reaper",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Legend",
+      "of",
+      "Death",
+      "Soul",
+      "Reaper"
+    ]
+  },
+  {
     "author": "Phildjii",
     "description": "Help Hamlet the Hamster reach his home!",
     "genre": null,
@@ -38951,6 +38956,24 @@
     "scrapeWords": [
       "Chicken",
       "n"
+    ]
+  },
+  {
+    "author": "Ekroll",
+    "description": "Confusing gravity-switching multiplayer fps prototype",
+    "genre": "Shooter",
+    "id": "475456",
+    "link": "https://ekroll.itch.io/gravity-multiplayer",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NTg2ODEucG5n/315x250%23c/Oc6SKf.png",
+    "title": "Gravity Multiplayer",
+    "video": null,
+    "scrapeWords": [
+      "Gravity",
+      "Multiplayer"
     ]
   },
   {
@@ -51392,6 +51415,7 @@
     "id": "571519",
     "link": "https://ansimuz.itch.io/plage-road",
     "platforms": [
+      "Windows",
       "Linux",
       "macOS"
     ],
@@ -52557,7 +52581,7 @@
     "id": "580240",
     "link": "https://quandangv.itch.io/dinosaurs",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMxMzIxNzYucG5n/315x250%23c/07x%2Ftw.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxMzc5NjgucG5n/315x250%23c/hJqera.png",
     "title": "Dinosaurs",
     "video": null,
     "scrapeWords": [
@@ -52750,6 +52774,26 @@
     "scrapeWords": [
       "Rogue",
       "Sails"
+    ]
+  },
+  {
+    "author": "GutoGuerreiro",
+    "description": "The Start of The End mostra o fim da raça humana como a conhecemos graças as várias ameaças que aparecem no jogo.",
+    "genre": "Shooter",
+    "id": "582683",
+    "link": "https://gutoguerreiro.itch.io/setmind-cup-2020-augusto-sodr",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzg5ODUuZ2lm/315x250%23cm/fIzy12.gif",
+    "title": "The Start of The End - Augusto Sodré",
+    "video": "https://img.itch.zone/aW1nLzMxMzg5ODUuZ2lm/original/%2BLKdpc.gif",
+    "scrapeWords": [
+      "The",
+      "Start",
+      "of",
+      "The",
+      "End",
+      "Augusto",
+      "Sodré"
     ]
   },
   {
@@ -53575,7 +53619,7 @@
     ]
   },
   {
-    "author": "ACE:DEV",
+    "author": "Aaron.",
     "description": "A puzzle platformer where the map changes with each jump!",
     "genre": "Platformer",
     "id": "588887",
@@ -53837,7 +53881,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxMjg4NzAuanBlZw==/315x250%23c/Kgtk3G.jpeg",
+    "thumb": "https://img.itch.zone/aW1nLzMxMzk1ODMucG5n/315x250%23c/CUNPIU.png",
     "title": "Archaeo",
     "video": null,
     "scrapeWords": [
@@ -53859,6 +53903,20 @@
     "scrapeWords": [
       "Finnish",
       "them"
+    ]
+  },
+  {
+    "author": "Kosmos School",
+    "description": "Build electrical circuits to master challenges in VR.",
+    "genre": "Puzzle",
+    "id": "591855",
+    "link": "https://kosmosschool.itch.io/blocks",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzM0NDkucG5n/315x250%23c/wxLg4n.png",
+    "title": "Blöcks",
+    "video": null,
+    "scrapeWords": [
+      "Blöcks"
     ]
   },
   {
@@ -53940,6 +53998,7 @@
     "link": "https://johngabrieluk.itch.io/untold",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxMzM1NTEucG5n/315x250%23c/CIVSQe.png",
@@ -53990,7 +54049,8 @@
     "id": "592686",
     "link": "https://foxgamedev.itch.io/bermuda-beach",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxMzQ4MzkucG5n/315x250%23c/gsMZN%2B.png",
     "title": "Bermuda Beach",
@@ -54008,6 +54068,7 @@
     "link": "https://vikvelev.itch.io/viral-life",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxMzUwNjUucG5n/315x250%23c/I%2B%2F5KE.png",
@@ -54016,6 +54077,52 @@
     "scrapeWords": [
       "Viral",
       "Life"
+    ]
+  },
+  {
+    "author": "LegionGames",
+    "description": "There's more to this rabbit than it seems.",
+    "genre": "Platformer",
+    "id": "592844",
+    "link": "https://legiongames.itch.io/paper-islands",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzU3MjMuZ2lm/315x250%23cm/F15GzD.gif",
+    "title": "Paper Islands",
+    "video": "https://img.itch.zone/aW1nLzMxMzU3MjMuZ2lm/original/%2FUgOsj.gif",
+    "scrapeWords": [
+      "Paper",
+      "Islands"
+    ]
+  },
+  {
+    "author": "LegionGames",
+    "description": "Screen the planes for viruses.",
+    "genre": "Simulation",
+    "id": "592947",
+    "link": "https://legiongames.itch.io/virus-traffic-control",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzYyNTAucG5n/315x250%23c/wzY3Ao.png",
+    "title": "Virus Traffic Control",
+    "video": null,
+    "scrapeWords": [
+      "Virus",
+      "Traffic",
+      "Control"
+    ]
+  },
+  {
+    "author": "yokelpole",
+    "description": "A game about toilet paper hoarding",
+    "genre": "Action",
+    "id": "593554",
+    "link": "https://yokelpole.itch.io/shitpaper-scramble",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNDAyMTcuanBlZw==/315x250%23c/L68Hcr.jpeg",
+    "title": "Shitpaper Scramble",
+    "video": null,
+    "scrapeWords": [
+      "Shitpaper",
+      "Scramble"
     ]
   },
   {
