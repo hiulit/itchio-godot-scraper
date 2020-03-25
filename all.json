@@ -4033,7 +4033,7 @@
     ]
   },
   {
-    "author": "Alex Coté",
+    "author": "Quot",
     "description": "A Sokoban recreation.",
     "genre": "Puzzle",
     "id": "192593",
@@ -34631,21 +34631,6 @@
     ]
   },
   {
-    "author": "Zever Games",
-    "description": "Switch cookies, solve puzzles!",
-    "genre": "Puzzle",
-    "id": "450125",
-    "link": "https://zevergames.itch.io/cookie-switch",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIyNzg0NDgucG5n/315x250%23c/BwsOcJ.png",
-    "title": "Cookie Switch",
-    "video": null,
-    "scrapeWords": [
-      "Cookie",
-      "Switch"
-    ]
-  },
-  {
     "author": "Terry Arcs",
     "description": "Flail Hockey has never been better!",
     "genre": "Sports",
@@ -39492,11 +39477,11 @@
     ]
   },
   {
-    "author": "AsherGomez",
+    "author": "PixelDud",
     "description": "A small 6 level platformer.",
     "genre": "Platformer",
     "id": "478375",
-    "link": "https://ashergomez.itch.io/colors",
+    "link": "https://pixeldud.itch.io/colors",
     "platforms": [
       "Windows",
       "Linux",
@@ -43895,25 +43880,6 @@
     "video": null,
     "scrapeWords": [
       "Wierdzard"
-    ]
-  },
-  {
-    "author": "Joedesiii",
-    "description": "A challenging platformer, in which you can change gravity.",
-    "genre": "Platformer",
-    "id": "510780",
-    "link": "https://joedesiii.itch.io/up-is-relative",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NzAyNDMucG5n/315x250%23c/IUpQDR.png",
-    "title": "UP IS RELATIVE",
-    "video": null,
-    "scrapeWords": [
-      "UP",
-      "IS",
-      "RELATIVE"
     ]
   },
   {
@@ -53368,6 +53334,21 @@
     ]
   },
   {
+    "author": "jmbjr",
+    "description": "Dig! Collect Gems! Defuse Bombs! Explosion Fun for the Whole Family!",
+    "genre": "Puzzle",
+    "id": "588125",
+    "link": "https://jmbjr.itch.io/gems-and-bombs",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNDM0NTkucG5n/315x250%23c/x97AJc.png",
+    "title": "Gems & Bombs",
+    "video": null,
+    "scrapeWords": [
+      "Gems",
+      "Bombs"
+    ]
+  },
+  {
     "author": "DownhillGames",
     "description": "Lots of spawning zombies",
     "genre": "Shooter",
@@ -53633,6 +53614,22 @@
     ]
   },
   {
+    "author": "voxelvoid",
+    "description": "Stuck in a medieval dungeon where something's not quite right",
+    "genre": "Survival",
+    "id": "589266",
+    "link": "https://voxelvoid.itch.io/dungeonn-demo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTA5OTcucG5n/315x250%23c/0gyqq8.png",
+    "title": "Dungeonn Demo",
+    "video": null,
+    "scrapeWords": [
+      "Dungeonn"
+    ]
+  },
+  {
     "author": "Dusk",
     "description": "A short retro platformer",
     "genre": "Platformer",
@@ -53836,6 +53833,21 @@
     ]
   },
   {
+    "author": "HackTrout",
+    "description": "Use lightning's energy to fend off waves of enemies!",
+    "genre": "Action",
+    "id": "590714",
+    "link": "https://hacktrout.itch.io/li-fi",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMjEzNzguZ2lm/315x250%23cm/UeWAjA.gif",
+    "title": "Li Fi",
+    "video": "https://img.itch.zone/aW1nLzMxMjEzNzguZ2lm/original/pGXuMh.gif",
+    "scrapeWords": [
+      "Li",
+      "Fi"
+    ]
+  },
+  {
     "author": "LMC_dd",
     "description": "Memory",
     "genre": "Educational",
@@ -53991,6 +54003,40 @@
     ]
   },
   {
+    "author": "Golden",
+    "description": "Sail the open seas, battle pirates and find",
+    "genre": "Adventure",
+    "id": "592443",
+    "link": "https://goldenapples.itch.io/hunt-for-daltonga",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzMzMDYucG5n/315x250%23c/5OE5ZW.png",
+    "title": "Hunt for Daltonga",
+    "video": null,
+    "scrapeWords": [
+      "Hunt",
+      "for",
+      "Daltonga"
+    ]
+  },
+  {
+    "author": "rapinchie",
+    "description": "Demo for the upcoming platformer q-.",
+    "genre": "Platformer",
+    "id": "592466",
+    "link": "https://rapinchie.itch.io/q-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzQ2NTkucG5n/315x250%23c/69OW5l.png",
+    "title": "q- demo",
+    "video": null,
+    "scrapeWords": [
+      "q-"
+    ]
+  },
+  {
     "author": "JohnGabrielUK",
     "description": "The answers await.",
     "genre": "Adventure",
@@ -54023,6 +54069,25 @@
       "in",
       "the",
       "mole"
+    ]
+  },
+  {
+    "author": "7pri2",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "592513",
+    "link": "https://7pri2.itch.io/the-cartographer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzQwMDcucG5n/315x250%23c/yDWTfk.png",
+    "title": "The Cartographer",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Cartographer"
     ]
   },
   {
@@ -54111,6 +54176,25 @@
     ]
   },
   {
+    "author": "dingsbums productions",
+    "description": "Amazing Maze Game only for Android",
+    "genre": "Puzzle",
+    "id": "593184",
+    "link": "https://dingsbumsproductions.itch.io/escc",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzgwNjQucG5n/315x250%23c/IyZBYU.png",
+    "title": "Extreme Supermarket Corona Challenge",
+    "video": null,
+    "scrapeWords": [
+      "Extreme",
+      "Supermarket",
+      "Corona",
+      "Challenge"
+    ]
+  },
+  {
     "author": "yokelpole",
     "description": "A game about toilet paper hoarding",
     "genre": "Action",
@@ -54123,6 +54207,58 @@
     "scrapeWords": [
       "Shitpaper",
       "Scramble"
+    ]
+  },
+  {
+    "author": "Pixely",
+    "description": "A Classic Adventure Game",
+    "genre": "Adventure",
+    "id": "593621",
+    "link": "https://saiteja-pudi.itch.io/crystal-of-argentium",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNDA2NjIucG5n/315x250%23c/%2FUR39x.png",
+    "title": "Crystal of argentium",
+    "video": null,
+    "scrapeWords": [
+      "Crystal",
+      "of",
+      "argentium"
+    ]
+  },
+  {
+    "author": "AleK3y",
+    "description": null,
+    "genre": null,
+    "id": "593658",
+    "link": "https://alek3y.itch.io/good-guys-poppin-bad-guys",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNDA4NjAucG5n/315x250%23c/tbC8xt.png",
+    "title": "good guys poppin bad guys",
+    "video": null,
+    "scrapeWords": [
+      "good",
+      "guys",
+      "poppin",
+      "bad",
+      "guys"
+    ]
+  },
+  {
+    "author": "yellowchihuahua",
+    "description": "a precision platformer with gravity switching and mild puzzles",
+    "genre": "Platformer",
+    "id": "594364",
+    "link": "https://yellowchihuahua.itch.io/cavern-drop",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNDUxODcucG5n/315x250%23c/pWNQNJ.png",
+    "title": "CAVERN DROP",
+    "video": null,
+    "scrapeWords": [
+      "CAVERN",
+      "DROP"
     ]
   },
   {
