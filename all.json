@@ -47069,7 +47069,7 @@
   },
   {
     "author": "B. Rich",
-    "description": "A text-based detective game set in a fantasy setting. Created for the 8-Bits-to-Infinity Text-Only Game Jam.",
+    "description": "A text-based detective game set in a fantasy setting.",
     "genre": "Interactive Fiction",
     "id": "539028",
     "link": "https://b-rich.itch.io/pi-the-chartide-cases",
@@ -47443,7 +47443,7 @@
     ]
   },
   {
-    "author": "DOAmaster",
+    "author": "DOA",
     "description": null,
     "genre": "Platformer",
     "id": "540964",
@@ -48222,7 +48222,7 @@
     ]
   },
   {
-    "author": "DOAmaster",
+    "author": "DOA",
     "description": "simple simulation dungeon overview",
     "genre": "Simulation",
     "id": "547897",
@@ -49595,7 +49595,7 @@
     ]
   },
   {
-    "author": "DOAmaster",
+    "author": "DOA",
     "description": null,
     "genre": "Puzzle",
     "id": "556037",
@@ -52671,11 +52671,11 @@
     ]
   },
   {
-    "author": "CucaDev",
+    "author": "Cuca",
     "description": "Can you cheat through the rooms to reach your way out?",
     "genre": "Puzzle",
     "id": "581859",
-    "link": "https://cucadev.itch.io/cmdungeon",
+    "link": "https://cuca.itch.io/cmdungeon",
     "platforms": [
       "Windows",
       "Linux",
@@ -52930,7 +52930,7 @@
     ]
   },
   {
-    "author": "DOAmaster",
+    "author": "DOA",
     "description": "Extremely pace mouse only arade game",
     "genre": "Action",
     "id": "583993",
@@ -53985,6 +53985,22 @@
     ]
   },
   {
+    "author": "Mostafa Sedaghat",
+    "description": "Sample Game Made With Godot Engine",
+    "genre": null,
+    "id": "592219",
+    "link": "https://mostafasedaghat.itch.io/2-dot-challenge",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMzQyNTIucG5n/315x250%23c/q2rzsE.png",
+    "title": "2 Dot Challenge",
+    "video": null,
+    "scrapeWords": [
+      "2",
+      "Dot",
+      "Challenge"
+    ]
+  },
+  {
     "author": "Schweini007",
     "description": "A short metroidvania platformer for the Godot Wild Jam #19",
     "genre": "Platformer",
@@ -54020,6 +54036,27 @@
       "Hunt",
       "for",
       "Daltonga"
+    ]
+  },
+  {
+    "author": "Willowblade",
+    "description": "Relaxing sailing experience for GWJ 19",
+    "genre": null,
+    "id": "592450",
+    "link": "https://willowblade.itch.io/a-sail-in-the-wind",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMzQ2MTEucG5n/315x250%23c/ABzAFC.png",
+    "title": "A Sail in the Wind",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Sail",
+      "in",
+      "the",
+      "Wind"
     ]
   },
   {
@@ -54182,6 +54219,7 @@
     "id": "593184",
     "link": "https://dingsbumsproductions.itch.io/escc",
     "platforms": [
+      "Windows",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxMzgwNjQucG5n/315x250%23c/IyZBYU.png",
@@ -54247,18 +54285,53 @@
     ]
   },
   {
+    "author": "LegionGames",
+    "description": "Fix this (slightly) broken planet.",
+    "genre": "Puzzle",
+    "id": "594087",
+    "link": "https://legiongames.itch.io/purple-planet",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNDM2OTkuZ2lm/315x250%23cm/QwK%2FqZ.gif",
+    "title": "Purple Planet",
+    "video": "https://img.itch.zone/aW1nLzMxNDM2OTkuZ2lm/original/uIGXZF.gif",
+    "scrapeWords": [
+      "Purple",
+      "Planet"
+    ]
+  },
+  {
     "author": "yellowchihuahua",
     "description": "a precision platformer with gravity switching and mild puzzles",
     "genre": "Platformer",
     "id": "594364",
     "link": "https://yellowchihuahua.itch.io/cavern-drop",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMxNDUxODcucG5n/315x250%23c/pWNQNJ.png",
     "title": "CAVERN DROP",
     "video": null,
     "scrapeWords": [
       "CAVERN",
       "DROP"
+    ]
+  },
+  {
+    "author": "NothingSoftwares",
+    "description": "This is just a small stock trading sim.",
+    "genre": "Simulation",
+    "id": "594657",
+    "link": "https://nothingsoftwares.itch.io/marketshare",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNDY3NTQucG5n/315x250%23c/BnMTCE.png",
+    "title": "MarketShare",
+    "video": null,
+    "scrapeWords": [
+      "Market",
+      "Share"
     ]
   },
   {
