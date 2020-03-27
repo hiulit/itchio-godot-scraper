@@ -31846,11 +31846,11 @@
     ]
   },
   {
-    "author": "Viralstudios",
+    "author": "aliyontembo",
     "description": null,
     "genre": "Shooter",
     "id": "427277",
-    "link": "https://viralstudios.itch.io/captain-space",
+    "link": "https://aliyontembo.itch.io/captain-space",
     "platforms": [
       "Windows"
     ],
@@ -53111,14 +53111,14 @@
   },
   {
     "author": "SunsetMoth",
-    "description": "Build levels... Hopefully together soon?",
-    "genre": null,
+    "description": "Build levels and share them with friends!",
+    "genre": "Platformer",
     "id": "585845",
     "link": "https://sunsetmoth.itch.io/justanotherleveleditor",
     "platforms": [
       "Windows"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNTExMTkucG5n/315x250%23c/skShOY.png",
     "title": "Just Another Level Editor",
     "video": null,
     "scrapeWords": [
@@ -53340,7 +53340,7 @@
     "id": "588125",
     "link": "https://jmbjr.itch.io/gems-and-bombs",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMxNDM0NTkucG5n/315x250%23c/x97AJc.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxNTM2NjkucG5n/315x250%23c/vA2QAl.png",
     "title": "Gems & Bombs",
     "video": null,
     "scrapeWords": [
@@ -54129,14 +54129,14 @@
   },
   {
     "author": "Fire_SP",
-    "description": null,
+    "description": "A fun wave based shooter.",
     "genre": "Shooter",
     "id": "592634",
     "link": "https://fire-sp.itch.io/dungeon-delver",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxMzQ1ODEucG5n/315x250%23c/QAlqlj.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxNTM1NjEucG5n/315x250%23c/fKL%2B1J.png",
     "title": "Dungeon Delver",
     "video": null,
     "scrapeWords": [
@@ -54214,7 +54214,7 @@
   },
   {
     "author": "dingsbums productions",
-    "description": "Amazing Maze Game only for Android",
+    "description": "Amazing Maze Game for Android & PC!",
     "genre": "Puzzle",
     "id": "593184",
     "link": "https://dingsbumsproductions.itch.io/escc",
@@ -54335,6 +54335,40 @@
     ]
   },
   {
+    "author": "pcktm",
+    "description": "WHAT DOESN'T KILL YOU MAKES YOU STRONGER.",
+    "genre": "Shooter",
+    "id": "594860",
+    "link": "https://pcktm.itch.io/brawlbox",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNDk0NzAucG5n/315x250%23c/hU%2FMIu.png",
+    "title": "BRAWLBOX",
+    "video": null,
+    "scrapeWords": [
+      "BRAWLBOX"
+    ]
+  },
+  {
+    "author": "Hector",
+    "description": "Roll your dices and decide!",
+    "genre": null,
+    "id": "595301",
+    "link": "https://hectormartinezdev.itch.io/wgj-good-luck",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNTA3OTAucG5n/315x250%23c/vXGXD%2B.png",
+    "title": "WGJ141: Good Luck",
+    "video": null,
+    "scrapeWords": [
+      "WGJ141",
+      "Good",
+      "Luck"
+    ]
+  },
+  {
     "author": "soloparatolos",
     "description": "Protect the Cheese from the Cat Gang with your powerful Kung-Fu",
     "genre": "Action",
@@ -54355,6 +54389,22 @@
       "Trillion",
       "Cat",
       "Gang"
+    ]
+  },
+  {
+    "author": "achtaitaipai",
+    "description": null,
+    "genre": "Action",
+    "id": "595394",
+    "link": "https://achtaitaipai.itch.io/pentachrome",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNTEzMzUucG5n/315x250%23c/QdZFMP.png",
+    "title": "pentachrome",
+    "video": null,
+    "scrapeWords": [
+      "pentachrome"
     ]
   },
   {
