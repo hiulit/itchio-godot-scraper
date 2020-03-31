@@ -2574,7 +2574,7 @@
     "description": "A fast-paced puzzle game absolutely not related with real-life Circuit-Breakers.",
     "genre": "Simulation",
     "id": "163868",
-    "link": "https://illusionfisherman.itch.io/super-broken-circuit-breaker-simulator-2017",
+    "link": "https://henriquelalves.itch.io/super-broken-circuit-breaker-simulator-2017",
     "platforms": [
       "Windows",
       "Linux"
@@ -25440,11 +25440,11 @@
     ]
   },
   {
-    "author": "Arcane_Convolutions",
+    "author": "ArkynGames",
     "description": "DEFEND THE OASIS BY ANY MEANS NECESSARY.",
     "genre": "Survival",
     "id": "370148",
-    "link": "https://arcane-convolutions.itch.io/the-oasis",
+    "link": "https://arkyngames.itch.io/the-oasis",
     "platforms": [
       "Windows",
       "Linux",
@@ -46263,7 +46263,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI3NzkwNTEucG5n/315x250%23c/Ju41ct.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxNzE5NzkucG5n/315x250%23c/ll7Jq9.png",
     "title": "Hard Helly",
     "video": null,
     "scrapeWords": [
@@ -50388,6 +50388,7 @@
     "id": "562777",
     "link": "https://atalbi.itch.io/puzzles-house",
     "platforms": [
+      "Windows",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5NTM2NjcucG5n/315x250%23c/FimSoj.png",
@@ -53637,7 +53638,7 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxMTA5OTcucG5n/315x250%23c/0gyqq8.png",
-    "title": "Dungeonn Demo",
+    "title": "Dungeonn (demo)",
     "video": null,
     "scrapeWords": [
       "Dungeonn"
@@ -53678,6 +53679,21 @@
       "Hero",
       "Immortal",
       "battle"
+    ]
+  },
+  {
+    "author": "EvilDeeds",
+    "description": "Simple clicker game on godot",
+    "genre": null,
+    "id": "589698",
+    "link": "https://evildeeds.itch.io/clickergame",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxMjY5NzAucG5n/315x250%23c/96m6D5.png",
+    "title": "ClickerGame",
+    "video": null,
+    "scrapeWords": [
+      "Clicker",
+      "Game"
     ]
   },
   {
@@ -54806,6 +54822,71 @@
     "video": null,
     "scrapeWords": [
       "Antlings"
+    ]
+  },
+  {
+    "author": "hawksoft",
+    "description": "Our body has an army that constantly fights against live bacteria, viruses, worms and microorganisms: white blood cells.",
+    "genre": "Action",
+    "id": "598046",
+    "link": "https://hawksoft.itch.io/cellswitch",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNjY3NzUucG5n/315x250%23c/RtAqkA.png",
+    "title": "cellswitch",
+    "video": null,
+    "scrapeWords": [
+      "cellswitch"
+    ]
+  },
+  {
+    "author": "RubyChamGames",
+    "description": "2D Pixel RPG Top Down Survival game",
+    "genre": "Adventure",
+    "id": "598494",
+    "link": "https://rubychamgames.itch.io/secrets-of-dungeons",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNjk3NzAucG5n/315x250%23c/nxVp3C.png",
+    "title": "Secrets of Dungeons",
+    "video": null,
+    "scrapeWords": [
+      "Secrets",
+      "of",
+      "Dungeons"
+    ]
+  },
+  {
+    "author": "theLudovyc",
+    "description": null,
+    "genre": "Action",
+    "id": "598613",
+    "link": "https://theludovyc.itch.io/solocodejam3",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzA0MjYucG5n/315x250%23c/UmrUaz.png",
+    "title": "SoloCodeJam3",
+    "video": null,
+    "scrapeWords": [
+      "Solo",
+      "Code",
+      "Jam3"
+    ]
+  },
+  {
+    "author": "seamless",
+    "description": "When color clash, you lose. If color match, you capture them.",
+    "genre": "Action",
+    "id": "598709",
+    "link": "https://seamless.itch.io/color-clash",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNzExNDYucG5n/315x250%23c/oDi%2F6U.png",
+    "title": "Color Clash!",
+    "video": null,
+    "scrapeWords": [
+      "Color",
+      "Clash"
     ]
   },
   {
