@@ -8148,23 +8148,6 @@
     ]
   },
   {
-    "author": "flurick",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "245094",
-    "link": "https://flurick.itch.io/threeships",
-    "platforms": [
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjQ1MDk0LzExNzA0MzAucG5n/315x250%23c/SWvkfC.png",
-    "title": "three ships",
-    "video": null,
-    "scrapeWords": [
-      "three",
-      "ships"
-    ]
-  },
-  {
     "author": "tebell",
     "description": null,
     "genre": "Action",
@@ -23202,7 +23185,7 @@
     ]
   },
   {
-    "author": "Anthony Wilcox",
+    "author": "Anthony Foxclaw",
     "description": "A basic dress up game.",
     "genre": null,
     "id": "351083",
@@ -32936,14 +32919,15 @@
   },
   {
     "author": "doctorvaan",
-    "description": "Small but enjoyable TD game, I hope",
+    "description": "Small but enjoyable TD game. Very challenging in the later levels!",
     "genre": "Strategy",
     "id": "437552",
     "link": "https://doctorvaan.itch.io/turret-defense-banon-river",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIxOTYyNTMucG5n/315x250%23c/Ood7xN.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxNzQ2NTgucG5n/315x250%23c/EiXB83.png",
     "title": "Turret Defense Banon River",
     "video": null,
     "scrapeWords": [
@@ -49982,6 +49966,26 @@
     ]
   },
   {
+    "author": "Shirious",
+    "description": "Platform Puzzle through time travel",
+    "genre": "Platformer",
+    "id": "560180",
+    "link": "https://shirious.itch.io/fix-it-through-time",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5NDA5MTcucG5n/315x250%23c/mFIK5T.png",
+    "title": "Fix It Through Time",
+    "video": null,
+    "scrapeWords": [
+      "Fix",
+      "It",
+      "Through",
+      "Time"
+    ]
+  },
+  {
     "author": "Ivan-Tigan",
     "description": "Limbs everywhere. Don't lose you head...",
     "genre": "Fighting",
@@ -50507,9 +50511,7 @@
     "genre": null,
     "id": "563200",
     "link": "https://aristonaut.itch.io/match-maker-the-sock-matching-game",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI5NTYyNzYuZ2lm/315x250%23cm/EJvbXm.gif",
     "title": "Match Maker - The Sock Matching Game",
     "video": "https://img.itch.zone/aW1nLzI5NTYyNzYuZ2lm/original/6PV7yW.gif",
@@ -51294,12 +51296,14 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMwMTAwNDIucG5n/315x250%23c/G%2FfEFx.png",
-    "title": "Normal Bug Catchin'",
+    "title": "Normal Bug Catchin' (Game Jam)",
     "video": null,
     "scrapeWords": [
       "Normal",
       "Bug",
-      "Catchin"
+      "Catchin",
+      "Game",
+      "Jam"
     ]
   },
   {
@@ -53635,7 +53639,8 @@
     "id": "589266",
     "link": "https://voxelvoid.itch.io/dungeonn-demo",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxMTA5OTcucG5n/315x250%23c/0gyqq8.png",
     "title": "Dungeonn (demo)",
@@ -54511,6 +54516,25 @@
     ]
   },
   {
+    "author": "Dima",
+    "description": "quick puzzle game",
+    "genre": "Puzzle",
+    "id": "595396",
+    "link": "https://dt6.itch.io/dash-em-1",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzE3NzEucG5n/315x250%23c/hl9Bv2.png",
+    "title": "Dash 'em",
+    "video": null,
+    "scrapeWords": [
+      "Dash",
+      "em"
+    ]
+  },
+  {
     "author": "nelsondiaas",
     "description": null,
     "genre": "Racing",
@@ -54721,6 +54745,23 @@
     ]
   },
   {
+    "author": "HasH face",
+    "description": "Platformer",
+    "genre": "Platformer",
+    "id": "597321",
+    "link": "https://hash-face.itch.io/meaningless-quest",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNjMwMTMucG5n/315x250%23c/OKmj0C.png",
+    "title": "MEANINGLESS QUEST",
+    "video": null,
+    "scrapeWords": [
+      "MEANINGLESS",
+      "QUEST"
+    ]
+  },
+  {
     "author": "ATalbi",
     "description": "local multiplayer card game",
     "genre": "Card Game",
@@ -54735,6 +54776,25 @@
     "video": null,
     "scrapeWords": [
       "Stop"
+    ]
+  },
+  {
+    "author": "MalkyStuffs",
+    "description": "The HORRIBAL game, now in full version!",
+    "genre": "Platformer",
+    "id": "597454",
+    "link": "https://malkystuffs.itch.io/horribal",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNjM4MjIucG5n/315x250%23c/7%2BEOgJ.png",
+    "title": "HORRIBAL",
+    "video": null,
+    "scrapeWords": [
+      "HORRIBAL"
     ]
   },
   {
@@ -54839,6 +54899,42 @@
     ]
   },
   {
+    "author": "Kichex",
+    "description": "Use well planed bombs to explode the city",
+    "genre": "Puzzle",
+    "id": "598329",
+    "link": "https://kichex.itch.io/boomtown",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzIzNzQucG5n/315x250%23c/sRwS3W.png",
+    "title": "BoomTown",
+    "video": null,
+    "scrapeWords": [
+      "Boom",
+      "Town"
+    ]
+  },
+  {
+    "author": "am.blacksheep",
+    "description": "A short platform about connection",
+    "genre": "Platformer",
+    "id": "598363",
+    "link": "https://amblacksheep.itch.io/red-thread",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNjk0MzcucG5n/315x250%23c/8RxY2c.png",
+    "title": "Red Thread",
+    "video": null,
+    "scrapeWords": [
+      "Red",
+      "Thread"
+    ]
+  },
+  {
     "author": "RubyChamGames",
     "description": "2D Pixel RPG Top Down Survival game",
     "genre": "Adventure",
@@ -54863,7 +54959,9 @@
     "id": "598613",
     "link": "https://theludovyc.itch.io/solocodejam3",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxNzA0MjYucG5n/315x250%23c/UmrUaz.png",
     "title": "SoloCodeJam3",
@@ -54887,6 +54985,95 @@
     "scrapeWords": [
       "Color",
       "Clash"
+    ]
+  },
+  {
+    "author": "Anipy",
+    "description": "Save your Country by Killing the Zombies in this amazing Adventure !!! .",
+    "genre": "Adventure",
+    "id": "599271",
+    "link": "https://aniketambore.itch.io/routine2020-virus-arrived",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzQxMzQucG5n/315x250%23c/GX1KI5.png",
+    "title": "Routine2020 - Virus Arrived",
+    "video": null,
+    "scrapeWords": [
+      "Routine2020",
+      "Virus",
+      "Arrived"
+    ]
+  },
+  {
+    "author": "Jean28518",
+    "description": null,
+    "genre": "Simulation",
+    "id": "599406",
+    "link": "https://jean28518.itch.io/libre-train-sim",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzUxMTAucG5n/315x250%23c/UGOBkX.png",
+    "title": "Libre TrainSim",
+    "video": null,
+    "scrapeWords": [
+      "Libre",
+      "Train",
+      "Sim"
+    ]
+  },
+  {
+    "author": "Richar",
+    "description": "Jim wants to destroy all the forests. Jim is a good guy",
+    "genre": "Action",
+    "id": "599485",
+    "link": "https://richarrest.itch.io/deforest",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzU3OTEucG5n/315x250%23c/1pKYXh.png",
+    "title": "Deforest",
+    "video": null,
+    "scrapeWords": [
+      "Deforest"
+    ]
+  },
+  {
+    "author": "Ixbot2000",
+    "description": "A 2d platform game where you play as a boot!",
+    "genre": "Platformer",
+    "id": "599675",
+    "link": "https://ixbot2000.itch.io/boot-run",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNzY3MjMuanBn/315x250%23c/uzdK7k.jpg",
+    "title": "Boot Run",
+    "video": null,
+    "scrapeWords": [
+      "Boot",
+      "Run"
+    ]
+  },
+  {
+    "author": "guizero",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "599921",
+    "link": "https://guizero.itch.io/deliveries-in-the-empty-city",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNzg0MTguZ2lm/315x250%23cm/eL2PC7.gif",
+    "title": "Deliveries In The Empty City",
+    "video": "https://img.itch.zone/aW1nLzMxNzg0MTguZ2lm/original/y6awo%2F.gif",
+    "scrapeWords": [
+      "Deliveries",
+      "In",
+      "The",
+      "Empty",
+      "City"
     ]
   },
   {
