@@ -49642,7 +49642,7 @@
   },
   {
     "author": "Marcus Forsberg",
-    "description": "First person shooter zombie game created in Godot Engine.",
+    "description": "Kill zombies, level up, unlock and customize guns.",
     "genre": "Shooter",
     "id": "556688",
     "link": "https://marcusforsberg.itch.io/zwarm",
@@ -49650,7 +49650,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5MTgwNjYucG5n/315x250%23c/chg2Ii.png",
+    "thumb": "https://img.itch.zone/aW1nLzMxODQ3NzAucG5n/315x250%23c/ruXKmW.png",
     "title": "Zwarm",
     "video": null,
     "scrapeWords": [
@@ -53129,7 +53129,7 @@
     ]
   },
   {
-    "author": "SunsetMoth",
+    "author": "Sunset Moth",
     "description": "Build levels and share them with friends!",
     "genre": "Platformer",
     "id": "585845",
@@ -54423,6 +54423,23 @@
     ]
   },
   {
+    "author": "Calamity Games",
+    "description": "A grappling game made with fun and satisfying gameplay in mind.",
+    "genre": "Platformer",
+    "id": "594398",
+    "link": "https://calamity-games.itch.io/drifting-worlds",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNDUzOTcucG5n/315x250%23c/OkHskL.png",
+    "title": "Drifting Worlds",
+    "video": null,
+    "scrapeWords": [
+      "Drifting",
+      "Worlds"
+    ]
+  },
+  {
     "author": "NothingSoftwares",
     "description": "This is just a small stock trading sim.",
     "genre": "Simulation",
@@ -54745,6 +54762,25 @@
     ]
   },
   {
+    "author": "Suicine",
+    "description": "A sneak peek into the news business.",
+    "genre": "Role Playing",
+    "id": "597256",
+    "link": "https://suicine.itch.io/informationsensation",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNjI2ODgucG5n/315x250%23c/DuQ1yF.png",
+    "title": "Information Sensation",
+    "video": null,
+    "scrapeWords": [
+      "Information",
+      "Sensation"
+    ]
+  },
+  {
     "author": "HasH face",
     "description": "Platformer",
     "genre": "Platformer",
@@ -54795,6 +54831,24 @@
     "video": null,
     "scrapeWords": [
       "HORRIBAL"
+    ]
+  },
+  {
+    "author": "Just Some Chars",
+    "description": "Dodgeball but with cubes",
+    "genre": "Platformer",
+    "id": "597625",
+    "link": "https://jschars.itch.io/dodgecube",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzc4NDcucG5n/315x250%23c/HQBGxT.png",
+    "title": "DODGECUBE",
+    "video": null,
+    "scrapeWords": [
+      "DODGECUBE"
     ]
   },
   {
@@ -55044,6 +55098,24 @@
     ]
   },
   {
+    "author": "Pixdigit",
+    "description": "Aliens have contacted you. Can you decrypt their messages?",
+    "genre": "Puzzle",
+    "id": "599645",
+    "link": "https://pixdigit.itch.io/alien-signal",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzY2MDQucG5n/315x250%23c/S%2Fh59V.png",
+    "title": "Alien Signal",
+    "video": null,
+    "scrapeWords": [
+      "Alien",
+      "Signal"
+    ]
+  },
+  {
     "author": "Ixbot2000",
     "description": "A 2d platform game where you play as a boot!",
     "genre": "Platformer",
@@ -55074,6 +55146,55 @@
       "The",
       "Empty",
       "City"
+    ]
+  },
+  {
+    "author": "DouweRavers",
+    "description": "As a virus break the city in isolation! But watch out for the other virusses!",
+    "genre": "Strategy",
+    "id": "600425",
+    "link": "https://douweravers.itch.io/break-the-isolation",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxODIxMTYucG5n/315x250%23c/hMG2vg.png",
+    "title": "Break the Isolation",
+    "video": null,
+    "scrapeWords": [
+      "Break",
+      "the",
+      "Isolation"
+    ]
+  },
+  {
+    "author": "Tomaz Cuber",
+    "description": null,
+    "genre": "Card Game",
+    "id": "600745",
+    "link": "https://c0olber.itch.io/potioneer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxODM5MDEucG5n/315x250%23c/LdsGwU.png",
+    "title": "Potioneer",
+    "video": null,
+    "scrapeWords": [
+      "Potioneer"
+    ]
+  },
+  {
+    "author": "futebutesiku",
+    "description": "An angel uses his powers to heal a pandemic",
+    "genre": "Simulation",
+    "id": "600800",
+    "link": "https://futebutesiku.itch.io/pandemic-panic",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODQyNTkucG5n/315x250%23c/TuOKkr.png",
+    "title": "Pandemic Panic",
+    "video": null,
+    "scrapeWords": [
+      "Pandemic",
+      "Panic"
     ]
   },
   {
