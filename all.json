@@ -54960,6 +54960,7 @@
     "link": "https://kichex.itch.io/boomtown",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxNzIzNzQucG5n/315x250%23c/sRwS3W.png",
@@ -55082,6 +55083,28 @@
     ]
   },
   {
+    "author": "draketrought",
+    "description": "You are given on of the Fruit of the Spirit, self-control. What will you do with it?",
+    "genre": "Adventure",
+    "id": "599423",
+    "link": "https://draketrought.itch.io/the-fruit-of-the-spirit",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODY4ODAucG5n/315x250%23c/yDY3E0.png",
+    "title": "The Fruit of the Spirit",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Fruit",
+      "of",
+      "the",
+      "Spirit"
+    ]
+  },
+  {
     "author": "Richar",
     "description": "Jim wants to destroy all the forests. Jim is a good guy",
     "genre": "Action",
@@ -55195,6 +55218,130 @@
     "scrapeWords": [
       "Pandemic",
       "Panic"
+    ]
+  },
+  {
+    "author": "AaronMakesGames",
+    "description": "Momentum Based Beat-em up/fighter",
+    "genre": "Fighting",
+    "id": "601097",
+    "link": "https://aaronmakesgames.itch.io/fist-mountain-jam",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODYzODQucG5n/315x250%23c/H%2BQSDD.png",
+    "title": "FIST MOUNTAIN",
+    "video": null,
+    "scrapeWords": [
+      "FIST",
+      "MOUNTAIN"
+    ]
+  },
+  {
+    "author": "achtaitaipai",
+    "description": null,
+    "genre": "Adventure",
+    "id": "601114",
+    "link": "https://achtaitaipai.itch.io/room",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODk3MjguanBn/315x250%23c/xMrldA.jpg",
+    "title": "room",
+    "video": null,
+    "scrapeWords": [
+      "room"
+    ]
+  },
+  {
+    "author": "Drunko",
+    "description": null,
+    "genre": "Platformer",
+    "id": "601395",
+    "link": "https://drunko.itch.io/bobbo-the-isolated-robo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODk5MjQucG5n/315x250%23c/hi6etB.png",
+    "title": "Bobbo: The Isolated Robo",
+    "video": null,
+    "scrapeWords": [
+      "Bobbo",
+      "The",
+      "Isolated",
+      "Robo"
+    ]
+  },
+  {
+    "author": "megaTM512",
+    "description": "Make pizza, deliver pizza. Fun!",
+    "genre": "Racing",
+    "id": "601410",
+    "link": "https://megatm512.itch.io/tims-pizza-flitzer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODg2MTQucG5n/315x250%23c/qpWsNi.png",
+    "title": "Tims Pizza Flitzer",
+    "video": null,
+    "scrapeWords": [
+      "Tims",
+      "Pizza",
+      "Flitzer"
+    ]
+  },
+  {
+    "author": "Mariothedog",
+    "description": null,
+    "genre": "Action",
+    "id": "601456",
+    "link": "https://mariothedog.itch.io/dodge-and-explode",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxODg3MzQuZ2lm/315x250%23cm/e724T5.gif",
+    "title": "Dodge and Explode!",
+    "video": "https://img.itch.zone/aW1nLzMxODg3MzQuZ2lm/original/aa8FNa.gif",
+    "scrapeWords": [
+      "Dodge",
+      "and",
+      "Explode"
+    ]
+  },
+  {
+    "author": "Gamedevdad",
+    "description": "Puzzle Matching Game",
+    "genre": "Puzzle",
+    "id": "601490",
+    "link": "https://gamedevdad.itch.io/square-swap",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODg4ODgucG5n/315x250%23c/K43xOS.png",
+    "title": "Square Swap",
+    "video": null,
+    "scrapeWords": [
+      "Square",
+      "Swap"
+    ]
+  },
+  {
+    "author": "computer_fox",
+    "description": "some form of catharsis",
+    "genre": null,
+    "id": "601644",
+    "link": "https://computer-fox.itch.io/scream",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODk2ODQucG5n/315x250%23c/QJhGoZ.png",
+    "title": "SCREAM",
+    "video": null,
+    "scrapeWords": [
+      "SCREAM"
     ]
   },
   {
