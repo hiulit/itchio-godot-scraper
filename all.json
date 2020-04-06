@@ -22831,6 +22831,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "J.R. Sulfuro (pseudonym)",
     "description": null,
     "genre": "Action",
@@ -22888,11 +22905,11 @@
     ]
   },
   {
-    "author": "matthew",
+    "author": "june",
     "description": "how many lizord can you make",
     "genre": "Simulation",
     "id": "347684",
-    "link": "https://mtthew.itch.io/lizord",
+    "link": "https://jjunee.itch.io/lizord",
     "platforms": [
       "Windows",
       "macOS"
@@ -23596,7 +23613,7 @@
     ]
   },
   {
-    "author": "jdzsk",
+    "author": "Jānis Skuja",
     "description": "You work at a duck factory, accept good ducks only or you're fired!",
     "genre": null,
     "id": "355530",
@@ -29952,7 +29969,7 @@
   },
   {
     "author": "cenullum",
-    "description": null,
+    "description": "A Visual Novel Game That Have 12 Ends",
     "genre": "Visual Novel",
     "id": "413297",
     "link": "https://cenullum.itch.io/the-fountain-of-youth",
@@ -31832,11 +31849,11 @@
     ]
   },
   {
-    "author": "aliyontembo",
+    "author": "aliyon",
     "description": null,
     "genre": "Shooter",
     "id": "427277",
-    "link": "https://aliyontembo.itch.io/captain-space",
+    "link": "https://aliyon.itch.io/captain-space",
     "platforms": [
       "Windows"
     ],
@@ -38151,7 +38168,7 @@
     ]
   },
   {
-    "author": "TinyGoose Interactive",
+    "author": "Tiny Goose",
     "description": "A game for the Godot Wild Jam #12",
     "genre": "Shooter",
     "id": "470231",
@@ -38493,6 +38510,26 @@
     "scrapeWords": [
       "Devil",
       "BBS"
+    ]
+  },
+  {
+    "author": "Hanggara",
+    "description": "Versh is a mobile vertical shoot'em up with some rogue-lite elements in it.",
+    "genre": "Shooter",
+    "id": "472448",
+    "link": "https://hanggaraarif.itch.io/versh",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzAyMzYucG5n/315x250%23c/bRL30O.png",
+    "title": "Versh : Hardcore Shoot 'Em Up",
+    "video": null,
+    "scrapeWords": [
+      "Versh",
+      "Hardcore",
+      "Shoot",
+      "Em",
+      "Up"
     ]
   },
   {
@@ -39632,25 +39669,6 @@
     "scrapeWords": [
       "Project",
       "Huesos"
-    ]
-  },
-  {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -43260,7 +43278,7 @@
     ]
   },
   {
-    "author": "jdzsk",
+    "author": "Jānis Skuja",
     "description": null,
     "genre": "Shooter",
     "id": "506744",
@@ -51092,6 +51110,23 @@
     ]
   },
   {
+    "author": "JanPol",
+    "description": "Explore and mine the gas giant!",
+    "genre": "Adventure",
+    "id": "568417",
+    "link": "https://janpol.itch.io/julpiter",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5ODY5MDQucG5n/315x250%23c/qMZim9.png",
+    "title": "JULPITER",
+    "video": null,
+    "scrapeWords": [
+      "JULPITER"
+    ]
+  },
+  {
     "author": "derac",
     "description": "Casual party game for 4+ players.",
     "genre": null,
@@ -51124,6 +51159,24 @@
     "scrapeWords": [
       "Path",
       "Slider"
+    ]
+  },
+  {
+    "author": "Uneven Prankster",
+    "description": "See what may never been seen. Find a way.",
+    "genre": "Platformer",
+    "id": "568889",
+    "link": "https://unevenprankster.itch.io/loneworld",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5OTU1NDIucG5n/315x250%23c/ckzvyJ.png",
+    "title": "Lone World",
+    "video": null,
+    "scrapeWords": [
+      "Lone",
+      "World"
     ]
   },
   {
@@ -52950,7 +53003,7 @@
   },
   {
     "author": "DOA",
-    "description": "Extremely pace mouse only arade game",
+    "description": "Extremely fast pace mouse only arade game",
     "genre": "Action",
     "id": "583993",
     "link": "https://doamaster.itch.io/lux-light",
@@ -53897,6 +53950,23 @@
     ]
   },
   {
+    "author": "X-E-A",
+    "description": "Follow the life of an Idea as it begins its journey through the collective human consciousness.",
+    "genre": "Platformer",
+    "id": "591468",
+    "link": "https://x-e-a.itch.io/virtue",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODg2NzYuanBn/315x250%23c/p7e3Lo.jpg",
+    "title": "VIRTUE",
+    "video": null,
+    "scrapeWords": [
+      "VIRTUE"
+    ]
+  },
+  {
     "author": "LT Entertainment",
     "description": null,
     "genre": "Action",
@@ -54541,14 +54611,16 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxNzE3NzEucG5n/315x250%23c/hl9Bv2.png",
-    "title": "Dash 'em",
+    "title": "Dash 'em - beta",
     "video": null,
     "scrapeWords": [
       "Dash",
-      "em"
+      "em",
+      "beta"
     ]
   },
   {
@@ -54671,6 +54743,22 @@
     "scrapeWords": [
       "Corona",
       "Runner"
+    ]
+  },
+  {
+    "author": "WanS24",
+    "description": "Advanced version of classic Pong game",
+    "genre": null,
+    "id": "596718",
+    "link": "https://wanderingsoul.itch.io/pongus",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxOTI4MjUucG5n/315x250%23c/3Ay%2Fnh.png",
+    "title": "Pongus",
+    "video": null,
+    "scrapeWords": [
+      "Pongus"
     ]
   },
   {
@@ -55043,6 +55131,21 @@
     ]
   },
   {
+    "author": "Kiwi",
+    "description": "Keep my sanity.",
+    "genre": "Strategy",
+    "id": "599176",
+    "link": "https://k33w1.itch.io/isolated-mind",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxODUzNDAucG5n/315x250%23c/TNizFh.png",
+    "title": "Isolated Mind",
+    "video": null,
+    "scrapeWords": [
+      "Isolated",
+      "Mind"
+    ]
+  },
+  {
     "author": "Anipy",
     "description": "Save your Country by Killing the Zombies in this amazing Adventure !!! .",
     "genre": "Adventure",
@@ -55084,7 +55187,7 @@
   },
   {
     "author": "draketrought",
-    "description": "You are given on of the Fruit of the Spirit, self-control. What will you do with it?",
+    "description": "You are given one of the Fruit of the Spirit, self-control. What will you do with it?",
     "genre": "Adventure",
     "id": "599423",
     "link": "https://draketrought.itch.io/the-fruit-of-the-spirit",
@@ -55185,6 +55288,24 @@
       "Break",
       "the",
       "Isolation"
+    ]
+  },
+  {
+    "author": "droqen",
+    "description": null,
+    "genre": null,
+    "id": "600587",
+    "link": "https://droqen.itch.io/crossing-flowers",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxOTI1NzUucG5n/315x250%23c/XjAYdG.png",
+    "title": "crossing flowers",
+    "video": null,
+    "scrapeWords": [
+      "crossing",
+      "flowers"
     ]
   },
   {
@@ -55294,7 +55415,7 @@
   },
   {
     "author": "Mariothedog",
-    "description": null,
+    "description": "Made for Major Jam which had the theme \"Isolation\" and the limitation \"There are no living things\".",
     "genre": "Action",
     "id": "601456",
     "link": "https://mariothedog.itch.io/dodge-and-explode",
@@ -55306,6 +55427,22 @@
       "Dodge",
       "and",
       "Explode"
+    ]
+  },
+  {
+    "author": "TaliOS",
+    "description": "Date viruses in this virulent dating simulator, where nothing lives...",
+    "genre": "Visual Novel",
+    "id": "601481",
+    "link": "https://talios.itch.io/cough-marry-kill",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxOTg4OTYucG5n/315x250%23c/Sb3jLa.png",
+    "title": "Cough, Marry, Kill",
+    "video": null,
+    "scrapeWords": [
+      "Cough",
+      "Marry",
+      "Kill"
     ]
   },
   {
@@ -55342,6 +55479,267 @@
     "video": null,
     "scrapeWords": [
       "SCREAM"
+    ]
+  },
+  {
+    "author": "Mashikouli",
+    "description": "Follow this mother mouse during her quest in this fun point'n'click",
+    "genre": "Adventure",
+    "id": "601694",
+    "link": "https://mashikouli.itch.io/mashi-mouse",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxOTA4MDUucG5n/315x250%23c/A%2F1eu9.png",
+    "title": "Mashi-Mouse",
+    "video": null,
+    "scrapeWords": [
+      "Mashi-Mouse"
+    ]
+  },
+  {
+    "author": "RaintheCat3",
+    "description": "a demo of agent puppy full of bugs.. hahahaha",
+    "genre": "Action",
+    "id": "602046",
+    "link": "https://rainthecat3.itch.io/agent-puppy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxOTI1MzUucG5n/315x250%23c/dOK9T9.png",
+    "title": "Agent puppy",
+    "video": null,
+    "scrapeWords": [
+      "Agent",
+      "puppy"
+    ]
+  },
+  {
+    "author": "Coding Wizard Games",
+    "description": "DOWN is a procedurally generated cave exploration game",
+    "genre": "Platformer",
+    "id": "602399",
+    "link": "https://merlin1846.itch.io/down",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxOTM4NTMucG5n/315x250%23c/SsPGBt.png",
+    "title": "DOWN",
+    "video": null,
+    "scrapeWords": [
+      "DOWN"
+    ]
+  },
+  {
+    "author": "wkzgamesstudio",
+    "description": "Decide if you just want to relax or maybe be real block'n'roll hardcore star!",
+    "genre": null,
+    "id": "602821",
+    "link": "https://wkzgamesstudio.itch.io/blocknroll",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxOTYyNjMucG5n/315x250%23c/yAcYKY.png",
+    "title": "Block'n'roll",
+    "video": null,
+    "scrapeWords": [
+      "Blocknroll"
+    ]
+  },
+  {
+    "author": "ApeHardware",
+    "description": "An eerie yet humorous anti-point-and-click",
+    "genre": "Adventure",
+    "id": "602846",
+    "link": "https://apehardware.itch.io/until-its-undone",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxOTY2MjQuZ2lm/315x250%23cm/t%2F4ZRS.gif",
+    "title": "Until It's Undone",
+    "video": "https://img.itch.zone/aW1nLzMxOTY2MjQuZ2lm/original/GdcEms.gif",
+    "scrapeWords": [
+      "Until",
+      "Its",
+      "Undone"
+    ]
+  },
+  {
+    "author": "BlackMambaJesus",
+    "description": "Rhyme your way to a record deal.",
+    "genre": "Puzzle",
+    "id": "602874",
+    "link": "https://blackmambajesus.itch.io/spittaz",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxOTc0MDAucG5n/315x250%23c/ctWr1u.png",
+    "title": "Spittaz",
+    "video": null,
+    "scrapeWords": [
+      "Spittaz"
+    ]
+  },
+  {
+    "author": "Lexxn0x3",
+    "description": "An Arcade like space shooter. You have to fight against hordes of enemy space ships and defeat them.",
+    "genre": "Shooter",
+    "id": "602963",
+    "link": "https://lexxn0x3.itch.io/glow-shooter",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDIzMjcucG5n/315x250%23c/eXzzim.png",
+    "title": "Glow Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Glow",
+      "Shooter"
+    ]
+  },
+  {
+    "author": "Plasma Beam",
+    "description": "Old school top down shooter",
+    "genre": "Action",
+    "id": "603026",
+    "link": "https://plasma-beam.itch.io/mars-strike",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDAwNzMucG5n/315x250%23c/qpscV5.png",
+    "title": "Mars Strike",
+    "video": null,
+    "scrapeWords": [
+      "Mars",
+      "Strike"
+    ]
+  },
+  {
+    "author": "jogacolhue",
+    "description": "quick_time",
+    "genre": null,
+    "id": "603035",
+    "link": "https://jogacolhue.itch.io/space-cowboys",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxOTc1NTEucG5n/315x250%23c/yk8VpA.png",
+    "title": "Space Cowboys",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Cowboys"
+    ]
+  },
+  {
+    "author": "Mariothedog",
+    "description": "MS Paint but the \"t\" is silent. Made for Paint Jam 2020. (Very bad.)",
+    "genre": null,
+    "id": "603369",
+    "link": "https://mariothedog.itch.io/ms-pain",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDI0NzIucG5n/315x250%23c/iIs2MI.png",
+    "title": "MS Pain",
+    "video": null,
+    "scrapeWords": [
+      "MS",
+      "Pain"
+    ]
+  },
+  {
+    "author": "Hurlu",
+    "description": "Keep drinking paint to survive !",
+    "genre": "Action",
+    "id": "603557",
+    "link": "https://hurlu.itch.io/paint-killers",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDE1OTIucG5n/315x250%23c/gDYBiG.png",
+    "title": "Paint Killers",
+    "video": null,
+    "scrapeWords": [
+      "Paint",
+      "Killers"
+    ]
+  },
+  {
+    "author": "Avantir",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "603782",
+    "link": "https://avantir.itch.io/mondrian-forever",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDI0MjAucG5n/315x250%23c/7O%2B7WI.png",
+    "title": "Mondrian Forever",
+    "video": null,
+    "scrapeWords": [
+      "Mondrian",
+      "Forever"
+    ]
+  },
+  {
+    "author": "Johnny Puskar",
+    "description": "A short gravity side-scrolling puzzler",
+    "genre": "Puzzle",
+    "id": "603800",
+    "link": "https://johnnypuskar.itch.io/gravitableau",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDIzMTQucG5n/315x250%23c/rEw%2Fei.png",
+    "title": "Gravitableau",
+    "video": null,
+    "scrapeWords": [
+      "Gravitableau"
+    ]
+  },
+  {
+    "author": "DocMcCoy",
+    "description": null,
+    "genre": "Shooter",
+    "id": "603806",
+    "link": "https://docmccoy.itch.io/tableaoom",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDIzNzMucG5n/315x250%23c/229Nn%2B.png",
+    "title": "Tableaoom",
+    "video": null,
+    "scrapeWords": [
+      "Tableaoom"
+    ]
+  },
+  {
+    "author": "Bypell",
+    "description": "for Paint Jam 2020",
+    "genre": "Survival",
+    "id": "603815",
+    "link": "https://bypell.itch.io/mister-on-wall",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDI0OTMucG5n/315x250%23c/RqA4qI.png",
+    "title": "Mister On-Wall",
+    "video": null,
+    "scrapeWords": [
+      "Mister",
+      "On-Wall"
+    ]
+  },
+  {
+    "author": "UnrelatedString",
+    "description": "Good morning, John.",
+    "genre": "Action",
+    "id": "603978",
+    "link": "https://unrelatedstring.itch.io/lockedownbeta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDM1NjgucG5n/315x250%23c/wg6LOX.png",
+    "title": "LOCKEDOWN",
+    "video": null,
+    "scrapeWords": [
+      "LOCKEDOWN"
     ]
   },
   {
