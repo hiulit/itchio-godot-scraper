@@ -27476,6 +27476,22 @@
     ]
   },
   {
+    "author": "paru",
+    "description": "Online Kemono Roleplaying Game",
+    "genre": "Adventure",
+    "id": "390737",
+    "link": "https://paru.itch.io/tko",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMTA3MjAucG5n/315x250%23c/7j4snX.png",
+    "title": "The Kemoverse: Online",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Kemoverse",
+      "Online"
+    ]
+  },
+  {
     "author": "L Gravovski",
     "description": "A light hearted, multi-jump themed Micro Metroidvania",
     "genre": "Platformer",
@@ -37524,11 +37540,11 @@
     ]
   },
   {
-    "author": "Maj_Zore",
+    "author": "lesley-zore",
     "description": "This is a guide thru most lgbtq+ identities and terms and such.",
     "genre": "Visual Novel",
     "id": "466669",
-    "link": "https://maj-zore.itch.io/lgbtq-plus-guide",
+    "link": "https://lesley-zore.itch.io/lgbtq-plus-guide",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIzODEzNjIucG5n/315x250%23c/0QwDfh.png",
     "title": "LGBTQ+ guide",
@@ -45444,11 +45460,11 @@
     ]
   },
   {
-    "author": "Monroe Games",
+    "author": "Harri Monroe",
     "description": "20 Levels of Screen-Wrapping Arcade Action!",
     "genre": "Platformer",
     "id": "526453",
-    "link": "https://monroegames.itch.io/candy",
+    "link": "https://3dharrison.itch.io/candy",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI3NDMzMjEuZ2lm/315x250%23cm/7JtLIQ.gif",
     "title": "Candy Wrapper",
@@ -54614,7 +54630,7 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxNzE3NzEucG5n/315x250%23c/hl9Bv2.png",
+    "thumb": "https://img.itch.zone/aW1nLzMyMDc1NjYucG5n/315x250%23c/RmFYau.png",
     "title": "Dash 'em - beta",
     "video": null,
     "scrapeWords": [
@@ -55298,6 +55314,7 @@
     "link": "https://droqen.itch.io/crossing-flowers",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxOTI1NzUucG5n/315x250%23c/XjAYdG.png",
@@ -55347,10 +55364,7 @@
     "genre": "Fighting",
     "id": "601097",
     "link": "https://aaronmakesgames.itch.io/fist-mountain-jam",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMxODYzODQucG5n/315x250%23c/H%2BQSDD.png",
     "title": "FIST MOUNTAIN",
     "video": null,
@@ -55479,6 +55493,23 @@
     "video": null,
     "scrapeWords": [
       "SCREAM"
+    ]
+  },
+  {
+    "author": "Nick H.",
+    "description": "Don’t get stabbed!",
+    "genre": "Survival",
+    "id": "601685",
+    "link": "https://jnho228.itch.io/the-ides-of-march",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDI1NzUucG5n/315x250%23c/Rhngh1.png",
+    "title": "The Ides of March",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Ides",
+      "of",
+      "March"
     ]
   },
   {
@@ -55646,6 +55677,21 @@
     ]
   },
   {
+    "author": "laame",
+    "description": "Evil platformer made for Trijam #64",
+    "genre": "Platformer",
+    "id": "603537",
+    "link": "https://laame.itch.io/joint-escape",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDA4NTkucG5n/315x250%23c/xjIOK9.png",
+    "title": "Joint Escape",
+    "video": null,
+    "scrapeWords": [
+      "Joint",
+      "Escape"
+    ]
+  },
+  {
     "author": "Hurlu",
     "description": "Keep drinking paint to survive !",
     "genre": "Action",
@@ -55714,7 +55760,8 @@
     "link": "https://bypell.itch.io/mister-on-wall",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMyMDI0OTMucG5n/315x250%23c/RqA4qI.png",
     "title": "Mister On-Wall",
@@ -55725,6 +55772,21 @@
     ]
   },
   {
+    "author": "Snail Rhymer",
+    "description": "An MSPaint jam game. Experiment with low-resolution neoplasticism.",
+    "genre": null,
+    "id": "603819",
+    "link": "https://snail-rhymer.itch.io/paint-paint",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDI2MTcucG5n/315x250%23c/WXQJcG.png",
+    "title": "Paint Paint",
+    "video": null,
+    "scrapeWords": [
+      "Paint",
+      "Paint"
+    ]
+  },
+  {
     "author": "UnrelatedString",
     "description": "Good morning, John.",
     "genre": "Action",
@@ -55732,8 +55794,7 @@
     "link": "https://unrelatedstring.itch.io/lockedownbeta",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMyMDM1NjgucG5n/315x250%23c/wg6LOX.png",
     "title": "LOCKEDOWN",
@@ -55759,6 +55820,75 @@
     "scrapeWords": [
       "Pong",
       "Wars"
+    ]
+  },
+  {
+    "author": "Positive Zero",
+    "description": "Fight your inner demons while keeping your mind in balance",
+    "genre": "Action",
+    "id": "604490",
+    "link": "https://positive-zero.itch.io/heiko-do",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDgxNTUucG5n/315x250%23c/twr7PA.png",
+    "title": "Heiko-Do",
+    "video": null,
+    "scrapeWords": [
+      "Heiko-Do"
+    ]
+  },
+  {
+    "author": "Flying Octopus",
+    "description": "Przeganiasz wietnamskich drwali karmiąc ich ryżem.",
+    "genre": "Shooter",
+    "id": "604599",
+    "link": "https://flyingoctopus.itch.io/wojowniczy-myszojelen",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDc5MzYucG5n/315x250%23c/hoxR36.png",
+    "title": "Wojowniczy Myszojeleń",
+    "video": null,
+    "scrapeWords": [
+      "Wojowniczy",
+      "Myszojeleń"
+    ]
+  },
+  {
+    "author": "Picster",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "604693",
+    "link": "https://picster.itch.io/elite-monkey-pogo-eod",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDc2OTcuanBn/315x250%23c/ip2Yvk.jpg",
+    "title": "Elite Monkey Pogo Explosive Ordonance Disposal",
+    "video": null,
+    "scrapeWords": [
+      "Elite",
+      "Monkey",
+      "Pogo",
+      "Explosive",
+      "Ordonance",
+      "Disposal"
+    ]
+  },
+  {
+    "author": "BattlEyeet",
+    "description": "Having fun and learning Godot! Test out my game if you'd like.",
+    "genre": "Platformer",
+    "id": "604732",
+    "link": "https://battleyeet.itch.io/platformer-demo-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyMDc5MTAucG5n/315x250%23c/hzwi9K.png",
+    "title": "Platformer Demo Game",
+    "video": null,
+    "scrapeWords": [
+      "Platformer",
+      "Game"
     ]
   },
   {
