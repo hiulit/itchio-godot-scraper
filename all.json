@@ -22414,25 +22414,6 @@
     ]
   },
   {
-    "author": "CIULLO CORPORATION",
-    "description": "Planar 3D puzzle game",
-    "genre": "Puzzle",
-    "id": "342985",
-    "link": "https://ciullocorporation.itch.io/chyrkyan-trial",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzUuanBn/315x250%23c/ivTApg.jpg",
-    "title": "[PC] Chyrkyan Trial II",
-    "video": null,
-    "scrapeWords": [
-      "[PC]",
-      "Chyrkyan",
-      "Trial",
-      "II"
-    ]
-  },
-  {
     "author": "rresto",
     "description": "A clone of the game Pong",
     "genre": "Action",
@@ -22828,23 +22809,6 @@
       "be",
       "a",
       "Triangle"
-    ]
-  },
-  {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -27476,22 +27440,6 @@
     ]
   },
   {
-    "author": "paru",
-    "description": "Online Kemono Roleplaying Game",
-    "genre": "Adventure",
-    "id": "390737",
-    "link": "https://paru.itch.io/tko",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMyMTA3MjAucG5n/315x250%23c/7j4snX.png",
-    "title": "The Kemoverse: Online",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Kemoverse",
-      "Online"
-    ]
-  },
-  {
     "author": "L Gravovski",
     "description": "A light hearted, multi-jump themed Micro Metroidvania",
     "genre": "Platformer",
@@ -28117,11 +28065,11 @@
     ]
   },
   {
-    "author": "AmDMaster",
+    "author": "Amos Dsouza",
     "description": "Destroy All The Enemies",
     "genre": "Shooter",
     "id": "395886",
-    "link": "https://amdmaster.itch.io/space-wrath",
+    "link": "https://amos-dsouza.itch.io/space-wrath",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE5NjEwMDEucG5n/315x250%23c/i94PRN.png",
     "title": "Space Wrath",
@@ -28168,44 +28116,6 @@
       "Fire",
       "Blazing",
       "Skies"
-    ]
-  },
-  {
-    "author": "CIULLO CORPORATION",
-    "description": "Planar 3D puzzle game",
-    "genre": "Puzzle",
-    "id": "397530",
-    "link": "https://ciullocorporation.itch.io/mac-chyrkyan-trial",
-    "platforms": [
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzAuanBn/315x250%23c/59b9Iw.jpg",
-    "title": "[MAC] Chyrkyan Trial II",
-    "video": null,
-    "scrapeWords": [
-      "[MAC]",
-      "Chyrkyan",
-      "Trial",
-      "II"
-    ]
-  },
-  {
-    "author": "CIULLO CORPORATION",
-    "description": "Planar 3D puzzle game",
-    "genre": "Puzzle",
-    "id": "397534",
-    "link": "https://ciullocorporation.itch.io/linux-chyrkyan-trial",
-    "platforms": [
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NTkuanBn/315x250%23c/KRxwe4.jpg",
-    "title": "[LINUX] Chyrkyan Trial II",
-    "video": null,
-    "scrapeWords": [
-      "[LINUX]",
-      "Chyrkyan",
-      "Trial",
-      "II"
     ]
   },
   {
@@ -34338,7 +34248,7 @@
     ]
   },
   {
-    "author": "FriTooTheEnd",
+    "author": "Evelyn",
     "description": null,
     "genre": "Platformer",
     "id": "448540",
@@ -39386,46 +39296,6 @@
     ]
   },
   {
-    "author": "CIULLO CORPORATION",
-    "description": "Will you drag the sorts of an endless war? Discover it NOW!",
-    "genre": "Action",
-    "id": "477899",
-    "link": "https://ciullocorporation.itch.io/pc-the-ahriman-project",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzguanBn/315x250%23c/0j5oGE.jpg",
-    "title": "[PC] The Ahriman Project I",
-    "video": null,
-    "scrapeWords": [
-      "[PC]",
-      "The",
-      "Ahriman",
-      "Project",
-      "I"
-    ]
-  },
-  {
-    "author": "CIULLO CORPORATION",
-    "description": "Will you drag the sorts of an endless war? Discover it NOW!",
-    "genre": "Action",
-    "id": "477919",
-    "link": "https://ciullocorporation.itch.io/mac-the-ahriman-project",
-    "platforms": [
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzMuanBn/315x250%23c/UfhKiN.jpg",
-    "title": "[MAC] The Ahriman Project I",
-    "video": null,
-    "scrapeWords": [
-      "[MAC]",
-      "The",
-      "Ahriman",
-      "Project",
-      "I"
-    ]
-  },
-  {
     "author": "José Manuel Gris Umpierrez",
     "description": "A game in the style of classics like Ghosts' n Goblins and Game Over.",
     "genre": "Platformer",
@@ -39441,26 +39311,6 @@
       "Magic",
       "and",
       "ns"
-    ]
-  },
-  {
-    "author": "CIULLO CORPORATION",
-    "description": "Will you drag the sorts of an endless war? Discover it NOW!",
-    "genre": "Action",
-    "id": "477952",
-    "link": "https://ciullocorporation.itch.io/linux-the-ahriman-project",
-    "platforms": [
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NjcuanBn/315x250%23c/iLqKz8.jpg",
-    "title": "[LINUX] The Ahriman Project I",
-    "video": null,
-    "scrapeWords": [
-      "[LINUX]",
-      "The",
-      "Ahriman",
-      "Project",
-      "I"
     ]
   },
   {
@@ -39658,8 +39508,7 @@
     "id": "479924",
     "link": "https://davifox.itch.io/pocket-cat",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0NzEzNDUucG5n/315x250%23c/ATB727.png",
     "title": "Pocket Cat",
@@ -39685,6 +39534,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -48194,11 +48062,11 @@
     ]
   },
   {
-    "author": "CakeChezee",
+    "author": "IbrahimDev",
     "description": null,
     "genre": "Action",
     "id": "546994",
-    "link": "https://cakechezee.itch.io/way-to-hell",
+    "link": "https://ibrahimdev.itch.io/way-to-hell",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI4NTYxNDMucG5n/315x250%23c/JEtJ72.png",
     "title": "Way To Hell",
@@ -51077,11 +50945,11 @@
     ]
   },
   {
-    "author": "AmDMaster",
+    "author": "Amos Dsouza",
     "description": "Play as an Ice Cube till you Melt",
     "genre": null,
     "id": "567934",
-    "link": "https://amdmaster.itch.io/reach-the-freezers",
+    "link": "https://amos-dsouza.itch.io/reach-the-freezers",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI5ODQyODIucG5n/315x250%23c/y1zNsw.png",
     "title": "Reach the Freezers!",
@@ -52751,9 +52619,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNjU0MTYucG5n/315x250%23c/0Pw88d.png",
+    "thumb": "https://img.itch.zone/aW1nLzMyMTE3MTguZ2lm/315x250%23cm/dYYvWa.gif",
     "title": "CMDungeon",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzMyMTE3MTguZ2lm/original/o8XNfh.gif",
     "scrapeWords": [
       "CMDungeon"
     ]
@@ -55083,7 +54951,8 @@
     "link": "https://amblacksheep.itch.io/red-thread",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxNjk0MzcucG5n/315x250%23c/8RxY2c.png",
     "title": "Red Thread",
@@ -55304,6 +55173,24 @@
       "Break",
       "the",
       "Isolation"
+    ]
+  },
+  {
+    "author": "joggy555",
+    "description": null,
+    "genre": "Survival",
+    "id": "600577",
+    "link": "https://joggy555.itch.io/uncharted-territories",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODMwMDEucG5n/315x250%23c/%2BWI95n.png",
+    "title": "Uncharted Territories",
+    "video": null,
+    "scrapeWords": [
+      "Uncharted",
+      "Territories"
     ]
   },
   {
@@ -55823,6 +55710,24 @@
     ]
   },
   {
+    "author": "Radosław Jachimowicz",
+    "description": "A short horror game about poem writer dealing with mental health issues",
+    "genre": "Platformer",
+    "id": "604368",
+    "link": "https://neozmatrixa.itch.io/rrr",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDYyNDkucG5n/315x250%23c/BtUOf6.png",
+    "title": "Redesign Rebuild Reclaim",
+    "video": null,
+    "scrapeWords": [
+      "Redesign",
+      "Rebuild",
+      "Reclaim"
+    ]
+  },
+  {
     "author": "Positive Zero",
     "description": "Fight your inner demons while keeping your mind in balance",
     "genre": "Action",
@@ -55837,6 +55742,28 @@
     "video": null,
     "scrapeWords": [
       "Heiko-Do"
+    ]
+  },
+  {
+    "author": "VerttiXPertti",
+    "description": null,
+    "genre": "Action",
+    "id": "604561",
+    "link": "https://verttixpertti.itch.io/invisible-well-beings",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDcwMTAucG5n/315x250%23c/AkumFd.png",
+    "title": "Attack of the Invisible Well-Beings",
+    "video": null,
+    "scrapeWords": [
+      "Attack",
+      "of",
+      "the",
+      "Invisible",
+      "Well-Beings"
     ]
   },
   {
@@ -55889,6 +55816,77 @@
     "scrapeWords": [
       "Platformer",
       "Game"
+    ]
+  },
+  {
+    "author": "Radosław Jachimowicz",
+    "description": "Black and White platform game",
+    "genre": "Platformer",
+    "id": "605603",
+    "link": "https://neozmatrixa.itch.io/black-and-white",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMTMyNTMucG5n/315x250%23c/az7pQu.png",
+    "title": "Black & White",
+    "video": null,
+    "scrapeWords": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "author": "Topmat",
+    "description": "A little guessing fighting game",
+    "genre": "Fighting",
+    "id": "605663",
+    "link": "https://topmat.itch.io/deep-space",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMTM1MzkucG5n/315x250%23c/IGDD8L.png",
+    "title": "Deep Space",
+    "video": null,
+    "scrapeWords": [
+      "Deep",
+      "Space"
+    ]
+  },
+  {
+    "author": "Brazzoka",
+    "description": "Jogo simples de Tower Defense. Derrote Vírus e Germes para salvar a sua casa.",
+    "genre": "Strategy",
+    "id": "605775",
+    "link": "https://brazzoka.itch.io/germs-tower-defense",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMTQyOTcucG5n/315x250%23c/RY9l4d.png",
+    "title": "Germs Tower Defense",
+    "video": null,
+    "scrapeWords": [
+      "Germs",
+      "Tower",
+      "Defense"
+    ]
+  },
+  {
+    "author": "Luke I. Wilson",
+    "description": "Cat FaceTimes hamster meme... made in Godot.",
+    "genre": null,
+    "id": "605800",
+    "link": "https://asmoaesl.itch.io/cat-calls-hamster",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMTQ0NjQucG5n/315x250%23c/%2BBWEby.png",
+    "title": "Cat Facetime",
+    "video": null,
+    "scrapeWords": [
+      "Cat",
+      "Facetime"
     ]
   },
   {
