@@ -2961,7 +2961,7 @@
     ]
   },
   {
-    "author": "Jonathan Camarena",
+    "author": "Kyperbelt Games",
     "description": "simple push puzzle in a castle setting",
     "genre": "Puzzle",
     "id": "168207",
@@ -25317,23 +25317,6 @@
     ]
   },
   {
-    "author": "kianaj",
-    "description": null,
-    "genre": "Strategy",
-    "id": "367933",
-    "link": "https://kianaj.itch.io/mrsaeed",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE4NDI1NzMucG5n/315x250%23c/%2FmIao1.png",
-    "title": "Mr.Saeed",
-    "video": null,
-    "scrapeWords": [
-      "Mr",
-      "Saeed"
-    ]
-  },
-  {
     "author": "kotob",
     "description": "You play as a ghost that possesses cult members. Pass all the tests to gain enlightenment!",
     "genre": null,
@@ -39508,9 +39491,11 @@
     "id": "479924",
     "link": "https://davifox.itch.io/pocket-cat",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzEzNDUucG5n/315x250%23c/ATB727.png",
+    "thumb": "https://img.itch.zone/aW1nLzMyMTg5NDcucG5n/315x250%23c/uyfzKi.png",
     "title": "Pocket Cat",
     "video": null,
     "scrapeWords": [
@@ -53959,11 +53944,11 @@
     ]
   },
   {
-    "author": "jogacolhue",
+    "author": "jhopp",
     "description": null,
     "genre": "Platformer",
     "id": "592067",
-    "link": "https://jogacolhue.itch.io/tropical-vacations",
+    "link": "https://jhopp.itch.io/tropical-vacations",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMxMzE5OTIucG5n/315x250%23c/9FiI9j.png",
     "title": "Tropical Vacations",
@@ -54703,11 +54688,11 @@
     ]
   },
   {
-    "author": "jogacolhue",
+    "author": "jhopp",
     "description": "You need to get out of your house and get some toilet paper for your family.",
     "genre": "Platformer",
     "id": "597173",
-    "link": "https://jogacolhue.itch.io/quarantine-breaker",
+    "link": "https://jhopp.itch.io/quarantine-breaker",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMxNjIxMTUucG5n/315x250%23c/u457xe.png",
     "title": "Quarantine Breaker",
@@ -55052,7 +55037,7 @@
   },
   {
     "author": "Jean28518",
-    "description": null,
+    "description": "Train Simulator written in Godot Engine - Free for everyone",
     "genre": "Simulation",
     "id": "599406",
     "link": "https://jean28518.itch.io/libre-train-sim",
@@ -55061,7 +55046,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxNzUxMTAucG5n/315x250%23c/UGOBkX.png",
+    "thumb": "https://img.itch.zone/aW1nLzMyMjAyMTYucG5n/315x250%23c/hAJvgB.png",
     "title": "Libre TrainSim",
     "video": null,
     "scrapeWords": [
@@ -55451,6 +55436,22 @@
     ]
   },
   {
+    "author": "Nooh Alavi",
+    "description": "Help an antivirus fix a corrupted computer.",
+    "genre": "Shooter",
+    "id": "602812",
+    "link": "https://noohalavi.itch.io/antivirus",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDkzMjMucG5n/315x250%23c/0wEbXQ.png",
+    "title": "Antivirus",
+    "video": null,
+    "scrapeWords": [
+      "Antivirus"
+    ]
+  },
+  {
     "author": "wkzgamesstudio",
     "description": "Decide if you just want to relax or maybe be real block'n'roll hardcore star!",
     "genre": null,
@@ -55474,9 +55475,9 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxOTY2MjQuZ2lm/315x250%23cm/t%2F4ZRS.gif",
+    "thumb": "https://img.itch.zone/aW1nLzMyMTk5NjUuZ2lm/315x250%23cm/0a018X.gif",
     "title": "Until It's Undone",
-    "video": "https://img.itch.zone/aW1nLzMxOTY2MjQuZ2lm/original/GdcEms.gif",
+    "video": "https://img.itch.zone/aW1nLzMyMTk5NjUuZ2lm/original/8IuCYR.gif",
     "scrapeWords": [
       "Until",
       "Its",
@@ -55534,11 +55535,11 @@
     ]
   },
   {
-    "author": "jogacolhue",
+    "author": "jhopp",
     "description": "quick_time",
     "genre": null,
     "id": "603035",
-    "link": "https://jogacolhue.itch.io/space-cowboys",
+    "link": "https://jhopp.itch.io/space-cowboys",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMxOTc1NTEucG5n/315x250%23c/yk8VpA.png",
     "title": "Space Cowboys",
@@ -55688,6 +55689,23 @@
     "video": null,
     "scrapeWords": [
       "LOCKEDOWN"
+    ]
+  },
+  {
+    "author": "ResourceHog",
+    "description": "Avoid the Coronavirus and horde the toiletpaper!",
+    "genre": null,
+    "id": "604151",
+    "link": "https://resourcehog.itch.io/coronamouse",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDQzMTUucG5n/315x250%23c/8gwvSp.png",
+    "title": "CoronaMouse",
+    "video": null,
+    "scrapeWords": [
+      "Corona",
+      "Mouse"
     ]
   },
   {
@@ -55887,6 +55905,63 @@
     "scrapeWords": [
       "Cat",
       "Facetime"
+    ]
+  },
+  {
+    "author": "Mashikouli",
+    "description": "2d Shoot'em Up underwater",
+    "genre": "Shooter",
+    "id": "606048",
+    "link": "https://mashikouli.itch.io/mashi-deep",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMTY0ODEucG5n/315x250%23c/HXmh3I.png",
+    "title": "Mashi-Deep",
+    "video": null,
+    "scrapeWords": [
+      "Mashi-Deep"
+    ]
+  },
+  {
+    "author": "Criepstar",
+    "description": "Roulette alike game, with no real money",
+    "genre": null,
+    "id": "606179",
+    "link": "https://criepstar.itch.io/gamblegame",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMTY4ODkucG5n/315x250%23c/1h57vM.png",
+    "title": "GambleGame by Criepstar",
+    "video": null,
+    "scrapeWords": [
+      "Gamble",
+      "Game",
+      "by",
+      "Criepstar"
+    ]
+  },
+  {
+    "author": "MartimDev",
+    "description": "Small puzzle game where you have to die in order to make levels possible to complete",
+    "genre": "Platformer",
+    "id": "606234",
+    "link": "https://martimdev.itch.io/death-is-necessary",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMTg5MzQucG5n/315x250%23c/BtEgTk.png",
+    "title": "DEATH  is necessary..",
+    "video": null,
+    "scrapeWords": [
+      "DEATH",
+      "is",
+      "necessary"
     ]
   },
   {
