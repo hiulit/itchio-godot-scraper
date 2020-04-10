@@ -7336,7 +7336,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": "Run and shoot a slice of pizza at the tomato",
     "genre": "Shooter",
     "id": "238458",
@@ -10871,7 +10871,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Action",
     "id": "262931",
@@ -13742,7 +13742,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Puzzle",
     "id": "279835",
@@ -15587,7 +15587,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Survival",
     "id": "291852",
@@ -19515,7 +19515,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": "Can you SWIPE the item before you opponent?",
     "genre": "Action",
     "id": "319653",
@@ -19786,7 +19786,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Action",
     "id": "322329",
@@ -22812,7 +22812,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Action",
     "id": "347151",
@@ -22974,7 +22974,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Shooter",
     "id": "349360",
@@ -23239,7 +23239,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Interactive Fiction",
     "id": "351512",
@@ -23470,7 +23470,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Adventure",
     "id": "353543",
@@ -23826,7 +23826,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Shooter",
     "id": "357795",
@@ -28793,7 +28793,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Survival",
     "id": "406065",
@@ -32217,7 +32217,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": "A short, experimental, and monochrome visual novel.",
     "genre": "Visual Novel",
     "id": "432308",
@@ -32769,7 +32769,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": "Help getting Josh out of Room 100.",
     "genre": "Puzzle",
     "id": "436762",
@@ -33333,7 +33333,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": "A Glitchy Buggy Metagame",
     "genre": null,
     "id": "441392",
@@ -36109,7 +36109,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": null,
     "id": "461121",
@@ -39592,7 +39592,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Rhythm",
     "id": "480415",
@@ -43338,7 +43338,7 @@
     ]
   },
   {
-    "author": "J.R. Sulfuro (pseudonym)",
+    "author": "Y.R. Sulfuro",
     "description": null,
     "genre": "Visual Novel",
     "id": "508334",
@@ -54510,6 +54510,20 @@
     ]
   },
   {
+    "author": "Savi",
+    "description": "A local multiplayer game that mixes pong and super smash bros mechanics!",
+    "genre": "Sports",
+    "id": "595627",
+    "link": "https://savi.itch.io/pongo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMxNTI4MzgucG5n/315x250%23c/ZCd%2B7n.png",
+    "title": "PONGO!!!",
+    "video": null,
+    "scrapeWords": [
+      "PONGO"
+    ]
+  },
+  {
     "author": "pixelsix",
     "description": "Nothing to be done. Just skipping a ball ...",
     "genre": "Sports",
@@ -55437,12 +55451,13 @@
   },
   {
     "author": "Nooh Alavi",
-    "description": "Help an antivirus fix a corrupted computer.",
+    "description": "An intense bullet hell game where you control an antivirus to fix a corrupted computer. Available on Windows and Linux.",
     "genre": "Shooter",
     "id": "602812",
     "link": "https://noohalavi.itch.io/antivirus",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMyMDkzMjMucG5n/315x250%23c/0wEbXQ.png",
     "title": "Antivirus",
@@ -55566,12 +55581,12 @@
   },
   {
     "author": "laame",
-    "description": "Evil platformer made for Trijam #64",
+    "description": "Evil platformer originally made for TriJam #64",
     "genre": "Platformer",
     "id": "603537",
     "link": "https://laame.itch.io/joint-escape",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMyMDA4NTkucG5n/315x250%23c/xjIOK9.png",
+    "thumb": "https://img.itch.zone/aW1nLzMyMjMyNDkucG5n/315x250%23c/grlRiO.png",
     "title": "Joint Escape",
     "video": null,
     "scrapeWords": [
@@ -55592,6 +55607,25 @@
     "scrapeWords": [
       "Paint",
       "Killers"
+    ]
+  },
+  {
+    "author": "kintrix",
+    "description": "Just your usual bullethell game... with a hint of corruption.",
+    "genre": "Action",
+    "id": "603568",
+    "link": "https://kintrix.itch.io/impact-beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjMxMzcucG5n/315x250%23c/vtHmmk.png",
+    "title": "Impact Beta",
+    "video": null,
+    "scrapeWords": [
+      "Impact",
+      "Beta"
     ]
   },
   {
@@ -55638,6 +55672,23 @@
     "video": null,
     "scrapeWords": [
       "Tableaoom"
+    ]
+  },
+  {
+    "author": "Shakalcks",
+    "description": "MMM is a tiny platform game with gravity puzzles.",
+    "genre": "Platformer",
+    "id": "603807",
+    "link": "https://shakalcks.itch.io/mmm",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjI4NTIucG5n/315x250%23c/OsotEp.png",
+    "title": "MMM",
+    "video": null,
+    "scrapeWords": [
+      "MMM"
     ]
   },
   {
@@ -55962,6 +56013,98 @@
       "DEATH",
       "is",
       "necessary"
+    ]
+  },
+  {
+    "author": "NoodleSushi",
+    "description": "THE DARK SOULS OF PUZZLE GAMES, With a Level Editor : D",
+    "genre": "Platformer",
+    "id": "606710",
+    "link": "https://noodlesushi.itch.io/help-yourself",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjA0MDIucG5n/315x250%23c/rBcTzx.png",
+    "title": "Help Yourself",
+    "video": null,
+    "scrapeWords": [
+      "Help",
+      "Yourself"
+    ]
+  },
+  {
+    "author": "MalkyStuffs",
+    "description": "PACE - Early Access",
+    "genre": "Puzzle",
+    "id": "606776",
+    "link": "https://malkystuffs.itch.io/pace",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjA0NzIucG5n/315x250%23c/7CEtNI.png",
+    "title": "PACE - Early Access",
+    "video": null,
+    "scrapeWords": [
+      "PACE",
+      "Early",
+      "Access"
+    ]
+  },
+  {
+    "author": "Oddwarg",
+    "description": "Diagonal shoot 'em up with flashing images",
+    "genre": "Action",
+    "id": "607101",
+    "link": "https://oddwarg.itch.io/hmbot",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjI3NjkucG5n/315x250%23c/Km4tMZ.png",
+    "title": "hæmbot",
+    "video": null,
+    "scrapeWords": [
+      "hæmbot"
+    ]
+  },
+  {
+    "author": "IGChrono",
+    "description": "A 2D puzzle platoformer made with Godot, swap until you die!",
+    "genre": "Platformer",
+    "id": "607375",
+    "link": "https://igchrono.itch.io/swap-die-repeat",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjQzOTYucG5n/315x250%23c/nNSPgm.png",
+    "title": "Swap Die Repeat!",
+    "video": null,
+    "scrapeWords": [
+      "Swap",
+      "Die",
+      "Repeat"
+    ]
+  },
+  {
+    "author": "Senopiece",
+    "description": "Simple backbone project.",
+    "genre": null,
+    "id": "607493",
+    "link": "https://senopiece.itch.io/savetheball",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjUxODIucG5n/315x250%23c/4KiZTD.png",
+    "title": "SaveTheBall",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "The",
+      "Ball"
     ]
   },
   {
