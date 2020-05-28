@@ -19431,7 +19431,8 @@
     "link": "https://axerosh.itch.io/the-bagger",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE1ODAxMDcucG5n/315x250%23c/wcXO6Q.png",
     "title": "The Bagger",
@@ -60805,8 +60806,7 @@
     "id": "626267",
     "link": "https://bitbeschleuniger.itch.io/vulpes-fructus",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMzNDAxNzAuanBn/315x250%23c/1LHuFD.jpg",
     "title": "Vulpes Fructus",
@@ -64952,7 +64952,6 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM0ODc0NzUucG5n/315x250%23c/JXp%2FaN.png",
@@ -65340,9 +65339,10 @@
     "link": "https://sreenington.itch.io/bba",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1MTI3NjgucG5n/315x250%23c/jzMYOi.png",
+    "thumb": "https://img.itch.zone/aW1nLzM1MTk1NTcucG5n/315x250%23c/X8npoo.png",
     "title": "Bob's Bizzare Adventure",
     "video": null,
     "scrapeWords": [
@@ -65445,6 +65445,45 @@
     ]
   },
   {
+    "author": "Deer eye",
+    "description": "Small horror game about hunting down Wendigos",
+    "genre": "Shooter",
+    "id": "654423",
+    "link": "https://deer-eye.itch.io/horror-huntdown",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MTQ4MDEucG5n/315x250%23c/w6NVZL.png",
+    "title": "Horror Huntdown",
+    "video": null,
+    "scrapeWords": [
+      "Horror",
+      "Huntdown"
+    ]
+  },
+  {
+    "author": "ApeHardware",
+    "description": "Play a strange board game against a stranger rival.",
+    "genre": "Strategy",
+    "id": "654710",
+    "link": "https://apehardware.itch.io/and-then-we-decayed",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjIwOTUuZ2lm/315x250%23cm/OLTxQH.gif",
+    "title": "And then we decayed",
+    "video": "https://img.itch.zone/aW1nLzM1MjIwOTUuZ2lm/original/pUtpur.gif",
+    "scrapeWords": [
+      "And",
+      "then",
+      "we",
+      "decayed"
+    ]
+  },
+  {
     "author": "netimu",
     "description": "Who is your real enemy?",
     "genre": "Action",
@@ -65454,7 +65493,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1MTg2MzkucG5n/315x250%23c/EIW%2F0O.png",
+    "thumb": "https://img.itch.zone/aW1nLzM1MTg4ODUucG5n/315x250%23c/KwVIbU.png",
     "title": "JAZZ: INFINITE GUN MASTER",
     "video": null,
     "scrapeWords": [
@@ -65477,6 +65516,81 @@
     "scrapeWords": [
       "Birbsketbol",
       "64"
+    ]
+  },
+  {
+    "author": "exception-thrown",
+    "description": "Become the enemies to help Moss reach his goal",
+    "genre": "Platformer",
+    "id": "655307",
+    "link": "https://exception-thrown.itch.io/moss-on-the-move",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjQyMjQucG5n/315x250%23c/rVDqCn.png",
+    "title": "Moss On The Move",
+    "video": null,
+    "scrapeWords": [
+      "Moss",
+      "On",
+      "The",
+      "Move"
+    ]
+  },
+  {
+    "author": "trust_me",
+    "description": "Battle the demon within",
+    "genre": "Action",
+    "id": "655438",
+    "link": "https://trust-me.itch.io/demon-within",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjEwMTMucG5n/315x250%23c/8Ts4yF.png",
+    "title": "Demon Within",
+    "video": null,
+    "scrapeWords": [
+      "n",
+      "Within"
+    ]
+  },
+  {
+    "author": "Jacob777",
+    "description": "Show the evil penguin who's boss!!!",
+    "genre": "Platformer",
+    "id": "655491",
+    "link": "https://jacob777.itch.io/game-from-scratch-revenge-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM1MjE0MzUucG5n/315x250%23c/kqCiYs.png",
+    "title": "Game From Scratch Blackmail Revenge",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "From",
+      "Scratch",
+      "Blackmail",
+      "Revenge"
+    ]
+  },
+  {
+    "author": "supermina39",
+    "description": "2d,pixel art, turn-based",
+    "genre": "Role Playing",
+    "id": "655639",
+    "link": "https://supermina39.itch.io/fight-with-the-devil",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjI3NTAucG5n/315x250%23c/GWvvDd.png",
+    "title": "Fight With the Devil",
+    "video": null,
+    "scrapeWords": [
+      "Fight",
+      "With",
+      "the",
+      "Devil"
     ]
   },
   {
