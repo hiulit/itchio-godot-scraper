@@ -62771,11 +62771,12 @@
   {
     "author": "Nick",
     "description": "You are tasked with investigating a mysterious device",
-    "genre": null,
+    "genre": "Simulation",
     "id": "637698",
     "link": "https://nickofthesouth.itch.io/menace-probe",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM0MTEyNDUucG5n/315x250%23c/1k9vr7.png",
     "title": "Menace Probe",
@@ -63568,6 +63569,23 @@
     ]
   },
   {
+    "author": "Melimeli",
+    "description": "[v1 easy] Scum Villains Fangame. Yaoi, strip-rhythm game.",
+    "genre": "Rhythm",
+    "id": "642964",
+    "link": "https://melimeli.itch.io/song-of-bingqiu",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM1MjUyMjguanBn/315x250%23c/um7GWi.jpg",
+    "title": "Song of BingQiu",
+    "video": null,
+    "scrapeWords": [
+      "Song",
+      "of",
+      "Bing",
+      "Qiu"
+    ]
+  },
+  {
     "author": "profeverton",
     "description": "As aventuras da luxor ball.",
     "genre": "Action",
@@ -64079,8 +64097,7 @@
     "link": "https://manicus.itch.io/last-pizza-slice",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM0NjE5OTkucG5n/315x250%23c/DvX2zK.png",
     "title": "Last Pizza Slice",
@@ -64954,9 +64971,9 @@
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM0ODc0NzUucG5n/315x250%23c/JXp%2FaN.png",
+    "thumb": "https://img.itch.zone/aW1nLzM1MzAzMjguZ2lm/315x250%23cm/Y7JuAZ.gif",
     "title": "Gymkhanage",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzM1MzAzMjguZ2lm/original/vf5My1.gif",
     "scrapeWords": [
       "Gymkhanage"
     ]
@@ -65486,7 +65503,7 @@
   {
     "author": "netimu",
     "description": "Who is your real enemy?",
-    "genre": "Action",
+    "genre": "Platformer",
     "id": "654993",
     "link": "https://netimu.itch.io/jazz-infinite-gun-master",
     "platforms": [
@@ -65591,6 +65608,84 @@
       "With",
       "the",
       "Devil"
+    ]
+  },
+  {
+    "author": "Jon Topielski",
+    "description": "Welcome to your new job as a Telemarketer!",
+    "genre": "Simulation",
+    "id": "655876",
+    "link": "https://jontopielski.itch.io/this-call-may-be-recorded",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjY1MTIucG5n/315x250%23c/%2BufHCO.png",
+    "title": "This Call May Be Recorded",
+    "video": null,
+    "scrapeWords": [
+      "This",
+      "Call",
+      "May",
+      "Be",
+      "Recorded"
+    ]
+  },
+  {
+    "author": "Techno_Ente",
+    "description": "A 2D Arena Game about fighting Orcs.",
+    "genre": "Action",
+    "id": "656088",
+    "link": "https://techno-ente.itch.io/monster-arena",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjU4NjUucG5n/315x250%23c/wJ2mL5.png",
+    "title": "Monster Arena",
+    "video": null,
+    "scrapeWords": [
+      "Monster",
+      "Arena"
+    ]
+  },
+  {
+    "author": "MuktadaCreations",
+    "description": "A Game about a man going back in his memories to get his lost Memories",
+    "genre": "Adventure",
+    "id": "656091",
+    "link": "https://muktadacreations.itch.io/a-bullet-of-memories",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjcwODgucG5n/315x250%23c/LKAPeh.png",
+    "title": "A Bullet Of Memories",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Bullet",
+      "Of",
+      "Memories"
+    ]
+  },
+  {
+    "author": "Thermohalia",
+    "description": "A short game where the only thing that can kill you is yourself",
+    "genre": "Platformer",
+    "id": "656114",
+    "link": "https://thermohalia.itch.io/time-step",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjU4OTUucG5n/315x250%23c/60h4wf.png",
+    "title": "Time Step",
+    "video": null,
+    "scrapeWords": [
+      "Time",
+      "Step"
     ]
   },
   {
