@@ -34324,11 +34324,11 @@
     ]
   },
   {
-    "author": "Terry Arcs",
+    "author": "Starksss",
     "description": "Flail Hockey has never been better!",
     "genre": "Sports",
     "id": "450172",
-    "link": "https://terryarcs.itch.io/flail-hockey-enhanced",
+    "link": "https://starksss.itch.io/flail-hockey-enhanced",
     "platforms": [
       "Windows"
     ],
@@ -43675,7 +43675,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI2NTgyNjcuanBn/315x250%23c/V0Lhjq.jpg",
     "title": "Fugitive",
@@ -47011,20 +47012,6 @@
     "video": "https://img.itch.zone/aW1nLzI4MTM1NjUuZ2lm/original/oJ3FKw.gif",
     "scrapeWords": [
       "Tetris"
-    ]
-  },
-  {
-    "author": "E_B",
-    "description": "please don't play this",
-    "genre": "Action",
-    "id": "540550",
-    "link": "https://e-b.itch.io/dead-meme",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4MTM0NTAucG5n/315x250%23c/MCJ18M.png",
-    "title": "dead_meme",
-    "video": null,
-    "scrapeWords": [
-      "dead_meme"
     ]
   },
   {
@@ -53011,6 +52998,24 @@
       "Touhou",
       "Clone",
       "Prototype"
+    ]
+  },
+  {
+    "author": "Daniel Gazzaneo",
+    "description": "1-bit puzzle platformer made for Devujam NEW GAME",
+    "genre": "Platformer",
+    "id": "584403",
+    "link": "https://vulpon.itch.io/miner-hero",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwODA0NjYucG5n/315x250%23c/B1sOVc.png",
+    "title": "Miner Hero",
+    "video": null,
+    "scrapeWords": [
+      "Miner",
+      "Hero"
     ]
   },
   {
@@ -60250,6 +60255,20 @@
     ]
   },
   {
+    "author": "QuietGecko",
+    "description": "Intenta resolver los acertijos de Kaloche antes de que su fuego se extinga.",
+    "genre": null,
+    "id": "620424",
+    "link": "https://quietgecko.itch.io/kaloche",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/315x250%23cm/Os6%2BaP.gif",
+    "title": "Kaloche",
+    "video": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/original/bofI0x.gif",
+    "scrapeWords": [
+      "Kaloche"
+    ]
+  },
+  {
     "author": "fivefingergames",
     "description": "Medic! - Our Ludum Dare 46 Game",
     "genre": null,
@@ -61060,6 +61079,24 @@
       "Need",
       "More",
       "Ammo"
+    ]
+  },
+  {
+    "author": "Nebulean",
+    "description": "Pong will never feel the same again",
+    "genre": null,
+    "id": "627268",
+    "link": "https://nebulean.itch.io/electro-pong",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MDM3MTUucG5n/315x250%23c/CkZ6m7.png",
+    "title": "Electro-pong",
+    "video": null,
+    "scrapeWords": [
+      "Electro-pong"
     ]
   },
   {
@@ -62639,11 +62676,7 @@
     "genre": "Adventure",
     "id": "634817",
     "link": "https://clone4004.itch.io/out-of-the-box",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM1MDUzMTEucG5n/315x250%23c/YmTPlv.png",
     "title": "Out of the Box",
     "video": null,
@@ -65555,22 +65588,6 @@
     ]
   },
   {
-    "author": "DeadAspect",
-    "description": "Jump with the bunny in this side-scrolling endless runner",
-    "genre": null,
-    "id": "652401",
-    "link": "https://deadaspect.itch.io/bunny",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1MTAyMjUucG5n/315x250%23c/4%2BC4pv.png",
-    "title": "Bunny",
-    "video": null,
-    "scrapeWords": [
-      "Bunny"
-    ]
-  },
-  {
     "author": "Mythicreation Studios",
     "description": "Fight aliens in space with your pet and collect milk!",
     "genre": "Shooter",
@@ -65665,7 +65682,7 @@
   },
   {
     "author": "Ori Brusilovsky",
-    "description": "Strategy board game",
+    "description": "Original strategy board game of gems and dominance",
     "genre": "Strategy",
     "id": "652933",
     "link": "https://brusi.itch.io/alchemize",
@@ -67342,6 +67359,27 @@
     ]
   },
   {
+    "author": "remruts",
+    "description": "Recover the candy stolen by the evil Fersu!",
+    "genre": "Action",
+    "id": "668278",
+    "link": "https://remruts.itch.io/wssd",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2MjQ2NTIuZ2lm/315x250%23cm/dBK3ZC.gif",
+    "title": "Witch Sisters' Sugary Dreams",
+    "video": "https://img.itch.zone/aW1nLzM2MjQ2NTIuZ2lm/original/GhKKy0.gif",
+    "scrapeWords": [
+      "Witch",
+      "Sisters",
+      "Sugary",
+      "Dreams"
+    ]
+  },
+  {
     "author": "Fyodor Leonkin",
     "description": "A small scrolling shooter in which you control the dragon and destroy the kingdom!",
     "genre": "Shooter",
@@ -67435,6 +67473,23 @@
     ]
   },
   {
+    "author": "LukasDomn",
+    "description": null,
+    "genre": "Simulation",
+    "id": "669290",
+    "link": "https://lukasdomn.itch.io/money-idle",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2NDk4MDMucG5n/315x250%23c/eKxD%2BW.png",
+    "title": "Money Idle",
+    "video": null,
+    "scrapeWords": [
+      "Money",
+      "Idle"
+    ]
+  },
+  {
     "author": "kooostia16",
     "description": "Defend main tower with many monsters",
     "genre": "Strategy",
@@ -67491,7 +67546,8 @@
     "id": "669514",
     "link": "https://robthefivenine.itch.io/social-distancing-runner",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM2Mzg1MjQucG5n/315x250%23c/HNiwS8.png",
     "title": "Social Distancing Runner",
@@ -67500,6 +67556,40 @@
       "Social",
       "Distancing",
       "Runner"
+    ]
+  },
+  {
+    "author": "Fish With Headphones",
+    "description": "Run n' gun. Hit targets with Carrot Duck and his Gun!",
+    "genre": "Action",
+    "id": "669562",
+    "link": "https://fish-with-headphones.itch.io/target-practice-ft-carrot-duck",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2NDA1MDYucG5n/315x250%23c/RkVdJe.png",
+    "title": "Target Practice Ft. Carrot Duck",
+    "video": null,
+    "scrapeWords": [
+      "Target",
+      "Practice",
+      "Ft",
+      "Carrot",
+      "Duck"
+    ]
+  },
+  {
+    "author": "senhung",
+    "description": "Hyper casual seagull killing + poop dodging game",
+    "genre": "Action",
+    "id": "669783",
+    "link": "https://senhung.itch.io/duck-vs-seagulls",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2NDcxNDMucG5n/315x250%23c/GuxWVO.png",
+    "title": "Duck vs Seagulls",
+    "video": null,
+    "scrapeWords": [
+      "Duck",
+      "vs",
+      "Seagulls"
     ]
   },
   {
@@ -67536,6 +67626,57 @@
     "scrapeWords": [
       "Rage",
       "Squid"
+    ]
+  },
+  {
+    "author": "Riesyeti",
+    "description": "Play as a ball-shaped cat in this short 2D platformer and save the moon!",
+    "genre": "Platformer",
+    "id": "670030",
+    "link": "https://riesyeti.itch.io/catformer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2NDQ1ODUucG5n/315x250%23c/nVYJid.png",
+    "title": "Catformer",
+    "video": null,
+    "scrapeWords": [
+      "Catformer"
+    ]
+  },
+  {
+    "author": "Gorka_Man",
+    "description": "A game about being home all day",
+    "genre": null,
+    "id": "670422",
+    "link": "https://gorka-man.itch.io/living-from-home",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2NDk1MjQuanBn/315x250%23c/UFKoHg.jpg",
+    "title": "Living From Home",
+    "video": null,
+    "scrapeWords": [
+      "Living",
+      "From",
+      "Home"
+    ]
+  },
+  {
+    "author": "ulon",
+    "description": "Jump into the door",
+    "genre": "Platformer",
+    "id": "670483",
+    "link": "https://ul0n.itch.io/fluffy-bing",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2NTAxNDgucG5n/315x250%23c/uDjC07.png",
+    "title": "Fluffy Bing",
+    "video": null,
+    "scrapeWords": [
+      "Fluffy",
+      "Bing"
     ]
   },
   {
