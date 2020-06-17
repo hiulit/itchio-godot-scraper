@@ -11792,7 +11792,7 @@
   {
     "author": "Robbie Cooper",
     "description": "Tetris with a melting mechanic",
-    "genre": null,
+    "genre": "Action",
     "id": "270067",
     "link": "https://cooperra.itch.io/temptris",
     "platforms": [
@@ -14008,6 +14008,25 @@
     "scrapeWords": [
       "Reflector",
       "Ball"
+    ]
+  },
+  {
+    "author": "Robbie Cooper",
+    "description": "Defend the city. Sell insurance. Get RICH!",
+    "genre": "Action",
+    "id": "283486",
+    "link": "https://cooperra.itch.io/kaiju-claim",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjgzNDg2LzEzNzgwMzYuZ2lm/315x250%23cm/Ale5Un.gif",
+    "title": "Kaiju Claim",
+    "video": "https://img.itch.zone/aW1hZ2UvMjgzNDg2LzEzNzgwMzYuZ2lm/original/TCJSCR.gif",
+    "scrapeWords": [
+      "Kaiju",
+      "Claim"
     ]
   },
   {
@@ -17709,7 +17728,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE2MjQyOTcucG5n/315x250%23c/c9UNBh.png",
+    "thumb": "https://img.itch.zone/aW1nLzM2ODI5MTgucG5n/315x250%23c/DbpRQP.png",
     "title": "Gumgem",
     "video": null,
     "scrapeWords": [
@@ -45513,6 +45532,22 @@
     ]
   },
   {
+    "author": "binglo",
+    "description": "Mario inspired game",
+    "genre": "Platformer",
+    "id": "529615",
+    "link": "https://binglo.itch.io/marius",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2NzQ5MjAucG5n/315x250%23c/zW%2FOto.png",
+    "title": "Marius",
+    "video": null,
+    "scrapeWords": [
+      "Marius"
+    ]
+  },
+  {
     "author": "zpa",
     "description": "Snake with mouse. Snake+Squeek=Sneek!",
     "genre": null,
@@ -53529,7 +53564,11 @@
     "genre": "Simulation",
     "id": "588877",
     "link": "https://theresnosuchthing.itch.io/paramedicats",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMxMzQwMjAuZ2lm/315x250%23cm/fJN5hz.gif",
     "title": "ParamediCats",
     "video": "https://img.itch.zone/aW1nLzMxMzQwMjAuZ2lm/original/Y1DHhM.gif",
@@ -64193,6 +64232,24 @@
     ]
   },
   {
+    "author": "Chapim Studios",
+    "description": null,
+    "genre": "Adventure",
+    "id": "645404",
+    "link": "https://chapim-studios.itch.io/the-mighty-long-tailed-tit",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2ODQyNzIucG5n/315x250%23c/svXgzu.png",
+    "title": "The Mighty Long Tailed Tit",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Mighty",
+      "Long",
+      "Tailed",
+      "Tit"
+    ]
+  },
+  {
     "author": "Joseph Manley",
     "description": "Play as private investigator in the far future tasked with finding a mole within the Ravenworks Corporation!",
     "genre": "Puzzle",
@@ -65910,7 +65967,6 @@
     "id": "654710",
     "link": "https://apehardware.itch.io/and-then-we-decayed",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1NDQ2MjAuZ2lm/315x250%23cm/Dvz3DN.gif",
@@ -66608,7 +66664,7 @@
   {
     "author": "nitrogen64",
     "description": "bomberman type game",
-    "genre": "Fighting",
+    "genre": "Action",
     "id": "659599",
     "link": "https://nitrogen64.itch.io/spacebaguettes",
     "platforms": [
@@ -66616,7 +66672,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1NDgwNjUucG5n/315x250%23c/nyxBbO.png",
+    "thumb": "https://img.itch.zone/aW1nLzM2ODIzODkucG5n/315x250%23c/ytKYA3.png",
     "title": "Space Baguettes",
     "video": null,
     "scrapeWords": [
@@ -66846,7 +66902,7 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1NTcyMjMucG5n/315x250%23c/liI3Y9.png",
+    "thumb": "https://img.itch.zone/aW1nLzM2ODg4MzYucG5n/315x250%23c/KThTJK.png",
     "title": "Dont touch the wall",
     "video": null,
     "scrapeWords": [
@@ -67084,6 +67140,23 @@
       "Retunrs",
       "The",
       "Game"
+    ]
+  },
+  {
+    "author": "BahOuaiLogik",
+    "description": null,
+    "genre": null,
+    "id": "663517",
+    "link": "https://superlogik.itch.io/perfect-snake",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2ODM2MjUucG5n/315x250%23c/airSsb.png",
+    "title": "Perfect Snake",
+    "video": null,
+    "scrapeWords": [
+      "Perfect",
+      "Snake"
     ]
   },
   {
@@ -67870,6 +67943,22 @@
     ]
   },
   {
+    "author": "dracosense",
+    "description": null,
+    "genre": "Strategy",
+    "id": "671600",
+    "link": "https://dracosense.itch.io/overbuilding",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2NjUzMjIucG5n/315x250%23c/c5iL%2Bn.png",
+    "title": "Overbuilding",
+    "video": null,
+    "scrapeWords": [
+      "Overbuilding"
+    ]
+  },
+  {
     "author": "Missing Semicolon",
     "description": "The lower down you go, the stronger gravity gets!",
     "genre": "Platformer",
@@ -67897,7 +67986,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM2NjM2NjgucG5n/315x250%23c/zTHVJt.png",
+    "thumb": "https://img.itch.zone/aW1nLzM2ODgxOTgucG5n/315x250%23c/h65qpV.png",
     "title": "vicious",
     "video": null,
     "scrapeWords": [
@@ -67939,6 +68028,20 @@
     ]
   },
   {
+    "author": "KevinDNF",
+    "description": null,
+    "genre": "Shooter",
+    "id": "672569",
+    "link": "https://kevindnf.itch.io/decomposition",
+    "platforms": null,
+    "thumb": null,
+    "title": "Decomposition",
+    "video": null,
+    "scrapeWords": [
+      "Decomposition"
+    ]
+  },
+  {
     "author": "StasysMusial",
     "description": "A laid back plant-growing sim.",
     "genre": "Simulation",
@@ -67970,6 +68073,58 @@
       "Adventurer",
       "vs",
       "Slimes"
+    ]
+  },
+  {
+    "author": "sikgames",
+    "description": "A Godot demo project for a third person controller.",
+    "genre": "Educational",
+    "id": "673428",
+    "link": "https://sikgames.itch.io/godot-third-person-character-controller",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2ODMzOTcucG5n/315x250%23c/0iFg8y.png",
+    "title": "Godot Third Person Character Controller",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Third",
+      "Person",
+      "Character",
+      "Controller"
+    ]
+  },
+  {
+    "author": "Terragos",
+    "description": "Puzzle Adventure Game",
+    "genre": "Puzzle",
+    "id": "673683",
+    "link": "https://terragos.itch.io/dot-recall",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2ODc5OTYucG5n/315x250%23c/3fZjnd.png",
+    "title": "Dot Recall",
+    "video": null,
+    "scrapeWords": [
+      "Dot",
+      "Recall"
+    ]
+  },
+  {
+    "author": "Michael Coorlim",
+    "description": "2d top-down pixel-art shmup",
+    "genre": "Shooter",
+    "id": "673704",
+    "link": "https://mcoorlim.itch.io/extreminator",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2ODYwNzcucG5n/315x250%23c/OhqS5G.png",
+    "title": "Extreminator",
+    "video": null,
+    "scrapeWords": [
+      "Extreminator"
     ]
   },
   {
