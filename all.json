@@ -55676,6 +55676,27 @@
     ]
   },
   {
+    "author": "yes102",
+    "description": null,
+    "genre": "Rhythm",
+    "id": "602589",
+    "link": "https://yes102.itch.io/title-to-be-decided",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2OTM0NDkucG5n/315x250%23c/lHhK52.png",
+    "title": "title to be decided",
+    "video": null,
+    "scrapeWords": [
+      "title",
+      "to",
+      "be",
+      "decided"
+    ]
+  },
+  {
     "author": "XIMPLE APPS",
     "description": "Poison Bubble Oficial",
     "genre": null,
@@ -57208,7 +57229,7 @@
   },
   {
     "author": "TakeLime",
-    "description": "Explore an open-world, fight or become friends with some monsters and reach new planets.",
+    "description": "Explore an proceducal world, start your own farm, build your home and cook your daily soup.",
     "genre": "Adventure",
     "id": "611405",
     "link": "https://takelime.itch.io/solarcraft",
@@ -57217,7 +57238,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1NTU3NDkucG5n/315x250%23c/A%2FdHLs.png",
+    "thumb": "https://img.itch.zone/aW1nLzM2OTcwNzEucG5n/315x250%23c/gtQCZ6.png",
     "title": "Solarcraft Sandbox",
     "video": null,
     "scrapeWords": [
@@ -61889,28 +61910,6 @@
     ]
   },
   {
-    "author": "Burd Studios",
-    "description": "Get the radish and return to your home planet.",
-    "genre": "Platformer",
-    "id": "631662",
-    "link": "https://burd-studios.itch.io/super-duper-mega-x-treme-bunny-planet-to-the-maxx",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMzNzI0OTUucG5n/315x250%23c/rg4mC9.png",
-    "title": "Super Duper Mega X-Treme Bunny Planet To The Maxx!!!",
-    "video": null,
-    "scrapeWords": [
-      "Super",
-      "Duper",
-      "Mega",
-      "X-Treme",
-      "Bunny",
-      "Planet",
-      "To",
-      "The",
-      "Maxx"
-    ]
-  },
-  {
     "author": "JoKiv",
     "description": "Continuation to my simple platformer",
     "genre": "Platformer",
@@ -63586,13 +63585,13 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM0MzQyMTQucG5n/315x250%23c/GbOjbU.png",
-    "title": "Black Box: Survival (min game) - Windows",
+    "title": "Black Box: Survival (mini game) - Windows",
     "video": null,
     "scrapeWords": [
       "Black",
       "Box",
       "Survival",
-      "min",
+      "mini",
       "game",
       "Windows"
     ]
@@ -64239,13 +64238,12 @@
     "link": "https://chapim-studios.itch.io/the-mighty-long-tailed-tit",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM2ODQyNzIucG5n/315x250%23c/svXgzu.png",
-    "title": "The Mighty Long Tailed Tit",
+    "title": "The Mighty Long-Tailed Tit",
     "video": null,
     "scrapeWords": [
       "The",
       "Mighty",
-      "Long",
-      "Tailed",
+      "Long-Tailed",
       "Tit"
     ]
   },
@@ -65315,17 +65313,18 @@
     "description": "Multiplayer Vehicular Mayhem",
     "genre": "Action",
     "id": "650193",
-    "link": "https://beelzebubbles.itch.io/gymkhanage",
+    "link": "https://beelzebubbles.itch.io/tankypanky",
     "platforms": [
       "Windows",
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1MzAzMjguZ2lm/315x250%23cm/Y7JuAZ.gif",
-    "title": "Gymkhanage",
-    "video": "https://img.itch.zone/aW1nLzM1MzAzMjguZ2lm/original/vf5My1.gif",
+    "thumb": "https://img.itch.zone/aW1nLzM2OTQ3NzEucG5n/315x250%23c/5%2FjMKu.png",
+    "title": "Tanky Panky",
+    "video": null,
     "scrapeWords": [
-      "Gymkhanage"
+      "Tanky",
+      "Panky"
     ]
   },
   {
@@ -67144,7 +67143,7 @@
   },
   {
     "author": "BahOuaiLogik",
-    "description": null,
+    "description": "The Perfect Snake : Ultimate",
     "genre": null,
     "id": "663517",
     "link": "https://superlogik.itch.io/perfect-snake",
@@ -67157,6 +67156,21 @@
     "scrapeWords": [
       "Perfect",
       "Snake"
+    ]
+  },
+  {
+    "author": "Chazaqstudios",
+    "description": "Jogo multi-player cooperativo de sobrevivência",
+    "genre": "Action",
+    "id": "663607",
+    "link": "https://chazaqstudios.itch.io/acai-squad",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2MjY2OTAucG5n/315x250%23c/HA449i.png",
+    "title": "Esquadrão açaí",
+    "video": null,
+    "scrapeWords": [
+      "Esquadrão",
+      "açaí"
     ]
   },
   {
@@ -67373,6 +67387,25 @@
     ]
   },
   {
+    "author": "bwsdeadhand",
+    "description": null,
+    "genre": "Adventure",
+    "id": "665618",
+    "link": "https://bwsdeadhand.itch.io/dead-hand",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2Mjc4NzMucG5n/315x250%23c/%2BhnQQq.png",
+    "title": "Dead Hand",
+    "video": null,
+    "scrapeWords": [
+      "Dead",
+      "Hand"
+    ]
+  },
+  {
     "author": "silvallis",
     "description": "A game about a splash of paint and size management",
     "genre": "Platformer",
@@ -67553,6 +67586,23 @@
     "scrapeWords": [
       "BADA",
       "BING"
+    ]
+  },
+  {
+    "author": "masrur_ms",
+    "description": "Worst game you'll ever play in your life. Don't play it. SERIOUSLY",
+    "genre": "Action",
+    "id": "668829",
+    "link": "https://masrur-ms.itch.io/quackrunsecretr9n7xx0sxtimst6tzk8qxygt1yc",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2MzE2NjcucG5n/315x250%23c/aQIyuS.png",
+    "title": "QuackRun",
+    "video": null,
+    "scrapeWords": [
+      "Quack",
+      "Run"
     ]
   },
   {
@@ -67895,6 +67945,24 @@
     ]
   },
   {
+    "author": "fe[d][e][v]",
+    "description": "Esquiva las rocas para evitar ser destruido!",
+    "genre": null,
+    "id": "671334",
+    "link": "https://fedev4.itch.io/spacerock",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2NTk5NDYucG5n/315x250%23c/lCZpN0.png",
+    "title": "Spacerock",
+    "video": null,
+    "scrapeWords": [
+      "Spacerock"
+    ]
+  },
+  {
     "author": "Cartridge Tilt Games",
     "description": "A short little hardcore retro platformer",
     "genre": "Platformer",
@@ -67923,6 +67991,26 @@
     "scrapeWords": [
       "Bucket",
       "Kicker"
+    ]
+  },
+  {
+    "author": "kzerot",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "671554",
+    "link": "https://kzerot.itch.io/fit-the-house",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2NjE4NDYucG5n/315x250%23c/Rpd6jw.png",
+    "title": "Fit the house!",
+    "video": null,
+    "scrapeWords": [
+      "Fit",
+      "the",
+      "house"
     ]
   },
   {
@@ -67978,7 +68066,7 @@
   },
   {
     "author": "Raphael Hawk",
-    "description": "A Simple 2D Platformer which goes out of control.",
+    "description": "Speedrun  a Simple 2D Platformer which goes out of control.",
     "genre": "Platformer",
     "id": "671764",
     "link": "https://raphael-hawk.itch.io/vicious",
@@ -68033,8 +68121,10 @@
     "genre": "Shooter",
     "id": "672569",
     "link": "https://kevindnf.itch.io/decomposition",
-    "platforms": null,
-    "thumb": null,
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2OTk1NjIucG5n/315x250%23c/6DH%2Fw6.png",
     "title": "Decomposition",
     "video": null,
     "scrapeWords": [
@@ -68076,6 +68166,23 @@
     ]
   },
   {
+    "author": "trust_me",
+    "description": "A rogue-like where you build up your forces into a human chain of death and rush through rooms until you reach the boss.",
+    "genre": "Action",
+    "id": "673221",
+    "link": "https://trust-me.itch.io/revolution-road",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3MDE1MTYucG5n/315x250%23c/KaGaji.png",
+    "title": "Revolution Road",
+    "video": null,
+    "scrapeWords": [
+      "Revolution",
+      "Road"
+    ]
+  },
+  {
     "author": "sikgames",
     "description": "A Godot demo project for a third person controller.",
     "genre": "Educational",
@@ -68100,10 +68207,9 @@
     "id": "673683",
     "link": "https://terragos.itch.io/dot-recall",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM2ODc5OTYucG5n/315x250%23c/3fZjnd.png",
+    "thumb": "https://img.itch.zone/aW1nLzM2OTQ2OTMucG5n/315x250%23c/OHUjSD.png",
     "title": "Dot Recall",
     "video": null,
     "scrapeWords": [
@@ -68125,6 +68231,112 @@
     "video": null,
     "scrapeWords": [
       "Extreminator"
+    ]
+  },
+  {
+    "author": "pixel-boy",
+    "description": "Explore a desert without running out of water",
+    "genre": "Adventure",
+    "id": "674237",
+    "link": "https://pixel-boy.itch.io/dry-path",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2OTEzMDAuZ2lm/315x250%23cm/idUy9e.gif",
+    "title": "Dry Path",
+    "video": "https://img.itch.zone/aW1nLzM2OTEzMDAuZ2lm/original/qes6de.gif",
+    "scrapeWords": [
+      "Dry",
+      "Path"
+    ]
+  },
+  {
+    "author": "SrKomodo",
+    "description": "you know what to do",
+    "genre": null,
+    "id": "674346",
+    "link": "https://srkomodo.itch.io/the-absurd-man",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2OTE1MzEucG5n/315x250%23c/S6xJ%2Bl.png",
+    "title": "The Absurd Man",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Absurd",
+      "Man"
+    ]
+  },
+  {
+    "author": "blackmadgames",
+    "description": "48-hour gamejam top-down shooter in which you guide souls through Purgatory",
+    "genre": "Shooter",
+    "id": "674441",
+    "link": "https://blackmadgames.itch.io/sacrifices",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2OTIyNjUucG5n/315x250%23c/j8t3ov.png",
+    "title": "Sacrifices must be made",
+    "video": null,
+    "scrapeWords": [
+      "Sacrifices",
+      "must",
+      "be",
+      "made"
+    ]
+  },
+  {
+    "author": "Timooffir",
+    "description": "The Fun Game I made For a Game Jam(In development still)",
+    "genre": "Action",
+    "id": "674626",
+    "link": "https://timooffir.itch.io/wall-n-roll",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2OTM2NjIucG5n/315x250%23c/Y7GZvY.png",
+    "title": "Wall 'N Roll",
+    "video": null,
+    "scrapeWords": [
+      "Wall",
+      "N",
+      "Roll"
+    ]
+  },
+  {
+    "author": "AikonCWD",
+    "description": "Entombed is an original atari's game. Now re-designed in Godot",
+    "genre": "Action",
+    "id": "675030",
+    "link": "https://aikoncwd.itch.io/re-entombed",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2OTY2NTUucG5n/315x250%23c/wWRiCx.png",
+    "title": "Re-Entombed",
+    "video": null,
+    "scrapeWords": [
+      "Re-Entombed"
+    ]
+  },
+  {
+    "author": "Milan",
+    "description": "A little spin on the old classic. Instead of food, the blue dots are bombs, and you have to evade them.",
+    "genre": "Action",
+    "id": "675448",
+    "link": "https://mikister2012.itch.io/reverse-snakes",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3MDAzOTAucG5n/315x250%23c/JAo9S3.png",
+    "title": "Reverse Snakes",
+    "video": null,
+    "scrapeWords": [
+      "Reverse",
+      "Snakes"
     ]
   },
   {
