@@ -6871,11 +6871,11 @@
     ]
   },
   {
-    "author": "Harri Monroe",
+    "author": "Harmony Monroe",
     "description": "20 Levels of Screen-Wrapping Arcade Action!",
     "genre": "Platformer",
     "id": "233533",
-    "link": "https://harrimonroe.itch.io/candy",
+    "link": "https://2dharmony.itch.io/candy",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMyMzE2NTUuZ2lm/315x250%23cm/SwE9EQ.gif",
     "title": "Candy Wrapper",
@@ -29475,6 +29475,22 @@
     ]
   },
   {
+    "author": "furrgroup",
+    "description": "The cute girl database.",
+    "genre": null,
+    "id": "411099",
+    "link": "https://furrgroup.itch.io/meet-the-girls",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3Nzc2MDIucG5n/315x250%23c/5tgk%2Fa.png",
+    "title": "Meet the Girls",
+    "video": null,
+    "scrapeWords": [
+      "Meet",
+      "the",
+      "Girls"
+    ]
+  },
+  {
     "author": "aterlamia",
     "description": null,
     "genre": null,
@@ -35522,25 +35538,6 @@
     "scrapeWords": [
       "Breakout",
       "Clone"
-    ]
-  },
-  {
-    "author": "RuFalcon",
-    "description": "Unfinished space opera",
-    "genre": "Action",
-    "id": "458371",
-    "link": "https://rufalcon.itch.io/space-guard",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzMjk2OTgucG5n/315x250%23c/0mehsY.png",
-    "title": "Space Guard",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Guard"
     ]
   },
   {
@@ -58364,11 +58361,11 @@
       "macOS"
     ],
     "thumb": null,
-    "title": "Space Attack - Ludum Dare 46",
+    "title": "Space Fight - Ludum Dare 46",
     "video": null,
     "scrapeWords": [
       "Space",
-      "Attack",
+      "Fight",
       "Ludum",
       "Dare",
       "46"
@@ -58937,11 +58934,11 @@
     ]
   },
   {
-    "author": "LoYan",
+    "author": "Cassie LoYan",
     "description": null,
     "genre": "Adventure",
     "id": "616768",
-    "link": "https://loyan.itch.io/projectmountain",
+    "link": "https://cassie-loyan.itch.io/projectmountain",
     "platforms": [
       "Windows",
       "Linux",
@@ -59710,7 +59707,7 @@
   },
   {
     "author": "AledCompany",
-    "description": null,
+    "description": "Deliver all the packages!",
     "genre": "Platformer",
     "id": "618973",
     "link": "https://aledcompany.itch.io/postcat",
@@ -61846,7 +61843,7 @@
   },
   {
     "author": "ASecondGuy",
-    "description": "Bulb n Run is a platformer with build in level editor.",
+    "description": "A platformer about lighting up an old mansion with build in level editor.",
     "genre": "Platformer",
     "id": "630599",
     "link": "https://asecondguy.itch.io/bulb-n-run",
@@ -62873,6 +62870,25 @@
     "video": null,
     "scrapeWords": [
       "Downfall"
+    ]
+  },
+  {
+    "author": "retronix",
+    "description": "Rescue the humans from the evil alien fiends!",
+    "genre": "Shooter",
+    "id": "636165",
+    "link": "https://retronix.itch.io/alien-fiends",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0MTM0OTUucG5n/315x250%23c/Gz0X8s.png",
+    "title": "Alien Fiends",
+    "video": null,
+    "scrapeWords": [
+      "Alien",
+      "Fiends"
     ]
   },
   {
@@ -65463,23 +65479,6 @@
     ]
   },
   {
-    "author": "fedev",
-    "description": "​Recoge los tres saquitos de leche y enfrenta al boss final para ganar!",
-    "genre": "Platformer",
-    "id": "650189",
-    "link": "https://fedevgd.itch.io/coffeeboy",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0ODczNjcucG5n/315x250%23c/OD48PN.png",
-    "title": "Coffeeboy",
-    "video": null,
-    "scrapeWords": [
-      "Coffeeboy"
-    ]
-  },
-  {
     "author": "Beelzebubbles",
     "description": "Multiplayer Vehicular Mayhem",
     "genre": "Action",
@@ -66263,7 +66262,7 @@
     ]
   },
   {
-    "author": "Shreyas",
+    "author": "Shreyas Rao",
     "description": "shoot-em-up",
     "genre": "Shooter",
     "id": "655385",
@@ -68326,6 +68325,25 @@
     ]
   },
   {
+    "author": "Reneator",
+    "description": "Free idle RPG about pure progress.",
+    "genre": null,
+    "id": "671404",
+    "link": "https://reneator.itch.io/progress-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NTgwNjMucG5n/315x250%23c/az3wXe.png",
+    "title": "Progress Game",
+    "video": null,
+    "scrapeWords": [
+      "Progress",
+      "Game"
+    ]
+  },
+  {
     "author": "DOA",
     "description": null,
     "genre": "Platformer",
@@ -68569,6 +68587,26 @@
     ]
   },
   {
+    "author": "ApeHardware",
+    "description": "The horror of multiple choice tests",
+    "genre": null,
+    "id": "672896",
+    "link": "https://apehardware.itch.io/please-accept-pattern",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NjQ4MDQuZ2lm/315x250%23cm/1r%2BXWe.gif",
+    "title": "The pattern compliance test",
+    "video": "https://img.itch.zone/aW1nLzM3NjQ4MDQuZ2lm/original/GClpti.gif",
+    "scrapeWords": [
+      "The",
+      "pattern",
+      "compliance",
+      "test"
+    ]
+  },
+  {
     "author": "trust_me",
     "description": "A rogue-like where you build up your forces into a human chain of death and rush through rooms until you reach the boss.",
     "genre": "Action",
@@ -68636,7 +68674,7 @@
     ]
   },
   {
-    "author": "TOPGamez",
+    "author": "Gabriel Rhodes",
     "description": null,
     "genre": "Platformer",
     "id": "673834",
@@ -69467,7 +69505,11 @@
     "genre": "Racing",
     "id": "677751",
     "link": "https://ultraarceus3.itch.io/race-race-revolution",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzM3Mjc5NDYucG5n/315x250%23c/F9UGXr.png",
     "title": "Race Race Revolution",
     "video": null,
@@ -69923,16 +69965,16 @@
     ]
   },
   {
-    "author": "MTBcelMare",
+    "author": "zixCode",
     "description": null,
     "genre": "Platformer",
     "id": "682059",
-    "link": "https://mtbcelmare.itch.io/pgt",
+    "link": "https://zixcode.itch.io/pgt",
     "platforms": [
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM3NTIwMTYucG5n/315x250%23c/fBw90M.png",
+    "thumb": "https://img.itch.zone/aW1nLzM3Njk1NjAucG5n/315x250%23c/2dQxS%2F.png",
     "title": "PILOTS,  GHOSTS AND TROPHIES",
     "video": null,
     "scrapeWords": [
@@ -70009,6 +70051,22 @@
       "F-",
       "Student",
       "[]"
+    ]
+  },
+  {
+    "author": "JHyde",
+    "description": "Metroidvania puzzle shooter.",
+    "genre": "Action",
+    "id": "682458",
+    "link": "https://jhyde.itch.io/antibody",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NTMwNjAucG5n/315x250%23c/kpbMEU.png",
+    "title": "Antibody",
+    "video": null,
+    "scrapeWords": [
+      "Antibody"
     ]
   },
   {
@@ -70095,7 +70153,7 @@
     ]
   },
   {
-    "author": "sage7",
+    "author": "Sage7",
     "description": "Escape from Damnation Island. There are two ways out. Only one will leave you with your life.",
     "genre": "Puzzle",
     "id": "682723",
@@ -70114,7 +70172,7 @@
     ]
   },
   {
-    "author": "intelligenced",
+    "author": "baan",
     "description": "Your kinda platformer...maybe",
     "genre": "Platformer",
     "id": "682736",
@@ -70189,14 +70247,14 @@
     "description": "A puzzle platformer",
     "genre": "Platformer",
     "id": "682894",
-    "link": "https://senhung.itch.io/two-orbs",
+    "link": "https://senhung.itch.io/two-powerful",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM3NTU2NTYucG5n/315x250%23c/aSuGzl.png",
-    "title": "Two Orbs",
-    "video": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3Nzc2MTguZ2lm/315x250%23cm/dgImIx.gif",
+    "title": "Two Powerful",
+    "video": "https://img.itch.zone/aW1nLzM3Nzc2MTguZ2lm/original/7DiFE8.gif",
     "scrapeWords": [
       "Two",
-      "Orbs"
+      "Powerful"
     ]
   },
   {
@@ -70424,6 +70482,25 @@
     ]
   },
   {
+    "author": "yatoimtop",
+    "description": "i'm feeling like i wanna grab the pearls",
+    "genre": "Adventure",
+    "id": "683877",
+    "link": "https://yatoimtop.itch.io/pearlgrabber",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NjEyNzEuanBn/315x250%23c/ig5Ur5.jpg",
+    "title": "Pearl Grabber",
+    "video": null,
+    "scrapeWords": [
+      "Pearl",
+      "Grabber"
+    ]
+  },
+  {
     "author": "rg98",
     "description": "RPG / Roguelike similar to greed mode from TBoI.",
     "genre": "Role Playing",
@@ -70468,6 +70545,181 @@
     "scrapeWords": [
       "Life",
       "Guard"
+    ]
+  },
+  {
+    "author": "jSchmalhofer",
+    "description": "A Racing Game that can be played by Humans and an AI Agent (e.g. to train using Reinforcement Learning)",
+    "genre": "Racing",
+    "id": "684784",
+    "link": "https://jschmalhofer.itch.io/racing-game-rl",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3Njc1MTYucG5n/315x250%23c/UgOzyw.png",
+    "title": "Racing Game for Reinforcement Learning of AI",
+    "video": null,
+    "scrapeWords": [
+      "Racing",
+      "Game",
+      "for",
+      "Reinforcement",
+      "Learning",
+      "of",
+      "AI"
+    ]
+  },
+  {
+    "author": "theLudovyc",
+    "description": null,
+    "genre": "Action",
+    "id": "685026",
+    "link": "https://theludovyc.itch.io/jamestla1",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3NjkxNjAucG5n/315x250%23c/apZIOc.png",
+    "title": "JamEstLa1",
+    "video": null,
+    "scrapeWords": [
+      "Jam",
+      "Est",
+      "La1"
+    ]
+  },
+  {
+    "author": "HI_TV",
+    "description": "a small endless game where you only have to dodge one obstacle.",
+    "genre": null,
+    "id": "685138",
+    "link": "https://hi-tv.itch.io/the-fast-and-the-fun",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3NzA3MjEucG5n/315x250%23c/emirCR.png",
+    "title": "the fast and the fun",
+    "video": null,
+    "scrapeWords": [
+      "the",
+      "fast",
+      "and",
+      "the",
+      "fun"
+    ]
+  },
+  {
+    "author": "Bloktic",
+    "description": "Use your shield to block projectiles and collect coins once again!",
+    "genre": "Action",
+    "id": "685143",
+    "link": "https://bloktic.itch.io/shield-redux",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NzAxNjMucG5n/315x250%23c/eh5kKp.png",
+    "title": "Shield Redux",
+    "video": null,
+    "scrapeWords": [
+      "Shield",
+      "Redux"
+    ]
+  },
+  {
+    "author": "replayrepublic",
+    "description": "It's a travesty!",
+    "genre": "Action",
+    "id": "685145",
+    "link": "https://replayrepublic.itch.io/gg11-helpert",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NzE0NjkucG5n/315x250%23c/42Eiv7.png",
+    "title": "Helper T and the Totally Unexpected Space Virus",
+    "video": null,
+    "scrapeWords": [
+      "Helper",
+      "T",
+      "and",
+      "the",
+      "Totally",
+      "Unexpected",
+      "Space",
+      "Virus"
+    ]
+  },
+  {
+    "author": "wolfweb123",
+    "description": "You're a planet trying to avoid being hit by meteors.",
+    "genre": "Simulation",
+    "id": "685287",
+    "link": "https://wolfweb123.itch.io/return-to-sender",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NzEwOTUucG5n/315x250%23c/4srk9V.png",
+    "title": "Return to Sender",
+    "video": null,
+    "scrapeWords": [
+      "Return",
+      "to",
+      "Sender"
+    ]
+  },
+  {
+    "author": "MinaKhalil",
+    "description": "Top-Down Maze game",
+    "genre": "Puzzle",
+    "id": "685843",
+    "link": "https://minakhalil.itch.io/gobear",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NzQ4OTIuanBn/315x250%23c/LX9QlY.jpg",
+    "title": "GoBear",
+    "video": null,
+    "scrapeWords": [
+      "Go",
+      "Bear"
+    ]
+  },
+  {
+    "author": "Supercherie",
+    "description": "A mental arithmetic game",
+    "genre": "Puzzle",
+    "id": "686237",
+    "link": "https://supercherie.itch.io/pathematical",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NzgwNDMucG5n/315x250%23c/V0LeXv.png",
+    "title": "Pathematical",
+    "video": null,
+    "scrapeWords": [
+      "Pathematical"
+    ]
+  },
+  {
+    "author": "kakoeimon",
+    "description": "Metal",
+    "genre": "Shooter",
+    "id": "686247",
+    "link": "https://kakoeimon.itch.io/the-rise-of-the-metal-god",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NzgwNjgucG5n/315x250%23c/03AID7.png",
+    "title": "The Rise of the Metal God.",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Rise",
+      "of",
+      "the",
+      "Metal",
+      "God"
     ]
   },
   {
