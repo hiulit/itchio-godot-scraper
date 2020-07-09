@@ -16534,7 +16534,7 @@
     ]
   },
   {
-    "author": "gamedevufscar",
+    "author": "GameDev UFSCar",
     "description": "O bisão da computação na correria da Universidade!",
     "genre": "Action",
     "id": "295693",
@@ -17381,7 +17381,7 @@
     ]
   },
   {
-    "author": "gamedevufscar",
+    "author": "GameDev UFSCar",
     "description": "A shooter where bullets bounce instead of despawning",
     "genre": "Shooter",
     "id": "301463",
@@ -36113,7 +36113,7 @@
     "description": null,
     "genre": "Action",
     "id": "461632",
-    "link": "https://kairuma.itch.io/loseyourhead",
+    "link": "https://kairumagames.itch.io/loseyourhead",
     "platforms": [
       "Windows",
       "Linux",
@@ -47415,7 +47415,9 @@
     "genre": "Puzzle",
     "id": "542185",
     "link": "https://zerozipzilch.itch.io/xyzdris",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzI4MjQ0OTgucG5n/315x250%23c/3mzg3h.png",
     "title": "XYZdris",
     "video": null,
@@ -50185,25 +50187,6 @@
     ]
   },
   {
-    "author": "kurishutofu",
-    "description": "Patch in to the BIGCOPR's mainframe and liberate your data.",
-    "genre": null,
-    "id": "562988",
-    "link": "https://kurishutofu.itch.io/patchin",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NTUwNDMucG5n/315x250%23c/OwTT1B.png",
-    "title": "patchIN",
-    "video": null,
-    "scrapeWords": [
-      "patch",
-      "IN"
-    ]
-  },
-  {
     "author": "cgcaruzo",
     "description": "A game made at the Rosario Global Game Jam 2020",
     "genre": null,
@@ -52819,11 +52802,11 @@
     ]
   },
   {
-    "author": "SHY Studios",
+    "author": "jadhasfuh",
     "description": "Dyslexia Mini-games",
     "genre": "Educational",
     "id": "583408",
-    "link": "https://shy-studios.itch.io/readnplay",
+    "link": "https://jadhasfuh.itch.io/readnplay",
     "platforms": [
       "Windows",
       "Linux",
@@ -53349,6 +53332,25 @@
     "video": null,
     "scrapeWords": [
       "Photobirb"
+    ]
+  },
+  {
+    "author": "toastylilghosty",
+    "description": null,
+    "genre": null,
+    "id": "588107",
+    "link": "https://toastylilghosty.itch.io/clean-up-act",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDQxMTMucG5n/315x250%23c/a3VBoU.png",
+    "title": "Clean Up Act",
+    "video": null,
+    "scrapeWords": [
+      "Clean",
+      "Up",
+      "Act"
     ]
   },
   {
@@ -54231,11 +54233,11 @@
     ]
   },
   {
-    "author": "SHY Studios",
+    "author": "jadhasfuh",
     "description": "How difficult can be buying a diet soda?",
     "genre": "Adventure",
     "id": "592571",
-    "link": "https://shy-studios.itch.io/diet-soda",
+    "link": "https://jadhasfuh.itch.io/diet-soda",
     "platforms": [
       "Windows",
       "Linux",
@@ -54423,7 +54425,7 @@
   },
   {
     "author": "Raffaele Picca",
-    "description": null,
+    "description": "Discover the depths of antarctica and find the missing pieces of an old machine.",
     "genre": "Platformer",
     "id": "593714",
     "link": "https://picster.itch.io/bottomless",
@@ -56234,7 +56236,7 @@
   },
   {
     "author": "Raffaele Picca",
-    "description": null,
+    "description": "Don't explode!",
     "genre": "Puzzle",
     "id": "604693",
     "link": "https://picster.itch.io/elite-monkey-pogo-eod",
@@ -60660,6 +60662,21 @@
     "video": null,
     "scrapeWords": [
       "Tank_Batlle"
+    ]
+  },
+  {
+    "author": "JustEpyx",
+    "description": "The Easter Egg game",
+    "genre": "Platformer",
+    "id": "623870",
+    "link": "https://justepyx.itch.io/amirun",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM4MDY4NDEucG5n/315x250%23c/571znb.png",
+    "title": "AmiRun",
+    "video": null,
+    "scrapeWords": [
+      "Ami",
+      "Run"
     ]
   },
   {
@@ -65147,11 +65164,11 @@
     ]
   },
   {
-    "author": "SHY Studios",
+    "author": "jadhasfuh",
     "description": "LIT game",
     "genre": "Strategy",
     "id": "647449",
-    "link": "https://shy-studios.itch.io/lit",
+    "link": "https://jadhasfuh.itch.io/lit",
     "platforms": [
       "Windows",
       "Linux",
@@ -66123,6 +66140,7 @@
     "id": "654710",
     "link": "https://apehardware.itch.io/and-then-we-decayed",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1NDQ2MjAuZ2lm/315x250%23cm/Dvz3DN.gif",
@@ -66373,6 +66391,26 @@
       "Bullet",
       "Of",
       "Memories"
+    ]
+  },
+  {
+    "author": "SRC Studios",
+    "description": "A WIP game about wormholes",
+    "genre": "Puzzle",
+    "id": "656112",
+    "link": "https://soalreapercaptain.itch.io/wormholes-early-alpha",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MTExNjEucG5n/315x250%23c/dM5aaf.png",
+    "title": "WormHoles_Alpha",
+    "video": null,
+    "scrapeWords": [
+      "Worm",
+      "Holes_Alpha"
     ]
   },
   {
@@ -67027,8 +67065,12 @@
     "genre": "Platformer",
     "id": "660517",
     "link": "https://kijo.itch.io/orbs",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM1NTQ0MTcucG5n/315x250%23c/hCKDrW.png",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MDY3ODcucG5n/315x250%23c/ASRDN8.png",
     "title": "Orbs",
     "video": null,
     "scrapeWords": [
@@ -67343,23 +67385,6 @@
     "scrapeWords": [
       "Zombie",
       "land"
-    ]
-  },
-  {
-    "author": "MasTho0128",
-    "description": "es una alpha 0.8  del juego que se esta desarrollando.",
-    "genre": null,
-    "id": "663386",
-    "link": "https://mastho0128.itch.io/revenge-retunrs-the-game",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM2NDA5MzcucG5n/315x250%23c/0DI4q%2F.png",
-    "title": "Revenge Retunrs The Game",
-    "video": null,
-    "scrapeWords": [
-      "Revenge",
-      "Retunrs",
-      "The",
-      "Game"
     ]
   },
   {
@@ -68595,7 +68620,7 @@
   {
     "author": "ApeHardware",
     "description": "The horror of multiple choice tests",
-    "genre": null,
+    "genre": "Interactive Fiction",
     "id": "672896",
     "link": "https://apehardware.itch.io/please-accept-pattern",
     "platforms": [
@@ -69896,6 +69921,21 @@
     ]
   },
   {
+    "author": "Space Bass Software",
+    "description": null,
+    "genre": "Adventure",
+    "id": "680760",
+    "link": "https://spacebasssoft.itch.io/cult-mystery",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3NDEyOTAucG5n/315x250%23c/8rVNHQ.png",
+    "title": "Cult Mystery",
+    "video": null,
+    "scrapeWords": [
+      "Cult",
+      "Mystery"
+    ]
+  },
+  {
     "author": "Otwald",
     "description": null,
     "genre": "Action",
@@ -70818,6 +70858,25 @@
     ]
   },
   {
+    "author": "Fat Gem",
+    "description": "2D action platformer set in a bizarre world",
+    "genre": "Platformer",
+    "id": "685983",
+    "link": "https://fat-gem.itch.io/primal-light",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NzcwMjEuanBn/315x250%23c/0ShiL0.jpg",
+    "title": "Primal Light",
+    "video": null,
+    "scrapeWords": [
+      "Primal",
+      "Light"
+    ]
+  },
+  {
     "author": "ProHiScore",
     "description": "Slide the Cake to Catch the Star, what could possibly be more fun than that?!",
     "genre": "Puzzle",
@@ -71071,7 +71130,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM3OTIxNDkucG5n/315x250%23c/sFSyHa.png",
+    "thumb": "https://img.itch.zone/aW1nLzM4MDU2NzgucG5n/315x250%23c/0xWDnx.png",
     "title": "Pong-Out",
     "video": null,
     "scrapeWords": [
@@ -71086,7 +71145,8 @@
     "link": "https://charliegray.itch.io/snakebomb",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM3OTUxMDcucG5n/315x250%23c/gzLw1F.png",
     "title": "Snakebomb",
@@ -71143,6 +71203,20 @@
       "ultimate",
       "lock",
       "unlocker"
+    ]
+  },
+  {
+    "author": "ElliotBak3r",
+    "description": "Sword slashing satisfaction",
+    "genre": "Action",
+    "id": "688863",
+    "link": "https://elliotbak3r.itch.io/slashio",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM3OTc1NDEucG5n/315x250%23c/7H5Dn6.png",
+    "title": "Slash.io",
+    "video": null,
+    "scrapeWords": [
+      "Slashio"
     ]
   },
   {
@@ -71214,7 +71288,7 @@
   },
   {
     "author": "hpnrep6",
-    "description": null,
+    "description": "Short 3D horror game",
     "genre": null,
     "id": "689404",
     "link": "https://hpnrep6.itch.io/paralysis",
@@ -71265,6 +71339,25 @@
     ]
   },
   {
+    "author": "nezvers",
+    "description": null,
+    "genre": "Platformer",
+    "id": "689728",
+    "link": "https://nezvers.itch.io/bombario",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MDExMTkucG5n/315x250%23c/%2Fiwn%2FU.png",
+    "title": "Bombario (open-sourced)",
+    "video": null,
+    "scrapeWords": [
+      "Bombario",
+      "open-sourced"
+    ]
+  },
+  {
     "author": "Pliavi",
     "description": "A infinite runner of a guy against the Death and spikes",
     "genre": "Platformer",
@@ -71281,6 +71374,90 @@
     "scrapeWords": [
       "Live",
       "Runner"
+    ]
+  },
+  {
+    "author": "jraffdev",
+    "description": "Avoid obstacles on this trashy road, earn tokens, unlock new vehicles.",
+    "genre": null,
+    "id": "690371",
+    "link": "https://jraffdev.itch.io/garbage-lane",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MDUwNjQucG5n/315x250%23c/GQvXug.png",
+    "title": "Garbage Lane",
+    "video": null,
+    "scrapeWords": [
+      "Garbage",
+      "Lane"
+    ]
+  },
+  {
+    "author": "CostaNaArea",
+    "description": "help me",
+    "genre": "Simulation",
+    "id": "690802",
+    "link": "https://costanaarea.itch.io/asteroid",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MDgyMzAucG5n/315x250%23c/rp3sIn.png",
+    "title": "Asteroid",
+    "video": null,
+    "scrapeWords": [
+      "Asteroid"
+    ]
+  },
+  {
+    "author": "Kodar",
+    "description": "Tetrisu for Final Assigment",
+    "genre": "Puzzle",
+    "id": "690839",
+    "link": "https://kodar.itch.io/tetrisu",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MDkyNzMucG5n/315x250%23c/bZZVNK.png",
+    "title": "Tetrisu",
+    "video": null,
+    "scrapeWords": [
+      "Tetrisu"
+    ]
+  },
+  {
+    "author": "Andrew Cara",
+    "description": "You only have only 20 seconds during which you must dash to the factory to be able to repair a critical damage.",
+    "genre": "Platformer",
+    "id": "690921",
+    "link": "https://andyscrab.itch.io/factory-dash",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM4MDkwNjUuanBn/315x250%23c/o6fJA6.jpg",
+    "title": "Factory Dash",
+    "video": null,
+    "scrapeWords": [
+      "Factory",
+      "Dash"
+    ]
+  },
+  {
+    "author": "CaptainSwing817",
+    "description": "Fly like a paper bird.",
+    "genre": "Simulation",
+    "id": "690948",
+    "link": "https://captainswing817.itch.io/target-craft",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MDkzNTcucG5n/315x250%23c/0HkUTS.png",
+    "title": "Target Craft",
+    "video": null,
+    "scrapeWords": [
+      "Target",
+      "Craft"
     ]
   },
   {
