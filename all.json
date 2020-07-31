@@ -43120,7 +43120,7 @@
   },
   {
     "author": "theLudovyc",
-    "description": null,
+    "description": "Inspired by Threes and 2048",
     "genre": "Puzzle",
     "id": "509927",
     "link": "https://theludovyc.itch.io/tiktik",
@@ -45554,25 +45554,21 @@
     ]
   },
   {
-    "author": "AzuleGames",
-    "description": "Solve the puzzle by exploring and obtaining resources in a cubic world",
-    "genre": "Puzzle",
-    "id": "532898",
-    "link": "https://azulegames.itch.io/pocketworlds",
+    "author": "AniMerrill Productions",
+    "description": "Top down shooter where you have to kill evil interlopers and save the multiverse!",
+    "genre": "Shooter",
+    "id": "532847",
+    "link": "https://animerrill.itch.io/timeshifter",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MDAwNTUuZ2lm/315x250%23cm/aBlr8D.gif",
-    "title": "PocketWorlds - Explore the cubic worlds",
-    "video": "https://img.itch.zone/aW1nLzI4MDAwNTUuZ2lm/original/mbSNr9.gif",
+    "thumb": "https://img.itch.zone/aW1nLzI3ODQwMTIucG5n/315x250%23c/KGw90I.png",
+    "title": "Timeshifter",
+    "video": null,
     "scrapeWords": [
-      "Pocket",
-      "Worlds",
-      "Explore",
-      "the",
-      "cubic",
-      "worlds"
+      "Timeshifter"
     ]
   },
   {
@@ -49177,11 +49173,11 @@
     ]
   },
   {
-    "author": "DamieOne",
+    "author": "NZkiwi3",
     "description": "Adventure RPG",
     "genre": "Adventure",
     "id": "558321",
-    "link": "https://damieone.itch.io/into-the-quest",
+    "link": "https://nzkiwi3.itch.io/into-the-quest",
     "platforms": [
       "Windows",
       "Linux",
@@ -49287,6 +49283,26 @@
       "Suicide",
       "Sn",
       "AIk"
+    ]
+  },
+  {
+    "author": "zacryol",
+    "description": "An open source word guessing game with fully customizable entries",
+    "genre": "Puzzle",
+    "id": "559331",
+    "link": "https://zacryol.itch.io/spindle-of-serendipity",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI5OTkwOTQucG5n/315x250%23c/P8%2FZUN.png",
+    "title": "spindle of serendipity",
+    "video": null,
+    "scrapeWords": [
+      "spindle",
+      "of",
+      "serendipity"
     ]
   },
   {
@@ -49401,8 +49417,7 @@
     "id": "560205",
     "link": "https://ivan-tigan.itch.io/reckless",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5NDI1NDcucG5n/315x250%23c/4OU6Z0.png",
     "title": "RECKLESS",
@@ -61183,7 +61198,7 @@
   },
   {
     "author": "theLudovyc",
-    "description": null,
+    "description": "Inspired by Zelda and LookYourFuel",
     "genre": "Adventure",
     "id": "629256",
     "link": "https://theludovyc.itch.io/solocodejam4",
@@ -61539,14 +61554,14 @@
   },
   {
     "author": "Yaann",
-    "description": "A 2.5D top down shooter based on the Hotline Miami series",
+    "description": "A 2.5D top down shooter based in the Hotline Miami universe",
     "genre": "Action",
     "id": "630934",
     "link": "https://yaann.itch.io/missed-calls",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM0MzY5MjcucG5n/315x250%23c/wbfNRf.png",
+    "thumb": "https://img.itch.zone/aW1nLzM5NjY0MTEucG5n/315x250%23c/cTnyU4.png",
     "title": "Missed Calls",
     "video": null,
     "scrapeWords": [
@@ -66829,11 +66844,13 @@
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1NTM0NzYucG5n/315x250%23c/H2GwM2.png",
-    "title": "Pinball Quest",
+    "title": "Pinball Quest for PGD00",
     "video": null,
     "scrapeWords": [
       "Pinball",
-      "Quest"
+      "Quest",
+      "for",
+      "PGD00"
     ]
   },
   {
@@ -68589,6 +68606,22 @@
     "scrapeWords": [
       "Dino",
       "Jump"
+    ]
+  },
+  {
+    "author": "Pseud0",
+    "description": "Second annual MoonMoon game jam submission",
+    "genre": "Action",
+    "id": "673403",
+    "link": "https://pseud0.itch.io/9ine",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM2ODMxNTYucG5n/315x250%23c/b2N2vp.png",
+    "title": "9ine",
+    "video": null,
+    "scrapeWords": [
+      "9ine"
     ]
   },
   {
@@ -71713,6 +71746,25 @@
     "scrapeWords": [
       "Garbage",
       "Lane"
+    ]
+  },
+  {
+    "author": "A_Sandwich",
+    "description": "Geometry Pew is a chaotic top-down wave shooter! Can you survive as you upgrade your ship and go for the high score?!",
+    "genre": "Shooter",
+    "id": "690794",
+    "link": "https://a-sandwich.itch.io/geometry-pew",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NjIxNDkucG5n/315x250%23c/k7zVdj.png",
+    "title": "Geometry Pew",
+    "video": null,
+    "scrapeWords": [
+      "Geometry",
+      "Pew"
     ]
   },
   {
@@ -75762,22 +75814,6 @@
     ]
   },
   {
-    "author": "YiğiXGames",
-    "description": null,
-    "genre": "Platformer",
-    "id": "701749",
-    "link": "https://yigixgames.itch.io/platboyer",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": null,
-    "title": "Platboyer",
-    "video": null,
-    "scrapeWords": [
-      "Platboyer"
-    ]
-  },
-  {
     "author": "24hrs Studio",
     "description": "It´s a normal platformer. Your only misson is to reach the portal to the cyber world and defeat all enemys on your way.",
     "genre": "Platformer",
@@ -75988,6 +76024,22 @@
     "scrapeWords": [
       "Thousand",
       "Tries"
+    ]
+  },
+  {
+    "author": "Joakker",
+    "description": "A small action platformer demo",
+    "genre": "Adventure",
+    "id": "702905",
+    "link": "https://joakker.itch.io/rebel-zen",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MDI5MTgucG5n/315x250%23c/gh87Rd.png",
+    "title": "Rebel-Zen",
+    "video": null,
+    "scrapeWords": [
+      "Rebel-Zen"
     ]
   },
   {
@@ -76775,6 +76827,27 @@
     ]
   },
   {
+    "author": "technicat",
+    "description": "Godot Third Person Shooter Demo",
+    "genre": null,
+    "id": "706964",
+    "link": "https://technicat.itch.io/godot-third-person-shooter-demo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MTA4NjEucG5n/315x250%23c/bL2nwV.png",
+    "title": "Godot Third Person Shooter Demo",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Third",
+      "Person",
+      "Shooter"
+    ]
+  },
+  {
     "author": "Ace_X6",
     "description": "A short minimalist fps-platformer made in Godot",
     "genre": "Shooter",
@@ -76799,8 +76872,7 @@
     "id": "707034",
     "link": "https://kato-korolchenko.itch.io/water-drop",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5MTk5ODcucG5n/315x250%23c/vE7uN%2F.png",
     "title": "Water drop",
@@ -76866,6 +76938,24 @@
     ]
   },
   {
+    "author": "technicat",
+    "description": "Godot demo",
+    "genre": "Platformer",
+    "id": "707452",
+    "link": "https://technicat.itch.io/godot-2d-kinematic-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5MTM0MzQucG5n/315x250%23c/84Zdvk.png",
+    "title": "Godot 2D Kinematic Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "2",
+      "D",
+      "Kinematic",
+      "Platformer"
+    ]
+  },
+  {
     "author": "jp00p",
     "description": "Best boss I ever had",
     "genre": "Card Game",
@@ -76918,6 +77008,21 @@
       "Only",
       "60",
       "Seconds"
+    ]
+  },
+  {
+    "author": "#DEFINE AWESOME;",
+    "description": null,
+    "genre": null,
+    "id": "708615",
+    "link": "https://define-awesome.itch.io/knightslide",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5MjYxMzcucG5n/315x250%23c/z%2FExf8.png",
+    "title": "KnightSlide",
+    "video": null,
+    "scrapeWords": [
+      "Knight",
+      "Slide"
     ]
   },
   {
@@ -77059,6 +77164,21 @@
     "video": null,
     "scrapeWords": [
       "amazeing"
+    ]
+  },
+  {
+    "author": "technicat",
+    "description": "Godot pong demo",
+    "genre": null,
+    "id": "710112",
+    "link": "https://technicat.itch.io/godot-pong",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5MzA2MzEucG5n/315x250%23c/cAe1tC.png",
+    "title": "Godot Pong",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Pong"
     ]
   },
   {
@@ -77276,6 +77396,33 @@
     ]
   },
   {
+    "author": "HackerHenry",
+    "description": "NightBlub is a Neon Themed Pinball game with interesting mechanics. Made with Godot.",
+    "genre": null,
+    "id": "711130",
+    "link": "https://hackerhenry.itch.io/nightbulb",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NjY5MDcucG5n/315x250%23c/u0R2ZY.png",
+    "title": "NightBulb Demo Version -- TheMostUniquePinballGameEver",
+    "video": null,
+    "scrapeWords": [
+      "Night",
+      "Bulb",
+      "Version",
+      "--",
+      "The",
+      "Most",
+      "Unique",
+      "Pinball",
+      "Game",
+      "Ever"
+    ]
+  },
+  {
     "author": "gamepatio",
     "description": "action",
     "genre": "Action",
@@ -77467,18 +77614,39 @@
   },
   {
     "author": "pedrozox",
-    "description": "A breakout-like learning project.",
+    "description": "A breakout-like monster-slaying retro-inspired game",
     "genre": "Action",
     "id": "711811",
     "link": "https://pedrozox.itch.io/arkaman",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM5NDcwMDQucG5n/315x250%23c/TgnGMP.png",
+    "thumb": "https://img.itch.zone/aW1nLzM5Njg2MDUucG5n/315x250%23c/HJWCZh.png",
     "title": "Arkaman",
     "video": null,
     "scrapeWords": [
       "Arkaman"
+    ]
+  },
+  {
+    "author": "Wizard of Ox",
+    "description": "Alive or dead, you're needed",
+    "genre": "Adventure",
+    "id": "711938",
+    "link": "https://wizard-of-ox.itch.io/spirited-awol",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NDY2ODEucG5n/315x250%23c/jERICp.png",
+    "title": "Spirited Awol (Prototype)",
+    "video": null,
+    "scrapeWords": [
+      "Spirited",
+      "Awol",
+      "Prototype"
     ]
   },
   {
@@ -77488,8 +77656,7 @@
     "id": "712073",
     "link": "https://slavjuan.itch.io/synthshooter",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5NDM4MzMucG5n/315x250%23c/QFs9bF.png",
     "title": "SynthShooter",
@@ -77514,6 +77681,26 @@
     "scrapeWords": [
       "Chess",
       "Godot"
+    ]
+  },
+  {
+    "author": "MagellanicGames",
+    "description": "A first-person fantasy RPG",
+    "genre": "Role Playing",
+    "id": "712160",
+    "link": "https://magellanicgames.itch.io/heir-of-eminence",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NjQyNzgucG5n/315x250%23c/5lDxMs.png",
+    "title": "Heir of Eminence",
+    "video": null,
+    "scrapeWords": [
+      "Heir",
+      "of",
+      "Eminence"
     ]
   },
   {
@@ -77623,6 +77810,24 @@
     ]
   },
   {
+    "author": "Hisham Sayd",
+    "description": "Control your spaceship and survive the wilderness of space till you reach your destination!",
+    "genre": "Strategy",
+    "id": "712877",
+    "link": "https://gamedev-suite.itch.io/command-centre-ifrit",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NTY0MDQucG5n/315x250%23c/x44dZE.png",
+    "title": "Command Centre : Ifrit",
+    "video": null,
+    "scrapeWords": [
+      "Command",
+      "Centre",
+      "Ifrit"
+    ]
+  },
+  {
     "author": "JafCraze",
     "description": "How high can this UFO go?",
     "genre": null,
@@ -77678,8 +77883,8 @@
     "id": "713207",
     "link": "https://lordombro.itch.io/bvunny",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5NTIyNDQucG5n/315x250%23c/lb%2BCvp.png",
     "title": "Bvunnyhop",
@@ -77706,6 +77911,45 @@
       "Climb",
       "3",
       "D"
+    ]
+  },
+  {
+    "author": "Iranon",
+    "description": "A little Godot project originally started for the first Let's Code Games game jam.",
+    "genre": null,
+    "id": "713403",
+    "link": "https://iranon.itch.io/set-the-world-on-fire",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NjE2OTMuanBn/315x250%23c/M6Hdga.jpg",
+    "title": "Set The World On Fire",
+    "video": null,
+    "scrapeWords": [
+      "Set",
+      "The",
+      "World",
+      "On",
+      "Fire"
+    ]
+  },
+  {
+    "author": "kakoeimon",
+    "description": null,
+    "genre": "Platformer",
+    "id": "713775",
+    "link": "https://kakoeimon.itch.io/buildres",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NTQ5NDIucG5n/315x250%23c/G2Sh%2F6.png",
+    "title": "Buildres",
+    "video": null,
+    "scrapeWords": [
+      "Buildres"
     ]
   },
   {
@@ -77778,6 +78022,130 @@
     "scrapeWords": [
       "Castle",
       "Warfare"
+    ]
+  },
+  {
+    "author": "krugdunning",
+    "description": "ChillGameDevs Game Jam Game",
+    "genre": "Action",
+    "id": "714444",
+    "link": "https://krugdunning.itch.io/sas",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NTk0ODgucG5n/315x250%23c/iGKMdA.png",
+    "title": "Slaughter at Salem",
+    "video": null,
+    "scrapeWords": [
+      "Slaughter",
+      "at",
+      "Salem"
+    ]
+  },
+  {
+    "author": "Alexandre B. L.",
+    "description": "It's a clicker game about coffe.",
+    "genre": null,
+    "id": "714745",
+    "link": "https://alexandrebl.itch.io/coffe-clicker",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NjExNTgucG5n/315x250%23c/cNuUIu.png",
+    "title": "Café Clicker",
+    "video": null,
+    "scrapeWords": [
+      "Café",
+      "Clicker"
+    ]
+  },
+  {
+    "author": "theLudovyc",
+    "description": "Like https://mynoise.net hear what you create with Simon !",
+    "genre": "Puzzle",
+    "id": "714962",
+    "link": "https://theludovyc.itch.io/jamestla2",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NjI1MjUuZ2lm/315x250%23cm/lu3Vnv.gif",
+    "title": "JamEstLa2",
+    "video": "https://img.itch.zone/aW1nLzM5NjI1MjUuZ2lm/original/wFUr8a.gif",
+    "scrapeWords": [
+      "Jam",
+      "Est",
+      "La2"
+    ]
+  },
+  {
+    "author": "1lucas_",
+    "description": "Reach the end of the level by changing the gravity of your character.",
+    "genre": "Platformer",
+    "id": "715261",
+    "link": "https://1lucas-01.itch.io/gravity-changer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NjQyNjcucG5n/315x250%23c/Ayt9Qm.png",
+    "title": "Gravity Changer",
+    "video": null,
+    "scrapeWords": [
+      "Gravity",
+      "Changer"
+    ]
+  },
+  {
+    "author": "wishopt",
+    "description": "Breakout with additional options that make it weird",
+    "genre": null,
+    "id": "715925",
+    "link": "https://wishopt.itch.io/weird-breakout",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NjgyMjUucG5n/315x250%23c/HXn3wX.png",
+    "title": "Weird Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Weird",
+      "Breakout"
+    ]
+  },
+  {
+    "author": "Mota",
+    "description": null,
+    "genre": "Adventure",
+    "id": "716162",
+    "link": "https://gmota.itch.io/bread-scape",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5Njk2MDEucG5n/315x250%23c/ia4JoD.png",
+    "title": "Bread Scape",
+    "video": null,
+    "scrapeWords": [
+      "Bread",
+      "Scape"
+    ]
+  },
+  {
+    "author": "jp00p",
+    "description": "Can you escape Deep Space Nine in time?",
+    "genre": "Platformer",
+    "id": "716414",
+    "link": "https://jp00p.itch.io/bashirs-accident",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NzA5MTYucG5n/315x250%23c/WQtguw.png",
+    "title": "Bashir's Accident",
+    "video": null,
+    "scrapeWords": [
+      "Bashirs",
+      "Accident"
     ]
   },
   {
