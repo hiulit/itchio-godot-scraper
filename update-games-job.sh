@@ -1,8 +1,10 @@
 #!/bin/bash
 
-PATH=/usr/local/opt/python/libexec/bin:/Users/hiulit/.nvm/versions/node/v10.4.1/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/hiulit/Library/Android/sdk/emulator:/Users/hiulit/Library/Android/sdk/tools:/Users/hiulit/Library/Android/sdk/tools/bin:/Users/hiulit/Library/Android/sdk/platform-tools
+source ".env.sh"
 
-readonly SCRIPT_DIR="/Users/hiulit/Documents/GitHub/itchio-scraper"
+# PATH="$ENV_PATH"
+
+readonly SCRIPT_PATH="$ENV_SCRIPT_PATH"
 readonly FILES_ARRAY=(
     "all.json"
 )
@@ -27,8 +29,10 @@ echo "---- START ----"
 echo
 echo "$(date "+%Y-%m-%d %H:%M")"
 echo
+eval ssh-add -K "$ENV_SSH_PRIVATE_KEY_PATH"
+echo
 
-cd "$SCRIPT_DIR"
+cd "$SCRIPT_PATH"
 
 echo "Stash changes ..."
 echo
