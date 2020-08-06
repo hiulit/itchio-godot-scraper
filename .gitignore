@@ -1,4 +1,4 @@
-.env.sh
+.env
 *.log
 .tmp/
 node_modules/

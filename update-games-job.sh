@@ -1,8 +1,6 @@
 #!/bin/bash
 
-source ".env.sh"
-
-# PATH="$ENV_PATH"
+source ".env"
 
 readonly SCRIPT_PATH="$ENV_SCRIPT_PATH"
 readonly FILES_ARRAY=(
@@ -13,7 +11,6 @@ CHANGES_ARRAY=()
 FILES_FOUND=0
 
 function ctrl_c() {
-    # echo "Trapped CTRL-C"
     echo >&2
     echo >&2
     echo "Cancelled by the user!" >&2

@@ -2,7 +2,7 @@
 
 # This is an example environment variables file.
 # To use it, add a dot '.' at the beginning of this file.
-# (e.g. ".env.sh")
+# (e.g. ".env")
 
 # The full path to the 'update-games-job.sh' path.
 ENV_SCRIPT_PATH=""
