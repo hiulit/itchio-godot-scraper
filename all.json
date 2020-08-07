@@ -33216,6 +33216,24 @@
     ]
   },
   {
+    "author": "Lulullia",
+    "description": "Destroy all enemies with your superhot wave!",
+    "genre": "Shooter",
+    "id": "443408",
+    "link": "https://luneal-labs.itch.io/heatwave",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyNjIzNTUuZ2lm/315x250%23cm/ZwAONU.gif",
+    "title": "HEATWAVE",
+    "video": "https://img.itch.zone/aW1nLzIyNjIzNTUuZ2lm/original/gdR1l6.gif",
+    "scrapeWords": [
+      "HEATWAVE"
+    ]
+  },
+  {
     "author": "WatDowTal",
     "description": "A game made for the Discord Hack Week",
     "genre": "Platformer",
@@ -47589,6 +47607,22 @@
     ]
   },
   {
+    "author": "EbrahimDev",
+    "description": null,
+    "genre": "Action",
+    "id": "546994",
+    "link": "https://ebrahimdev.itch.io/way-to-hell",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NTYxNDMucG5n/315x250%23c/JEtJ72.png",
+    "title": "Way To Hell",
+    "video": null,
+    "scrapeWords": [
+      "Way",
+      "To",
+      "Hell"
+    ]
+  },
+  {
     "author": "RVenson",
     "description": "An unfinished jam game featuring IT Crowd scene",
     "genre": "Fighting",
@@ -56965,7 +56999,7 @@
     "description": "A random Godot game",
     "genre": "Platformer",
     "id": "610783",
-    "link": "https://team-lightning.itch.io/mineformer",
+    "link": "https://team-lightning.itch.io/mineformer-the-game",
     "platforms": [
       "Windows",
       "macOS",
@@ -60138,23 +60172,6 @@
     "scrapeWords": [
       "Solar",
       "Rogue"
-    ]
-  },
-  {
-    "author": "svenar",
-    "description": "A mining game where you play as a cat.",
-    "genre": "Adventure",
-    "id": "620687",
-    "link": "https://svenar.itch.io/minecat",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMyOTk3NjgucG5n/315x250%23c/xuHOQD.png",
-    "title": "Minecat",
-    "video": null,
-    "scrapeWords": [
-      "Minecat"
     ]
   },
   {
@@ -63344,12 +63361,7 @@
     "genre": "Adventure",
     "id": "640485",
     "link": "https://pixeltrain.itch.io/student-quest",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM2MzY1MzQucG5n/315x250%23c/QJBuaS.png",
     "title": "Student Quest",
     "video": null,
@@ -66888,6 +66900,25 @@
     ]
   },
   {
+    "author": "TheMGV",
+    "description": "3D VHS-Style Horror Game based on the Elevator Ritual",
+    "genre": "Simulation",
+    "id": "659689",
+    "link": "https://themgv.itch.io/the-elevator-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMDQ0MDIucG5n/315x250%23c/QshuyL.png",
+    "title": "The Elevator Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Elevator",
+      "Game"
+    ]
+  },
+  {
     "author": "KS Game Studio",
     "description": "Play as a recruit and drive as far as you can and avoid hitting traffic",
     "genre": "Racing",
@@ -70308,7 +70339,9 @@
     "genre": "Platformer",
     "id": "681675",
     "link": "https://uprun.itch.io/fly-dragon",
-    "platforms": null,
+    "platforms": [
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzM3NDgwNDcucG5n/315x250%23c/0MWC1D.png",
     "title": "Dragon Delta",
     "video": null,
@@ -72222,8 +72255,7 @@
     "id": "692657",
     "link": "https://hakekat.itch.io/stranger-labyrinth",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM4MjAzMDcucG5n/315x250%23c/0%2B5yNg.png",
     "title": "Stranger Labyrinth",
@@ -72672,13 +72704,11 @@
     "link": "https://redteapot.itch.io/lost-signal",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM4ODU2NjcuZ2lm/315x250%23cm/56Ch2p.gif",
-    "title": "Lost Signal: Jam Edition",
+    "title": "Lost Signal",
     "video": "https://img.itch.zone/aW1nLzM4ODU2NjcuZ2lm/original/TktIMh.gif",
     "scrapeWords": [
       "Lost",
-      "Signal",
-      "Jam",
-      "Edition"
+      "Signal"
     ]
   },
   {
@@ -76271,7 +76301,8 @@
     "id": "702905",
     "link": "https://joakker.itch.io/rebel-zen",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5MDI5MTgucG5n/315x250%23c/gh87Rd.png",
     "title": "Rebel-Zen",
@@ -76796,7 +76827,7 @@
     ]
   },
   {
-    "author": "nadimintisarvani",
+    "author": "Mana",
     "description": "A journey during quarantine",
     "genre": "Visual Novel",
     "id": "706166",
@@ -78628,6 +78659,25 @@
     ]
   },
   {
+    "author": "Iguana Mercenary",
+    "description": "Board version of the game 'Market Dominion'",
+    "genre": null,
+    "id": "716943",
+    "link": "https://iguanamercenary.itch.io/md-board-edition",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NzQwMjQucG5n/315x250%23c/MvxAdB.png",
+    "title": "Market Dominion: Board Edition",
+    "video": null,
+    "scrapeWords": [
+      "Market",
+      "Dominion",
+      "Board",
+      "Edition"
+    ]
+  },
+  {
     "author": "IcefoxZettai",
     "description": "The classic game, now more personal!",
     "genre": "Shooter",
@@ -79090,6 +79140,24 @@
     ]
   },
   {
+    "author": "Vasilis Chonianakis",
+    "description": null,
+    "genre": "Survival",
+    "id": "721841",
+    "link": "https://negator2vc.itch.io/a-dying-star",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMDMwODUucG5n/315x250%23c/R1RBfZ.png",
+    "title": "A Dying Star",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Dying",
+      "Star"
+    ]
+  },
+  {
     "author": "SnazzyStudio",
     "description": "Collect memories to remain in this world.",
     "genre": "Platformer",
@@ -79117,6 +79185,116 @@
     "scrapeWords": [
       "Bug",
       "Sect"
+    ]
+  },
+  {
+    "author": "Hedi Dev Studio",
+    "description": null,
+    "genre": "Adventure",
+    "id": "722130",
+    "link": "https://hedi-dev-studio.itch.io/dora-hafsi-goken-storm-project-files-source-code",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMDQ2NDYucG5n/315x250%23c/pr%2BiwT.png",
+    "title": "Dora Hafsi : Goken Storm -Project Files & Source Code",
+    "video": null,
+    "scrapeWords": [
+      "Dora",
+      "Hafsi",
+      "Goken",
+      "Storm",
+      "-Project",
+      "Files",
+      "Source",
+      "Code"
+    ]
+  },
+  {
+    "author": "UTOPIAMACHINES",
+    "description": "Collect all the tokens!",
+    "genre": "Platformer",
+    "id": "722201",
+    "link": "https://utopiamachines.itch.io/ether-dasher",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMDQ4MTMucG5n/315x250%23c/3vWWL1.png",
+    "title": "ETHER DASHER",
+    "video": null,
+    "scrapeWords": [
+      "ETHER",
+      "DASHER"
+    ]
+  },
+  {
+    "author": "qpcode",
+    "description": "my first game",
+    "genre": null,
+    "id": "722265",
+    "link": "https://qpcode.itch.io/circle-that-changes-colors",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQwMDUyMjEucG5n/315x250%23c/UzMihn.png",
+    "title": "circle that changes colors",
+    "video": null,
+    "scrapeWords": [
+      "circle",
+      "that",
+      "changes",
+      "colors"
+    ]
+  },
+  {
+    "author": "codesanian",
+    "description": "Topdown car shooter [gamejam]",
+    "genre": "Shooter",
+    "id": "722687",
+    "link": "https://codesanian.itch.io/clean-up-patrol",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMDc5MTQucG5n/315x250%23c/3tsMEJ.png",
+    "title": "Clean up patrol",
+    "video": null,
+    "scrapeWords": [
+      "Clean",
+      "up",
+      "patrol"
+    ]
+  },
+  {
+    "author": "hogstudio",
+    "description": "Yet another robot samurai fighting against falling bombs by rewinding time",
+    "genre": "Platformer",
+    "id": "722764",
+    "link": "https://hogstudio.itch.io/shyrky-o",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMDgzNjEucG5n/315x250%23c/tcxuUX.png",
+    "title": "shyrky-o",
+    "video": null,
+    "scrapeWords": [
+      "shyrky-o"
+    ]
+  },
+  {
+    "author": "SubstandardShrimp",
+    "description": "Alone in Antarctica and caught in a time loop",
+    "genre": "Adventure",
+    "id": "722836",
+    "link": "https://substandardshrimp.itch.io/arcane-loop",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQwMDg5NTMucG5n/315x250%23c/79V8Yk.png",
+    "title": "Arcane Loop",
+    "video": null,
+    "scrapeWords": [
+      "Arcane",
+      "Loop"
     ]
   },
   {
