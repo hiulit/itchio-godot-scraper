@@ -5,8 +5,8 @@ const request = require('request')
 
 const http = require('http')
 const https = require('https')
-http.globalAgent.maxSockets = 2
-https.globalAgent.maxSockets = 2
+http.globalAgent.maxSockets = 1
+https.globalAgent.maxSockets = 1
 
 let baseURL = 'https://itch.io/games/'
 let scrapeURLS = ['made-with-godot', 'tag-godot']
