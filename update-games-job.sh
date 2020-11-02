@@ -9,6 +9,7 @@ readonly FILES_ARRAY=(
 
 CHANGES_ARRAY=()
 FILES_FOUND=0
+DIRTY_FILES=0
 
 function ctrl_c() {
     echo >&2
@@ -31,9 +32,19 @@ echo
 
 cd "$SCRIPT_PATH"
 
-echo "Stash changes ..."
-echo
-git stash
+# Check for unstaged files.
+git update-index -q --refresh 
+git diff-index --quiet HEAD --
+return_value="$?"
+if [[ "$return_value" -eq 1 ]]; then
+    DIRTY_FILES=1
+fi
+
+if [[ "$DIRTY_FILES" -eq 1 ]]; then
+    echo "Stash changes ..."
+    echo
+    git stash
+fi
 echo
 
 trap ctrl_c TERM INT
@@ -104,10 +115,12 @@ else
     echo "No modified files detected ... Nothing to do here."
 fi
 
-echo
-echo "Unstash changes ..."
-echo
-git stash pop
+if [[ "$DIRTY_FILES" -eq 1 ]]; then
+    echo
+    echo "Unstash changes ..."
+    echo
+    git stash pop
+fi
 echo
 echo "---- END ----"
 echo
