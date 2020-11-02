@@ -81252,6 +81252,21 @@
     ]
   },
   {
+    "author": "Pixelssteam12",
+    "description": "DASHING DARKNESS IS A GAME MADE BY PIXELSS",
+    "genre": "Action",
+    "id": "730062",
+    "link": "https://pixelssteam12.itch.io/dashing-darkness100000000",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0NjQxOTQucG5n/315x250%23c/LFOgsV.png",
+    "title": "DASHING DARKNESS!",
+    "video": null,
+    "scrapeWords": [
+      "DASHING",
+      "DARKNESS"
+    ]
+  },
+  {
     "author": "Code Wiz Reading",
     "description": "A game created by a Code Wiz student.",
     "genre": "Platformer",
@@ -94826,6 +94841,27 @@
     ]
   },
   {
+    "author": "PranavSK",
+    "description": "A shoot 'em up with projectiles and tower defense mechanics.",
+    "genre": "Shooter",
+    "id": "792354",
+    "link": "https://pranavsk.itch.io/sunflower-oil",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0MzgwNzYucG5n/315x250%23c/FLIqIb.png",
+    "title": "Sunflower OIL: Overhead Immobilization Launcher",
+    "video": null,
+    "scrapeWords": [
+      "Sunflower",
+      "OIL",
+      "Overhead",
+      "Immobilization",
+      "Launcher"
+    ]
+  },
+  {
     "author": "Chris Parlette",
     "description": "Deliver bread without letting too many jobs stack up!",
     "genre": "Action",
@@ -96868,7 +96904,7 @@
     "id": "807796",
     "link": "https://smoothprocess.itch.io/heartless",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1Mjk0NjUucG5n/315x250%23c/Dffc4B.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1MzIyMDQucG5n/315x250%23c/ocxifX.png",
     "title": "Heartless",
     "video": null,
     "scrapeWords": [
@@ -96910,7 +96946,7 @@
   },
   {
     "author": "SlimyOctopussy",
-    "description": "Cake baking robot!",
+    "description": "Be a cake baking robot. Bake Cakes and don't ask questions!",
     "genre": "Educational",
     "id": "808086",
     "link": "https://slimyoctopussy.itch.io/cakecrane",
@@ -96928,7 +96964,7 @@
   },
   {
     "author": "enviadosdev",
-    "description": "For Mini-jam 66: Sweets!! Limitation: 2 Button controls...",
+    "description": "For Mini-jam 66: Sweets!! Limitation: 2 Button controls... (WINDOWS x64 DOWNLOAD ERROR SOLVED!)",
     "genre": "Platformer",
     "id": "808180",
     "link": "https://enviadosdev.itch.io/run-sweet",
@@ -96960,6 +96996,21 @@
     "scrapeWords": [
       "Mars",
       "Game"
+    ]
+  },
+  {
+    "author": "mahyellaw",
+    "description": "Take orders as fast as you can!",
+    "genre": "Strategy",
+    "id": "808504",
+    "link": "https://mahyellaw.itch.io/0rder-up",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1MzE4NzQucG5n/315x250%23c/WEsCM8.png",
+    "title": "0rder - Up!",
+    "video": null,
+    "scrapeWords": [
+      "0rder",
+      "Up"
     ]
   },
   {
