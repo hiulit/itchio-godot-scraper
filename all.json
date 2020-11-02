@@ -65768,6 +65768,24 @@
     ]
   },
   {
+    "author": "puppetmaster",
+    "description": "kill the annoying Mosquito an experimental game",
+    "genre": "Action",
+    "id": "65406",
+    "link": "https://puppetmaster.itch.io/mosquito",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvNjU0MDYvMjk1ODQ1LnBuZw==/315x250%23c/M1AMEh.png",
+    "title": "Mosquito",
+    "video": null,
+    "scrapeWords": [
+      "Mosquito"
+    ]
+  },
+  {
     "author": "FirstBlood",
     "description": "Dungeon crawl over bloodied bodies of enemies to find treasure in this first game dev attempt!",
     "genre": "Action",
