@@ -27,6 +27,7 @@ echo "---- START ----"
 echo
 echo "$(date "+%Y-%m-%d %H:%M")"
 echo
+eval "$(ssh-agent)"
 eval ssh-add -K "$ENV_SSH_PRIVATE_KEY_PATH"
 echo
 
@@ -48,7 +49,7 @@ fi
 echo
 
 trap ctrl_c TERM INT
-node update-games.js &
+eval "$ENV_NODE_PATH" update-games.js &
 PID="$!"
 wait $PID
 trap - TERM INT

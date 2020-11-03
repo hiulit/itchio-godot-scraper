@@ -8,3 +8,5 @@
 ENV_SCRIPT_PATH=""
 # The full path to your SSH private key.
 ENV_SSH_PRIVATE_KEY_PATH=""
+# The full path to your node executable.
+ENV_NODE_PATH=""
