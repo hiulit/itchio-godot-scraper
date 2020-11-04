@@ -4,7 +4,7 @@
 # To use it, add a dot '.' at the beginning of this file.
 # (e.g. ".env")
 
-# The full path to the 'update-games-job.sh' path.
+# The full path to the folder where the 'update-games-job.sh' script is located.
 ENV_SCRIPT_PATH=""
 # The full path to your SSH private key.
 ENV_SSH_PRIVATE_KEY_PATH=""
