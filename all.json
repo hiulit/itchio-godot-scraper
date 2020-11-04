@@ -28123,6 +28123,25 @@
     ]
   },
   {
+    "author": "Vanne",
+    "description": "A simple puzzle game using only two buttons",
+    "genre": "Puzzle",
+    "id": "404133",
+    "link": "https://vanne.itch.io/lights-out",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Joshua 🐢",
     "description": "A happy birthday project for my friend who likes fries",
     "genre": "Survival",
@@ -42870,6 +42889,25 @@
     ]
   },
   {
+    "author": "Peter Wood",
+    "description": "A simple Space Game inspired by old PC space sims",
+    "genre": "Shooter",
+    "id": "509387",
+    "link": "https://peternatewood.itch.io/space-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDM2NzIucG5n/315x250%23c/YwwpO3.png",
+    "title": "Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Game"
+    ]
+  },
+  {
     "author": "World Eater Games",
     "description": "Tough boss-rush adventure game where you can turn back time in combat to mend your mistakes... Or create new ones!",
     "genre": "Action",
@@ -55005,6 +55043,24 @@
     ]
   },
   {
+    "author": "Not Done Yet",
+    "description": "You must remember the rule \"No Mischief\"",
+    "genre": "Shooter",
+    "id": "601106",
+    "link": "https://not-done-yet.itch.io/no-mischief",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODk3MjIucG5n/315x250%23c/8LJOHx.png",
+    "title": "No Mischief",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Mischief"
+    ]
+  },
+  {
     "author": "achtaitaipai",
     "description": null,
     "genre": "Adventure",
@@ -60680,6 +60736,25 @@
       "Game",
       "Jam",
       "Edition"
+    ]
+  },
+  {
+    "author": "Ange HUBERT",
+    "description": "A Wario Ware like Game made with GODOT Engine",
+    "genre": null,
+    "id": "626556",
+    "link": "https://le-professeur-stagiaire.itch.io/godot-ware",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMzNDAwNTAucG5n/315x250%23c/ilSpgP.png",
+    "title": "GODOT Ware",
+    "video": null,
+    "scrapeWords": [
+      "GODOT",
+      "Ware"
     ]
   },
   {
@@ -72914,7 +72989,8 @@
     "link": "https://davidsilvalevy.itch.io/aimless",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM4MjcyNjQucG5n/315x250%23c/8gLV18.png",
     "title": "Aimless",
@@ -77221,25 +77297,6 @@
     ]
   },
   {
-    "author": "noaS",
-    "description": "Space Game",
-    "genre": "Adventure",
-    "id": "706731",
-    "link": "https://noa5.itch.io/space-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MDgyNTIucG5n/315x250%23c/uDo9Kf.png",
-    "title": "Space Game",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Game"
-    ]
-  },
-  {
     "author": "godsam",
     "description": "Get the particles and run",
     "genre": "Survival",
@@ -78688,21 +78745,6 @@
       "way",
       "is",
       "up"
-    ]
-  },
-  {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -86920,6 +86962,7 @@
     "link": "https://the-cool-bounana.itch.io/icee-up",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxODU1NTMucG5n/315x250%23c/Jq320x.png",
@@ -87216,7 +87259,7 @@
     ]
   },
   {
-    "author": "maybell",
+    "author": "maybell🌻",
     "description": "a five minute walking simulator about a machine that should not have been made.",
     "genre": "Adventure",
     "id": "751067",
@@ -92686,6 +92729,7 @@
     "link": "https://casual-gamer.itch.io/trench-fever",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQzNTY0NTIucG5n/315x250%23c/Xbd8cU.png",
@@ -95937,6 +95981,21 @@
     ]
   },
   {
+    "author": "6E23",
+    "description": "How high can you go?",
+    "genre": "Action",
+    "id": "800451",
+    "link": "https://6e23.itch.io/infinite-archery",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NDA5MDYucG5n/315x250%23c/OUi%2Bxg.png",
+    "title": "Infinite Archery",
+    "video": null,
+    "scrapeWords": [
+      "Infinite",
+      "Archery"
+    ]
+  },
+  {
     "author": "IcarusDev",
     "description": "Beware the anomalies! How long will you endure this multitasking madness?",
     "genre": "Shooter",
@@ -96378,6 +96437,20 @@
     "scrapeWords": [
       "Ghostly",
       "Mansion"
+    ]
+  },
+  {
+    "author": "J6-4B Studios",
+    "description": "One small step for a cube, one big swing with their axe.",
+    "genre": "Adventure",
+    "id": "804515",
+    "link": "https://j6-4b-studios.itch.io/cube-step",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1MTUxMzAucG5n/315x250%23c/rzalYe.png",
+    "title": "Cube-Step",
+    "video": null,
+    "scrapeWords": [
+      "Cube-Step"
     ]
   },
   {
@@ -96974,6 +97047,24 @@
     ]
   },
   {
+    "author": "Articplanet",
+    "description": "Hell can be an inhospitable and dangerous place, but it's also fun!",
+    "genre": null,
+    "id": "808023",
+    "link": "https://articplanet.itch.io/what-the-hell",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1Mjg4ODcucG5n/315x250%23c/70qmQR.png",
+    "title": "What The Hell!",
+    "video": null,
+    "scrapeWords": [
+      "What",
+      "The",
+      "Hell"
+    ]
+  },
+  {
     "author": "SlimyOctopussy",
     "description": "Be a cake baking robot. Bake Cakes and don't ask questions!",
     "genre": "Educational",
@@ -97156,7 +97247,26 @@
     ]
   },
   {
-    "author": "Minelordsuniverse",
+    "author": "mcnnowak",
+    "description": "In the year 3000, humankind put a railgun on the moon.",
+    "genre": "Shooter",
+    "id": "809298",
+    "link": "https://mcnnowak.itch.io/super-moon-asteroid-railgun-track-3000",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1MzcwMjkucG5n/315x250%23c/x5w0Q3.png",
+    "title": "Super Moon Asteroid Railgun Track 3000",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Moon",
+      "Asteroid",
+      "Railgun",
+      "Track",
+      "3000"
+    ]
+  },
+  {
+    "author": "minelordsuniverse@gmail.com",
     "description": "A simple game made in Godot Engine to test my skills (followed a YT tutorial)",
     "genre": "Shooter",
     "id": "809626",
