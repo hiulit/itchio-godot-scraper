@@ -1,7 +1,7 @@
 {
   "name": "itchio-godot-scraper",
   "version": "1.0.0",
-  "description": "A scraper for Godot games hosted on https://itch.io/",
+  "description": "A scraper for Godot games hosted on https://itch.io",
   "keywords": [
     "scraper",
     "itch",
