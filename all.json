@@ -28123,25 +28123,6 @@
     ]
   },
   {
-    "author": "Vanne",
-    "description": "A simple puzzle game using only two buttons",
-    "genre": "Puzzle",
-    "id": "404133",
-    "link": "https://vanne.itch.io/lights-out",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Joshua 🐢",
     "description": "A happy birthday project for my friend who likes fries",
     "genre": "Survival",
@@ -65632,6 +65613,7 @@
     "link": "https://josephcantrell14.itch.io/prophet-launcher",
     "platforms": [
       "Windows",
+      "Linux",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1MDYwOTQucG5n/315x250%23c/13qRm%2F.png",
@@ -66650,6 +66632,24 @@
     "scrapeWords": [
       "Zombie",
       "Time"
+    ]
+  },
+  {
+    "author": "Katie And",
+    "description": "A game about platforming, exploration and combat.",
+    "genre": "Platformer",
+    "id": "659117",
+    "link": "https://sadblockgames.itch.io/treize",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1NDUzNDEucG5n/315x250%23c/UP32vQ.png",
+    "title": "Treize",
+    "video": null,
+    "scrapeWords": [
+      "Treize"
     ]
   },
   {
@@ -78748,6 +78748,21 @@
     ]
   },
   {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -88038,17 +88053,17 @@
   },
   {
     "author": "Xendra",
-    "description": "A high depth Roguelite Deckbuilder + Teambuilder RPG -- Kill, Abduct, and Butcher your foes!",
+    "description": "Experience strategic roguelite RPG combat as you Kill, Abduct, and Butcher your foes!",
     "genre": "Strategy",
     "id": "753973",
-    "link": "https://xendra.itch.io/project-arcane",
+    "link": "https://xendra.itch.io/malice-and-greed",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MzcxNDUucG5n/315x250%23c/MRh52j.png",
-    "title": "Project Arcane by Xendra",
+    "title": "Malice & Greed by Xendra",
     "video": null,
     "scrapeWords": [
-      "Project",
-      "Arcane",
+      "Malice",
+      "Greed",
       "by",
       "Xendra"
     ]
@@ -90439,6 +90454,20 @@
     ]
   },
   {
+    "author": "Putaitu",
+    "description": null,
+    "genre": "Platformer",
+    "id": "766500",
+    "link": "https://putaitu.itch.io/bolter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NDQzMDEuanBn/315x250%23c/MUb5x7.jpg",
+    "title": "Bolter",
+    "video": null,
+    "scrapeWords": [
+      "Bolter"
+    ]
+  },
+  {
     "author": "ChronoRevers",
     "description": null,
     "genre": "Action",
@@ -92723,7 +92752,7 @@
   },
   {
     "author": "Casual_gamer",
-    "description": "This is my second game ever made .I had an amazing time learning new stuff .Hope you guys try it.",
+    "description": "This is my second game ever made.I had an amazing time learning new stuff.Hope you guys try it.",
     "genre": "Action",
     "id": "778787",
     "link": "https://casual-gamer.itch.io/trench-fever",
@@ -92732,7 +92761,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQzNTY0NTIucG5n/315x250%23c/Xbd8cU.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1NDQwMjAucG5n/315x250%23c/pKsWSq.png",
     "title": "Trench Fever",
     "video": null,
     "scrapeWords": [
@@ -96445,7 +96474,11 @@
     "genre": "Adventure",
     "id": "804515",
     "link": "https://j6-4b-studios.itch.io/cube-step",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTUxMzAucG5n/315x250%23c/rzalYe.png",
     "title": "Cube-Step",
     "video": null,
