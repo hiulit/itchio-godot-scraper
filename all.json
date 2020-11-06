@@ -7687,9 +7687,7 @@
     "id": "242266",
     "link": "https://aloe-vertex.itch.io/cartcrawlers",
     "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE4MTAzNDkucG5n/315x250%23c/RfUF4F.png",
     "title": "Cart Crawlers",
@@ -42870,25 +42868,6 @@
     ]
   },
   {
-    "author": "Peter Wood",
-    "description": "A simple Space Game inspired by old PC space sims",
-    "genre": "Shooter",
-    "id": "509387",
-    "link": "https://peternatewood.itch.io/space-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDM2NzIucG5n/315x250%23c/YwwpO3.png",
-    "title": "Space Game",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Game"
-    ]
-  },
-  {
     "author": "World Eater Games",
     "description": "Tough boss-rush adventure game where you can turn back time in combat to mend your mistakes... Or create new ones!",
     "genre": "Action",
@@ -49570,7 +49549,7 @@
     ]
   },
   {
-    "author": "Albin",
+    "author": "Alex Stewart (Albin)",
     "description": "Global Game Jam 2020 Entry",
     "genre": "Platformer",
     "id": "562685",
@@ -56284,6 +56263,24 @@
     "video": null,
     "scrapeWords": [
       "Betterflee"
+    ]
+  },
+  {
+    "author": "DonutDuckProducktions",
+    "description": "Well You're Actually a Waiter but \"Bug Chef\" Sounds better",
+    "genre": "Puzzle",
+    "id": "608169",
+    "link": "https://donutduckproducktions.itch.io/bug-chef",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjk4NzIucG5n/315x250%23c/EJH%2Fr%2F.png",
+    "title": "Bug Chef",
+    "video": null,
+    "scrapeWords": [
+      "Bug",
+      "Chef"
     ]
   },
   {
@@ -63514,7 +63511,8 @@
     "link": "https://maxrobertstudios.itch.io/unicorn-prince-and-the-machine-menace-mvp-special-edition",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM0MzYwNTEucG5n/315x250%23c/AR2oNl.png",
     "title": "Unicorn Prince and The Machine Menace (Chapter One)",
@@ -68676,7 +68674,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQyNzgxNzgucG5n/315x250%23c/5MSQzf.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1NDk0MjgucG5n/315x250%23c/%2BoEjy4.png",
     "title": "DunjanTools",
     "video": null,
     "scrapeWords": [
@@ -77297,6 +77295,25 @@
     ]
   },
   {
+    "author": "noaS",
+    "description": "Space Game",
+    "genre": "Adventure",
+    "id": "706731",
+    "link": "https://noa5.itch.io/space-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MDgyNTIucG5n/315x250%23c/uDo9Kf.png",
+    "title": "Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Game"
+    ]
+  },
+  {
     "author": "godsam",
     "description": "Get the particles and run",
     "genre": "Survival",
@@ -83013,24 +83030,6 @@
     ]
   },
   {
-    "author": "[OMG]",
-    "description": "Become one of the \"evil\" creatures and try to survive.",
-    "genre": "Survival",
-    "id": "735171",
-    "link": "https://one-man-games-studio.itch.io/underlings",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQwOTEwNzIucG5n/315x250%23c/ebWTh1.png",
-    "title": "Underlings",
-    "video": null,
-    "scrapeWords": [
-      "Underlings"
-    ]
-  },
-  {
     "author": "Dewangan",
     "description": "A Fart Humor based 3D Platformer",
     "genre": "Platformer",
@@ -86423,7 +86422,6 @@
     "link": "https://pigdev.itch.io/fermi-parallax",
     "platforms": [
       "Windows",
-      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQzOTM0MTcucG5n/315x250%23c/W6lHCs.png",
@@ -86850,6 +86848,7 @@
     "link": "https://josephcantrell14.itch.io/infernight",
     "platforms": [
       "Windows",
+      "Linux",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxOTY0NDQucG5n/315x250%23c/MHZ3D6.png",
@@ -93643,6 +93642,23 @@
     ]
   },
   {
+    "author": "feusanc",
+    "description": "A basic game where you try to conquer the world!",
+    "genre": "Strategy",
+    "id": "782282",
+    "link": "https://feusanc.itch.io/country-wars",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": null,
+    "title": "Country Wars",
+    "video": null,
+    "scrapeWords": [
+      "Country",
+      "Wars"
+    ]
+  },
+  {
     "author": "Hazem Huzayen",
     "description": "top down survival game. you, death, guns and all them freaking zombies.",
     "genre": "Shooter",
@@ -95243,7 +95259,7 @@
   },
   {
     "author": "Grafcube",
-    "description": "A small game I made for Beginners Circle Jam #3 by AngrySmile",
+    "description": "A small game I made for Beginners Circle Jam #3",
     "genre": "Simulation",
     "id": "795414",
     "link": "https://grafcube.itch.io/another-planet",
@@ -95966,9 +95982,9 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0Nzg4MjMucG5n/315x250%23c/pFy8ax.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTQyMTQuZ2lm/315x250%23cm/Z%2BW0mw.gif",
     "title": "A Leaf's Journey",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzQ1NTQyMTQuZ2lm/original/bcliyP.gif",
     "scrapeWords": [
       "A",
       "Leafs",
@@ -96169,7 +96185,7 @@
   },
   {
     "author": "Doubi88",
-    "description": "A physics puzzle game inspired by The Incredible Machine",
+    "description": "An open source physics puzzle game inspired by The Incredible Machine",
     "genre": "Puzzle",
     "id": "802436",
     "link": "https://doubi88.itch.io/thingymajigsaw",
@@ -96235,6 +96251,24 @@
     "scrapeWords": [
       "Turret",
       "Jumper"
+    ]
+  },
+  {
+    "author": "coldigames",
+    "description": "Cute pixel carnage! Best played after a stressful day!",
+    "genre": "Action",
+    "id": "803043",
+    "link": "https://coldigames.itch.io/hungry-wolf",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0OTc4NDUucG5n/315x250%23c/01c1Sx.png",
+    "title": "Hungry Wolf",
+    "video": null,
+    "scrapeWords": [
+      "Hungry",
+      "Wolf"
     ]
   },
   {
@@ -96480,9 +96514,11 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTUxMzAucG5n/315x250%23c/rzalYe.png",
-    "title": "Cube-Step",
+    "title": "infinit 2: Cube-Step",
     "video": null,
     "scrapeWords": [
+      "infinit",
+      "2",
       "Cube-Step"
     ]
   },
@@ -96499,6 +96535,25 @@
     "scrapeWords": [
       "Shaolin",
       "Soccer"
+    ]
+  },
+  {
+    "author": "ultra_slimer",
+    "description": "Aprende seguridad digital facilmente",
+    "genre": "Interactive Fiction",
+    "id": "804897",
+    "link": "https://ultra-slimer.itch.io/the-troubleshooter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1MDk0NjcucG5n/315x250%23c/YwGnp8.png",
+    "title": "The Troubleshooter",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Troubleshooter"
     ]
   },
   {
@@ -96955,7 +97010,7 @@
     "description": "Survive against angry customers while trying not to melt!",
     "genre": "Survival",
     "id": "807411",
-    "link": "https://flexflax.itch.io/icecream-survival",
+    "link": "https://umuts.itch.io/icecream-survival",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MjUzMjcucG5n/315x250%23c/7zN84C.png",
     "title": "Icecream Survival",
@@ -97280,25 +97335,6 @@
     ]
   },
   {
-    "author": "mcnnowak",
-    "description": "In the year 3000, humankind put a railgun on the moon.",
-    "genre": "Shooter",
-    "id": "809298",
-    "link": "https://mcnnowak.itch.io/super-moon-asteroid-railgun-track-3000",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1MzcwMjkucG5n/315x250%23c/x5w0Q3.png",
-    "title": "Super Moon Asteroid Railgun Track 3000",
-    "video": null,
-    "scrapeWords": [
-      "Super",
-      "Moon",
-      "Asteroid",
-      "Railgun",
-      "Track",
-      "3000"
-    ]
-  },
-  {
     "author": "minelordsuniverse@gmail.com",
     "description": "A simple game made in Godot Engine to test my skills (followed a YT tutorial)",
     "genre": "Shooter",
@@ -97317,6 +97353,46 @@
     ]
   },
   {
+    "author": "Harder You Fools",
+    "description": "A short interactive fiction about two survivors of the Bismarck hoping for rescue.",
+    "genre": "Interactive Fiction",
+    "id": "810514",
+    "link": "https://harderyoufools.itch.io/vanishing-hopes-on-the-north-atlantic",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTA0ODQucG5n/315x250%23c/mFf1e4.png",
+    "title": "Vanishing Hopes on the North Atlantic",
+    "video": null,
+    "scrapeWords": [
+      "Vanishing",
+      "Hopes",
+      "on",
+      "the",
+      "North",
+      "Atlantic"
+    ]
+  },
+  {
+    "author": "davidotek",
+    "description": "a modern and diverse 2d adventure game",
+    "genre": "Adventure",
+    "id": "811016",
+    "link": "https://davidotek.itch.io/overdoki",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NDY4ODMucG5n/315x250%23c/3CnUeU.png",
+    "title": "Overdoki",
+    "video": null,
+    "scrapeWords": [
+      "Overdoki"
+    ]
+  },
+  {
     "author": "Doooooom",
     "description": "Off World Mining Simulator",
     "genre": "Strategy",
@@ -97332,6 +97408,59 @@
     "video": "https://img.itch.zone/aW1hZ2UvODExMjQvMzgxODkxLmdpZg==/original/0fTw0%2F.gif",
     "scrapeWords": [
       "Mined"
+    ]
+  },
+  {
+    "author": "barbilou",
+    "description": "An arcade Vinesauce fangame",
+    "genre": null,
+    "id": "811426",
+    "link": "https://barbilou.itch.io/dontgetgamerd",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NDk0MDcucG5n/315x250%23c/T0aFRK.png",
+    "title": "Don't get GAMER'D",
+    "video": null,
+    "scrapeWords": [
+      "Dont",
+      "get",
+      "GAMERD"
+    ]
+  },
+  {
+    "author": "Fox Game Dev",
+    "description": "Solve the mistery of Barlow manor and escape before you go mad",
+    "genre": "Adventure",
+    "id": "811616",
+    "link": "https://foxgamedev.itch.io/stuck-in-time",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTA1ODMucG5n/315x250%23c/VXGVYg.png",
+    "title": "Stuck in time",
+    "video": null,
+    "scrapeWords": [
+      "Stuck",
+      "in",
+      "time"
+    ]
+  },
+  {
+    "author": "EGFAB Technology",
+    "description": "All the fun of tossing a ball to yourself. No, really!",
+    "genre": "Action",
+    "id": "811942",
+    "link": "https://egfab-technology.itch.io/ball-toss",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTIzMTAucG5n/315x250%23c/VKix5G.png",
+    "title": "Ball Toss",
+    "video": null,
+    "scrapeWords": [
+      "Ball",
+      "Toss"
     ]
   },
   {
