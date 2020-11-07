@@ -40346,24 +40346,6 @@
     ]
   },
   {
-    "author": "Carrot Game Studio",
-    "description": null,
-    "genre": "Shooter",
-    "id": "489685",
-    "link": "https://carrot-game-studio.itch.io/bullets-and-blocks",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MzA3MjEucG5n/315x250%23c/S5g%2FWg.png",
-    "title": "Bullets and Blocks!",
-    "video": null,
-    "scrapeWords": [
-      "Bullets",
-      "and",
-      "Blocks"
-    ]
-  },
-  {
     "author": "xezton",
     "description": "Cut through waves of spacetime as they collapse and rebound in this LCD-style game.",
     "genre": "Action",
@@ -44865,6 +44847,25 @@
     "scrapeWords": [
       "Mesmerised",
       "Store"
+    ]
+  },
+  {
+    "author": "Ange HUBERT",
+    "description": "a simple drag and drop game made with Godot Engine in 2 days",
+    "genre": "Puzzle",
+    "id": "527751",
+    "link": "https://le-professeur-stagiaire.itch.io/drag-and-clips",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NDIxNDgucG5n/315x250%23c/o70Cbv.png",
+    "title": "Drag and Clips",
+    "video": null,
+    "scrapeWords": [
+      "Drag",
+      "and",
+      "Clips"
     ]
   },
   {
@@ -52559,6 +52560,24 @@
     "video": null,
     "scrapeWords": [
       "Mashi-Ninja"
+    ]
+  },
+  {
+    "author": "Ithronyar",
+    "description": "A small aerial combat game.",
+    "genre": "Action",
+    "id": "585226",
+    "link": "https://ithronyar.itch.io/forsaken-airspace",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTg1NzkucG5n/315x250%23c/UWteAo.png",
+    "title": "Forsaken Airspace",
+    "video": null,
+    "scrapeWords": [
+      "Forsaken",
+      "Airspace"
     ]
   },
   {
@@ -96202,6 +96221,25 @@
     ]
   },
   {
+    "author": "Supositware",
+    "description": "Very short game I am currently making to learn about godot and game development",
+    "genre": null,
+    "id": "802638",
+    "link": "https://supositware.itch.io/pain-point",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1MzUxNTIucG5n/315x250%23c/iv4gtM.png",
+    "title": "Pain Point",
+    "video": null,
+    "scrapeWords": [
+      "Pain",
+      "Point"
+    ]
+  },
+  {
     "author": "fischne",
     "description": "Guitar hero like colorful game",
     "genre": null,
@@ -96361,7 +96399,7 @@
   },
   {
     "author": "SwiftVector",
-    "description": "A casual underwater metroidvania (?) made in just under 24 hours.",
+    "description": "Casual underwater exploration game",
     "genre": "Adventure",
     "id": "803754",
     "link": "https://swiftvector.itch.io/squid-savings",
@@ -96500,26 +96538,6 @@
     "scrapeWords": [
       "Ghostly",
       "Mansion"
-    ]
-  },
-  {
-    "author": "J6-4B Studios",
-    "description": "One small step for a cube, one big swing with their axe.",
-    "genre": "Adventure",
-    "id": "804515",
-    "link": "https://j6-4b-studios.itch.io/cube-step",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1MTUxMzAucG5n/315x250%23c/rzalYe.png",
-    "title": "infinit 2: Cube-Step",
-    "video": null,
-    "scrapeWords": [
-      "infinit",
-      "2",
-      "Cube-Step"
     ]
   },
   {
@@ -97243,6 +97261,23 @@
     ]
   },
   {
+    "author": "KaizarNike",
+    "description": "Toys for your desktop!",
+    "genre": "Simulation",
+    "id": "808442",
+    "link": "https://kaizarnike.itch.io/screen-toybox",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTM3MjkucG5n/315x250%23c/XWacnK.png",
+    "title": "Screen Toybox",
+    "video": null,
+    "scrapeWords": [
+      "Screen",
+      "Toybox"
+    ]
+  },
+  {
     "author": "mahyellaw",
     "description": "Take orders as fast as you can!",
     "genre": "Strategy",
@@ -97376,6 +97411,23 @@
     ]
   },
   {
+    "author": "vyalenyj",
+    "description": "Новый год, godot",
+    "genre": null,
+    "id": "810769",
+    "link": "https://vyalenyj.itch.io/sng",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTM2NTcucG5n/315x250%23c/dmvQuL.png",
+    "title": "С нг!",
+    "video": null,
+    "scrapeWords": [
+      "С",
+      "нг"
+    ]
+  },
+  {
     "author": "davidotek",
     "description": "a modern and diverse 2d adventure game",
     "genre": "Adventure",
@@ -97383,7 +97435,8 @@
     "link": "https://davidotek.itch.io/overdoki",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NDY4ODMucG5n/315x250%23c/3CnUeU.png",
     "title": "Overdoki",
@@ -97435,15 +97488,18 @@
     "description": "Solve the mistery of Barlow manor and escape before you go mad",
     "genre": "Adventure",
     "id": "811616",
-    "link": "https://foxgamedev.itch.io/stuck-in-time",
+    "link": "https://foxgamedev.itch.io/detective-fulton-the-barlow-manor-mistery",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1NTA1ODMucG5n/315x250%23c/VXGVYg.png",
-    "title": "Stuck in time",
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTQzNzAucG5n/315x250%23c/Egg%2FAk.png",
+    "title": "Detective Fulton: the Barlow manor mistery",
     "video": null,
     "scrapeWords": [
-      "Stuck",
-      "in",
-      "time"
+      "Detective",
+      "Fulton",
+      "the",
+      "Barlow",
+      "manor",
+      "mistery"
     ]
   },
   {
@@ -97461,6 +97517,79 @@
     "scrapeWords": [
       "Ball",
       "Toss"
+    ]
+  },
+  {
+    "author": "meebob",
+    "description": "An Undertale-inspired watercolored adventure RPG featuring a lost Puppy finding its way home.",
+    "genre": "Role Playing",
+    "id": "812033",
+    "link": "https://meebob.itch.io/doggo-quest",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTUwNzIuZ2lm/315x250%23cm/dH4qSZ.gif",
+    "title": "Doggo Quest",
+    "video": "https://img.itch.zone/aW1nLzQ1NTUwNzIuZ2lm/original/LyeUwp.gif",
+    "scrapeWords": [
+      "Doggo",
+      "Quest"
+    ]
+  },
+  {
+    "author": "logiky",
+    "description": null,
+    "genre": "Survival",
+    "id": "812399",
+    "link": "https://logiky.itch.io/perfect-ultimate-snake",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTUxMzEucG5n/315x250%23c/aMa98Z.png",
+    "title": "Perfect Ultimate Snake",
+    "video": null,
+    "scrapeWords": [
+      "Perfect",
+      "Ultimate",
+      "Snake"
+    ]
+  },
+  {
+    "author": "shoulddev",
+    "description": "Fast-paced FPS with a grappling hook and rocket jumping",
+    "genre": null,
+    "id": "812522",
+    "link": "https://shoulddev.itch.io/left-hook-liam-v02-alpha",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTYwMTcucG5n/315x250%23c/EgIzkK.png",
+    "title": "Left Hook Liam v0.2-alpha",
+    "video": null,
+    "scrapeWords": [
+      "Left",
+      "Hook",
+      "Liam",
+      "v02-alpha"
+    ]
+  },
+  {
+    "author": "flaffal",
+    "description": "2D Action slashy-shooty game",
+    "genre": "Action",
+    "id": "812890",
+    "link": "https://flaffal.itch.io/hard-coded-prototype",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTgyNjIucG5n/315x250%23c/tVUXkJ.png",
+    "title": "Hard-Coded Ascension Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Hard-Coded",
+      "Ascension",
+      "Prototype"
     ]
   },
   {
