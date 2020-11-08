@@ -7687,7 +7687,8 @@
     "id": "242266",
     "link": "https://aloe-vertex.itch.io/cartcrawlers",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzE4MTAzNDkucG5n/315x250%23c/RfUF4F.png",
     "title": "Cart Crawlers",
@@ -36655,6 +36656,22 @@
     "video": "https://img.itch.zone/aW1nLzIzOTkxNDMuZ2lm/original/GO0PB6.gif",
     "scrapeWords": [
       "mini_ship"
+    ]
+  },
+  {
+    "author": "tyooo",
+    "description": "A prototype build for a game I'm making! This'll be constantly updated for a while!",
+    "genre": "Action",
+    "id": "465854",
+    "link": "https://tyooo.itch.io/rose-and-thorn-prototype",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0Mjc3NDIucG5n/315x250%23c/L6GFtW.png",
+    "title": "Rose & Thorn Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Rose",
+      "Thorn",
+      "Prototype"
     ]
   },
   {
@@ -65823,6 +65840,23 @@
     ]
   },
   {
+    "author": "Yrk06",
+    "description": "Try your best to keep the nuclear Powerplant going",
+    "genre": "Action",
+    "id": "654111",
+    "link": "https://yrk06.itch.io/tasks-nuclear",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MTIwNjYucG5n/315x250%23c/QAPaAw.png",
+    "title": "TASKs: Nuclear",
+    "video": null,
+    "scrapeWords": [
+      "TASKs",
+      "Nuclear"
+    ]
+  },
+  {
     "author": "Fupi",
     "description": "Tente fechar a propaganda.",
     "genre": null,
@@ -86054,25 +86088,6 @@
     ]
   },
   {
-    "author": "sinistro25",
-    "description": "Top-Down Horde Survival Shooter - Survive for as along as you can.",
-    "genre": "Action",
-    "id": "744371",
-    "link": "https://sinistro25.itch.io/slay-the-horde",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQyMTg1MjIucG5n/315x250%23c/qb%2BTL6.png",
-    "title": "Slay the Horde",
-    "video": null,
-    "scrapeWords": [
-      "Slay",
-      "the",
-      "Horde"
-    ]
-  },
-  {
     "author": "Sterki Herz",
     "description": "A fun puzzle & cooking game...with animals! ~",
     "genre": "Puzzle",
@@ -88672,7 +88687,10 @@
     "genre": "Survival",
     "id": "757095",
     "link": "https://jhonnystene.itch.io/escape-the-robots-2",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0MzQzOTQucG5n/315x250%23c/vS4s25.png",
     "title": "Escape The Robots And Oh Gosh They're Coming Run 2: The Better One",
     "video": null,
@@ -89493,24 +89511,6 @@
     "scrapeWords": [
       "Missing",
       "Trinity"
-    ]
-  },
-  {
-    "author": "franbeb",
-    "description": "The Card Game",
-    "genre": "Card Game",
-    "id": "762540",
-    "link": "https://franbeb.itch.io/mutation",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQyNjgxNTIuZ2lm/315x250%23cm/QIMDRI.gif",
-    "title": "Professor Mutation",
-    "video": "https://img.itch.zone/aW1nLzQyNjgxNTIuZ2lm/original/ljzm54.gif",
-    "scrapeWords": [
-      "Professor",
-      "Mutation"
     ]
   },
   {
@@ -97503,6 +97503,24 @@
     ]
   },
   {
+    "author": "sad3d",
+    "description": "a vague demo",
+    "genre": "Adventure",
+    "id": "811773",
+    "link": "https://sad3d.itch.io/neyasnoe",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTE3NDUuanBn/315x250%23c/nHmpAS.jpg",
+    "title": "Neyasnoe",
+    "video": null,
+    "scrapeWords": [
+      "Neyasnoe"
+    ]
+  },
+  {
     "author": "EGFAB Technology",
     "description": "All the fun of tossing a ball to yourself. No, really!",
     "genre": "Action",
@@ -97541,7 +97559,7 @@
   {
     "author": "logiky",
     "description": null,
-    "genre": "Survival",
+    "genre": "Action",
     "id": "812399",
     "link": "https://logiky.itch.io/perfect-ultimate-snake",
     "platforms": [
@@ -97590,6 +97608,60 @@
       "Hard-Coded",
       "Ascension",
       "Prototype"
+    ]
+  },
+  {
+    "author": "franbeb",
+    "description": "Prototipo de juego puzzle de cartas orientado en los mitos y leyendas de los pueblos originarios, para  CREAR",
+    "genre": "Card Game",
+    "id": "812988",
+    "link": "https://franbeb.itch.io/cueva-manos",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTg4MjQucG5n/315x250%23c/xygzNX.png",
+    "title": "La Cueva de las Manos",
+    "video": null,
+    "scrapeWords": [
+      "La",
+      "Cueva",
+      "de",
+      "las",
+      "Manos"
+    ]
+  },
+  {
+    "author": "Pue-Tsuâ",
+    "description": "Bat ponies are celebrating Halloween.",
+    "genre": "Role Playing",
+    "id": "813269",
+    "link": "https://puetsua.itch.io/halloween-bats",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjAzOTQucG5n/315x250%23c/pPbsj8.png",
+    "title": "Halloween bats",
+    "video": null,
+    "scrapeWords": [
+      "Halloween",
+      "bats"
+    ]
+  },
+  {
+    "author": "shantih19",
+    "description": "First Godot shitty project",
+    "genre": null,
+    "id": "813800",
+    "link": "https://shantih19.itch.io/watchingyou",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjM1NzkucG5n/315x250%23c/zudJ7q.png",
+    "title": "WatchingYou",
+    "video": null,
+    "scrapeWords": [
+      "Watching",
+      "You"
     ]
   },
   {
