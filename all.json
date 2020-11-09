@@ -911,6 +911,24 @@
     ]
   },
   {
+    "author": "Nonamefornowsoft",
+    "description": "Invaders Rip-off",
+    "genre": "Shooter",
+    "id": "123614",
+    "link": "https://nonamefornow.itch.io/invasion",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTIzNjE0LzU2OTQzNS5wbmc=/315x250%23c/BT9dGt.png",
+    "title": "Invasion",
+    "video": null,
+    "scrapeWords": [
+      "Invasion"
+    ]
+  },
+  {
     "author": "Non0w",
     "description": "Here is the version 0.2 of ButtButt. (Still in Development)",
     "genre": "Platformer",
@@ -26057,23 +26075,6 @@
     ]
   },
   {
-    "author": "Darklizard",
-    "description": "A highscore game.",
-    "genre": null,
-    "id": "379354",
-    "link": "https://darklizard.itch.io/spaceship-launcher",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE5MDAyMjkucG5n/315x250%23c/sJhuxv.png",
-    "title": "Spaceship Launcher",
-    "video": null,
-    "scrapeWords": [
-      "Spaceship",
-      "Launcher"
-    ]
-  },
-  {
     "author": "Subtyven",
     "description": "2d parkour game inspired by Fortnite",
     "genre": "Platformer",
@@ -30491,6 +30492,26 @@
     "scrapeWords": [
       "Megu",
       "Pong"
+    ]
+  },
+  {
+    "author": "AikonCWD",
+    "description": "John Conway's Game of Life implemented in Godot",
+    "genre": "Simulation",
+    "id": "423326",
+    "link": "https://aikoncwd.itch.io/game-of-life",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MjAzOTYucG5n/315x250%23c/76IXY8.png",
+    "title": "Game of Life",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "of",
+      "Life"
     ]
   },
   {
@@ -50278,8 +50299,7 @@
     "id": "568417",
     "link": "https://janpol.itch.io/julpiter",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5ODY5MDQucG5n/315x250%23c/qMZim9.png",
     "title": "JULPITER",
@@ -79524,24 +79544,6 @@
     ]
   },
   {
-    "author": "Fern&Dez",
-    "description": null,
-    "genre": null,
-    "id": "718805",
-    "link": "https://ferndez.itch.io/game-of-life",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5ODUwOTgucG5n/315x250%23c/R9%2BJ00.png",
-    "title": "Game of Life",
-    "video": null,
-    "scrapeWords": [
-      "Game",
-      "of",
-      "Life"
-    ]
-  },
-  {
     "author": "Cleverzoid",
     "description": "Tiny space shooter created for the LowResJam 2020",
     "genre": "Shooter",
@@ -88540,26 +88542,6 @@
     ]
   },
   {
-    "author": "ElPendrais",
-    "description": null,
-    "genre": null,
-    "id": "756357",
-    "link": "https://elpendrais.itch.io/weird-first-person",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": null,
-    "title": "weird first person",
-    "video": null,
-    "scrapeWords": [
-      "weird",
-      "first",
-      "person"
-    ]
-  },
-  {
     "author": "Vininski",
     "description": "A short story based platformer with a pirate island theme.",
     "genre": "Adventure",
@@ -90750,10 +90732,7 @@
     "genre": "Role Playing",
     "id": "768042",
     "link": "https://vgirotto.itch.io/drop-rpg",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQyOTcyMjUucG5n/315x250%23c/3J7CCf.png",
     "title": "Drop RPG",
     "video": null,
@@ -91527,7 +91506,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQzMjQzNzYucG5n/315x250%23c/YsqSI%2F.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzA2NTIucG5n/315x250%23c/Wt3ifO.png",
     "title": "Hardest Game - Ez Edition",
     "video": null,
     "scrapeWords": [
@@ -96203,6 +96182,27 @@
     ]
   },
   {
+    "author": "Li Wen Studios",
+    "description": "2D Adventure platformer game.",
+    "genre": "Platformer",
+    "id": "802153",
+    "link": "https://li-wen-studios.itch.io/lucifia-the-realm-of-arachna",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0OTIzMjkucG5n/315x250%23c/3gMgNl.png",
+    "title": "Lucifia: The Realm of Arachna",
+    "video": null,
+    "scrapeWords": [
+      "Lucifia",
+      "The",
+      "Realm",
+      "of",
+      "Arachna"
+    ]
+  },
+  {
     "author": "Doubi88",
     "description": "An open source physics puzzle game inspired by The Incredible Machine",
     "genre": "Puzzle",
@@ -97332,6 +97332,22 @@
     ]
   },
   {
+    "author": "Moretto25",
+    "description": "Picross game dev with Godot",
+    "genre": "Puzzle",
+    "id": "809150",
+    "link": "https://moretto25.itch.io/pigross",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzIxMjIucG5n/315x250%23c/19GTGU.png",
+    "title": "Pigross",
+    "video": null,
+    "scrapeWords": [
+      "Pigross"
+    ]
+  },
+  {
     "author": "puppetmaster",
     "description": "Aertubbinauts local multiplayer game",
     "genre": "Platformer",
@@ -97412,7 +97428,7 @@
   },
   {
     "author": "vyalenyj",
-    "description": "Новый год, godot",
+    "description": "Новый год",
     "genre": null,
     "id": "810769",
     "link": "https://vyalenyj.itch.io/sng",
@@ -97518,6 +97534,23 @@
     "video": null,
     "scrapeWords": [
       "Neyasnoe"
+    ]
+  },
+  {
+    "author": "Azertinv",
+    "description": "Alien calculator reverse-engineering",
+    "genre": "Puzzle",
+    "id": "811834",
+    "link": "https://azertinv.itch.io/artefact",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjcyMDIucG5n/315x250%23c/jOpJBe.png",
+    "title": "Artefact",
+    "video": null,
+    "scrapeWords": [
+      "Artefact"
     ]
   },
   {
@@ -97631,6 +97664,23 @@
     ]
   },
   {
+    "author": "Carrot Game Studio",
+    "description": "Choose your tank, your map and challenge your friends in an epic battle with the help of different and fun drops",
+    "genre": "Strategy",
+    "id": "813199",
+    "link": "https://carrotgamestudio.itch.io/stbl-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjAxMjkuanBn/315x250%23c/M67hs%2F.jpg",
+    "title": "STBL-Game",
+    "video": null,
+    "scrapeWords": [
+      "STBL-Game"
+    ]
+  },
+  {
     "author": "Pue-Tsuâ",
     "description": "Bat ponies are celebrating Halloween.",
     "genre": "Role Playing",
@@ -97643,6 +97693,38 @@
     "scrapeWords": [
       "Halloween",
       "bats"
+    ]
+  },
+  {
+    "author": "Martin Firbacher",
+    "description": "The sheep are lazy! Daisy the German shepherd must use her wits to lead the sheep and make them eat all the grass!",
+    "genre": "Puzzle",
+    "id": "813480",
+    "link": "https://firmar.itch.io/sheep",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjIwMTAucG5n/315x250%23c/N8pV%2BK.png",
+    "title": "Sheep",
+    "video": null,
+    "scrapeWords": [
+      "Sheep"
+    ]
+  },
+  {
+    "author": "progsource",
+    "description": "You play the little meteor who wants to fly as far as possible.",
+    "genre": "Action",
+    "id": "813710",
+    "link": "https://progsource.itch.io/pew-pew-meteor",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjU2MDQucG5n/315x250%23c/GlbfiN.png",
+    "title": "pew pew meteor",
+    "video": null,
+    "scrapeWords": [
+      "pew",
+      "pew",
+      "meteor"
     ]
   },
   {
@@ -97662,6 +97744,43 @@
     "scrapeWords": [
       "Watching",
       "You"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Mix and match to uncover the story",
+    "genre": "Puzzle",
+    "id": "814679",
+    "link": "https://jafcraze.itch.io/this-and-that",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1Njg1MDEucG5n/315x250%23c/5BS3oi.png",
+    "title": "This and That",
+    "video": null,
+    "scrapeWords": [
+      "This",
+      "and",
+      "That"
+    ]
+  },
+  {
+    "author": "Finn Pickart",
+    "description": "You wake up in a strange village. All of the residents look like them and it's night forever. Can you escape?",
+    "genre": "Puzzle",
+    "id": "814762",
+    "link": "https://finn378.itch.io/the-stranger-in-town",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1Njg3MzcucG5n/315x250%23c/SLN4oT.png",
+    "title": "The Stranger in Town",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Stranger",
+      "in",
+      "Town"
     ]
   },
   {
