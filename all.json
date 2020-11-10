@@ -30495,26 +30495,6 @@
     ]
   },
   {
-    "author": "AikonCWD",
-    "description": "John Conway's Game of Life implemented in Godot",
-    "genre": "Simulation",
-    "id": "423326",
-    "link": "https://aikoncwd.itch.io/game-of-life",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MjAzOTYucG5n/315x250%23c/76IXY8.png",
-    "title": "Game of Life",
-    "video": null,
-    "scrapeWords": [
-      "Game",
-      "of",
-      "Life"
-    ]
-  },
-  {
     "author": "44pes",
     "description": "Complete all the levels to get the reward from Lucifer.",
     "genre": "Action",
@@ -62158,6 +62138,23 @@
     ]
   },
   {
+    "author": "Maaack",
+    "description": "Second Project in Godot",
+    "genre": "Puzzle",
+    "id": "633266",
+    "link": "https://maaack.itch.io/node-traversal",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0MzkyNDUucG5n/315x250%23c/6akPuo.png",
+    "title": "Node Traversal",
+    "video": null,
+    "scrapeWords": [
+      "Node",
+      "Traversal"
+    ]
+  },
+  {
     "author": "SEAL XAN",
     "description": "We straight up gave this dino a claw... big mistake, very bad.",
     "genre": "Platformer",
@@ -63673,6 +63670,23 @@
       "Tank",
       "In",
       "Space"
+    ]
+  },
+  {
+    "author": "Maaack",
+    "description": "First Godot project. Asteroids inspired space sim.",
+    "genre": "Simulation",
+    "id": "642224",
+    "link": "https://maaack.itch.io/projecto-primero",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0Mzc4MTcucG5n/315x250%23c/N6YHLU.png",
+    "title": "Projecto Primero",
+    "video": null,
+    "scrapeWords": [
+      "Projecto",
+      "Primero"
     ]
   },
   {
@@ -67052,6 +67066,23 @@
     ]
   },
   {
+    "author": "Maaack",
+    "description": "Third Godot project.  Tile-based turn-based diet simulator.",
+    "genre": "Role Playing",
+    "id": "660627",
+    "link": "https://maaack.itch.io/mouse-pun",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1NTkwMDYucG5n/315x250%23c/eaLl%2Fs.png",
+    "title": "Mouse Pun",
+    "video": null,
+    "scrapeWords": [
+      "Mouse",
+      "Pun"
+    ]
+  },
+  {
     "author": "NothingSoftwares",
     "description": "A game about falling infinitely down a green tunnel, avoiding obstacles and gathering points.",
     "genre": "Action",
@@ -68932,7 +68963,10 @@
     "genre": "Puzzle",
     "id": "673683",
     "link": "https://terragos.itch.io/cubit-crawler",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ1Mjc5MTkucG5n/315x250%23c/I3VaqL.png",
     "title": "Cubit Crawler",
     "video": null,
@@ -71560,6 +71594,25 @@
     ]
   },
   {
+    "author": "Maaack",
+    "description": "Fourth project in Godot. An abstract card game.",
+    "genre": "Card Game",
+    "id": "686603",
+    "link": "https://maaack.itch.io/fleeting-cards",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3ODA2MTIucG5n/315x250%23c/fdCwTq.png",
+    "title": "Fleeting Cards",
+    "video": null,
+    "scrapeWords": [
+      "Fleeting",
+      "Cards"
+    ]
+  },
+  {
     "author": "LibreTen",
     "description": null,
     "genre": "Action",
@@ -71676,13 +71729,9 @@
     "genre": "Puzzle",
     "id": "687541",
     "link": "https://vimino.itch.io/mathemaplex",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM4MTAyOTMucG5n/315x250%23c/GWvfRz.png",
-    "title": "Mathemaplex",
+    "title": "Mathemaplex Demo",
     "video": null,
     "scrapeWords": [
       "Mathemaplex"
@@ -79541,6 +79590,24 @@
     "scrapeWords": [
       "Dino",
       "Jump"
+    ]
+  },
+  {
+    "author": "Fern&Dez",
+    "description": null,
+    "genre": null,
+    "id": "718805",
+    "link": "https://ferndez.itch.io/game-of-life",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5ODUwOTgucG5n/315x250%23c/R9%2BJ00.png",
+    "title": "Game of Life",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "of",
+      "Life"
     ]
   },
   {
@@ -90459,7 +90526,9 @@
     "genre": "Platformer",
     "id": "766500",
     "link": "https://putaitu.itch.io/bolter",
-    "platforms": null,
+    "platforms": [
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NDQzMDEuanBn/315x250%23c/MUb5x7.jpg",
     "title": "Bolter",
     "video": null,
@@ -96221,6 +96290,21 @@
     ]
   },
   {
+    "author": "Pablo1575",
+    "description": null,
+    "genre": "Adventure",
+    "id": "802621",
+    "link": "https://pablo1575.itch.io/geometrymath20",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0OTUzMzcucG5n/315x250%23c/53Hvts.png",
+    "title": "GeometryMath2.0",
+    "video": null,
+    "scrapeWords": [
+      "Geometry",
+      "Math20"
+    ]
+  },
+  {
     "author": "Supositware",
     "description": "Very short game I am currently making to learn about godot and game development",
     "genre": null,
@@ -96773,7 +96857,7 @@
   },
   {
     "author": "6E23",
-    "description": "Hoooooooook head",
+    "description": "Jump, slash and hook your way through this short, tight platformer",
     "genre": "Platformer",
     "id": "806134",
     "link": "https://6e23.itch.io/hook-head",
@@ -97047,7 +97131,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MjU1ODMucG5n/315x250%23c/y3LGQK.png",
     "title": "Donut Seduction",
@@ -97544,7 +97629,8 @@
     "link": "https://azertinv.itch.io/artefact",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NjcyMDIucG5n/315x250%23c/jOpJBe.png",
     "title": "Artefact",
@@ -97747,6 +97833,38 @@
     ]
   },
   {
+    "author": "Raisin98",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "814086",
+    "link": "https://raisin98.itch.io/its-a-giant",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1Njg2NjcucG5n/315x250%23c/D5UQyw.png",
+    "title": "It's a Giant!",
+    "video": null,
+    "scrapeWords": [
+      "Its",
+      "a",
+      "Giant"
+    ]
+  },
+  {
+    "author": "brendor",
+    "description": "Where? What? Huh?!",
+    "genre": "Adventure",
+    "id": "814501",
+    "link": "https://brendor.itch.io/tuoyawon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1Njc5NjMucG5n/315x250%23c/PaF%2Bhy.png",
+    "title": "Tuoyawon",
+    "video": null,
+    "scrapeWords": [
+      "Tuoyawon"
+    ]
+  },
+  {
     "author": "JafCraze",
     "description": "Mix and match to uncover the story",
     "genre": "Puzzle",
@@ -97781,6 +97899,40 @@
       "Stranger",
       "in",
       "Town"
+    ]
+  },
+  {
+    "author": "Forestfall",
+    "description": "The world is dead. The Forest rules. Welcome to the Wasteland.",
+    "genre": "Role Playing",
+    "id": "815506",
+    "link": "https://forestfall.itch.io/forestfall-demo",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzIzMDguanBn/315x250%23c/qXZ2Om.jpg",
+    "title": "Forestfall (Demo)",
+    "video": null,
+    "scrapeWords": [
+      "Forestfall"
+    ]
+  },
+  {
+    "author": "Mystery Studio",
+    "description": "Contain and Destroy infected areas by planting bombs",
+    "genre": "Strategy",
+    "id": "815540",
+    "link": "https://mysteryheart.itch.io/infection-control",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzI1NjIucG5n/315x250%23c/I4BYRF.png",
+    "title": "Infection Control - Jam edition",
+    "video": null,
+    "scrapeWords": [
+      "Infection",
+      "Control",
+      "Jam",
+      "edition"
     ]
   },
   {
