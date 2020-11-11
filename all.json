@@ -28912,28 +28912,6 @@
     ]
   },
   {
-    "author": "Demonevil",
-    "description": null,
-    "genre": "Platformer",
-    "id": "409871",
-    "link": "https://ilyafy.itch.io/mental-hospital-2d",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMzc1NjQucG5n/315x250%23c/dYdG5X.png",
-    "title": "Mental Hospital 2D",
-    "video": null,
-    "scrapeWords": [
-      "Mental",
-      "Hospital",
-      "2",
-      "D"
-    ]
-  },
-  {
     "author": "Game Gland",
     "description": "zombie apocalypse",
     "genre": "Platformer",
@@ -38351,6 +38329,21 @@
     ]
   },
   {
+    "author": "TIBI4",
+    "description": null,
+    "genre": "Simulation",
+    "id": "476170",
+    "link": "https://tibi4.itch.io/food-friends",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTE5OTYucG5n/315x250%23c/1ue0Yo.png",
+    "title": "Food Friends",
+    "video": null,
+    "scrapeWords": [
+      "Food",
+      "Friends"
+    ]
+  },
+  {
     "author": "diogohex",
     "description": "experimental adventure-platform game",
     "genre": "Adventure",
@@ -44113,7 +44106,7 @@
   {
     "author": "Ange HUBERT",
     "description": "a dodging game made with Godot Egine made in 3 days",
-    "genre": null,
+    "genre": "Rhythm",
     "id": "520881",
     "link": "https://le-professeur-stagiaire.itch.io/missile",
     "platforms": [
@@ -66163,6 +66156,25 @@
     ]
   },
   {
+    "author": "Dr Gore",
+    "description": "Shoot guards and communicate with your partner to decode puzzles.",
+    "genre": "Action",
+    "id": "655783",
+    "link": "https://dr-gore.itch.io/shooter-keypad-puzzle-prototype",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3MTk1ODcucG5n/315x250%23c/JZcrjO.png",
+    "title": "Shooter Keypad Puzzle Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Shooter",
+      "Keypad",
+      "Puzzle",
+      "Prototype"
+    ]
+  },
+  {
     "author": "Jon Topielski",
     "description": "Welcome to your new job as a Telemarketer!",
     "genre": "Simulation",
@@ -71728,7 +71740,7 @@
     "description": null,
     "genre": "Puzzle",
     "id": "687541",
-    "link": "https://vimino.itch.io/mathemaplex",
+    "link": "https://vimino.itch.io/mathemaplex-demo",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM4MTAyOTMucG5n/315x250%23c/GWvfRz.png",
     "title": "Mathemaplex Demo",
@@ -77710,11 +77722,11 @@
     ]
   },
   {
-    "author": "SquishyCat",
+    "author": "NightCloud",
     "description": "Jump around in the world of shapes and defeat other shapes as well!",
     "genre": "Platformer",
     "id": "708758",
-    "link": "https://squishycat.itch.io/akriti",
+    "link": "https://nightcloud.itch.io/akriti",
     "platforms": [
       "Windows",
       "Linux",
@@ -80791,11 +80803,11 @@
     ]
   },
   {
-    "author": "Rokhodotos",
+    "author": "Maskedrokho",
     "description": null,
     "genre": "Platformer",
     "id": "725993",
-    "link": "https://rokhodotos.itch.io/factory-jump",
+    "link": "https://maskedrokho.itch.io/factory-jump",
     "platforms": [
       "Windows"
     ],
@@ -92817,11 +92829,11 @@
     ]
   },
   {
-    "author": "Casual_gamer",
+    "author": "Casual Gamedev",
     "description": "This is my second game ever made.I had an amazing time learning new stuff.Hope you guys try it.",
     "genre": "Action",
     "id": "778787",
-    "link": "https://casual-gamer.itch.io/trench-fever",
+    "link": "https://casual-gamedev.itch.io/trench-fever",
     "platforms": [
       "Windows",
       "Linux",
@@ -95762,7 +95774,11 @@
     "genre": "Racing",
     "id": "797793",
     "link": "https://issmir.itch.io/magracer",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NjcxNjcucG5n/315x250%23c/KzAQZA.png",
     "title": "MagRacer Alpha",
     "video": null,
@@ -97782,6 +97798,24 @@
     ]
   },
   {
+    "author": "iwilliams",
+    "description": "An atmospheric horror experience made for the Haunted PS1 Halloween Jam",
+    "genre": "Adventure",
+    "id": "813471",
+    "link": "https://iwilliams.itch.io/prepper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjMxNzkucG5n/315x250%23c/JAXRNG.png",
+    "title": "Prepper",
+    "video": null,
+    "scrapeWords": [
+      "Prepper"
+    ]
+  },
+  {
     "author": "Martin Firbacher",
     "description": "The sheep are lazy! Daisy the German shepherd must use her wits to lead the sheep and make them eat all the grass!",
     "genre": "Puzzle",
@@ -97906,13 +97940,13 @@
     "description": "The world is dead. The Forest rules. Welcome to the Wasteland.",
     "genre": "Role Playing",
     "id": "815506",
-    "link": "https://forestfall.itch.io/forestfall-demo",
+    "link": "https://forestfall.itch.io/forestfall",
     "platforms": [
       "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NzIzMDguanBn/315x250%23c/qXZ2Om.jpg",
-    "title": "Forestfall (Demo)",
+    "title": "Forestfall",
     "video": null,
     "scrapeWords": [
       "Forestfall"
@@ -97933,6 +97967,42 @@
       "Control",
       "Jam",
       "edition"
+    ]
+  },
+  {
+    "author": "inklink",
+    "description": "fun demo of a cubic platformer",
+    "genre": "Platformer",
+    "id": "815805",
+    "link": "https://inklink.itch.io/cubic-adventures",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzkxMzkucG5n/315x250%23c/cfXdsz.png",
+    "title": "Cubic Adventures",
+    "video": null,
+    "scrapeWords": [
+      "Cubic",
+      "Adventures"
+    ]
+  },
+  {
+    "author": "lepiku",
+    "description": "Game about saving a princess locked in a dungeon.",
+    "genre": "Action",
+    "id": "817137",
+    "link": "https://lepiku.itch.io/dungeon-rush",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODE3MzYucG5n/315x250%23c/4I2AcY.png",
+    "title": "Dungeon Rush",
+    "video": null,
+    "scrapeWords": [
+      "Dungeon",
+      "Rush"
     ]
   },
   {
