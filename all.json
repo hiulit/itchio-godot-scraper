@@ -54478,6 +54478,24 @@
     ]
   },
   {
+    "author": "Just Some Chars",
+    "description": "Dodgeball but with cubes",
+    "genre": "Platformer",
+    "id": "597625",
+    "link": "https://jschars.itch.io/dodgecube",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxNzc4NDcucG5n/315x250%23c/HQBGxT.png",
+    "title": "DODGECUBE",
+    "video": null,
+    "scrapeWords": [
+      "DODGECUBE"
+    ]
+  },
+  {
     "author": "OptionalGames",
     "description": "A game about making friends and not letting the bad vibes get to you.",
     "genre": null,
@@ -62213,11 +62231,11 @@
     ]
   },
   {
-    "author": "Lotcam",
+    "author": "AndresLot",
     "description": "A combo arcade game that tests your skills!",
     "genre": "Survival",
     "id": "633480",
-    "link": "https://lotcam.itch.io/oasis-showdown",
+    "link": "https://andreslot.itch.io/oasis-showdown",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMzODI4MTQucG5n/315x250%23c/W2Bnb1.png",
     "title": "Oasis Showdown",
@@ -65301,12 +65319,12 @@
   },
   {
     "author": "carshalljd",
-    "description": "Ranked multiplayer capture the flag",
+    "description": "Multiplayer capture the flag with weapons",
     "genre": "Action",
     "id": "650606",
     "link": "https://carshalljd.itch.io/superctf",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM0OTA1NDIucG5n/315x250%23c/m%2BspEs.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODQ5MDMucG5n/315x250%23c/2VM08M.png",
     "title": "SuperCTF",
     "video": null,
     "scrapeWords": [
@@ -91778,6 +91796,25 @@
     ]
   },
   {
+    "author": "One-bit Punch",
+    "description": "A simple pocket-sized roguelike",
+    "genre": "Role Playing",
+    "id": "773691",
+    "link": "https://onebitpunch.itch.io/hello-rogue",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzcyOTEucG5n/315x250%23c/F0sxLt.png",
+    "title": "Hello Rogue",
+    "video": null,
+    "scrapeWords": [
+      "Hello",
+      "Rogue"
+    ]
+  },
+  {
     "author": "Euphionia Official",
     "description": null,
     "genre": "Platformer",
@@ -92349,6 +92386,20 @@
     "video": null,
     "scrapeWords": [
       "Protogonus"
+    ]
+  },
+  {
+    "author": "ZacLaMenace",
+    "description": "Try to get to Level 2 !",
+    "genre": "Platformer",
+    "id": "777304",
+    "link": "https://zaclamenace.itch.io/level2",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQzNTA5NjMucG5n/315x250%23c/MOE%2Fuj.png",
+    "title": "Level2",
+    "video": null,
+    "scrapeWords": [
+      "Level2"
     ]
   },
   {
@@ -94263,7 +94314,7 @@
     ]
   },
   {
-    "author": "Maestro313",
+    "author": "Maestro",
     "description": null,
     "genre": "Adventure",
     "id": "786893",
@@ -97003,6 +97054,27 @@
     ]
   },
   {
+    "author": "iggy",
+    "description": "For Leeble Game Jam 6! By Iggy Ofstie and Dwapook!",
+    "genre": "Puzzle",
+    "id": "806885",
+    "link": "https://iggytheperson.itch.io/kiki-and-lemons-deep-space-chase",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1MjE5ODgucG5n/315x250%23c/dXP2rk.png",
+    "title": "Kiki and Lemon's Deep Space Chase",
+    "video": null,
+    "scrapeWords": [
+      "Kiki",
+      "and",
+      "Lemons",
+      "Deep",
+      "Space",
+      "Chase"
+    ]
+  },
+  {
     "author": "xezton",
     "description": "Spooky screensaver",
     "genre": null,
@@ -97648,7 +97720,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1NjcyMDIucG5n/315x250%23c/jOpJBe.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODMxOTAucG5n/315x250%23c/20Xsmu.png",
     "title": "Artefact",
     "video": null,
     "scrapeWords": [
@@ -97979,12 +98051,83 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1NzkxMzkucG5n/315x250%23c/cfXdsz.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODUzMDEucG5n/315x250%23c/v38IUR.png",
     "title": "Cubic Adventures",
     "video": null,
     "scrapeWords": [
       "Cubic",
       "Adventures"
+    ]
+  },
+  {
+    "author": "Demon Horse",
+    "description": "Simple roguelite platformer for android",
+    "genre": "Platformer",
+    "id": "815996",
+    "link": "https://demon-horse.itch.io/just-dungeon",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzUwNjEucG5n/315x250%23c/ssdwL2.png",
+    "title": "Just Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "Dungeon"
+    ]
+  },
+  {
+    "author": "theunknown42",
+    "description": null,
+    "genre": "Visual Novel",
+    "id": "816725",
+    "link": "https://theunknown42.itch.io/the-unknown",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzkyMTcucG5n/315x250%23c/GYX98Z.png",
+    "title": "The Unknown",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Unknown"
+    ]
+  },
+  {
+    "author": "biblegames",
+    "description": "Learn the Gospel of Matthew by playing differents games: puzzles, game of 15 and slide the pieces.",
+    "genre": "Educational",
+    "id": "816843",
+    "link": "https://biblegames.itch.io/bible-puzzle-games",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODE1MjUuanBn/315x250%23c/khYpxu.jpg",
+    "title": "Bible Puzzle Games",
+    "video": null,
+    "scrapeWords": [
+      "Bible",
+      "Puzzle",
+      "Games"
+    ]
+  },
+  {
+    "author": "Luke I. Wilson",
+    "description": "Battle a robot in a game of missile tennis, but defend your health and energy with quick blocks.",
+    "genre": "Action",
+    "id": "816944",
+    "link": "https://codemessiah.itch.io/mechoid-deflectoid",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODEzNjEuZ2lm/315x250%23cm/6RK2kA.gif",
+    "title": "Mechoid Deflectoid",
+    "video": "https://img.itch.zone/aW1nLzQ1ODEzNjEuZ2lm/original/S9dlHX.gif",
+    "scrapeWords": [
+      "Mechoid",
+      "Deflectoid"
     ]
   },
   {
@@ -98003,6 +98146,56 @@
     "scrapeWords": [
       "Dungeon",
       "Rush"
+    ]
+  },
+  {
+    "author": "kHalkHo",
+    "description": "Endless runner with shooting in a cyberpunk theme",
+    "genre": null,
+    "id": "817543",
+    "link": "https://khalkho.itch.io/cyberpunk-runner",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODM5MTMuanBn/315x250%23c/lKuzNo.jpg",
+    "title": "CYBERPUNK_RUNNER",
+    "video": null,
+    "scrapeWords": [
+      "CYBERPUNK_RUNNER"
+    ]
+  },
+  {
+    "author": "monohonplaya",
+    "description": "S Force - The Game",
+    "genre": "Platformer",
+    "id": "817986",
+    "link": "https://monohonplaya.itch.io/s-force",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODYyMDQuanBn/315x250%23c/vkTMQu.jpg",
+    "title": "S Force",
+    "video": null,
+    "scrapeWords": [
+      "S",
+      "Force"
+    ]
+  },
+  {
+    "author": "Leandro Araújo",
+    "description": "a simple platformer",
+    "genre": "Platformer",
+    "id": "818089",
+    "link": "https://leandroc.itch.io/platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODY2NTYucG5n/315x250%23c/%2FGxZ%2BB.png",
+    "title": "platformer",
+    "video": null,
+    "scrapeWords": [
+      "platformer"
     ]
   },
   {
