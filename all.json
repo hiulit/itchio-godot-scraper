@@ -44530,7 +44530,10 @@
     "genre": "Strategy",
     "id": "525871",
     "link": "https://crplay.itch.io/roguelike",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMwNjc4NDEucG5n/315x250%23c/ywuSqf.png",
     "title": "ROGUELIKE",
     "video": null,
@@ -81428,7 +81431,12 @@
     "genre": "Action",
     "id": "730062",
     "link": "https://pixelssteam12.itch.io/dashing-darkness100000000",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NjQxOTQucG5n/315x250%23c/LFOgsV.png",
     "title": "DASHING DARKNESS!",
     "video": null,
@@ -94915,6 +94923,22 @@
     ]
   },
   {
+    "author": "439Games",
+    "description": null,
+    "genre": "Platformer",
+    "id": "791847",
+    "link": "https://439games.itch.io/moonkiss-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NDc4MDAucG5n/315x250%23c/OHF571.png",
+    "title": "MoonKiss Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Moon",
+      "Kiss",
+      "Platformer"
+    ]
+  },
+  {
     "author": "Motylka",
     "description": "A bite-sized adventure in an enchanted forest.",
     "genre": "Adventure",
@@ -95185,6 +95209,25 @@
     "scrapeWords": [
       "Skull",
       "High"
+    ]
+  },
+  {
+    "author": "Fabco",
+    "description": "Destroy all the other spaceships or avoid all bullets and became the last survivor",
+    "genre": "Fighting",
+    "id": "793007",
+    "link": "https://fabco.itch.io/without-asteroids",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0NDA2MTYucG5n/315x250%23c/%2BDekhB.png",
+    "title": "Without Asteroids",
+    "video": null,
+    "scrapeWords": [
+      "Without",
+      "Asteroids"
     ]
   },
   {
@@ -96767,7 +96810,8 @@
     "link": "https://kanti1984.itch.io/project-zero-solastalgia",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTAxMTcucG5n/315x250%23c/BCkBNg.png",
     "title": "Project Zero: Solastalgia",
@@ -98077,27 +98121,8 @@
     ]
   },
   {
-    "author": "theunknown42",
-    "description": null,
-    "genre": "Visual Novel",
-    "id": "816725",
-    "link": "https://theunknown42.itch.io/the-unknown",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1NzkyMTcucG5n/315x250%23c/GYX98Z.png",
-    "title": "The Unknown",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Unknown"
-    ]
-  },
-  {
     "author": "biblegames",
-    "description": "Learn the Gospel of Matthew by playing differents games: puzzles, game of 15 and slide the pieces.",
+    "description": "Learn the Gospel of Matthew by playing puzzles games:  jigsaw puzzle,  15 puzzle and  piece escape.",
     "genre": "Educational",
     "id": "816843",
     "link": "https://biblegames.itch.io/bible-puzzle-games",
@@ -98196,6 +98221,23 @@
     "video": null,
     "scrapeWords": [
       "platformer"
+    ]
+  },
+  {
+    "author": "8B6",
+    "description": "Search for your lost memories in a remote town surrounded by dense woods.",
+    "genre": "Adventure",
+    "id": "818562",
+    "link": "https://8b6.itch.io/stray-roads",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODkyNDYuanBn/315x250%23c/k7Ldxp.jpg",
+    "title": "Stray Roads",
+    "video": null,
+    "scrapeWords": [
+      "Stray",
+      "Roads"
     ]
   },
   {
