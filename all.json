@@ -50569,7 +50569,7 @@
     ]
   },
   {
-    "author": "Poopbits",
+    "author": "Juan Colacelli",
     "description": "Escape or die, it's your choice",
     "genre": "Platformer",
     "id": "570980",
@@ -89161,9 +89161,10 @@
     "link": "https://oli-hawthorne.itch.io/silver-crown",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1MDQ3NDkucG5n/315x250%23c/hfEsGh.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTk0MDEucG5n/315x250%23c/NKt90j.png",
     "title": "Silver Crown",
     "video": null,
     "scrapeWords": [
@@ -96170,7 +96171,7 @@
   },
   {
     "author": "Daniel Barral",
-    "description": "Can you control many arrows at the same time?",
+    "description": "Mind-bending action/puzzle where you control many arrows at the same time!",
     "genre": "Action",
     "id": "800157",
     "link": "https://danielbarral.itch.io/many-directions",
@@ -96224,7 +96225,7 @@
     "id": "800484",
     "link": "https://icarusdev.itch.io/space-anomaly",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ0ODI5NjQucG5n/315x250%23c/SumQwW.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTc4NTMucG5n/315x250%23c/lfKk5C.png",
     "title": "Space anomaly",
     "video": null,
     "scrapeWords": [
@@ -97484,7 +97485,8 @@
     "id": "808442",
     "link": "https://kaizarnike.itch.io/screen-toybox",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NTM3MjkucG5n/315x250%23c/XWacnK.png",
     "title": "Screen Toybox",
@@ -97984,7 +97986,7 @@
   },
   {
     "author": "Raisin98",
-    "description": null,
+    "description": "Have fun being big!",
     "genre": "Role Playing",
     "id": "814086",
     "link": "https://raisin98.itch.io/its-a-giant",
@@ -98224,6 +98226,21 @@
     ]
   },
   {
+    "author": "Aktivshuda Games",
+    "description": "Eliminate Nazi Zombies!",
+    "genre": "Shooter",
+    "id": "818246",
+    "link": "https://aktivshuda.itch.io/misc",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODc0NDIuanBn/315x250%23c/%2FlAHfi.jpg",
+    "title": "Hell Victory",
+    "video": null,
+    "scrapeWords": [
+      "Hell",
+      "Victory"
+    ]
+  },
+  {
     "author": "8B6",
     "description": "Search for your lost memories in a remote town surrounded by dense woods.",
     "genre": "Adventure",
@@ -98238,6 +98255,67 @@
     "scrapeWords": [
       "Stray",
       "Roads"
+    ]
+  },
+  {
+    "author": "branch.exe",
+    "description": "Made with MS paint and Godot in around 30 minutes",
+    "genre": "Action",
+    "id": "819141",
+    "link": "https://branchexe.itch.io/ms-paint-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTY4MTkucG5n/315x250%23c/XSaNtI.png",
+    "title": "MS Paint game",
+    "video": null,
+    "scrapeWords": [
+      "MS",
+      "Paint",
+      "game"
+    ]
+  },
+  {
+    "author": "Hitit Studio",
+    "description": null,
+    "genre": "Strategy",
+    "id": "819616",
+    "link": "https://hititstudio.itch.io/rescuethecolony",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTQ3MjIuanBn/315x250%23c/EfAz3z.jpg",
+    "title": "Rescue The Colony",
+    "video": null,
+    "scrapeWords": [
+      "Rescue",
+      "The",
+      "Colony"
+    ]
+  },
+  {
+    "author": "Sciaenops",
+    "description": "Collect samples and survive!",
+    "genre": "Shooter",
+    "id": "819760",
+    "link": "https://sciaenops.itch.io/red-rover",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTU0OTkucG5n/315x250%23c/8DESWp.png",
+    "title": "RED ROVER",
+    "video": null,
+    "scrapeWords": [
+      "RED",
+      "ROVER"
+    ]
+  },
+  {
+    "author": "tomtom2352",
+    "description": "A 2D platforming shooter game inspired by the flash game Zombotron",
+    "genre": "Platformer",
+    "id": "820179",
+    "link": "https://tomtom2352.itch.io/astrotron",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTc2NDEucG5n/315x250%23c/a7PX4R.png",
+    "title": "Astrotron",
+    "video": null,
+    "scrapeWords": [
+      "Astrotron"
     ]
   },
   {
