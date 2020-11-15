@@ -50573,7 +50573,7 @@
     "description": "Escape or die, it's your choice",
     "genre": "Platformer",
     "id": "570980",
-    "link": "https://poopbits.itch.io/droid7",
+    "link": "https://juancolacelli.itch.io/droid7",
     "platforms": [
       "Windows",
       "Linux",
@@ -88198,7 +88198,7 @@
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1MzcxNDUucG5n/315x250%23c/MRh52j.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDQ4NTIucG5n/315x250%23c/hOlQEN.png",
     "title": "Malice & Greed by Xendra",
     "video": null,
     "scrapeWords": [
@@ -92468,11 +92468,11 @@
     ]
   },
   {
-    "author": "thesedatedprince",
+    "author": "popnihilism",
     "description": "Ludum Dare 47 Entry",
     "genre": null,
     "id": "777336",
-    "link": "https://thesedatedprince.itch.io/weighing-of-the-heart",
+    "link": "https://popnihilism.itch.io/weighing-of-the-heart",
     "platforms": null,
     "thumb": null,
     "title": "Weighing Of The Heart",
@@ -96176,7 +96176,7 @@
     "id": "800157",
     "link": "https://danielbarral.itch.io/many-directions",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ0ODA0NDUucG5n/315x250%23c/0ifUgc.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDM1NDcucG5n/315x250%23c/LLTk%2F7.png",
     "title": "Many Directions",
     "video": null,
     "scrapeWords": [
@@ -96811,8 +96811,7 @@
     "link": "https://kanti1984.itch.io/project-zero-solastalgia",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTAxMTcucG5n/315x250%23c/BCkBNg.png",
     "title": "Project Zero: Solastalgia",
@@ -97486,6 +97485,7 @@
     "link": "https://kaizarnike.itch.io/screen-toybox",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NTM3MjkucG5n/315x250%23c/XWacnK.png",
@@ -97901,6 +97901,23 @@
     ]
   },
   {
+    "author": "DeadGames Studio",
+    "description": "No Brakes - arcade racing with explosions and rockets!",
+    "genre": "Racing",
+    "id": "813201",
+    "link": "https://deadgames-studio.itch.io/no-brakes",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1Njc2MDAucG5n/315x250%23c/qqy0qm.png",
+    "title": "No Brakes",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Brakes"
+    ]
+  },
+  {
     "author": "Pue-Tsuâ",
     "description": "Bat ponies are celebrating Halloween.",
     "genre": "Role Playing",
@@ -97985,6 +98002,21 @@
     ]
   },
   {
+    "author": "v4dkou",
+    "description": "Электрификация была ошибкой",
+    "genre": "Platformer",
+    "id": "814027",
+    "link": "https://v4dkou.itch.io/powerhungry",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjYyMDcuanBn/315x250%23c/rqo%2Fzs.jpg",
+    "title": "Power Hungry",
+    "video": null,
+    "scrapeWords": [
+      "Power",
+      "Hungry"
+    ]
+  },
+  {
     "author": "Raisin98",
     "description": "Have fun being big!",
     "genre": "Role Playing",
@@ -97998,6 +98030,24 @@
       "Its",
       "a",
       "Giant"
+    ]
+  },
+  {
+    "author": "jlunesc",
+    "description": null,
+    "genre": "Shooter",
+    "id": "814498",
+    "link": "https://jlunesc.itch.io/invaders",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTA4NDQucG5n/315x250%23c/FTYRaF.png",
+    "title": "invaders",
+    "video": null,
+    "scrapeWords": [
+      "invaders"
     ]
   },
   {
@@ -98230,7 +98280,7 @@
     "description": "Eliminate Nazi Zombies!",
     "genre": "Shooter",
     "id": "818246",
-    "link": "https://aktivshuda.itch.io/misc",
+    "link": "https://aktivshuda.itch.io/fps-1",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1ODc0NDIuanBn/315x250%23c/%2FlAHfi.jpg",
     "title": "Hell Victory",
@@ -98238,6 +98288,25 @@
     "scrapeWords": [
       "Hell",
       "Victory"
+    ]
+  },
+  {
+    "author": "ZacLaMenace",
+    "description": "Shoot the ball into the enemy's goal before they do! Be fast and agile for this party game to beat your friends!!",
+    "genre": "Fighting",
+    "id": "818363",
+    "link": "https://zaclamenace.itch.io/round-foot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODgxNzIucG5n/315x250%23c/72sOHh.png",
+    "title": "Round Foot",
+    "video": null,
+    "scrapeWords": [
+      "Round",
+      "Foot"
     ]
   },
   {
@@ -98274,6 +98343,21 @@
     ]
   },
   {
+    "author": "XanthosWare",
+    "description": "Ring Away Against Your Friend!",
+    "genre": null,
+    "id": "819286",
+    "link": "https://xanthosware.itch.io/doorbell-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTM0NzEucG5n/315x250%23c/f4rRQW.png",
+    "title": "Doorbell Game",
+    "video": null,
+    "scrapeWords": [
+      "Doorbell",
+      "Game"
+    ]
+  },
+  {
     "author": "Hitit Studio",
     "description": null,
     "genre": "Strategy",
@@ -98295,7 +98379,10 @@
     "genre": "Shooter",
     "id": "819760",
     "link": "https://sciaenops.itch.io/red-rover",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ1OTU0OTkucG5n/315x250%23c/8DESWp.png",
     "title": "RED ROVER",
     "video": null,
@@ -98316,6 +98403,53 @@
     "video": null,
     "scrapeWords": [
       "Astrotron"
+    ]
+  },
+  {
+    "author": "justadude1",
+    "description": "70s style stealth x racing game about robbing graves",
+    "genre": "Action",
+    "id": "820665",
+    "link": "https://justadude1.itch.io/runover",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDI0MjcuZ2lm/315x250%23cm/RfZ7E3.gif",
+    "title": "RUNOVER",
+    "video": "https://img.itch.zone/aW1nLzQ2MDI0MjcuZ2lm/original/IsJhAv.gif",
+    "scrapeWords": [
+      "RUNOVER"
+    ]
+  },
+  {
+    "author": "Conundrum",
+    "description": "Chicken Game Jam 2020 entry",
+    "genre": "Puzzle",
+    "id": "820879",
+    "link": "https://conundrum1988.itch.io/polter-guy-escape",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDIwMjcucG5n/315x250%23c/gliklS.png",
+    "title": "Polter-Guy Escape!",
+    "video": null,
+    "scrapeWords": [
+      "Polter-Guy",
+      "Escape"
+    ]
+  },
+  {
+    "author": "lajollagamesclub",
+    "description": null,
+    "genre": "Action",
+    "id": "821481",
+    "link": "https://lajollagamesclub.itch.io/2-hour-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDQ4NTQucG5n/315x250%23c/aWhTYK.png",
+    "title": "2 Hour Game",
+    "video": null,
+    "scrapeWords": [
+      "2",
+      "Hour",
+      "Game"
     ]
   },
   {
