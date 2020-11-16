@@ -56642,22 +56642,6 @@
     ]
   },
   {
-    "author": "Jack Taylor",
-    "description": null,
-    "genre": "Platformer",
-    "id": "609744",
-    "link": "https://jacktaylorgames.itch.io/ellie",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NDAxODIucG5n/315x250%23c/E0rnfW.png",
-    "title": "Ellie.",
-    "video": null,
-    "scrapeWords": [
-      "Ellie"
-    ]
-  },
-  {
     "author": "VerttiXPertti",
     "description": "Power the Earth! made in under 3 hours so it sucks soz",
     "genre": "Action",
@@ -61932,26 +61916,6 @@
     "scrapeWords": [
       "Metal",
       "Gauntlets"
-    ]
-  },
-  {
-    "author": "litenhamster",
-    "description": null,
-    "genre": "Platformer",
-    "id": "632754",
-    "link": "https://litenhamster.itch.io/jump-n-run",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMzODYwMDIucG5n/315x250%23c/k8WFk4.png",
-    "title": "Jump N Run",
-    "video": null,
-    "scrapeWords": [
-      "Jump",
-      "N",
-      "Run"
     ]
   },
   {
@@ -83282,11 +83246,11 @@
     ]
   },
   {
-    "author": "NeverEnd612",
+    "author": "BinaryMind",
     "description": "For a friend; A birthday special :) (First ever game)",
     "genre": "Platformer",
     "id": "735343",
-    "link": "https://neverend612.itch.io/harrison-quest",
+    "link": "https://binarymind.itch.io/harrison-quest",
     "platforms": [
       "Windows"
     ],
@@ -85890,6 +85854,25 @@
       "Can",
       "you",
       "Moses"
+    ]
+  },
+  {
+    "author": "remtaine",
+    "description": "Blast your way through the sky to go against the Sun, as a sunflower out for revenge!",
+    "genre": "Shooter",
+    "id": "742862",
+    "link": "https://remtaine.itch.io/sunflower-bullet-hell",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDMyNDMucG5n/315x250%23c/HdHJDR.png",
+    "title": "Sunflower Bullet Hell",
+    "video": null,
+    "scrapeWords": [
+      "Sunflower",
+      "Bullet",
+      "Hell"
     ]
   },
   {
@@ -89507,7 +89490,9 @@
     "genre": "Action",
     "id": "762156",
     "link": "https://jacktaylorgames.itch.io/justdontgetcaught",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQyOTc0MjQucG5n/315x250%23c/5pEmys.png",
     "title": "Just Don't Get Caught!",
     "video": null,
@@ -89804,7 +89789,7 @@
     ]
   },
   {
-    "author": "Dieg0",
+    "author": "Dɪᴇɢ0",
     "description": "A little, rythm-based platformer game, made for the Godot Wild Jam",
     "genre": "Platformer",
     "id": "763355",
@@ -96170,6 +96155,20 @@
     ]
   },
   {
+    "author": "Jan Schneider",
+    "description": "Short and cute infinite runner made for web and mobile.",
+    "genre": "Action",
+    "id": "799789",
+    "link": "https://jan-schneider.itch.io/squirrel-run",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDYwNTIucG5n/315x250%23c/FvIiEu.png",
+    "title": "Squirrel-Run",
+    "video": null,
+    "scrapeWords": [
+      "Squirrel-Run"
+    ]
+  },
+  {
     "author": "Daniel Barral",
     "description": "Mind-bending action/puzzle where you control many arrows at the same time!",
     "genre": "Action",
@@ -96811,7 +96810,8 @@
     "link": "https://kanti1984.itch.io/project-zero-solastalgia",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTAxMTcucG5n/315x250%23c/BCkBNg.png",
     "title": "Project Zero: Solastalgia",
@@ -98422,6 +98422,39 @@
     ]
   },
   {
+    "author": "ItchYoBoi",
+    "description": "A game involving math",
+    "genre": null,
+    "id": "820823",
+    "link": "https://itchyoboi.itch.io/operators-and-operands",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDE1MDYucG5n/315x250%23c/l2%2BNgA.png",
+    "title": "Operators and Operands",
+    "video": null,
+    "scrapeWords": [
+      "Operators",
+      "and",
+      "Operands"
+    ]
+  },
+  {
+    "author": "albineddie",
+    "description": "Help the rocket fly close enough to planets and use the planet's gravitational pull to help guide it!",
+    "genre": "Puzzle",
+    "id": "820838",
+    "link": "https://albineddie.itch.io/space-navigation",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDE1NzkucG5n/315x250%23c/Tun29P.png",
+    "title": "Space Navigation",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Navigation"
+    ]
+  },
+  {
     "author": "Conundrum",
     "description": "Chicken Game Jam 2020 entry",
     "genre": "Puzzle",
@@ -98434,6 +98467,59 @@
     "scrapeWords": [
       "Polter-Guy",
       "Escape"
+    ]
+  },
+  {
+    "author": "sabacu",
+    "description": "a roguelike - puzzle - racing challenge to create a band in thirty seconds",
+    "genre": "Racing",
+    "id": "821210",
+    "link": "https://sabacu.itch.io/rush-band",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDM0MDUuanBn/315x250%23c/4y%2F1p1.jpg",
+    "title": "Rush Band",
+    "video": null,
+    "scrapeWords": [
+      "Rush",
+      "Band"
+    ]
+  },
+  {
+    "author": "TomasMartins",
+    "description": "Dash your way through all waves of enemies.",
+    "genre": "Action",
+    "id": "821308",
+    "link": "https://tomasmartins.itch.io/pathofthesamurai",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDM5NjkucG5n/315x250%23c/7wb%2Fiz.png",
+    "title": "PathOfTheSamurai",
+    "video": null,
+    "scrapeWords": [
+      "Path",
+      "Of",
+      "The",
+      "Samurai"
+    ]
+  },
+  {
+    "author": "GiovanyH",
+    "description": "Jogo daora",
+    "genre": "Shooter",
+    "id": "821477",
+    "link": "https://giovanyh.itch.io/imun3",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDQ4MzgucG5n/315x250%23c/Q05X5N.png",
+    "title": "Imune",
+    "video": null,
+    "scrapeWords": [
+      "Imune"
     ]
   },
   {
@@ -98453,6 +98539,24 @@
     ]
   },
   {
+    "author": "Syanic",
+    "description": "Help navigate through an individual's thoughts",
+    "genre": "Puzzle",
+    "id": "821567",
+    "link": "https://syanic.itch.io/the-reframe-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDUyODYucG5n/315x250%23c/rqDkUJ.png",
+    "title": "The Reframe Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Reframe",
+      "Game"
+    ]
+  },
+  {
     "author": "Pigdev",
     "description": "#illuminati #ludumdare36 #ancienttechnology",
     "genre": "Shooter",
@@ -98468,6 +98572,95 @@
       "Hollywood",
       "is",
       "Loomynarty"
+    ]
+  },
+  {
+    "author": "Salatios",
+    "description": "godlike social deduction game",
+    "genre": "Simulation",
+    "id": "821841",
+    "link": "https://salatios.itch.io/hiddencultist",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDY2NzUuanBn/315x250%23c/omxgxo.jpg",
+    "title": "Hidden Cultist",
+    "video": null,
+    "scrapeWords": [
+      "Hidden",
+      "Cultist"
+    ]
+  },
+  {
+    "author": "HackerHenry",
+    "description": "DEMO",
+    "genre": "Platformer",
+    "id": "821860",
+    "link": "https://hackerhenry.itch.io/unconscious",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDY3NzcucG5n/315x250%23c/VRr9qO.png",
+    "title": "unconscious DEMO",
+    "video": null,
+    "scrapeWords": [
+      "unconscious"
+    ]
+  },
+  {
+    "author": "Finn Pickart",
+    "description": "You can play many different minigames from different genres with your friends or with AIs​",
+    "genre": null,
+    "id": "821861",
+    "link": "https://finn378.itch.io/fiesta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDg2NDgucG5n/315x250%23c/iaORol.png",
+    "title": "Fiesta",
+    "video": null,
+    "scrapeWords": [
+      "Fiesta"
+    ]
+  },
+  {
+    "author": "DEV_andrei",
+    "description": "Top-Down shooter",
+    "genre": "Shooter",
+    "id": "821896",
+    "link": "https://dev-andrei.itch.io/shoot-the-dice",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDcwMjgucG5n/315x250%23c/stnRhO.png",
+    "title": "Shoot the Dice",
+    "video": null,
+    "scrapeWords": [
+      "Shoot",
+      "the",
+      "Dice"
+    ]
+  },
+  {
+    "author": "Whimfoome",
+    "description": "Play Shooter Rogue-like Card game",
+    "genre": "Shooter",
+    "id": "822297",
+    "link": "https://whimfoome.itch.io/outshoot-the-cards",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDg3MjUucG5n/315x250%23c/39I0pO.png",
+    "title": "Outshoot the Cards",
+    "video": null,
+    "scrapeWords": [
+      "Outshoot",
+      "the",
+      "Cards"
     ]
   },
   {
@@ -98491,6 +98684,25 @@
     ]
   },
   {
+    "author": "zaknafean",
+    "description": "Help Corbon help his union members, by ensuring proper safety compliance",
+    "genre": "Adventure",
+    "id": "822430",
+    "link": "https://zaknafean.itch.io/the-kobolds-of-osha",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDk3OTMucG5n/315x250%23c/PNTnEM.png",
+    "title": "The Kobolds of Osha",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Kobolds",
+      "of",
+      "Osha"
+    ]
+  },
+  {
     "author": "patrickreh",
     "description": "LD #36 compo entry",
     "genre": "Adventure",
@@ -98507,6 +98719,111 @@
     "scrapeWords": [
       "Roby",
       "Robot"
+    ]
+  },
+  {
+    "author": "Thilo Brendel",
+    "description": "Use your shaman powers to reach the holy bat and save it",
+    "genre": "Platformer",
+    "id": "822573",
+    "link": "https://t-low.itch.io/monstervania",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTAzMjUucG5n/315x250%23c/V%2B8g%2Bt.png",
+    "title": "Monstervania",
+    "video": null,
+    "scrapeWords": [
+      "Monstervania"
+    ]
+  },
+  {
+    "author": "DefectiveMelon",
+    "description": "A Tower Defense / Deck-Builder Hybrid",
+    "genre": "Strategy",
+    "id": "822585",
+    "link": "https://defectivemelon.itch.io/final-sector",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTA4NDYucG5n/315x250%23c/yNqrWd.png",
+    "title": "Final Sector",
+    "video": null,
+    "scrapeWords": [
+      "Final",
+      "Sector"
+    ]
+  },
+  {
+    "author": "Lamasaurus",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "822660",
+    "link": "https://lamasaurus.itch.io/silent-dot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTA2NDIucG5n/315x250%23c/ZLbnP%2F.png",
+    "title": "Silent Dot - Alpha",
+    "video": null,
+    "scrapeWords": [
+      "Silent",
+      "Dot",
+      "Alpha"
+    ]
+  },
+  {
+    "author": "calcputer",
+    "description": "Escape with The Brain!",
+    "genre": "Survival",
+    "id": "822824",
+    "link": "https://calcputer.itch.io/are-you-out-of-your-mind",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTIyNTMucG5n/315x250%23c/KjRBn8.png",
+    "title": "Are You Out Of Your Mind?",
+    "video": null,
+    "scrapeWords": [
+      "Are",
+      "You",
+      "Out",
+      "Of",
+      "Your",
+      "Mind"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "With an oink, oink here, an oink, oink there",
+    "genre": null,
+    "id": "822900",
+    "link": "https://jafcraze.itch.io/ham-star",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTIyNDUucG5n/315x250%23c/ethS%2Fd.png",
+    "title": "Ham-Star",
+    "video": null,
+    "scrapeWords": [
+      "Ham-Star"
+    ]
+  },
+  {
+    "author": "Chris Parlette",
+    "description": "Beat the odds on your trip to the moon! Made in Godot for GitHub Game Off 2020.",
+    "genre": "Survival",
+    "id": "823070",
+    "link": "https://cparlette.itch.io/always-tell-me-the-odds",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTMxODgucG5n/315x250%23c/xninPa.png",
+    "title": "Always Tell Me The Odds",
+    "video": null,
+    "scrapeWords": [
+      "Always",
+      "Tell",
+      "Me",
+      "The",
+      "Odds"
     ]
   },
   {
