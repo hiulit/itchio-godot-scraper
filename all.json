@@ -22618,25 +22618,6 @@
     ]
   },
   {
-    "author": "OtterWays",
-    "description": "Fold Stories is a metroidvania game in an origami world with a rich, deeply captivating, original story.",
-    "genre": "Platformer",
-    "id": "350202",
-    "link": "https://otterways.itch.io/fold-stories",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3NDE0NjMuanBn/315x250%23c/zkoVNF.jpg",
-    "title": "Fold Stories",
-    "video": null,
-    "scrapeWords": [
-      "Fold",
-      "Stories"
-    ]
-  },
-  {
     "author": "CloneDeath",
     "description": "Travel through time to solve puzzles",
     "genre": "Puzzle",
@@ -85858,7 +85839,7 @@
   },
   {
     "author": "remtaine",
-    "description": "Blast your way through the sky to go against the Sun, as a sunflower out for revenge!",
+    "description": "Blast your way through the sky and go against the Sun, as a sunflower out for revenge!",
     "genre": "Shooter",
     "id": "742862",
     "link": "https://remtaine.itch.io/sunflower-bullet-hell",
@@ -93890,7 +93871,7 @@
     ]
   },
   {
-    "author": "ShivamDev",
+    "author": "GameDevShivam",
     "description": "Flap your way",
     "genre": "Platformer",
     "id": "783775",
@@ -97512,7 +97493,7 @@
     ]
   },
   {
-    "author": "ShivamDev",
+    "author": "GameDevShivam",
     "description": "clear the asteriods to clean space",
     "genre": "Shooter",
     "id": "808505",
@@ -97602,6 +97583,25 @@
       "Acts",
       "of",
       "Physics"
+    ]
+  },
+  {
+    "author": "Lounge Dev Knights",
+    "description": null,
+    "genre": null,
+    "id": "809518",
+    "link": "https://lounge-dev-knights.itch.io/golfing-gods",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "Golfing Gods",
+    "video": null,
+    "scrapeWords": [
+      "Golfing",
+      "Gods"
     ]
   },
   {
@@ -98276,21 +98276,6 @@
     ]
   },
   {
-    "author": "Aktivshuda Games",
-    "description": "Eliminate Nazi Zombies!",
-    "genre": "Shooter",
-    "id": "818246",
-    "link": "https://aktivshuda.itch.io/fps-1",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1ODc0NDIuanBn/315x250%23c/%2FlAHfi.jpg",
-    "title": "Hell Victory",
-    "video": null,
-    "scrapeWords": [
-      "Hell",
-      "Victory"
-    ]
-  },
-  {
     "author": "ZacLaMenace",
     "description": "Shoot the ball into the enemy's goal before they do! Be fast and agile for this party game to beat your friends!!",
     "genre": "Fighting",
@@ -98364,7 +98349,7 @@
     "id": "819616",
     "link": "https://hititstudio.itch.io/rescuethecolony",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1OTQ3MjIuanBn/315x250%23c/EfAz3z.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTgwODYucG5n/315x250%23c/8VXulh.png",
     "title": "Rescue The Colony",
     "video": null,
     "scrapeWords": [
@@ -98506,6 +98491,21 @@
     ]
   },
   {
+    "author": "SRC Corporation",
+    "description": null,
+    "genre": "Racing",
+    "id": "821429",
+    "link": "https://soalreapercaptain.itch.io/dice-racers",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDQ2MTEucG5n/315x250%23c/HllJzY.png",
+    "title": "Dice Racers",
+    "video": null,
+    "scrapeWords": [
+      "Dice",
+      "Racers"
+    ]
+  },
+  {
     "author": "GiovanyH",
     "description": "Jogo daora",
     "genre": "Shooter",
@@ -98572,6 +98572,25 @@
       "Hollywood",
       "is",
       "Loomynarty"
+    ]
+  },
+  {
+    "author": "Hellstahl",
+    "description": "Language-learning collect-them-all adventure game",
+    "genre": "Educational",
+    "id": "821822",
+    "link": "https://hellstahl.itch.io/once-upon-a-thai",
+    "platforms": [
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTY2MzUucG5n/315x250%23c/Hbp32M.png",
+    "title": "Once upon a Thai",
+    "video": null,
+    "scrapeWords": [
+      "Once",
+      "upon",
+      "a",
+      "Thai"
     ]
   },
   {
@@ -98646,6 +98665,25 @@
     ]
   },
   {
+    "author": "Future games",
+    "description": "Action-Parkour-Shooter game with time control",
+    "genre": "Platformer",
+    "id": "821902",
+    "link": "https://future-games.itch.io/tj2",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDY4ODEucG5n/315x250%23c/nOMpSx.png",
+    "title": "Turret Jumper 2",
+    "video": null,
+    "scrapeWords": [
+      "Turret",
+      "Jumper",
+      "2"
+    ]
+  },
+  {
     "author": "Whimfoome",
     "description": "Play Shooter Rogue-like Card game",
     "genre": "Shooter",
@@ -98689,10 +98727,8 @@
     "genre": "Adventure",
     "id": "822430",
     "link": "https://zaknafean.itch.io/the-kobolds-of-osha",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MDk3OTMucG5n/315x250%23c/PNTnEM.png",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTkzMDEucG5n/315x250%23c/RpC%2BJF.png",
     "title": "The Kobolds of Osha",
     "video": null,
     "scrapeWords": [
@@ -98722,13 +98758,32 @@
     ]
   },
   {
-    "author": "Thilo Brendel",
+    "author": "KeySole",
+    "description": "bullet hell puzzle",
+    "genre": "Puzzle",
+    "id": "822520",
+    "link": "https://keysole.itch.io/bhp",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTAzMDYucG5n/315x250%23c/0V4%2FsX.png",
+    "title": "BHP",
+    "video": null,
+    "scrapeWords": [
+      "BHP"
+    ]
+  },
+  {
+    "author": "T-Low",
     "description": "Use your shaman powers to reach the holy bat and save it",
     "genre": "Platformer",
     "id": "822573",
     "link": "https://t-low.itch.io/monstervania",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MTAzMjUucG5n/315x250%23c/V%2B8g%2Bt.png",
@@ -98877,6 +98932,40 @@
     "scrapeWords": [
       "Jurassic",
       "Ark"
+    ]
+  },
+  {
+    "author": "Acytra",
+    "description": null,
+    "genre": "Platformer",
+    "id": "823522",
+    "link": "https://acytra.itch.io/castlemania",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTYzNjAucG5n/315x250%23c/HEANem.png",
+    "title": "Castlemania",
+    "video": null,
+    "scrapeWords": [
+      "Castlemania"
+    ]
+  },
+  {
+    "author": "RojhonBB",
+    "description": "Typing Game",
+    "genre": null,
+    "id": "824146",
+    "link": "https://rojhonbb.itch.io/letters",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjAyMTAucG5n/315x250%23c/FTh%2F3C.png",
+    "title": "Letters",
+    "video": null,
+    "scrapeWords": [
+      "Letters"
     ]
   },
   {
