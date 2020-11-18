@@ -68942,8 +68942,7 @@
     "id": "673683",
     "link": "https://terragos.itch.io/cubit-crawler",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1Mjc5MTkucG5n/315x250%23c/I3VaqL.png",
     "title": "Cubit Crawler",
@@ -70117,6 +70116,22 @@
     "scrapeWords": [
       "Cat",
       "Run"
+    ]
+  },
+  {
+    "author": "playdisc",
+    "description": null,
+    "genre": "Platformer",
+    "id": "679848",
+    "link": "https://playdisc.itch.io/adventure",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3NDE5MDMuanBn/315x250%23c/lsMpO1.jpg",
+    "title": "Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Adventure"
     ]
   },
   {
@@ -86159,6 +86174,22 @@
     ]
   },
   {
+    "author": "sinistro25",
+    "description": "Top-Down Horde Survival Shooter - Survive for as along as you can.",
+    "genre": "Action",
+    "id": "744371",
+    "link": "https://sinistro25.itch.io/slay-the-horde",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQyMTg1MjIucG5n/315x250%23c/qb%2BTL6.png",
+    "title": "Slay the Horde",
+    "video": null,
+    "scrapeWords": [
+      "Slay",
+      "the",
+      "Horde"
+    ]
+  },
+  {
     "author": "Sterki Herz",
     "description": "A fun puzzle & cooking game...with animals! ~",
     "genre": "Puzzle",
@@ -89115,25 +89146,6 @@
       "with",
       "The",
       "Reaper"
-    ]
-  },
-  {
-    "author": "Oli Hawthorne",
-    "description": null,
-    "genre": "Role Playing",
-    "id": "759847",
-    "link": "https://oli-hawthorne.itch.io/silver-crown",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1OTk0MDEucG5n/315x250%23c/NKt90j.png",
-    "title": "Silver Crown",
-    "video": null,
-    "scrapeWords": [
-      "Silver",
-      "Crown"
     ]
   },
   {
@@ -96794,7 +96806,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1MTAxMTcucG5n/315x250%23c/BCkBNg.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjE4ODMucG5n/315x250%23c/L0isXs.png",
     "title": "Project Zero: Solastalgia",
     "video": null,
     "scrapeWords": [
@@ -98312,6 +98324,25 @@
     ]
   },
   {
+    "author": "MenacingMecha",
+    "description": "Interactive gallery styled as a PS1 demo disc",
+    "genre": null,
+    "id": "818949",
+    "link": "https://menacingmecha.itch.io/inktober-2020-demo-disc",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjM2NzIucG5n/315x250%23c/pczIEg.png",
+    "title": "Inktober 2020 Demo Disc",
+    "video": null,
+    "scrapeWords": [
+      "Inktober",
+      "2020",
+      "Disc"
+    ]
+  },
+  {
     "author": "branch.exe",
     "description": "Made with MS paint and Godot in around 30 minutes",
     "genre": "Action",
@@ -98339,6 +98370,24 @@
     "video": null,
     "scrapeWords": [
       "Doorbell",
+      "Game"
+    ]
+  },
+  {
+    "author": "Sanket Palankar",
+    "description": null,
+    "genre": "Platformer",
+    "id": "819498",
+    "link": "https://sanket-palankar.itch.io/my-first-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTQxODAucG5n/315x250%23c/NrCqzK.png",
+    "title": "My First Game",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "First",
       "Game"
     ]
   },
@@ -98969,6 +99018,60 @@
     ]
   },
   {
+    "author": "Whyat1872",
+    "description": "A quick and easy clicker game where you collect crafty crowns!",
+    "genre": null,
+    "id": "824208",
+    "link": "https://whyat1872.itch.io/crown-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTk5MTMucG5n/315x250%23c/ix1g1E.png",
+    "title": "Crown Game",
+    "video": null,
+    "scrapeWords": [
+      "Crown",
+      "Game"
+    ]
+  },
+  {
+    "author": "Rusty Raygun",
+    "description": "Toss, Steer, Drop and Bounce a little seedling creature. [Pinball, Physics, Puzzle]",
+    "genre": "Puzzle",
+    "id": "824312",
+    "link": "https://rustyraygun.itch.io/sebo",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjA0MDUucG5n/315x250%23c/SfH3ZE.png",
+    "title": "SEBO Bounce v.1 [PC Web]",
+    "video": null,
+    "scrapeWords": [
+      "SEBO",
+      "Bounce",
+      "v1",
+      "[PC",
+      "Web]"
+    ]
+  },
+  {
+    "author": "Vikingsambow",
+    "description": "Retro inspired block breaker game",
+    "genre": "Action",
+    "id": "824338",
+    "link": "https://vikingsambow.itch.io/neon-block-breaker",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjM0MjcucG5n/315x250%23c/DST15X.png",
+    "title": "Neon Block Breaker",
+    "video": null,
+    "scrapeWords": [
+      "Neon",
+      "Block",
+      "Breaker"
+    ]
+  },
+  {
     "author": "CowThing",
     "description": "Swing a flying flail or sword, destroy the enemies.",
     "genre": "Action",
@@ -98985,6 +99088,24 @@
     "scrapeWords": [
       "Malleus",
       "Pugnam"
+    ]
+  },
+  {
+    "author": "Idle Space Arcade",
+    "description": null,
+    "genre": "Adventure",
+    "id": "825279",
+    "link": "https://idlespacearcade.itch.io/monthly-games",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjU4MTQucG5n/315x250%23c/zUR70q.png",
+    "title": "Idle Space Arcade",
+    "video": null,
+    "scrapeWords": [
+      "Idle",
+      "Space",
+      "Arcade"
     ]
   },
   {
