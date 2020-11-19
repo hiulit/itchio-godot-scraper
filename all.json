@@ -244,11 +244,11 @@
     ]
   },
   {
-    "author": "literalcitrus",
+    "author": "heybechill",
     "description": "Help cure those New Year hangovers!",
     "genre": "Puzzle",
     "id": "109110",
-    "link": "https://literalcitrus.itch.io/hangover-cure",
+    "link": "https://heybechill.itch.io/hangover-cure",
     "platforms": [
       "Windows",
       "Linux",
@@ -285,11 +285,11 @@
     ]
   },
   {
-    "author": "literalcitrus",
+    "author": "heybechill",
     "description": "Fill in the space with blocks!",
     "genre": "Puzzle",
     "id": "109253",
-    "link": "https://literalcitrus.itch.io/blockulus",
+    "link": "https://heybechill.itch.io/blockulus",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMTA5MjUzLzUwNzcwMS5wbmc=/315x250%23c/20bh49.png",
     "title": "Blockulus",
@@ -21916,11 +21916,11 @@
     ]
   },
   {
-    "author": "Duncan Sparks",
+    "author": "Diane Sparks",
     "description": "Ominous 2D action-adventure game",
     "genre": "Adventure",
     "id": "341270",
-    "link": "https://duncansparks.itch.io/base-6",
+    "link": "https://dianesparks.itch.io/base-6",
     "platforms": [
       "Windows",
       "Linux",
@@ -25389,7 +25389,7 @@
     ]
   },
   {
-    "author": "Ruly",
+    "author": "ruli",
     "description": null,
     "genre": "Platformer",
     "id": "371799",
@@ -31177,7 +31177,7 @@
   },
   {
     "author": "Cheeseness",
-    "description": "A top scrolling arcade game made in Godot 3 with sources available.",
+    "description": "A top scrolling arcade game made in Godot 3 (sources available)",
     "genre": "Action",
     "id": "427693",
     "link": "https://cheeseness.itch.io/honeycomb-crunch",
@@ -33792,11 +33792,11 @@
     ]
   },
   {
-    "author": "Duncan Sparks",
+    "author": "Diane Sparks",
     "description": "Simple card-based RPG (Godot Wild Jam  11)",
     "genre": "Role Playing",
     "id": "449770",
-    "link": "https://duncansparks.itch.io/sixfive",
+    "link": "https://dianesparks.itch.io/sixfive",
     "platforms": [
       "Windows",
       "Linux",
@@ -35227,11 +35227,11 @@
     ]
   },
   {
-    "author": "Duncan Sparks",
+    "author": "Diane Sparks",
     "description": "There is only one light (GMTK Jam 2019)",
     "genre": "Platformer",
     "id": "460701",
-    "link": "https://duncansparks.itch.io/afterlight",
+    "link": "https://dianesparks.itch.io/afterlight",
     "platforms": [
       "Windows",
       "Linux",
@@ -36511,7 +36511,7 @@
     ]
   },
   {
-    "author": "pawn_games",
+    "author": "Pawn Games",
     "description": "Chess + Fantasy",
     "genre": null,
     "id": "464630",
@@ -49211,6 +49211,26 @@
     ]
   },
   {
+    "author": "Gamaturgie",
+    "description": "Game made at the Sud Piccel Global game jam 2020",
+    "genre": null,
+    "id": "560868",
+    "link": "https://gamaturgie.itch.io/dont-trust-the-crust",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzE0MTMuanBn/315x250%23c/9%2B%2BLuO.jpg",
+    "title": "Don't trust the Crust",
+    "video": null,
+    "scrapeWords": [
+      "Dont",
+      "trust",
+      "the",
+      "Crust"
+    ]
+  },
+  {
     "author": "HyperDrop Studios",
     "description": "A light circuitry based puzzle game",
     "genre": "Puzzle",
@@ -49341,11 +49361,11 @@
     ]
   },
   {
-    "author": "Duncan Sparks",
+    "author": "Diane Sparks",
     "description": "Repair a fallen kingdom (Global Game Jam 2020)",
     "genre": "Action",
     "id": "561179",
-    "link": "https://duncansparks.itch.io/return-from-dust",
+    "link": "https://dianesparks.itch.io/return-from-dust",
     "platforms": [
       "Windows",
       "Linux",
@@ -52643,6 +52663,25 @@
     "scrapeWords": [
       "Salvage",
       "Siege"
+    ]
+  },
+  {
+    "author": "WillToPower",
+    "description": "Asteroids on steroids!",
+    "genre": "Action",
+    "id": "586843",
+    "link": "https://willtopower.itch.io/chiron",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDEzODIucG5n/315x250%23c/%2BaNq0C.png",
+    "title": "Chiron Mining Co.",
+    "video": null,
+    "scrapeWords": [
+      "Chiron",
+      "Mining",
+      "Co"
     ]
   },
   {
@@ -64026,7 +64065,7 @@
   },
   {
     "author": "Cheeseness",
-    "description": "An exploration of the dynamics of just-in-time supply chains",
+    "description": "A humorous exploration of the dynamics of just-in-time supply chains (sources available)",
     "genre": "Simulation",
     "id": "644698",
     "link": "https://cheeseness.itch.io/supply-chain",
@@ -70635,7 +70674,6 @@
     "id": "682458",
     "link": "https://jhyde.itch.io/antibody",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NDAxMzcucG5n/315x250%23c/mq1Bax.png",
@@ -73723,11 +73761,11 @@
     ]
   },
   {
-    "author": "Duncan Sparks",
+    "author": "Diane Sparks",
     "description": "Change is out of your hands (GMTK Jam 2020)",
     "genre": "Action",
     "id": "695184",
-    "link": "https://duncansparks.itch.io/blue-plus-red-jam",
+    "link": "https://dianesparks.itch.io/blue-plus-red-jam",
     "platforms": [
       "Windows"
     ],
@@ -79657,7 +79695,7 @@
   },
   {
     "author": "~cj does stuff~",
-    "description": "Made in 3 days for inkJam 2020",
+    "description": null,
     "genre": "Adventure",
     "id": "719032",
     "link": "https://cj-does-stuff.itch.io/dream-boy",
@@ -79665,11 +79703,11 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5ODY1NDAucG5n/315x250%23c/QuJfZ%2B.png",
-    "title": "Dream Boy",
+    "title": "Dream Game",
     "video": null,
     "scrapeWords": [
       "Dream",
-      "Boy"
+      "Game"
     ]
   },
   {
@@ -80475,7 +80513,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQzNzkwMjUuanBn/315x250%23c/otP2v5.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzE0OTcucG5n/315x250%23c/YvNMGK.png",
     "title": "Idle Space Fleet",
     "video": null,
     "scrapeWords": [
@@ -83375,11 +83413,11 @@
     ]
   },
   {
-    "author": "Duncan Sparks",
+    "author": "Diane Sparks",
     "description": "Change is out of your hands (GMTK Jam 2020)",
     "genre": "Action",
     "id": "735751",
-    "link": "https://duncansparks.itch.io/blue-plus-red",
+    "link": "https://dianesparks.itch.io/blue-plus-red",
     "platforms": [
       "Windows",
       "Linux",
@@ -87758,6 +87796,25 @@
     ]
   },
   {
+    "author": "Nonamefornowsoft",
+    "description": "Simple but difficult platformer",
+    "genre": "Platformer",
+    "id": "75185",
+    "link": "https://nonamefornow.itch.io/sr",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvNzUxODUvNzA1NzkyLnBuZw==/315x250%23c/%2BzZG%2F4.png",
+    "title": "Stick Nightmare",
+    "video": null,
+    "scrapeWords": [
+      "Stick",
+      "Nightmare"
+    ]
+  },
+  {
     "author": "Frod007",
     "description": "Hey there! this game is made for \"colors gamejam\"",
     "genre": "Platformer",
@@ -88538,6 +88595,25 @@
     ]
   },
   {
+    "author": "Alvarenga Games",
+    "description": "Explore a dangerous universe and unknown planets in this amazing and different space shooter",
+    "genre": "Shooter",
+    "id": "756161",
+    "link": "https://alvarengagames.itch.io/space-beetle-adventure",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyMjU3NzEuanBlZw==/315x250%23c/%2Fl6hpF.jpeg",
+    "title": "Space Beetle Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Beetle",
+      "Adventure"
+    ]
+  },
+  {
     "author": "Ryhon",
     "description": "Smash and deliver boxes to earn points and decorate your room",
     "genre": "Simulation",
@@ -88710,7 +88786,7 @@
     ]
   },
   {
-    "author": "pawn_games",
+    "author": "Pawn Games",
     "description": "Kart game in development about robots that go-kart.",
     "genre": "Racing",
     "id": "757016",
@@ -93665,21 +93741,21 @@
     "id": "781541",
     "link": "https://smokesomefrogs.itch.io/bring-back-the-sun",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQzNzE5MjAuanBn/315x250%23c/HKpbpY.jpg",
-    "title": "Bring Back The Sun - Right Before Release (Linux only)",
+    "title": "Bring Back The Sun by Daniel da Silva",
     "video": null,
     "scrapeWords": [
       "Bring",
       "Back",
       "The",
       "Sun",
-      "Right",
-      "Before",
-      "Release",
-      "Linux",
-      "only"
+      "by",
+      "Daniel",
+      "da",
+      "Silva"
     ]
   },
   {
@@ -94717,6 +94793,22 @@
     "scrapeWords": [
       "Adventure",
       "Counterpart"
+    ]
+  },
+  {
+    "author": "Destus Gamez",
+    "description": "My first game in development",
+    "genre": "Shooter",
+    "id": "790954",
+    "link": "https://destus-gamez.itch.io/walls",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0NDIxMTAucG5n/315x250%23c/hq7KHf.png",
+    "title": "Walls",
+    "video": null,
+    "scrapeWords": [
+      "Walls"
     ]
   },
   {
@@ -97736,7 +97828,10 @@
     "genre": "Adventure",
     "id": "811616",
     "link": "https://foxgamedev.itch.io/detective-fulton-the-barlow-manor-mistery",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NTQzNzAucG5n/315x250%23c/Egg%2FAk.png",
     "title": "Detective Fulton: the Barlow manor mistery",
     "video": null,
@@ -98011,6 +98106,21 @@
     "scrapeWords": [
       "Watching",
       "You"
+    ]
+  },
+  {
+    "author": "yhb37",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "813957",
+    "link": "https://yhb37.itch.io/fortune-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjgzOTQucG5n/315x250%23c/OG%2BLeW.png",
+    "title": "Fortune Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Fortune",
+      "Adventure"
     ]
   },
   {
@@ -98523,6 +98633,21 @@
     ]
   },
   {
+    "author": "py-guin",
+    "description": "Game where you run around eating fish.",
+    "genre": "Platformer",
+    "id": "821294",
+    "link": "https://py-guin.itch.io/jump-hunt",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDM4OTcucG5n/315x250%23c/B2MVgy.png",
+    "title": "Jump & Hunt",
+    "video": null,
+    "scrapeWords": [
+      "Jump",
+      "Hunt"
+    ]
+  },
+  {
     "author": "TomasMartins",
     "description": "Dash your way through all waves of enemies.",
     "genre": "Action",
@@ -98630,9 +98755,10 @@
     "id": "821822",
     "link": "https://hellstahl.itch.io/once-upon-a-thai",
     "platforms": [
+      "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MTY2MzUucG5n/315x250%23c/Hbp32M.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2Mjg4NTAucG5n/315x250%23c/c6%2FS9Q.png",
     "title": "Once upon a Thai",
     "video": null,
     "scrapeWords": [
@@ -98777,9 +98903,9 @@
     "id": "822430",
     "link": "https://zaknafean.itch.io/the-kobolds-of-osha",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ2MTkzMDEucG5n/315x250%23c/RpC%2BJF.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2Mjc0OTkuZ2lm/315x250%23cm/Zd1ayA.gif",
     "title": "The Kobolds of Osha",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzQ2Mjc0OTkuZ2lm/original/TO9hqH.gif",
     "scrapeWords": [
       "The",
       "Kobolds",
@@ -99091,6 +99217,42 @@
     ]
   },
   {
+    "author": "nklbdev",
+    "description": "Fighting-platformer about an angel father saving his daughter",
+    "genre": "Platformer",
+    "id": "824975",
+    "link": "https://nklbdev.itch.io/the-saint",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjM5NDAucG5n/315x250%23c/iQ5QzI.png",
+    "title": "The Saint",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Saint"
+    ]
+  },
+  {
+    "author": "Chucrute1",
+    "description": "A Retro Space Shooter",
+    "genre": "Shooter",
+    "id": "825131",
+    "link": "https://chucrute1.itch.io/for-orion",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjczMDEucG5n/315x250%23c/e1ALFT.png",
+    "title": "For Orion",
+    "video": null,
+    "scrapeWords": [
+      "For",
+      "Orion"
+    ]
+  },
+  {
     "author": "Idle Space Arcade",
     "description": null,
     "genre": "Adventure",
@@ -99124,6 +99286,59 @@
     "video": null,
     "scrapeWords": [
       "Graviquatro"
+    ]
+  },
+  {
+    "author": "Root",
+    "description": null,
+    "genre": null,
+    "id": "825738",
+    "link": "https://drootdev.itch.io/spaceball",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjgxNjQucG5n/315x250%23c/iFd5ol.png",
+    "title": "SpaceBall",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Ball"
+    ]
+  },
+  {
+    "author": "20kdc",
+    "description": "A puzzle game half about gravity and not quite about physics.",
+    "genre": "Puzzle",
+    "id": "825845",
+    "link": "https://20kdc.itch.io/moonshot",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2Mjg3MDMucG5n/315x250%23c/O43SIk.png",
+    "title": "Moonshot",
+    "video": null,
+    "scrapeWords": [
+      "Moonshot"
+    ]
+  },
+  {
+    "author": "Zogger.Dev",
+    "description": null,
+    "genre": "Simulation",
+    "id": "825903",
+    "link": "https://zoggerdev.itch.io/idle-kosmos-alpha",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MjkwOTAucG5n/315x250%23c/0rnW6d.png",
+    "title": "Idle Kosmos Alpha",
+    "video": null,
+    "scrapeWords": [
+      "Idle",
+      "Kosmos",
+      "Alpha"
     ]
   },
   {
