@@ -28347,24 +28347,6 @@
     ]
   },
   {
-    "author": "Playable Creatures",
-    "description": null,
-    "genre": "Action",
-    "id": "407687",
-    "link": "https://playablecreatures.itch.io/draster-mansion",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIwMjM3MDMucG5n/315x250%23c/XfH1UZ.png",
-    "title": "The Mystery of Draster Mansion",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Mystery",
-      "of",
-      "Draster",
-      "Mansion"
-    ]
-  },
-  {
     "author": "GreenBeakCrow",
     "description": "You are a snowball when spring awakes. Get as far as you can while the snow lasts!",
     "genre": "Survival",
@@ -45817,7 +45799,7 @@
     "description": "Get all the tokens before you car run out of fuel",
     "genre": "Racing",
     "id": "536252",
-    "link": "https://gfx5000i.itch.io/wild-race",
+    "link": "https://wagnergfx.itch.io/wild-race",
     "platforms": [
       "Windows",
       "Linux"
@@ -53189,7 +53171,7 @@
     "description": "A short retro platformer",
     "genre": "Platformer",
     "id": "589439",
-    "link": "https://zldusk.itch.io/narps",
+    "link": "https://duskuwu.itch.io/narps",
     "platforms": [
       "Windows"
     ],
@@ -68980,10 +68962,8 @@
     "genre": "Puzzle",
     "id": "673683",
     "link": "https://terragos.itch.io/cubit-crawler",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1Mjc5MTkucG5n/315x250%23c/I3VaqL.png",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzYyNDUucG5n/315x250%23c/Ex0qmS.png",
     "title": "Cubit Crawler",
     "video": null,
     "scrapeWords": [
@@ -81432,8 +81412,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NjQxOTQucG5n/315x250%23c/LFOgsV.png",
     "title": "DASHING DARKNESS!",
@@ -89915,22 +89894,24 @@
     ]
   },
   {
-    "author": "fishtaod",
+    "author": "6toad games",
     "description": "town building for the future!",
     "genre": "Simulation",
     "id": "763448",
-    "link": "https://fishtaod.itch.io/future-town",
+    "link": "https://6toad.itch.io/future-town",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQyNzA3ODMucG5n/315x250%23c/Pk1L07.png",
-    "title": "Future Town",
+    "title": "Future Town (jam version)",
     "video": null,
     "scrapeWords": [
       "Future",
-      "Town"
+      "Town",
+      "jam",
+      "version"
     ]
   },
   {
@@ -90620,6 +90601,7 @@
     "id": "766500",
     "link": "https://putaitu.itch.io/bolter",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NDQzMDEuanBn/315x250%23c/MUb5x7.jpg",
@@ -91668,7 +91650,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1NzA2NTIucG5n/315x250%23c/Wt3ifO.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzU1ODEuanBn/315x250%23c/1eFdMz.jpg",
     "title": "Hardest Game - Ez Edition",
     "video": null,
     "scrapeWords": [
@@ -91786,6 +91768,23 @@
     "scrapeWords": [
       "Shadow",
       "dungeon"
+    ]
+  },
+  {
+    "author": "cluster",
+    "description": "A competitive couch-coop asteroid-like",
+    "genre": "Shooter",
+    "id": "773098",
+    "link": "https://cluster.itch.io/space-shifters",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzQ5MDEucG5n/315x250%23c/lbTWJZ.png",
+    "title": "Space Shifters",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Shifters"
     ]
   },
   {
@@ -92783,6 +92782,24 @@
     ]
   },
   {
+    "author": "py-guin",
+    "description": "Horror game where you have to collect all six ice creams while avoiding the shadow monster.",
+    "genre": "Survival",
+    "id": "778136",
+    "link": "https://py-guin.itch.io/artic-shadows",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0NDQxNjkucG5n/315x250%23c/LpV5rm.png",
+    "title": "Arctic Shadows",
+    "video": null,
+    "scrapeWords": [
+      "Arctic",
+      "Shadows"
+    ]
+  },
+  {
     "author": "LuisMint",
     "description": "Restore childhood memories by replaying your old jank cartridge of MINI RACERS for the Nintendo 64",
     "genre": "Racing",
@@ -92875,7 +92892,7 @@
   },
   {
     "author": "RevTheGame",
-    "description": "Every Game I Make in 2021 For One Low Price",
+    "description": "Every Mobile Game I Make in 2021 For One Low Price",
     "genre": null,
     "id": "778591",
     "link": "https://revthegame.itch.io/revpass",
@@ -93756,6 +93773,22 @@
       "Daniel",
       "da",
       "Silva"
+    ]
+  },
+  {
+    "author": "GiantPearl",
+    "description": "Explore my little hedge maze, and wear a hat sometimes",
+    "genre": "Adventure",
+    "id": "781593",
+    "link": "https://giantpearl.itch.io/maze",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0OTIwNzcuZ2lm/315x250%23cm/iGpSIA.gif",
+    "title": "Harper's Little Maze",
+    "video": "https://img.itch.zone/aW1nLzQ0OTIwNzcuZ2lm/original/ZzA6e0.gif",
+    "scrapeWords": [
+      "Harpers",
+      "Little",
+      "Maze"
     ]
   },
   {
@@ -94802,6 +94835,7 @@
     "id": "790954",
     "link": "https://destus-gamez.itch.io/walls",
     "platforms": [
+      "Windows",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NDIxMTAucG5n/315x250%23c/hq7KHf.png",
@@ -96367,6 +96401,23 @@
       "Monster",
       "Clean",
       "Out"
+    ]
+  },
+  {
+    "author": "py-guin",
+    "description": "Game where you catapult a fish to the end of the level.",
+    "genre": "Action",
+    "id": "801060",
+    "link": "https://py-guin.itch.io/fish-catapult",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0ODU4MjEucG5n/315x250%23c/KVUeCq.png",
+    "title": "Fish-Catapult",
+    "video": null,
+    "scrapeWords": [
+      "Fish-Catapult"
     ]
   },
   {
@@ -98426,11 +98477,12 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1ODkyNDYuanBn/315x250%23c/k7Ldxp.jpg",
-    "title": "Stray Roads",
+    "title": "Stray Roads (prototype)",
     "video": null,
     "scrapeWords": [
       "Stray",
-      "Roads"
+      "Roads",
+      "prototype"
     ]
   },
   {
@@ -98662,6 +98714,24 @@
       "Of",
       "The",
       "Samurai"
+    ]
+  },
+  {
+    "author": "anon216",
+    "description": "An action rpg without a weapon.",
+    "genre": "Action",
+    "id": "821328",
+    "link": "https://anon216.itch.io/eternal-collapse",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzQ1MTAucG5n/315x250%23c/8Mo6an.png",
+    "title": "Eternal Collapse",
+    "video": null,
+    "scrapeWords": [
+      "Eternal",
+      "Collapse"
     ]
   },
   {
@@ -99159,6 +99229,25 @@
     ]
   },
   {
+    "author": "GoneLoot",
+    "description": "¡Cuida a tu chikito!",
+    "genre": null,
+    "id": "824270",
+    "link": "https://goneloot.itch.io/chikitogotchi",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2Mjk4NjEucG5n/315x250%23c/8JFuOS.png",
+    "title": "Chikito Gotchi",
+    "video": null,
+    "scrapeWords": [
+      "Chikito",
+      "Gotchi"
+    ]
+  },
+  {
     "author": "Rusty Raygun",
     "description": "Toss, Steer, Drop and Bounce a little seedling creature. [Pinball, Physics, Puzzle]",
     "genre": "Puzzle",
@@ -99168,7 +99257,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MjA0MDUucG5n/315x250%23c/SfH3ZE.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzI1MTUuanBn/315x250%23c/j36n20.jpg",
     "title": "SEBO Bounce v.1 [PC Web]",
     "video": null,
     "scrapeWords": [
@@ -99227,7 +99316,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MjM5NDAucG5n/315x250%23c/iQ5QzI.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzE3NDIucG5n/315x250%23c/LQFkpP.png",
     "title": "The Saint",
     "video": null,
     "scrapeWords": [
@@ -99297,7 +99386,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MjgxNjQucG5n/315x250%23c/iFd5ol.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzI5MjEucG5n/315x250%23c/SgmSmb.png",
     "title": "SpaceBall",
     "video": null,
     "scrapeWords": [
@@ -99339,6 +99428,76 @@
       "Idle",
       "Kosmos",
       "Alpha"
+    ]
+  },
+  {
+    "author": "Taylor",
+    "description": "Gravity Golf Platformer game",
+    "genre": "Platformer",
+    "id": "826241",
+    "link": "https://tayweee.itch.io/gravity-core",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzM0OTYucG5n/315x250%23c/4bM97n.png",
+    "title": "Gravity Core",
+    "video": null,
+    "scrapeWords": [
+      "Gravity",
+      "Core"
+    ]
+  },
+  {
+    "author": "binglo",
+    "description": "zombie come from all sides to kill you, can you shoot them down before they kill you?",
+    "genre": "Shooter",
+    "id": "826623",
+    "link": "https://binglo.itch.io/the-story-of-the-forst-invasion",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzI4NDQucG5n/315x250%23c/jOP4vw.png",
+    "title": "The story of the Forst Invasion",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "story",
+      "of",
+      "the",
+      "Forst",
+      "Invasion"
+    ]
+  },
+  {
+    "author": "Pizza Studios",
+    "description": null,
+    "genre": null,
+    "id": "827246",
+    "link": "https://pizza-studios.itch.io/pc-adventure",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzYyMzMuanBn/315x250%23c/%2FDi4pM.jpg",
+    "title": "PC Adventure",
+    "video": null,
+    "scrapeWords": [
+      "PC",
+      "Adventure"
+    ]
+  },
+  {
+    "author": "RojhonBB",
+    "description": "Match the Cube Pieces",
+    "genre": null,
+    "id": "827490",
+    "link": "https://rojhonbb.itch.io/cube-pieces",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2Mzc3MDEucG5n/315x250%23c/W9RgFl.png",
+    "title": "Cube Pieces",
+    "video": null,
+    "scrapeWords": [
+      "Cube",
+      "Pieces"
     ]
   },
   {
