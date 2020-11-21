@@ -3231,25 +3231,6 @@
     ]
   },
   {
-    "author": "Pigdev",
-    "description": "A platformer game about a cook and his journey to master the world's cuisines",
-    "genre": "Platformer",
-    "id": "176866",
-    "link": "https://pigdev.itch.io/kitchen-tales",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTc2ODY2LzE1MTAyMTgucG5n/315x250%23c/hDnXN1.png",
-    "title": "Kitchen Tales",
-    "video": null,
-    "scrapeWords": [
-      "Kitchen",
-      "Tales"
-    ]
-  },
-  {
     "author": "TwistedTwigleg",
     "description": "What happens to demos when development stops?",
     "genre": "Platformer",
@@ -53833,11 +53814,11 @@
     ]
   },
   {
-    "author": "aeonblu",
+    "author": "joona-aleksi",
     "description": null,
     "genre": "Action",
     "id": "593076",
-    "link": "https://aeonblu.itch.io/heart",
+    "link": "https://joona-aleksi.itch.io/heart",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMxMzcwMjgucG5n/315x250%23c/pAtj9q.png",
     "title": "Heart",
@@ -71242,7 +71223,9 @@
     "genre": null,
     "id": "684540",
     "link": "https://warxwell.itch.io/little-dima",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzM3ODc2NDYuZ2lm/315x250%23cm/UvSkPv.gif",
     "title": "Little Dima",
     "video": "https://img.itch.zone/aW1nLzM3ODc2NDYuZ2lm/original/PzJVsA.gif",
@@ -81404,25 +81387,6 @@
     ]
   },
   {
-    "author": "Pixelssteam12",
-    "description": "DASHING DARKNESS IS A GAME MADE BY PIXELSS",
-    "genre": "Action",
-    "id": "730062",
-    "link": "https://pixelssteam12.itch.io/dashing-darkness100000000",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0NjQxOTQucG5n/315x250%23c/LFOgsV.png",
-    "title": "DASHING DARKNESS!",
-    "video": null,
-    "scrapeWords": [
-      "DASHING",
-      "DARKNESS"
-    ]
-  },
-  {
     "author": "Code Wiz Reading",
     "description": "A game created by a Code Wiz student.",
     "genre": "Platformer",
@@ -82783,7 +82747,7 @@
   },
   {
     "author": "Pigdev",
-    "description": "Moon Cheeser is an infinite runner where a mouse chases a moon made of cheese.",
+    "description": "Is it possible that somewhere in the space there's a moon made out of cheese?",
     "genre": "Action",
     "id": "73431",
     "link": "https://pigdev.itch.io/moon-cheeser",
@@ -86569,7 +86533,7 @@
   },
   {
     "author": "Pigdev",
-    "description": "Why smarter species didn't make contact with us yet?",
+    "description": "Why other civilizations didn't make contact with us yet?",
     "genre": "Shooter",
     "id": "746487",
     "link": "https://pigdev.itch.io/fermi-parallax",
@@ -89240,11 +89204,11 @@
     ]
   },
   {
-    "author": "jeefjerfy",
+    "author": "hahaitsjeff",
     "description": "A math minute game where you summon animals",
     "genre": "Educational",
     "id": "760133",
-    "link": "https://jeefjerfy.itch.io/numeromancer",
+    "link": "https://hahaitsjeff.itch.io/numeromancer",
     "platforms": [
       "Windows",
       "Linux",
@@ -90528,6 +90492,23 @@
     ]
   },
   {
+    "author": "BinadaH",
+    "description": null,
+    "genre": null,
+    "id": "766104",
+    "link": "https://binadah.itch.io/x-potion",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyODk3NzEucG5n/315x250%23c/QSA8Wn.png",
+    "title": "X POTION",
+    "video": null,
+    "scrapeWords": [
+      "X",
+      "POTION"
+    ]
+  },
+  {
     "author": "FuryGames",
     "description": null,
     "genre": "Platformer",
@@ -91536,11 +91517,11 @@
     ]
   },
   {
-    "author": "aeonblu",
+    "author": "joona-aleksi",
     "description": "Precision platforming in a cave",
     "genre": "Platformer",
     "id": "771039",
-    "link": "https://aeonblu.itch.io/i-fell-in-a-cave",
+    "link": "https://joona-aleksi.itch.io/i-fell-in-a-cave",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQzMTQxOTAucG5n/315x250%23c/YHnjRC.png",
     "title": "I Fell in a Cave",
@@ -91768,23 +91749,6 @@
     "scrapeWords": [
       "Shadow",
       "dungeon"
-    ]
-  },
-  {
-    "author": "cluster",
-    "description": "A competitive couch-coop asteroid-like",
-    "genre": "Shooter",
-    "id": "773098",
-    "link": "https://cluster.itch.io/space-shifters",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MzQ5MDEucG5n/315x250%23c/lbTWJZ.png",
-    "title": "Space Shifters",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Shifters"
     ]
   },
   {
@@ -92054,11 +92018,11 @@
     ]
   },
   {
-    "author": "jeefjerfy",
+    "author": "hahaitsjeff",
     "description": "Do what a computer tells you to do to avoid a crash landing",
     "genre": "Simulation",
     "id": "775256",
-    "link": "https://jeefjerfy.itch.io/orbital-decay",
+    "link": "https://hahaitsjeff.itch.io/orbital-decay",
     "platforms": [
       "Windows",
       "Linux",
@@ -93906,6 +93870,23 @@
     ]
   },
   {
+    "author": "David Lang",
+    "description": "​Jump from Ice to Ice in this short 3D Platformer.​",
+    "genre": "Platformer",
+    "id": "782932",
+    "link": "https://davidlang.itch.io/mrfishbones",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0MDY3ODEucG5n/315x250%23c/LumXcx.png",
+    "title": "Mr. Fishbones",
+    "video": null,
+    "scrapeWords": [
+      "Mr",
+      "Fishbones"
+    ]
+  },
+  {
     "author": "kappenow",
     "description": "Physics based marble rolling game",
     "genre": "Puzzle",
@@ -94009,11 +93990,11 @@
     ]
   },
   {
-    "author": "jeefjerfy",
+    "author": "hahaitsjeff",
     "description": "Keep moving to escape a dark labyrinth",
     "genre": "Puzzle",
     "id": "784227",
-    "link": "https://jeefjerfy.itch.io/press-on",
+    "link": "https://hahaitsjeff.itch.io/press-on",
     "platforms": [
       "Windows",
       "Linux",
@@ -94426,6 +94407,24 @@
     "scrapeWords": [
       "The",
       "Knight"
+    ]
+  },
+  {
+    "author": "Taylor Ritenour",
+    "description": "\"Puyo Puyo\" meets \"Snakebird\" in a mind-bending puzzle game",
+    "genre": "Puzzle",
+    "id": "786897",
+    "link": "https://taylorritenour.itch.io/hebi-hebi",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1MTg5MDEucG5n/315x250%23c/l4G5tf.png",
+    "title": "Hebi Hebi",
+    "video": null,
+    "scrapeWords": [
+      "Hebi",
+      "Hebi"
     ]
   },
   {
@@ -94915,11 +94914,11 @@
     ]
   },
   {
-    "author": "jeefjerfy",
+    "author": "hahaitsjeff",
     "description": "Smoke out the demon hiding in your living room wall",
     "genre": "Adventure",
     "id": "791494",
-    "link": "https://jeefjerfy.itch.io/gallery-wall",
+    "link": "https://hahaitsjeff.itch.io/gallery-wall",
     "platforms": [
       "Windows",
       "Linux",
@@ -96026,11 +96025,11 @@
     ]
   },
   {
-    "author": "jeefjerfy",
+    "author": "hahaitsjeff",
     "description": "A test of patience begins with a single step...",
     "genre": "Action",
     "id": "798158",
-    "link": "https://jeefjerfy.itch.io/three-hours-to-athens",
+    "link": "https://hahaitsjeff.itch.io/three-hours-to-athens",
     "platforms": [
       "Windows",
       "Linux",
@@ -96891,11 +96890,7 @@
     "genre": "Interactive Fiction",
     "id": "804897",
     "link": "https://ultra-slimer.itch.io/the-troubleshooter",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MDk0NjcucG5n/315x250%23c/YwGnp8.png",
     "title": "The Troubleshooter",
     "video": null,
@@ -96920,11 +96915,11 @@
     ]
   },
   {
-    "author": "jeefjerfy",
+    "author": "hahaitsjeff",
     "description": "Just because you can't see doesn't mean you can't escape",
     "genre": "Adventure",
     "id": "804995",
-    "link": "https://jeefjerfy.itch.io/early-release",
+    "link": "https://hahaitsjeff.itch.io/early-release",
     "platforms": [
       "Windows",
       "Linux",
@@ -98123,6 +98118,25 @@
     ]
   },
   {
+    "author": "GGBot",
+    "description": "Retro labyrinth-style game",
+    "genre": "Adventure",
+    "id": "813632",
+    "link": "https://ggbot.itch.io/matiere-noire",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2Mzk1NjQucG5n/315x250%23c/nhZwYW.png",
+    "title": "Matière Noire",
+    "video": null,
+    "scrapeWords": [
+      "Matière",
+      "Noire"
+    ]
+  },
+  {
     "author": "progsource",
     "description": "You play the little meteor who wants to fly as far as possible.",
     "genre": "Action",
@@ -98203,6 +98217,25 @@
       "Its",
       "a",
       "Giant"
+    ]
+  },
+  {
+    "author": "MAZdude",
+    "description": null,
+    "genre": null,
+    "id": "814226",
+    "link": "https://mazdude.itch.io/go2k20",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "GameOff2k20",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "Off2k20"
     ]
   },
   {
@@ -98308,24 +98341,6 @@
       "Control",
       "Jam",
       "edition"
-    ]
-  },
-  {
-    "author": "inklink",
-    "description": "fun demo of a cubic platformer",
-    "genre": "Platformer",
-    "id": "815805",
-    "link": "https://inklink.itch.io/cubic-adventures",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1ODUzMDEucG5n/315x250%23c/v38IUR.png",
-    "title": "Cubic Adventures",
-    "video": null,
-    "scrapeWords": [
-      "Cubic",
-      "Adventures"
     ]
   },
   {
@@ -98947,6 +98962,25 @@
     ]
   },
   {
+    "author": "fortythreesam",
+    "description": "A gardening and roguelite crossover! Grow plants to become stronger!",
+    "genre": null,
+    "id": "822404",
+    "link": "https://fortythreesam.itch.io/garden-rogue",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDk3MTQucG5n/315x250%23c/XJAsIx.png",
+    "title": "Garden Rogue",
+    "video": null,
+    "scrapeWords": [
+      "Garden",
+      "Rogue"
+    ]
+  },
+  {
     "author": "Ervan Silvert",
     "description": "Escape the pyramid is a top-down 2D platformer game, created for LDJAM #36.",
     "genre": "Platformer",
@@ -99236,6 +99270,7 @@
     "link": "https://goneloot.itch.io/chikitogotchi",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS",
       "Android"
     ],
@@ -99498,6 +99533,95 @@
     "scrapeWords": [
       "Cube",
       "Pieces"
+    ]
+  },
+  {
+    "author": "campfire.games",
+    "description": "fight faster! upgrade faster!",
+    "genre": "Fighting",
+    "id": "827816",
+    "link": "https://campfiregames.itch.io/scrap-up",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzkyMjMucG5n/315x250%23c/0BfbD%2B.png",
+    "title": "Scrap Up",
+    "video": null,
+    "scrapeWords": [
+      "Scrap",
+      "Up"
+    ]
+  },
+  {
+    "author": "Realfail",
+    "description": null,
+    "genre": "Action",
+    "id": "827968",
+    "link": "https://realfail.itch.io/tank-time",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDAxNTMucG5n/315x250%23c/5kkAKR.png",
+    "title": "Tank Time",
+    "video": null,
+    "scrapeWords": [
+      "Tank",
+      "Time"
+    ]
+  },
+  {
+    "author": "sayaneldetf2",
+    "description": "Monsters and spells.",
+    "genre": "Adventure",
+    "id": "828205",
+    "link": "https://sayaneldetf2.itch.io/library",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDE1MzUucG5n/315x250%23c/EJrIv0.png",
+    "title": "The library of the evil book",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "library",
+      "of",
+      "the",
+      "evil",
+      "book"
+    ]
+  },
+  {
+    "author": "Fupi",
+    "description": "Reorganize os frames de uma animação e deixe o carinha passar!",
+    "genre": "Puzzle",
+    "id": "828362",
+    "link": "https://fupi.itch.io/framecerto",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDIyNDEucG5n/315x250%23c/1g3xMf.png",
+    "title": "FrameCerto",
+    "video": null,
+    "scrapeWords": [
+      "Frame",
+      "Certo"
+    ]
+  },
+  {
+    "author": "Sociopathix",
+    "description": "Squeak your way to freedom! A puzzle-platformer",
+    "genre": "Platformer",
+    "id": "828477",
+    "link": "https://sociopathix.itch.io/squeaky-factory",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDI5NzMucG5n/315x250%23c/GDuL8m.png",
+    "title": "Squeaky Factory",
+    "video": null,
+    "scrapeWords": [
+      "Squeaky",
+      "Factory"
     ]
   },
   {
