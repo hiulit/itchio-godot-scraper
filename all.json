@@ -46589,20 +46589,6 @@
     ]
   },
   {
-    "author": "OpenLightGames",
-    "description": null,
-    "genre": "Survival",
-    "id": "541371",
-    "link": "https://openlightgames.itch.io/craftrix",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4ODU1OTgucG5n/315x250%23c/HavkdO.png",
-    "title": "Craftrix",
-    "video": null,
-    "scrapeWords": [
-      "Craftrix"
-    ]
-  },
-  {
     "author": "hatePineapples",
     "description": "This game is a Flappy Bird clone. Duh.",
     "genre": "Action",
@@ -60439,23 +60425,6 @@
     "scrapeWords": [
       "Stupid",
       "Hexagon"
-    ]
-  },
-  {
-    "author": "TheSinkGod",
-    "description": "Simplistic, top-down 2D exploration game with procedural terrain",
-    "genre": "Adventure",
-    "id": "625112",
-    "link": "https://thesinkgod.itch.io/simpletiles",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMzMzA3NzEucG5n/315x250%23c/%2B8P79B.png",
-    "title": "SimpleTiles",
-    "video": null,
-    "scrapeWords": [
-      "Simple",
-      "Tiles"
     ]
   },
   {
@@ -75106,6 +75075,26 @@
     "scrapeWords": [
       "Key",
       "Bound"
+    ]
+  },
+  {
+    "author": "fullmetal_automaton",
+    "description": "Can you keep from losing control?",
+    "genre": "Shooter",
+    "id": "697589",
+    "link": "https://fullmetal-automaton.itch.io/tokyo-control-tower",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4NDI4MTYucG5n/315x250%23c/SOr1c4.png",
+    "title": "Tokyo Control Tower",
+    "video": null,
+    "scrapeWords": [
+      "Tokyo",
+      "Control",
+      "Tower"
     ]
   },
   {
@@ -92055,6 +92044,26 @@
     ]
   },
   {
+    "author": "BeanieBagGames",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "775445",
+    "link": "https://beaniebaggames.itch.io/escape-the-box",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzNDA0NjgucG5n/315x250%23c/dMPT9f.png",
+    "title": "Escape the Box",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "the",
+      "Box"
+    ]
+  },
+  {
     "author": "aeonincarnate",
     "description": null,
     "genre": "Platformer",
@@ -94717,6 +94726,27 @@
     "video": null,
     "scrapeWords": [
       "Knotris"
+    ]
+  },
+  {
+    "author": "SirBuildsALot",
+    "description": "An online world where people can chat and make friends.",
+    "genre": null,
+    "id": "789632",
+    "link": "https://sirbuildsalot.itch.io/scratch-island",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzQ2MDUucG5n/315x250%23c/tetana.png",
+    "title": "Scratch Island (Online World)",
+    "video": null,
+    "scrapeWords": [
+      "Scratch",
+      "Island",
+      "Online",
+      "World"
     ]
   },
   {
@@ -97916,8 +97946,7 @@
     "link": "https://azertinv.itch.io/artefact",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1ODMxOTAucG5n/315x250%23c/20Xsmu.png",
     "title": "Artefact",
@@ -98128,7 +98157,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2Mzk1NjQucG5n/315x250%23c/nhZwYW.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDY3MTEucG5n/315x250%23c/oV2F%2BL.png",
     "title": "Matière Noire",
     "video": null,
     "scrapeWords": [
@@ -99466,6 +99495,24 @@
     ]
   },
   {
+    "author": "ExoPrism",
+    "description": null,
+    "genre": null,
+    "id": "826021",
+    "link": "https://exoprism.itch.io/g-me",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2Mjk2NTQucG5n/315x250%23c/aM5Skg.png",
+    "title": "G Me - Demo Version",
+    "video": null,
+    "scrapeWords": [
+      "G",
+      "Me",
+      "Version"
+    ]
+  },
+  {
     "author": "Taylor",
     "description": "Gravity Golf Platformer game",
     "genre": "Platformer",
@@ -99478,6 +99525,24 @@
     "scrapeWords": [
       "Gravity",
       "Core"
+    ]
+  },
+  {
+    "author": "adrianbelmont",
+    "description": "A small physics based adventure game, evolved out of our 2020 Game Jam.",
+    "genre": "Action",
+    "id": "826472",
+    "link": "https://adrianbelmont.itch.io/gravity-blade",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzE3NzAuanBlZw==/315x250%23c/QJw%2B25.jpeg",
+    "title": "Gravity Blade",
+    "video": null,
+    "scrapeWords": [
+      "Gravity",
+      "Blade"
     ]
   },
   {
@@ -99572,7 +99637,42 @@
     ]
   },
   {
-    "author": "sayaneldetf2",
+    "author": "phaserDev",
+    "description": "ever changing platformer with everything changing every 10 mins or so",
+    "genre": "Platformer",
+    "id": "828099",
+    "link": "https://phaserdev.itch.io/phaser",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDA4MjMucG5n/315x250%23c/Zx0VG2.png",
+    "title": "Phaser",
+    "video": null,
+    "scrapeWords": [
+      "Phaser"
+    ]
+  },
+  {
+    "author": "hahaitsjeff",
+    "description": "A midnight stroll up a tall stone tower",
+    "genre": "Adventure",
+    "id": "828171",
+    "link": "https://hahaitsjeff.itch.io/upwards",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDEyNDcucG5n/315x250%23c/iZU2KY.png",
+    "title": "Upwards",
+    "video": null,
+    "scrapeWords": [
+      "Upwards"
+    ]
+  },
+  {
+    "author": "Sayanel",
     "description": "Monsters and spells.",
     "genre": "Adventure",
     "id": "828205",
@@ -99596,17 +99696,17 @@
   },
   {
     "author": "Fupi",
-    "description": "Reorganize os frames de uma animação e deixe o carinha passar!",
+    "description": "Rearrange animations to get the character past the obstacles!",
     "genre": "Puzzle",
     "id": "828362",
-    "link": "https://fupi.itch.io/framecerto",
+    "link": "https://fupi.itch.io/frameright",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ2NDIyNDEucG5n/315x250%23c/1g3xMf.png",
-    "title": "FrameCerto",
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDU3NTgucG5n/315x250%23c/LusLPL.png",
+    "title": "FrameRight",
     "video": null,
     "scrapeWords": [
       "Frame",
-      "Certo"
+      "Right"
     ]
   },
   {
@@ -99615,13 +99715,89 @@
     "genre": "Platformer",
     "id": "828477",
     "link": "https://sociopathix.itch.io/squeaky-factory",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ2NDI5NzMucG5n/315x250%23c/GDuL8m.png",
     "title": "Squeaky Factory",
     "video": null,
     "scrapeWords": [
       "Squeaky",
       "Factory"
+    ]
+  },
+  {
+    "author": "feniks_gaming",
+    "description": "Knows in the US as Tic Tac Toe",
+    "genre": "Puzzle",
+    "id": "828943",
+    "link": "https://feniks-gaming.itch.io/noughts-and-crosses",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDU3MjUucG5n/315x250%23c/bHVbH3.png",
+    "title": "Noughts and Crosses",
+    "video": null,
+    "scrapeWords": [
+      "Noughts",
+      "and",
+      "Crosses"
+    ]
+  },
+  {
+    "author": "Studio 4th ZERO",
+    "description": "A Top Down Adventure with a mech",
+    "genre": "Adventure",
+    "id": "829152",
+    "link": "https://4thzero.itch.io/soul-vitalizer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDY4MDMucG5n/315x250%23c/7x11FM.png",
+    "title": "Soul Vitalizer",
+    "video": null,
+    "scrapeWords": [
+      "Soul",
+      "Vitalizer"
+    ]
+  },
+  {
+    "author": "BeanieBagGames",
+    "description": "your a ball, escape the box.",
+    "genre": "Platformer",
+    "id": "829178",
+    "link": "https://beaniebaggames.itch.io/escape-the-box-remake",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDc2NjEucG5n/315x250%23c/Qb%2FYWM.png",
+    "title": "Escape The Box (Remake)",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Box",
+      "Remake"
+    ]
+  },
+  {
+    "author": "Go-Duck",
+    "description": "Eat books to spite your owner.",
+    "genre": "Platformer",
+    "id": "829374",
+    "link": "https://go-duck.itch.io/trouble-duck",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDgxNjYucG5n/315x250%23c/a0qPH1.png",
+    "title": "Trouble-Duck",
+    "video": null,
+    "scrapeWords": [
+      "Trouble-Duck"
     ]
   },
   {
