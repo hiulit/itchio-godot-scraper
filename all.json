@@ -4062,28 +4062,6 @@
     ]
   },
   {
-    "author": "Arturo Pacheco Pérez",
-    "description": "When throwing boomerangs becomes unrealistically dangerous to yourself.",
-    "genre": "Puzzle",
-    "id": "195438",
-    "link": "https://arturo-pacheco-perez.itch.io/i-am-not-good-with-boomerangs",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTk1NDM4LzkxNjg0Ny5wbmc=/315x250%23c/4TboXi.png",
-    "title": "I am not good with boomerangs",
-    "video": null,
-    "scrapeWords": [
-      "I",
-      "am",
-      "not",
-      "good",
-      "with",
-      "boomerangs"
-    ]
-  },
-  {
     "author": "Guilherme Felipe de C. G. da Silva",
     "description": null,
     "genre": "Platformer",
@@ -71977,24 +71955,6 @@
     ]
   },
   {
-    "author": "TOPGamez",
-    "description": "A free RPG in development",
-    "genre": "Role Playing",
-    "id": "688910",
-    "link": "https://topgamez.itch.io/myopic-microcosm",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQwOTMxNTUucG5n/315x250%23c/oF%2BgoD.png",
-    "title": "Myopic Microcosm",
-    "video": null,
-    "scrapeWords": [
-      "Myopic",
-      "Microcosm"
-    ]
-  },
-  {
     "author": "Responsible File",
     "description": "A very short horror game",
     "genre": "Interactive Fiction",
@@ -88182,7 +88142,7 @@
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ2MDQ4NTIucG5n/315x250%23c/hOlQEN.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTQ1ODcucG5n/315x250%23c/cWUg1G.png",
     "title": "Malice & Greed by Xendra",
     "video": null,
     "scrapeWords": [
@@ -91741,6 +91701,23 @@
     ]
   },
   {
+    "author": "cluster",
+    "description": "A competitive couch-coop asteroid-like",
+    "genre": "Shooter",
+    "id": "773098",
+    "link": "https://cluster.itch.io/space-shifters",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzQ5MDEucG5n/315x250%23c/lbTWJZ.png",
+    "title": "Space Shifters",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Shifters"
+    ]
+  },
+  {
     "author": "IcterusGames",
     "description": "Challenging speed platformer!",
     "genre": "Platformer",
@@ -93726,7 +93703,7 @@
   },
   {
     "author": "SmokeSomeFrogs",
-    "description": "Simple 2D Platformer :)",
+    "description": "Minimalistic 2D Platformer",
     "genre": "Platformer",
     "id": "781541",
     "link": "https://smokesomefrogs.itch.io/bring-back-the-sun",
@@ -94420,7 +94397,7 @@
   },
   {
     "author": "Taylor Ritenour",
-    "description": "\"Puyo Puyo\" meets \"Snakebird\" in a mind-bending puzzle game",
+    "description": "\"Puyo Puyo\" meets \"Snakebird\" in a mind-bending puzzle game!",
     "genre": "Puzzle",
     "id": "786897",
     "link": "https://taylorritenour.itch.io/hebi-hebi",
@@ -97983,9 +97960,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1NTUwNzIuZ2lm/315x250%23cm/dH4qSZ.gif",
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTE2MzkuZ2lm/315x250%23cm/yptw7r.gif",
     "title": "Doggo Quest",
-    "video": "https://img.itch.zone/aW1nLzQ1NTUwNzIuZ2lm/original/LyeUwp.gif",
+    "video": "https://img.itch.zone/aW1nLzQ2NTE2MzkuZ2lm/original/QyV1mx.gif",
     "scrapeWords": [
       "Doggo",
       "Quest"
@@ -98530,6 +98507,21 @@
     ]
   },
   {
+    "author": "Ebrahim666",
+    "description": "this game was made for the low effort game jam 4",
+    "genre": "Platformer",
+    "id": "818634",
+    "link": "https://ebrahim666.itch.io/cat-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTQ1NjkucG5n/315x250%23c/xZ8ENP.png",
+    "title": "cat adventure",
+    "video": null,
+    "scrapeWords": [
+      "cat",
+      "adventure"
+    ]
+  },
+  {
     "author": "MenacingMecha",
     "description": "Interactive gallery styled as a PS1 demo disc",
     "genre": null,
@@ -98845,6 +98837,28 @@
     ]
   },
   {
+    "author": "lapspider45",
+    "description": "Explore a beautiful and mysterious world",
+    "genre": "Adventure",
+    "id": "821698",
+    "link": "https://lapspider45.itch.io/gwj27-spider",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTIyMjAuZ2lm/315x250%23cm/Vhc94u.gif",
+    "title": "Through The Light And The Darkness",
+    "video": "https://img.itch.zone/aW1nLzQ2NTIyMjAuZ2lm/original/jb9EIp.gif",
+    "scrapeWords": [
+      "Through",
+      "The",
+      "Light",
+      "And",
+      "The",
+      "Darkness"
+    ]
+  },
+  {
     "author": "Pigdev",
     "description": "#illuminati #ludumdare36 #ancienttechnology",
     "genre": "Shooter",
@@ -98961,6 +98975,7 @@
     "link": "https://future-games.itch.io/tj2",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MDY4ODEucG5n/315x250%23c/nOMpSx.png",
@@ -99261,6 +99276,26 @@
     ]
   },
   {
+    "author": "team-kebab",
+    "description": "Save your favorite book from the mischievous intentions of little magical creatures.",
+    "genre": "Puzzle",
+    "id": "823788",
+    "link": "https://team-kebab.itch.io/the-dust-bunnies",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDkxNzQucG5n/315x250%23c/nUk0ux.png",
+    "title": "The Dust Bunnies",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Dust",
+      "Bunnies"
+    ]
+  },
+  {
     "author": "RojhonBB",
     "description": "Typing Game",
     "genre": null,
@@ -99439,6 +99474,25 @@
     "video": null,
     "scrapeWords": [
       "Graviquatro"
+    ]
+  },
+  {
+    "author": "Golden",
+    "description": "Have you always dreamt of having a job pushing papers in an authoritarian state library? Look no further!",
+    "genre": "Simulation",
+    "id": "825543",
+    "link": "https://goldenapples.itch.io/ministry-for-the-assignment-of-literature",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDk3MzIucG5n/315x250%23c/vAgkLv.png",
+    "title": "Ministry for the Assignment of Literature",
+    "video": null,
+    "scrapeWords": [
+      "Ministry",
+      "for",
+      "the",
+      "Assignment",
+      "of",
+      "Literature"
     ]
   },
   {
@@ -99746,6 +99800,25 @@
     ]
   },
   {
+    "author": "dunkelgrau",
+    "description": "Defeat the witch of the tower",
+    "genre": "Action",
+    "id": "829057",
+    "link": "https://dunkelgrau.itch.io/the-tower",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTA0NjQucG5n/315x250%23c/1y5BFL.png",
+    "title": "The Tower",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Tower"
+    ]
+  },
+  {
     "author": "Studio 4th ZERO",
     "description": "A Top Down Adventure with a mech",
     "genre": "Adventure",
@@ -99817,6 +99890,235 @@
     "scrapeWords": [
       "Cubic",
       "Smash"
+    ]
+  },
+  {
+    "author": "DeveloperMode",
+    "description": "This is a point and click game that you can interact the environment around you.",
+    "genre": "Interactive Fiction",
+    "id": "829421",
+    "link": "https://developermode.itch.io/stay-at-home",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDg0NTQucG5n/315x250%23c/REnw0b.png",
+    "title": "Stay at Home",
+    "video": null,
+    "scrapeWords": [
+      "Stay",
+      "at",
+      "Home"
+    ]
+  },
+  {
+    "author": "ONE EDITOR GAMES",
+    "description": "A short walk of life",
+    "genre": "Platformer",
+    "id": "829523",
+    "link": "https://one-editor-games.itch.io/journey-of-life",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDkxMDgucG5n/315x250%23c/Yi8%2FI9.png",
+    "title": "Journey of life (Beta)",
+    "video": null,
+    "scrapeWords": [
+      "Journey",
+      "of",
+      "life",
+      "Beta"
+    ]
+  },
+  {
+    "author": "Juppi",
+    "description": "Entry for the Godot C# Jam",
+    "genre": null,
+    "id": "829586",
+    "link": "https://juppi.itch.io/snowmanrace",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDk0MDUucG5n/315x250%23c/KcZvOA.png",
+    "title": "SnowmanRace",
+    "video": null,
+    "scrapeWords": [
+      "Snowman",
+      "Race"
+    ]
+  },
+  {
+    "author": "Stephen Dunn",
+    "description": "Keep your car alive, your horse dies and you're a sitting duck",
+    "genre": "Action",
+    "id": "829600",
+    "link": "https://trolog.itch.io/one-horse-power",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDk0MDIucG5n/315x250%23c/x02y3G.png",
+    "title": "One Horse Power(Godot C# 24hour GameJam)",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Horse",
+      "Power",
+      "Godot",
+      "C",
+      "24hour",
+      "Game",
+      "Jam"
+    ]
+  },
+  {
+    "author": "jeroendm",
+    "description": "Experience the stories of Jules Verne as mini games.",
+    "genre": "Adventure",
+    "id": "829717",
+    "link": "https://jeroendm.itch.io/jule",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTI2MTgucG5n/315x250%23c/20UFTI.png",
+    "title": "Jules Verne's Adventures",
+    "video": null,
+    "scrapeWords": [
+      "Jules",
+      "Vernes",
+      "Adventures"
+    ]
+  },
+  {
+    "author": "Jawfish",
+    "description": "Godot Wild Jam #27 entry",
+    "genre": "Action",
+    "id": "829764",
+    "link": "https://jawfish.itch.io/overbooked",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTAzMTEucG5n/315x250%23c/3lCJF8.png",
+    "title": "Overbooked",
+    "video": null,
+    "scrapeWords": [
+      "Overbooked"
+    ]
+  },
+  {
+    "author": "SDf",
+    "description": "A timed sorting game involving books.",
+    "genre": null,
+    "id": "829892",
+    "link": "https://ssdf.itch.io/books-away",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTE2NTIucG5n/315x250%23c/Bdt9L6.png",
+    "title": "Books Away",
+    "video": null,
+    "scrapeWords": [
+      "Books",
+      "Away"
+    ]
+  },
+  {
+    "author": "C0nFate",
+    "description": "Platformer-Puzzle 2D",
+    "genre": "Platformer",
+    "id": "829923",
+    "link": "https://c0nfate.itch.io/in2raction",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTA5NTQucG5n/315x250%23c/n7sIG7.png",
+    "title": "In2raction",
+    "video": null,
+    "scrapeWords": [
+      "In2raction"
+    ]
+  },
+  {
+    "author": "Pixelman",
+    "description": "Escape from the mysterious library while the books are roaming around",
+    "genre": "Adventure",
+    "id": "829981",
+    "link": "https://pixel-man77.itch.io/library-of-sunweld",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTE5NzUuanBn/315x250%23c/NB%2B0Zy.jpg",
+    "title": "Library Of SunWeld",
+    "video": null,
+    "scrapeWords": [
+      "Library",
+      "Of",
+      "Sun",
+      "Weld"
+    ]
+  },
+  {
+    "author": "LightningA",
+    "description": "A topdown dungeon game for Area of Effect Game Jam 2020",
+    "genre": "Adventure",
+    "id": "830008",
+    "link": "https://lightninga.itch.io/save-the-message",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTI0NTQucG5n/315x250%23c/30rOXS.png",
+    "title": "Save the Message",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "the",
+      "Message"
+    ]
+  },
+  {
+    "author": "fuk_dude",
+    "description": "An arcade game that will blow your mind",
+    "genre": "Platformer",
+    "id": "830039",
+    "link": "https://fuk-dude.itch.io/win-if-you-can",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTE3NTkuanBn/315x250%23c/a27H%2Fn.jpg",
+    "title": "WIN IF YOU CAN",
+    "video": null,
+    "scrapeWords": [
+      "WIN",
+      "IF",
+      "YOU",
+      "CAN"
+    ]
+  },
+  {
+    "author": "issycatlau125",
+    "description": "Nothing disturbs the peace and quiet of a bookhouse quite like a book-eating barrel bin!",
+    "genre": "Puzzle",
+    "id": "830234",
+    "link": "https://issycatlau125.itch.io/booksmart",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTI0OTguanBn/315x250%23c/CaA9c2.jpg",
+    "title": "BooksMart",
+    "video": null,
+    "scrapeWords": [
+      "Books",
+      "Mart"
+    ]
+  },
+  {
+    "author": "Claxvii",
+    "description": null,
+    "genre": null,
+    "id": "830404",
+    "link": "https://claxvii.itch.io/insulation",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTM1MDMuanBn/315x250%23c/2F9U33.jpg",
+    "title": "Insulation",
+    "video": null,
+    "scrapeWords": [
+      "Insulation"
     ]
   },
   {
