@@ -4062,6 +4062,28 @@
     ]
   },
   {
+    "author": "Arturo Pacheco Pérez",
+    "description": "When throwing boomerangs becomes unrealistically dangerous to yourself.",
+    "genre": "Puzzle",
+    "id": "195438",
+    "link": "https://arturo-pacheco-perez.itch.io/i-am-not-good-with-boomerangs",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTk1NDM4LzkxNjg0Ny5wbmc=/315x250%23c/4TboXi.png",
+    "title": "I am not good with boomerangs",
+    "video": null,
+    "scrapeWords": [
+      "I",
+      "am",
+      "not",
+      "good",
+      "with",
+      "boomerangs"
+    ]
+  },
+  {
     "author": "Guilherme Felipe de C. G. da Silva",
     "description": null,
     "genre": "Platformer",
@@ -37238,7 +37260,7 @@
     "id": "470164",
     "link": "https://bakenshake09.itch.io/nuvalis-campaign-trail",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0MDYwODUucG5n/315x250%23c/Fostjg.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTk1NTkucG5n/315x250%23c/69hk0S.png",
     "title": "Nuvalis Campaign Trail",
     "video": null,
     "scrapeWords": [
@@ -38918,11 +38940,11 @@
     ]
   },
   {
-    "author": "ByterBrod",
+    "author": "Mo0nChilld",
     "description": "SimplePlatformerGame",
     "genre": "Platformer",
     "id": "480711",
-    "link": "https://byterbrod.itch.io/jumping-jungle-adventure",
+    "link": "https://mo0nchilld.itch.io/jumping-jungle-adventure",
     "platforms": [
       "Android"
     ],
@@ -71955,6 +71977,24 @@
     ]
   },
   {
+    "author": "TOPGamez",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "688910",
+    "link": "https://topgamez.itch.io/myopic-microcosm",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwOTMxNTUucG5n/315x250%23c/oF%2BgoD.png",
+    "title": "Myopic Microcosm",
+    "video": null,
+    "scrapeWords": [
+      "Myopic",
+      "Microcosm"
+    ]
+  },
+  {
     "author": "Responsible File",
     "description": "A very short horror game",
     "genre": "Interactive Fiction",
@@ -78597,6 +78637,25 @@
       "Command",
       "Centre",
       "Ifrit"
+    ]
+  },
+  {
+    "author": "MenacingMecha",
+    "description": "PS1 aesthetic demo in Godot (Available under MIT License)",
+    "genre": null,
+    "id": "712958",
+    "link": "https://menacingmecha.itch.io/godot-psx-style-demo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NjA2MjQucG5n/315x250%23c/wCyjx9.png",
+    "title": "Godot PSX Style Demo",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "PSX",
+      "Style"
     ]
   },
   {
@@ -87134,23 +87193,6 @@
     ]
   },
   {
-    "author": "BucketWare",
-    "description": null,
-    "genre": "Action",
-    "id": "750339",
-    "link": "https://bucketware.itch.io/project-contender",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQxOTI0NTgucG5n/315x250%23c/QgUqlZ.png",
-    "title": "Project Contender",
-    "video": null,
-    "scrapeWords": [
-      "Project",
-      "Contender"
-    ]
-  },
-  {
     "author": "Large Lad",
     "description": null,
     "genre": "Platformer",
@@ -90532,7 +90574,8 @@
     "link": "https://putaitu.itch.io/bolter",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1NDQzMDEuanBn/315x250%23c/MUb5x7.jpg",
     "title": "Bolter",
@@ -95448,7 +95491,7 @@
     "id": "794787",
     "link": "https://frozen-well-studios.itch.io/urning-a-living",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ0NjcwOTQucG5n/315x250%23c/2UBdFg.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2NjE4MDUucG5n/315x250%23c/Xa5ShW.png",
     "title": "Urning a Living",
     "video": null,
     "scrapeWords": [
@@ -98383,6 +98426,24 @@
     ]
   },
   {
+    "author": "Bad Rooster Games",
+    "description": null,
+    "genre": "Platformer",
+    "id": "816929",
+    "link": "https://bad-rooster-games.itch.io/mini-mage",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODAzODgucG5n/315x250%23c/n0guyX.png",
+    "title": "Mini Mage",
+    "video": null,
+    "scrapeWords": [
+      "Mini",
+      "Mage"
+    ]
+  },
+  {
     "author": "Luke I. Wilson",
     "description": "Battle a robot in a game of missile tennis, but defend your health and energy with quick blocks.",
     "genre": "Action",
@@ -98486,6 +98547,24 @@
     "scrapeWords": [
       "Round",
       "Foot"
+    ]
+  },
+  {
+    "author": "renato_grottesi",
+    "description": "Planetary pool game where you are a moon shooting moons at other moons",
+    "genre": "Action",
+    "id": "818425",
+    "link": "https://renato-grottesi.itch.io/moonarchists",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODg0MjAuZ2lm/315x250%23cm/LjfCfW.gif",
+    "title": "Moonarchists",
+    "video": "https://img.itch.zone/aW1nLzQ1ODg0MjAuZ2lm/original/mtbTJz.gif",
+    "scrapeWords": [
+      "Moonarchists"
     ]
   },
   {
@@ -99619,6 +99698,21 @@
     ]
   },
   {
+    "author": "kender99",
+    "description": "3 minute game. Drive your campaign bus around England, convince people with promises",
+    "genre": null,
+    "id": "827181",
+    "link": "https://kender99.itch.io/brexitbus",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzU3NDQucG5n/315x250%23c/e%2FMS4V.png",
+    "title": "Brexit Bus",
+    "video": null,
+    "scrapeWords": [
+      "Brexit",
+      "Bus"
+    ]
+  },
+  {
     "author": "Pizza Studios",
     "description": null,
     "genre": null,
@@ -99781,6 +99875,26 @@
     ]
   },
   {
+    "author": "SlavJuan",
+    "description": "Limited space",
+    "genre": "Survival",
+    "id": "828708",
+    "link": "https://slavjuan.itch.io/limited-landing-space",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTcwNDMucG5n/315x250%23c/GK4M7B.png",
+    "title": "Limited Landing Space",
+    "video": null,
+    "scrapeWords": [
+      "Limited",
+      "Landing",
+      "Space"
+    ]
+  },
+  {
     "author": "feniks_gaming",
     "description": "Knows in the US as Tic Tac Toe",
     "genre": "Puzzle",
@@ -99894,13 +100008,14 @@
   },
   {
     "author": "DeveloperMode",
-    "description": "This is a point and click game that you can interact the environment around you.",
+    "description": "This is a point and click game where you can interact the environment around you.",
     "genre": "Interactive Fiction",
     "id": "829421",
     "link": "https://developermode.itch.io/stay-at-home",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2NDg0NTQucG5n/315x250%23c/REnw0b.png",
     "title": "Stay at Home",
@@ -100003,6 +100118,26 @@
     ]
   },
   {
+    "author": "Henkrip",
+    "description": "Save the children and hide from the librarian",
+    "genre": "Platformer",
+    "id": "829785",
+    "link": "https://henkrip.itch.io/the-forgotten-book",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTAyOTEucG5n/315x250%23c/Si5fLe.png",
+    "title": "The Forgotten Book",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Forgotten",
+      "Book"
+    ]
+  },
+  {
     "author": "SDf",
     "description": "A timed sorting game involving books.",
     "genre": null,
@@ -100036,10 +100171,8 @@
     "description": "Escape from the mysterious library while the books are roaming around",
     "genre": "Adventure",
     "id": "829981",
-    "link": "https://pixel-man77.itch.io/library-of-sunweld",
-    "platforms": [
-      "Windows"
-    ],
+    "link": "https://pixelman77.itch.io/library-of-sunweld",
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2NTE5NzUuanBn/315x250%23c/NB%2B0Zy.jpg",
     "title": "Library Of SunWeld",
     "video": null,
@@ -100089,6 +100222,24 @@
     ]
   },
   {
+    "author": "Doomed Lord",
+    "description": "Small GameJam-Adventure",
+    "genre": "Adventure",
+    "id": "830231",
+    "link": "https://doomed-lord.itch.io/spellzone",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTc4NzMucG5n/315x250%23c/VhdI7F.png",
+    "title": "SpellZone",
+    "video": null,
+    "scrapeWords": [
+      "Spell",
+      "Zone"
+    ]
+  },
+  {
     "author": "issycatlau125",
     "description": "Nothing disturbs the peace and quiet of a bookhouse quite like a book-eating barrel bin!",
     "genre": "Puzzle",
@@ -100119,6 +100270,71 @@
     "video": null,
     "scrapeWords": [
       "Insulation"
+    ]
+  },
+  {
+    "author": "XieneDev",
+    "description": "Avoid the border and collect targets to survive",
+    "genre": null,
+    "id": "831181",
+    "link": "https://xienedev.itch.io/cornered-rocket",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTgzMzcucG5n/315x250%23c/M%2BNxnJ.png",
+    "title": "Cornered Rocket",
+    "video": null,
+    "scrapeWords": [
+      "Cornered",
+      "Rocket"
+    ]
+  },
+  {
+    "author": "daatguy",
+    "description": null,
+    "genre": "Action",
+    "id": "831323",
+    "link": "https://daatguy.itch.io/pits-end",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTkzMDcucG5n/315x250%23c/94uKSy.png",
+    "title": "PITS END",
+    "video": null,
+    "scrapeWords": [
+      "PITS",
+      "END"
+    ]
+  },
+  {
+    "author": "snesio_cat123",
+    "description": "Hertje fun",
+    "genre": "Platformer",
+    "id": "831356",
+    "link": "https://snesio-cat123.itch.io/hertje-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTg5NjQuanBn/315x250%23c/mmsdDE.jpg",
+    "title": "Hertje Game",
+    "video": null,
+    "scrapeWords": [
+      "Hertje",
+      "Game"
+    ]
+  },
+  {
+    "author": "Tenmen Of Newcastle",
+    "description": "Hamigo is a mini survival game",
+    "genre": "Survival",
+    "id": "831680",
+    "link": "https://tenmen-of-newcastle.itch.io/hamigo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NjA1MjMucG5n/315x250%23c/JQzPF7.png",
+    "title": "Hamigo",
+    "video": null,
+    "scrapeWords": [
+      "Hamigo"
     ]
   },
   {
