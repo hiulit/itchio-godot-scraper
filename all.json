@@ -9326,7 +9326,7 @@
     ]
   },
   {
-    "author": "Igor's Games",
+    "author": "Igor'",
     "description": "A game about overcoming anxiety",
     "genre": null,
     "id": "250170",
@@ -23472,7 +23472,7 @@
     ]
   },
   {
-    "author": "Winged Adventurer",
+    "author": "Winged",
     "description": "You have altitude problems",
     "genre": "Platformer",
     "id": "358465",
@@ -25223,7 +25223,7 @@
     ]
   },
   {
-    "author": "Winged Adventurer",
+    "author": "Winged",
     "description": "Somewhat accurate cactus-in-a-pot simulator",
     "genre": "Platformer",
     "id": "371715",
@@ -50186,6 +50186,21 @@
     ]
   },
   {
+    "author": "Everyman",
+    "description": "Save the cookies from dunking into the Milky Way!",
+    "genre": "Platformer",
+    "id": "568138",
+    "link": "https://everyman.itch.io/milkyway",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5ODUyMzUucG5n/315x250%23c/7auSri.png",
+    "title": "Milky Way",
+    "video": null,
+    "scrapeWords": [
+      "Milky",
+      "Way"
+    ]
+  },
+  {
     "author": "LABORIOUS REX",
     "description": "Throw the map at your friends! ( + FREE DEMO )",
     "genre": "Platformer",
@@ -51741,11 +51756,11 @@
     ]
   },
   {
-    "author": "Pumpkin_Central",
+    "author": "pumpkin_dev",
     "description": "Trapped in a gladiator arena, figthing for your life",
     "genre": "Action",
     "id": "579259",
-    "link": "https://pumpkin-central.itch.io/cyber-aitor",
+    "link": "https://pumpkin-dev.itch.io/cyber-aitor",
     "platforms": [
       "Windows"
     ],
@@ -63836,7 +63851,7 @@
     ]
   },
   {
-    "author": "Winged Adventurer",
+    "author": "Winged",
     "description": "Help birds establish a connection",
     "genre": "Puzzle",
     "id": "644036",
@@ -66361,6 +66376,23 @@
     "scrapeWords": [
       "Farm",
       "Ner"
+    ]
+  },
+  {
+    "author": "TNTC-Lab",
+    "description": "Discover the truth...",
+    "genre": "Adventure",
+    "id": "657796",
+    "link": "https://tntc-lab.itch.io/paranormal-touch",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1Mzg3MzEucG5n/315x250%23c/vHtev6.png",
+    "title": "Paranormal Touch",
+    "video": null,
+    "scrapeWords": [
+      "Paranormal",
+      "Touch"
     ]
   },
   {
@@ -95468,21 +95500,6 @@
     ]
   },
   {
-    "author": "USBRODI GAMES",
-    "description": "Protect, kill and escape! Your wife needs milk!",
-    "genre": null,
-    "id": "794995",
-    "link": "https://usbrodi-games.itch.io/milky-way",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ0NjUyNDMucG5n/315x250%23c/fHKFGX.png",
-    "title": "Milky Way",
-    "video": null,
-    "scrapeWords": [
-      "Milky",
-      "Way"
-    ]
-  },
-  {
     "author": "rickbala",
     "description": null,
     "genre": "Platformer",
@@ -97882,6 +97899,20 @@
     ]
   },
   {
+    "author": "kreivi",
+    "description": "Defend earth from incoming asteroids using moon as your defence",
+    "genre": "Action",
+    "id": "811738",
+    "link": "https://kreivi.itch.io/kuumela",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NzU2NDUuanBn/315x250%23c/ge8yDl.jpg",
+    "title": "Kuumela",
+    "video": null,
+    "scrapeWords": [
+      "Kuumela"
+    ]
+  },
+  {
     "author": "sad3d",
     "description": "a vague demo",
     "genre": "Adventure",
@@ -98156,7 +98187,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2NDY3MTEucG5n/315x250%23c/oV2F%2BL.png",
     "title": "Matière Noire",
@@ -98538,6 +98570,7 @@
     "link": "https://renato-grottesi.itch.io/moonarchists",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1ODg0MjAuZ2lm/315x250%23cm/LjfCfW.gif",
@@ -99140,24 +99173,6 @@
     ]
   },
   {
-    "author": "KeySole",
-    "description": "bullet hell puzzle",
-    "genre": "Puzzle",
-    "id": "822520",
-    "link": "https://keysole.itch.io/bhp",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MTAzMDYucG5n/315x250%23c/0V4%2FsX.png",
-    "title": "BHP",
-    "video": null,
-    "scrapeWords": [
-      "BHP"
-    ]
-  },
-  {
     "author": "T-Low",
     "description": "Use your shaman powers to reach the holy bat and save it",
     "genre": "Platformer",
@@ -99592,6 +99607,25 @@
     ]
   },
   {
+    "author": "ClemensTolboom",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "825909",
+    "link": "https://clemenstolboom.itch.io/mystory",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTIxNTQucG5n/315x250%23c/aQce1f.png",
+    "title": "MyStory",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "Story"
+    ]
+  },
+  {
     "author": "ExoPrism",
     "description": null,
     "genre": null,
@@ -99746,6 +99780,23 @@
     "scrapeWords": [
       "Tank",
       "Time"
+    ]
+  },
+  {
+    "author": "phaserDev",
+    "description": "ever changing platformer with everything changing every 10 mins or so",
+    "genre": "Platformer",
+    "id": "828099",
+    "link": "https://phaserdev.itch.io/phaser",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDA4MjMucG5n/315x250%23c/Zx0VG2.png",
+    "title": "Phaser",
+    "video": null,
+    "scrapeWords": [
+      "Phaser"
     ]
   },
   {
@@ -99985,13 +100036,12 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2NDkxMDgucG5n/315x250%23c/Yi8%2FI9.png",
-    "title": "Journey of life (Beta)",
+    "title": "Journey of life",
     "video": null,
     "scrapeWords": [
       "Journey",
       "of",
-      "life",
-      "Beta"
+      "life"
     ]
   },
   {
@@ -100220,6 +100270,20 @@
     ]
   },
   {
+    "author": "ZenoGameDev",
+    "description": "Made For TPS Game Jam",
+    "genre": "Action",
+    "id": "830500",
+    "link": "https://zenogamedev.itch.io/polymers",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NzY1OTUucG5n/315x250%23c/Qa7ESF.png",
+    "title": "Polymers",
+    "video": null,
+    "scrapeWords": [
+      "Polymers"
+    ]
+  },
+  {
     "author": "Antoyne",
     "description": "Kanedaaaa ! Tetsuoooo ! Kanedaaaaaaaaaa ! Tetsuooooooooo!!",
     "genre": "Fighting",
@@ -100347,7 +100411,7 @@
   },
   {
     "author": "redex991",
-    "description": "Un gioco platform fatto for fun",
+    "description": null,
     "genre": "Platformer",
     "id": "832643",
     "link": "https://redex991.itch.io/the-ultimate-platformer-v2",
@@ -100371,7 +100435,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NzMxMTMucG5n/315x250%23c/cwzu5%2F.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ2Nzc4MzMucG5n/315x250%23c/USUAvO.png",
     "title": "Greater Purpose",
     "video": null,
     "scrapeWords": [
@@ -100395,19 +100459,76 @@
     ]
   },
   {
-    "author": "SkullGruntRyan",
-    "description": "A short, pixelated mini-metroidvania",
-    "genre": "Action",
-    "id": "833990",
-    "link": "https://skullgruntryan.itch.io/daemon",
+    "author": "dotti",
+    "description": "Be a quality assurance worker in One Button Factory",
+    "genre": "Rhythm",
+    "id": "834089",
+    "link": "https://dotti.itch.io/onebutton-factory",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NzM0NjIucG5n/315x250%23c/EJdw63.png",
+    "title": "One Button Factory",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Factory"
+    ]
+  },
+  {
+    "author": "Vasilis Chonianakis",
+    "description": "A turn based rpg with dice based combat",
+    "genre": "Role Playing",
+    "id": "834339",
+    "link": "https://negator2vc.itch.io/secrets-of-the-mansion",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NzUxMTUucG5n/315x250%23c/CJhNL0.png",
+    "title": "Secrets of the Mansion",
+    "video": null,
+    "scrapeWords": [
+      "Secrets",
+      "of",
+      "the",
+      "Mansion"
+    ]
+  },
+  {
+    "author": "Idle Space Arcade",
+    "description": null,
+    "genre": "Strategy",
+    "id": "834511",
+    "link": "https://idlespacearcade.itch.io/take-over-the-galaxy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NzU5NDUuanBn/315x250%23c/ebKPTz.jpg",
+    "title": "Conquer The Galaxy!",
+    "video": null,
+    "scrapeWords": [
+      "Conquer",
+      "The",
+      "Galaxy"
+    ]
+  },
+  {
+    "author": "Idle Space Arcade",
+    "description": null,
+    "genre": "Shooter",
+    "id": "834798",
+    "link": "https://idlespacearcade.itch.io/ospd",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NzMwOTYucG5n/315x250%23c/UDjPMY.png",
-    "title": "Daemon",
+    "thumb": "https://img.itch.zone/aW1nLzQ2Nzc5MTYuanBn/315x250%23c/EAcAIs.jpg",
+    "title": "Outer Space PD",
     "video": null,
     "scrapeWords": [
-      "Daemon"
+      "Outer",
+      "Space",
+      "PD"
     ]
   },
   {
