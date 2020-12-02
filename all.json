@@ -4243,6 +4243,20 @@
     ]
   },
   {
+    "author": "imekon",
+    "description": "Breakout sample in Godot 2.1.4",
+    "genre": null,
+    "id": "197722",
+    "link": "https://imekon.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
+    ]
+  },
+  {
     "author": "securas",
     "description": "A hack and slash roguelike winner of the 2017 Github Game Off Jam",
     "genre": "Role Playing",
@@ -14573,20 +14587,6 @@
       "of",
       "Memory",
       "Space"
-    ]
-  },
-  {
-    "author": "Chuckles P.  Monkeyworth",
-    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
-    "genre": null,
-    "id": "290114",
-    "link": "https://chucklespmonkeyworth.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
     ]
   },
   {
@@ -43048,7 +43048,7 @@
   },
   {
     "author": "krackocloud",
-    "description": "Meteos-like falling block puzzle game",
+    "description": "Meteos clone: Falling block puzzle game",
     "genre": "Puzzle",
     "id": "511710",
     "link": "https://krackocloud.itch.io/graviton",
@@ -43572,6 +43572,26 @@
     "scrapeWords": [
       "Star",
       "madness"
+    ]
+  },
+  {
+    "author": "Penjami",
+    "description": "Escape inevitable doom",
+    "genre": "Survival",
+    "id": "517770",
+    "link": "https://penjami.itch.io/book-of-mystery",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2ODg4NTcucG5n/315x250%23c/alORTu.png",
+    "title": "Book of Mystery",
+    "video": null,
+    "scrapeWords": [
+      "Book",
+      "of",
+      "Mystery"
     ]
   },
   {
@@ -53077,11 +53097,10 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMyNTc1NzMucG5n/315x250%23c/ADxNcy.png",
-    "title": "Dungeonn [abandoned]",
+    "title": "Dungeonn",
     "video": null,
     "scrapeWords": [
-      "Dungeonn",
-      "[abandoned]"
+      "Dungeonn"
     ]
   },
   {
@@ -62344,11 +62363,11 @@
     ]
   },
   {
-    "author": "Yortoise the tortoise",
+    "author": "Jolly Squid Studios",
     "description": "A simplistic fantasy stab 'em up",
     "genre": "Action",
     "id": "636047",
-    "link": "https://yortoise-the-tortoise.itch.io/the-dark-forest",
+    "link": "https://jolly-squid-studios.itch.io/the-dark-forest",
     "platforms": [
       "Windows",
       "macOS"
@@ -64465,11 +64484,11 @@
     ]
   },
   {
-    "author": "Yortoise the tortoise",
+    "author": "Jolly Squid Studios",
     "description": "A first-person parkour game with grappling hooks",
     "genre": "Platformer",
     "id": "647090",
-    "link": "https://yortoise-the-tortoise.itch.io/sky-runner",
+    "link": "https://jolly-squid-studios.itch.io/sky-runner",
     "platforms": [
       "Windows",
       "macOS"
@@ -71417,11 +71436,11 @@
     ]
   },
   {
-    "author": "Yortoise the tortoise",
+    "author": "Jolly Squid Studios",
     "description": "A cross between tower attack and idle in which you command an army of upgradable kobolds and goblins",
     "genre": "Action",
     "id": "686571",
-    "link": "https://yortoise-the-tortoise.itch.io/the-dragons-horde",
+    "link": "https://jolly-squid-studios.itch.io/the-dragons-horde",
     "platforms": [
       "Windows",
       "macOS"
@@ -72421,22 +72440,6 @@
     "video": null,
     "scrapeWords": [
       "Ricochet"
-    ]
-  },
-  {
-    "author": "TheMikirog",
-    "description": "Escape an unknown entity while reality breaks right in front of you.",
-    "genre": "Survival",
-    "id": "693051",
-    "link": "https://themikirog.itch.io/off-kilter",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM4NDkwMjgucG5n/315x250%23c/PsRbS1.png",
-    "title": "Off-Kilter",
-    "video": null,
-    "scrapeWords": [
-      "Off-Kilter"
     ]
   },
   {
@@ -73946,26 +73949,6 @@
     "scrapeWords": [
       "Trash",
       "Simulator"
-    ]
-  },
-  {
-    "author": "opatut",
-    "description": "The little robot Colton has to escape the Tofu factory",
-    "genre": "Puzzle",
-    "id": "695813",
-    "link": "https://opatut.itch.io/tour-of-colton",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM4MzQ1NDYucG5n/315x250%23c/ofm6tx.png",
-    "title": "Tour of Colton",
-    "video": null,
-    "scrapeWords": [
-      "Tour",
-      "of",
-      "Colton"
     ]
   },
   {
@@ -76477,11 +76460,11 @@
     ]
   },
   {
-    "author": "Yortoise the tortoise",
+    "author": "Jolly Squid Studios",
     "description": "A fun little platformer where you play as the stickman star of a caution sign",
     "genre": "Platformer",
     "id": "702989",
-    "link": "https://yortoise-the-tortoise.itch.io/stickman-in-peril",
+    "link": "https://jolly-squid-studios.itch.io/stickman-in-peril",
     "platforms": [
       "Windows",
       "macOS"
@@ -92221,11 +92204,11 @@
     ]
   },
   {
-    "author": "Yortoise the tortoise",
+    "author": "Jolly Squid Studios",
     "description": "A fast-paced, brutally-hard, arcade-style first person shooter, made with Godot and Blender.",
     "genre": "Shooter",
     "id": "776926",
-    "link": "https://yortoise-the-tortoise.itch.io/the-simulation",
+    "link": "https://jolly-squid-studios.itch.io/the-simulation",
     "platforms": [
       "Windows",
       "macOS"
@@ -97732,7 +97715,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDAxMDMucG5n/315x250%23c/nRXPC5.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTAzMTIucG5n/315x250%23c/B3PYyD.png",
     "title": "A Cup to the Moon",
     "video": null,
     "scrapeWords": [
@@ -98260,7 +98243,7 @@
   },
   {
     "author": "MAZdude",
-    "description": null,
+    "description": "Help the space rabbit reach the earth!",
     "genre": "Action",
     "id": "814226",
     "link": "https://mazdude.itch.io/go2k20",
@@ -98269,7 +98252,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDEzNDkuanBn/315x250%23c/drNUDj.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDkxNzYuanBn/315x250%23c/7E33C8.jpg",
     "title": "Carrotshot",
     "video": null,
     "scrapeWords": [
@@ -98404,7 +98387,9 @@
     "genre": "Educational",
     "id": "816843",
     "link": "https://biblegames.itch.io/bible-puzzle-games",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ1ODE1MjUuanBn/315x250%23c/khYpxu.jpg",
     "title": "Bible Puzzle Games",
     "video": null,
@@ -98692,6 +98677,20 @@
     ]
   },
   {
+    "author": "MrBundles",
+    "description": "Prepare for Liftoff",
+    "genre": "Puzzle",
+    "id": "819789",
+    "link": "https://mrbundles.itch.io/pack",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDg4NzIucG5n/315x250%23c/F%2BB2Ct.png",
+    "title": "PACK",
+    "video": null,
+    "scrapeWords": [
+      "PACK"
+    ]
+  },
+  {
     "author": "tomtom2352",
     "description": "A 2D platforming shooter game inspired by the flash game Zombotron",
     "genre": "Platformer",
@@ -98719,6 +98718,24 @@
     "video": "https://img.itch.zone/aW1nLzQ2MDI0MjcuZ2lm/original/IsJhAv.gif",
     "scrapeWords": [
       "RUNOVER"
+    ]
+  },
+  {
+    "author": "Kreateer",
+    "description": "A 2D Runner/Platformer made for Game Off 2020 Game Jam",
+    "genre": "Platformer",
+    "id": "820690",
+    "link": "https://kreateer.itch.io/lunarun",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDc5MjkucG5n/315x250%23c/n5nAjS.png",
+    "title": "LunaRun",
+    "video": null,
+    "scrapeWords": [
+      "Luna",
+      "Run"
     ]
   },
   {
@@ -99815,6 +99832,23 @@
     ]
   },
   {
+    "author": "djokavex",
+    "description": "Defend your colony on the Moon.",
+    "genre": "Strategy",
+    "id": "828198",
+    "link": "https://djokavex.itch.io/lunar-defender",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDE4MDAucG5n/315x250%23c/U8oS1v.png",
+    "title": "Lunar Defender",
+    "video": null,
+    "scrapeWords": [
+      "Lunar",
+      "Defender"
+    ]
+  },
+  {
     "author": "Sayanel",
     "description": "Monsters and spells.",
     "genre": "Adventure",
@@ -99968,7 +100002,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDI0OTcucG5n/315x250%23c/qPSmGp.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTExNDEucG5n/315x250%23c/7vMQSF.png",
     "title": "Escape The Box (Remake)",
     "video": null,
     "scrapeWords": [
@@ -100281,7 +100315,7 @@
     ]
   },
   {
-    "author": "ZenoGameDev",
+    "author": "Zeno",
     "description": "Made For TPS Game Jam",
     "genre": "Action",
     "id": "830500",
@@ -100536,6 +100570,21 @@
     "video": null,
     "scrapeWords": [
       "UPSTREAM"
+    ]
+  },
+  {
+    "author": "Saif Amer",
+    "description": "Everyone knows the moons made out of cheese.",
+    "genre": "Platformer",
+    "id": "833595",
+    "link": "https://suppersaif.itch.io/cheese-louise",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2OTc0NjUuanBn/315x250%23c/sLH5c5.jpg",
+    "title": "Cheese Louise!",
+    "video": null,
+    "scrapeWords": [
+      "Cheese",
+      "Louise"
     ]
   },
   {
@@ -101297,6 +101346,26 @@
     ]
   },
   {
+    "author": "arenk",
+    "description": "​You believe moonshot thinkers can’t fight pollution? Hold my climate change!",
+    "genre": "Action",
+    "id": "838779",
+    "link": "https://arenk.itch.io/angry-moons",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDgyMzEucG5n/315x250%23c/AiogAF.png",
+    "title": "Angry Moons",
+    "video": null,
+    "scrapeWords": [
+      "Angry",
+      "Moons"
+    ]
+  },
+  {
     "author": "EchoBlur",
     "description": "Game about cleaning all garbage",
     "genre": "Simulation",
@@ -101324,6 +101393,25 @@
     "video": null,
     "scrapeWords": [
       "Terraformia"
+    ]
+  },
+  {
+    "author": "Fry",
+    "description": "2D run and gun on the moon",
+    "genre": "Action",
+    "id": "838820",
+    "link": "https://fry.itch.io/moon-dragoon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDk0OTMucG5n/315x250%23c/Bx9k8k.png",
+    "title": "Moon Dragoon",
+    "video": null,
+    "scrapeWords": [
+      "Moon",
+      "Dragoon"
     ]
   },
   {
@@ -101377,6 +101465,24 @@
     ]
   },
   {
+    "author": "B_P_C",
+    "description": "A match 3 game made in godot",
+    "genre": "Puzzle",
+    "id": "839316",
+    "link": "https://b-p-c.itch.io/match-3-godot",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDUwMTUuanBn/315x250%23c/41%2FddF.jpg",
+    "title": "Match 3 Godot",
+    "video": null,
+    "scrapeWords": [
+      "Match",
+      "3",
+      "Godot"
+    ]
+  },
+  {
     "author": "AcheGames",
     "description": null,
     "genre": "Platformer",
@@ -101410,6 +101516,180 @@
       "LOGO",
       "-The",
       "Game-"
+    ]
+  },
+  {
+    "author": "Clauveira",
+    "description": null,
+    "genre": "Adventure",
+    "id": "839521",
+    "link": "https://clauveira.itch.io/project-hook",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTE4OTAucG5n/315x250%23c/zvSi%2BV.png",
+    "title": "Project: First Person Elastic Hook",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "First",
+      "Person",
+      "Elastic",
+      "Hook"
+    ]
+  },
+  {
+    "author": "X32Lapis",
+    "description": "My first game I made, a simple platformer made for Itch.io Game Off 2020 with the theme \"Moonshot\"",
+    "genre": "Platformer",
+    "id": "839586",
+    "link": "https://x32lapis.itch.io/finding-luna-a-moonshot-away",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDY3NzQucG5n/315x250%23c/klPd62.png",
+    "title": "Finding Luna - A Moonshot Away",
+    "video": null,
+    "scrapeWords": [
+      "Finding",
+      "Luna",
+      "A",
+      "Moonshot",
+      "Away"
+    ]
+  },
+  {
+    "author": "sabacu",
+    "description": "you are a self-aware vacuum cleaner trying a better life",
+    "genre": "Platformer",
+    "id": "839644",
+    "link": "https://sabacu.itch.io/scrap-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDc2MDYuanBn/315x250%23c/oUU%2FBZ.jpg",
+    "title": "Scrap Out",
+    "video": null,
+    "scrapeWords": [
+      "Scrap",
+      "Out"
+    ]
+  },
+  {
+    "author": "Theoteno Knight",
+    "description": "An easy little legendary RPG, just avoid the blue bat! WASD JK, ⬆⬅⬇➡ ZX, 🖱️. Good Luck!",
+    "genre": "Role Playing",
+    "id": "839660",
+    "link": "https://theoteno-knight.itch.io/the-legend-of-lea",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDc0OTYucG5n/315x250%23c/%2FUvO5y.png",
+    "title": "The Legend of Lea",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Legend",
+      "of",
+      "Lea"
+    ]
+  },
+  {
+    "author": "FourierTransformer",
+    "description": "Yuna travels around different trying to bring them back to her system in this intense time-crunched platformer!",
+    "genre": "Platformer",
+    "id": "839891",
+    "link": "https://fouriertransformer.itch.io/yuna-and-the-moonstealers",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDg1MjQucG5n/315x250%23c/oSm9U%2B.png",
+    "title": "Yuna and the Moonstealers",
+    "video": null,
+    "scrapeWords": [
+      "Yuna",
+      "and",
+      "the",
+      "Moonstealers"
+    ]
+  },
+  {
+    "author": "EGFAB Technology",
+    "description": "All the Ball Toss action! Now with blue!! (does not contain red or green)",
+    "genre": "Action",
+    "id": "839968",
+    "link": "https://egfab-technology.itch.io/ball-toss-deluxe",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDg5NDcucG5n/315x250%23c/gsA5v5.png",
+    "title": "Ball Toss Deluxe",
+    "video": null,
+    "scrapeWords": [
+      "Ball",
+      "Toss",
+      "Deluxe"
+    ]
+  },
+  {
+    "author": "Vasilis Chonianakis",
+    "description": "A turn based strategy survival game",
+    "genre": "Strategy",
+    "id": "839985",
+    "link": "https://negator2vc.itch.io/trouble-at-the-dark-side-of-the-moon",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDk1MTgucG5n/315x250%23c/%2F%2FJeiY.png",
+    "title": "Trouble at the Dark Side of the Moon",
+    "video": null,
+    "scrapeWords": [
+      "Trouble",
+      "at",
+      "the",
+      "Dark",
+      "Side",
+      "of",
+      "the",
+      "Moon"
+    ]
+  },
+  {
+    "author": "BackAt50Ft",
+    "description": "GameOff 2020 submission",
+    "genre": "Action",
+    "id": "840150",
+    "link": "https://wolfgangsenff.itch.io/moonshot-commando",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTAxMzkucG5n/315x250%23c/26rcBu.png",
+    "title": "Moonshot: Commando",
+    "video": null,
+    "scrapeWords": [
+      "Moonshot",
+      "Commando"
+    ]
+  },
+  {
+    "author": "virtuoso_rotins",
+    "description": "A mini quest to restore the moon",
+    "genre": "Adventure",
+    "id": "840152",
+    "link": "https://virtuoso-rotins.itch.io/lucky-moonshot",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTAyMzkucG5n/315x250%23c/QM2pRU.png",
+    "title": "Lucky MoonShot",
+    "video": null,
+    "scrapeWords": [
+      "Lucky",
+      "Moon",
+      "Shot"
     ]
   },
   {
