@@ -12821,11 +12821,11 @@
     ]
   },
   {
-    "author": "BHGT",
+    "author": "Nagi",
     "description": "Playable on Windows, Linux, Mac and Web",
     "genre": "Role Playing",
     "id": "273582",
-    "link": "https://bhagatnagi.itch.io/pac-land-adventures",
+    "link": "https://nagidev.itch.io/pac-land-adventures",
     "platforms": [
       "Windows",
       "Linux",
@@ -22613,7 +22613,7 @@
     ]
   },
   {
-    "author": "Tonytins",
+    "author": "Tony bark",
     "description": "A basic dress up game.",
     "genre": null,
     "id": "351083",
@@ -42757,25 +42757,6 @@
     ]
   },
   {
-    "author": "Peter Wood",
-    "description": "A simple Space Game inspired by old PC space sims",
-    "genre": "Shooter",
-    "id": "509387",
-    "link": "https://peternatewood.itch.io/space-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDM2NzIucG5n/315x250%23c/YwwpO3.png",
-    "title": "Space Game",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Game"
-    ]
-  },
-  {
     "author": "World Eater Games",
     "description": "Tough boss-rush adventure game where you can turn back time in combat to mend your mistakes... Or create new ones!",
     "genre": "Action",
@@ -44690,11 +44671,11 @@
     ]
   },
   {
-    "author": "am.blacksheep",
+    "author": "amdotblacksheep",
     "description": "Leaps over Bounds is a short 3D platformer in which the goal is to complete the game as quickly as possible.",
     "genre": "Platformer",
     "id": "526865",
-    "link": "https://amblacksheep.itch.io/lob",
+    "link": "https://amdotblacksheep.itch.io/lob",
     "platforms": [
       "Windows",
       "Linux"
@@ -46775,6 +46756,24 @@
       "Voxel",
       "Works",
       "Quest"
+    ]
+  },
+  {
+    "author": "Solaraloe",
+    "description": "Get rich while bad drivers attempt to commit vehicular manslaughter on you.",
+    "genre": "Action",
+    "id": "542796",
+    "link": "https://solaraloe.itch.io/crossrun",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4Mjg2NjEucG5n/315x250%23c/1OEM6Y.png",
+    "title": "Crossrun",
+    "video": null,
+    "scrapeWords": [
+      "Crossrun"
     ]
   },
   {
@@ -54565,11 +54564,11 @@
     ]
   },
   {
-    "author": "am.blacksheep",
+    "author": "amdotblacksheep",
     "description": "A short platform about connection",
     "genre": "Platformer",
     "id": "598363",
-    "link": "https://amblacksheep.itch.io/red-thread",
+    "link": "https://amdotblacksheep.itch.io/red-thread",
     "platforms": [
       "Windows",
       "Linux",
@@ -65118,21 +65117,6 @@
     ]
   },
   {
-    "author": "carshalljd",
-    "description": "Multiplayer capture the flag with weapons",
-    "genre": "Action",
-    "id": "650606",
-    "link": "https://carshalljd.itch.io/superctf",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1ODQ5MDMucG5n/315x250%23c/2VM08M.png",
-    "title": "SuperCTF",
-    "video": null,
-    "scrapeWords": [
-      "Super",
-      "CTF"
-    ]
-  },
-  {
     "author": "extra_syrup",
     "description": "Don't get picked! Be the last egg left! [Made with Godot]",
     "genre": "Puzzle",
@@ -70220,11 +70204,11 @@
     ]
   },
   {
-    "author": "am.blacksheep",
+    "author": "amdotblacksheep",
     "description": null,
     "genre": "Puzzle",
     "id": "681243",
-    "link": "https://amblacksheep.itch.io/zenshot",
+    "link": "https://amdotblacksheep.itch.io/zenshot",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM3NDQ4OTMucG5n/315x250%23c/Z2QGu0.png",
     "title": "Zen Shot",
@@ -74949,11 +74933,11 @@
     ]
   },
   {
-    "author": "am.blacksheep",
+    "author": "amdotblacksheep",
     "description": "A short platform made for GMTKjam 2020",
     "genre": "Platformer",
     "id": "697701",
-    "link": "https://amblacksheep.itch.io/tilt",
+    "link": "https://amdotblacksheep.itch.io/tilt",
     "platforms": [
       "Windows",
       "Linux",
@@ -77248,6 +77232,25 @@
     "scrapeWords": [
       "Cardsn",
       "Castles"
+    ]
+  },
+  {
+    "author": "noaS",
+    "description": "Space Game",
+    "genre": "Adventure",
+    "id": "706731",
+    "link": "https://noa5.itch.io/space-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MDgyNTIucG5n/315x250%23c/uDo9Kf.png",
+    "title": "Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Game"
     ]
   },
   {
@@ -88282,7 +88285,7 @@
   },
   {
     "author": "Patrice Metcalf-Putnam",
-    "description": null,
+    "description": "Samurai Bunbun fights fire with sword in this short bullet hell",
     "genre": "Action",
     "id": "755959",
     "link": "https://patricemp.itch.io/bunny-vs-carrot",
@@ -88852,6 +88855,24 @@
     "scrapeWords": [
       "Critical",
       "Mash"
+    ]
+  },
+  {
+    "author": "aaryynn",
+    "description": null,
+    "genre": null,
+    "id": "758600",
+    "link": "https://aaryyn.itch.io/chaotic",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyNDM5ODkucG5n/315x250%23c/txVB5s.png",
+    "title": "CHAO-TraffIC",
+    "video": null,
+    "scrapeWords": [
+      "CHAO-Traff",
+      "IC"
     ]
   },
   {
@@ -98202,8 +98223,10 @@
     "genre": "Role Playing",
     "id": "814086",
     "link": "https://raisin98.itch.io/its-a-giant",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1Njg2NjcucG5n/315x250%23c/D5UQyw.png",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjQ3MTAucG5n/315x250%23c/Wsdzjw.png",
     "title": "It's a Giant!",
     "video": null,
     "scrapeWords": [
@@ -98673,6 +98696,22 @@
     "video": null,
     "scrapeWords": [
       "Astrotron"
+    ]
+  },
+  {
+    "author": "suraca",
+    "description": "_Never_Escape_",
+    "genre": "Shooter",
+    "id": "820235",
+    "link": "https://suraca.itch.io/surrounded",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1OTc5MjEucG5n/315x250%23c/%2FnD%2BTh.png",
+    "title": "_Surrounded_",
+    "video": null,
+    "scrapeWords": [
+      "_Surrounded_"
     ]
   },
   {
@@ -101780,7 +101819,7 @@
   },
   {
     "author": "Brokenoz",
-    "description": "(Fr) Jeu en 3D de réflèxes [Game Jam on Crack]",
+    "description": "(Fr) Jeu en 3D de réflexes [Game Jam on Crack]",
     "genre": null,
     "id": "841278",
     "link": "https://brokenoz.itch.io/facteur-spatial",
@@ -101803,13 +101842,82 @@
     "id": "841366",
     "link": "https://fortythreesam.itch.io/megawastelandone",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3MTcwMTkucG5n/315x250%23c/hTrh4c.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjAwMDkucG5n/315x250%23c/NOKfyp.png",
     "title": "MegaWastelandOne",
     "video": null,
     "scrapeWords": [
       "Mega",
       "Wasteland",
       "One"
+    ]
+  },
+  {
+    "author": "dettalant",
+    "description": "制作中2Dツインスティックシューターの戦闘動作のみを抜き出したデモ版です",
+    "genre": "Shooter",
+    "id": "841774",
+    "link": "https://dettalant.itch.io/pixelaction-trial-version",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTkzNDYucG5n/315x250%23c/sDmGD8.png",
+    "title": "PixelAction(仮) 戦闘動作体験版",
+    "video": null,
+    "scrapeWords": [
+      "Pixel",
+      "Action仮",
+      "戦闘動作体験版"
+    ]
+  },
+  {
+    "author": "alex1609",
+    "description": null,
+    "genre": null,
+    "id": "841861",
+    "link": "https://alex1609.itch.io/viruswargame",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTk4NzAuanBn/315x250%23c/md2g89.jpg",
+    "title": "virus war game",
+    "video": null,
+    "scrapeWords": [
+      "virus",
+      "war",
+      "game"
+    ]
+  },
+  {
+    "author": "ManuelNaim",
+    "description": "Explore, survive and relax in a world of floating islands",
+    "genre": "Adventure",
+    "id": "842250",
+    "link": "https://manuelmagno.itch.io/godotcraft",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjEyNDQucG5n/315x250%23c/%2FMqw8h.png",
+    "title": "GodotCraft",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Craft"
+    ]
+  },
+  {
+    "author": "Nathan The Sorcerer",
+    "description": null,
+    "genre": "Shooter",
+    "id": "842398",
+    "link": "https://nathanmagus.itch.io/sorcerer-vs-zombies",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjI1MjAucG5n/315x250%23c/Yfgl2Z.png",
+    "title": "Nathan Magus",
+    "video": null,
+    "scrapeWords": [
+      "Nathan",
+      "Magus"
     ]
   },
   {
