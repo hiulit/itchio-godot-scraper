@@ -4243,20 +4243,6 @@
     ]
   },
   {
-    "author": "imekon",
-    "description": "Breakout sample in Godot 2.1.4",
-    "genre": null,
-    "id": "197722",
-    "link": "https://imekon.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
-    ]
-  },
-  {
     "author": "securas",
     "description": "A hack and slash roguelike winner of the 2017 Github Game Off Jam",
     "genre": "Role Playing",
@@ -14590,6 +14576,20 @@
     ]
   },
   {
+    "author": "Chuckles P.  Monkeyworth",
+    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
+    "genre": null,
+    "id": "290114",
+    "link": "https://chucklespmonkeyworth.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
+    ]
+  },
+  {
     "author": "TheVampster",
     "description": null,
     "genre": "Action",
@@ -21112,7 +21112,7 @@
     ]
   },
   {
-    "author": "Mateo 'Carenalga' Robayo Rodríguez",
+    "author": "Carenalga",
     "description": "Modify public opinion through TV news",
     "genre": "Adventure",
     "id": "338097",
@@ -22341,6 +22341,23 @@
       "be",
       "a",
       "Triangle"
+    ]
+  },
+  {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -38225,7 +38242,7 @@
   },
   {
     "author": "TIBI4",
-    "description": null,
+    "description": "Decorate your restaurant, hire your friends and rule Gourmet Avenue!",
     "genre": "Simulation",
     "id": "476170",
     "link": "https://tibi4.itch.io/food-friends",
@@ -38776,25 +38793,6 @@
     "scrapeWords": [
       "Project",
       "Huesos"
-    ]
-  },
-  {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -44668,23 +44666,6 @@
       "Leap",
       "and",
       "Sweep"
-    ]
-  },
-  {
-    "author": "amdotblacksheep",
-    "description": "Leaps over Bounds is a short 3D platformer in which the goal is to complete the game as quickly as possible.",
-    "genre": "Platformer",
-    "id": "526865",
-    "link": "https://amdotblacksheep.itch.io/lob",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI3Mzc0NDMucG5n/315x250%23c/DoJ4zA.png",
-    "title": "LOB",
-    "video": null,
-    "scrapeWords": [
-      "LOB"
     ]
   },
   {
@@ -51711,11 +51692,11 @@
     ]
   },
   {
-    "author": "Rubiguu",
+    "author": "Mugmug And Rubio",
     "description": "A simple prototype for a simple  game where the player must plan ahead",
     "genre": "Puzzle",
     "id": "579375",
-    "link": "https://rubiguu.itch.io/ready-action",
+    "link": "https://mugmug-and-rubio.itch.io/ready-action",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMwNTExMDQucG5n/315x250%23c/%2Bxsamx.png",
     "title": "Ready Action",
@@ -54564,25 +54545,6 @@
     ]
   },
   {
-    "author": "amdotblacksheep",
-    "description": "A short platform about connection",
-    "genre": "Platformer",
-    "id": "598363",
-    "link": "https://amdotblacksheep.itch.io/red-thread",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMxNjk0MzcucG5n/315x250%23c/8RxY2c.png",
-    "title": "Red Thread",
-    "video": null,
-    "scrapeWords": [
-      "Red",
-      "Thread"
-    ]
-  },
-  {
     "author": "RubyChamGames",
     "description": "2D Pixel RPG Top Down Survival game",
     "genre": "Adventure",
@@ -57051,7 +57013,7 @@
     ]
   },
   {
-    "author": "Mateo 'Carenalga' Robayo Rodríguez",
+    "author": "Carenalga",
     "description": "Penetrate each socket with a plug.",
     "genre": "Puzzle",
     "id": "612332",
@@ -59860,11 +59822,15 @@
   },
   {
     "author": "QuietGecko",
-    "description": "Intenta resolver los acertijos de Kaloche antes de que su fuego se extinga.",
+    "description": "Revive a Kaloche y mantén su fuego encendido",
     "genre": null,
     "id": "620424",
     "link": "https://quietgecko.itch.io/kaloche",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/315x250%23cm/Os6%2BaP.gif",
     "title": "Kaloche",
     "video": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/original/bofI0x.gif",
@@ -62357,7 +62323,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMzOTkzMTMucG5n/315x250%23c/MWxtxE.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjczODUucG5n/315x250%23c/hFedlq.png",
     "title": "The Dark Forest",
     "video": null,
     "scrapeWords": [
@@ -65720,11 +65686,11 @@
     ]
   },
   {
-    "author": "Deer eye",
+    "author": "narow",
     "description": "Small horror game about hunting down Wendigos",
     "genre": "Shooter",
     "id": "654423",
-    "link": "https://deer-eye.itch.io/horror-huntdown",
+    "link": "https://narow.itch.io/horror-huntdown",
     "platforms": [
       "Windows",
       "Linux",
@@ -66458,21 +66424,6 @@
     "scrapeWords": [
       "Expan",
       "Snake"
-    ]
-  },
-  {
-    "author": "ConceptOwl",
-    "description": "A color based stealth game",
-    "genre": "Puzzle",
-    "id": "658765",
-    "link": "https://conceptowl.itch.io/dyeguy",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM1NDg4NTIuanBn/315x250%23c/Sr1sVH.jpg",
-    "title": "DyeGuy",
-    "video": null,
-    "scrapeWords": [
-      "Dye",
-      "Guy"
     ]
   },
   {
@@ -70201,21 +70152,6 @@
     "video": null,
     "scrapeWords": [
       "Roguelike"
-    ]
-  },
-  {
-    "author": "amdotblacksheep",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "681243",
-    "link": "https://amdotblacksheep.itch.io/zenshot",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM3NDQ4OTMucG5n/315x250%23c/Z2QGu0.png",
-    "title": "Zen Shot",
-    "video": null,
-    "scrapeWords": [
-      "Zen",
-      "Shot"
     ]
   },
   {
@@ -74933,24 +74869,6 @@
     ]
   },
   {
-    "author": "amdotblacksheep",
-    "description": "A short platform made for GMTKjam 2020",
-    "genre": "Platformer",
-    "id": "697701",
-    "link": "https://amdotblacksheep.itch.io/tilt",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM4NDkwNTAucG5n/315x250%23c/tT44E%2F.png",
-    "title": "Tilt",
-    "video": null,
-    "scrapeWords": [
-      "Tilt"
-    ]
-  },
-  {
     "author": "Ramiro Almeida Basso",
     "description": "A PSX-esque game about controlling your feelings on a date. Submission for GMTK GameJam 2020",
     "genre": "Simulation",
@@ -76746,6 +76664,20 @@
     ]
   },
   {
+    "author": "The Seahorse",
+    "description": "Precision Platformer",
+    "genre": "Platformer",
+    "id": "704676",
+    "link": "https://theseahorse.itch.io/paralyzed",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2OTk0ODMucG5n/315x250%23c/4VpLaU.png",
+    "title": "Paralyzed",
+    "video": null,
+    "scrapeWords": [
+      "Paralyzed"
+    ]
+  },
+  {
     "author": "Roodiger",
     "description": "Destroy the worlds for your own enjoyment",
     "genre": "Action",
@@ -78156,7 +78088,7 @@
   },
   {
     "author": "bitbrain",
-    "description": null,
+    "description": "Trapped in a dark cave, an adventurer tries to escape a rather dark fate.",
     "genre": "Adventure",
     "id": "711579",
     "link": "https://bitbrain.itch.io/cave",
@@ -78436,24 +78368,6 @@
       "to",
       "the",
       "Groove"
-    ]
-  },
-  {
-    "author": "KoltPenny",
-    "description": "Defeat the aliens using your new 5th dimensional powers!",
-    "genre": "Puzzle",
-    "id": "712756",
-    "link": "https://koltpenny.itch.io/post",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5NDgzNzYucG5n/315x250%23c/hj1SeG.png",
-    "title": "Post!",
-    "video": null,
-    "scrapeWords": [
-      "Post"
     ]
   },
   {
@@ -85276,7 +85190,6 @@
     "id": "740564",
     "link": "https://wayfarercompanion.itch.io/wayfarer-companion-psalms",
     "platforms": [
-      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxNjQ5NTcuanBlZw==/315x250%23c/JAl766.jpeg",
@@ -97829,6 +97742,21 @@
     ]
   },
   {
+    "author": "xPheRe",
+    "description": null,
+    "genre": "Adventure",
+    "id": "811439",
+    "link": "https://xphere.itch.io/moonwitches",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDU0OTUucG5n/315x250%23c/DtNLRW.png",
+    "title": "MoonWitches",
+    "video": null,
+    "scrapeWords": [
+      "Moon",
+      "Witches"
+    ]
+  },
+  {
     "author": "Fox Game Dev",
     "description": "Solve the mistery of Barlow manor and escape before you go mad",
     "genre": "Adventure",
@@ -98533,24 +98461,6 @@
     "video": "https://img.itch.zone/aW1nLzQ3MDUwMjUuZ2lm/original/jcwNcP.gif",
     "scrapeWords": [
       "Moonarchists"
-    ]
-  },
-  {
-    "author": "8B6",
-    "description": "Search for your lost memories in a remote town surrounded by dense woods.",
-    "genre": "Adventure",
-    "id": "818562",
-    "link": "https://8b6.itch.io/stray-roads",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1ODkyNDYuanBn/315x250%23c/k7Ldxp.jpg",
-    "title": "Stray Roads (prototype)",
-    "video": null,
-    "scrapeWords": [
-      "Stray",
-      "Roads",
-      "prototype"
     ]
   },
   {
@@ -100771,6 +100681,26 @@
     ]
   },
   {
+    "author": "3top1a",
+    "description": "tmig",
+    "genre": null,
+    "id": "835215",
+    "link": "https://3top1a.itch.io/the-most-inaccessible-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2ODAzMDMucG5n/315x250%23c/c2xKX6.png",
+    "title": "The most Inaccessible Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "most",
+      "Inaccessible",
+      "Game"
+    ]
+  },
+  {
     "author": "EvasiveAce",
     "description": "A game (jam) around a reflecting Ninja.",
     "genre": "Action",
@@ -100872,6 +100802,24 @@
     "video": null,
     "scrapeWords": [
       "███"
+    ]
+  },
+  {
+    "author": "lewis glasgow",
+    "description": "after waking up in a goverment facility being tested on your only chance for survival is to escape",
+    "genre": "Shooter",
+    "id": "836289",
+    "link": "https://lewis-glasgow.itch.io/escape-demo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2ODczMjYucG5n/315x250%23c/dXzV9W.png",
+    "title": "ESCAPE DEMO",
+    "video": null,
+    "scrapeWords": [
+      "ESCAPE"
     ]
   },
   {
@@ -101138,14 +101086,14 @@
   },
   {
     "author": "DoctorPhi",
-    "description": "A game about a shaman that absorbs the abilities of the surrounding animals of the forest.",
+    "description": "A game about a shaman that absorbs the abilities of the animals of the forest.",
     "genre": "Puzzle",
     "id": "837466",
     "link": "https://doctorphi.itch.io/animal-catch",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2OTQyMTEucG5n/315x250%23c/TZ1pPL.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjYxNzcucG5n/315x250%23c/6x2q62.png",
     "title": "Animal Catch",
     "video": null,
     "scrapeWords": [
@@ -101588,13 +101536,14 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTE4OTAucG5n/315x250%23c/zvSi%2BV.png",
-    "title": "Project: First Person Elastic Hook",
+    "title": "Project: First Person Elastic Grappling Hook",
     "video": null,
     "scrapeWords": [
       "Project",
       "First",
       "Person",
       "Elastic",
+      "Grappling",
       "Hook"
     ]
   },
@@ -101895,7 +101844,8 @@
     "link": "https://manuelmagno.itch.io/godotcraft",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MjEyNDQucG5n/315x250%23c/%2FMqw8h.png",
     "title": "GodotCraft",
@@ -101903,6 +101853,23 @@
     "scrapeWords": [
       "Godot",
       "Craft"
+    ]
+  },
+  {
+    "author": "Urodela Games",
+    "description": "A puzzle game about a beetle that likes to flip things!",
+    "genre": "Platformer",
+    "id": "842317",
+    "link": "https://urodela.itch.io/beetle-bunt",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjgwMjQuZ2lm/315x250%23cm/8xPyTk.gif",
+    "title": "Beetle Bunt",
+    "video": "https://img.itch.zone/aW1nLzQ3MjgwMjQuZ2lm/original/nO%2BXBR.gif",
+    "scrapeWords": [
+      "Beetle",
+      "Bunt"
     ]
   },
   {
@@ -101918,6 +101885,26 @@
     "scrapeWords": [
       "Nathan",
       "Magus"
+    ]
+  },
+  {
+    "author": "Aspring15",
+    "description": null,
+    "genre": "Adventure",
+    "id": "843212",
+    "link": "https://aspring15.itch.io/fields-of-elysium",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjcwMTMucG5n/315x250%23c/JYh1EV.png",
+    "title": "Fields of Elysium",
+    "video": null,
+    "scrapeWords": [
+      "Fields",
+      "of",
+      "Elysium"
     ]
   },
   {
