@@ -17702,9 +17702,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIyNzEwODMuZ2lm/315x250%23cm/d%2FAvto.gif",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzYzNjkuZ2lm/315x250%23cm/P1bZSu.gif",
     "title": "ΔV: Rings of Saturn",
-    "video": "https://img.itch.zone/aW1nLzIyNzEwODMuZ2lm/original/s%2BuYjp.gif",
+    "video": "https://img.itch.zone/aW1nLzQ3MzYzNjkuZ2lm/original/gp%2F5yz.gif",
     "scrapeWords": [
       "ΔV",
       "Rings",
@@ -33679,7 +33679,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzUzNzUucG5n/315x250%23c/AAoC0%2B.png",
     "title": "Endless Waves",
     "video": null,
     "scrapeWords": [
@@ -43551,26 +43551,6 @@
     "scrapeWords": [
       "Star",
       "madness"
-    ]
-  },
-  {
-    "author": "Penjami",
-    "description": "Escape inevitable doom",
-    "genre": "Survival",
-    "id": "517770",
-    "link": "https://penjami.itch.io/book-of-mystery",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2ODg4NTcucG5n/315x250%23c/alORTu.png",
-    "title": "Book of Mystery",
-    "video": null,
-    "scrapeWords": [
-      "Book",
-      "of",
-      "Mystery"
     ]
   },
   {
@@ -76508,7 +76488,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDQyMjIucG5n/315x250%23c/rU51L4.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzQ3MDAucG5n/315x250%23c/KjPOlP.png",
     "title": "Astrofield",
     "video": null,
     "scrapeWords": [
@@ -78093,7 +78073,7 @@
     "id": "711579",
     "link": "https://bitbrain.itch.io/cave",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQwMTA3NjgucG5n/315x250%23c/A58OoV.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzExODYucG5n/315x250%23c/EEMKlw.png",
     "title": "cave",
     "video": null,
     "scrapeWords": [
@@ -78368,6 +78348,24 @@
       "to",
       "the",
       "Groove"
+    ]
+  },
+  {
+    "author": "KoltPenny",
+    "description": "Defeat the aliens using your new 5th dimensional powers!",
+    "genre": "Puzzle",
+    "id": "712756",
+    "link": "https://koltpenny.itch.io/post",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NDgzNzYucG5n/315x250%23c/hj1SeG.png",
+    "title": "Post!",
+    "video": null,
+    "scrapeWords": [
+      "Post"
     ]
   },
   {
@@ -85676,6 +85674,21 @@
     ]
   },
   {
+    "author": "TNTC-Lab",
+    "description": "Retro bird fighting",
+    "genre": "Fighting",
+    "id": "743343",
+    "link": "https://tntc-lab.itch.io/beak-battle",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTM5ODUucG5n/315x250%23c/%2Fe6DHT.png",
+    "title": "Beak Battle",
+    "video": null,
+    "scrapeWords": [
+      "Beak",
+      "Battle"
+    ]
+  },
+  {
     "author": "Jack Hensley",
     "description": "Pixel-art Autobattler Strategy game",
     "genre": "Strategy",
@@ -88857,21 +88870,6 @@
       "Afroman",
       "in",
       "Hell"
-    ]
-  },
-  {
-    "author": "Minty Diamond",
-    "description": null,
-    "genre": "Survival",
-    "id": "759175",
-    "link": "https://minty-diamond.itch.io/survivaldungeon",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQyNDQ2MzAucG5n/315x250%23c/a2WWvS.png",
-    "title": "Survival Dungeon",
-    "video": null,
-    "scrapeWords": [
-      "Survival",
-      "Dungeon"
     ]
   },
   {
@@ -95427,28 +95425,6 @@
     ]
   },
   {
-    "author": "TANmasterisME",
-    "description": "Short Alien Environnement Game",
-    "genre": "Adventure",
-    "id": "795923",
-    "link": "https://tanmasterisme.itch.io/stuck-on-marvin-6-pre-prototype",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": null,
-    "title": "Stuck on Marvin 6 Pre-prototype",
-    "video": null,
-    "scrapeWords": [
-      "Stuck",
-      "on",
-      "Marvin",
-      "6",
-      "Pre-prototype"
-    ]
-  },
-  {
     "author": "Pirate Chip Games",
     "description": "Developer commentary over an abandoned project.",
     "genre": "Platformer",
@@ -98152,7 +98128,8 @@
     "id": "814086",
     "link": "https://raisin98.itch.io/its-a-giant",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MjQ3MTAucG5n/315x250%23c/Wsdzjw.png",
     "title": "It's a Giant!",
@@ -98461,6 +98438,24 @@
     "video": "https://img.itch.zone/aW1nLzQ3MDUwMjUuZ2lm/original/jcwNcP.gif",
     "scrapeWords": [
       "Moonarchists"
+    ]
+  },
+  {
+    "author": "8B6",
+    "description": "Search for your lost memories in a remote town surrounded by dense woods.",
+    "genre": "Adventure",
+    "id": "818562",
+    "link": "https://8b6.itch.io/stray-roads",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODkyNDYuanBn/315x250%23c/k7Ldxp.jpg",
+    "title": "Stray Roads (prototype)",
+    "video": null,
+    "scrapeWords": [
+      "Stray",
+      "Roads",
+      "prototype"
     ]
   },
   {
@@ -99664,6 +99659,25 @@
     ]
   },
   {
+    "author": "TANmasterisME",
+    "description": "Parkcore with a gun",
+    "genre": "Platformer",
+    "id": "827365",
+    "link": "https://tanmasterisme.itch.io/parkcore-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzU2NDEucG5n/315x250%23c/Nr1vGO.png",
+    "title": "Parkcore Game",
+    "video": null,
+    "scrapeWords": [
+      "Parkcore",
+      "Game"
+    ]
+  },
+  {
     "author": "RojhonBB",
     "description": "Match the Cube Pieces",
     "genre": null,
@@ -99695,6 +99709,26 @@
     "scrapeWords": [
       "Scrap",
       "Up"
+    ]
+  },
+  {
+    "author": "Gamaturgie",
+    "description": null,
+    "genre": "Interactive Fiction",
+    "id": "827901",
+    "link": "https://gamaturgie.itch.io/bateau-fol",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDU4MDguanBn/315x250%23c/LrLYY%2F.jpg",
+    "title": "Le Bateau Fol",
+    "video": null,
+    "scrapeWords": [
+      "Le",
+      "Bateau",
+      "Fol"
     ]
   },
   {
@@ -99987,6 +100021,27 @@
       "Stay",
       "at",
       "Home"
+    ]
+  },
+  {
+    "author": "JohnGabrielUK",
+    "description": "An advent-ure!",
+    "genre": "Platformer",
+    "id": "829460",
+    "link": "https://johngabrieluk.itch.io/hijinx-a-christmas-caper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NDg2NTgucG5n/315x250%23c/UmG%2F0Q.png",
+    "title": "Hijinx: A Christmas Caper",
+    "video": null,
+    "scrapeWords": [
+      "Hijinx",
+      "A",
+      "Christmas",
+      "Caper"
     ]
   },
   {
@@ -101733,6 +101788,22 @@
     ]
   },
   {
+    "author": "Mark",
+    "description": "Solo Development - Godot - Mutiplayer Prototype",
+    "genre": "Action",
+    "id": "840920",
+    "link": "https://bearlikelion.itch.io/mpdc",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
+    "title": "MPDC",
+    "video": null,
+    "scrapeWords": [
+      "MPDC"
+    ]
+  },
+  {
     "author": "Maestro",
     "description": null,
     "genre": "Platformer",
@@ -101847,7 +101918,7 @@
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MjEyNDQucG5n/315x250%23c/%2FMqw8h.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzE1ODgucG5n/315x250%23c/Va1EkT.png",
     "title": "GodotCraft",
     "video": null,
     "scrapeWords": [
@@ -101873,18 +101944,36 @@
     ]
   },
   {
-    "author": "Nathan The Sorcerer",
+    "author": "Enyalios",
     "description": null,
     "genre": "Shooter",
     "id": "842398",
-    "link": "https://nathanmagus.itch.io/sorcerer-vs-zombies",
+    "link": "https://enyalios.itch.io/enyalius",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3MjI1MjAucG5n/315x250%23c/Yfgl2Z.png",
-    "title": "Nathan Magus",
+    "title": "Enyalius",
     "video": null,
     "scrapeWords": [
-      "Nathan",
-      "Magus"
+      "Enyalius"
+    ]
+  },
+  {
+    "author": "zurrealStudios",
+    "description": "Oldschooly Arcade Highscore Game",
+    "genre": "Platformer",
+    "id": "842490",
+    "link": "https://zurrealstudios.itch.io/snek-stompa",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjQ4ODguanBn/315x250%23c/dYoTHQ.jpg",
+    "title": "Snek Stompa",
+    "video": null,
+    "scrapeWords": [
+      "Snek",
+      "Stompa"
     ]
   },
   {
@@ -101905,6 +101994,74 @@
       "Fields",
       "of",
       "Elysium"
+    ]
+  },
+  {
+    "author": "amdotblacksheep",
+    "description": "Deathguys are seeking revenge! Join the deathsquad and help them survive.",
+    "genre": null,
+    "id": "843375",
+    "link": "https://amdotblacksheep.itch.io/deathguy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3Mjc5NTIucG5n/315x250%23c/%2B9LXVo.png",
+    "title": "Death Guy",
+    "video": null,
+    "scrapeWords": [
+      "Death",
+      "Guy"
+    ]
+  },
+  {
+    "author": "Acid Goose",
+    "description": "A typical day in the office...or is it?",
+    "genre": "Role Playing",
+    "id": "843703",
+    "link": "https://acid-goose.itch.io/eds-venture",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3Mjk3MDQucG5n/315x250%23c/2vZr%2B7.png",
+    "title": "Ed's Venture",
+    "video": null,
+    "scrapeWords": [
+      "Eds",
+      "Venture"
+    ]
+  },
+  {
+    "author": "Joseph Cantrell",
+    "description": "Spark through a 3D infernal abyss.",
+    "genre": "Survival",
+    "id": "844338",
+    "link": "https://josephcantrell14.itch.io/infernight-3d",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzQwMjQucG5n/315x250%23c/E7P1ZR.png",
+    "title": "Infernight 3D",
+    "video": null,
+    "scrapeWords": [
+      "Infernight",
+      "3",
+      "D"
+    ]
+  },
+  {
+    "author": "hael0",
+    "description": "Find the UFOs or die trying!",
+    "genre": "Platformer",
+    "id": "844739",
+    "link": "https://hael0.itch.io/kenney-alien-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzU5NTEucG5n/315x250%23c/7S8%2FO8.png",
+    "title": "Kenney Alien Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Kenney",
+      "Alien",
+      "Adventure"
     ]
   },
   {
