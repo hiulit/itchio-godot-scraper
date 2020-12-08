@@ -8520,6 +8520,24 @@
     ]
   },
   {
+    "author": "One Seed Fruit",
+    "description": "Plant. Water. Harvest. Feed. Pay dues.",
+    "genre": "Simulation",
+    "id": "248146",
+    "link": "https://oneseedfruit.itch.io/beet-farmer",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjQ4MTQ2LzExODY5MzIuZ2lm/315x250%23cm/WfTsGv.gif",
+    "title": "Beet Farmer",
+    "video": "https://img.itch.zone/aW1hZ2UvMjQ4MTQ2LzExODY5MzIuZ2lm/original/d8WDch.gif",
+    "scrapeWords": [
+      "Beet",
+      "Farmer"
+    ]
+  },
+  {
     "author": "RilleGames",
     "description": null,
     "genre": "Sports",
@@ -34649,11 +34667,11 @@
     ]
   },
   {
-    "author": "Eremitic Entertainment",
+    "author": "rzuf",
     "description": null,
     "genre": "Adventure",
     "id": "456904",
-    "link": "https://eremitic-entertainment.itch.io/frog-fable",
+    "link": "https://rzuf.itch.io/frog-fable",
     "platforms": [
       "Windows",
       "Linux",
@@ -42666,23 +42684,6 @@
     ]
   },
   {
-    "author": "MVP Good Games Easy",
-    "description": null,
-    "genre": null,
-    "id": "508887",
-    "link": "https://mvpggez.itch.io/ghostball",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDExNjUucG5n/315x250%23c/TJeBbB.png",
-    "title": "Ghostball",
-    "video": null,
-    "scrapeWords": [
-      "Ghostball"
-    ]
-  },
-  {
     "author": "Falling Snowdin",
     "description": "One last gift for his beloved daughter before he leaves this world",
     "genre": "Visual Novel",
@@ -43267,7 +43268,7 @@
   },
   {
     "author": "Clauveira",
-    "description": "Casual puzzle.",
+    "description": "Godot",
     "genre": "Puzzle",
     "id": "514743",
     "link": "https://clauveira.itch.io/magnetic-projectiles",
@@ -55472,7 +55473,7 @@
   },
   {
     "author": "Snail Rhymer",
-    "description": "An MSPaint jam game. Experiment with low-resolution neoplasticism.",
+    "description": "A partially-finished MSPaint jam game.",
     "genre": null,
     "id": "603819",
     "link": "https://snail-rhymer.itch.io/paint-paint",
@@ -81493,7 +81494,7 @@
     ]
   },
   {
-    "author": "99thnehemiah",
+    "author": "Nehemiah Turner",
     "description": "A simple pong remake to practice programming skills",
     "genre": null,
     "id": "731051",
@@ -84581,7 +84582,7 @@
     ]
   },
   {
-    "author": "99thnehemiah",
+    "author": "Nehemiah Turner",
     "description": "The Pen and Paper game of Battleship",
     "genre": null,
     "id": "738592",
@@ -85870,22 +85871,6 @@
       "Hu",
       "Ro",
       "Zo"
-    ]
-  },
-  {
-    "author": "sinistro25",
-    "description": "Top-Down Horde Survival Shooter - Survive for as along as you can.",
-    "genre": "Action",
-    "id": "744371",
-    "link": "https://sinistro25.itch.io/slay-the-horde",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQyMTg1MjIucG5n/315x250%23c/qb%2BTL6.png",
-    "title": "Slay the Horde",
-    "video": null,
-    "scrapeWords": [
-      "Slay",
-      "the",
-      "Horde"
     ]
   },
   {
@@ -97484,9 +97469,7 @@
     "genre": "Interactive Fiction",
     "id": "808892",
     "link": "https://mcoorlim.itch.io/rascal-and-the-boxer",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MzQ1MDQucG5n/315x250%23c/s9HfuT.png",
     "title": "Rascal and the Boxer",
     "video": null,
@@ -99563,12 +99546,11 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2Mjk2NTQucG5n/315x250%23c/aM5Skg.png",
-    "title": "G Me - Demo Version",
+    "title": "G Me",
     "video": null,
     "scrapeWords": [
       "G",
-      "Me",
-      "Version"
+      "Me"
     ]
   },
   {
@@ -100276,11 +100258,11 @@
     ]
   },
   {
-    "author": "issycatlau125",
+    "author": "Isabella Lau",
     "description": "Nothing disturbs the peace and quiet of a bookhouse quite like a book-eating barrel bin!",
     "genre": "Puzzle",
     "id": "830234",
-    "link": "https://issycatlau125.itch.io/booksmart",
+    "link": "https://isabella-lau.itch.io/booksmart",
     "platforms": [
       "Windows",
       "Linux",
@@ -101212,7 +101194,7 @@
   {
     "author": "derangedturtlegames",
     "description": "A casual reverse-pinball arcade style game.",
-    "genre": "Action",
+    "genre": null,
     "id": "837535",
     "link": "https://derangedturtlegames.itch.io/mad-crab-grab",
     "platforms": [
@@ -101586,7 +101568,7 @@
   },
   {
     "author": "Clauveira",
-    "description": null,
+    "description": "Godot prototype",
     "genre": "Adventure",
     "id": "839521",
     "link": "https://clauveira.itch.io/project-hook",
@@ -101843,23 +101825,6 @@
     "video": null,
     "scrapeWords": [
       "STARPEW"
-    ]
-  },
-  {
-    "author": "Mark",
-    "description": "Solo Development - Godot - Mutiplayer Prototype",
-    "genre": "Action",
-    "id": "840920",
-    "link": "https://bearlikelion.itch.io/mpdc",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
-    "title": "MPDC",
-    "video": null,
-    "scrapeWords": [
-      "MPDC"
     ]
   },
   {
@@ -102130,7 +102095,8 @@
     "id": "843937",
     "link": "https://lorgarmor.itch.io/quick-primes",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MzEwMjkucG5n/315x250%23c/K%2Bb0tk.png",
     "title": "Quick Primes",
@@ -102138,6 +102104,25 @@
     "scrapeWords": [
       "Quick",
       "Primes"
+    ]
+  },
+  {
+    "author": "Nexus",
+    "description": null,
+    "genre": "Action",
+    "id": "844186",
+    "link": "https://faeranne.itch.io/doom-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3Mzg4ODEucG5n/315x250%23c/87vh%2FE.png",
+    "title": "Doom Dungeons",
+    "video": null,
+    "scrapeWords": [
+      "Doom",
+      "Dungeons"
     ]
   },
   {
@@ -102223,11 +102208,12 @@
     "link": "https://mikehayward.itch.io/synth-racer",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3MzkwNDQucG5n/315x250%23c/jLzfO0.png",
-    "title": "Synth Racer",
+    "title": "Synth Racer (Prototype)",
     "video": null,
     "scrapeWords": [
       "Synth",
-      "Racer"
+      "Racer",
+      "Prototype"
     ]
   },
   {
@@ -102251,6 +102237,22 @@
     ]
   },
   {
+    "author": "Orator",
+    "description": null,
+    "genre": "Survival",
+    "id": "845763",
+    "link": "https://orator.itch.io/hall-of-walls",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDYzODQucG5n/315x250%23c/v3zROF.png",
+    "title": "Hall of Walls",
+    "video": null,
+    "scrapeWords": [
+      "Hall",
+      "of",
+      "Walls"
+    ]
+  },
+  {
     "author": "trickypr",
     "description": "Explore a procedurally generated world",
     "genre": null,
@@ -102270,6 +102272,20 @@
     ]
   },
   {
+    "author": "PROJECTaroid",
+    "description": "You have once chance to deliver the message to planet LUX-J2.",
+    "genre": "Shooter",
+    "id": "846020",
+    "link": "https://projectaroid.itch.io/peacemaker",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDgxNzYucG5n/315x250%23c/v94lR7.png",
+    "title": "PEACEMAKER",
+    "video": null,
+    "scrapeWords": [
+      "PEACEMAKER"
+    ]
+  },
+  {
     "author": "LightningA",
     "description": "A 3D platformer game where you use your gun to propel yourself and have to destroy the evil robots that are taking over.",
     "genre": "Platformer",
@@ -102285,6 +102301,84 @@
       "Yeet",
       "the",
       "Robots"
+    ]
+  },
+  {
+    "author": "Bram Dingelstad",
+    "description": "A drunken dwarf barbarian throw'em up!",
+    "genre": "Platformer",
+    "id": "846284",
+    "link": "https://bram-dingelstad.itch.io/bilbos-revenge",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDcxMTAucG5n/315x250%23c/6n87gP.png",
+    "title": "Bilbo's Revenge",
+    "video": null,
+    "scrapeWords": [
+      "Bilbos",
+      "Revenge"
+    ]
+  },
+  {
+    "author": "oscarglo",
+    "description": "A procedurally generated creepy forest",
+    "genre": null,
+    "id": "846460",
+    "link": "https://oscarglo.itch.io/brent",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDU0MTIucG5n/315x250%23c/uFz2fV.png",
+    "title": "brent",
+    "video": null,
+    "scrapeWords": [
+      "brent"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Trouble in Lapland",
+    "genre": "Shooter",
+    "id": "846609",
+    "link": "https://jafcraze.itch.io/snowflake-shuriken",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDYyNjQucG5n/315x250%23c/BuGoJg.png",
+    "title": "Snowflake Shuriken",
+    "video": null,
+    "scrapeWords": [
+      "Snowflake",
+      "Shuriken"
+    ]
+  },
+  {
+    "author": "NexurGames",
+    "description": "Fly game",
+    "genre": "Adventure",
+    "id": "846655",
+    "link": "https://nexurgames.itch.io/lighty",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDY0NjguanBn/315x250%23c/fOHSMG.jpg",
+    "title": "Lighty",
+    "video": null,
+    "scrapeWords": [
+      "Lighty"
+    ]
+  },
+  {
+    "author": "djmick254",
+    "description": "Destroy enemies on your way to destroy an enemy planet using a rocket... with a laser",
+    "genre": "Action",
+    "id": "846890",
+    "link": "https://djmick254.itch.io/laser-rocket",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDc5MzAucG5n/315x250%23c/9lOIr5.png",
+    "title": "Laser Rocket",
+    "video": null,
+    "scrapeWords": [
+      "Laser",
+      "Rocket"
     ]
   },
   {
