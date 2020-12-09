@@ -20463,6 +20463,7 @@
     "id": "332751",
     "link": "https://asheraryam.itch.io/madam",
     "platforms": [
+      "Windows",
       "Linux",
       "macOS"
     ],
@@ -22323,6 +22324,23 @@
       "be",
       "a",
       "Triangle"
+    ]
+  },
+  {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -33290,21 +33308,6 @@
     ]
   },
   {
-    "author": "lukemerrett",
-    "description": "Submission for Bristol Pride Game Jam 2019",
-    "genre": null,
-    "id": "447453",
-    "link": "https://lukemerrett.itch.io/for-honey",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIyNjEwMTUucG5n/315x250%23c/APHDeq.png",
-    "title": "For Honey",
-    "video": null,
-    "scrapeWords": [
-      "For",
-      "Honey"
-    ]
-  },
-  {
     "author": "Kimberly Grey",
     "description": null,
     "genre": "Puzzle",
@@ -38761,25 +38764,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -42681,6 +42665,23 @@
     "video": null,
     "scrapeWords": [
       "Lunico"
+    ]
+  },
+  {
+    "author": "MVP Good Games Easy",
+    "description": null,
+    "genre": null,
+    "id": "508887",
+    "link": "https://mvpggez.itch.io/ghostball",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDExNjUucG5n/315x250%23c/TJeBbB.png",
+    "title": "Ghostball",
+    "video": null,
+    "scrapeWords": [
+      "Ghostball"
     ]
   },
   {
@@ -61482,23 +61483,6 @@
     ]
   },
   {
-    "author": "Rafilly",
-    "description": "Owning a trade route on the desert",
-    "genre": null,
-    "id": "631693",
-    "link": "https://rafilly.itch.io/oasis-trader",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMzNzI3MTUucG5n/315x250%23c/%2F1Fix9.png",
-    "title": "Oasis Trader",
-    "video": null,
-    "scrapeWords": [
-      "Oasis",
-      "Trader"
-    ]
-  },
-  {
     "author": "Functional",
     "description": "One Juror stands between you and a guilty conviction",
     "genre": "Strategy",
@@ -78040,9 +78024,9 @@
     "id": "711579",
     "link": "https://bitbrain.itch.io/cave",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3MzExODYucG5n/315x250%23c/EEMKlw.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTQxNzUuZ2lm/315x250%23cm/5iYMbx.gif",
     "title": "cave",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzQ3NTQxNzUuZ2lm/original/jud53N.gif",
     "scrapeWords": [
       "cave"
     ]
@@ -87878,9 +87862,7 @@
     "genre": "Strategy",
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2NTQ1ODcucG5n/315x250%23c/cWUg1G.png",
     "title": "Malice & Greed by Xendra",
     "video": null,
@@ -90232,6 +90214,23 @@
       "Ocean",
       "Block",
       "Merge"
+    ]
+  },
+  {
+    "author": "alex197",
+    "description": "A multiple platformer",
+    "genre": "Platformer",
+    "id": "766381",
+    "link": "https://alex197.itch.io/multiplat",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyODcwMzIucG5n/315x250%23c/FwbyTs.png",
+    "title": "Multiplat",
+    "video": null,
+    "scrapeWords": [
+      "Multiplat"
     ]
   },
   {
@@ -99948,26 +99947,6 @@
     ]
   },
   {
-    "author": "BeanieBagGames",
-    "description": "your a ball, escape the box. use WASD keys for movement, this is intended to be a rage game.",
-    "genre": "Platformer",
-    "id": "829178",
-    "link": "https://beaniebaggames.itch.io/escape-the-box-remake",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MTExNDEucG5n/315x250%23c/7vMQSF.png",
-    "title": "Escape The Box (Remake)",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Box",
-      "Remake"
-    ]
-  },
-  {
     "author": "Go-Duck",
     "description": "Eat books to spite your owner.",
     "genre": "Platformer",
@@ -100258,7 +100237,7 @@
     ]
   },
   {
-    "author": "Isabella Lau",
+    "author": "♪ Isabella Lau ♫",
     "description": "Nothing disturbs the peace and quiet of a bookhouse quite like a book-eating barrel bin!",
     "genre": "Puzzle",
     "id": "830234",
@@ -101105,7 +101084,7 @@
     ]
   },
   {
-    "author": "epiblitikos.games",
+    "author": "Joe Daywalt",
     "description": null,
     "genre": "Adventure",
     "id": "837446",
@@ -101198,9 +101177,11 @@
     "id": "837535",
     "link": "https://derangedturtlegames.itch.io/mad-crab-grab",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDE3NTQucG5n/315x250%23c/aWdaDc.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTgwNjUucG5n/315x250%23c/D8fjmX.png",
     "title": "Mad Crab Grab",
     "video": null,
     "scrapeWords": [
@@ -101828,6 +101809,22 @@
     ]
   },
   {
+    "author": "Mark",
+    "description": "Solo Development - Godot - Mutiplayer Prototype",
+    "genre": "Action",
+    "id": "840920",
+    "link": "https://bearlikelion.itch.io/mpdc",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
+    "title": "MPDC",
+    "video": null,
+    "scrapeWords": [
+      "MPDC"
+    ]
+  },
+  {
     "author": "Maestro",
     "description": null,
     "genre": "Platformer",
@@ -102112,11 +102109,7 @@
     "genre": "Action",
     "id": "844186",
     "link": "https://faeranne.itch.io/doom-dungeon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3Mzg4ODEucG5n/315x250%23c/87vh%2FE.png",
     "title": "Doom Dungeons",
     "video": null,
@@ -102214,6 +102207,21 @@
       "Synth",
       "Racer",
       "Prototype"
+    ]
+  },
+  {
+    "author": "IcarusDev",
+    "description": "Bop the bips until you don't know what to bop anymore!",
+    "genre": null,
+    "id": "845420",
+    "link": "https://icarusdev.itch.io/bipty-boppin",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDA0NjQucG5n/315x250%23c/Hzk93H.png",
+    "title": "Bipty Boppin'",
+    "video": null,
+    "scrapeWords": [
+      "Bipty",
+      "Boppin"
     ]
   },
   {
@@ -102379,6 +102387,57 @@
     "scrapeWords": [
       "Laser",
       "Rocket"
+    ]
+  },
+  {
+    "author": "MultiBits",
+    "description": "Simple endless runner",
+    "genre": null,
+    "id": "847904",
+    "link": "https://multibits.itch.io/grave-escape",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTM1MTcucG5n/315x250%23c/qootTw.png",
+    "title": "Grave Escape",
+    "video": null,
+    "scrapeWords": [
+      "Grave",
+      "Escape"
+    ]
+  },
+  {
+    "author": "psychesmedia",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "848399",
+    "link": "https://psychesmedia.itch.io/reflection",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTY1MTQucG5n/315x250%23c/uCPGpf.png",
+    "title": "Reflection",
+    "video": null,
+    "scrapeWords": [
+      "Reflection"
+    ]
+  },
+  {
+    "author": "civilian_archetype",
+    "description": "Help Blahaj make the arduous journey to warmer waters..",
+    "genre": "Adventure",
+    "id": "848666",
+    "link": "https://civilian-archetype.itch.io/blahaj-the-braveheart",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTc4MzUucG5n/315x250%23c/8dSArb.png",
+    "title": "Blahaj The Braveheart",
+    "video": null,
+    "scrapeWords": [
+      "Blahaj",
+      "The",
+      "Braveheart"
     ]
   },
   {
