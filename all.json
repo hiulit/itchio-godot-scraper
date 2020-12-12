@@ -15342,25 +15342,6 @@
     ]
   },
   {
-    "author": "xPheRe",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "292275",
-    "link": "https://xphere.itch.io/oh-shit",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkyMjc1LzE0MjMzODgucG5n/315x250%23c/IxrPA5.png",
-    "title": "Oh, sh*t!",
-    "video": null,
-    "scrapeWords": [
-      "Oh",
-      "sht"
-    ]
-  },
-  {
     "author": "Paco",
     "description": "My Ludum Dare 42 Entry",
     "genre": "Platformer",
@@ -67325,6 +67306,25 @@
     ]
   },
   {
+    "author": "vec64",
+    "description": "Wreck your rivals and aliens with a sawn-off in an endless death battle.",
+    "genre": "Shooter",
+    "id": "664387",
+    "link": "https://vec64.itch.io/godot-shotgun-party",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzgwODYucG5n/315x250%23c/dnTuxi.png",
+    "title": "Godot Shotgun Party",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Shotgun",
+      "Party"
+    ]
+  },
+  {
     "author": "GuilhermeH",
     "description": "Dodge fast, blow up enemies and stay alive as much as you can.",
     "genre": "Adventure",
@@ -68694,7 +68694,8 @@
     "id": "673683",
     "link": "https://terragos.itch.io/cubit-crawler",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MzYyNDUucG5n/315x250%23c/Ex0qmS.png",
     "title": "Cubit Crawler",
@@ -77445,11 +77446,11 @@
     ]
   },
   {
-    "author": "NightCloud",
+    "author": "SquishyBear",
     "description": "Jump around in the world of shapes and defeat other shapes as well!",
     "genre": "Platformer",
     "id": "708758",
-    "link": "https://nightcloud.itch.io/akriti",
+    "link": "https://squishybear.itch.io/akriti",
     "platforms": [
       "Windows",
       "Linux",
@@ -78152,25 +78153,6 @@
     "video": null,
     "scrapeWords": [
       "Arkaman"
-    ]
-  },
-  {
-    "author": "Wizard of Ox",
-    "description": "Alive or dead, you're needed",
-    "genre": "Adventure",
-    "id": "711938",
-    "link": "https://wizard-of-ox.itch.io/spirited-awol",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5NDY2ODEucG5n/315x250%23c/jERICp.png",
-    "title": "Spirited Awol (Prototype)",
-    "video": null,
-    "scrapeWords": [
-      "Spirited",
-      "Awol",
-      "Prototype"
     ]
   },
   {
@@ -79188,7 +79170,8 @@
     "id": "717618",
     "link": "https://apple0726.itch.io/helixteus-3",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2ODQ2MjUucG5n/315x250%23c/AtQcFj.png",
     "title": "Helixteus 3",
@@ -80901,6 +80884,29 @@
     "video": null,
     "scrapeWords": [
       "Trampolines-for-Legs"
+    ]
+  },
+  {
+    "author": "bitmagine Studio",
+    "description": "My third game (in development).",
+    "genre": "Platformer",
+    "id": "728295",
+    "link": "https://bitmagine.itch.io/not-sorcerers-job",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyMjQ3NTMucG5n/315x250%23c/FBaGq%2B.png",
+    "title": "This is not a sorcerer's job",
+    "video": null,
+    "scrapeWords": [
+      "This",
+      "is",
+      "not",
+      "a",
+      "sorcerers",
+      "job"
     ]
   },
   {
@@ -87754,7 +87760,7 @@
   },
   {
     "author": "Elronde",
-    "description": "A top-down dodger game inspired from Dodger, made in GODOT",
+    "description": "A top-down dodger game inspired from my personal project Dodger, made in GODOT",
     "genre": null,
     "id": "752591",
     "link": "https://sorelup.itch.io/dodger-godot-build",
@@ -87915,14 +87921,11 @@
     "link": "https://xendra.itch.io/malice-and-greed",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2NTQ1ODcucG5n/315x250%23c/cWUg1G.png",
-    "title": "Malice and Greed by Xendra",
+    "title": "Malice & Greed",
     "video": null,
     "scrapeWords": [
       "Malice",
-      "and",
-      "Greed",
-      "by",
-      "Xendra"
+      "Greed"
     ]
   },
   {
@@ -92174,7 +92177,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQzNDg3MzQucG5n/315x250%23c/7sdpyC.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzgwMzYucG5n/315x250%23c/9KgCbh.png",
     "title": "UFO taxi!",
     "video": null,
     "scrapeWords": [
@@ -97830,7 +97833,7 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1NTIzMTAucG5n/315x250%23c/VKix5G.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzkyNzgucG5n/315x250%23c/uG1lFT.png",
     "title": "Ball Toss",
     "video": null,
     "scrapeWords": [
@@ -101736,7 +101739,7 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDg5NDcucG5n/315x250%23c/gsA5v5.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzkzMTgucG5n/315x250%23c/b%2FOLtV.png",
     "title": "Ball Toss Deluxe",
     "video": null,
     "scrapeWords": [
@@ -101797,7 +101800,7 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDkxNzgucG5n/315x250%23c/BkhWOd.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzkzMzkucG5n/315x250%23c/B7FbTe.png",
     "title": "Ball Toss Super Deluxe",
     "video": null,
     "scrapeWords": [
@@ -101925,7 +101928,8 @@
     "link": "https://bearlikelion.itch.io/mpdc",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -102110,17 +102114,17 @@
     ]
   },
   {
-    "author": "Enyalios",
-    "description": null,
+    "author": "Nathan Zhang",
+    "description": "Outer Space Police Department",
     "genre": "Shooter",
     "id": "842398",
-    "link": "https://enyalios.itch.io/enyalius",
+    "link": "https://enyalios.itch.io/ospd",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3MjI1MjAucG5n/315x250%23c/Yfgl2Z.png",
-    "title": "Enyalius",
+    "title": "O.S.P.D.",
     "video": null,
     "scrapeWords": [
-      "Enyalius"
+      "OSPD"
     ]
   },
   {
@@ -102273,7 +102277,11 @@
     "genre": "Action",
     "id": "844186",
     "link": "https://faeranne.itch.io/doom-dungeon",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ3Mzg4ODEucG5n/315x250%23c/87vh%2FE.png",
     "title": "Doom Dungeons",
     "video": null,
@@ -102678,6 +102686,23 @@
     ]
   },
   {
+    "author": "Knights Game",
+    "description": "Adventure Game 2021",
+    "genre": "Adventure",
+    "id": "848694",
+    "link": "https://knights-game.itch.io/hulu-adventure",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTgxNDIucG5n/315x250%23c/U%2FFkoL.png",
+    "title": "Hulu Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Hulu",
+      "Adventure"
+    ]
+  },
+  {
     "author": "brwxisme",
     "description": "Learn Javanese Krama Language",
     "genre": "Educational",
@@ -102820,6 +102845,59 @@
     "scrapeWords": [
       "Proc",
       "Soccer"
+    ]
+  },
+  {
+    "author": "Nemesis™",
+    "description": "The Fight for Freedom Begins",
+    "genre": "Role Playing",
+    "id": "851075",
+    "link": "https://nemesisas14.itch.io/bread-games-angrysmile",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzE5NTAucG5n/315x250%23c/cVxB32.png",
+    "title": "Bread, Games and AngrySmile",
+    "video": null,
+    "scrapeWords": [
+      "Bread",
+      "Games",
+      "and",
+      "Angry",
+      "Smile"
+    ]
+  },
+  {
+    "author": "XieneDev",
+    "description": "Kill off the zombies and survive 'til the end",
+    "genre": "Action",
+    "id": "851085",
+    "link": "https://xienedev.itch.io/zombie-maraud",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzIwMDcucG5n/315x250%23c/Q1bx%2FD.png",
+    "title": "Zombie Maraud",
+    "video": null,
+    "scrapeWords": [
+      "Zombie",
+      "Maraud"
+    ]
+  },
+  {
+    "author": "Sprotex",
+    "description": "Godot engine study #2",
+    "genre": "Platformer",
+    "id": "851486",
+    "link": "https://sprotex.itch.io/godot-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzU0NTcucG5n/315x250%23c/%2BetQ4j.png",
+    "title": "Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Platformer"
     ]
   },
   {
