@@ -27982,6 +27982,25 @@
     ]
   },
   {
+    "author": "Vanne",
+    "description": "A simple puzzle game using only two buttons",
+    "genre": "Puzzle",
+    "id": "404133",
+    "link": "https://vanne.itch.io/lights-out",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Joshua 🐢",
     "description": "A happy birthday project for my friend who likes fries",
     "genre": "Survival",
@@ -38198,7 +38217,7 @@
     "id": "476170",
     "link": "https://tibi4.itch.io/food-friends",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1NTE5OTYucG5n/315x250%23c/1ue0Yo.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODcyNzYucG5n/315x250%23c/BtGsoj.png",
     "title": "Food Friends",
     "video": null,
     "scrapeWords": [
@@ -44216,6 +44235,25 @@
     ]
   },
   {
+    "author": "nivrig",
+    "description": "Help Santa save Christmas!",
+    "genre": "Action",
+    "id": "524857",
+    "link": "https://nivrig.itch.io/santa-rocks",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3MjYwOTkucG5n/315x250%23c/a%2B5kff.png",
+    "title": "Santa Rocks",
+    "video": null,
+    "scrapeWords": [
+      "Santa",
+      "Rocks"
+    ]
+  },
+  {
     "author": "davidporos92",
     "description": "Yep, this is a Game that you play backwards!",
     "genre": "Platformer",
@@ -45184,6 +45222,22 @@
     "scrapeWords": [
       "go",
       "BABSI"
+    ]
+  },
+  {
+    "author": "Deccir",
+    "description": null,
+    "genre": null,
+    "id": "533290",
+    "link": "https://deccir.itch.io/pong-advanced",
+    "platforms": null,
+    "thumb": null,
+    "title": "Pong Advanced v0.7.4",
+    "video": null,
+    "scrapeWords": [
+      "Pong",
+      "Advanced",
+      "v074"
     ]
   },
   {
@@ -76289,8 +76343,10 @@
     "genre": null,
     "id": "702735",
     "link": "https://martin-senges.itch.io/a-home-in-darkness",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQwMjMwODYucG5n/315x250%23c/Oi%2B2Af.png",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODY3ODkucG5n/315x250%23c/8MB9zD.png",
     "title": "A Home in Darkness",
     "video": null,
     "scrapeWords": [
@@ -77300,26 +77356,6 @@
     ]
   },
   {
-    "author": "RainXCat",
-    "description": "Cop vs Thieves is made while learing procedural generation hope you enjoy it. :)",
-    "genre": "Racing",
-    "id": "707395",
-    "link": "https://rainxcat.itch.io/cop-vs-thieves",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MTI3NjcucG5n/315x250%23c/JXldSj.png",
-    "title": "Cop vs Thieves",
-    "video": null,
-    "scrapeWords": [
-      "Cop",
-      "vs",
-      "Thieves"
-    ]
-  },
-  {
     "author": "technicat",
     "description": "Godot demo",
     "genre": "Platformer",
@@ -78156,6 +78192,25 @@
     ]
   },
   {
+    "author": "Wizard of Ox",
+    "description": "Alive or dead, you're needed",
+    "genre": "Adventure",
+    "id": "711938",
+    "link": "https://wizard-of-ox.itch.io/spirited-awol",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NDY2ODEucG5n/315x250%23c/jERICp.png",
+    "title": "Spirited Awol (Prototype)",
+    "video": null,
+    "scrapeWords": [
+      "Spirited",
+      "Awol",
+      "Prototype"
+    ]
+  },
+  {
     "author": "SlavJuan",
     "description": "A small in development Arcade shooter in 80s retro style",
     "genre": "Action",
@@ -78610,7 +78665,8 @@
     "id": "714086",
     "link": "https://jenus358.itch.io/which-way-is-up",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5NTc0NDUucG5n/315x250%23c/ghchCb.png",
     "title": "Which way is up?",
@@ -78620,21 +78676,6 @@
       "way",
       "is",
       "up"
-    ]
-  },
-  {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -79576,18 +79617,20 @@
     "description": "A Game About Dimension-Swapping!",
     "genre": "Adventure",
     "id": "720690",
-    "link": "https://splendiddog.itch.io/dimension-tension",
+    "link": "https://splendiddog.itch.io/dimension-tension-jam",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQwNTYwMjEucG5n/315x250%23c/idMNAI.png",
-    "title": "Dimension Tension",
+    "title": "Dimension Tension [Jam Version]",
     "video": null,
     "scrapeWords": [
       "Dimension",
-      "Tension"
+      "Tension",
+      "[Jam",
+      "Version]"
     ]
   },
   {
@@ -87919,7 +87962,9 @@
     "genre": "Strategy",
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ2NTQ1ODcucG5n/315x250%23c/cWUg1G.png",
     "title": "Malice & Greed",
     "video": null,
@@ -91360,8 +91405,7 @@
     "id": "772707",
     "link": "https://knights-game.itch.io/hardest-game-ez-edition",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MzU1ODEuanBn/315x250%23c/1eFdMz.jpg",
     "title": "Hardest Game - Ez Edition",
@@ -94712,7 +94756,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0Mjk3MTQucG5n/315x250%23c/R84qUn.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODMyNTQucG5n/315x250%23c/65u6yT.png",
     "title": "Spaceyard",
     "video": null,
     "scrapeWords": [
@@ -97518,6 +97562,23 @@
     ]
   },
   {
+    "author": "bobthefish",
+    "description": "First-person mustelid village management.",
+    "genre": null,
+    "id": "808578",
+    "link": "https://bobthefish.itch.io/mustelia",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTcxMDYucG5n/315x250%23c/Gcj2P0.png",
+    "title": "Mustelia (Prototype)",
+    "video": null,
+    "scrapeWords": [
+      "Mustelia",
+      "Prototype"
+    ]
+  },
+  {
     "author": "Michael Coorlim",
     "description": "A very 80s interactive fiction gamebook",
     "genre": "Interactive Fiction",
@@ -98303,12 +98364,15 @@
   },
   {
     "author": "notiiivan",
-    "description": null,
+    "description": "Interrogate strange demons to determine which one caused your death. Oh, and you can shoot them at any time.",
     "genre": "Interactive Fiction",
     "id": "816393",
     "link": "https://notiiivan.itch.io/shot-in-the-dark",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDQ5MzEucG5n/315x250%23c/AopMn8.png",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODIyNzAucG5n/315x250%23c/SgmQwJ.png",
     "title": "shot in the dark.",
     "video": null,
     "scrapeWords": [
@@ -100712,7 +100776,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NzUxMTUucG5n/315x250%23c/CJhNL0.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODUwNzgucG5n/315x250%23c/ie5JQD.png",
     "title": "Secrets of the Mansion",
     "video": null,
     "scrapeWords": [
@@ -101792,6 +101856,26 @@
     ]
   },
   {
+    "author": "Raformatico",
+    "description": "Help Alex to find his way to scape the Moon.",
+    "genre": "Interactive Fiction",
+    "id": "840007",
+    "link": "https://raformatico.itch.io/ticket-to-the-moon",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDk2OTcucG5n/315x250%23c/pIZil7.png",
+    "title": "Ticket to the moon",
+    "video": null,
+    "scrapeWords": [
+      "Ticket",
+      "to",
+      "the",
+      "moon"
+    ]
+  },
+  {
     "author": "EGFAB Technology",
     "description": "All four colors. Yes, this is a joke about mobile game pricing models",
     "genre": "Action",
@@ -102118,13 +102202,14 @@
     "description": "Outer Space Police Department",
     "genre": "Shooter",
     "id": "842398",
-    "link": "https://enyalios.itch.io/ospd",
+    "link": "https://aw3.itch.io/ospd",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3MjI1MjAucG5n/315x250%23c/Yfgl2Z.png",
-    "title": "O.S.P.D.",
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODYyNzIuanBn/315x250%23c/Ma9EvZ.jpg",
+    "title": "Space Police",
     "video": null,
     "scrapeWords": [
-      "OSPD"
+      "Space",
+      "Police"
     ]
   },
   {
@@ -102692,7 +102777,8 @@
     "id": "848694",
     "link": "https://knights-game.itch.io/hulu-adventure",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NTgxNDIucG5n/315x250%23c/U%2FFkoL.png",
     "title": "Hulu Adventure",
@@ -102898,6 +102984,44 @@
     "video": null,
     "scrapeWords": [
       "Platformer"
+    ]
+  },
+  {
+    "author": "hahaitsjeff",
+    "description": "Find a place to camp tonight",
+    "genre": "Adventure",
+    "id": "851874",
+    "link": "https://hahaitsjeff.itch.io/true-north",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3Nzk1OTMucG5n/315x250%23c/FUiSFM.png",
+    "title": "True North",
+    "video": null,
+    "scrapeWords": [
+      "True",
+      "North"
+    ]
+  },
+  {
+    "author": "GoneLoot",
+    "description": "¡Pan!",
+    "genre": "Role Playing",
+    "id": "853471",
+    "link": "https://goneloot.itch.io/shin-megami-theo",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODY3NTQucG5n/315x250%23c/6gW7WH.png",
+    "title": "Shin Megami Theo",
+    "video": null,
+    "scrapeWords": [
+      "Shin",
+      "Megami",
+      "Theo"
     ]
   },
   {
