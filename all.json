@@ -44144,7 +44144,7 @@
   },
   {
     "author": "TheElderBloodFire",
-    "description": "Bounce at the Border",
+    "description": "GameOff2019",
     "genre": "Platformer",
     "id": "522918",
     "link": "https://theelderbloodfire.itch.io/bounce-at-the-border",
@@ -55245,7 +55245,7 @@
   },
   {
     "author": "XIMPLE APPS",
-    "description": "Poison Bubble Halloween",
+    "description": "Poison Bubble Season 5",
     "genre": null,
     "id": "602701",
     "link": "https://ximpleapps.itch.io/poison-bubble",
@@ -55254,7 +55254,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1MTc1NTYucG5n/315x250%23c/wvkHCp.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODkyMzkucG5n/315x250%23c/R3I%2BuY.png",
     "title": "Poison Bubble",
     "video": null,
     "scrapeWords": [
@@ -71888,7 +71888,7 @@
     ]
   },
   {
-    "author": "0000",
+    "author": "hpnrep6",
     "description": "Short 3D horror game",
     "genre": null,
     "id": "689404",
@@ -73234,7 +73234,7 @@
     ]
   },
   {
-    "author": "0000",
+    "author": "hpnrep6",
     "description": "Both a platformer and a top-down game",
     "genre": "Platformer",
     "id": "694795",
@@ -79617,7 +79617,7 @@
     "description": "A Game About Dimension-Swapping!",
     "genre": "Adventure",
     "id": "720690",
-    "link": "https://splendiddog.itch.io/dimension-tension-jam",
+    "link": "https://splendiddog.itch.io/dimension-tension",
     "platforms": [
       "Windows",
       "Linux",
@@ -80255,25 +80255,6 @@
     ]
   },
   {
-    "author": "Zogger.Dev",
-    "description": "An idle, clicker game in space",
-    "genre": "Simulation",
-    "id": "724836",
-    "link": "https://zoggerdev.itch.io/idle-space-fleet",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MzE0OTcucG5n/315x250%23c/YvNMGK.png",
-    "title": "Idle Space Fleet",
-    "video": null,
-    "scrapeWords": [
-      "Idle",
-      "Space",
-      "Fleet"
-    ]
-  },
-  {
     "author": "The Stickie",
     "description": "#rewind",
     "genre": "Platformer",
@@ -80837,7 +80818,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NzIwMTAucG5n/315x250%23c/o6bC%2Fg.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTQwODkucG5n/315x250%23c/V54TmI.png",
     "title": "Roboggled",
     "video": null,
     "scrapeWords": [
@@ -100048,7 +100029,7 @@
   },
   {
     "author": "dunkelgrau",
-    "description": "Defeat the witch of the tower",
+    "description": "Defeat the witch of the tower.",
     "genre": "Action",
     "id": "829057",
     "link": "https://dunkelgrau.itch.io/the-tower",
@@ -102198,18 +102179,19 @@
     ]
   },
   {
-    "author": "Nathan Zhang",
-    "description": "Outer Space Police Department",
+    "author": "Nathan Magus",
+    "description": "A Magical / Sci-Fi FPS",
     "genre": "Shooter",
     "id": "842398",
-    "link": "https://aw3.itch.io/ospd",
+    "link": "https://aw3.itch.io/fps",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3ODYyNzIuanBn/315x250%23c/Ma9EvZ.jpg",
-    "title": "Space Police",
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTAxNTEucG5n/315x250%23c/e5AYsS.png",
+    "title": "Nathan The Sorcerer",
     "video": null,
     "scrapeWords": [
-      "Space",
-      "Police"
+      "Nathan",
+      "The",
+      "Sorcerer"
     ]
   },
   {
@@ -102248,26 +102230,6 @@
     "scrapeWords": [
       "Chain",
       "Dungeon"
-    ]
-  },
-  {
-    "author": "Mather",
-    "description": "A fighting game",
-    "genre": "Action",
-    "id": "843083",
-    "link": "https://mather-games.itch.io/za-gladiator-arena",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MjYzMzEucG5n/315x250%23c/aOiktl.png",
-    "title": "ZA Gladiator Arena",
-    "video": null,
-    "scrapeWords": [
-      "ZA",
-      "Gladiator",
-      "Arena"
     ]
   },
   {
@@ -102320,6 +102282,25 @@
     "scrapeWords": [
       "Eds",
       "Venture"
+    ]
+  },
+  {
+    "author": "Cheeky Lions",
+    "description": "Oh no! Santa slept in, and now he has to rush to deliver the presents!",
+    "genre": "Platformer",
+    "id": "843730",
+    "link": "https://cheekylions.itch.io/santas-late",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODQwNzgucG5n/315x250%23c/6DRhdz.png",
+    "title": "Santa's Late!",
+    "video": null,
+    "scrapeWords": [
+      "Santas",
+      "Late"
     ]
   },
   {
@@ -102622,12 +102603,13 @@
   },
   {
     "author": "oscarglo",
-    "description": "A procedurally generated creepy forest",
-    "genre": null,
+    "description": "A procedurally generated tentacle forest",
+    "genre": "Survival",
     "id": "846460",
     "link": "https://oscarglo.itch.io/brent",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NDU0MTIucG5n/315x250%23c/uFz2fV.png",
@@ -103006,6 +102988,48 @@
     ]
   },
   {
+    "author": "24hrs Studio",
+    "description": "You are a person out of Roma and you have to prepare yourself for a fight against a FINAL BOSS.",
+    "genre": "Survival",
+    "id": "853076",
+    "link": "https://24hrs-studio.itch.io/random-survival-game",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODUwMDYucG5n/315x250%23c/oqT6IM.png",
+    "title": "Jigalong",
+    "video": null,
+    "scrapeWords": [
+      "Jigalong"
+    ]
+  },
+  {
+    "author": "GreenClovers",
+    "description": "A  mall guard talks to two people over a radio, using only a light switch.",
+    "genre": "Interactive Fiction",
+    "id": "853222",
+    "link": "https://greenclovers.itch.io/lights-off",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODg3NzUucG5n/315x250%23c/kG21OD.png",
+    "title": "Turn the lights off if you can hear me.",
+    "video": null,
+    "scrapeWords": [
+      "Turn",
+      "the",
+      "lights",
+      "off",
+      "if",
+      "you",
+      "can",
+      "hear",
+      "me"
+    ]
+  },
+  {
     "author": "GoneLoot",
     "description": "¡Pan!",
     "genre": "Role Playing",
@@ -103022,6 +103046,221 @@
       "Shin",
       "Megami",
       "Theo"
+    ]
+  },
+  {
+    "author": "THE0R",
+    "description": "Go and find the treasure!",
+    "genre": "Puzzle",
+    "id": "853713",
+    "link": "https://theogen.itch.io/treasure",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODgyMzAucG5n/315x250%23c/qnBXhA.png",
+    "title": "Treasure Far Away",
+    "video": null,
+    "scrapeWords": [
+      "Treasure",
+      "Far",
+      "Away"
+    ]
+  },
+  {
+    "author": "Escada Games",
+    "description": "Puzzle game where you control only the knight",
+    "genre": "Puzzle",
+    "id": "853995",
+    "link": "https://escada-games.itch.io/horse-knight",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODk3MTMuZ2lm/315x250%23cm/EsKxuy.gif",
+    "title": "Horse Knight",
+    "video": "https://img.itch.zone/aW1nLzQ3ODk3MTMuZ2lm/original/oc4ITt.gif",
+    "scrapeWords": [
+      "Horse",
+      "Knight"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Started from the end, now we're here",
+    "genre": "Shooter",
+    "id": "854094",
+    "link": "https://jafcraze.itch.io/agent-99",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTA1MzUucG5n/315x250%23c/jQfdgQ.png",
+    "title": "Agent 99",
+    "video": null,
+    "scrapeWords": [
+      "Agent",
+      "99"
+    ]
+  },
+  {
+    "author": "Enostrion",
+    "description": "Keep the balance of the universe by switching between Yin and Yang and surving the balance fluctuations.",
+    "genre": null,
+    "id": "854098",
+    "link": "https://enostrion.itch.io/between-shallows",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTA0NTEucG5n/315x250%23c/N6TZ7T.png",
+    "title": "Between Shallows",
+    "video": null,
+    "scrapeWords": [
+      "Between",
+      "Shallows"
+    ]
+  },
+  {
+    "author": "Daniel Barral",
+    "description": "You wake up in an infinite corridor with infinite doors, each one leads to an inifite maze.",
+    "genre": "Adventure",
+    "id": "854141",
+    "link": "https://danielbarral.itch.io/infinite-maze-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTA3MzAucG5n/315x250%23c/BgVv07.png",
+    "title": "Infinite Maze Game",
+    "video": null,
+    "scrapeWords": [
+      "Infinite",
+      "Maze",
+      "Game"
+    ]
+  },
+  {
+    "author": "Penguin Psychiatry",
+    "description": "Roguelike in hell",
+    "genre": null,
+    "id": "854417",
+    "link": "https://penguin-psychiatry.itch.io/a-penguin-goes-to-hell",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTI0MzYucG5n/315x250%23c/cL9ZHw.png",
+    "title": "A Penguin goes to Hell",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Penguin",
+      "goes",
+      "to",
+      "Hell"
+    ]
+  },
+  {
+    "author": "Warkus",
+    "description": "A short 3D horror experience",
+    "genre": "Adventure",
+    "id": "854449",
+    "link": "https://warrrkus.itch.io/ghoststudy",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTIzODEucG5n/315x250%23c/gM%2FgQZ.png",
+    "title": "Ghost Study",
+    "video": null,
+    "scrapeWords": [
+      "Ghost",
+      "Study"
+    ]
+  },
+  {
+    "author": "Kingoat",
+    "description": "A game where you are the hell's office manager !",
+    "genre": "Role Playing",
+    "id": "854498",
+    "link": "https://kingoat.itch.io/hells-office",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTI3NTkucG5n/315x250%23c/XefZIp.png",
+    "title": "Hell's Office",
+    "video": null,
+    "scrapeWords": [
+      "Hells",
+      "Office"
+    ]
+  },
+  {
+    "author": "Interroblank",
+    "description": "A proof-of-concept card-collecting shooter.",
+    "genre": "Shooter",
+    "id": "854601",
+    "link": "https://interroblank.itch.io/arquebor",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTM0MjEucG5n/315x250%23c/FLn%2BxR.png",
+    "title": "ARQUEBOR",
+    "video": null,
+    "scrapeWords": [
+      "ARQUEBOR"
+    ]
+  },
+  {
+    "author": "MaoItsMe",
+    "description": null,
+    "genre": null,
+    "id": "854633",
+    "link": "https://maodev.itch.io/hellgirl",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTM2MjQucG5n/315x250%23c/R3dY%2BF.png",
+    "title": "HellGirl",
+    "video": null,
+    "scrapeWords": [
+      "Hell",
+      "Girl"
+    ]
+  },
+  {
+    "author": "drella",
+    "description": "Attend to guests at the hotel in the Traffic Circle At The End Of The World (eventually)",
+    "genre": "Simulation",
+    "id": "854669",
+    "link": "https://drella.itch.io/carnage-concierge",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTM5OTcucG5n/315x250%23c/lRImJC.png",
+    "title": "Carnage Concierge [ROUGH PROTOTYPE, SO VERY ROUGH]",
+    "video": null,
+    "scrapeWords": [
+      "Carnage",
+      "Concierge",
+      "[ROUGH",
+      "PROTOTYPE",
+      "SO",
+      "VERY",
+      "ROUGH]"
+    ]
+  },
+  {
+    "author": "wherbig",
+    "description": "a game about escape",
+    "genre": null,
+    "id": "854949",
+    "link": "https://wherbig.itch.io/outer-place",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTU3MjIuZ2lm/315x250%23cm/bAkhcZ.gif",
+    "title": "outer place",
+    "video": "https://img.itch.zone/aW1nLzQ3OTU3MjIuZ2lm/original/TmPcpe.gif",
+    "scrapeWords": [
+      "outer",
+      "place"
     ]
   },
   {
