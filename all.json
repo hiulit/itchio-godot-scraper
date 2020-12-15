@@ -24140,7 +24140,7 @@
     "id": "363284",
     "link": "https://maodev.itch.io/some-zombie-game-idk",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE4MTY2ODYucG5n/315x250%23c/1lO49s.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTcwODcucG5n/315x250%23c/p2QbNi.png",
     "title": "Some zombie game, idk",
     "video": null,
     "scrapeWords": [
@@ -25997,24 +25997,6 @@
     "scrapeWords": [
       "Bullet",
       "Breaker"
-    ]
-  },
-  {
-    "author": "LRGames",
-    "description": "Free demo for an upcoming yuri EVN about time loops.  ALL ART IS PLACEHOLDER",
-    "genre": "Visual Novel",
-    "id": "379764",
-    "link": "https://lrgames.itch.io/black-lilies-demo",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE5MjQ5MjMuanBn/315x250%23c/ghvlyZ.jpg",
-    "title": "Black Lilies - DEMO",
-    "video": null,
-    "scrapeWords": [
-      "Black",
-      "Lilies"
     ]
   },
   {
@@ -27979,25 +27961,6 @@
       "Run",
       "Game",
       "Jam"
-    ]
-  },
-  {
-    "author": "Vanne",
-    "description": "A simple puzzle game using only two buttons",
-    "genre": "Puzzle",
-    "id": "404133",
-    "link": "https://vanne.itch.io/lights-out",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -43988,7 +43951,7 @@
   },
   {
     "author": "Ange HUBERT",
-    "description": "a dodging game made with Godot Egine made in 3 days",
+    "description": "dodge the missile waves to survive !",
     "genre": "Rhythm",
     "id": "520881",
     "link": "https://le-professeur-stagiaire.itch.io/missile",
@@ -78679,6 +78642,21 @@
     ]
   },
   {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -93678,6 +93656,23 @@
     ]
   },
   {
+    "author": "pedrorns",
+    "description": "Book 8 of The Republic of Plato",
+    "genre": "Educational",
+    "id": "782545",
+    "link": "https://pedrorns.itch.io/democracia-socratica",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTQ3MjEucG5n/315x250%23c/Wy1Rl0.png",
+    "title": "Democracia Socratica",
+    "video": null,
+    "scrapeWords": [
+      "cracia",
+      "Socratica"
+    ]
+  },
+  {
     "author": "Hazem Huzayen",
     "description": "top down survival game. you, death, guns and all them freaking zombies.",
     "genre": "Shooter",
@@ -95353,20 +95348,6 @@
     "scrapeWords": [
       "Piano",
       "Penguim"
-    ]
-  },
-  {
-    "author": "ONE EDITOR GAMES",
-    "description": "endless runner",
-    "genre": "Survival",
-    "id": "795127",
-    "link": "https://one-editor-games.itch.io/reds",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ0NTExNDUucG5n/315x250%23c/7zGcNa.png",
-    "title": "REDS",
-    "video": null,
-    "scrapeWords": [
-      "REDS"
     ]
   },
   {
@@ -99850,23 +99831,6 @@
     ]
   },
   {
-    "author": "phaserDev",
-    "description": "ever changing platformer with everything changing every 10 mins or so",
-    "genre": "Platformer",
-    "id": "828099",
-    "link": "https://phaserdev.itch.io/phaser",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NDA4MjMucG5n/315x250%23c/Zx0VG2.png",
-    "title": "Phaser",
-    "video": null,
-    "scrapeWords": [
-      "Phaser"
-    ]
-  },
-  {
     "author": "hahaitsjeff",
     "description": "A midnight stroll up a tall stone tower",
     "genre": "Adventure",
@@ -100160,26 +100124,6 @@
       "A",
       "Christmas",
       "Caper"
-    ]
-  },
-  {
-    "author": "ONE EDITOR GAMES",
-    "description": "A short walk of life",
-    "genre": "Platformer",
-    "id": "829523",
-    "link": "https://one-editor-games.itch.io/journey-of-life",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NDkxMDgucG5n/315x250%23c/Yi8%2FI9.png",
-    "title": "Journey of life",
-    "video": null,
-    "scrapeWords": [
-      "Journey",
-      "of",
-      "life"
     ]
   },
   {
@@ -100745,6 +100689,23 @@
       "One",
       "Button",
       "Factory"
+    ]
+  },
+  {
+    "author": "Cubic321",
+    "description": "No one will reach the end.",
+    "genre": "Platformer",
+    "id": "834177",
+    "link": "https://cubic321.itch.io/panda-jumper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODIzODguanBn/315x250%23c/HqGNGi.jpg",
+    "title": "Panda Jumper",
+    "video": null,
+    "scrapeWords": [
+      "Panda",
+      "Jumper"
     ]
   },
   {
@@ -101334,8 +101295,7 @@
     "link": "https://derangedturtlegames.itch.io/mad-crab-grab",
     "platforms": [
       "Windows",
-      "Linux",
-      "Android"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NjI1MDAucG5n/315x250%23c/3LO%2FMo.png",
     "title": "Mad Crab Grab",
@@ -102153,7 +102113,7 @@
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3Mzg0ODgucG5n/315x250%23c/ADiVXL.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDA2ODEucG5n/315x250%23c/wqD9jY.png",
     "title": "GodotCraft",
     "video": null,
     "scrapeWords": [
@@ -102176,22 +102136,6 @@
     "scrapeWords": [
       "Beetle",
       "Bunt"
-    ]
-  },
-  {
-    "author": "Nathan Magus",
-    "description": "A Magical / Sci-Fi FPS",
-    "genre": "Shooter",
-    "id": "842398",
-    "link": "https://aw3.itch.io/fps",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3OTAxNTEucG5n/315x250%23c/e5AYsS.png",
-    "title": "Nathan The Sorcerer",
-    "video": null,
-    "scrapeWords": [
-      "Nathan",
-      "The",
-      "Sorcerer"
     ]
   },
   {
@@ -102319,6 +102263,20 @@
     "scrapeWords": [
       "Quick",
       "Primes"
+    ]
+  },
+  {
+    "author": "rancidbacon",
+    "description": "It Takes Mu to Mutango!",
+    "genre": "Puzzle",
+    "id": "844059",
+    "link": "https://rancidbacon.itch.io/mutango",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzI1MjUucG5n/315x250%23c/RWvMjI.png",
+    "title": "¡μtango!",
+    "video": null,
+    "scrapeWords": [
+      "μtango"
     ]
   },
   {
@@ -102666,6 +102624,22 @@
     ]
   },
   {
+    "author": "jonas1426",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "847265",
+    "link": "https://jonas1426.itch.io/flock-of-ducks",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDE4MTcucG5n/315x250%23c/hRk6J9.png",
+    "title": "Flock of Ducks",
+    "video": null,
+    "scrapeWords": [
+      "Flock",
+      "of",
+      "Ducks"
+    ]
+  },
+  {
     "author": "MultiBits",
     "description": "Simple endless runner",
     "genre": null,
@@ -102762,7 +102736,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3NTgxNDIucG5n/315x250%23c/U%2FFkoL.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDEyMjUucG5n/315x250%23c/Z9GbUW.png",
     "title": "Hulu Adventure",
     "video": null,
     "scrapeWords": [
@@ -103056,9 +103030,10 @@
     "link": "https://theogen.itch.io/treasure",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3ODgyMzAucG5n/315x250%23c/qnBXhA.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDI3NjcucG5n/315x250%23c/nOC8rq.png",
     "title": "Treasure Far Away",
     "video": null,
     "scrapeWords": [
@@ -103159,7 +103134,7 @@
   },
   {
     "author": "Warkus",
-    "description": "A short 3D horror experience",
+    "description": "A short retro 3D horror game.  What will you experience when listening to actual ghost-frequency sounds?",
     "genre": "Adventure",
     "id": "854449",
     "link": "https://warrrkus.itch.io/ghoststudy",
@@ -103219,7 +103194,7 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3OTM2MjQucG5n/315x250%23c/R3dY%2BF.png",
-    "title": "HellGirl",
+    "title": "Hell Girl",
     "video": null,
     "scrapeWords": [
       "Hell",
@@ -103261,6 +103236,78 @@
     "scrapeWords": [
       "outer",
       "place"
+    ]
+  },
+  {
+    "author": "ruli",
+    "description": "A procedurally generated rpg  loosely based in dragon quest​",
+    "genre": "Adventure",
+    "id": "855002",
+    "link": "https://ruly.itch.io/endless-quest",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTYwOTIucG5n/315x250%23c/RcKD%2BO.png",
+    "title": "Endless quest",
+    "video": null,
+    "scrapeWords": [
+      "Endless",
+      "quest"
+    ]
+  },
+  {
+    "author": "Jack Webb",
+    "description": "Avoid obstacles and infect the blobs as a coronavirus horde!",
+    "genre": "Action",
+    "id": "855161",
+    "link": "https://jack-webb.itch.io/covid-innit",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDIyMzgucG5n/315x250%23c/AgIqU3.png",
+    "title": "Covid, innit",
+    "video": null,
+    "scrapeWords": [
+      "Covid",
+      "innit"
+    ]
+  },
+  {
+    "author": "Stefano Blanchietti",
+    "description": "Make sure customers are wearing a mask and keep your shop open",
+    "genre": null,
+    "id": "855190",
+    "link": "https://blanchio.itch.io/put-on-your-mask",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTcwNDguZ2lm/315x250%23cm/s7IfKk.gif",
+    "title": "Put On Your Mask!",
+    "video": "https://img.itch.zone/aW1nLzQ3OTcwNDguZ2lm/original/G2SBpN.gif",
+    "scrapeWords": [
+      "Put",
+      "On",
+      "Your",
+      "Mask"
+    ]
+  },
+  {
+    "author": "Alex Garbus",
+    "description": "Collect enough adrenaline to travel through time!",
+    "genre": "Action",
+    "id": "855795",
+    "link": "https://alexgarbus.itch.io/adrenaline-time",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDE0MTQucG5n/315x250%23c/RCTcvk.png",
+    "title": "Adrenaline Time",
+    "video": null,
+    "scrapeWords": [
+      "Adrenaline",
+      "Time"
     ]
   },
   {
