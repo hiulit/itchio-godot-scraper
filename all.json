@@ -6773,7 +6773,7 @@
     ]
   },
   {
-    "author": "Harmony Monroe",
+    "author": "Harmony Honey",
     "description": "20 Levels of Screen-Wrapping Arcade Action!",
     "genre": "Platformer",
     "id": "233533",
@@ -64607,7 +64607,7 @@
     ]
   },
   {
-    "author": "Necco (Hexane Games)",
+    "author": "Necco Zed",
     "description": "Climb to the top if you can!",
     "genre": "Platformer",
     "id": "647223",
@@ -101920,7 +101920,7 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTMzNTkucG5n/315x250%23c/OFvary.png",
-    "title": "Rubik's Queue",
+    "title": "Rubik's Queue Demo",
     "video": null,
     "scrapeWords": [
       "Rubiks",
@@ -101951,11 +101951,7 @@
     "genre": "Action",
     "id": "840920",
     "link": "https://bearlikelion.itch.io/mpdc",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
     "video": null,
@@ -102174,6 +102170,26 @@
     "scrapeWords": [
       "Chain",
       "Dungeon"
+    ]
+  },
+  {
+    "author": "Mather",
+    "description": "A fighting game",
+    "genre": "Action",
+    "id": "843083",
+    "link": "https://mather-games.itch.io/za-gladiator-arena",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjYzMzEucG5n/315x250%23c/aOiktl.png",
+    "title": "ZA Gladiator Arena",
+    "video": null,
+    "scrapeWords": [
+      "ZA",
+      "Gladiator",
+      "Arena"
     ]
   },
   {
@@ -103184,6 +103200,20 @@
     ]
   },
   {
+    "author": "GGBot",
+    "description": "Endless driving game with Synthwave music",
+    "genre": "Racing",
+    "id": "854610",
+    "link": "https://ggbot.itch.io/cyberway",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDUxMTcucG5n/315x250%23c/wINApo.png",
+    "title": "CYBERWAY",
+    "video": null,
+    "scrapeWords": [
+      "CYBERWAY"
+    ]
+  },
+  {
     "author": "MaoItsMe",
     "description": null,
     "genre": null,
@@ -103323,6 +103353,40 @@
     "scrapeWords": [
       "Salt",
       "Savvy"
+    ]
+  },
+  {
+    "author": "crazy1dunmer",
+    "description": "brick breaker with taste of rpg",
+    "genre": null,
+    "id": "856489",
+    "link": "https://crazy1dunmer.itch.io/flyinghatchet",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTA0OTQucG5n/315x250%23c/nft68P.png",
+    "title": "FlyingHatchet",
+    "video": null,
+    "scrapeWords": [
+      "Flying",
+      "Hatchet"
+    ]
+  },
+  {
+    "author": "Snowy Fox",
+    "description": "A tiny test game made in Godot",
+    "genre": "Action",
+    "id": "856667",
+    "link": "https://foxaudio-creations.itch.io/super-test-world",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDY2OTEucG5n/315x250%23c/3PDfKJ.png",
+    "title": "Super Test World",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Test",
+      "World"
     ]
   },
   {
