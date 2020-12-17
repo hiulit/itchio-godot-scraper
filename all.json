@@ -27638,7 +27638,7 @@
     ]
   },
   {
-    "author": "istotex",
+    "author": "Istotex",
     "description": "Become a well-known and successful author in this 2D isometric simulation game!",
     "genre": "Simulation",
     "id": "400608",
@@ -37387,11 +37387,7 @@
     "genre": "Adventure",
     "id": "471004",
     "link": "https://hologrape.itch.io/laramagenta",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0MTIyOTcucG5n/315x250%23c/t8Oudj.png",
     "title": "Lara Magenta",
     "video": null,
@@ -69273,26 +69269,6 @@
     ]
   },
   {
-    "author": "Bobo",
-    "description": "Spin to win",
-    "genre": "Shooter",
-    "id": "677208",
-    "link": "https://justbobo.itch.io/untitled-spinny-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM3MTY3OTEucG5n/315x250%23c/Lu8idQ.png",
-    "title": "Untitled Spinny Game",
-    "video": null,
-    "scrapeWords": [
-      "Untitled",
-      "Spinny",
-      "Game"
-    ]
-  },
-  {
     "author": "stonegolem13",
     "description": "A block breaking game with a neon aesthetic",
     "genre": null,
@@ -70925,6 +70901,26 @@
     "scrapeWords": [
       "Pearl",
       "Grabber"
+    ]
+  },
+  {
+    "author": "RedPickxel",
+    "description": null,
+    "genre": "Shooter",
+    "id": "684118",
+    "link": "https://redpickxel.itch.io/space-slime-assault",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NjE4NTkucG5n/315x250%23c/JqXC7m.png",
+    "title": "Space Slime Assault",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Slime",
+      "Assault"
     ]
   },
   {
@@ -76670,11 +76666,15 @@
   },
   {
     "author": "The Seahorse",
-    "description": "Precision Platformer",
+    "description": "Difficult Precision Platformer",
     "genre": "Platformer",
     "id": "704676",
     "link": "https://theseahorse.itch.io/paralyzed",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ2OTk0ODMucG5n/315x250%23c/4VpLaU.png",
     "title": "Paralyzed",
     "video": null,
@@ -80825,9 +80825,7 @@
     "genre": "Action",
     "id": "727572",
     "link": "https://securas.itch.io/dracunite",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQwNjcxMTQucG5n/315x250%23c/ZLSf%2Fl.png",
     "title": "Dracunite",
     "video": null,
@@ -87761,6 +87759,23 @@
     ]
   },
   {
+    "author": "CMonk",
+    "description": "Your Spaceship is broken. Try to find a way out.",
+    "genre": "Survival",
+    "id": "752438",
+    "link": "https://cmonk.itch.io/spaceship-escape",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzMDM0MDUucG5n/315x250%23c/0nbzic.png",
+    "title": "Spaceship Escape",
+    "video": null,
+    "scrapeWords": [
+      "Spaceship",
+      "Escape"
+    ]
+  },
+  {
     "author": "Elronde",
     "description": "A top-down dodger game inspired from my personal project Dodger, made in GODOT",
     "genre": null,
@@ -88376,21 +88391,6 @@
     "scrapeWords": [
       "Fruity",
       "Pies"
-    ]
-  },
-  {
-    "author": "MikkoK",
-    "description": "Game made for Friday Nigh Game Jam 37",
-    "genre": "Puzzle",
-    "id": "756314",
-    "link": "https://mikkok.itch.io/spaceship-escape",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQyMjY5MjQucG5n/315x250%23c/%2F5IhpU.png",
-    "title": "Spaceship Escape",
-    "video": null,
-    "scrapeWords": [
-      "Spaceship",
-      "Escape"
     ]
   },
   {
@@ -93661,9 +93661,7 @@
     "genre": "Educational",
     "id": "782545",
     "link": "https://pedrorns.itch.io/democracia-socratica",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3OTQ3MjEucG5n/315x250%23c/Wy1Rl0.png",
     "title": "Democracia Socratica",
     "video": null,
@@ -94213,6 +94211,23 @@
     "scrapeWords": [
       "Mouse",
       "Free"
+    ]
+  },
+  {
+    "author": "Nagul",
+    "description": "TopDownBoxShooter",
+    "genre": "Action",
+    "id": "786674",
+    "link": "https://nagul.itch.io/pewpew",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0MTQxNjcucG5n/315x250%23c/3w4c31.png",
+    "title": "BoxGoPewPew",
+    "video": null,
+    "scrapeWords": [
+      "Box",
+      "Go",
+      "Pew",
+      "Pew"
     ]
   },
   {
@@ -100596,6 +100611,21 @@
     ]
   },
   {
+    "author": "Daniel Barral",
+    "description": "Can you control the pendulum?",
+    "genre": "Action",
+    "id": "832657",
+    "link": "https://danielbarral.itch.io/pendulum-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTUyODIucG5n/315x250%23c/6lEtRR.png",
+    "title": "Pendulum Game",
+    "video": null,
+    "scrapeWords": [
+      "Pendulum",
+      "Game"
+    ]
+  },
+  {
     "author": "ribyrnes",
     "description": "Whatever you do, keep moving. [A short horror visual novel]",
     "genre": null,
@@ -101951,7 +101981,9 @@
     "genre": "Action",
     "id": "840920",
     "link": "https://bearlikelion.itch.io/mpdc",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
     "video": null,
@@ -103039,6 +103071,21 @@
     ]
   },
   {
+    "author": "PercyX",
+    "description": null,
+    "genre": null,
+    "id": "853572",
+    "link": "https://percyx.itch.io/rainbow-dash",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODczMjQucG5n/315x250%23c/O4JwU2.png",
+    "title": "Rainbow Dash",
+    "video": null,
+    "scrapeWords": [
+      "Rainbow",
+      "Dash"
+    ]
+  },
+  {
     "author": "THE0R",
     "description": "Go and find the treasure!",
     "genre": "Puzzle",
@@ -103341,6 +103388,20 @@
     ]
   },
   {
+    "author": "SilverVortex",
+    "description": null,
+    "genre": "Platformer",
+    "id": "855852",
+    "link": "https://silvervortex.itch.io/gunlance",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDE0NDEucG5n/315x250%23c/Rcdi%2B2.png",
+    "title": "Gunlance",
+    "video": null,
+    "scrapeWords": [
+      "Gunlance"
+    ]
+  },
+  {
     "author": "paulio",
     "description": "A game about putting the right amount of salt on stuff.",
     "genre": null,
@@ -103387,6 +103448,72 @@
       "Super",
       "Test",
       "World"
+    ]
+  },
+  {
+    "author": "Glitso",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "856699",
+    "link": "https://glitso.itch.io/battlebox",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDczMDkucG5n/315x250%23c/bUYa12.png",
+    "title": "BattleBox",
+    "video": null,
+    "scrapeWords": [
+      "Battle",
+      "Box"
+    ]
+  },
+  {
+    "author": "geriandre",
+    "description": "Arithmetic Job Simulator",
+    "genre": "Simulation",
+    "id": "857102",
+    "link": "https://geriandre.itch.io/ticket-vendor",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTIyNDcucG5n/315x250%23c/0m%2Fivp.png",
+    "title": "Ticket Vendor",
+    "video": null,
+    "scrapeWords": [
+      "Ticket",
+      "Vendor"
+    ]
+  },
+  {
+    "author": "VincentSInger",
+    "description": "Block the balls from your goal",
+    "genre": "Action",
+    "id": "858020",
+    "link": "https://vincentsinger.itch.io/floppy-goalie",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTUwMDIucG5n/315x250%23c/P51sdD.png",
+    "title": "Floppy Goalie",
+    "video": null,
+    "scrapeWords": [
+      "Floppy",
+      "Goalie"
+    ]
+  },
+  {
+    "author": "Criepstar",
+    "description": "Endless Runner in Godot",
+    "genre": null,
+    "id": "858320",
+    "link": "https://criepstar.itch.io/mobile-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTY4NzIucG5n/315x250%23c/KN0g%2Ba.png",
+    "title": "Mobile Game",
+    "video": null,
+    "scrapeWords": [
+      "Mobile",
+      "Game"
     ]
   },
   {
