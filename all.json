@@ -30692,27 +30692,6 @@
     ]
   },
   {
-    "author": "c-rey",
-    "description": "An old-school atmospheric adventure in the mythological Styx River with an experimental narrative layer.",
-    "genre": "Adventure",
-    "id": "425296",
-    "link": "https://c-rey.itch.io/the-styx-paradox",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxMjI5MTYucG5n/315x250%23c/B9MMRL.png",
-    "title": "The Styx Paradox",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Styx",
-      "Paradox"
-    ]
-  },
-  {
     "author": "Ahzed Studio",
     "description": "Un jeu inspiré par hotline miami avec du voice acting au petits oignons.",
     "genre": "Shooter",
@@ -47603,7 +47582,7 @@
     ]
   },
   {
-    "author": "bsvercl",
+    "author": "Brad",
     "description": "Space shooter where you can turn back time, but do you?",
     "genre": "Action",
     "id": "550794",
@@ -65726,24 +65705,6 @@
     ]
   },
   {
-    "author": "ThEnigmArtist",
-    "description": "Cyber Ninja vs Mech battle: Rescue mission",
-    "genre": "Fighting",
-    "id": "654971",
-    "link": "https://blackboxceo.itch.io/mech-battle",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5Nzk3NzcucG5n/315x250%23c/bQlsBZ.png",
-    "title": "Black Box: Operation Pandora (Mechs)",
-    "video": null,
-    "scrapeWords": [
-      "Black",
-      "Box",
-      "Operation",
-      "Pandora",
-      "Mechs"
-    ]
-  },
-  {
     "author": "netimu",
     "description": "Who is your real enemy?",
     "genre": "Platformer",
@@ -76702,6 +76663,24 @@
     ]
   },
   {
+    "author": "Patrice Metcalf-Putnam",
+    "description": "An idle game about helping an astronaut escape his tiny world through the power of suggestion",
+    "genre": null,
+    "id": "705279",
+    "link": "https://patricemp.itch.io/id",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NDg2MTAucG5n/315x250%23c/wOm%2Bcg.png",
+    "title": "Id",
+    "video": null,
+    "scrapeWords": [
+      "Id"
+    ]
+  },
+  {
     "author": "Darklizard",
     "description": "A minesweeper game.",
     "genre": "Puzzle",
@@ -85563,6 +85542,23 @@
     ]
   },
   {
+    "author": "Kuyi Mobile",
+    "description": "Journey with Hope through Questkeep in this strategic tile-based dungeon crawler!",
+    "genre": "Adventure",
+    "id": "742845",
+    "link": "https://kuyimobile.itch.io/questkeep",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzMzEwOTAucG5n/315x250%23c/1HKlsD.png",
+    "title": "Questkeep",
+    "video": null,
+    "scrapeWords": [
+      "Questkeep"
+    ]
+  },
+  {
     "author": "remtaine",
     "description": "Blast your way through the sky and go against the Sun, as a sunflower out for revenge!",
     "genre": "Shooter",
@@ -86622,26 +86618,6 @@
     "video": null,
     "scrapeWords": [
       "Nivod"
-    ]
-  },
-  {
-    "author": "nad_labs",
-    "description": "WARNING: Strong RAGE game ahead",
-    "genre": "Puzzle",
-    "id": "749351",
-    "link": "https://nad-labs.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQxODE1NjAucG5n/315x250%23c/cagYdf.png",
-    "title": "ESCAPE THE LAB",
-    "video": null,
-    "scrapeWords": [
-      "ESCAPE",
-      "THE",
-      "LAB"
     ]
   },
   {
@@ -89489,14 +89465,14 @@
   },
   {
     "author": "N8M8",
-    "description": "very short platform puzzle jam game",
+    "description": "very short, very bad platform puzzle jam game",
     "genre": "Platformer",
     "id": "763327",
     "link": "https://n8m8.itch.io/change-yourself-jam",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQyNzAxMDkuZ2lm/315x250%23cm/p%2BvlDE.gif",
+    "thumb": null,
     "title": "Change Yourself Jam",
-    "video": "https://img.itch.zone/aW1nLzQyNzAxMDkuZ2lm/original/Wg4yOm.gif",
+    "video": null,
     "scrapeWords": [
       "Change",
       "Yourself",
@@ -89883,6 +89859,22 @@
     ]
   },
   {
+    "author": "Patrice Metcalf-Putnam",
+    "description": "Avoid an epidemic and make your once-in-a-lifetime shot at meeting Overlord Aso",
+    "genre": "Simulation",
+    "id": "764451",
+    "link": "https://patricemp.itch.io/outbreak-in-space",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQzMzc3OTcucG5n/315x250%23c/%2FOQJMZ.png",
+    "title": "Outbreak in Space",
+    "video": null,
+    "scrapeWords": [
+      "Outbreak",
+      "in",
+      "Space"
+    ]
+  },
+  {
     "author": "Capital Ex",
     "description": "Rise From The Depth. Slay Angels. Rain Hell.",
     "genre": "Action",
@@ -90178,11 +90170,11 @@
     ]
   },
   {
-    "author": "marui32",
+    "author": "Red Cube Gamedev",
     "description": null,
     "genre": null,
     "id": "765880",
-    "link": "https://marui32.itch.io/ghost-resturants",
+    "link": "https://red-cube-gamedev.itch.io/ghost-resturants",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQyODQxMjMucG5n/315x250%23c/LPlzBj.png",
     "title": "Ghost resturants",
@@ -93950,6 +93942,26 @@
       "Twisted",
       "Timber",
       "Land"
+    ]
+  },
+  {
+    "author": "Patrice Metcalf-Putnam",
+    "description": "Lasso kittens to save them from a life of wandering!",
+    "genre": "Action",
+    "id": "784618",
+    "link": "https://patricemp.itch.io/purrposeful2020",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0NDEwMTkucG5n/315x250%23c/RgDoXG.png",
+    "title": "The Good, the Bad, and the Kitties",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Good",
+      "the",
+      "Bad",
+      "and",
+      "the",
+      "Kitties"
     ]
   },
   {
@@ -99666,21 +99678,6 @@
     ]
   },
   {
-    "author": "Taylor",
-    "description": "Gravity Golf Platformer game",
-    "genre": "Platformer",
-    "id": "826241",
-    "link": "https://tayweee.itch.io/gravity-core",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ2MzM0OTYucG5n/315x250%23c/4bM97n.png",
-    "title": "Gravity Core",
-    "video": null,
-    "scrapeWords": [
-      "Gravity",
-      "Core"
-    ]
-  },
-  {
     "author": "adrianbelmont",
     "description": "A small physics based adventure game, evolved out of our 2020 Game Jam.",
     "genre": "Action",
@@ -99751,25 +99748,6 @@
     "scrapeWords": [
       "PC",
       "Adventure"
-    ]
-  },
-  {
-    "author": "TANmasterisME",
-    "description": "Parkcore with a gun",
-    "genre": "Platformer",
-    "id": "827365",
-    "link": "https://tanmasterisme.itch.io/parkcore-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MzU2NDEucG5n/315x250%23c/Nr1vGO.png",
-    "title": "Parkcore Game",
-    "video": null,
-    "scrapeWords": [
-      "Parkcore",
-      "Game"
     ]
   },
   {
@@ -103252,7 +103230,10 @@
     "genre": "Racing",
     "id": "854610",
     "link": "https://ggbot.itch.io/cyberway",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MDUxMTcucG5n/315x250%23c/wINApo.png",
     "title": "CYBERWAY",
     "video": null,
@@ -103296,6 +103277,23 @@
       "SO",
       "VERY",
       "ROUGH]"
+    ]
+  },
+  {
+    "author": "audiomax",
+    "description": "Relax yourself playing this challenging puzzle game!",
+    "genre": "Puzzle",
+    "id": "854884",
+    "link": "https://audiomax.itch.io/resound",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjI5NTQucG5n/315x250%23c/IEdq7H.png",
+    "title": "Resound",
+    "video": null,
+    "scrapeWords": [
+      "Resound"
     ]
   },
   {
@@ -103468,6 +103466,22 @@
     ]
   },
   {
+    "author": "SeratoninRonin",
+    "description": null,
+    "genre": "Action",
+    "id": "857092",
+    "link": "https://seratoninronin.itch.io/germwarfare2020",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MDk0NzkucG5n/315x250%23c/4a4X6r.png",
+    "title": "Germ Warfare 2020",
+    "video": null,
+    "scrapeWords": [
+      "Germ",
+      "Warfare",
+      "2020"
+    ]
+  },
+  {
     "author": "geriandre",
     "description": "Arithmetic Job Simulator",
     "genre": "Simulation",
@@ -103502,18 +103516,107 @@
     ]
   },
   {
+    "author": "IcefoxZettai",
+    "description": "Roll & Pound your way!",
+    "genre": "Platformer",
+    "id": "858170",
+    "link": "https://icefoxzettai.itch.io/time-pound",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTk0NjMucG5n/315x250%23c/AgFeGr.png",
+    "title": "Time Pound",
+    "video": null,
+    "scrapeWords": [
+      "Time",
+      "Pound"
+    ]
+  },
+  {
     "author": "Criepstar",
     "description": "Endless Runner in Godot",
     "genre": null,
     "id": "858320",
-    "link": "https://criepstar.itch.io/mobile-game",
+    "link": "https://criepstar.itch.io/storm-flight",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ4MTY4NzIucG5n/315x250%23c/KN0g%2Ba.png",
-    "title": "Mobile Game",
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjM0OTEucG5n/315x250%23c/z%2Fn4pE.png",
+    "title": "Storm Flight",
     "video": null,
     "scrapeWords": [
-      "Mobile",
-      "Game"
+      "Storm",
+      "Flight"
+    ]
+  },
+  {
+    "author": "ChronoRevers",
+    "description": "A PvP local multiplayer",
+    "genre": "Shooter",
+    "id": "858350",
+    "link": "https://chronorevers.itch.io/duel-tanks",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTcwMDIucG5n/315x250%23c/iL%2BylK.png",
+    "title": "Duel Tanks",
+    "video": null,
+    "scrapeWords": [
+      "Duel",
+      "Tanks"
+    ]
+  },
+  {
+    "author": "Maestro",
+    "description": "The Classic Pong",
+    "genre": null,
+    "id": "858496",
+    "link": "https://maestro313.itch.io/pong-champs",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTc5NDkucG5n/315x250%23c/pCyj1X.png",
+    "title": "Pong Champs",
+    "video": null,
+    "scrapeWords": [
+      "Pong",
+      "Champs"
+    ]
+  },
+  {
+    "author": "HaydenBlomfield",
+    "description": "A Cowboy dueling bandits and alien saucers",
+    "genre": "Shooter",
+    "id": "858542",
+    "link": "https://haydenblomfield.itch.io/throwman-mcgee",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjAyMjcucG5n/315x250%23c/aBX%2BTC.png",
+    "title": "Throwman McGee",
+    "video": null,
+    "scrapeWords": [
+      "Throwman",
+      "Mc",
+      "Gee"
+    ]
+  },
+  {
+    "author": "Alexander",
+    "description": "A simple 3D maze that I made in Godot",
+    "genre": "Adventure",
+    "id": "859301",
+    "link": "https://lordop.itch.io/3d-maze",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjI5ODcucG5n/315x250%23c/F5sc3w.png",
+    "title": "3D Maze",
+    "video": null,
+    "scrapeWords": [
+      "3",
+      "D",
+      "Maze"
     ]
   },
   {
