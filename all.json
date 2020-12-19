@@ -68240,11 +68240,11 @@
     ]
   },
   {
-    "author": "fedev",
+    "author": "hitdev",
     "description": "Esquiva las rocas para evitar ser destruido!",
     "genre": null,
     "id": "671334",
-    "link": "https://fedevgd.itch.io/spacerock",
+    "link": "https://hitdev.itch.io/spacerock",
     "platforms": [
       "Windows",
       "Linux",
@@ -68666,16 +68666,13 @@
     "description": "Puzzle Adventure Game",
     "genre": "Puzzle",
     "id": "673683",
-    "link": "https://terragos.itch.io/cubit-crawler",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MzYyNDUucG5n/315x250%23c/Ex0qmS.png",
-    "title": "Cubit Crawler",
+    "link": "https://terragos.itch.io/carrot-crawler",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjU3MzkucG5n/315x250%23c/H4Xizq.png",
+    "title": "Carrot Crawler",
     "video": null,
     "scrapeWords": [
-      "Cubit",
+      "Carrot",
       "Crawler"
     ]
   },
@@ -68767,11 +68764,11 @@
     ]
   },
   {
-    "author": "TerraDev",
+    "author": "TerraDev64",
     "description": "She lurks in the fog...",
     "genre": "Survival",
     "id": "674358",
-    "link": "https://terradev.itch.io/windkill",
+    "link": "https://terradev64.itch.io/windkill",
     "platforms": [
       "Windows",
       "Linux"
@@ -70806,11 +70803,11 @@
     ]
   },
   {
-    "author": "fedev",
+    "author": "hitdev",
     "description": "Reach the goal in less than 10 seconds or you will have lost!",
     "genre": "Puzzle",
     "id": "683778",
-    "link": "https://fedevgd.itch.io/10secondstogo",
+    "link": "https://hitdev.itch.io/10secondstogo",
     "platforms": [
       "Windows",
       "Linux",
@@ -72473,11 +72470,11 @@
     ]
   },
   {
-    "author": "fedev",
+    "author": "hitdev",
     "description": "No permitas que corten tu fruta favorita en pedacitos!",
     "genre": null,
     "id": "693462",
-    "link": "https://fedevgd.itch.io/dodgy-fruit",
+    "link": "https://hitdev.itch.io/dodgy-fruit",
     "platforms": [
       "Windows",
       "Linux",
@@ -79123,11 +79120,11 @@
     ]
   },
   {
-    "author": "fedev",
+    "author": "hitdev",
     "description": "The title itself is telling you the description of the game XD",
     "genre": "Action",
     "id": "717385",
-    "link": "https://fedevgd.itch.io/shootordiexd",
+    "link": "https://hitdev.itch.io/shootordiexd",
     "platforms": [
       "Windows",
       "Linux",
@@ -79381,11 +79378,11 @@
     ]
   },
   {
-    "author": "fedev",
+    "author": "hitdev",
     "description": "Escape from the maze in less than 2 minutes.",
     "genre": null,
     "id": "719020",
-    "link": "https://fedevgd.itch.io/the-maze",
+    "link": "https://hitdev.itch.io/the-maze",
     "platforms": [
       "Windows",
       "Linux",
@@ -85895,6 +85892,22 @@
     ]
   },
   {
+    "author": "sinistro25",
+    "description": "Top-Down Horde Survival Shooter - Survive for as along as you can.",
+    "genre": "Action",
+    "id": "744371",
+    "link": "https://sinistro25.itch.io/slay-the-horde",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQyMTg1MjIucG5n/315x250%23c/qb%2BTL6.png",
+    "title": "Slay the Horde",
+    "video": null,
+    "scrapeWords": [
+      "Slay",
+      "the",
+      "Horde"
+    ]
+  },
+  {
     "author": "Sterki Herz",
     "description": "A fun puzzle & cooking game...with animals! ~",
     "genre": "Puzzle",
@@ -88772,7 +88785,7 @@
   {
     "author": "Viroid Games",
     "description": "Mead Crafter is a lively casual game that serves match-three fun with a twist!",
-    "genre": "Strategy",
+    "genre": "Puzzle",
     "id": "758710",
     "link": "https://viroidgames.itch.io/mead-crafter",
     "platforms": [
@@ -96656,7 +96669,7 @@
     ]
   },
   {
-    "author": "thenonsense",
+    "author": "NoNsense",
     "description": "Monsterpads switch worlds (Godot engine used)",
     "genre": "Puzzle",
     "id": "804050",
@@ -99678,6 +99691,24 @@
     ]
   },
   {
+    "author": "Taylor",
+    "description": "Gravity Golf Platformer game",
+    "genre": "Platformer",
+    "id": "826241",
+    "link": "https://tayweee.itch.io/gravity-core",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MzM0OTYucG5n/315x250%23c/4bM97n.png",
+    "title": "Gravity Core",
+    "video": null,
+    "scrapeWords": [
+      "Gravity",
+      "Core"
+    ]
+  },
+  {
     "author": "adrianbelmont",
     "description": "A small physics based adventure game, evolved out of our 2020 Game Jam.",
     "genre": "Action",
@@ -99748,6 +99779,25 @@
     "scrapeWords": [
       "PC",
       "Adventure"
+    ]
+  },
+  {
+    "author": "TANmasterisME",
+    "description": "Parkcore with a gun and you main objective is find and touching the red orbs",
+    "genre": "Platformer",
+    "id": "827365",
+    "link": "https://tanmasterisme.itch.io/parkcore-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzU2NDEucG5n/315x250%23c/Nr1vGO.png",
+    "title": "Parkcore Game",
+    "video": null,
+    "scrapeWords": [
+      "Parkcore",
+      "Game"
     ]
   },
   {
@@ -101960,7 +102010,9 @@
     "id": "840920",
     "link": "https://bearlikelion.itch.io/mpdc",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -103286,7 +103338,6 @@
     "id": "854884",
     "link": "https://audiomax.itch.io/resound",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MjI5NTQucG5n/315x250%23c/IEdq7H.png",
@@ -103364,6 +103415,23 @@
       "On",
       "Your",
       "Mask"
+    ]
+  },
+  {
+    "author": "Nielstupido",
+    "description": "Find the EXIT.",
+    "genre": "Puzzle",
+    "id": "855295",
+    "link": "https://nielstupido.itch.io/the-exit",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTYzMzguanBn/315x250%23c/a%2B96xd.jpg",
+    "title": "The Exit",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Exit"
     ]
   },
   {
@@ -103586,11 +103654,11 @@
     ]
   },
   {
-    "author": "HaydenBlomfield",
+    "author": "CoolAsIceTea",
     "description": "A Cowboy dueling bandits and alien saucers",
     "genre": "Shooter",
     "id": "858542",
-    "link": "https://haydenblomfield.itch.io/throwman-mcgee",
+    "link": "https://cool-as-ice-tea.itch.io/throwman-mcgee",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4MjAyMjcucG5n/315x250%23c/aBX%2BTC.png",
     "title": "Throwman McGee",
@@ -103617,6 +103685,56 @@
       "3",
       "D",
       "Maze"
+    ]
+  },
+  {
+    "author": "Uroboros Studios",
+    "description": "An Endless Geometry-Dash-like Game!",
+    "genre": "Platformer",
+    "id": "859833",
+    "link": "https://uroborosstudios.itch.io/jumpsofendless",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjU5NDUucG5n/315x250%23c/yz9SGq.png",
+    "title": "Jumps of Endless",
+    "video": null,
+    "scrapeWords": [
+      "Jumps",
+      "of",
+      "Endless"
+    ]
+  },
+  {
+    "author": "thedonotknow",
+    "description": "Be egg, achieve greatness!",
+    "genre": "Platformer",
+    "id": "859837",
+    "link": "https://thedonotknow.itch.io/babushka",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjYxMjMuZ2lm/315x250%23cm/C1g0Jp.gif",
+    "title": "Babushka!",
+    "video": "https://img.itch.zone/aW1nLzQ4MjYxMjMuZ2lm/original/VBmIeY.gif",
+    "scrapeWords": [
+      "Babushka"
+    ]
+  },
+  {
+    "author": "Nathcra Games",
+    "description": "Climb a Mountain as Macy!",
+    "genre": "Platformer",
+    "id": "859896",
+    "link": "https://nathcra-games.itch.io/macys-winter-climb",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjY3MzkucG5n/315x250%23c/wemPm6.png",
+    "title": "Macy's Mountain Climb",
+    "video": null,
+    "scrapeWords": [
+      "Macys",
+      "Mountain",
+      "Climb"
     ]
   },
   {
