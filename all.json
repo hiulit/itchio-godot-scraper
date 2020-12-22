@@ -67830,20 +67830,21 @@
   },
   {
     "author": "PlantLeaf",
-    "description": "an 8bit platformer (prototype)",
-    "genre": null,
+    "description": "an 8bit platformer",
+    "genre": "Action",
     "id": "669119",
-    "link": "https://plantleaf-studios.itch.io/ricky-runs",
+    "link": "https://plantleaf-studios.itch.io/rickeys-lab",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM2MzY5MTcucG5n/315x250%23c/qjKDaM.png",
-    "title": "Ricky Runs",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDU1NjcucG5n/315x250%23c/Hm7Kr5.png",
+    "title": "Rickey's Lab",
     "video": null,
     "scrapeWords": [
-      "Ricky",
-      "Runs"
+      "Rickeys",
+      "Lab"
     ]
   },
   {
@@ -68384,11 +68385,11 @@
     ]
   },
   {
-    "author": "Minute Millenium",
+    "author": "Fortress Nebula",
     "description": "The lower down you go, the stronger gravity gets!",
     "genre": "Platformer",
     "id": "671734",
-    "link": "https://minutemillenium.itch.io/gravity-well",
+    "link": "https://fortress-nebula.itch.io/gravity-well",
     "platforms": [
       "Windows",
       "macOS"
@@ -70361,10 +70362,7 @@
     "genre": "Action",
     "id": "682458",
     "link": "https://jhyde.itch.io/antibody",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ0NDAxMzcucG5n/315x250%23c/mq1Bax.png",
     "title": "Antibody",
     "video": null,
@@ -94791,7 +94789,7 @@
   {
     "author": "NomadicRockMan",
     "description": null,
-    "genre": null,
+    "genre": "Strategy",
     "id": "791076",
     "link": "https://nomadicrockman.itch.io/spaceyard",
     "platforms": [
@@ -99918,6 +99916,23 @@
     ]
   },
   {
+    "author": "phaserDev",
+    "description": "ever changing platformer with everything changing every 10 mins or so",
+    "genre": "Platformer",
+    "id": "828099",
+    "link": "https://phaserdev.itch.io/phaser",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDQxNjYucG5n/315x250%23c/SmOfpl.png",
+    "title": "Phaser",
+    "video": null,
+    "scrapeWords": [
+      "Phaser"
+    ]
+  },
+  {
     "author": "hahaitsjeff",
     "description": "A midnight stroll up a tall stone tower",
     "genre": "Adventure",
@@ -102838,7 +102853,8 @@
     "id": "847915",
     "link": "https://alexkun.itch.io/ostamerrent",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NTM2MjQucG5n/315x250%23c/41%2BMx9.png",
     "title": "Ostamerrent",
@@ -103136,6 +103152,21 @@
     "scrapeWords": [
       "True",
       "North"
+    ]
+  },
+  {
+    "author": "Dilacrius",
+    "description": "Do you have what it takes to  kick out a rabbit from your property?",
+    "genre": "Strategy",
+    "id": "852366",
+    "link": "https://dilacrius.itch.io/rabbit-punk",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODQ2MjQucG5n/315x250%23c/MsDO9R.png",
+    "title": "Rabbit Punk!",
+    "video": null,
+    "scrapeWords": [
+      "Rabbit",
+      "Punk"
     ]
   },
   {
@@ -103520,6 +103551,7 @@
     "id": "854884",
     "link": "https://audiomax.itch.io/resound",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4NDIyNTUucG5n/315x250%23c/oUAOEj.png",
@@ -103791,6 +103823,20 @@
     "scrapeWords": [
       "Ticket",
       "Vendor"
+    ]
+  },
+  {
+    "author": "Get Rek'd Gaming",
+    "description": "A top down cat based survival game.",
+    "genre": "Survival",
+    "id": "857435",
+    "link": "https://get-rekd-gaming.itch.io/felinus",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4Mzk5NDgucG5n/315x250%23c/2nb%2BW3.png",
+    "title": "Felinus",
+    "video": null,
+    "scrapeWords": [
+      "Felinus"
     ]
   },
   {
@@ -104260,6 +104306,25 @@
     ]
   },
   {
+    "author": "CodingKaiju",
+    "description": null,
+    "genre": "Shooter",
+    "id": "861116",
+    "link": "https://codingkaiju.itch.io/shotgun-christmas",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDUzMDMucG5n/315x250%23c/y714Ud.png",
+    "title": "Shotgun Christmas",
+    "video": null,
+    "scrapeWords": [
+      "Shotgun",
+      "Christmas"
+    ]
+  },
+  {
     "author": "ColdCalzone",
     "description": "The world's greatest cooking competition to make the Ultimate Omlette!",
     "genre": null,
@@ -104340,7 +104405,8 @@
     "link": "https://vaibhavkr.itch.io/alien-invaders",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4Mzc1NDEucG5n/315x250%23c/fKwOXk.png",
     "title": "Alien Invaders : Shoot'em Up",
@@ -104416,7 +104482,8 @@
     "link": "https://crape.itch.io/icedros-frosty-labyrinth-2",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MzgwNjkucG5n/315x250%23c/2Fw9PN.png",
     "title": "Icedro's Frosty Labyrinth 2",
@@ -104584,6 +104651,91 @@
     "scrapeWords": [
       "The",
       "Escape"
+    ]
+  },
+  {
+    "author": "Ferdy's Lab",
+    "description": "A short and cute touhou fan-game where you can feed a hungry Rumia.",
+    "genre": null,
+    "id": "862772",
+    "link": "https://ferdyslab.itch.io/gloomy-eater",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDM1MjEucG5n/315x250%23c/YR6nYU.png",
+    "title": "Gloomy Eater",
+    "video": null,
+    "scrapeWords": [
+      "Gloomy",
+      "Eater"
+    ]
+  },
+  {
+    "author": "DespitetheMonkey",
+    "description": "Help the Arts Sector Elf jump through hoops to secure support payments so they can survive until Christmas!",
+    "genre": null,
+    "id": "863049",
+    "link": "https://despitethemonkey.itch.io/rishis-festive-sunak-attack",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDUxOTYucG5n/315x250%23c/uRyC7K.png",
+    "title": "Rishi's Festive Sunak Attack",
+    "video": null,
+    "scrapeWords": [
+      "Rishis",
+      "Festive",
+      "Sunak",
+      "Attack"
+    ]
+  },
+  {
+    "author": "vvamavv",
+    "description": "A Godot-made open-source remake of a Mario mini game.",
+    "genre": "Action",
+    "id": "863406",
+    "link": "https://vvamavv.itch.io/new-super-mario-bros-bomb-godot-remake",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDc1NTIucG5n/315x250%23c/zAvkFf.png",
+    "title": "A NSMB-bomb-minigame remake (sourcecode, Godot)",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "NSMB-bomb-minigame",
+      "remake",
+      "sourcecode",
+      "Godot"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "A job's a job",
+    "genre": "Puzzle",
+    "id": "863598",
+    "link": "https://jafcraze.itch.io/corporate-office-drone",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDg3OTYucG5n/315x250%23c/ayv6wp.png",
+    "title": "Corporate Office Drone",
+    "video": null,
+    "scrapeWords": [
+      "Corporate",
+      "Office",
+      "Drone"
+    ]
+  },
+  {
+    "author": "lpancho",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "863722",
+    "link": "https://lpancho.itch.io/pangoy",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDkzNjAucG5n/315x250%23c/FQTYDP.png",
+    "title": "PanGoy",
+    "video": null,
+    "scrapeWords": [
+      "Pan",
+      "Goy"
     ]
   },
   {
