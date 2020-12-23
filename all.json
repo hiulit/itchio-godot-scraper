@@ -5647,7 +5647,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE5NjU4MTIuZ2lm/315x250%23cm/L29c2p.gif",
     "title": "A:\\dventure",
-    "video": "https://img.itch.zone/aW1nLzE5NjU4MTIuZ2lm/original/sm1Gmr.gif",
+    "video": null,
     "scrapeWords": [
       "Adventure"
     ]
@@ -21899,7 +21899,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQyMDYzNjIuanBn/315x250%23c/pztdMQ.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTUwODguanBn/315x250%23c/1VphC%2F.jpg",
     "title": "[WINDOWS] Chyrkyan Trial II",
     "video": null,
     "scrapeWords": [
@@ -27369,7 +27369,7 @@
     "platforms": [
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzAuanBn/315x250%23c/59b9Iw.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTQ5OTEuanBn/315x250%23c/LmI9sp.jpg",
     "title": "[MAC] Chyrkyan Trial II",
     "video": null,
     "scrapeWords": [
@@ -27388,7 +27388,7 @@
     "platforms": [
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NTkuanBn/315x250%23c/KRxwe4.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTQ3OTAuanBn/315x250%23c/60RNVz.jpg",
     "title": "[LINUX] Chyrkyan Trial II",
     "video": null,
     "scrapeWords": [
@@ -38443,7 +38443,7 @@
     "platforms": [
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NzMuanBn/315x250%23c/UfhKiN.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTQ5NDQuanBn/315x250%23c/jLE0FH.jpg",
     "title": "[MAC] The Ahriman Project I",
     "video": null,
     "scrapeWords": [
@@ -38483,7 +38483,7 @@
     "platforms": [
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5ODc4NjcuanBn/315x250%23c/iLqKz8.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTQ4MzAuanBn/315x250%23c/roW173.jpg",
     "title": "[LINUX] The Ahriman Project I",
     "video": null,
     "scrapeWords": [
@@ -68704,7 +68704,8 @@
     "id": "673683",
     "link": "https://terragos.itch.io/carrot-crawler",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MjU3MzkucG5n/315x250%23c/H4Xizq.png",
     "title": "Carrot Crawler",
@@ -72334,7 +72335,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5MzQ1OTguZ2lm/315x250%23cm/8%2FOEhq.gif",
     "title": "Edna - Out of sight, out of control",
-    "video": "https://img.itch.zone/aW1nLzM5MzQ1OTguZ2lm/original/zY3grn.gif",
+    "video": null,
     "scrapeWords": [
       "Edna",
       "Out",
@@ -72638,7 +72639,7 @@
     ]
   },
   {
-    "author": "markman4897",
+    "author": "Mark",
     "description": "Help Garry the Grenade pay his rent by collecting coins and avoiding deadly spikes!",
     "genre": "Platformer",
     "id": "693703",
@@ -76502,7 +76503,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MzQ3MDAucG5n/315x250%23c/KjPOlP.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTMzNDkucG5n/315x250%23c/jsGYrn.png",
     "title": "Astrofield",
     "video": null,
     "scrapeWords": [
@@ -93562,9 +93563,7 @@
     "genre": "Action",
     "id": "781737",
     "link": "https://beeznutzdev.itch.io/overkill",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4MzM2NzAucG5n/315x250%23c/T3QEtQ.png",
     "title": "OVERKILL",
     "video": null,
@@ -93692,11 +93691,11 @@
     "link": "https://pedrorns.itch.io/democracia-socratica",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3OTQ3MjEucG5n/315x250%23c/Wy1Rl0.png",
-    "title": "Democracia Socratica",
+    "title": "Socratic Democracy",
     "video": null,
     "scrapeWords": [
-      "cracia",
-      "Socratica"
+      "Socratic",
+      "cracy"
     ]
   },
   {
@@ -98129,11 +98128,11 @@
     ]
   },
   {
-    "author": "Martin Firbacher",
+    "author": "Daisy Games",
     "description": "The sheep are lazy! Daisy the German shepherd must use her wits to lead the sheep and make them eat all the grass!",
     "genre": "Puzzle",
     "id": "813480",
-    "link": "https://firmar.itch.io/sheep",
+    "link": "https://daisy-games.itch.io/sheep",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1NjIwMTAucG5n/315x250%23c/N8pV%2BK.png",
     "title": "Sheep",
@@ -99733,11 +99732,11 @@
     ]
   },
   {
-    "author": "Taylor",
+    "author": "AxFive",
     "description": "Gravity Golf Platformer game",
     "genre": "Platformer",
     "id": "826241",
-    "link": "https://tayweee.itch.io/gravity-core",
+    "link": "https://axfive.itch.io/gravity-core",
     "platforms": [
       "Windows",
       "Linux"
@@ -100131,7 +100130,7 @@
   },
   {
     "author": "BeanieBagGames",
-    "description": "your a ball, escape the box. use A, D and Spacebar to roll left, right and jump, this is intended to be a rage game.",
+    "description": "your a ball, escape the box. use A, D and Spacebar to roll left, right and jump.",
     "genre": "Platformer",
     "id": "829178",
     "link": "https://beaniebaggames.itch.io/escape-the-box",
@@ -101372,23 +101371,6 @@
     ]
   },
   {
-    "author": "psychopomp",
-    "description": "Protect your moon from strange spacecrafts.",
-    "genre": "Action",
-    "id": "837477",
-    "link": "https://psychopomp.itch.io/lunar-leap",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2OTQyMzcucG5n/315x250%23c/Za%2FgV1.png",
-    "title": "Lunar Leap",
-    "video": null,
-    "scrapeWords": [
-      "Lunar",
-      "Leap"
-    ]
-  },
-  {
     "author": "Joseph Cantrell",
     "description": "Run through your shadowed infernal world.",
     "genre": "Platformer",
@@ -101549,7 +101531,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2OTg2NzIuZ2lm/315x250%23cm/ZXNBP4.gif",
     "title": "Paralunar",
-    "video": "https://img.itch.zone/aW1nLzQ2OTg2NzIuZ2lm/original/cx2fEC.gif",
+    "video": null,
     "scrapeWords": [
       "Paralunar"
     ]
@@ -103545,6 +103527,26 @@
     ]
   },
   {
+    "author": "CreekWorks",
+    "description": "Destroy your opponent and claim victory!​",
+    "genre": "Action",
+    "id": "854822",
+    "link": "https://creekworks.itch.io/secret-shootout",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTIzODYucG5n/315x250%23c/m1pADM.png",
+    "title": "Secret Shootout",
+    "video": null,
+    "scrapeWords": [
+      "Secret",
+      "Shootout"
+    ]
+  },
+  {
     "author": "audiomax",
     "description": null,
     "genre": "Puzzle",
@@ -103998,6 +104000,24 @@
     ]
   },
   {
+    "author": "Yatchan",
+    "description": null,
+    "genre": "Action",
+    "id": "858647",
+    "link": "https://yatchan.itch.io/blue-fish-goes-treasure-hunting",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTkwMzkucG5n/315x250%23c/UBbg%2F5.png",
+    "title": "Blue Fish Goes Treasure Hunting",
+    "video": null,
+    "scrapeWords": [
+      "Blue",
+      "Fish",
+      "Goes",
+      "Treasure",
+      "Hunting"
+    ]
+  },
+  {
     "author": "Alexander",
     "description": "A simple 3D maze that I made in Godot",
     "genre": "Adventure",
@@ -104140,7 +104160,7 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MzYyODgucG5n/315x250%23c/TQDfTx.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTMxNDQucG5n/315x250%23c/vk1Jkc.png",
     "title": "Eggimals",
     "video": null,
     "scrapeWords": [
@@ -104148,7 +104168,7 @@
     ]
   },
   {
-    "author": "markman4897",
+    "author": "Mark",
     "description": "Merry Christmas!",
     "genre": "Visual Novel",
     "id": "860437",
@@ -104353,9 +104373,9 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MzkxMjYucG5n/315x250%23c/%2BPGUxk.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTM0MTkuZ2lm/315x250%23cm/98c0oH.gif",
     "title": "Soul Shepherd",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzQ4NTM0MTkuZ2lm/original/ZG2ey2.gif",
     "scrapeWords": [
       "Soul",
       "Shepherd"
@@ -104723,7 +104743,7 @@
   },
   {
     "author": "lpancho",
-    "description": null,
+    "description": "Fish to solve the missing piece!",
     "genre": "Puzzle",
     "id": "863722",
     "link": "https://lpancho.itch.io/pangoy",
@@ -104736,6 +104756,21 @@
     "scrapeWords": [
       "Pan",
       "Goy"
+    ]
+  },
+  {
+    "author": "petenotpete",
+    "description": "A game I made with my oldest daughter a few years ago",
+    "genre": "Action",
+    "id": "863859",
+    "link": "https://petenotpete.itch.io/hannahsgame",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTAyMjUucG5n/315x250%23c/A5sC7d.png",
+    "title": "Hannah's Game",
+    "video": null,
+    "scrapeWords": [
+      "Hannahs",
+      "Game"
     ]
   },
   {
