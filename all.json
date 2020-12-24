@@ -5647,7 +5647,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE5NjU4MTIuZ2lm/315x250%23cm/L29c2p.gif",
     "title": "A:\\dventure",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzE5NjU4MTIuZ2lm/original/sm1Gmr.gif",
     "scrapeWords": [
       "Adventure"
     ]
@@ -32012,7 +32012,7 @@
     ]
   },
   {
-    "author": "rcorre",
+    "author": "Ryan",
     "description": "A battle between two liches! Gonetplay3 game jam entry",
     "genre": "Action",
     "id": "437681",
@@ -38423,7 +38423,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQyMDYzMzAuanBn/315x250%23c/0hzuaj.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTUxNjYuanBn/315x250%23c/fgctPs.jpg",
     "title": "[WINDOWS] The Ahriman Project I",
     "video": null,
     "scrapeWords": [
@@ -42714,27 +42714,6 @@
     "scrapeWords": [
       "Heroes",
       "Arena"
-    ]
-  },
-  {
-    "author": "World Eater Games",
-    "description": "Tough boss-rush adventure game where you can turn back time in combat to mend your mistakes... Or create new ones!",
-    "genre": "Action",
-    "id": "509442",
-    "link": "https://worldeater-dev.itch.io/project-sigma",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDM1NDIuanBn/315x250%23c/vgJbNb.jpg",
-    "title": "Project: Sigma (Title Pending) DEMO",
-    "video": null,
-    "scrapeWords": [
-      "Project",
-      "Sigma",
-      "Title",
-      "Pending"
     ]
   },
   {
@@ -55232,7 +55211,7 @@
   },
   {
     "author": "XIMPLE APPS",
-    "description": "Poison Bubble Season 5",
+    "description": "Poison Bubble Christmas",
     "genre": null,
     "id": "602701",
     "link": "https://ximpleapps.itch.io/poison-bubble",
@@ -56762,7 +56741,9 @@
     "genre": "Adventure",
     "id": "611405",
     "link": "https://takelime.itch.io/everplant",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0MDUxNTUucG5n/315x250%23c/ZbpR69.png",
     "title": "Everplant",
     "video": null,
@@ -61946,7 +61927,7 @@
   },
   {
     "author": "Maaack",
-    "description": "Second Project in Godot",
+    "description": "Second Project in Godot. A maze-like game.",
     "genre": "Puzzle",
     "id": "633266",
     "link": "https://maaack.itch.io/node-traversal",
@@ -71269,22 +71250,6 @@
     ]
   },
   {
-    "author": "Zouhair OB",
-    "description": "A game made in 4 Days but let's make it in 1 WEEK for a Youtube video since it's more clickable. Big Brain",
-    "genre": "Rhythm",
-    "id": "686401",
-    "link": "https://zouhair-ob.itch.io/dash-datass",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM3ODk0ODQucG5n/315x250%23c/saIMM%2B.png",
-    "title": "Dash DatASS",
-    "video": null,
-    "scrapeWords": [
-      "Dash",
-      "Dat",
-      "ASS"
-    ]
-  },
-  {
     "author": "Poordoor",
     "description": "A shoot 'em up",
     "genre": "Shooter",
@@ -72335,7 +72300,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzM5MzQ1OTguZ2lm/315x250%23cm/8%2FOEhq.gif",
     "title": "Edna - Out of sight, out of control",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzM5MzQ1OTguZ2lm/original/zY3grn.gif",
     "scrapeWords": [
       "Edna",
       "Out",
@@ -80790,7 +80755,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3OTQwODkucG5n/315x250%23c/V54TmI.png",
     "title": "Roboggled",
@@ -85269,9 +85235,9 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQyMDEyMTQuZ2lm/315x250%23cm/FfZDEd.gif",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTg1ODAuanBn/315x250%23c/35jtkS.jpg",
     "title": "Tempus Bound [demo]",
-    "video": "https://img.itch.zone/aW1nLzQyMDEyMTQuZ2lm/original/C0uTrl.gif",
+    "video": null,
     "scrapeWords": [
       "Tempus",
       "Bound",
@@ -85727,7 +85693,7 @@
     ]
   },
   {
-    "author": "rcorre",
+    "author": "Ryan",
     "description": "3D models with emissive glow outlines",
     "genre": "Action",
     "id": "743572",
@@ -88971,6 +88937,25 @@
     "scrapeWords": [
       "Absolute",
       "Gunman"
+    ]
+  },
+  {
+    "author": "Zouhair OB",
+    "description": "Chrome Dino Remastered in Godot",
+    "genre": "Adventure",
+    "id": "760433",
+    "link": "https://zouhair-ob.itch.io/trex-chrome-3d",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTczMjIucG5n/315x250%23c/L3l50N.png",
+    "title": "Trex Chrome 3D",
+    "video": null,
+    "scrapeWords": [
+      "Trex",
+      "Chrome",
+      "3",
+      "D"
     ]
   },
   {
@@ -93563,7 +93548,10 @@
     "genre": "Action",
     "id": "781737",
     "link": "https://beeznutzdev.itch.io/overkill",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MzM2NzAucG5n/315x250%23c/T3QEtQ.png",
     "title": "OVERKILL",
     "video": null,
@@ -96342,6 +96330,25 @@
     "video": null,
     "scrapeWords": [
       "ネオンショット"
+    ]
+  },
+  {
+    "author": "World Eater Games",
+    "description": null,
+    "genre": "Adventure",
+    "id": "801582",
+    "link": "https://worldeater-dev.itch.io/bittersweet-birthday",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjkwNDMuanBn/315x250%23c/VdZ49I.jpg",
+    "title": "Bittersweet Birthday",
+    "video": null,
+    "scrapeWords": [
+      "Bittersweet",
+      "Birthday"
     ]
   },
   {
@@ -99715,6 +99722,25 @@
     ]
   },
   {
+    "author": "kraxarn",
+    "description": "Christmas themed tower defense game",
+    "genre": "Strategy",
+    "id": "825923",
+    "link": "https://kraxarn.itch.io/kraxmastd",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTc4MDkucG5n/315x250%23c/TbGNFt.png",
+    "title": "KraxmasTD",
+    "video": null,
+    "scrapeWords": [
+      "Kraxmas",
+      "TD"
+    ]
+  },
+  {
     "author": "ExoPrism",
     "description": null,
     "genre": null,
@@ -101531,7 +101557,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2OTg2NzIuZ2lm/315x250%23cm/ZXNBP4.gif",
     "title": "Paralunar",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzQ2OTg2NzIuZ2lm/original/cx2fEC.gif",
     "scrapeWords": [
       "Paralunar"
     ]
@@ -102086,9 +102112,7 @@
     "id": "840920",
     "link": "https://bearlikelion.itch.io/mpdc",
     "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -103751,7 +103775,7 @@
   },
   {
     "author": "Glitso",
-    "description": "Party based color matching puzzle game",
+    "description": "Party based pattern matching puzzle game",
     "genre": "Puzzle",
     "id": "856699",
     "link": "https://glitso.itch.io/battlebox",
@@ -103798,7 +103822,7 @@
   },
   {
     "author": "SeratoninRonin",
-    "description": null,
+    "description": "A fast-paced arcade shooter where it's you vs. the germs!",
     "genre": "Action",
     "id": "857092",
     "link": "https://seratoninronin.itch.io/germwarfare2020",
@@ -104170,7 +104194,7 @@
   {
     "author": "Mark",
     "description": "Merry Christmas!",
-    "genre": "Visual Novel",
+    "genre": "Puzzle",
     "id": "860437",
     "link": "https://markman4897.itch.io/christmas-card",
     "platforms": null,
@@ -104689,9 +104713,35 @@
     ]
   },
   {
+    "author": "rom100main",
+    "description": "A short adventure game where the goal is to repair a robot.",
+    "genre": "Platformer",
+    "id": "862907",
+    "link": "https://rom100main.itch.io/toby",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDQxNjUuanBn/315x250%23c/E81saW.jpg",
+    "title": "Toby and the robot: a short adventure game",
+    "video": null,
+    "scrapeWords": [
+      "Toby",
+      "and",
+      "the",
+      "robot",
+      "a",
+      "short",
+      "adventure",
+      "game"
+    ]
+  },
+  {
     "author": "DespitetheMonkey",
     "description": "Help the Arts Sector Elf jump through hoops to secure support payments so they can survive until Christmas!",
-    "genre": null,
+    "genre": "Rhythm",
     "id": "863049",
     "link": "https://despitethemonkey.itch.io/rishis-festive-sunak-attack",
     "platforms": null,
@@ -104771,6 +104821,76 @@
     "scrapeWords": [
       "Hannahs",
       "Game"
+    ]
+  },
+  {
+    "author": "YUME Interactive",
+    "description": "an unfinished platformer challenge",
+    "genre": "Platformer",
+    "id": "864462",
+    "link": "https://yumeindie.itch.io/go-on-demo",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTM5NTgucG5n/315x250%23c/K7FHof.png",
+    "title": "Go ON Demo",
+    "video": null,
+    "scrapeWords": [
+      "Go",
+      "ON"
+    ]
+  },
+  {
+    "author": "Quincy9000",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "864918",
+    "link": "https://quincy9000.itch.io/gravitorium",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTY5NzkucG5n/315x250%23c/kOPJcr.png",
+    "title": "Gravitorium",
+    "video": null,
+    "scrapeWords": [
+      "Gravitorium"
+    ]
+  },
+  {
+    "author": "Leandro Dreamer",
+    "description": "Salva al mundo esta navidad del corona-virus!",
+    "genre": "Action",
+    "id": "864922",
+    "link": "https://leandrodreamer.itch.io/coronaclaus",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTc3NjcucG5n/315x250%23c/2FGctP.png",
+    "title": "CoronaClaus",
+    "video": null,
+    "scrapeWords": [
+      "Corona",
+      "Claus"
+    ]
+  },
+  {
+    "author": "YoungArtifact",
+    "description": "Catch insects, unlock stuff",
+    "genre": null,
+    "id": "865156",
+    "link": "https://youngartifact.itch.io/catcherfrog",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTg0NjIucG5n/315x250%23c/KH%2BHOB.png",
+    "title": "Catcherfrog",
+    "video": null,
+    "scrapeWords": [
+      "Catcherfrog"
     ]
   },
   {
