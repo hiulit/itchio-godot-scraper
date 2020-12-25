@@ -15863,6 +15863,24 @@
     ]
   },
   {
+    "author": "tenori_o",
+    "description": "Project from Godot 24h book",
+    "genre": "Shooter",
+    "id": "294003",
+    "link": "https://tenori-o.itch.io/space-shooter",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjk0MDAzLzE0MzUzMTcucG5n/315x250%23c/sBcnOK.png",
+    "title": "Space Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Shooter"
+    ]
+  },
+  {
     "author": "paradev",
     "description": "you are a con artiste...",
     "genre": null,
@@ -33162,22 +33180,6 @@
     "scrapeWords": [
       "RED",
       "SUN"
-    ]
-  },
-  {
-    "author": "umarl",
-    "description": "This is a simple chat application made with Godot Engine and Node.js (hosted on Glitch.com)",
-    "genre": null,
-    "id": "446674",
-    "link": "https://umarl.itch.io/godot-websockets-chat",
-    "platforms": null,
-    "thumb": null,
-    "title": "Godot Webscokets Chat",
-    "video": null,
-    "scrapeWords": [
-      "Godot",
-      "Webscokets",
-      "Chat"
     ]
   },
   {
@@ -65790,21 +65792,6 @@
     ]
   },
   {
-    "author": "Shreyas Rao",
-    "description": "shoot-em-up",
-    "genre": "Shooter",
-    "id": "655385",
-    "link": "https://shreyas-rao.itch.io/space-shooter",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM1MjE2MDcucG5n/315x250%23c/0j%2FTDi.png",
-    "title": "Space Shooter",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Shooter"
-    ]
-  },
-  {
     "author": "trust_me",
     "description": "Battle the demon within",
     "genre": "Action",
@@ -72569,11 +72556,11 @@
     ]
   },
   {
-    "author": "TheMikirog",
+    "author": "TMikirog",
     "description": "Collect all of the blood and don't starve doing so.",
     "genre": "Puzzle",
     "id": "693581",
-    "link": "https://themikirog.itch.io/grim-pawn",
+    "link": "https://tmikirog.itch.io/grim-pawn",
     "platforms": [
       "Windows",
       "Linux",
@@ -79151,7 +79138,8 @@
     "link": "https://apple0726.itch.io/helixteus-3",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2ODQ2MjUucG5n/315x250%23c/AtQcFj.png",
     "title": "Helixteus 3",
@@ -93544,7 +93532,7 @@
   },
   {
     "author": "BeezNutzDev",
-    "description": "Overkill is a fast-paced action game that contains rogue-like elements.",
+    "description": "OVERKILL is a fast-paced action game that contains rogue-like elements.",
     "genre": "Action",
     "id": "781737",
     "link": "https://beeznutzdev.itch.io/overkill",
@@ -98593,7 +98581,7 @@
     ]
   },
   {
-    "author": "milicen",
+    "author": "Milicen",
     "description": "Jump and Hook",
     "genre": "Platformer",
     "id": "818568",
@@ -102286,7 +102274,8 @@
     "id": "842317",
     "link": "https://urodela.itch.io/beetle-bunt",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MjgwMjQuZ2lm/315x250%23cm/8xPyTk.gif",
     "title": "Beetle Bunt",
@@ -102382,7 +102371,7 @@
     "link": "https://amdotblacksheep.itch.io/deathguy",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3Mjc5NTIucG5n/315x250%23c/%2B9LXVo.png",
-    "title": "Death Guy",
+    "title": "DeathGuy",
     "video": null,
     "scrapeWords": [
       "Death",
@@ -104442,6 +104431,24 @@
     ]
   },
   {
+    "author": "3boood_pro",
+    "description": "التحديات القاضية",
+    "genre": "Fighting",
+    "id": "861574",
+    "link": "https://3boood-pro.itch.io/knockout-challenges",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MzU3MTIucG5n/315x250%23c/NkW9U%2B.png",
+    "title": "التحديات القاضية",
+    "video": null,
+    "scrapeWords": [
+      "التحديات",
+      "القاضية"
+    ]
+  },
+  {
     "author": "vaibhavkr",
     "description": "Shoot'em Up",
     "genre": "Shooter",
@@ -104636,6 +104643,7 @@
     "id": "862399",
     "link": "https://lavaduder.itch.io/samba-do-brazil",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4NDE0NjAucG5n/315x250%23c/SMqu1E.png",
@@ -104830,8 +104838,7 @@
     "id": "864462",
     "link": "https://yumeindie.itch.io/go-on-demo",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4NTM5NTgucG5n/315x250%23c/K7FHof.png",
     "title": "Go ON Demo",
@@ -104891,6 +104898,22 @@
     "video": null,
     "scrapeWords": [
       "Catcherfrog"
+    ]
+  },
+  {
+    "author": "Top Notch Games",
+    "description": "Battle to the death in the snow!",
+    "genre": "Shooter",
+    "id": "866046",
+    "link": "https://topnotchgames.itch.io/battelves",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjM1ODYucG5n/315x250%23c/yQKtda.png",
+    "title": "Battelves",
+    "video": null,
+    "scrapeWords": [
+      "Battelves"
     ]
   },
   {
