@@ -27982,6 +27982,25 @@
     ]
   },
   {
+    "author": "Vanne",
+    "description": "A simple puzzle game using only two buttons",
+    "genre": "Puzzle",
+    "id": "404133",
+    "link": "https://vanne.itch.io/lights-out",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Joshua 🐢",
     "description": "A happy birthday project for my friend who likes fries",
     "genre": "Survival",
@@ -47053,6 +47072,20 @@
     ]
   },
   {
+    "author": "dunkelgrau",
+    "description": "Verydisco is a arcade-like game which is easy to learn and hard to master.",
+    "genre": "Simulation",
+    "id": "545740",
+    "link": "https://dunkelgrau.itch.io/verydisco",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjYxNTgucG5n/315x250%23c/5s2lSN.png",
+    "title": "Verydisco",
+    "video": null,
+    "scrapeWords": [
+      "Verydisco"
+    ]
+  },
+  {
     "author": "Rafa Fiedo",
     "description": "Simple game on Godot engine",
     "genre": "Platformer",
@@ -50755,6 +50788,25 @@
       "TIME",
       "OF",
       "PLAGUE"
+    ]
+  },
+  {
+    "author": "Vsevolod Ganin",
+    "description": "Multiplayer Pong clone",
+    "genre": "Sports",
+    "id": "573119",
+    "link": "https://vsga.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -61343,21 +61395,6 @@
     ]
   },
   {
-    "author": "Yaann",
-    "description": "A 2.5D top down shooter based in the Hotline Miami universe",
-    "genre": "Action",
-    "id": "630934",
-    "link": "https://yaann.itch.io/missed-calls",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ0MjUwODkuZ2lm/315x250%23cm/55%2FdDW.gif",
-    "title": "Missed Calls",
-    "video": "https://img.itch.zone/aW1nLzQ0MjUwODkuZ2lm/original/HKFav%2B.gif",
-    "scrapeWords": [
-      "Missed",
-      "Calls"
-    ]
-  },
-  {
     "author": "Sammy_T",
     "description": "Everything is on fire.. this is fine.",
     "genre": null,
@@ -70331,7 +70368,10 @@
     "genre": "Action",
     "id": "682458",
     "link": "https://jhyde.itch.io/antibody",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NDAxMzcucG5n/315x250%23c/mq1Bax.png",
     "title": "Antibody",
     "video": null,
@@ -78590,21 +78630,6 @@
     ]
   },
   {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -80640,25 +80665,6 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
-    ]
-  },
-  {
-    "author": "KennyTheBard",
-    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
-    "genre": "Sports",
-    "id": "727007",
-    "link": "https://kennythebard.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -86348,14 +86354,16 @@
     "description": "Developing a Survival Horror in Godot. WIP.",
     "genre": "Survival",
     "id": "746982",
-    "link": "https://bimbam360.itch.io/loftly-project",
+    "link": "https://bimbam360.itch.io/estate-of-the-damned",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQyNjIwMTYucG5n/315x250%23c/FWwSRX.png",
-    "title": "Loftly Project",
+    "title": "Estate of the Damned",
     "video": null,
     "scrapeWords": [
-      "Loftly",
-      "Project"
+      "Estate",
+      "of",
+      "the",
+      "Damned"
     ]
   },
   {
@@ -91219,6 +91227,25 @@
     ]
   },
   {
+    "author": "Israel Ruiz",
+    "description": "Collect remnant as purple guy and avoid animetronics!",
+    "genre": "Survival",
+    "id": "770865",
+    "link": "https://movingentertainment.itch.io/fnafgodotgame",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1MDE2MDEucG5n/315x250%23c/fAGsyL.png",
+    "title": "Fnaf Godot Game Christmas of 2020",
+    "video": null,
+    "scrapeWords": [
+      "Fnaf",
+      "Godot",
+      "Game",
+      "Christmas",
+      "of",
+      "2020"
+    ]
+  },
+  {
     "author": "S.Y.B.I.O.T.E",
     "description": "survive the pandemic as u research the cure",
     "genre": "Simulation",
@@ -95653,11 +95680,11 @@
     ]
   },
   {
-    "author": "MagicalHuman",
+    "author": "lukk",
     "description": "many spooks await",
     "genre": "Role Playing",
     "id": "796994",
-    "link": "https://magicalhuman.itch.io/mansion-of-spooks",
+    "link": "https://lukk.itch.io/mansion-of-spooks",
     "platforms": [
       "Windows",
       "Linux",
@@ -96817,10 +96844,10 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4NDA2OTYucG5n/315x250%23c/rI688i.png",
-    "title": "Tile",
+    "title": "tile",
     "video": null,
     "scrapeWords": [
-      "Tile"
+      "tile"
     ]
   },
   {
@@ -102557,7 +102584,7 @@
     ]
   },
   {
-    "author": "kahagino",
+    "author": "Kahagino",
     "description": "2D old school top-down shooter",
     "genre": "Action",
     "id": "845267",
@@ -102724,6 +102751,25 @@
     "scrapeWords": [
       "Bilbos",
       "Revenge"
+    ]
+  },
+  {
+    "author": "Victor Hannibal",
+    "description": "A Deadly Premonition talking sim in GameBoy style.",
+    "genre": "Visual Novel",
+    "id": "846337",
+    "link": "https://vinegarhannibal.itch.io/friendlypremonition",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NTE4MzUucG5n/315x250%23c/q9tlkk.png",
+    "title": "Friendly Premonition",
+    "video": null,
+    "scrapeWords": [
+      "Friendly",
+      "Premonition"
     ]
   },
   {
@@ -103078,6 +103124,25 @@
     ]
   },
   {
+    "author": "Sir0Kuhl",
+    "description": "You would do everything to win 1 Million Dollars at a Gameshow.",
+    "genre": "Action",
+    "id": "851024",
+    "link": "https://sir0kuhl.itch.io/guess-or-get-less",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NzE1NTYuanBn/315x250%23c/%2BSetPC.jpg",
+    "title": "Guess Or Get Less",
+    "video": null,
+    "scrapeWords": [
+      "Guess",
+      "Or",
+      "Get",
+      "Less"
+    ]
+  },
+  {
     "author": "Nemesis™",
     "description": "The Fight for Freedom Begins",
     "genre": "Role Playing",
@@ -103205,7 +103270,7 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3ODUwMDYucG5n/315x250%23c/oqT6IM.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjcyNjgucG5n/315x250%23c/fRDDMc.png",
     "title": "Jigalong",
     "video": null,
     "scrapeWords": [
@@ -103841,6 +103906,24 @@
     ]
   },
   {
+    "author": "IRON LIVER GAME",
+    "description": "Goldfish Brain is a 2D scrolling platform action game . It adopts a Metroidvania-like design.​",
+    "genre": "Platformer",
+    "id": "857208",
+    "link": "https://ironlivergame.itch.io/goldfish-brain",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTAwMDIucG5n/315x250%23c/4e5ely.png",
+    "title": "GoldFish Brain",
+    "video": null,
+    "scrapeWords": [
+      "Gold",
+      "Fish",
+      "Brain"
+    ]
+  },
+  {
     "author": "Get Rek'd Gaming",
     "description": "A top down cat based survival game.",
     "genre": "Survival",
@@ -103923,6 +104006,21 @@
     "scrapeWords": [
       "Floppy",
       "Goalie"
+    ]
+  },
+  {
+    "author": "Tenmen Of Newcastle",
+    "description": null,
+    "genre": "Action",
+    "id": "858158",
+    "link": "https://tenmen-of-newcastle.itch.io/saving-hamigo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTU4OTMucG5n/315x250%23c/1RTKXn.png",
+    "title": "Saving Hamigo",
+    "video": null,
+    "scrapeWords": [
+      "Saving",
+      "Hamigo"
     ]
   },
   {
@@ -104145,13 +104243,13 @@
     ]
   },
   {
-    "author": "kahagino",
+    "author": "Kahagino",
     "description": "2D side view landing scene inspired from the movie",
     "genre": "Action",
     "id": "860162",
     "link": "https://kahagino.itch.io/dunkirk-land-the-plane",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ4MzY1OTQucG5n/315x250%23c/JGj7lx.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjY1MjIucG5n/315x250%23c/U4BKz3.png",
     "title": "Dunkirk Land the plane",
     "video": null,
     "scrapeWords": [
@@ -104838,7 +104936,8 @@
     "id": "864462",
     "link": "https://yumeindie.itch.io/go-on-demo",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4NTM5NTgucG5n/315x250%23c/K7FHof.png",
     "title": "Go ON Demo",
@@ -104846,6 +104945,22 @@
     "scrapeWords": [
       "Go",
       "ON"
+    ]
+  },
+  {
+    "author": "BornCG",
+    "description": "Memory! The Card Game",
+    "genre": "Card Game",
+    "id": "864522",
+    "link": "https://borncg.itch.io/memory",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTQzMDkucG5n/315x250%23c/2Ck%2BKp.png",
+    "title": "Memory! Card Game",
+    "video": null,
+    "scrapeWords": [
+      "Memory",
+      "Card",
+      "Game"
     ]
   },
   {
@@ -104884,6 +104999,24 @@
     ]
   },
   {
+    "author": "Iron Jupiter",
+    "description": "Tile-based, laser puzzle game",
+    "genre": "Puzzle",
+    "id": "865139",
+    "link": "https://ironjupiter.itch.io/space-n-lasers",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTgxNzYuanBn/315x250%23c/qozv%2Bp.jpg",
+    "title": "Space 'n Lasers",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "n",
+      "Lasers"
+    ]
+  },
+  {
     "author": "YoungArtifact",
     "description": "Catch insects, unlock stuff",
     "genre": null,
@@ -104901,6 +105034,23 @@
     ]
   },
   {
+    "author": "CosCom Art Group",
+    "description": "Medieval medicine simulator",
+    "genre": "Simulation",
+    "id": "865263",
+    "link": "https://coscom-art-group.itch.io/plague-md",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTg4OTMucG5n/315x250%23c/2Dmfx3.png",
+    "title": "Plague MD",
+    "video": null,
+    "scrapeWords": [
+      "Plague",
+      "MD"
+    ]
+  },
+  {
     "author": "Top Notch Games",
     "description": "Battle to the death in the snow!",
     "genre": "Shooter",
@@ -104914,6 +105064,57 @@
     "video": null,
     "scrapeWords": [
       "Battelves"
+    ]
+  },
+  {
+    "author": "Kahagino",
+    "description": "2D underwater diving challenge",
+    "genre": "Action",
+    "id": "866132",
+    "link": "https://kahagino.itch.io/diver-of-steel",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjU2NTkuZ2lm/315x250%23cm/%2BNp%2BTA.gif",
+    "title": "Diver Of Steel",
+    "video": "https://img.itch.zone/aW1nLzQ4NjU2NTkuZ2lm/original/IzGEny.gif",
+    "scrapeWords": [
+      "Diver",
+      "Of",
+      "Steel"
+    ]
+  },
+  {
+    "author": "Raformatico",
+    "description": "Ayuda a Milka a recuperar los regalos de 2020 y dale su merecido premio",
+    "genre": "Platformer",
+    "id": "866441",
+    "link": "https://raformatico.itch.io/milka2021",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjYxMzcucG5n/315x250%23c/NAAguY.png",
+    "title": "Feliz Navidad y feliz 2021",
+    "video": null,
+    "scrapeWords": [
+      "Feliz",
+      "Navidad",
+      "y",
+      "feliz",
+      "2021"
+    ]
+  },
+  {
+    "author": "Pings Lair",
+    "description": "2D Action Arcade Style Game with Elves saving presents from Snowmen.",
+    "genre": "Action",
+    "id": "866604",
+    "link": "https://pingslair.itch.io/elf-breakout",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjczNzUucG5n/315x250%23c/SBKAom.png",
+    "title": "Elf Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Elf",
+      "Breakout"
     ]
   },
   {
