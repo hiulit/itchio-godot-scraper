@@ -3809,7 +3809,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/315x250%23cm/oMMB4B.gif",
     "title": "Endhall",
-    "video": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/original/mcgM%2Ff.gif",
+    "video": null,
     "scrapeWords": [
       "Endhall"
     ]
@@ -15863,24 +15863,6 @@
     ]
   },
   {
-    "author": "tenori_o",
-    "description": "Project from Godot 24h book",
-    "genre": "Shooter",
-    "id": "294003",
-    "link": "https://tenori-o.itch.io/space-shooter",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjk0MDAzLzE0MzUzMTcucG5n/315x250%23c/sBcnOK.png",
-    "title": "Space Shooter",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Shooter"
-    ]
-  },
-  {
     "author": "paradev",
     "description": "you are a con artiste...",
     "genre": null,
@@ -19259,7 +19241,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE2OTYzMjMuZ2lm/315x250%23cm/Axsj40.gif",
     "title": "Eye of Ra",
-    "video": "https://img.itch.zone/aW1nLzE2OTYzMjMuZ2lm/original/qm5rk3.gif",
+    "video": null,
     "scrapeWords": [
       "Eye",
       "of",
@@ -29619,7 +29601,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/315x250%23cm/SUdaN5.gif",
     "title": "Guardian Sphere",
-    "video": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/original/KgP9oX.gif",
+    "video": null,
     "scrapeWords": [
       "Guardian",
       "Sphere"
@@ -34629,7 +34611,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzMjc4NTguZ2lm/315x250%23cm/5%2F99Lg.gif",
     "title": "Eman Quest",
-    "video": "https://img.itch.zone/aW1nLzIzMjc4NTguZ2lm/original/30xF68.gif",
+    "video": null,
     "scrapeWords": [
       "Eman",
       "Quest"
@@ -39473,11 +39455,11 @@
     ]
   },
   {
-    "author": "LeibnizKeks",
+    "author": "OLKO",
     "description": "Play as a thirsty vampire, killing the whole village.",
     "genre": "Action",
     "id": "484889",
-    "link": "https://leibnizkeks.itch.io/nightly-trouble",
+    "link": "https://sodacookiedev.itch.io/nightly-trouble",
     "platforms": [
       "Windows"
     ],
@@ -40389,11 +40371,11 @@
     ]
   },
   {
-    "author": "LeibnizKeks",
+    "author": "OLKO",
     "description": null,
     "genre": "Action",
     "id": "490779",
-    "link": "https://leibnizkeks.itch.io/snake",
+    "link": "https://sodacookiedev.itch.io/snake",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI2MzgyNzgucG5n/315x250%23c/XjXuTd.png",
     "title": "Feed the Snake",
@@ -42293,11 +42275,11 @@
     ]
   },
   {
-    "author": "Spell Slot Studios",
+    "author": "Bronsky",
     "description": "Social PC/Mobile Game, Role-play with your friends outside the table!",
     "genre": null,
     "id": "505557",
-    "link": "https://spellslotstudios.itch.io/tavern-talk",
+    "link": "https://bronsky-dev.itch.io/tavern-talk",
     "platforms": [
       "Windows",
       "Linux",
@@ -62143,6 +62125,26 @@
     ]
   },
   {
+    "author": "BernosClassics",
+    "description": "My Epic Doggo Fighting Game, Fight the Cattos, Rank up and become the champion",
+    "genre": "Strategy",
+    "id": "634055",
+    "link": "https://bernosclassics.itch.io/doggo-street-fights",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1NTE1NDcucG5n/315x250%23c/UzqzNk.png",
+    "title": "Doggo Street Fights (Beta)",
+    "video": null,
+    "scrapeWords": [
+      "Doggo",
+      "Street",
+      "Fights",
+      "Beta"
+    ]
+  },
+  {
     "author": "Burd Studios",
     "description": "A top-down shooter",
     "genre": "Shooter",
@@ -65829,6 +65831,21 @@
     ]
   },
   {
+    "author": "Shreyas Rao",
+    "description": "shoot-em-up",
+    "genre": "Shooter",
+    "id": "655385",
+    "link": "https://shreyas-rao.itch.io/space-shooter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM1MjE2MDcucG5n/315x250%23c/0j%2FTDi.png",
+    "title": "Space Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Shooter"
+    ]
+  },
+  {
     "author": "trust_me",
     "description": "Battle the demon within",
     "genre": "Action",
@@ -68766,7 +68783,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzM2OTEzMDAuZ2lm/315x250%23cm/idUy9e.gif",
     "title": "Dry Path",
-    "video": "https://img.itch.zone/aW1nLzM2OTEzMDAuZ2lm/original/qes6de.gif",
+    "video": null,
     "scrapeWords": [
       "Dry",
       "Path"
@@ -71462,9 +71479,13 @@
     "genre": "Puzzle",
     "id": "687541",
     "link": "https://vimino.itch.io/mathemaplex-demo",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzM4MTAyOTMucG5n/315x250%23c/GWvfRz.png",
-    "title": "Mathemaplex Demo",
+    "title": "Mathemaplex",
     "video": null,
     "scrapeWords": [
       "Mathemaplex"
@@ -80742,7 +80763,7 @@
   },
   {
     "author": "Nathan Warden",
-    "description": "A puzzle game where you play as a robot who needs to move a box to its goal.",
+    "description": "A puzzle game where you play as a robot who needs to deliver a crate to its drop point.",
     "genre": "Puzzle",
     "id": "727315",
     "link": "https://nathan-warden.itch.io/roboggled",
@@ -93798,7 +93819,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTE5NjIuZ2lm/315x250%23cm/Sjf3O6.gif",
     "title": "C.H.A.I.N.",
-    "video": "https://img.itch.zone/aW1nLzQ1MTE5NjIuZ2lm/original/sMWmLA.gif",
+    "video": null,
     "scrapeWords": [
       "CHAIN"
     ]
@@ -98085,7 +98106,7 @@
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4Mzc0OTYucG5n/315x250%23c/QPzzHj.png",
-    "title": "No Brakes",
+    "title": "NoBrakes",
     "video": null,
     "scrapeWords": [
       "No",
@@ -102127,7 +102148,9 @@
     "id": "840920",
     "link": "https://bearlikelion.itch.io/mpdc",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -102310,6 +102333,22 @@
     "scrapeWords": [
       "Beetle",
       "Bunt"
+    ]
+  },
+  {
+    "author": "Mega22",
+    "description": null,
+    "genre": "Action",
+    "id": "842395",
+    "link": "https://mega22.itch.io/peeked",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjI1MjQucG5n/315x250%23c/Omsj1q.png",
+    "title": "Peeked",
+    "video": null,
+    "scrapeWords": [
+      "Peeked"
     ]
   },
   {
@@ -103130,7 +103169,9 @@
     "id": "851024",
     "link": "https://sir0kuhl.itch.io/guess-or-get-less",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NzE1NTYuanBn/315x250%23c/%2BSetPC.jpg",
     "title": "Guess Or Get Less",
@@ -103616,7 +103657,7 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4NTIzODYucG5n/315x250%23c/m1pADM.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzEzOTcucG5n/315x250%23c/FVEpcP.png",
     "title": "Secret Shootout",
     "video": null,
     "scrapeWords": [
@@ -104134,7 +104175,9 @@
     "genre": "Adventure",
     "id": "859301",
     "link": "https://lordop.itch.io/3d-maze",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MjI5ODcucG5n/315x250%23c/F5sc3w.png",
     "title": "3D Maze",
     "video": null,
@@ -104347,11 +104390,11 @@
     ]
   },
   {
-    "author": "Spell Slot Studios",
+    "author": "Bronsky",
     "description": "A roguelike platformer with procedurally generated levels and a creative egg themed character creation!",
     "genre": "Platformer",
     "id": "860759",
-    "link": "https://spellslotstudios.itch.io/hatchling-heroes",
+    "link": "https://bronsky-dev.itch.io/hatchling-heroes",
     "platforms": [
       "Windows",
       "Linux",
@@ -104526,24 +104569,6 @@
     "scrapeWords": [
       "Torcados",
       "Tower"
-    ]
-  },
-  {
-    "author": "3boood_pro",
-    "description": "التحديات القاضية",
-    "genre": "Fighting",
-    "id": "861574",
-    "link": "https://3boood-pro.itch.io/knockout-challenges",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MzU3MTIucG5n/315x250%23c/NkW9U%2B.png",
-    "title": "التحديات القاضية",
-    "video": null,
-    "scrapeWords": [
-      "التحديات",
-      "القاضية"
     ]
   },
   {
@@ -104862,6 +104887,25 @@
     ]
   },
   {
+    "author": "quible",
+    "description": "Simple cat platformer",
+    "genre": "Platformer",
+    "id": "863332",
+    "link": "https://quible.itch.io/cat-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzI5NjYucG5n/315x250%23c/JcTk%2FE.png",
+    "title": "Cat Game",
+    "video": null,
+    "scrapeWords": [
+      "Cat",
+      "Game"
+    ]
+  },
+  {
     "author": "vvamavv",
     "description": "A Godot-made open-source remake of a Mario mini game.",
     "genre": "Action",
@@ -104961,6 +105005,24 @@
       "Memory",
       "Card",
       "Game"
+    ]
+  },
+  {
+    "author": "Danil",
+    "description": "graphic demo with minimal gameplay",
+    "genre": "Puzzle",
+    "id": "864553",
+    "link": "https://danilw.itch.io/cubes-experiment",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTQ1MjgucG5n/315x250%23c/uJIV7L.png",
+    "title": "Cubes experiment",
+    "video": null,
+    "scrapeWords": [
+      "Cubes",
+      "experiment"
     ]
   },
   {
