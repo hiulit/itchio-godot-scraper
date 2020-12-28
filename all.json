@@ -3809,7 +3809,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/315x250%23cm/oMMB4B.gif",
     "title": "Endhall",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/original/mcgM%2Ff.gif",
     "scrapeWords": [
       "Endhall"
     ]
@@ -19066,6 +19066,24 @@
     ]
   },
   {
+    "author": "designergaze",
+    "description": "Can you SWIPE the item before you opponent?",
+    "genre": "Action",
+    "id": "319653",
+    "link": "https://designergaze.itch.io/thieves-roulette",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE1NzYyNzAucG5n/315x250%23c/OEMqjR.png",
+    "title": "Thieve's Roulette",
+    "video": null,
+    "scrapeWords": [
+      "Thieves",
+      "Roulette"
+    ]
+  },
+  {
     "author": "lpancho",
     "description": null,
     "genre": "Puzzle",
@@ -19241,7 +19259,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE2OTYzMjMuZ2lm/315x250%23cm/Axsj40.gif",
     "title": "Eye of Ra",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzE2OTYzMjMuZ2lm/original/qm5rk3.gif",
     "scrapeWords": [
       "Eye",
       "of",
@@ -27964,25 +27982,6 @@
     ]
   },
   {
-    "author": "Vanne",
-    "description": "A simple puzzle game using only two buttons",
-    "genre": "Puzzle",
-    "id": "404133",
-    "link": "https://vanne.itch.io/lights-out",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Joshua 🐢",
     "description": "A happy birthday project for my friend who likes fries",
     "genre": "Survival",
@@ -29601,7 +29600,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/315x250%23cm/SUdaN5.gif",
     "title": "Guardian Sphere",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/original/KgP9oX.gif",
     "scrapeWords": [
       "Guardian",
       "Sphere"
@@ -34611,7 +34610,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzMjc4NTguZ2lm/315x250%23cm/5%2F99Lg.gif",
     "title": "Eman Quest",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzIzMjc4NTguZ2lm/original/30xF68.gif",
     "scrapeWords": [
       "Eman",
       "Quest"
@@ -50773,25 +50772,6 @@
     ]
   },
   {
-    "author": "Vsevolod Ganin",
-    "description": "Multiplayer Pong clone",
-    "genre": "Sports",
-    "id": "573119",
-    "link": "https://vsga.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
-    ]
-  },
-  {
     "author": "eldelnacho",
     "description": "Play as a riot cop fighting hordes of criminals and degenerates in this top-down style beat 'em up.",
     "genre": "Action",
@@ -56777,9 +56757,7 @@
     "genre": "Adventure",
     "id": "611405",
     "link": "https://takelime.itch.io/everplant",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ0MDUxNTUucG5n/315x250%23c/ZbpR69.png",
     "title": "Everplant",
     "video": null,
@@ -67430,20 +67408,21 @@
   },
   {
     "author": "DogedomStudioS",
-    "description": "Submission for My Little Roguelike #1.",
+    "description": "TBC for Finally Finish Something Jam 2021",
     "genre": null,
     "id": "664903",
-    "link": "https://dogedomstudios.itch.io/orangehack",
+    "link": "https://dogedomstudios.itch.io/applesvsoranges",
     "platforms": [
       "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1OTMzMzAucG5n/315x250%23c/CP0g2I.png",
-    "title": "OrangeHack",
+    "title": "Apples Versus Oranges",
     "video": null,
     "scrapeWords": [
-      "Orange",
-      "Hack"
+      "Apples",
+      "Versus",
+      "Oranges"
     ]
   },
   {
@@ -68783,7 +68762,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzM2OTEzMDAuZ2lm/315x250%23cm/idUy9e.gif",
     "title": "Dry Path",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzM2OTEzMDAuZ2lm/original/qes6de.gif",
     "scrapeWords": [
       "Dry",
       "Path"
@@ -71478,7 +71457,7 @@
     "description": null,
     "genre": "Puzzle",
     "id": "687541",
-    "link": "https://vimino.itch.io/mathemaplex-demo",
+    "link": "https://vimino.itch.io/mathemaplex",
     "platforms": [
       "Windows",
       "Linux",
@@ -78651,6 +78630,21 @@
     ]
   },
   {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -80686,6 +80680,25 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
+    ]
+  },
+  {
+    "author": "KennyTheBard",
+    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
+    "genre": "Sports",
+    "id": "727007",
+    "link": "https://kennythebard.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -91352,6 +91365,21 @@
     ]
   },
   {
+    "author": "HI_TV",
+    "description": "​you are jumping around on pizzas and you really want to eat that shrimp",
+    "genre": "Platformer",
+    "id": "772164",
+    "link": "https://hi-tv.itch.io/pizza-runner",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQzMjA3NzgucG5n/315x250%23c/2AmqoV.png",
+    "title": "PIZZA RUNNER",
+    "video": null,
+    "scrapeWords": [
+      "PIZZA",
+      "RUNNER"
+    ]
+  },
+  {
     "author": "deertears",
     "description": "Customize your sports shirts in style!",
     "genre": "Sports",
@@ -93819,7 +93847,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTE5NjIuZ2lm/315x250%23cm/Sjf3O6.gif",
     "title": "C.H.A.I.N.",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzQ1MTE5NjIuZ2lm/original/sMWmLA.gif",
     "scrapeWords": [
       "CHAIN"
     ]
@@ -94432,7 +94460,7 @@
     "description": "A 360° block breaker. Grab the keys and warp yourself to the next level.",
     "genre": "Action",
     "id": "787527",
-    "link": "https://hericode.itch.io/block-around",
+    "link": "https://kmlkaramel.itch.io/block-around",
     "platforms": [
       "Windows",
       "Linux",
@@ -97639,11 +97667,10 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NTcxMDYucG5n/315x250%23c/Gcj2P0.png",
-    "title": "Mustelia (Prototype)",
+    "title": "Mustelia",
     "video": null,
     "scrapeWords": [
-      "Mustelia",
-      "Prototype"
+      "Mustelia"
     ]
   },
   {
@@ -102325,6 +102352,7 @@
     "link": "https://urodela.itch.io/beetle-bunt",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MjgwMjQuZ2lm/315x250%23cm/8xPyTk.gif",
@@ -102442,6 +102470,26 @@
     "scrapeWords": [
       "Death",
       "Guy"
+    ]
+  },
+  {
+    "author": "Jon Topielski",
+    "description": "An RPG with space cats and rhythm-based dancing",
+    "genre": "Role Playing",
+    "id": "843633",
+    "link": "https://jontopielski.itch.io/cats-on-mars",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDI0NTIucG5n/315x250%23c/nRCvmX.png",
+    "title": "Cats on Mars",
+    "video": null,
+    "scrapeWords": [
+      "Cats",
+      "on",
+      "Mars"
     ]
   },
   {
@@ -104237,6 +104285,21 @@
     ]
   },
   {
+    "author": "Andrick",
+    "description": "EN GARDE!",
+    "genre": "Fighting",
+    "id": "859893",
+    "link": "https://invariant-ace.itch.io/fence2d",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjYzMzUucG5n/315x250%23c/hnS6eg.png",
+    "title": "Fence2D",
+    "video": null,
+    "scrapeWords": [
+      "Fence2",
+      "D"
+    ]
+  },
+  {
     "author": "Nathcra Games",
     "description": "Climb a Mountain as Macy!",
     "genre": "Platformer",
@@ -105177,6 +105240,91 @@
     "scrapeWords": [
       "Elf",
       "Breakout"
+    ]
+  },
+  {
+    "author": "Ginko",
+    "description": "A spiced up version of GODOT game Dodge",
+    "genre": "Educational",
+    "id": "866759",
+    "link": "https://ginko-dev.itch.io/dodg",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzE0MjQucG5n/315x250%23c/aFzPie.png",
+    "title": "Dodge",
+    "video": null,
+    "scrapeWords": [
+      "Dodge"
+    ]
+  },
+  {
+    "author": "TNTC-Lab",
+    "description": "... the game by Fhtang Inc.",
+    "genre": "Puzzle",
+    "id": "867069",
+    "link": "https://tntc-lab.itch.io/35deep",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzA0NDcucG5n/315x250%23c/XTuOD3.png",
+    "title": "3.5Deep",
+    "video": null,
+    "scrapeWords": [
+      "35",
+      "Deep"
+    ]
+  },
+  {
+    "author": "Ursaru",
+    "description": "2D Platformer about mages.",
+    "genre": "Platformer",
+    "id": "867206",
+    "link": "https://ursaru.itch.io/magesguild",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzE0ODcucG5n/315x250%23c/9ZXzad.png",
+    "title": "Mages Guild",
+    "video": null,
+    "scrapeWords": [
+      "Mages",
+      "Guild"
+    ]
+  },
+  {
+    "author": "Zhang Space Freight",
+    "description": "Zombie aliens have invaded your mansion. Kill them all.",
+    "genre": "Shooter",
+    "id": "867762",
+    "link": "https://zhangspacefreight.itch.io/demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzQ5MjcucG5n/315x250%23c/G8xPzV.png",
+    "title": "Retro Style Space FPS Demo",
+    "video": null,
+    "scrapeWords": [
+      "Retro",
+      "Style",
+      "Space",
+      "FPS"
+    ]
+  },
+  {
+    "author": "First Slime Games",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "867986",
+    "link": "https://first-slime-games.itch.io/gates-of-paradise",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzYzOTAucG5n/315x250%23c/If7y%2B1.png",
+    "title": "Gates of Paradise",
+    "video": null,
+    "scrapeWords": [
+      "Gates",
+      "of",
+      "Paradise"
     ]
   },
   {
