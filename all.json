@@ -5335,27 +5335,6 @@
     ]
   },
   {
-    "author": "esbva",
-    "description": "Shooter Game",
-    "genre": "Shooter",
-    "id": "207800",
-    "link": "https://esbva.itch.io/spacerocks-gamestudio",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjA3ODAwLzk3MzgwNC5wbmc=/315x250%23c/CzVYbb.png",
-    "title": "SpaceRocks (GameStudio)",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Rocks",
-      "Game",
-      "Studio"
-    ]
-  },
-  {
     "author": "alferbayter",
     "description": null,
     "genre": "Platformer",
@@ -45884,24 +45863,6 @@
     ]
   },
   {
-    "author": "Red Alpha Studios",
-    "description": null,
-    "genre": null,
-    "id": "536592",
-    "link": "https://red-alpha-studios.itch.io/phase",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI3ODk4MTUucG5n/315x250%23c/qg72d7.png",
-    "title": "Phase",
-    "video": null,
-    "scrapeWords": [
-      "Phase"
-    ]
-  },
-  {
     "author": "Presepeiro by Jorge Maranhão",
     "description": "Over Seas - Versão da Noord Game Jam 2019",
     "genre": null,
@@ -50769,6 +50730,25 @@
       "TIME",
       "OF",
       "PLAGUE"
+    ]
+  },
+  {
+    "author": "Vsevolod Ganin",
+    "description": "Multiplayer Pong clone",
+    "genre": "Sports",
+    "id": "573119",
+    "link": "https://vsga.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -59940,7 +59920,7 @@
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMzMDEwNzkucG5n/315x250%23c/Ny29Fh.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4ODA3NzUucG5n/315x250%23c/j%2BDySk.png",
     "title": "Black Goo",
     "video": null,
     "scrapeWords": [
@@ -66010,23 +65990,6 @@
     "scrapeWords": [
       "Time",
       "Step"
-    ]
-  },
-  {
-    "author": "Foxy Boxy Games",
-    "description": "Retro side-scrolling adventure!",
-    "genre": "Platformer",
-    "id": "656354",
-    "link": "https://foxyboxygames.itch.io/zodiac",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5ODcyNzIucG5n/315x250%23c/dlMezU.png",
-    "title": "ZODIAC",
-    "video": null,
-    "scrapeWords": [
-      "ZODIAC"
     ]
   },
   {
@@ -80683,25 +80646,6 @@
     ]
   },
   {
-    "author": "KennyTheBard",
-    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
-    "genre": "Sports",
-    "id": "727007",
-    "link": "https://kennythebard.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
-    ]
-  },
-  {
     "author": "lapspider45",
     "description": "A slime's quest for revenge against the evil Dr. Kidd",
     "genre": "Platformer",
@@ -90769,24 +90713,6 @@
     ]
   },
   {
-    "author": "Foxy Boxy Games",
-    "description": "Retro giant robot fighting!",
-    "genre": "Fighting",
-    "id": "768567",
-    "link": "https://foxyboxygames.itch.io/robo-oh",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQzMDAxNTIucG5n/315x250%23c/oxK91g.png",
-    "title": "ROBO OH",
-    "video": null,
-    "scrapeWords": [
-      "ROBO",
-      "OH"
-    ]
-  },
-  {
     "author": "SirRANA",
     "description": "A game of time-rush, so-to-say, pass the torch. That may or not maybe a dungeon-crawler?",
     "genre": "Adventure",
@@ -93689,9 +93615,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQzNzcxMTIuZ2lm/315x250%23cm/pk6v2J.gif",
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzkyMDYuZ2lm/315x250%23cm/d6xxjI.gif",
     "title": "Luck be a Landlord (DEMO)",
-    "video": "https://img.itch.zone/aW1nLzQzNzcxMTIuZ2lm/original/8AfZg%2F.gif",
+    "video": "https://img.itch.zone/aW1nLzQ4NzkyMDYuZ2lm/original/r9jgqH.gif",
     "scrapeWords": [
       "Luck",
       "be",
@@ -105124,6 +105050,25 @@
     ]
   },
   {
+    "author": "STARRIVER",
+    "description": "Don't get sneezy, kid",
+    "genre": "Platformer",
+    "id": "865002",
+    "link": "https://starriver.itch.io/feral",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTg0OTcucG5n/315x250%23c/MuFa81.png",
+    "title": "Feral Flowers",
+    "video": null,
+    "scrapeWords": [
+      "Feral",
+      "Flowers"
+    ]
+  },
+  {
     "author": "Iron Jupiter",
     "description": "Tile-based, laser puzzle game",
     "genre": "Puzzle",
@@ -105295,11 +105240,11 @@
     ]
   },
   {
-    "author": "Zhang Space Freight",
+    "author": "Enyalios Tactical",
     "description": "Zombie aliens have invaded your mansion. Kill them all.",
     "genre": "Shooter",
     "id": "867762",
-    "link": "https://zhangspacefreight.itch.io/demo",
+    "link": "https://enyalios.itch.io/demo",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4NzQ5MjcucG5n/315x250%23c/G8xPzV.png",
     "title": "Retro Style Space FPS Demo",
@@ -105325,6 +105270,58 @@
       "Gates",
       "of",
       "Paradise"
+    ]
+  },
+  {
+    "author": "peermom",
+    "description": "This is a fun Idle Game that I will update a lot!",
+    "genre": null,
+    "id": "868313",
+    "link": "https://peermom.itch.io/idle-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4Nzg0NzQucG5n/315x250%23c/zK7jKY.png",
+    "title": "Idle Game!",
+    "video": null,
+    "scrapeWords": [
+      "Idle",
+      "Game"
+    ]
+  },
+  {
+    "author": "TopHatDude",
+    "description": "This FPS game is in early beta.",
+    "genre": "Shooter",
+    "id": "868914",
+    "link": "https://tophatdude.itch.io/shoot-bois",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4ODE1MTcucG5n/315x250%23c/%2FZ0QHt.png",
+    "title": "Shoot Bois",
+    "video": null,
+    "scrapeWords": [
+      "Shoot",
+      "Bois"
+    ]
+  },
+  {
+    "author": "DoctorPhi",
+    "description": "A game about two battleships fighting each other! Based on the Jet Fighter Atari game.",
+    "genre": "Action",
+    "id": "868972",
+    "link": "https://doctorphi.itch.io/super-jet-fighter",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4ODE4MTYucG5n/315x250%23c/0%2BQkwi.png",
+    "title": "Super Jet Fighter",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Jet",
+      "Fighter"
     ]
   },
   {
