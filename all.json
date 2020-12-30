@@ -31952,23 +31952,6 @@
     ]
   },
   {
-    "author": "kanethornwyrd",
-    "description": "A challenging puzzle game about being ill and seeking solutions",
-    "genre": "Puzzle",
-    "id": "436833",
-    "link": "https://kanethornwyrd.itch.io/medicine",
-    "platforms": [
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxOTIxMzkucG5n/315x250%23c/uF%2F4x4.png",
-    "title": "MEDICINE",
-    "video": null,
-    "scrapeWords": [
-      "MEDICINE"
-    ]
-  },
-  {
     "author": "Toxic Mask",
     "description": "Colete artefatos em uma prisão submarina.",
     "genre": "Adventure",
@@ -36229,22 +36212,6 @@
     "scrapeWords": [
       "Sapro",
       "Fight"
-    ]
-  },
-  {
-    "author": "Lord",
-    "description": null,
-    "genre": "Action",
-    "id": "463338",
-    "link": "https://marcos-shiuuri.itch.io/becoming-only-one",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzNTU5NTEucG5n/315x250%23c/9zcliI.png",
-    "title": "Becoming only one",
-    "video": null,
-    "scrapeWords": [
-      "Becoming",
-      "only",
-      "one"
     ]
   },
   {
@@ -45860,6 +45827,24 @@
     "scrapeWords": [
       "Santa",
       "Time"
+    ]
+  },
+  {
+    "author": "Red Alpha Studios",
+    "description": null,
+    "genre": null,
+    "id": "536592",
+    "link": "https://red-alpha-studios.itch.io/phase",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3ODk4MTUucG5n/315x250%23c/qg72d7.png",
+    "title": "Phase",
+    "video": null,
+    "scrapeWords": [
+      "Phase"
     ]
   },
   {
@@ -77594,7 +77579,7 @@
   {
     "author": "voxelvoid",
     "description": "Get out of the maze!",
-    "genre": "Adventure",
+    "genre": "Shooter",
     "id": "710081",
     "link": "https://voxelvoid.itch.io/amazeing",
     "platforms": [
@@ -86026,21 +86011,6 @@
     ]
   },
   {
-    "author": "Lord",
-    "description": "When you need to protect a planet, alone you can't do it.",
-    "genre": "Shooter",
-    "id": "744962",
-    "link": "https://marcos-shiuuri.itch.io/planet-protectors",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQxNTM3NTcucG5n/315x250%23c/Te3wLp.png",
-    "title": "Planet Protectors",
-    "video": null,
-    "scrapeWords": [
-      "Planet",
-      "Protectors"
-    ]
-  },
-  {
     "author": "Bobbi Burrs",
     "description": "A criminal teambuilding experience.",
     "genre": "Strategy",
@@ -87325,22 +87295,6 @@
     "scrapeWords": [
       "Rock",
       "NJump"
-    ]
-  },
-  {
-    "author": "Lord",
-    "description": "The galaxy is at war. How long can you survive?",
-    "genre": "Action",
-    "id": "751690",
-    "link": "https://marcos-shiuuri.itch.io/super-space-wars",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQxOTY1MDAucG5n/315x250%23c/mVLO7a.png",
-    "title": "Super Space Wars",
-    "video": null,
-    "scrapeWords": [
-      "Super",
-      "Space",
-      "Wars"
     ]
   },
   {
@@ -96870,7 +96824,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MjE4ODMucG5n/315x250%23c/L0isXs.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ4ODQzMTYucG5n/315x250%23c/X%2BJVuu.png",
     "title": "Project Zero: Solastalgia",
     "video": null,
     "scrapeWords": [
@@ -102290,22 +102244,6 @@
     ]
   },
   {
-    "author": "Mega22",
-    "description": null,
-    "genre": "Action",
-    "id": "842395",
-    "link": "https://mega22.itch.io/peeked",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MjI1MjQucG5n/315x250%23c/Omsj1q.png",
-    "title": "Peeked",
-    "video": null,
-    "scrapeWords": [
-      "Peeked"
-    ]
-  },
-  {
     "author": "zurrealStudios",
     "description": "Oldschooly Arcade Highscore Game",
     "genre": "Platformer",
@@ -102400,7 +102338,7 @@
   },
   {
     "author": "Jon Topielski",
-    "description": "An RPG with space cats and rhythm-based dancing",
+    "description": "Play a dancing space cat in this pixel rhythm RPG!",
     "genre": "Role Playing",
     "id": "843633",
     "link": "https://jontopielski.itch.io/cats-on-mars",
@@ -104525,6 +104463,24 @@
     ]
   },
   {
+    "author": "pizzie",
+    "description": "its a cold one out tonight",
+    "genre": null,
+    "id": "861321",
+    "link": "https://pizzie.itch.io/holidaycats",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4ODc2MzcucG5n/315x250%23c/ci%2B14C.png",
+    "title": "HOLIDAY CATS",
+    "video": null,
+    "scrapeWords": [
+      "HOLIDAY",
+      "CATS"
+    ]
+  },
+  {
     "author": "Dilis",
     "description": "A game about taking pictures of birds.",
     "genre": "Puzzle",
@@ -105121,6 +105077,22 @@
     ]
   },
   {
+    "author": "Paul",
+    "description": null,
+    "genre": "Shooter",
+    "id": "865425",
+    "link": "https://pdcl.itch.io/mgk",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTk5MDgucG5n/315x250%23c/FAtcyU.png",
+    "title": "Machine Gun Kelly",
+    "video": null,
+    "scrapeWords": [
+      "Machine",
+      "Gun",
+      "Kelly"
+    ]
+  },
+  {
     "author": "Top Notch Games",
     "description": "Battle to the death in the snow!",
     "genre": "Shooter",
@@ -105240,7 +105212,7 @@
     ]
   },
   {
-    "author": "Enyalios Tactical",
+    "author": "Zhang Space Freight",
     "description": "Zombie aliens have invaded your mansion. Kill them all.",
     "genre": "Shooter",
     "id": "867762",
