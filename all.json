@@ -4225,20 +4225,6 @@
     ]
   },
   {
-    "author": "imekon",
-    "description": "Breakout sample in Godot 2.1.4",
-    "genre": null,
-    "id": "197722",
-    "link": "https://imekon.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
-    ]
-  },
-  {
     "author": "securas",
     "description": "A hack and slash roguelike winner of the 2017 Github Game Off Jam",
     "genre": "Role Playing",
@@ -14551,6 +14537,20 @@
     ]
   },
   {
+    "author": "Chuckles P.  Monkeyworth",
+    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
+    "genre": null,
+    "id": "290114",
+    "link": "https://chucklespmonkeyworth.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
+    ]
+  },
+  {
     "author": "TheVampster",
     "description": null,
     "genre": "Action",
@@ -22302,6 +22302,23 @@
       "be",
       "a",
       "Triangle"
+    ]
+  },
+  {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -38689,25 +38706,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -48998,8 +48996,7 @@
     "id": "560205",
     "link": "https://ivan-tigan.itch.io/reckless",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5NDI1NDcucG5n/315x250%23c/4OU6Z0.png",
     "title": "RECKLESS",
@@ -50106,21 +50103,6 @@
     ]
   },
   {
-    "author": "Everyman",
-    "description": "Save the cookies from dunking into the Milky Way!",
-    "genre": "Platformer",
-    "id": "568138",
-    "link": "https://everyman.itch.io/milkyway",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI5ODUyMzUucG5n/315x250%23c/7auSri.png",
-    "title": "Milky Way",
-    "video": null,
-    "scrapeWords": [
-      "Milky",
-      "Way"
-    ]
-  },
-  {
     "author": "LABORIOUS REX",
     "description": "Throw the map at your friends! ( + FREE DEMO )",
     "genre": "Platformer",
@@ -50734,25 +50716,6 @@
       "TIME",
       "OF",
       "PLAGUE"
-    ]
-  },
-  {
-    "author": "Vsevolod Ganin",
-    "description": "Multiplayer Pong clone",
-    "genre": "Sports",
-    "id": "573119",
-    "link": "https://vsga.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -67040,26 +67003,6 @@
     ]
   },
   {
-    "author": "code.ama",
-    "description": "Defend the dungeon as long as you can.",
-    "genre": "Action",
-    "id": "662614",
-    "link": "https://codeama.itch.io/one-button-dungeon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1OTEwNjUuanBn/315x250%23c/q%2BQYTf.jpg",
-    "title": "One Button Dungeon",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Button",
-      "Dungeon"
-    ]
-  },
-  {
     "author": "katp32",
     "description": "An open source command line space exploration MMO.",
     "genre": "Simulation",
@@ -80636,6 +80579,25 @@
     ]
   },
   {
+    "author": "KennyTheBard",
+    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
+    "genre": "Sports",
+    "id": "727007",
+    "link": "https://kennythebard.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
+    ]
+  },
+  {
     "author": "lapspider45",
     "description": "A slime's quest for revenge against the evil Dr. Kidd",
     "genre": "Platformer",
@@ -84307,23 +84269,6 @@
     "scrapeWords": [
       "2",
       "Doggos"
-    ]
-  },
-  {
-    "author": "LipeCarmel",
-    "description": "Very simple and short plataformer.",
-    "genre": "Platformer",
-    "id": "738384",
-    "link": "https://lipecarmel.itch.io/blob-plataformer",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQxMTExMjAucG5n/315x250%23c/QluJyx.png",
-    "title": "Blob Plataformer",
-    "video": null,
-    "scrapeWords": [
-      "Blob",
-      "Plataformer"
     ]
   },
   {
@@ -94978,6 +94923,26 @@
     ]
   },
   {
+    "author": "Evpevdev",
+    "description": "A one button dungeon crawler",
+    "genre": "Adventure",
+    "id": "792218",
+    "link": "https://evpevdev.itch.io/one-button-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0MzU2MzMucG5n/315x250%23c/Q3erCE.png",
+    "title": "One Button Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Dungeon"
+    ]
+  },
+  {
     "author": "davidpeterworks",
     "description": "Driving a clay cab in Clay city",
     "genre": "Racing",
@@ -95328,6 +95293,21 @@
     "video": null,
     "scrapeWords": [
       "Creatures"
+    ]
+  },
+  {
+    "author": "USBRODI GAMES",
+    "description": "Protect, kill and escape! Your wife needs milk!",
+    "genre": null,
+    "id": "794995",
+    "link": "https://usbrodi-games.itch.io/milky-way",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0NjUyNDMucG5n/315x250%23c/fHKFGX.png",
+    "title": "Milky Way",
+    "video": null,
+    "scrapeWords": [
+      "Milky",
+      "Way"
     ]
   },
   {
@@ -102068,6 +102048,24 @@
     ]
   },
   {
+    "author": "Mark",
+    "description": "Solo Development - Godot - Mutiplayer Prototype",
+    "genre": "Action",
+    "id": "840920",
+    "link": "https://bearlikelion.itch.io/mpdc",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
+    "title": "MPDC",
+    "video": null,
+    "scrapeWords": [
+      "MPDC"
+    ]
+  },
+  {
     "author": "Maestro",
     "description": null,
     "genre": "Platformer",
@@ -105288,7 +105286,7 @@
     ]
   },
   {
-    "author": "Zhang Space Freight",
+    "author": "Enyalios Software",
     "description": "Zombie aliens have invaded your mansion. Kill them all.",
     "genre": "Shooter",
     "id": "867762",
@@ -105565,6 +105563,121 @@
     "scrapeWords": [
       "Chess",
       "Twist"
+    ]
+  },
+  {
+    "author": "DELTA 12 STUDIO",
+    "description": "RPG",
+    "genre": "Role Playing",
+    "id": "870527",
+    "link": "https://delta-12-studio.itch.io/lango",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTYxNzEucG5n/315x250%23c/o0I2ms.png",
+    "title": "Lango",
+    "video": null,
+    "scrapeWords": [
+      "Lango"
+    ]
+  },
+  {
+    "author": "sebjugate",
+    "description": "A stylish shooter with procedural, dynamic combat",
+    "genre": "Shooter",
+    "id": "870918",
+    "link": "https://sebjugate.itch.io/baneseed",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTU0NjkucG5n/315x250%23c/Kd9Uea.png",
+    "title": "Baneseed",
+    "video": null,
+    "scrapeWords": [
+      "Baneseed"
+    ]
+  },
+  {
+    "author": "george12teodor",
+    "description": null,
+    "genre": "Shooter",
+    "id": "871071",
+    "link": "https://george12teodor.itch.io/roguelands",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTYyNzkucG5n/315x250%23c/0SHKk%2B.png",
+    "title": "Roguelands(BETA)",
+    "video": null,
+    "scrapeWords": [
+      "Roguelands",
+      "BETA"
+    ]
+  },
+  {
+    "author": "Snowy Fox",
+    "description": "A crappy game made in one hour.",
+    "genre": "Platformer",
+    "id": "871256",
+    "link": "https://foxaudio-creations.itch.io/square-jumper",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTc2NTEucG5n/315x250%23c/nH%2F2Z3.png",
+    "title": "Square Jumper",
+    "video": null,
+    "scrapeWords": [
+      "Square",
+      "Jumper"
+    ]
+  },
+  {
+    "author": "CreamLeaf",
+    "description": null,
+    "genre": "Simulation",
+    "id": "871344",
+    "link": "https://creamleaf.itch.io/sky-ex",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTg3MjYucG5n/315x250%23c/lfDmBd.png",
+    "title": "SKY Ex",
+    "video": null,
+    "scrapeWords": [
+      "SKY",
+      "Ex"
+    ]
+  },
+  {
+    "author": "Miqdad Naduthodi",
+    "description": "Two Player- One Keyboard fighter game",
+    "genre": "Action",
+    "id": "871747",
+    "link": "https://miqdad-naduthodi.itch.io/godot-fighters",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDA0NDQucG5n/315x250%23c/ufMtUZ.png",
+    "title": "Godot Fighters",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Fighters"
+    ]
+  },
+  {
+    "author": "Adrien Pillou",
+    "description": "Japanese themed memory card game",
+    "genre": "Card Game",
+    "id": "871757",
+    "link": "https://adrien-pillou.itch.io/kioku-card-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDA1NDAucG5n/315x250%23c/OqjEOZ.png",
+    "title": "Kioku Card Game",
+    "video": null,
+    "scrapeWords": [
+      "Kioku",
+      "Card",
+      "Game"
     ]
   },
   {
