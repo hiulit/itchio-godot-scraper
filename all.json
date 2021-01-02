@@ -22305,23 +22305,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -27975,25 +27958,6 @@
       "Run",
       "Game",
       "Jam"
-    ]
-  },
-  {
-    "author": "Vanne",
-    "description": "A simple puzzle game using only two buttons",
-    "genre": "Puzzle",
-    "id": "404133",
-    "link": "https://vanne.itch.io/lights-out",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -38703,6 +38667,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -55650,6 +55633,25 @@
     ]
   },
   {
+    "author": "Bilzeiboube",
+    "description": "You will live the life of a butterfly.",
+    "genre": "Adventure",
+    "id": "604694",
+    "link": "https://bilzeiboube.itch.io/an-important-life",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMDc4OTEucG5n/315x250%23c/cK93EH.png",
+    "title": "An Important Life",
+    "video": null,
+    "scrapeWords": [
+      "An",
+      "Important",
+      "Life"
+    ]
+  },
+  {
     "author": "BattlEyeet",
     "description": "Having fun and learning Godot! Test out my game if you'd like.",
     "genre": "Platformer",
@@ -62047,6 +62049,24 @@
       "Two",
       "Player",
       "Bannaza"
+    ]
+  },
+  {
+    "author": "Alakse",
+    "description": null,
+    "genre": "Strategy",
+    "id": "633995",
+    "link": "https://alakse.itch.io/os",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM3ODE2MzAucG5n/315x250%23c/SGXpSz.png",
+    "title": "Objective: reSurrection",
+    "video": null,
+    "scrapeWords": [
+      "Objective",
+      "re",
+      "Surrection"
     ]
   },
   {
@@ -74152,6 +74172,25 @@
     ]
   },
   {
+    "author": "Bilzeiboube",
+    "description": null,
+    "genre": "Action",
+    "id": "696501",
+    "link": "https://bilzeiboube.itch.io/out-of-shock",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4NTAwNTQucG5n/315x250%23c/dVwvkQ.png",
+    "title": "Out of Shock",
+    "video": null,
+    "scrapeWords": [
+      "Out",
+      "of",
+      "Shock"
+    ]
+  },
+  {
     "author": "Sciman101",
     "description": "A short precision platformer where every action is limited. Made for the GMTK20 game jam",
     "genre": "Platformer",
@@ -78538,6 +78577,21 @@
       "way",
       "is",
       "up"
+    ]
+  },
+  {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
     ]
   },
   {
@@ -93446,7 +93500,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MzM2NzAucG5n/315x250%23c/T3QEtQ.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDI5MjEucG5n/315x250%23c/xadNIK.png",
     "title": "OVERKILL",
     "video": null,
     "scrapeWords": [
@@ -97936,6 +97990,22 @@
     ]
   },
   {
+    "author": "Alakse",
+    "description": "The price of justice",
+    "genre": "Action",
+    "id": "812541",
+    "link": "https://alakse.itch.io/cyller",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NjgwMTguanBn/315x250%23c/ueTdyT.jpg",
+    "title": "CYLLER",
+    "video": null,
+    "scrapeWords": [
+      "CYLLER"
+    ]
+  },
+  {
     "author": "flaffal",
     "description": "2D Action slashy-shooty game",
     "genre": "Action",
@@ -99068,6 +99138,26 @@
     ]
   },
   {
+    "author": "Faer",
+    "description": "A Lost soul trying to survive to death by possessing animals",
+    "genre": "Puzzle",
+    "id": "821936",
+    "link": "https://faer.itch.io/haunt-me-down",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MDc4MjUucG5n/315x250%23c/0LN8ej.png",
+    "title": "Haunt me Down",
+    "video": null,
+    "scrapeWords": [
+      "Haunt",
+      "me",
+      "Down"
+    ]
+  },
+  {
     "author": "Whimfoome",
     "description": "Play Shooter Rogue-like Card game",
     "genre": "Shooter",
@@ -99876,9 +99966,10 @@
     "link": "https://phaserdev.itch.io/phaser",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4NDQxNjYucG5n/315x250%23c/SmOfpl.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDMxMTAucG5n/315x250%23c/Uos0f%2F.png",
     "title": "Phaser",
     "video": null,
     "scrapeWords": [
@@ -101127,22 +101218,6 @@
     "scrapeWords": [
       "Heavy",
       "Knight"
-    ]
-  },
-  {
-    "author": "Miqdad Naduthodi",
-    "description": "Single level platformer where you have one goal - Be the King! (This is my first ever game, do support)",
-    "genre": "Platformer",
-    "id": "836664",
-    "link": "https://miqdad-naduthodi.itch.io/king-of-kundapuram",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ2ODkzNTAucG5n/315x250%23c/ZduFZW.png",
-    "title": "King of Kundapuram",
-    "video": null,
-    "scrapeWords": [
-      "King",
-      "of",
-      "Kundapuram"
     ]
   },
   {
@@ -103188,7 +103263,9 @@
     "id": "852404",
     "link": "https://sciman101.itch.io/vine",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MTI1NzcucG5n/315x250%23c/PXXDiG.png",
     "title": "Vinekid",
@@ -103325,6 +103402,25 @@
       "Treasure",
       "Far",
       "Away"
+    ]
+  },
+  {
+    "author": "BuppedBirio",
+    "description": "Pino is very hungry, and he needs your help! Eat as many heads and coins as possible!",
+    "genre": null,
+    "id": "853863",
+    "link": "https://buppedbirio.itch.io/pinoblu",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDMyMTAucG5n/315x250%23c/4TA3SR.png",
+    "title": "PinoBlu",
+    "video": null,
+    "scrapeWords": [
+      "Pino",
+      "Blu"
     ]
   },
   {
@@ -103794,6 +103890,22 @@
     "scrapeWords": [
       "Battle",
       "Box"
+    ]
+  },
+  {
+    "author": "Franny Dancis",
+    "description": "Can you save Christmas?",
+    "genre": "Action",
+    "id": "856763",
+    "link": "https://franny-dancis.itch.io/naughty-or-nice",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MzI2OTAucG5n/315x250%23c/nwDo45.png",
+    "title": "Naughty or Nice",
+    "video": null,
+    "scrapeWords": [
+      "Naughty",
+      "or",
+      "Nice"
     ]
   },
   {
@@ -105286,23 +105398,6 @@
     ]
   },
   {
-    "author": "Enyalios Software",
-    "description": "Zombie aliens have invaded your mansion. Kill them all.",
-    "genre": "Shooter",
-    "id": "867762",
-    "link": "https://enyalios.itch.io/demo",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ4NzQ5MjcucG5n/315x250%23c/G8xPzV.png",
-    "title": "Retro Style Space FPS Demo",
-    "video": null,
-    "scrapeWords": [
-      "Retro",
-      "Style",
-      "Space",
-      "FPS"
-    ]
-  },
-  {
     "author": "First Slime Games",
     "description": null,
     "genre": "Puzzle",
@@ -105350,6 +105445,23 @@
     "video": null,
     "scrapeWords": [
       "bounceball"
+    ]
+  },
+  {
+    "author": "Balagames",
+    "description": "My first Game Jam! Gravity is out of place!",
+    "genre": "Platformer",
+    "id": "868913",
+    "link": "https://balagames.itch.io/demo-internal-gravity",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4ODM0MzcucG5n/315x250%23c/ZBtfmr.png",
+    "title": "Demo- Internal Gravity",
+    "video": null,
+    "scrapeWords": [
+      "Internal",
+      "Gravity"
     ]
   },
   {
@@ -105571,7 +105683,10 @@
     "genre": "Role Playing",
     "id": "870527",
     "link": "https://delta-12-studio.itch.io/lango",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ4OTYxNzEucG5n/315x250%23c/o0I2ms.png",
     "title": "Lango",
     "video": null,
@@ -105594,6 +105709,24 @@
     "video": null,
     "scrapeWords": [
       "Baneseed"
+    ]
+  },
+  {
+    "author": "Hari Krishna",
+    "description": "Lets tickle your brain with this quiz-themed tiles game.",
+    "genre": "Educational",
+    "id": "871006",
+    "link": "https://hari-inc.itch.io/guess-the-picture",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTU4MzEucG5n/315x250%23c/5Tzmy7.png",
+    "title": "Guess the Picture",
+    "video": null,
+    "scrapeWords": [
+      "Guess",
+      "the",
+      "Picture"
     ]
   },
   {
@@ -105671,13 +105804,135 @@
     "id": "871757",
     "link": "https://adrien-pillou.itch.io/kioku-card-game",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDA1NDAucG5n/315x250%23c/OqjEOZ.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDIwNTMucG5n/315x250%23c/yzpG4%2F.png",
     "title": "Kioku Card Game",
     "video": null,
     "scrapeWords": [
       "Kioku",
       "Card",
       "Game"
+    ]
+  },
+  {
+    "author": "mssalkhalifah",
+    "description": null,
+    "genre": "Action",
+    "id": "871905",
+    "link": "https://mssalkhalifah.itch.io/careful-with-that-stick",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDIxODQucG5n/315x250%23c/5JgKVD.png",
+    "title": "Careful With That Stick!",
+    "video": null,
+    "scrapeWords": [
+      "Careful",
+      "With",
+      "That",
+      "Stick"
+    ]
+  },
+  {
+    "author": "nad_labs",
+    "description": null,
+    "genre": "Strategy",
+    "id": "871907",
+    "link": "https://nad-labs.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
+    ]
+  },
+  {
+    "author": "GNamimates",
+    "description": "among us",
+    "genre": "Interactive Fiction",
+    "id": "871989",
+    "link": "https://gnamimates.itch.io/crewmates-on-the-screen",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDIyMDEucG5n/315x250%23c/ctEC%2Bt.png",
+    "title": "crewmates on the screen",
+    "video": null,
+    "scrapeWords": [
+      "crewmates",
+      "on",
+      "the",
+      "screen"
+    ]
+  },
+  {
+    "author": "Lightwatch",
+    "description": "Unlock the treasure of the maze!",
+    "genre": "Puzzle",
+    "id": "872228",
+    "link": "https://lightwatch.itch.io/runelock",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDM4MjgucG5n/315x250%23c/Pjbo1I.png",
+    "title": "Runelock",
+    "video": null,
+    "scrapeWords": [
+      "Runelock"
+    ]
+  },
+  {
+    "author": "David KBD",
+    "description": "Pictionary / Pinturillo for Twitch Chat",
+    "genre": null,
+    "id": "872249",
+    "link": "https://davidkbd.itch.io/pictwitch",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDQwMDcucG5n/315x250%23c/YakoxC.png",
+    "title": "PicTwitch",
+    "video": null,
+    "scrapeWords": [
+      "Pic",
+      "Twitch"
+    ]
+  },
+  {
+    "author": "Mate Cocido",
+    "description": "Don't get backstabbed!",
+    "genre": null,
+    "id": "872402",
+    "link": "https://matecodev.itch.io/heavy-vs-spy",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDUxODYucG5n/315x250%23c/HIVXcL.png",
+    "title": "Heavy vs Spy",
+    "video": null,
+    "scrapeWords": [
+      "Heavy",
+      "vs",
+      "Spy"
+    ]
+  },
+  {
+    "author": "Gatix",
+    "description": "This is the demo of game i am developing, and this is my first game",
+    "genre": "Action",
+    "id": "872455",
+    "link": "https://gatix.itch.io/in-the-shadow",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDUzMTMucG5n/315x250%23c/iGSedv.png",
+    "title": "InTheShadow",
+    "video": null,
+    "scrapeWords": [
+      "In",
+      "The",
+      "Shadow"
     ]
   },
   {
