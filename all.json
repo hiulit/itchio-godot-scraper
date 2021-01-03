@@ -3809,7 +3809,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/315x250%23cm/oMMB4B.gif",
     "title": "Endhall",
-    "video": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/original/mcgM%2Ff.gif",
+    "video": null,
     "scrapeWords": [
       "Endhall"
     ]
@@ -27961,6 +27961,25 @@
     ]
   },
   {
+    "author": "Vanne",
+    "description": "A simple puzzle game using only two buttons",
+    "genre": "Puzzle",
+    "id": "404133",
+    "link": "https://vanne.itch.io/lights-out",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Joshua 🐢",
     "description": "A happy birthday project for my friend who likes fries",
     "genre": "Survival",
@@ -28198,7 +28217,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NTM4NzIuZ2lm/315x250%23cm/%2F%2BssEV.gif",
     "title": "Oddventure",
-    "video": "https://img.itch.zone/aW1nLzQ0NTM4NzIuZ2lm/original/P%2Fz46e.gif",
+    "video": null,
     "scrapeWords": [
       "Oddventure"
     ]
@@ -28499,7 +28518,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzIwMzE4MDEuZ2lm/315x250%23cm/86oLQy.gif",
     "title": "Hyperspace Drifter",
-    "video": "https://img.itch.zone/aW1nLzIwMzE4MDEuZ2lm/original/6Ms6lv.gif",
+    "video": null,
     "scrapeWords": [
       "Hyperspace",
       "Drifter"
@@ -29579,7 +29598,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/315x250%23cm/SUdaN5.gif",
     "title": "Guardian Sphere",
-    "video": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/original/KgP9oX.gif",
+    "video": null,
     "scrapeWords": [
       "Guardian",
       "Sphere"
@@ -46112,23 +46131,6 @@
     ]
   },
   {
-    "author": "MaoItsMe",
-    "description": null,
-    "genre": "Platformer",
-    "id": "539897",
-    "link": "https://maodev.itch.io/santa-giftrun",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MTA0ODUucG5n/315x250%23c/bYQ0dy.png",
-    "title": "Santa Giftrun",
-    "video": null,
-    "scrapeWords": [
-      "Santa",
-      "Giftrun"
-    ]
-  },
-  {
     "author": "GreenBeakCrow",
     "description": "Will you be the next Half-Pipe Mega Star?",
     "genre": "Action",
@@ -54606,7 +54608,11 @@
     "genre": "Simulation",
     "id": "599406",
     "link": "https://jean28518.itch.io/libre-train-sim",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQwNDkuanBn/315x250%23c/lOpInD.jpg",
     "title": "Libre TrainSim",
     "video": null,
@@ -67023,6 +67029,26 @@
     ]
   },
   {
+    "author": "code.ama",
+    "description": "Defend the dungeon as long as you can.",
+    "genre": "Action",
+    "id": "662614",
+    "link": "https://codeama.itch.io/one-button-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1OTEwNjUuanBn/315x250%23c/q%2BQYTf.jpg",
+    "title": "One Button Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Dungeon"
+    ]
+  },
+  {
     "author": "katp32",
     "description": "An open source command line space exploration MMO.",
     "genre": "Simulation",
@@ -78580,21 +78606,6 @@
     ]
   },
   {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -86770,6 +86781,23 @@
       "Escape",
       "From",
       "Europa"
+    ]
+  },
+  {
+    "author": "Untailo",
+    "description": "2D puzzle-platformer demo where you can control two different characters",
+    "genre": "Adventure",
+    "id": "749975",
+    "link": "https://untailo.itch.io/homelette",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDc1MDIucG5n/315x250%23c/FGDcbT.png",
+    "title": "Homelette demo",
+    "video": null,
+    "scrapeWords": [
+      "Homelette"
     ]
   },
   {
@@ -94977,26 +95005,6 @@
     ]
   },
   {
-    "author": "Evpevdev",
-    "description": "A one button dungeon crawler",
-    "genre": "Adventure",
-    "id": "792218",
-    "link": "https://evpevdev.itch.io/one-button-dungeon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0MzU2MzMucG5n/315x250%23c/Q3erCE.png",
-    "title": "One Button Dungeon",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Button",
-      "Dungeon"
-    ]
-  },
-  {
     "author": "davidpeterworks",
     "description": "Driving a clay cab in Clay city",
     "genre": "Racing",
@@ -102570,6 +102578,22 @@
     ]
   },
   {
+    "author": "devauer",
+    "description": "Novela grafica en la cual se encarna a Alex un agente paranormal, encargado de ayudar a las almas en pena a descansar",
+    "genre": "Visual Novel",
+    "id": "844839",
+    "link": "https://devauer.itch.io/a-ghost-storie",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzY0NzYucG5n/315x250%23c/OyKzjV.png",
+    "title": "A ghost Storie",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "ghost",
+      "Storie"
+    ]
+  },
+  {
     "author": "WebFreak",
     "description": "A game full of surprises",
     "genre": "Platformer",
@@ -105420,7 +105444,8 @@
     "id": "868313",
     "link": "https://peermom.itch.io/idle-game",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4Nzg0NzQucG5n/315x250%23c/zK7jKY.png",
     "title": "Idle Game!",
@@ -105445,6 +105470,21 @@
     "video": null,
     "scrapeWords": [
       "bounceball"
+    ]
+  },
+  {
+    "author": "davidpeterworks",
+    "description": null,
+    "genre": "Platformer",
+    "id": "868884",
+    "link": "https://davidpeterworks.itch.io/bug-queen",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDgwMzcucG5n/315x250%23c/rOWlBP.png",
+    "title": "Bug Queen",
+    "video": null,
+    "scrapeWords": [
+      "Bug",
+      "Queen"
     ]
   },
   {
@@ -105650,8 +105690,7 @@
     "link": "https://its-meii.itch.io/outofshapes",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4OTE2MzAucG5n/315x250%23c/Rl%2B0yY.png",
     "title": "OutOfShapes",
@@ -105814,6 +105853,21 @@
     ]
   },
   {
+    "author": "The Sapphire Starship",
+    "description": "You are one of the technologically advanced slime that has been locked in a war with another race of slime.",
+    "genre": "Shooter",
+    "id": "871826",
+    "link": "https://the-sapphire-starship.itch.io/battle-slime",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDg1MDMucG5n/315x250%23c/Yemmzf.png",
+    "title": "Battle Slime",
+    "video": null,
+    "scrapeWords": [
+      "Battle",
+      "Slime"
+    ]
+  },
+  {
     "author": "mssalkhalifah",
     "description": null,
     "genre": "Action",
@@ -105933,6 +105987,24 @@
       "In",
       "The",
       "Shadow"
+    ]
+  },
+  {
+    "author": "Alex Chichester",
+    "description": "The day the world nearly ended.",
+    "genre": "Visual Novel",
+    "id": "873063",
+    "link": "https://alexchichester.itch.io/b-59",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDkzMTEucG5n/315x250%23c/WOoSpa.png",
+    "title": "The B-59 Incident",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "B-59",
+      "Incident"
     ]
   },
   {
