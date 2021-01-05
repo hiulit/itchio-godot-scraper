@@ -43551,24 +43551,6 @@
     ]
   },
   {
-    "author": "???",
-    "description": "Fast Action Snake",
-    "genre": "Action",
-    "id": "517924",
-    "link": "https://polygull.itch.io/eel",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2ODk3MDUucG5n/315x250%23c/ZZsoYg.png",
-    "title": "eel",
-    "video": null,
-    "scrapeWords": [
-      "eel"
-    ]
-  },
-  {
     "author": "AloveZ",
     "description": "`Time Leap` by bike Cycle",
     "genre": "Racing",
@@ -43972,7 +43954,7 @@
     "description": "The online version of DigiGotchi",
     "genre": null,
     "id": "522116",
-    "link": "https://qrafa.itch.io/digi",
+    "link": "https://qcrafa.itch.io/digi",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI3MTEyNzUucG5n/315x250%23c/htJKW1.png",
     "title": "DigiGotchi",
@@ -44163,25 +44145,6 @@
       "One",
       "Button",
       "Electromagnetism"
-    ]
-  },
-  {
-    "author": "nivrig",
-    "description": "Help Santa save Christmas!",
-    "genre": "Action",
-    "id": "524857",
-    "link": "https://nivrig.itch.io/santa-rocks",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI3MjYwOTkucG5n/315x250%23c/a%2B5kff.png",
-    "title": "Santa Rocks",
-    "video": null,
-    "scrapeWords": [
-      "Santa",
-      "Rocks"
     ]
   },
   {
@@ -48319,21 +48282,6 @@
       "Board",
       "Game",
       "Simulator"
-    ]
-  },
-  {
-    "author": "???",
-    "description": "Stack the stack well!",
-    "genre": null,
-    "id": "553413",
-    "link": "https://polygull.itch.io/fat-stack",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4OTY2MzMucG5n/315x250%23c/P6GS6X.png",
-    "title": "Fat Stack",
-    "video": null,
-    "scrapeWords": [
-      "Fat",
-      "Stack"
     ]
   },
   {
@@ -60649,7 +60597,7 @@
   },
   {
     "author": "[NEN] Studio",
-    "description": "open world game",
+    "description": null,
     "genre": "Action",
     "id": "627197",
     "link": "https://nen-studio.itch.io/need-more-ammo",
@@ -68764,7 +68712,7 @@
     ]
   },
   {
-    "author": "SrKomodo",
+    "author": "Komodo",
     "description": "you know what to do",
     "genre": null,
     "id": "674346",
@@ -100641,9 +100589,7 @@
     "genre": "Platformer",
     "id": "831356",
     "link": "https://snesio-cat123.itch.io/hertje-game",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2NTg5NjQuanBn/315x250%23c/mmsdDE.jpg",
     "title": "Hertje Game (deer game)",
     "video": null,
@@ -103262,7 +103208,7 @@
     "id": "850262",
     "link": "https://arez1.itch.io/procsoccer",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3Njc0NDcucG5n/315x250%23c/HfDSXi.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTcwNTgucG5n/315x250%23c/TN31hY.png",
     "title": "ProcSoccer",
     "video": null,
     "scrapeWords": [
@@ -103899,23 +103845,6 @@
     ]
   },
   {
-    "author": "Nielstupido",
-    "description": "Find the EXIT.",
-    "genre": "Puzzle",
-    "id": "855295",
-    "link": "https://nielstupido.itch.io/the-exit",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MTYzMzguanBn/315x250%23c/a%2B96xd.jpg",
-    "title": "The Exit",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Exit"
-    ]
-  },
-  {
     "author": "Alex Garbus",
     "description": "Collect enough adrenaline to travel through time!",
     "genre": "Action",
@@ -104350,6 +104279,24 @@
       "Goes",
       "Treasure",
       "Hunting"
+    ]
+  },
+  {
+    "author": "Alexander",
+    "description": "A simple 3D maze that I made in Godot",
+    "genre": "Adventure",
+    "id": "859301",
+    "link": "https://lordop.itch.io/3d-maze",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MjI5ODcucG5n/315x250%23c/F5sc3w.png",
+    "title": "3D Maze",
+    "video": null,
+    "scrapeWords": [
+      "3",
+      "D",
+      "Maze"
     ]
   },
   {
@@ -104823,6 +104770,23 @@
       "on",
       "Christmas",
       "Eve"
+    ]
+  },
+  {
+    "author": "ExoPrism",
+    "description": null,
+    "genre": null,
+    "id": "861678",
+    "link": "https://exoprism.itch.io/slime-world",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTcwNzMucG5n/315x250%23c/NQy5X6.png",
+    "title": "Slime World",
+    "video": null,
+    "scrapeWords": [
+      "Slime",
+      "World"
     ]
   },
   {
@@ -105364,6 +105328,29 @@
     ]
   },
   {
+    "author": "Zede",
+    "description": "This game you can become me, Zedespook's, little PogChamp.",
+    "genre": "Platformer",
+    "id": "865814",
+    "link": "https://zedespook.itch.io/you-becoming-my-little-pogchamp",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjI0MDAucG5n/315x250%23c/tm471%2B.png",
+    "title": "Lyra becoming my little PogChamp",
+    "video": null,
+    "scrapeWords": [
+      "Lyra",
+      "becoming",
+      "my",
+      "little",
+      "Pog",
+      "Champ"
+    ]
+  },
+  {
     "author": "Top Notch Games",
     "description": "Battle to the death in the snow!",
     "genre": "Shooter",
@@ -105828,11 +105815,31 @@
     ]
   },
   {
-    "author": "DELTA 12 STUDIO",
-    "description": "RPG",
+    "author": "Roughnight",
+    "description": "collect your lost flowers in the cave, but beware of evildoers",
+    "genre": "Platformer",
+    "id": "870419",
+    "link": "https://roughnight.itch.io/caveflowers",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTE1NDUucG5n/315x250%23c/x3t8Q4.png",
+    "title": "CaveFlowers Gamejam entry",
+    "video": null,
+    "scrapeWords": [
+      "Cave",
+      "Flowers",
+      "Gamejam",
+      "entry"
+    ]
+  },
+  {
+    "author": "Delta12 Studio",
+    "description": "Godot RPG",
     "genre": "Role Playing",
     "id": "870527",
-    "link": "https://delta-12-studio.itch.io/lango",
+    "link": "https://delta12-studio.itch.io/lango",
     "platforms": [
       "Windows",
       "Linux"
@@ -106166,6 +106173,22 @@
     ]
   },
   {
+    "author": "cornacchia",
+    "description": "Skeletons in the local graveyard are acting up. Agent 42 must do something about it!",
+    "genre": "Shooter",
+    "id": "873283",
+    "link": "https://cornacchia.itch.io/42-vs-evil",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTE2OTQuanBn/315x250%23c/%2FqNoFQ.jpg",
+    "title": "42 vs. Evil",
+    "video": null,
+    "scrapeWords": [
+      "42",
+      "vs",
+      "Evil"
+    ]
+  },
+  {
     "author": "zccv",
     "description": null,
     "genre": "Platformer",
@@ -106254,6 +106277,23 @@
     "scrapeWords": [
       "Falling",
       "Bits"
+    ]
+  },
+  {
+    "author": "Clécio Espíndola GameDev",
+    "description": "Jogo de tiro e sobrevivência top down.",
+    "genre": "Action",
+    "id": "874320",
+    "link": "https://clecioespindola.itch.io/top-down-wave-shooter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTc5NTcuanBn/315x250%23c/4IvcKV.jpg",
+    "title": "Top Down Wave Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Top",
+      "Down",
+      "Wave",
+      "Shooter"
     ]
   },
   {
