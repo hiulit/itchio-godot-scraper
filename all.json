@@ -4225,20 +4225,6 @@
     ]
   },
   {
-    "author": "imekon",
-    "description": "Breakout sample in Godot 2.1.4",
-    "genre": null,
-    "id": "197722",
-    "link": "https://imekon.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
-    ]
-  },
-  {
     "author": "securas",
     "description": "A hack and slash roguelike winner of the 2017 Github Game Off Jam",
     "genre": "Role Playing",
@@ -5497,7 +5483,9 @@
     "genre": "Sports",
     "id": "212350",
     "link": "https://roddi.itch.io/volleyfall",
-    "platforms": null,
+    "platforms": [
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMjEyMzUwLzk5OTk3OC5wbmc=/315x250%23c/pTf8KP.png",
     "title": "VolleyFall",
     "video": null,
@@ -14551,6 +14539,20 @@
     ]
   },
   {
+    "author": "Chuckles P.  Monkeyworth",
+    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
+    "genre": null,
+    "id": "290114",
+    "link": "https://chucklespmonkeyworth.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
+    ]
+  },
+  {
     "author": "TheVampster",
     "description": null,
     "genre": "Action",
@@ -22302,6 +22304,23 @@
       "be",
       "a",
       "Triangle"
+    ]
+  },
+  {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -38667,25 +38686,6 @@
     "scrapeWords": [
       "Project",
       "Huesos"
-    ]
-  },
-  {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -55221,7 +55221,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMyMzM3OTEucG5n/315x250%23c/lGs4U9.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjQwNjcucG5n/315x250%23c/Ruuqxa.png",
     "title": "Dimension Invader",
     "video": null,
     "scrapeWords": [
@@ -57371,7 +57371,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1NjQyMDYucG5n/315x250%23c/RvGi%2Bp.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjU1MjgucG5n/315x250%23c/lRGsXp.png",
     "title": "Care for the little Things",
     "video": null,
     "scrapeWords": [
@@ -88154,6 +88154,25 @@
     ]
   },
   {
+    "author": "DefaultHeathen",
+    "description": "Survive",
+    "genre": "Action",
+    "id": "755658",
+    "link": "https://defaultheathen.itch.io/caverns",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyMjg2NTEucG5n/315x250%23c/S3i7FP.png",
+    "title": "Drums in the deep",
+    "video": null,
+    "scrapeWords": [
+      "Drums",
+      "in",
+      "the",
+      "deep"
+    ]
+  },
+  {
     "author": "Exilland",
     "description": "Dungeon-crawler deckbuilder with puzzle elements",
     "genre": "Card Game",
@@ -91032,27 +91051,6 @@
     "scrapeWords": [
       "Silly",
       "Gentlemen"
-    ]
-  },
-  {
-    "author": "JJ Montes",
-    "description": "Play. Just play from your heart.",
-    "genre": null,
-    "id": "770134",
-    "link": "https://jjmontesl.itch.io/duelo-y-quebranto",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQzMDkxNjUucG5n/315x250%23c/pCWRRN.png",
-    "title": "Duelo y Quebranto los Sábados",
-    "video": null,
-    "scrapeWords": [
-      "Duelo",
-      "y",
-      "Quebranto",
-      "los",
-      "Sábados"
     ]
   },
   {
@@ -94318,7 +94316,7 @@
   },
   {
     "author": "JWR26 Games",
-    "description": "My first dabble in making a game!",
+    "description": "My first dabble in making games!",
     "genre": null,
     "id": "787276",
     "link": "https://jwr26-games.itch.io/dodge-the-cones",
@@ -95935,6 +95933,25 @@
       "Hours",
       "to",
       "Athens"
+    ]
+  },
+  {
+    "author": "TuanisApps",
+    "description": "A space RTS, mine asteroid, build your fleet and destroy the invaders.",
+    "genre": "Strategy",
+    "id": "798210",
+    "link": "https://tuanisapps.itch.io/the-lagrange-grid",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTk2NTkucG5n/315x250%23c/iqTlJC.png",
+    "title": "The Lagrange Grid",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Lagrange",
+      "Grid"
     ]
   },
   {
@@ -99296,7 +99313,7 @@
     ]
   },
   {
-    "author": "Lamasaurus",
+    "author": "Sander Vanhove",
     "description": null,
     "genre": "Puzzle",
     "id": "822660",
@@ -101124,7 +101141,7 @@
     ]
   },
   {
-    "author": "lewis glasgow",
+    "author": "Lewis Game Dev",
     "description": "after waking up in a goverment facility being tested on your only chance for survival is to escape",
     "genre": "Shooter",
     "id": "836289",
@@ -101548,13 +101565,11 @@
   },
   {
     "author": "KikeGamer",
-    "description": "Comstructive Criticism is a short platformer created during the Secret Santa Jam 2020.",
+    "description": "Constructive Criticism is a short platformer created during the Secret Santa Jam 2020.",
     "genre": "Platformer",
     "id": "837805",
     "link": "https://kikegamer.itch.io/constructive-criticism",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3NTY2NTAucG5n/315x250%23c/5GGJ0W.png",
     "title": "Constructive Criticism",
     "video": null,
@@ -104284,11 +104299,12 @@
   {
     "author": "Alexander",
     "description": "A simple 3D maze that I made in Godot",
-    "genre": "Adventure",
+    "genre": "Puzzle",
     "id": "859301",
     "link": "https://lordop.itch.io/3d-maze",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MjI5ODcucG5n/315x250%23c/F5sc3w.png",
     "title": "3D Maze",
@@ -104551,6 +104567,20 @@
     "scrapeWords": [
       "Hatchling",
       "Heroes"
+    ]
+  },
+  {
+    "author": "devtello",
+    "description": null,
+    "genre": "Educational",
+    "id": "860779",
+    "link": "https://devtello.itch.io/vimzard",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MzE4OTIucG5n/315x250%23c/nOxMJc.png",
+    "title": "Vimzard",
+    "video": null,
+    "scrapeWords": [
+      "Vimzard"
     ]
   },
   {
@@ -105266,7 +105296,8 @@
     "id": "865139",
     "link": "https://ironjupiter.itch.io/space-n-lasers",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4NTgxNzYuanBn/315x250%23c/qozv%2Bp.jpg",
     "title": "Space 'n Lasers",
@@ -105853,7 +105884,7 @@
   },
   {
     "author": "sebjugate",
-    "description": "A stylish shooter with procedural, dynamic combat",
+    "description": "A stylish twin-stick shooter with procedural, dynamic combat",
     "genre": "Shooter",
     "id": "870918",
     "link": "https://sebjugate.itch.io/baneseed",
@@ -105937,6 +105968,26 @@
     "scrapeWords": [
       "SKY",
       "Ex"
+    ]
+  },
+  {
+    "author": "Mercaman",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "871485",
+    "link": "https://mercaman.itch.io/totally-futuristic-testing-facility",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTkwMjAucG5n/315x250%23c/E7nqy%2F.png",
+    "title": "Totally Futuristic Testing Facility",
+    "video": null,
+    "scrapeWords": [
+      "Totally",
+      "Futuristic",
+      "Testing",
+      "Facility"
     ]
   },
   {
@@ -106294,6 +106345,44 @@
       "Down",
       "Wave",
       "Shooter"
+    ]
+  },
+  {
+    "author": "The Flying Cortijo",
+    "description": "Recoge todas las chuches que puedas antes de que pase la cabalgata.",
+    "genre": "Puzzle",
+    "id": "875274",
+    "link": "https://tfc.itch.io/super-cabalgata-de-reyes",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjQzMDYuanBn/315x250%23c/oZRacN.jpg",
+    "title": "Super Cabalgata de Reyes",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Cabalgata",
+      "de",
+      "Reyes"
+    ]
+  },
+  {
+    "author": "Sander Vanhove",
+    "description": "A Ludum Dare 46 game",
+    "genre": "Platformer",
+    "id": "875334",
+    "link": "https://lamasaurus.itch.io/keep-it-alight",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjQ3MjMuanBn/315x250%23c/CCnD9b.jpg",
+    "title": "Keep It Alight (LDjam 46)",
+    "video": null,
+    "scrapeWords": [
+      "Keep",
+      "It",
+      "Alight",
+      "LDjam",
+      "46"
     ]
   },
   {
