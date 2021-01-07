@@ -15525,23 +15525,6 @@
     ]
   },
   {
-    "author": "Essojadojef",
-    "description": null,
-    "genre": "Adventure",
-    "id": "292976",
-    "link": "https://essojadojef.itch.io/lowrez-jam-18",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkyOTc2LzE0MzIyNTEucG5n/315x250%23c/QhzjW6.png",
-    "title": "Cave-Trapped",
-    "video": null,
-    "scrapeWords": [
-      "Cave-Trapped"
-    ]
-  },
-  {
     "author": "chipolux",
     "description": "Ludum Dare 42 Compo Entry",
     "genre": null,
@@ -15578,6 +15561,23 @@
       "The",
       "Slimes",
       "Post-Jam"
+    ]
+  },
+  {
+    "author": "Santosh T.",
+    "description": null,
+    "genre": null,
+    "id": "293187",
+    "link": "https://santoshtimmermans.itch.io/8-bit-timer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkzMTg3LzE0NzQwMDUucG5n/315x250%23c/Vh2lK1.png",
+    "title": "Leaf Timer 8Bit",
+    "video": null,
+    "scrapeWords": [
+      "Leaf",
+      "Timer",
+      "8",
+      "Bit"
     ]
   },
   {
@@ -19875,6 +19875,23 @@
     "scrapeWords": [
       "Costume",
       "Catastrophe"
+    ]
+  },
+  {
+    "author": "chiendev",
+    "description": "[suspended]",
+    "genre": null,
+    "id": "326322",
+    "link": "https://chiendev.itch.io/cylquest",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE2MTM4MzIucG5n/315x250%23c/x5XaX6.png",
+    "title": "cylquest[0.1.4]",
+    "video": null,
+    "scrapeWords": [
+      "cylquest[014]"
     ]
   },
   {
@@ -43440,6 +43457,24 @@
     ]
   },
   {
+    "author": "Dawidak Games",
+    "description": "Help Zelus stop those things from eating your brothers!",
+    "genre": "Platformer",
+    "id": "517384",
+    "link": "https://dawidak.itch.io/zelus-full",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDI4ODYucG5n/315x250%23c/QiB18Y.png",
+    "title": "Zelus",
+    "video": null,
+    "scrapeWords": [
+      "Zelus"
+    ]
+  },
+  {
     "author": "jaredpincus",
     "description": null,
     "genre": "Action",
@@ -54797,25 +54832,6 @@
     "video": null,
     "scrapeWords": [
       "Potioneer"
-    ]
-  },
-  {
-    "author": "futebutesiku",
-    "description": "An angel uses his powers to heal a pandemic",
-    "genre": "Simulation",
-    "id": "600800",
-    "link": "https://futebutesiku.itch.io/pandemic-panic",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMxODQyNTkucG5n/315x250%23c/TuOKkr.png",
-    "title": "Pandemic Panic",
-    "video": null,
-    "scrapeWords": [
-      "Pandemic",
-      "Panic"
     ]
   },
   {
@@ -80753,25 +80769,6 @@
     ]
   },
   {
-    "author": "Nathan Warden",
-    "description": "A puzzle game where you play as a robot who needs to deliver a crate to its drop point.",
-    "genre": "Puzzle",
-    "id": "727315",
-    "link": "https://nathan-warden.itch.io/roboggled",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3OTQwODkucG5n/315x250%23c/V54TmI.png",
-    "title": "Roboggled",
-    "video": null,
-    "scrapeWords": [
-      "Roboggled"
-    ]
-  },
-  {
     "author": "Ralf Sawazki",
     "description": null,
     "genre": "Survival",
@@ -93318,6 +93315,23 @@
     ]
   },
   {
+    "author": "The Missing Bracket",
+    "description": "A horror game about finding murderers in your spaceship",
+    "genre": null,
+    "id": "780612",
+    "link": "https://the-missing-bracket.itch.io/beanstronauts",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzNjUyNTIucG5n/315x250%23c/uSIBJX.png",
+    "title": "Beanstronauts",
+    "video": null,
+    "scrapeWords": [
+      "Beanstronauts"
+    ]
+  },
+  {
     "author": "Verbante",
     "description": "kill imposters but not yourself in a time loop",
     "genre": "Action",
@@ -100751,23 +100765,6 @@
     ]
   },
   {
-    "author": "redex991",
-    "description": null,
-    "genre": "Platformer",
-    "id": "832643",
-    "link": "https://redex991.itch.io/the-ultimate-platformer-v2",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ2NjU4NzYucG5n/315x250%23c/LQJOYN.png",
-    "title": "The ultimate platformer v2",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "ultimate",
-      "platformer",
-      "v2"
-    ]
-  },
-  {
     "author": "Daniel Barral",
     "description": "Can you control the pendulum?",
     "genre": "Action",
@@ -102423,26 +102420,6 @@
     ]
   },
   {
-    "author": "Mather",
-    "description": "A fighting game",
-    "genre": "Action",
-    "id": "843083",
-    "link": "https://mather-games.itch.io/za-gladiator-arena",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MjYzMzEucG5n/315x250%23c/aOiktl.png",
-    "title": "ZA Gladiator Arena",
-    "video": null,
-    "scrapeWords": [
-      "ZA",
-      "Gladiator",
-      "Arena"
-    ]
-  },
-  {
     "author": "Aspring15",
     "description": null,
     "genre": "Adventure",
@@ -103312,7 +103289,7 @@
     "id": "851509",
     "link": "https://autistmouse.itch.io/maxs-big-bday-adventure",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3ODE2OTQucG5n/315x250%23c/pVdQ0L.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzMzMjUucG5n/315x250%23c/5LpMa2.png",
     "title": "Max's Big Bday Adventure",
     "video": null,
     "scrapeWords": [
@@ -103529,7 +103506,9 @@
     "genre": "Platformer",
     "id": "853919",
     "link": "https://exoprism.itch.io/missing-home",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ3ODkyOTYucG5n/315x250%23c/FHLJA9.png",
     "title": "Missing Home (Secret Santa Jam 2020)",
     "video": null,
@@ -103940,6 +103919,23 @@
     ]
   },
   {
+    "author": "Jack Taylor",
+    "description": "Help the townspeople survive the virus!",
+    "genre": "Shooter",
+    "id": "856644",
+    "link": "https://jacktaylorgames.itch.io/pandemicpanic",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTg0NjEucG5n/315x250%23c/HtajSC.png",
+    "title": "Pandemic Panic",
+    "video": null,
+    "scrapeWords": [
+      "Pandemic",
+      "Panic"
+    ]
+  },
+  {
     "author": "Snowy Fox",
     "description": "A tiny test game made in Godot",
     "genre": "Action",
@@ -104265,7 +104261,7 @@
   {
     "author": "Cool As Ice Tea",
     "description": "Duel bandits and alien saucers and see how long you manage!",
-    "genre": "Shooter",
+    "genre": "Action",
     "id": "858542",
     "link": "https://cool-as-ice-tea.itch.io/throwman-mcgee",
     "platforms": null,
@@ -104812,11 +104808,16 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MTcwNzMucG5n/315x250%23c/NQy5X6.png",
-    "title": "Slime World",
+    "title": "Slime World (DevSquad Academy Jam 2020)",
     "video": null,
     "scrapeWords": [
       "Slime",
-      "World"
+      "World",
+      "Dev",
+      "Squad",
+      "Academy",
+      "Jam",
+      "2020"
     ]
   },
   {
@@ -105536,6 +105537,23 @@
     ]
   },
   {
+    "author": "Soju and Ink",
+    "description": "russion roulette",
+    "genre": "Simulation",
+    "id": "867617",
+    "link": "https://soju-and-ink.itch.io/gangster-roulette",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NzQxNTAuanBn/315x250%23c/w0DaGv.jpg",
+    "title": "Gangster Roulette",
+    "video": null,
+    "scrapeWords": [
+      "Gangster",
+      "Roulette"
+    ]
+  },
+  {
     "author": "horhorou",
     "description": "Holsens is a submission for the Completion Jam hosted by Deynum on December 2020.",
     "genre": "Platformer",
@@ -105603,6 +105621,23 @@
     ]
   },
   {
+    "author": "Ori Brusilovsky",
+    "description": "Memory card game crossed with turn-based, wild-west themed duel",
+    "genre": "Card Game",
+    "id": "868821",
+    "link": "https://brusi.itch.io/matchoff",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTk5NDMucG5n/315x250%23c/eajcNu.png",
+    "title": "Match-Off",
+    "video": null,
+    "scrapeWords": [
+      "Match-Off"
+    ]
+  },
+  {
     "author": "davidpeterworks",
     "description": null,
     "genre": "Platformer",
@@ -105644,11 +105679,11 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4ODE1MTcucG5n/315x250%23c/%2FZ0QHt.png",
-    "title": "Shoot Bois",
+    "title": "Gun gang",
     "video": null,
     "scrapeWords": [
-      "Shoot",
-      "Bois"
+      "Gun",
+      "gang"
     ]
   },
   {
@@ -106258,6 +106293,21 @@
     ]
   },
   {
+    "author": "Gaax Inc.",
+    "description": null,
+    "genre": "Action",
+    "id": "873443",
+    "link": "https://gaax-inc.itch.io/flappy-bird",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTE2ODAucG5n/315x250%23c/bJaKjD.png",
+    "title": "Flappy Bird",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Bird"
+    ]
+  },
+  {
     "author": "OtherAlexy",
     "description": "Simple card game - test your memory",
     "genre": "Card Game",
@@ -106348,6 +106398,22 @@
     ]
   },
   {
+    "author": "voxelvoid",
+    "description": "Retro FPS that takes place in a hostile dimension",
+    "genre": "Shooter",
+    "id": "875253",
+    "link": "https://voxelvoid.itch.io/quadremor",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjQyNzkucG5n/315x250%23c/PMgxX8.png",
+    "title": "Quadremor",
+    "video": null,
+    "scrapeWords": [
+      "Quadremor"
+    ]
+  },
+  {
     "author": "The Flying Cortijo",
     "description": "Recoge todas las chuches que puedas antes de que pase la cabalgata.",
     "genre": "Puzzle",
@@ -106383,6 +106449,89 @@
       "Alight",
       "LDjam",
       "46"
+    ]
+  },
+  {
+    "author": "Lerg-exe",
+    "description": "You are the robot who was sent from the future to save humanity.  Isnpired by Karlson2D and katan zero(but not as good)",
+    "genre": "Action",
+    "id": "876493",
+    "link": "https://lerg-exe.itch.io/lovely-village",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzE5ODAucG5n/315x250%23c/nuX5Fw.png",
+    "title": "Lovely Village",
+    "video": null,
+    "scrapeWords": [
+      "Lovely",
+      "Village"
+    ]
+  },
+  {
+    "author": "Sir0Kuhl",
+    "description": "You are a witch. So they hunt you.",
+    "genre": "Action",
+    "id": "876498",
+    "link": "https://sir0kuhl.itch.io/witch-hunt",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzE5NzAucG5n/315x250%23c/K57Iaj.png",
+    "title": "Witch Hunt",
+    "video": null,
+    "scrapeWords": [
+      "Witch",
+      "Hunt"
+    ]
+  },
+  {
+    "author": "Flobblewurt",
+    "description": "Point and shoot light gun / endless runner!",
+    "genre": "Shooter",
+    "id": "876522",
+    "link": "https://flobblewurt.itch.io/light-grun",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzIwNTcucG5n/315x250%23c/gqcSMu.png",
+    "title": "Light GRUN",
+    "video": null,
+    "scrapeWords": [
+      "Light",
+      "GRUN"
+    ]
+  },
+  {
+    "author": "Dexint",
+    "description": "Change color to get different abilities, use the abilities to get all the trophies as fast as you can!",
+    "genre": "Platformer",
+    "id": "876639",
+    "link": "https://mdcroque.itch.io/colorjump-speedrun-demo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzMwOTAucG5n/315x250%23c/iUcYRZ.png",
+    "title": "ColorJump Speedrun Demo",
+    "video": null,
+    "scrapeWords": [
+      "Color",
+      "Jump",
+      "Speedrun"
+    ]
+  },
+  {
+    "author": "Magno de Morais",
+    "description": "A fighting game with some of Lovecraft's monsters",
+    "genre": "Fighting",
+    "id": "876723",
+    "link": "https://magno-morais.itch.io/cthulhu-fighters",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzMyNDUucG5n/315x250%23c/fGM3Fi.png",
+    "title": "Cthulhu Fighters",
+    "video": null,
+    "scrapeWords": [
+      "Cthulhu",
+      "Fighters"
     ]
   },
   {
