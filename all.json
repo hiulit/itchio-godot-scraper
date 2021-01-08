@@ -15525,6 +15525,23 @@
     ]
   },
   {
+    "author": "Essojadojef",
+    "description": null,
+    "genre": "Adventure",
+    "id": "292976",
+    "link": "https://essojadojef.itch.io/lowrez-jam-18",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkyOTc2LzE0MzIyNTEucG5n/315x250%23c/QhzjW6.png",
+    "title": "Cave-Trapped",
+    "video": null,
+    "scrapeWords": [
+      "Cave-Trapped"
+    ]
+  },
+  {
     "author": "chipolux",
     "description": "Ludum Dare 42 Compo Entry",
     "genre": null,
@@ -22321,23 +22338,6 @@
       "be",
       "a",
       "Triangle"
-    ]
-  },
-  {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -37370,11 +37370,13 @@
     "link": "https://hologrape.itch.io/laramagenta",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0MTIyOTcucG5n/315x250%23c/t8Oudj.png",
-    "title": "Lara Magenta",
+    "title": "Lara Magenta: Anagram Tale",
     "video": null,
     "scrapeWords": [
       "Lara",
-      "Magenta"
+      "Magenta",
+      "Anagram",
+      "Tale"
     ]
   },
   {
@@ -38703,6 +38705,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -40273,6 +40294,23 @@
     "video": null,
     "scrapeWords": [
       "Evade"
+    ]
+  },
+  {
+    "author": "Strauji",
+    "description": "Online ship building space shooter",
+    "genre": "Action",
+    "id": "490507",
+    "link": "https://strauji.itch.io/void-strike",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyNDAwNTcucG5n/315x250%23c/3XBsux.png",
+    "title": "VoidStrike",
+    "video": null,
+    "scrapeWords": [
+      "Void",
+      "Strike"
     ]
   },
   {
@@ -48962,11 +49000,13 @@
     "id": "560205",
     "link": "https://ivan-tigan.itch.io/reckless",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI5NDI1NDcucG5n/315x250%23c/4OU6Z0.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzY2NzEuZ2lm/315x250%23cm/I%2B8Eha.gif",
     "title": "RECKLESS",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzQ5MzY2NzEuZ2lm/original/M6uatg.gif",
     "scrapeWords": [
       "RECKLESS"
     ]
@@ -54832,6 +54872,25 @@
     "video": null,
     "scrapeWords": [
       "Potioneer"
+    ]
+  },
+  {
+    "author": "futebutesiku",
+    "description": "An angel uses his powers to heal a pandemic",
+    "genre": "Simulation",
+    "id": "600800",
+    "link": "https://futebutesiku.itch.io/pandemic-panic",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxODQyNTkucG5n/315x250%23c/TuOKkr.png",
+    "title": "Pandemic Panic",
+    "video": null,
+    "scrapeWords": [
+      "Pandemic",
+      "Panic"
     ]
   },
   {
@@ -77229,11 +77288,11 @@
     ]
   },
   {
-    "author": "kato-korolchenko",
+    "author": "Kato-Games",
     "description": "a game about a labyrinth with many dangerous traps. Try to spot them before they kill you.",
     "genre": null,
     "id": "707034",
-    "link": "https://kato-korolchenko.itch.io/water-drop",
+    "link": "https://kato-games.itch.io/water-drop",
     "platforms": [
       "Windows"
     ],
@@ -86528,7 +86587,7 @@
     "description": "Can you escape the virus",
     "genre": "Puzzle",
     "id": "748764",
-    "link": "https://proarduino.itch.io/escape-the-virus",
+    "link": "https://prolintech.itch.io/escape-the-virus",
     "platforms": [
       "Windows",
       "Linux",
@@ -95537,7 +95596,9 @@
     "id": "796213",
     "link": "https://hungertod.itch.io/anh",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NTg5MjEuZ2lm/315x250%23cm/TEnoUS.gif",
     "title": "a new home",
@@ -103919,23 +103980,6 @@
     ]
   },
   {
-    "author": "Jack Taylor",
-    "description": "Help the townspeople survive the virus!",
-    "genre": "Shooter",
-    "id": "856644",
-    "link": "https://jacktaylorgames.itch.io/pandemicpanic",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MTg0NjEucG5n/315x250%23c/HtajSC.png",
-    "title": "Pandemic Panic",
-    "video": null,
-    "scrapeWords": [
-      "Pandemic",
-      "Panic"
-    ]
-  },
-  {
     "author": "Snowy Fox",
     "description": "A tiny test game made in Godot",
     "genre": "Action",
@@ -106352,6 +106396,24 @@
     ]
   },
   {
+    "author": "flaffal",
+    "description": "3D bullet-hell game",
+    "genre": "Action",
+    "id": "873864",
+    "link": "https://flaffal.itch.io/untitled-3d-bullet-hell-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTQ1MTMucG5n/315x250%23c/u25uad.png",
+    "title": "Untitled 3D bullet-hell game",
+    "video": null,
+    "scrapeWords": [
+      "Untitled",
+      "3",
+      "D",
+      "bullet-hell",
+      "game"
+    ]
+  },
+  {
     "author": "Munsie",
     "description": "Guide your ship through a perilous asteroid field to collect stars!",
     "genre": "Action",
@@ -106457,7 +106519,9 @@
     "genre": "Action",
     "id": "876493",
     "link": "https://lerg-exe.itch.io/lovely-village",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MzE5ODAucG5n/315x250%23c/nuX5Fw.png",
     "title": "Lovely Village",
     "video": null,
@@ -106532,6 +106596,60 @@
     "scrapeWords": [
       "Cthulhu",
       "Fighters"
+    ]
+  },
+  {
+    "author": "jonnelafin",
+    "description": null,
+    "genre": "Strategy",
+    "id": "876789",
+    "link": "https://jonnelafin.itch.io/puny-humans-jam",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzU2MjYucG5n/315x250%23c/Ot%2BpRO.png",
+    "title": "Puny Humans (Jam Version)",
+    "video": null,
+    "scrapeWords": [
+      "Puny",
+      "Humans",
+      "Jam",
+      "Version"
+    ]
+  },
+  {
+    "author": "JON MECH",
+    "description": null,
+    "genre": "Strategy",
+    "id": "876838",
+    "link": "https://jon-mech.itch.io/n-3020",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzQ0NTkucG5n/315x250%23c/%2FBEj1s.png",
+    "title": "N° 3020",
+    "video": null,
+    "scrapeWords": [
+      "N°",
+      "3020"
+    ]
+  },
+  {
+    "author": "sebasMartin",
+    "description": "Trying the Godot engine with this 3d runner test level...",
+    "genre": "Action",
+    "id": "877007",
+    "link": "https://sebasmartin.itch.io/workdone",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzUxMjkuanBn/315x250%23c/Odmh3%2B.jpg",
+    "title": "Work Done (test level)",
+    "video": null,
+    "scrapeWords": [
+      "Work",
+      "Done",
+      "test",
+      "level"
     ]
   },
   {
