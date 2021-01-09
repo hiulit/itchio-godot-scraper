@@ -3809,7 +3809,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/315x250%23cm/oMMB4B.gif",
     "title": "Endhall",
-    "video": "https://img.itch.zone/aW1nLzE2OTM5MDMuZ2lm/original/mcgM%2Ff.gif",
+    "video": null,
     "scrapeWords": [
       "Endhall"
     ]
@@ -5628,7 +5628,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzE5NjU4MTIuZ2lm/315x250%23cm/L29c2p.gif",
     "title": "A:\\dventure",
-    "video": "https://img.itch.zone/aW1nLzE5NjU4MTIuZ2lm/original/sm1Gmr.gif",
+    "video": null,
     "scrapeWords": [
       "Adventure"
     ]
@@ -17218,6 +17218,21 @@
     ]
   },
   {
+    "author": "Golden",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "303567",
+    "link": "https://goldenapples.itch.io/exile-demo-1",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMzAzNTY3LzE0ODcyOTEucG5n/315x250%23c/jrO8MW.png",
+    "title": "Exile Demo 1",
+    "video": null,
+    "scrapeWords": [
+      "Exile",
+      "1"
+    ]
+  },
+  {
     "author": "Neil Makes Games",
     "description": "Can you overcome the obstacle course game show?",
     "genre": null,
@@ -20430,6 +20445,23 @@
       "Survive",
       "Your",
       "Poisons"
+    ]
+  },
+  {
+    "author": "Golden",
+    "description": "When cowboys work, they need a drink.",
+    "genre": "Shooter",
+    "id": "331888",
+    "link": "https://goldenapples.itch.io/drinking-on-the-job",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzE2NDMxMTgucG5n/315x250%23c/I7io6L.png",
+    "title": "Drinking on the Job",
+    "video": null,
+    "scrapeWords": [
+      "Drinking",
+      "on",
+      "the",
+      "Job"
     ]
   },
   {
@@ -24570,6 +24602,21 @@
     ]
   },
   {
+    "author": "Golden",
+    "description": "A Nokia-like game",
+    "genre": "Action",
+    "id": "366419",
+    "link": "https://goldenapples.itch.io/space-blast",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzE4MzQyOTAucG5n/315x250%23c/yts%2Byu.png",
+    "title": "SPACE BLAST",
+    "video": null,
+    "scrapeWords": [
+      "SPACE",
+      "BLAST"
+    ]
+  },
+  {
     "author": "CorvatoCafeto",
     "description": "Little Metroidvania for the Nokia 3310.",
     "genre": "Adventure",
@@ -28596,6 +28643,25 @@
     ]
   },
   {
+    "author": "Golden",
+    "description": null,
+    "genre": "Action",
+    "id": "409109",
+    "link": "https://goldenapples.itch.io/sp4ce-r4ce",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwMzI2MDEucG5n/315x250%23c/g6sLaB.png",
+    "title": "Sp4ce R4ce",
+    "video": null,
+    "scrapeWords": [
+      "Sp4ce",
+      "R4ce"
+    ]
+  },
+  {
     "author": "Mimic Kairatta",
     "description": "Help our little hero get away from the blackhole before it's too late!",
     "genre": "Platformer",
@@ -29615,7 +29681,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/315x250%23cm/SUdaN5.gif",
     "title": "Guardian Sphere",
-    "video": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/original/KgP9oX.gif",
+    "video": null,
     "scrapeWords": [
       "Guardian",
       "Sphere"
@@ -37149,6 +37215,22 @@
       "Nuvalis",
       "Campaign",
       "Trail"
+    ]
+  },
+  {
+    "author": "Golden",
+    "description": "Try to reap the souls of the innocents in this tiny splatfest!",
+    "genre": "Puzzle",
+    "id": "470169",
+    "link": "https://goldenapples.itch.io/reap-their-souls",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0MDU0NDMucG5n/315x250%23c/0Qy%2BaU.png",
+    "title": "Reap Their Souls",
+    "video": null,
+    "scrapeWords": [
+      "Reap",
+      "Their",
+      "Souls"
     ]
   },
   {
@@ -49006,7 +49088,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MzY2NzEuZ2lm/315x250%23cm/I%2B8Eha.gif",
     "title": "RECKLESS",
-    "video": "https://img.itch.zone/aW1nLzQ5MzY2NzEuZ2lm/original/M6uatg.gif",
+    "video": null,
     "scrapeWords": [
       "RECKLESS"
     ]
@@ -55132,7 +55214,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMxOTEyNDcucG5n/315x250%23c/MbCEh%2F.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDEwMjYucG5n/315x250%23c/Un1AaM.png",
     "title": "Stone of the Alchemist",
     "video": null,
     "scrapeWords": [
@@ -71391,8 +71473,7 @@
     "link": "https://jakefriend.itch.io/scrabdackle",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0ODY5NTgucG5n/315x250%23c/WSrYtb.png",
     "title": "Scrabdackle",
@@ -71558,6 +71639,23 @@
     "scrapeWords": [
       "Love",
       "Park"
+    ]
+  },
+  {
+    "author": "AgeX005",
+    "description": "To The Rescue!",
+    "genre": "Action",
+    "id": "688139",
+    "link": "https://agex005.itch.io/the-chopper",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MTMwNjMuZ2lm/315x250%23cm/MqCR1J.gif",
+    "title": "The Chopper",
+    "video": "https://img.itch.zone/aW1nLzM4MTMwNjMuZ2lm/original/JS7Ewp.gif",
+    "scrapeWords": [
+      "The",
+      "Chopper"
     ]
   },
   {
@@ -78662,21 +78760,6 @@
       "way",
       "is",
       "up"
-    ]
-  },
-  {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -86866,7 +86949,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDc1MDIucG5n/315x250%23c/FGDcbT.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDE5NzMucG5n/315x250%23c/4iXGIY.png",
     "title": "Homelette demo",
     "video": null,
     "scrapeWords": [
@@ -87137,7 +87220,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxOTI2MzIuZ2lm/315x250%23cm/pgnKfo.gif",
     "title": "tauon conduit",
-    "video": "https://img.itch.zone/aW1nLzQxOTI2MzIuZ2lm/original/ihKJl5.gif",
+    "video": null,
     "scrapeWords": [
       "tauon",
       "conduit"
@@ -89683,6 +89766,30 @@
     "scrapeWords": [
       "Impact",
       "Tower"
+    ]
+  },
+  {
+    "author": "JJ Montes",
+    "description": "Rope swing like never before!",
+    "genre": "Action",
+    "id": "763601",
+    "link": "https://jjmontesl.itch.io/ropecow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjY5MDgucG5n/315x250%23c/M5pQQ0.png",
+    "title": "Rope Cow: Rope it to The Cow",
+    "video": null,
+    "scrapeWords": [
+      "Rope",
+      "Cow",
+      "Rope",
+      "it",
+      "to",
+      "The",
+      "Cow"
     ]
   },
   {
@@ -93847,7 +93954,7 @@
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ1MTE5NjIuZ2lm/315x250%23cm/Sjf3O6.gif",
     "title": "C.H.A.I.N.",
-    "video": "https://img.itch.zone/aW1nLzQ1MTE5NjIuZ2lm/original/sMWmLA.gif",
+    "video": null,
     "scrapeWords": [
       "CHAIN"
     ]
@@ -94097,6 +94204,25 @@
     "video": null,
     "scrapeWords": [
       "Zafire"
+    ]
+  },
+  {
+    "author": "star-sought",
+    "description": "it's some real good soup",
+    "genre": "Action",
+    "id": "784995",
+    "link": "https://star-sought.itch.io/in-the-soup",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzkyMTIucG5n/315x250%23c/AeEBUK.png",
+    "title": "In The Soup",
+    "video": null,
+    "scrapeWords": [
+      "In",
+      "The",
+      "Soup"
     ]
   },
   {
@@ -101152,6 +101278,25 @@
     ]
   },
   {
+    "author": "GamingWithUs",
+    "description": "Jump without jumping. Use a rocket launcher instead!",
+    "genre": "Platformer",
+    "id": "835876",
+    "link": "https://gamingwithus.itch.io/abyssal-escape",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDYzNDUucG5n/315x250%23c/%2FDG%2B3v.png",
+    "title": "Abyssal Escape",
+    "video": null,
+    "scrapeWords": [
+      "Abyssal",
+      "Escape"
+    ]
+  },
+  {
     "author": "Quadratic Games",
     "description": "A peaceful little adventure with unusual controls",
     "genre": "Adventure",
@@ -105586,9 +105731,7 @@
     "genre": "Simulation",
     "id": "867617",
     "link": "https://soju-and-ink.itch.io/gangster-roulette",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4NzQxNTAuanBn/315x250%23c/w0DaGv.jpg",
     "title": "Gangster Roulette",
     "video": null,
@@ -106252,6 +106395,21 @@
     ]
   },
   {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Nobody: Interactive",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -106460,6 +106618,24 @@
     ]
   },
   {
+    "author": "SnowySierra",
+    "description": "A cute furry block breaking exploration game",
+    "genre": "Action",
+    "id": "875092",
+    "link": "https://snowysierra.itch.io/foxpaww",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjMwMjcucG5n/315x250%23c/Ht1hYt.png",
+    "title": "FoxPaww",
+    "video": null,
+    "scrapeWords": [
+      "Fox",
+      "Paww"
+    ]
+  },
+  {
     "author": "voxelvoid",
     "description": "Retro FPS that takes place in a hostile dimension",
     "genre": "Shooter",
@@ -106511,6 +106687,23 @@
       "Alight",
       "LDjam",
       "46"
+    ]
+  },
+  {
+    "author": "POBIX",
+    "description": "Play multiple instruments at once, all while evading an evil witch!",
+    "genre": "Rhythm",
+    "id": "875842",
+    "link": "https://pobix.itch.io/lil-flute",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzE0ODAucG5n/315x250%23c/Sn9pz7.png",
+    "title": "Lil' Flute",
+    "video": null,
+    "scrapeWords": [
+      "Lil",
+      "Flute"
     ]
   },
   {
@@ -106650,6 +106843,89 @@
       "Done",
       "test",
       "level"
+    ]
+  },
+  {
+    "author": "Vasilis Chonianakis",
+    "description": "A turn based survival roguelike where you try to prevent Cthulhu return",
+    "genre": "Survival",
+    "id": "877033",
+    "link": "https://negator2vc.itch.io/whispers-of-cthulhus-return",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzUzODUucG5n/315x250%23c/Q9HtCx.png",
+    "title": "Whispers of Cthulhu's Return!",
+    "video": null,
+    "scrapeWords": [
+      "Whispers",
+      "of",
+      "Cthulhus",
+      "Return"
+    ]
+  },
+  {
+    "author": "OrangeIsNotAColor",
+    "description": "You are snail. You are cleaner. Figure it out!",
+    "genre": "Puzzle",
+    "id": "877800",
+    "link": "https://orangeisnotacolor.itch.io/snail-cleaner",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDAwNzEucG5n/315x250%23c/ChY%2FWo.png",
+    "title": "Snail Cleaner",
+    "video": null,
+    "scrapeWords": [
+      "Snail",
+      "Cleaner"
+    ]
+  },
+  {
+    "author": "Meyush",
+    "description": "Fun 3D Maze game. No Time Limits. Enjoy Playing !",
+    "genre": "Puzzle",
+    "id": "877960",
+    "link": "https://meyush.itch.io/mazeup",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDA5OTQucG5n/315x250%23c/oY6oZh.png",
+    "title": "Maze Up !",
+    "video": null,
+    "scrapeWords": [
+      "Maze",
+      "Up"
+    ]
+  },
+  {
+    "author": "Studio 4th ZERO",
+    "description": "Random Roguelike where no two rooms are the same.",
+    "genre": "Adventure",
+    "id": "878294",
+    "link": "https://4thzero.itch.io/infinity-labyrinth",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDM0ODcucG5n/315x250%23c/YY1A6G.png",
+    "title": "Infinity Labyrinth",
+    "video": null,
+    "scrapeWords": [
+      "Infinity",
+      "Labyrinth"
+    ]
+  },
+  {
+    "author": "UnrulyElf",
+    "description": "A top-down, fun looking RPG style game where you quest to remove and evil fog that has descended over your island.",
+    "genre": "Adventure",
+    "id": "878576",
+    "link": "https://unrulyelf.itch.io/the-fog-beta-0134",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDQ5NTkucG5n/315x250%23c/Og8ew%2F.png",
+    "title": "The Fog Beta 0.134",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Fog",
+      "Beta",
+      "0134"
     ]
   },
   {
