@@ -15617,23 +15617,6 @@
     ]
   },
   {
-    "author": "Essojadojef",
-    "description": null,
-    "genre": "Adventure",
-    "id": "292976",
-    "link": "https://essojadojef.itch.io/lowrez-jam-18",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkyOTc2LzE0MzIyNTEucG5n/315x250%23c/QhzjW6.png",
-    "title": "Cave-Trapped",
-    "video": null,
-    "scrapeWords": [
-      "Cave-Trapped"
-    ]
-  },
-  {
     "author": "chipolux",
     "description": "Ludum Dare 42 Compo Entry",
     "genre": null,
@@ -36276,6 +36259,24 @@
     ]
   },
   {
+    "author": "Jon Topielski",
+    "description": "The psychological narrative game about doing what you're told",
+    "genre": "Simulation",
+    "id": "462903",
+    "link": "https://jontopielski.itch.io/mined-mind",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIzNzY5ODkuZ2lm/315x250%23cm/wz0cf6.gif",
+    "title": "Mined Mind",
+    "video": "https://img.itch.zone/aW1nLzIzNzY5ODkuZ2lm/original/XV65xd.gif",
+    "scrapeWords": [
+      "Mined",
+      "Mind"
+    ]
+  },
+  {
     "author": "GammaGames",
     "description": "Circle the arena and collect all the coins with your one bullet!",
     "genre": "Puzzle",
@@ -38489,6 +38490,21 @@
     ]
   },
   {
+    "author": "Jon Topielski",
+    "description": "The Charming Rhythm Platformer",
+    "genre": "Platformer",
+    "id": "477339",
+    "link": "https://jontopielski.itch.io/lyre-lyre",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI0NjI1NDUuZ2lm/315x250%23cm/vIP1KW.gif",
+    "title": "Lyre Lyre",
+    "video": "https://img.itch.zone/aW1nLzI0NjI1NDUuZ2lm/original/6gC%2BEK.gif",
+    "scrapeWords": [
+      "Lyre",
+      "Lyre"
+    ]
+  },
+  {
     "author": "vandrake",
     "description": "[WIP] A roguelike game",
     "genre": "Role Playing",
@@ -40273,10 +40289,7 @@
     "genre": "Shooter",
     "id": "487982",
     "link": "https://leanderish.itch.io/steel",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMzODkxNDcucG5n/315x250%23c/bTvtRa.png",
     "title": "Operation STEEL",
     "video": null,
@@ -40683,7 +40696,7 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI1NDE4MzMucG5n/315x250%23c/miJifG.png",
-    "title": "Blow Back",
+    "title": "Blow Back Demo",
     "video": null,
     "scrapeWords": [
       "Blow",
@@ -55289,6 +55302,25 @@
     "scrapeWords": [
       "Square",
       "Swap"
+    ]
+  },
+  {
+    "author": "Jon Topielski",
+    "description": "Deckbuilding game where you gamble with ghosts over webcam chat",
+    "genre": "Card Game",
+    "id": "601618",
+    "link": "https://jontopielski.itch.io/ghost-roulette",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwNDk1MjgucG5n/315x250%23c/kkdWM7.png",
+    "title": "Ghost Roulette",
+    "video": null,
+    "scrapeWords": [
+      "Ghost",
+      "Roulette"
     ]
   },
   {
@@ -71064,6 +71096,27 @@
     ]
   },
   {
+    "author": "Jon Topielski",
+    "description": "Groove to the beat in an underground nightclub",
+    "genre": "Rhythm",
+    "id": "683582",
+    "link": "https://jontopielski.itch.io/a-midclubber-nights-dream",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwNDkyOTkucG5n/315x250%23c/bQ1vjZ.png",
+    "title": "A Midclubber Night's Dream",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Midclubber",
+      "Nights",
+      "Dream"
+    ]
+  },
+  {
     "author": "Paul",
     "description": "Plisken is tasked to retrieve the president's daughter. Will he be on time?",
     "genre": "Action",
@@ -71648,7 +71701,8 @@
     "link": "https://jakefriend.itch.io/scrabdackle",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0ODY5NTgucG5n/315x250%23c/WSrYtb.png",
     "title": "Scrabdackle",
@@ -77907,7 +77961,7 @@
     "id": "709881",
     "link": "https://skinner-space.itch.io/landscape-magic",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQwNjY3MTgucG5n/315x250%23c/6jEoEE.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5NjY4MDAucG5n/315x250%23c/VbLd0U.png",
     "title": "Landscape Magic",
     "video": null,
     "scrapeWords": [
@@ -79727,7 +79781,7 @@
     "description": null,
     "genre": "Adventure",
     "id": "719032",
-    "link": "https://cj-does-stuff.itch.io/dream-boy",
+    "link": "https://cj-does-stuff.itch.io/dream",
     "platforms": [
       "Windows"
     ],
@@ -89103,7 +89157,8 @@
     "id": "758710",
     "link": "https://viroidgames.itch.io/mead-crafter",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQyNDIwMzMuanBn/315x250%23c/HF6Qm9.jpg",
     "title": "Mead Crafter",
@@ -95224,7 +95279,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3ODMyNTQucG5n/315x250%23c/65u6yT.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5NjkzMTcucG5n/315x250%23c/nQnVC7.png",
     "title": "Spaceyard",
     "video": null,
     "scrapeWords": [
@@ -96712,6 +96767,25 @@
     ]
   },
   {
+    "author": "Jon Topielski",
+    "description": "Dodge and smash giant saw blades",
+    "genre": "Action",
+    "id": "800654",
+    "link": "https://jontopielski.itch.io/spinny-discs",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NTYwODcuZ2lm/315x250%23cm/s5XRGZ.gif",
+    "title": "Spinny Discs",
+    "video": "https://img.itch.zone/aW1nLzQ1NTYwODcuZ2lm/original/w9x7SU.gif",
+    "scrapeWords": [
+      "Spinny",
+      "Discs"
+    ]
+  },
+  {
     "author": "dunkelgrau",
     "description": "Direct your dire cat through the mouse maze.",
     "genre": "Puzzle",
@@ -97512,6 +97586,21 @@
     "scrapeWords": [
       "Hook",
       "Head"
+    ]
+  },
+  {
+    "author": "aulia-rosyida",
+    "description": "Yokado just want to go home... please... help him !",
+    "genre": "Adventure",
+    "id": "806219",
+    "link": "https://aulia-rosyida.itch.io/yokado-journey",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzA4MzYucG5n/315x250%23c/fVZbsc.png",
+    "title": "Yokado Journey",
+    "video": null,
+    "scrapeWords": [
+      "Yokado",
+      "Journey"
     ]
   },
   {
@@ -100600,6 +100689,24 @@
     ]
   },
   {
+    "author": "Gonza L",
+    "description": "Defend your town from an enemy invasion in this Scrabble RPG!",
+    "genre": "Puzzle",
+    "id": "828908",
+    "link": "https://gonza-l.itch.io/word-witch",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NjAwMzkuZ2lm/315x250%23cm/iy3K0K.gif",
+    "title": "Word Witch",
+    "video": "https://img.itch.zone/aW1nLzQ2NjAwMzkuZ2lm/original/0Hk2VU.gif",
+    "scrapeWords": [
+      "Word",
+      "Witch"
+    ]
+  },
+  {
     "author": "feniks_gaming",
     "description": "Knows in the US as Tic Tac Toe",
     "genre": "Puzzle",
@@ -103612,6 +103719,23 @@
     ]
   },
   {
+    "author": "BlueKeyGames",
+    "description": "Western Fantasy Adventure RPG",
+    "genre": "Role Playing",
+    "id": "849547",
+    "link": "https://bluekeygames.itch.io/godstone-prologue",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDc3MTIucG5n/315x250%23c/XMCgOe.png",
+    "title": "Godstone: Prologue",
+    "video": null,
+    "scrapeWords": [
+      "Godstone",
+      "Prologue"
+    ]
+  },
+  {
     "author": "Mayur Games",
     "description": "A simple puzzle",
     "genre": "Puzzle",
@@ -103944,7 +104068,7 @@
   {
     "author": "SentooSam",
     "description": "A scifi pixelart casual turn based game for space navigators.",
-    "genre": "Role Playing",
+    "genre": "Strategy",
     "id": "853654",
     "link": "https://sentoosam.itch.io/kezzle-pass",
     "platforms": null,
@@ -105928,6 +106052,21 @@
     ]
   },
   {
+    "author": "chucklepie",
+    "description": "Remake of the finest ZX Spectrum metroidvania platform Rex",
+    "genre": "Platformer",
+    "id": "865947",
+    "link": "https://chucklepie.itch.io/rex-remake",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjMwMTgucG5n/315x250%23c/kgsZ%2B7.png",
+    "title": "Rex Remake",
+    "video": null,
+    "scrapeWords": [
+      "Rex",
+      "Remake"
+    ]
+  },
+  {
     "author": "Top Notch Games",
     "description": "Battle to the death in the snow!",
     "genre": "Shooter",
@@ -106349,6 +106488,23 @@
     "video": null,
     "scrapeWords": [
       "Pixellut"
+    ]
+  },
+  {
+    "author": "AlphaBeta",
+    "description": "A simple running like t-rex but you play as rectangle",
+    "genre": null,
+    "id": "869952",
+    "link": "https://alphabeta1906.itch.io/rect-run",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4ODg3ODIucG5n/315x250%23c/%2B4ZFN3.png",
+    "title": "Rect run",
+    "video": null,
+    "scrapeWords": [
+      "Rect",
+      "run"
     ]
   },
   {
@@ -107634,6 +107790,23 @@
     ]
   },
   {
+    "author": "Ultranite",
+    "description": "The game where you do nothing!",
+    "genre": "Adventure",
+    "id": "879530",
+    "link": "https://ultranite.itch.io/nothing",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NjQwMTcucG5n/315x250%23c/bkADSl.png",
+    "title": "The Game of Nothing",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Game",
+      "of",
+      "Nothing"
+    ]
+  },
+  {
     "author": "futur_null",
     "description": "A city dreams about you. #GameDev101Jam2",
     "genre": "Adventure",
@@ -107666,6 +107839,25 @@
     "scrapeWords": [
       "Idle",
       "Kosmos"
+    ]
+  },
+  {
+    "author": "EBASH",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "879630",
+    "link": "https://ebash.itch.io/locked-in-game",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NjU4MjYucG5n/315x250%23c/tK6KlX.png",
+    "title": "Locked In Game",
+    "video": null,
+    "scrapeWords": [
+      "Locked",
+      "In",
+      "Game"
     ]
   },
   {
@@ -107703,6 +107895,24 @@
     "scrapeWords": [
       "Snow",
       "Sorrow"
+    ]
+  },
+  {
+    "author": "Foxiz",
+    "description": null,
+    "genre": null,
+    "id": "879915",
+    "link": "https://foxiz.itch.io/bob-the-bakery",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NTMwMDcucG5n/315x250%23c/byAsCq.png",
+    "title": "Bob the Bakery",
+    "video": null,
+    "scrapeWords": [
+      "Bob",
+      "the",
+      "Bakery"
     ]
   },
   {
@@ -107869,7 +108079,7 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NjQ5ODUuanBlZw==/315x250%23c/Jg3aJ7.jpeg",
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzA3NzkucG5n/315x250%23c/11Yzsp.png",
     "title": "Flappy",
     "video": null,
     "scrapeWords": [
