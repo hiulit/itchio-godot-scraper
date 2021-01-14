@@ -15617,6 +15617,23 @@
     ]
   },
   {
+    "author": "Essojadojef",
+    "description": null,
+    "genre": "Adventure",
+    "id": "292976",
+    "link": "https://essojadojef.itch.io/lowrez-jam-18",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkyOTc2LzE0MzIyNTEucG5n/315x250%23c/QhzjW6.png",
+    "title": "Cave-Trapped",
+    "video": null,
+    "scrapeWords": [
+      "Cave-Trapped"
+    ]
+  },
+  {
     "author": "chipolux",
     "description": "Ludum Dare 42 Compo Entry",
     "genre": null,
@@ -46750,7 +46767,7 @@
   },
   {
     "author": "K58",
-    "description": "A small game about either sneaking to the end or dashing pass enemies.",
+    "description": "Awful and old game to learn game development. Honestly, don't pay attention.",
     "genre": "Action",
     "id": "541496",
     "link": "https://k58.itch.io/sneak-or-dash",
@@ -48485,7 +48502,7 @@
   },
   {
     "author": "K58",
-    "description": "A short game where bugs are intentional.",
+    "description": "Honestly, it is a really bad game, my first really. But a short game where bugs are intentional.",
     "genre": "Action",
     "id": "552980",
     "link": "https://k58.itch.io/buggy-boi",
@@ -59358,6 +59375,24 @@
     ]
   },
   {
+    "author": "Faer",
+    "description": "A game about a Grandma and a boy surviving the apocalypse",
+    "genre": "Interactive Fiction",
+    "id": "618788",
+    "link": "https://faer.itch.io/sentinels",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyOTAzMTQucG5n/315x250%23c/HINJ8n.png",
+    "title": "Sentinels - LD46",
+    "video": null,
+    "scrapeWords": [
+      "Sentinels",
+      "LD46"
+    ]
+  },
+  {
     "author": "YoukaiCountry",
     "description": null,
     "genre": "Rhythm",
@@ -61722,6 +61757,20 @@
     "video": "https://img.itch.zone/aW1nLzM0NDE3MTguZ2lm/original/aqwZlS.gif",
     "scrapeWords": [
       "Aevi"
+    ]
+  },
+  {
+    "author": "TNTC-Lab",
+    "description": "8-Bit arcade runner",
+    "genre": null,
+    "id": "631434",
+    "link": "https://tntc-lab.itch.io/8bunner",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMzNzEzMTQucG5n/315x250%23c/VRYzrM.png",
+    "title": "8bunner",
+    "video": null,
+    "scrapeWords": [
+      "8bunner"
     ]
   },
   {
@@ -81718,6 +81767,26 @@
     ]
   },
   {
+    "author": "David J. Kalbfleisch",
+    "description": "Infer the locations of invisible viral threats.  Get the high score!",
+    "genre": "Puzzle",
+    "id": "730684",
+    "link": "https://kalbfled.itch.io/pandemic-puzzle",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxMDM4NTYucG5n/315x250%23c/Gltj1Z.png",
+    "title": "Pandemic Puzzle",
+    "video": null,
+    "scrapeWords": [
+      "Pandemic",
+      "Puzzle"
+    ]
+  },
+  {
     "author": "edvinspace",
     "description": "To bonk or not to bonk?",
     "genre": "Action",
@@ -89694,6 +89763,24 @@
     ]
   },
   {
+    "author": "franbeb",
+    "description": "The Card Game",
+    "genre": "Card Game",
+    "id": "762540",
+    "link": "https://franbeb.itch.io/mutation",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyNjgxNTIuZ2lm/315x250%23cm/QIMDRI.gif",
+    "title": "Professor Mutation",
+    "video": "https://img.itch.zone/aW1nLzQyNjgxNTIuZ2lm/original/ljzm54.gif",
+    "scrapeWords": [
+      "Professor",
+      "Mutation"
+    ]
+  },
+  {
     "author": "Syanic",
     "description": "Dive or die",
     "genre": "Shooter",
@@ -90031,8 +90118,8 @@
   },
   {
     "author": "JJ Montes",
-    "description": "Cow with rope tries to reach cow heaven",
-    "genre": "Action",
+    "description": "Rope swing like never before.",
+    "genre": "Platformer",
     "id": "763601",
     "link": "https://jjmontesl.itch.io/ropecow",
     "platforms": [
@@ -91047,6 +91134,26 @@
       "Grand",
       "Ore",
       "Deal"
+    ]
+  },
+  {
+    "author": "fortythreesam",
+    "description": "Use your poles to bounce through caverns as fast as possible",
+    "genre": "Platformer",
+    "id": "768067",
+    "link": "https://fortythreesam.itch.io/a-bouncing-tale",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzODc4MDIucG5n/315x250%23c/Xs9F1b.png",
+    "title": "A Bouncing Tale",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Bouncing",
+      "Tale"
     ]
   },
   {
@@ -96075,6 +96182,21 @@
     ]
   },
   {
+    "author": "CheeseGrtr",
+    "description": null,
+    "genre": "Action",
+    "id": "796599",
+    "link": "https://cheesegrtr.itch.io/blasted-ballet",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0NjI4NTQucG5n/315x250%23c/m3k2fN.png",
+    "title": "Blasted Ballet",
+    "video": null,
+    "scrapeWords": [
+      "Blasted",
+      "Ballet"
+    ]
+  },
+  {
     "author": "Duy",
     "description": "A game of jumps and meows",
     "genre": "Platformer",
@@ -99879,7 +100001,7 @@
     "description": null,
     "genre": "Puzzle",
     "id": "822660",
-    "link": "https://lamasaurus.itch.io/silent-dot",
+    "link": "https://sandervanhove.itch.io/silent-dot",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2MTA2NDIucG5n/315x250%23c/ZLbnP%2F.png",
     "title": "Silent Dot (Alpha)",
@@ -102522,6 +102644,23 @@
     ]
   },
   {
+    "author": "BrianKel522",
+    "description": "Escape from this mysterious dungeon! This is a Beta version of the game.",
+    "genre": "Puzzle",
+    "id": "839852",
+    "link": "https://briankel522.itch.io/the-mystifying-trial-beta",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MDgzMjMucG5n/315x250%23c/A4D5YI.png",
+    "title": "The Mystifying Trial Beta",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Mystifying",
+      "Trial",
+      "Beta"
+    ]
+  },
+  {
     "author": "FourierTransformer",
     "description": "Yuna travels around different trying to bring them back to her system in this intense time-crunched platformer!",
     "genre": "Platformer",
@@ -102736,7 +102875,7 @@
     ]
   },
   {
-    "author": "sCube2428",
+    "author": "sCubeGames",
     "description": "a smol space shooter",
     "genre": "Shooter",
     "id": "840617",
@@ -105696,7 +105835,9 @@
     "genre": null,
     "id": "862772",
     "link": "https://ferdyslab.itch.io/gloomy-eater",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ4NDM1MjEucG5n/315x250%23c/YR6nYU.png",
     "title": "Gloomy Eater",
     "video": null,
@@ -107270,7 +107411,7 @@
     "description": "A Ludum Dare 46 game",
     "genre": "Platformer",
     "id": "875334",
-    "link": "https://lamasaurus.itch.io/keep-it-alight",
+    "link": "https://sandervanhove.itch.io/keep-it-alight",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ5MjQ3MjMuanBn/315x250%23c/CCnD9b.jpg",
     "title": "Keep It Alight (LDjam 46)",
@@ -108017,6 +108158,23 @@
     ]
   },
   {
+    "author": "devASingh",
+    "description": "Just another bunny platormer!",
+    "genre": "Platformer",
+    "id": "881043",
+    "link": "https://devasingh.itch.io/test-project",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NjUwNTMucG5n/315x250%23c/wnyCME.png",
+    "title": "Test Project",
+    "video": null,
+    "scrapeWords": [
+      "Test",
+      "Project"
+    ]
+  },
+  {
     "author": "Warkus",
     "description": "Loot, upgrade and teleport with the Chicken Sword!",
     "genre": "Action",
@@ -108100,6 +108258,71 @@
       "The",
       "Bee",
       "Game"
+    ]
+  },
+  {
+    "author": "Growing Studios",
+    "description": "A little rogue like. Still in developing",
+    "genre": "Action",
+    "id": "882656",
+    "link": "https://growing-studios.itch.io/sofa",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzM0MzAucG5n/315x250%23c/TA%2Blrk.png",
+    "title": "The S.O.F.A.",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "SOFA"
+    ]
+  },
+  {
+    "author": "BlueOctopus",
+    "description": null,
+    "genre": null,
+    "id": "882786",
+    "link": "https://blueoctopus.itch.io/save-my-egg",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzE2ODgucG5n/315x250%23c/7Hmmxp.png",
+    "title": "Save My Egg !",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "My",
+      "Egg"
+    ]
+  },
+  {
+    "author": "KobaDesu",
+    "description": "A Katamari Damacy clone game made as a birthday present",
+    "genre": null,
+    "id": "883359",
+    "link": "https://kobadesu.itch.io/kataheartii",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzYwNTUucG5n/315x250%23c/ENnc5u.png",
+    "title": "Kata~Heartii",
+    "video": null,
+    "scrapeWords": [
+      "Kata",
+      "Heartii"
+    ]
+  },
+  {
+    "author": "Loremius Ipsumdale",
+    "description": "Puzzle game with owls",
+    "genre": "Puzzle",
+    "id": "883487",
+    "link": "https://loremius-ipsumdale.itch.io/oowls",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzcwNTMuanBn/315x250%23c/ofuyXc.jpg",
+    "title": "oo.wls",
+    "video": null,
+    "scrapeWords": [
+      "oowls"
     ]
   },
   {
