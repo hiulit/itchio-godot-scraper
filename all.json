@@ -28042,23 +28042,6 @@
     ]
   },
   {
-    "author": "magigato",
-    "description": "Shoot till it's over",
-    "genre": "Action",
-    "id": "402977",
-    "link": "https://magigato.itch.io/star-void",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE5OTk4MDgucG5n/315x250%23c/V48bZ2.png",
-    "title": "STAR VOID",
-    "video": null,
-    "scrapeWords": [
-      "STAR",
-      "VOID"
-    ]
-  },
-  {
     "author": "GRG",
     "description": "Left, Right and both for brake.  Drift your way around tracks against the clock.",
     "genre": "Racing",
@@ -39942,7 +39925,7 @@
     ]
   },
   {
-    "author": "caueh",
+    "author": "Cauê Henrique",
     "description": "godot-wild-jam",
     "genre": "Platformer",
     "id": "486772",
@@ -45458,27 +45441,6 @@
     ]
   },
   {
-    "author": "sizen",
-    "description": "A fantasy tower defense game.",
-    "genre": "Strategy",
-    "id": "533625",
-    "link": "https://sizen.itch.io/rise-of-monsters",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4MTc2OTAucG5n/315x250%23c/vkYWlo.png",
-    "title": "Rise of Monsters: Tower Defense",
-    "video": null,
-    "scrapeWords": [
-      "Rise",
-      "of",
-      "Monsters",
-      "Tower",
-      "Defense"
-    ]
-  },
-  {
     "author": "binglo",
     "description": "You see a guy walking from a corpse and desides to follow him",
     "genre": "Adventure",
@@ -47760,6 +47722,25 @@
     ]
   },
   {
+    "author": "SIsilicon",
+    "description": "A 3D programming puzzle game.",
+    "genre": "Puzzle",
+    "id": "550125",
+    "link": "https://sisilicon.itch.io/code-cube",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNTM0MzYucG5n/315x250%23c/0nU%2Brc.png",
+    "title": "Code Cube",
+    "video": null,
+    "scrapeWords": [
+      "Code",
+      "Cube"
+    ]
+  },
+  {
     "author": "Ashtrail",
     "description": null,
     "genre": "Action",
@@ -48351,7 +48332,7 @@
     "description": null,
     "genre": null,
     "id": "552715",
-    "link": "https://feliperattu.itch.io/buggin-arround",
+    "link": "https://isn.itch.io/buggin-arround",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI4OTIxNTQucG5n/315x250%23c/q6No76.png",
     "title": "Buggin' Arround",
@@ -49580,6 +49561,23 @@
     ]
   },
   {
+    "author": "TreeTimes",
+    "description": "A simple implementation of Conways famous idea.",
+    "genre": "Simulation",
+    "id": "562128",
+    "link": "https://treetimes.itch.io/gol",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NTE1NDAucG5n/315x250%23c/nPYgGI.png",
+    "title": "The Game Of Life",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Game",
+      "Of",
+      "Life"
+    ]
+  },
+  {
     "author": "Citizen Of Mêlée",
     "description": "2-4 competitive players sharing a set of resources",
     "genre": "Action",
@@ -50685,8 +50683,7 @@
     "link": "https://juancolacelli.itch.io/droid7",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0MDMxOTQuZ2lm/315x250%23cm/DVTEvO.gif",
     "title": "DROID7",
@@ -68363,7 +68360,7 @@
   },
   {
     "author": "Turtlewit",
-    "description": "Video Game About Pink Felines Collecting Crystals",
+    "description": "Multiplayer game about pink felines collecting crystals",
     "genre": "Action",
     "id": "669802",
     "link": "https://turtlewit.itch.io/feline-isle",
@@ -79695,9 +79692,7 @@
     "genre": "Puzzle",
     "id": "718215",
     "link": "https://bozar.itch.io/one-more-level",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM5ODE3MTQucG5n/315x250%23c/npMSw3.png",
     "title": "One More Level",
     "video": null,
@@ -86312,7 +86307,7 @@
     "id": "744371",
     "link": "https://sinistro25.itch.io/slay-the-horde",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQyMTg1MjIucG5n/315x250%23c/qb%2BTL6.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5ODA0MTIucG5n/315x250%23c/gKekR4.png",
     "title": "Slay the Horde",
     "video": null,
     "scrapeWords": [
@@ -88308,8 +88303,7 @@
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
     "platforms": [
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2NTQ1ODcucG5n/315x250%23c/cWUg1G.png",
     "title": "Malice & Greed",
@@ -89294,22 +89288,6 @@
       "with",
       "The",
       "Reaper"
-    ]
-  },
-  {
-    "author": "DamagedCyborg",
-    "description": "A free alien shooting game",
-    "genre": "Action",
-    "id": "759806",
-    "link": "https://damagedcyborg.itch.io/100moons",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5NDg1ODIuanBn/315x250%23c/omMokr.jpg",
-    "title": "Shoot the alien",
-    "video": null,
-    "scrapeWords": [
-      "Shoot",
-      "the",
-      "alien"
     ]
   },
   {
@@ -91325,25 +91303,6 @@
     "scrapeWords": [
       "Birb",
       "Alert"
-    ]
-  },
-  {
-    "author": "DamagedCyborg",
-    "description": "Free 2d platform shooter game made for Spain Game Devs Jam II",
-    "genre": "Shooter",
-    "id": "768812",
-    "link": "https://damagedcyborg.itch.io/2d-desafio-dificil",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NDYyMTYucG5n/315x250%23c/vVMfO1.png",
-    "title": "Shooter Challenge",
-    "video": null,
-    "scrapeWords": [
-      "Shooter",
-      "Challenge"
     ]
   },
   {
@@ -108194,7 +108153,7 @@
     ]
   },
   {
-    "author": "aXu_AP",
+    "author": "aXu",
     "description": "Stranded in space, how much iridium can you get with teleporting device?",
     "genre": "Action",
     "id": "881232",
@@ -108292,6 +108251,36 @@
     ]
   },
   {
+    "author": "Ronflax",
+    "description": "Hey, you can just try the game thanks to your browser on your computer.",
+    "genre": "Adventure",
+    "id": "883305",
+    "link": "https://ronflax.itch.io/pixeladventurebyronflax",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5Nzg3NDYucG5n/315x250%23c/a%2BDD26.png",
+    "title": "RonflaxPlatformer",
+    "video": null,
+    "scrapeWords": [
+      "Ronflax",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "perons",
+    "description": "A P2P Multiplayer WebRTC demo project using Godot",
+    "genre": "Action",
+    "id": "883324",
+    "link": "https://perons.itch.io/snake-versus",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzU4ODcucG5n/315x250%23c/bFg%2FaB.png",
+    "title": "Snake Versus",
+    "video": null,
+    "scrapeWords": [
+      "Snake",
+      "Versus"
+    ]
+  },
+  {
     "author": "KobaDesu",
     "description": "A Katamari Damacy clone game made as a birthday present",
     "genre": null,
@@ -108310,6 +108299,42 @@
     ]
   },
   {
+    "author": "Joe",
+    "description": "An example of a simple tech tree made with Godot.",
+    "genre": null,
+    "id": "883360",
+    "link": "https://pdxgames.itch.io/simple-godot-tech-tree",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzYxMjgucG5n/315x250%23c/7D3%2FEb.png",
+    "title": "Simple Godot Tech Tree",
+    "video": null,
+    "scrapeWords": [
+      "Simple",
+      "Godot",
+      "Tech",
+      "Tree"
+    ]
+  },
+  {
+    "author": "Finn Pickart",
+    "description": "You're playing as a little girl. She is a detective and has to solve a mysterious case",
+    "genre": "Puzzle",
+    "id": "883362",
+    "link": "https://finn378.itch.io/cookie-conspiracy",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5Nzc5MjUucG5n/315x250%23c/F%2B1Wlr.png",
+    "title": "Cookie Conspiracy",
+    "video": null,
+    "scrapeWords": [
+      "Cookie",
+      "Conspiracy"
+    ]
+  },
+  {
     "author": "Loremius Ipsumdale",
     "description": "Puzzle game with owls",
     "genre": "Puzzle",
@@ -108323,6 +108348,40 @@
     "video": null,
     "scrapeWords": [
       "oowls"
+    ]
+  },
+  {
+    "author": "JamzDEV",
+    "description": "Shoot the targets",
+    "genre": "Action",
+    "id": "884037",
+    "link": "https://jamzdev.itch.io/target-trainer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5ODA4MDgucG5n/315x250%23c/VzUu4L.png",
+    "title": "Target Trainer",
+    "video": null,
+    "scrapeWords": [
+      "Target",
+      "Trainer"
+    ]
+  },
+  {
+    "author": "witchwhale",
+    "description": "Care for your book AND study!?",
+    "genre": "Simulation",
+    "id": "884176",
+    "link": "https://witchwhale.itch.io/magical-monsters",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5ODE4NDcuanBn/315x250%23c/X1JBHp.jpg",
+    "title": "Magical Monsters",
+    "video": null,
+    "scrapeWords": [
+      "Magical",
+      "Monsters"
     ]
   },
   {
