@@ -35615,23 +35615,6 @@
     ]
   },
   {
-    "author": "drentsoft",
-    "description": null,
-    "genre": "Adventure",
-    "id": "461685",
-    "link": "https://drentsoft.itch.io/one-knight",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNTQ2MjAucG5n/315x250%23c/u7mQMl.png",
-    "title": "One Knight",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Knight"
-    ]
-  },
-  {
     "author": "llivol",
     "description": "Astromadness is a puzzle-platformer game with only one mechanic, changing gravity.",
     "genre": "Puzzle",
@@ -50683,7 +50666,8 @@
     "link": "https://juancolacelli.itch.io/droid7",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0MDMxOTQuZ2lm/315x250%23cm/DVTEvO.gif",
     "title": "DROID7",
@@ -57893,7 +57877,12 @@
     "genre": "Puzzle",
     "id": "614638",
     "link": "https://neoxid501.itch.io/concept-sync-up",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMyNzg3NjYucG5n/315x250%23c/fhKy9X.png",
     "title": "Concept Sync Up",
     "video": null,
@@ -66994,22 +66983,6 @@
     ]
   },
   {
-    "author": "axilirate",
-    "description": null,
-    "genre": "Survival",
-    "id": "660277",
-    "link": "https://axilirate.itch.io/farsight",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MDAzNDMucG5n/315x250%23c/LRuQ13.png",
-    "title": "Farsight",
-    "video": null,
-    "scrapeWords": [
-      "Farsight"
-    ]
-  },
-  {
     "author": "Pinggou productions",
     "description": null,
     "genre": "Platformer",
@@ -68360,7 +68333,7 @@
   },
   {
     "author": "Turtlewit",
-    "description": "Multiplayer game about pink felines collecting crystals",
+    "description": "Multiplayer battle royale about pink felines collecting crystals",
     "genre": "Action",
     "id": "669802",
     "link": "https://turtlewit.itch.io/feline-isle",
@@ -90105,7 +90078,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NTUxOTcucG5n/315x250%23c/Cui8%2Fu.png",
+    "thumb": "https://img.itch.zone/aW1nLzQ5ODYwNjEucG5n/315x250%23c/ifR6sa.png",
     "title": "Rope Cow",
     "video": null,
     "scrapeWords": [
@@ -92764,7 +92737,7 @@
     ]
   },
   {
-    "author": "Robbert",
+    "author": "🥕 Robbert",
     "description": null,
     "genre": "Adventure",
     "id": "777327",
@@ -95337,7 +95310,7 @@
   },
   {
     "author": "NomadicRockMan",
-    "description": null,
+    "description": "Mine, Build, Fight",
     "genre": "Strategy",
     "id": "791076",
     "link": "https://nomadicrockman.itch.io/spaceyard",
@@ -97508,8 +97481,8 @@
   },
   {
     "author": "LuckyB45tard",
-    "description": "Magic wielding slime seeks revenge (alpha)",
-    "genre": "Adventure",
+    "description": "Magic wielding slime seeks revenge (not even pre-alpha)",
+    "genre": "Platformer",
     "id": "805359",
     "link": "https://luckyb45tard.itch.io/slime-rebel",
     "platforms": null,
@@ -105649,21 +105622,22 @@
   },
   {
     "author": "raphaklaus",
-    "description": "A sport game",
+    "description": "A fun football/soccer game for 2 players.",
     "genre": "Sports",
     "id": "861897",
-    "link": "https://raphaklaus.itch.io/ball-tech-demo",
+    "link": "https://raphaklaus.itch.io/super-match-deluxe",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4Mzg2ODMuZ2lm/315x250%23cm/pVOW61.gif",
-    "title": "Ball Tech Demo",
-    "video": "https://img.itch.zone/aW1nLzQ4Mzg2ODMuZ2lm/original/bGHGpu.gif",
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTAyNzYuZ2lm/315x250%23cm/0Nf3x9.gif",
+    "title": "Super Match Deluxe",
+    "video": "https://img.itch.zone/aW1nLzQ5OTAyNzYuZ2lm/original/eTRbLl.gif",
     "scrapeWords": [
-      "Ball",
-      "Tech"
+      "Super",
+      "Match",
+      "Deluxe"
     ]
   },
   {
@@ -107384,6 +107358,24 @@
     ]
   },
   {
+    "author": "Love4Retro",
+    "description": "An Equinox remake",
+    "genre": "Action",
+    "id": "875784",
+    "link": "https://love4retro.itch.io/solstice",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzU2OTYucG5n/315x250%23c/dLrqCn.png",
+    "title": "Solstice",
+    "video": null,
+    "scrapeWords": [
+      "Solstice"
+    ]
+  },
+  {
     "author": "POBIX",
     "description": "Play multiple instruments at once, all while evading an evil witch!",
     "genre": "Rhythm",
@@ -107924,24 +107916,6 @@
     ]
   },
   {
-    "author": "Zogger.Dev",
-    "description": null,
-    "genre": "Simulation",
-    "id": "879616",
-    "link": "https://zoggerdev.itch.io/idle-kosmos",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NTkzNjEucG5n/315x250%23c/n1%2FtTU.png",
-    "title": "Idle Kosmos",
-    "video": null,
-    "scrapeWords": [
-      "Idle",
-      "Kosmos"
-    ]
-  },
-  {
     "author": "EBASH",
     "description": null,
     "genre": "Puzzle",
@@ -108252,17 +108226,18 @@
   },
   {
     "author": "Ronflax",
-    "description": "Hey, you can just try the game thanks to your browser on your computer.",
+    "description": "Hey, here is my new prototype game. You can try it quickly from the browser. Have fun!",
     "genre": "Adventure",
     "id": "883305",
-    "link": "https://ronflax.itch.io/pixeladventurebyronflax",
+    "link": "https://ronflax.itch.io/ronflaxplatformer",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5Nzg3NDYucG5n/315x250%23c/a%2BDD26.png",
-    "title": "RonflaxPlatformer",
+    "thumb": "https://img.itch.zone/aW1nLzQ5ODg1MTMucG5n/315x250%23c/iN9X9r.png",
+    "title": "RonflaxPlatformer (Prototype)",
     "video": null,
     "scrapeWords": [
       "Ronflax",
-      "Platformer"
+      "Platformer",
+      "Prototype"
     ]
   },
   {
@@ -108366,6 +108341,20 @@
     ]
   },
   {
+    "author": "b._.render",
+    "description": "Ding that Dong and Ring that bell",
+    "genre": "Simulation",
+    "id": "884149",
+    "link": "https://b-render.itch.io/ding-dong",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5ODE3MTUucG5n/315x250%23c/NhNG8O.png",
+    "title": "Ding-Dong",
+    "video": null,
+    "scrapeWords": [
+      "Ding-Dong"
+    ]
+  },
+  {
     "author": "witchwhale",
     "description": "Care for your book AND study!?",
     "genre": "Simulation",
@@ -108382,6 +108371,21 @@
     "scrapeWords": [
       "Magical",
       "Monsters"
+    ]
+  },
+  {
+    "author": "Zogger.Dev",
+    "description": null,
+    "genre": "Simulation",
+    "id": "885072",
+    "link": "https://zoggerdev.itch.io/idle-kosmos",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5ODg1NjEucG5n/315x250%23c/rCtRde.png",
+    "title": "Idle Kosmos",
+    "video": null,
+    "scrapeWords": [
+      "Idle",
+      "Kosmos"
     ]
   },
   {
