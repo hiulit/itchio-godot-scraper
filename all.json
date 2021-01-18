@@ -34261,6 +34261,24 @@
     ]
   },
   {
+    "author": "cameronac",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "453389",
+    "link": "https://cameronac.itch.io/altered",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyOTkxMTMucG5n/315x250%23c/3ICCz4.png",
+    "title": "Altered",
+    "video": null,
+    "scrapeWords": [
+      "Altered"
+    ]
+  },
+  {
     "author": "Maxwell Clarke (maxeonyx)",
     "description": "Pizza has been delivered. Let your friends know, without the news getting out.",
     "genre": "Puzzle",
@@ -65324,6 +65342,24 @@
     ]
   },
   {
+    "author": "vajdad4m",
+    "description": "The Endless Shooter",
+    "genre": "Shooter",
+    "id": "650478",
+    "link": "https://vajdad4m.itch.io/lastoneleft",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0ODkxOTgucG5n/315x250%23c/IxOAzu.png",
+    "title": "Last One Left",
+    "video": null,
+    "scrapeWords": [
+      "Last",
+      "One",
+      "Left"
+    ]
+  },
+  {
     "author": "extra_syrup",
     "description": "Don't get picked! Be the last egg left! [Made with Godot]",
     "genre": "Puzzle",
@@ -88238,7 +88274,10 @@
     "genre": "Strategy",
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ2NTQ1ODcucG5n/315x250%23c/cWUg1G.png",
     "title": "Malice & Greed",
     "video": null,
@@ -100457,11 +100496,7 @@
     "genre": "Platformer",
     "id": "827365",
     "link": "https://tanmasterisme.itch.io/parkcore-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4NDEwODQucG5n/315x250%23c/TgrSx8.png",
     "title": "Parkcore Game",
     "video": null,
@@ -101129,6 +101164,21 @@
     ]
   },
   {
+    "author": "ambrosius04",
+    "description": "A fan-made FFVII game.",
+    "genre": "Platformer",
+    "id": "830991",
+    "link": "https://ambrosius04.itch.io/cloudy-journey",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTY3ODMucG5n/315x250%23c/KrQzbS.png",
+    "title": "Cloudy Journey",
+    "video": null,
+    "scrapeWords": [
+      "Cloudy",
+      "Journey"
+    ]
+  },
+  {
     "author": "Antoyne",
     "description": "Kanedaaaa ! Tetsuoooo ! Kanedaaaaaaaaaa ! Tetsuooooooooo!!",
     "genre": "Fighting",
@@ -101159,6 +101209,21 @@
     "scrapeWords": [
       "Cornered",
       "Rocket"
+    ]
+  },
+  {
+    "author": "daatguy",
+    "description": null,
+    "genre": "Action",
+    "id": "831323",
+    "link": "https://daatguy.itch.io/pits-end",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTkzMDcucG5n/315x250%23c/94uKSy.png",
+    "title": "PITS END",
+    "video": null,
+    "scrapeWords": [
+      "PITS",
+      "END"
     ]
   },
   {
@@ -102753,7 +102818,7 @@
     ]
   },
   {
-    "author": "sCubeGames",
+    "author": "sCube2428",
     "description": "a smol space shooter",
     "genre": "Shooter",
     "id": "840617",
@@ -107323,6 +107388,24 @@
     ]
   },
   {
+    "author": "Dino0040",
+    "description": "Scavenging, hunting, and fighting real-time turn-based strategy game hybrid",
+    "genre": "Strategy",
+    "id": "876144",
+    "link": "https://dino0040.itch.io/godspeed",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTYzOTgucG5n/315x250%23c/OgdDRQ.png",
+    "title": "Godspeed",
+    "video": null,
+    "scrapeWords": [
+      "Godspeed"
+    ]
+  },
+  {
     "author": "CTN Phaco",
     "description": "Tidy the market before it's too late or you'll be fired!",
     "genre": "Action",
@@ -107634,6 +107717,24 @@
     ]
   },
   {
+    "author": "velopman",
+    "description": "Brave nomadic gnome, you must help the bees regain their home",
+    "genre": "Platformer",
+    "id": "878377",
+    "link": "https://velopman.itch.io/gnomad",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTg0MzYucG5n/315x250%23c/couwjI.png",
+    "title": "Gnomad!",
+    "video": null,
+    "scrapeWords": [
+      "Gnomad"
+    ]
+  },
+  {
     "author": "Jaacko Torus",
     "description": "Steal fruit from King Zulu before he catches you",
     "genre": "Survival",
@@ -107835,9 +107936,7 @@
     "genre": "Puzzle",
     "id": "879496",
     "link": "https://ramcid.itch.io/lucid-dreams",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ5NTA1OTgucG5n/315x250%23c/SedK8c.png",
     "title": "Lucid Dreams",
     "video": null,
@@ -108192,8 +108291,8 @@
   },
   {
     "author": "BlueOctopus",
-    "description": null,
-    "genre": null,
+    "description": "Tamagotchi game",
+    "genre": "Simulation",
     "id": "882786",
     "link": "https://blueoctopus.itch.io/save-my-egg",
     "platforms": null,
@@ -108204,6 +108303,25 @@
       "Save",
       "My",
       "Egg"
+    ]
+  },
+  {
+    "author": "Solo Byte Games",
+    "description": "Simple 2d space exploration/survival game made for the Godot Wildjam 2021.1.",
+    "genre": "Survival",
+    "id": "882983",
+    "link": "https://solobytegames.itch.io/nomads-sky",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTc4NjcuZ2lm/315x250%23cm/D1nY5a.gif",
+    "title": "Nomads Sky",
+    "video": "https://img.itch.zone/aW1nLzQ5OTc4NjcuZ2lm/original/rIBjSC.gif",
+    "scrapeWords": [
+      "Nomads",
+      "Sky"
     ]
   },
   {
@@ -108396,6 +108514,26 @@
     ]
   },
   {
+    "author": "ARez1",
+    "description": "A short game based around being the shepherd dog and protecting the herd from wolves.",
+    "genre": "Adventure",
+    "id": "884684",
+    "link": "https://arez1.itch.io/nomadsheeps",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTMwNjcuZ2lm/315x250%23cm/LIBkAO.gif",
+    "title": "NoMad Sheeps",
+    "video": "https://img.itch.zone/aW1nLzQ5OTMwNjcuZ2lm/original/e2b67l.gif",
+    "scrapeWords": [
+      "No",
+      "Mad",
+      "Sheeps"
+    ]
+  },
+  {
     "author": "99 Cent Games",
     "description": null,
     "genre": "Action",
@@ -108458,6 +108596,25 @@
     ]
   },
   {
+    "author": "Nico",
+    "description": null,
+    "genre": "Adventure",
+    "id": "885497",
+    "link": "https://nico-entity.itch.io/new-city",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTE1OTgucG5n/315x250%23c/7k1bQP.png",
+    "title": "New City",
+    "video": null,
+    "scrapeWords": [
+      "New",
+      "City"
+    ]
+  },
+  {
     "author": "mkhoi",
     "description": "Go on an adventure to find the perfect place for your people",
     "genre": null,
@@ -108508,6 +108665,22 @@
     ]
   },
   {
+    "author": "Bakenshake",
+    "description": "Help Mothboi find a cozy getaway from the annoying humans!",
+    "genre": "Puzzle",
+    "id": "885749",
+    "link": "https://bakenshake09.itch.io/adventures-of-mothboi",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTM2NzgucG5n/315x250%23c/ivFcW0.png",
+    "title": "Adventures of Mothboi",
+    "video": null,
+    "scrapeWords": [
+      "Adventures",
+      "of",
+      "Mothboi"
+    ]
+  },
+  {
     "author": "b._.render",
     "description": "This my first time trying out a game jam",
     "genre": "Simulation",
@@ -108525,13 +108698,28 @@
     ]
   },
   {
+    "author": "BlueOctopus",
+    "description": null,
+    "genre": "Action",
+    "id": "885819",
+    "link": "https://blueoctopus.itch.io/just-one-tank",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTcwNDMucG5n/315x250%23c/3s%2Fqz3.png",
+    "title": "Just one Tank",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "one",
+      "Tank"
+    ]
+  },
+  {
     "author": "Kneeshaw Devolpments",
     "description": "A RTS defender made exclusively for Godot Wild Jam by Charlie Newton and Michael Kneeshaw",
     "genre": "Strategy",
     "id": "885883",
     "link": "https://titansaga.itch.io/nomad",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -108557,6 +108745,284 @@
       "Island",
       "of",
       "Trees"
+    ]
+  },
+  {
+    "author": "Noiros",
+    "description": null,
+    "genre": "Shooter",
+    "id": "886249",
+    "link": "https://noiros.itch.io/object-wars",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTY1MDcucG5n/315x250%23c/xpX2%2Bo.png",
+    "title": "Object Wars",
+    "video": null,
+    "scrapeWords": [
+      "Object",
+      "Wars"
+    ]
+  },
+  {
+    "author": "AlejandroP1",
+    "description": "Un pinball en un espacio 3D, no en una mesa plana.",
+    "genre": null,
+    "id": "886316",
+    "link": "https://alejandrop1.itch.io/freefall-pinball-3d",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTY5MTEucG5n/315x250%23c/iXohFt.png",
+    "title": "FreeFall Pinball 3D",
+    "video": null,
+    "scrapeWords": [
+      "Free",
+      "Fall",
+      "Pinball",
+      "3",
+      "D"
+    ]
+  },
+  {
+    "author": "bodhi",
+    "description": "A game about surviving in a forest as a nomad",
+    "genre": "Survival",
+    "id": "886331",
+    "link": "https://bodhiii.itch.io/nomad-boy",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTcwODMucG5n/315x250%23c/P5XbYS.png",
+    "title": "Nomad Boy",
+    "video": null,
+    "scrapeWords": [
+      "Nomad",
+      "Boy"
+    ]
+  },
+  {
+    "author": "Sage7",
+    "description": "Help Noddy in his quest to find the perfect human by solving riddles while stealthily avoiding detection!",
+    "genre": "Puzzle",
+    "id": "886403",
+    "link": "https://sage7.itch.io/the-adventures-of-noddy-the-nomadic-parasite",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTg3MjEucG5n/315x250%23c/QkrOT4.png",
+    "title": "The Adventures of Noddy the Nomadic Parasite",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Adventures",
+      "of",
+      "Noddy",
+      "the",
+      "Nomadic",
+      "Parasite"
+    ]
+  },
+  {
+    "author": "Red Cube Gamedev",
+    "description": "Collect food to survive and collect coins to buy upgrade",
+    "genre": "Adventure",
+    "id": "886443",
+    "link": "https://red-cube-gamedev.itch.io/nomad-on-earth",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTc4ODcucG5n/315x250%23c/tA1QYm.png",
+    "title": "Nomad on earth",
+    "video": null,
+    "scrapeWords": [
+      "Nomad",
+      "on",
+      "earth"
+    ]
+  },
+  {
+    "author": "Apocalips",
+    "description": "En laberintos están esparcidos muchos cafés en un mundo abierto",
+    "genre": "Adventure",
+    "id": "886455",
+    "link": "https://apocalipsgames.itch.io/laberintos",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTc2MDUucG5n/315x250%23c/%2BZcCfU.png",
+    "title": "Laberintos",
+    "video": null,
+    "scrapeWords": [
+      "Laberintos"
+    ]
+  },
+  {
+    "author": "Ben Weber",
+    "description": "Fly as a Nomad from planetary system to planetary system and collect resources",
+    "genre": "Action",
+    "id": "886469",
+    "link": "https://benweber.itch.io/cosmic-nomad",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTc2NzMucG5n/315x250%23c/Ur7Z%2Fq.png",
+    "title": "Cosmic Nomad",
+    "video": null,
+    "scrapeWords": [
+      "Cosmic",
+      "Nomad"
+    ]
+  },
+  {
+    "author": "soulseekah",
+    "description": "Godot Wild Jam 29",
+    "genre": "Simulation",
+    "id": "886491",
+    "link": "https://soulseekah.itch.io/nomadsky",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTgwMDEucG5n/315x250%23c/rAAFoD.png",
+    "title": "Nomadsky",
+    "video": null,
+    "scrapeWords": [
+      "Nomadsky"
+    ]
+  },
+  {
+    "author": "mikouaji",
+    "description": "My entry for the Godot Wild Jam 29",
+    "genre": "Survival",
+    "id": "886621",
+    "link": "https://mikouaji.itch.io/sandstorm-run",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTg4MjYucG5n/315x250%23c/j8jLNt.png",
+    "title": "Sandstorm Run - Godot Wild Jam 29",
+    "video": null,
+    "scrapeWords": [
+      "Sandstorm",
+      "Run",
+      "Godot",
+      "Wild",
+      "Jam",
+      "29"
+    ]
+  },
+  {
+    "author": "Mr.Olgoth",
+    "description": "You cat is your boss, do as he says.",
+    "genre": "Action",
+    "id": "886635",
+    "link": "https://mrolgoth.itch.io/lord-o-cat",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTg4NjIucG5n/315x250%23c/aZxAre.png",
+    "title": "Lord-O-Cat",
+    "video": null,
+    "scrapeWords": [
+      "Lord-O-Cat"
+    ]
+  },
+  {
+    "author": "Winston",
+    "description": "Dystopian walking simulator with a small storyline.",
+    "genre": null,
+    "id": "886644",
+    "link": "https://winston-yallow.itch.io/the-last-nomad",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTg4NDIucG5n/315x250%23c/jiaKRX.png",
+    "title": "The last NOMAD",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "last",
+      "NOMAD"
+    ]
+  },
+  {
+    "author": "rojafox",
+    "description": "Wild Godot #29  space typing game",
+    "genre": null,
+    "id": "886649",
+    "link": "https://rojafox.itch.io/star-walker",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTg4NTgucG5n/315x250%23c/s73Xsp.png",
+    "title": "Star Walker",
+    "video": null,
+    "scrapeWords": [
+      "Star",
+      "Walker"
+    ]
+  },
+  {
+    "author": "Vivite",
+    "description": "This game is a Dino-Runner. A numpad is mandatory.",
+    "genre": "Action",
+    "id": "886771",
+    "link": "https://vivite.itch.io/dinonumpadosaure",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTk4MTIucG5n/315x250%23c/z8y4sP.png",
+    "title": "Dinonumpadosaur",
+    "video": null,
+    "scrapeWords": [
+      "Dinonumpadosaur"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Get the data, uncover the family",
+    "genre": "Interactive Fiction",
+    "id": "887099",
+    "link": "https://jafcraze.itch.io/el-familia",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMDIwODEucG5n/315x250%23c/u8goB9.png",
+    "title": "El Familia",
+    "video": null,
+    "scrapeWords": [
+      "El",
+      "Familia"
+    ]
+  },
+  {
+    "author": "Janblu Poggio",
+    "description": "Utilise the third dimension",
+    "genre": "Puzzle",
+    "id": "887110",
+    "link": "https://janblupoggio.itch.io/flatlander",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMDIwNjQucG5n/315x250%23c/ehQTp9.png",
+    "title": "Flatlander",
+    "video": null,
+    "scrapeWords": [
+      "Flatlander"
     ]
   },
   {
