@@ -4270,20 +4270,6 @@
     ]
   },
   {
-    "author": "imekon",
-    "description": "Breakout sample in Godot 2.1.4",
-    "genre": null,
-    "id": "197722",
-    "link": "https://imekon.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
-    ]
-  },
-  {
     "author": "securas",
     "description": "A hack and slash roguelike winner of the 2017 Github Game Off Jam",
     "genre": "Role Playing",
@@ -8413,13 +8399,10 @@
     "genre": "Action",
     "id": "247652",
     "link": "https://theludovyc.itch.io/lookyourfuel",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjQ3NjUyLzExODQ4MjAuZ2lm/315x250%23cm/G5X2NS.gif",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMDkyMzYuZ2lm/315x250%23cm/ljY57f.gif",
     "title": "LudumDare41_LookYourFuel",
-    "video": "https://img.itch.zone/aW1hZ2UvMjQ3NjUyLzExODQ4MjAuZ2lm/original/c90rsg.gif",
+    "video": "https://img.itch.zone/aW1nLzUwMDkyMzYuZ2lm/original/YI8WGM.gif",
     "scrapeWords": [
       "Ludum",
       "Dare41_Look",
@@ -14642,6 +14625,20 @@
       "of",
       "Memory",
       "Space"
+    ]
+  },
+  {
+    "author": "Chuckles P.  Monkeyworth",
+    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
+    "genre": null,
+    "id": "290114",
+    "link": "https://chucklespmonkeyworth.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
     ]
   },
   {
@@ -50399,9 +50396,7 @@
     "id": "569087",
     "link": "https://djaro.itch.io/catsoflove",
     "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5OTAyNjcucG5n/315x250%23c/kM15%2BO.png",
     "title": "CatsOfLove",
@@ -63233,11 +63228,7 @@
     "genre": "Simulation",
     "id": "640069",
     "link": "https://obvlong.itch.io/woodland-empire",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQzOTQ1ODMucG5n/315x250%23c/ffNhoI.png",
     "title": "Woodland Empire",
     "video": null,
@@ -65366,7 +65357,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM0OTgyNDkucG5n/315x250%23c/QHWUab.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMTQyNjQucG5n/315x250%23c/nq8ASC.png",
     "title": "CUBE (Alpha 2)",
     "video": null,
     "scrapeWords": [
@@ -79008,21 +78999,6 @@
     ]
   },
   {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -83837,7 +83813,9 @@
     "genre": "Puzzle",
     "id": "736673",
     "link": "https://hacktrout.itch.io/symmetry",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQxMDA1MjMuZ2lm/315x250%23cm/%2FHNfxh.gif",
     "title": "Symmetry",
     "video": "https://img.itch.zone/aW1nLzQxMDA1MjMuZ2lm/original/Phie0%2B.gif",
@@ -102979,7 +102957,7 @@
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MDA2ODEucG5n/315x250%23c/wqD9jY.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMDkwNzcucG5n/315x250%23c/hpOfOF.png",
     "title": "GodotCraft",
     "video": null,
     "scrapeWords": [
@@ -105601,9 +105579,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTAyNzYuZ2lm/315x250%23cm/0Nf3x9.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUwMDgxNjMucG5n/315x250%23c/F1qImP.png",
     "title": "Super Match Deluxe",
-    "video": "https://img.itch.zone/aW1nLzQ5OTAyNzYuZ2lm/original/eTRbLl.gif",
+    "video": null,
     "scrapeWords": [
       "Super",
       "Match",
@@ -107004,6 +106982,21 @@
     ]
   },
   {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Nobody: Interactive",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -108278,7 +108271,7 @@
     "id": "882656",
     "link": "https://growing-studios.itch.io/sofa",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5NzM0MzAucG5n/315x250%23c/TA%2Blrk.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMDkzNDQucG5n/315x250%23c/p%2Fhf1t.png",
     "title": "The S.O.F.A.",
     "video": null,
     "scrapeWords": [
@@ -108767,6 +108760,38 @@
     ]
   },
   {
+    "author": "BojanDamnjanovic",
+    "description": "Balloons(workingTitle)",
+    "genre": null,
+    "id": "885938",
+    "link": "https://bojandamnjanovic.itch.io/wt-baloons",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTQzMzMuanBn/315x250%23c/q4LfY6.jpg",
+    "title": "(WT)_Balloons",
+    "video": null,
+    "scrapeWords": [
+      "WT_Balloons"
+    ]
+  },
+  {
+    "author": "Tenmen Of Newcastle",
+    "description": null,
+    "genre": "Action",
+    "id": "886243",
+    "link": "https://tenmen-of-newcastle.itch.io/agile-hamigo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTY1NTQucG5n/315x250%23c/lfhLYO.png",
+    "title": "Agile Hamigo",
+    "video": null,
+    "scrapeWords": [
+      "Agile",
+      "Hamigo"
+    ]
+  },
+  {
     "author": "Noiros",
     "description": null,
     "genre": "Shooter",
@@ -108898,6 +108923,26 @@
     "scrapeWords": [
       "Cosmic",
       "Nomad"
+    ]
+  },
+  {
+    "author": "kilozatrista",
+    "description": "a game jam entry. my first finished 3d game.",
+    "genre": null,
+    "id": "886477",
+    "link": "https://kilozatrista.itch.io/bitonborn-the-runner",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "bitonborn. the runner",
+    "video": null,
+    "scrapeWords": [
+      "bitonborn",
+      "the",
+      "runner"
     ]
   },
   {
@@ -109102,13 +109147,11 @@
   },
   {
     "author": "Stradex",
-    "description": "A free coop shoot-em-up!",
+    "description": "A free coop shoot-em-up! (HTML5 singleplayer version available!)",
     "genre": "Action",
     "id": "887886",
     "link": "https://stradex.itch.io/space-schmup-coop",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwMDc3OTgucG5n/315x250%23c/wza0O%2F.png",
     "title": "Space Schmup Coop",
     "video": null,
@@ -109116,6 +109159,39 @@
       "Space",
       "Schmup",
       "Coop"
+    ]
+  },
+  {
+    "author": "mokarrom",
+    "description": "A simple obstacle avoiding game...",
+    "genre": "Survival",
+    "id": "887930",
+    "link": "https://mokarrom.itch.io/neon-retroid",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMDc3NjEucG5n/315x250%23c/NVkw4s.png",
+    "title": "Neon Retroid",
+    "video": null,
+    "scrapeWords": [
+      "Neon",
+      "Retroid"
+    ]
+  },
+  {
+    "author": "JODAMATF",
+    "description": null,
+    "genre": "Educational",
+    "id": "888207",
+    "link": "https://jodamatf.itch.io/space-mangirry-11-simbologa-tabla-peridica",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMDkyODAucG5n/315x250%23c/vT2vPj.png",
+    "title": "Space Mangüirry 1.1",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Mangüirry",
+      "11"
     ]
   },
   {
