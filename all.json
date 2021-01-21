@@ -6822,7 +6822,7 @@
     "description": "20 Levels of Screen-Wrapping Arcade Action!",
     "genre": "Platformer",
     "id": "233533",
-    "link": "https://harmony-hun.itch.io/candy",
+    "link": "https://harmony-hunnie.itch.io/candy",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMyMzE2NTUuZ2lm/315x250%23cm/SwE9EQ.gif",
     "title": "Candy Wrapper",
@@ -23035,7 +23035,7 @@
     "description": null,
     "genre": "Adventure",
     "id": "354317",
-    "link": "https://nrfaikar.itch.io/electroidesia",
+    "link": "https://naruaika.itch.io/electroidesia",
     "platforms": [
       "Windows",
       "Linux"
@@ -50917,6 +50917,25 @@
     ]
   },
   {
+    "author": "Vsevolod Ganin",
+    "description": "Multiplayer Pong clone",
+    "genre": "Sports",
+    "id": "573119",
+    "link": "https://vsga.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
+    ]
+  },
+  {
     "author": "eldelnacho",
     "description": "Play as a riot cop fighting hordes of criminals and degenerates in this top-down style beat 'em up.",
     "genre": "Action",
@@ -71849,9 +71868,9 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM4MTMwNjMuZ2lm/315x250%23cm/MqCR1J.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUwMTkzMjMucG5n/315x250%23c/aMv9DS.png",
     "title": "The Chopper",
-    "video": "https://img.itch.zone/aW1nLzM4MTMwNjMuZ2lm/original/JS7Ewp.gif",
+    "video": null,
     "scrapeWords": [
       "The",
       "Chopper"
@@ -78999,6 +79018,21 @@
     ]
   },
   {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -81029,25 +81063,6 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
-    ]
-  },
-  {
-    "author": "KennyTheBard",
-    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
-    "genre": "Sports",
-    "id": "727007",
-    "link": "https://kennythebard.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -93883,6 +93898,24 @@
     ]
   },
   {
+    "author": "Luke I. Wilson",
+    "description": "A black and white, retro scrolling shoot-em up with cinematic story",
+    "genre": "Action",
+    "id": "781015",
+    "link": "https://fivemoreminix.itch.io/vrmnnvzn",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzODI2NTgucG5n/315x250%23c/BU%2Bvqb.png",
+    "title": "VRMN NVZN",
+    "video": null,
+    "scrapeWords": [
+      "VRMN",
+      "NVZN"
+    ]
+  },
+  {
     "author": "sundowns",
     "description": "A short, quirky FPS puzzle game. Push looping arrows to escape test chambers!",
     "genre": "Puzzle",
@@ -94958,11 +94991,11 @@
     ]
   },
   {
-    "author": "gourdy",
+    "author": "HQUIL",
     "description": "a short hack-and-slash",
     "genre": "Adventure",
     "id": "787885",
-    "link": "https://gourdy.itch.io/in-ruins",
+    "link": "https://hquil.itch.io/in-ruins",
     "platforms": [
       "Windows"
     ],
@@ -102955,6 +102988,7 @@
     "platforms": [
       "Windows",
       "Linux",
+      "macOS",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMDkwNzcucG5n/315x250%23c/hpOfOF.png",
@@ -103445,6 +103479,24 @@
       "Yeet",
       "the",
       "Robots"
+    ]
+  },
+  {
+    "author": "pugdev",
+    "description": "Simple action puzzler",
+    "genre": "Puzzle",
+    "id": "846118",
+    "link": "https://pugdev.itch.io/megabat",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3NDMxMDQucG5n/315x250%23c/B%2FwgED.png",
+    "title": "Megabat",
+    "video": null,
+    "scrapeWords": [
+      "Megabat"
     ]
   },
   {
@@ -106982,21 +107034,6 @@
     ]
   },
   {
-    "author": "mikepurdy",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "872636",
-    "link": "https://purdy.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Nobody: Interactive",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -108368,6 +108405,28 @@
     ]
   },
   {
+    "author": "Virgula Leal",
+    "description": "As suas escolhas não importam.",
+    "genre": "Interactive Fiction",
+    "id": "883332",
+    "link": "https://virgula.itch.io/defunto",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMTgxMTgucG5n/315x250%23c/7FZoww.png",
+    "title": "VOCÊ É UM DEFUNTO MECÂNICO",
+    "video": null,
+    "scrapeWords": [
+      "VOCÊ",
+      "É",
+      "UM",
+      "DEFUNTO",
+      "MECÂNICO"
+    ]
+  },
+  {
     "author": "KobaDesu",
     "description": "A Katamari Damacy clone game made as a birthday present",
     "genre": null,
@@ -108743,6 +108802,25 @@
     ]
   },
   {
+    "author": "Joeri",
+    "description": "Quickly! Clean them!",
+    "genre": "Action",
+    "id": "885894",
+    "link": "https://bakkerjoeri.itch.io/clean-those-kids",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMTg3NzEuZ2lm/315x250%23cm/4B4t40.gif",
+    "title": "Clean! Those! Kids!",
+    "video": "https://img.itch.zone/aW1nLzUwMTg3NzEuZ2lm/original/YgqKLu.gif",
+    "scrapeWords": [
+      "Clean",
+      "Those",
+      "Kids"
+    ]
+  },
+  {
     "author": "silicon14",
     "description": null,
     "genre": "Simulation",
@@ -108760,20 +108838,21 @@
     ]
   },
   {
-    "author": "BojanDamnjanovic",
-    "description": "Balloons(workingTitle)",
+    "author": "Nipeyo",
+    "description": "Balloons (workingTitle)",
     "genre": null,
     "id": "885938",
-    "link": "https://bojandamnjanovic.itch.io/wt-baloons",
+    "link": "https://nipeyo.itch.io/wt-baloons",
     "platforms": [
       "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5OTQzMzMuanBn/315x250%23c/q4LfY6.jpg",
-    "title": "(WT)_Balloons",
+    "title": "Balloons (WT) DEMO",
     "video": null,
     "scrapeWords": [
-      "WT_Balloons"
+      "Balloons",
+      "WT"
     ]
   },
   {
@@ -109146,6 +109225,22 @@
     ]
   },
   {
+    "author": "Iqachoo",
+    "description": "test game for final project",
+    "genre": "Platformer",
+    "id": "887357",
+    "link": "https://iqachoo.itch.io/up-and-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMjA3MTgucG5n/315x250%23c/7nusXh.png",
+    "title": "Up and Out",
+    "video": null,
+    "scrapeWords": [
+      "Up",
+      "and",
+      "Out"
+    ]
+  },
+  {
     "author": "Stradex",
     "description": "A free coop shoot-em-up! (HTML5 singleplayer version available!)",
     "genre": "Action",
@@ -109192,6 +109287,78 @@
       "Space",
       "Mangüirry",
       "11"
+    ]
+  },
+  {
+    "author": "SUB4Gamer",
+    "description": "SURVIVE and share your score with friends",
+    "genre": null,
+    "id": "888965",
+    "link": "https://sub4gamer112.itch.io/zombies-return",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMTQyNDkuanBn/315x250%23c/oybwRh.jpg",
+    "title": "Zombies Return",
+    "video": null,
+    "scrapeWords": [
+      "Zombies",
+      "Return"
+    ]
+  },
+  {
+    "author": "MrJCowman",
+    "description": "Cats protecting home one dust bunny at a time",
+    "genre": "Racing",
+    "id": "889136",
+    "link": "https://mrjcowman.itch.io/roomba-ruckus",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjAwOTMucG5n/315x250%23c/E6yG9V.png",
+    "title": "Roomba Ruckus",
+    "video": null,
+    "scrapeWords": [
+      "Roomba",
+      "Ruckus"
+    ]
+  },
+  {
+    "author": "BVC games",
+    "description": "This is my newest project On Limit Racing. Please check the included document for download instructions!",
+    "genre": "Racing",
+    "id": "889317",
+    "link": "https://bvc-games.itch.io/on-limit-racing",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMTU3NDIucG5n/315x250%23c/FoD%2FUU.png",
+    "title": "On Limit Racing",
+    "video": null,
+    "scrapeWords": [
+      "On",
+      "Limit",
+      "Racing"
+    ]
+  },
+  {
+    "author": "Raffaele Picca",
+    "description": "No brakes full throttle V8 death-metal car massacre to save your cat Hans.",
+    "genre": "Action",
+    "id": "890000",
+    "link": "https://picster.itch.io/franzfury",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjA2MjcuanBn/315x250%23c/QgN4cV.jpg",
+    "title": "FRANZ FURY",
+    "video": null,
+    "scrapeWords": [
+      "FRANZ",
+      "FURY"
     ]
   },
   {
