@@ -24674,6 +24674,29 @@
     ]
   },
   {
+    "author": "Noiros",
+    "description": "In Endless Adventur fights monsters / boss , travels a big map, saves your world, a great story awaits you!",
+    "genre": "Adventure",
+    "id": "366124",
+    "link": "https://noiros.itch.io/endless-adventur",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NzE0MjAucG5n/315x250%23c/a7mPYb.png",
+    "title": "Endless Adventur A Sword Of Power",
+    "video": null,
+    "scrapeWords": [
+      "Endless",
+      "Adventur",
+      "A",
+      "Sword",
+      "Of",
+      "Power"
+    ]
+  },
+  {
     "author": "WeRideForCoffee",
     "description": "A modern Nokia 3310 dungeon crawler",
     "genre": null,
@@ -63275,6 +63298,26 @@
     ]
   },
   {
+    "author": "ThEnigmArtist",
+    "description": "FREE in browser 2 player head to head mini game",
+    "genre": "Fighting",
+    "id": "640373",
+    "link": "https://blackboxceo.itch.io/black-box-operation-pandora-1pvs2p",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5Nzk3NjMucG5n/315x250%23c/JiT9nP.png",
+    "title": "FREE: Black Box- Operation Pandora (mini game)",
+    "video": null,
+    "scrapeWords": [
+      "FREE",
+      "Black",
+      "Box-",
+      "Operation",
+      "Pandora",
+      "mini",
+      "game"
+    ]
+  },
+  {
     "author": "Mi1k",
     "description": "Trig is a space shooter based mainly on player skill!",
     "genre": "Shooter",
@@ -66009,6 +66052,24 @@
       "Time",
       "Is",
       "Moneyliterally"
+    ]
+  },
+  {
+    "author": "ThEnigmArtist",
+    "description": "Cyber Ninja vs Mech battle: Rescue mission",
+    "genre": "Fighting",
+    "id": "654971",
+    "link": "https://blackboxceo.itch.io/mech-battle",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5Nzk3NzcucG5n/315x250%23c/bQlsBZ.png",
+    "title": "Black Box: Operation Pandora (Mechs)",
+    "video": null,
+    "scrapeWords": [
+      "Black",
+      "Box",
+      "Operation",
+      "Pandora",
+      "Mechs"
     ]
   },
   {
@@ -69105,11 +69166,11 @@
     ]
   },
   {
-    "author": "Timooffir",
+    "author": "Timooff",
     "description": "The Fun Game I made For a Game Jam(In development still)",
     "genre": "Action",
     "id": "674626",
-    "link": "https://timooffir.itch.io/wall-n-roll",
+    "link": "https://timooff.itch.io/wall-n-roll",
     "platforms": [
       "Windows"
     ],
@@ -83972,6 +84033,23 @@
     ]
   },
   {
+    "author": "hackermannn",
+    "description": "Casual Cyberpunk Action",
+    "genre": "Simulation",
+    "id": "736987",
+    "link": "https://hackermannn.itch.io/hackernet",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTQ1OTkucG5n/315x250%23c/RpyXis.png",
+    "title": "HackerNet",
+    "video": null,
+    "scrapeWords": [
+      "Hacker",
+      "Net"
+    ]
+  },
+  {
     "author": "Dark",
     "description": "Packed with snarky voice acting. And some other things.....",
     "genre": "Adventure",
@@ -86267,12 +86345,11 @@
     "link": "https://sinistro25.itch.io/slay-the-horde",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ5ODA0MTIucG5n/315x250%23c/gKekR4.png",
-    "title": "Slay the Horde",
+    "title": "Horde Slayer",
     "video": null,
     "scrapeWords": [
-      "Slay",
-      "the",
-      "Horde"
+      "Horde",
+      "Slayer"
     ]
   },
   {
@@ -101893,6 +101970,20 @@
     ]
   },
   {
+    "author": "🥕 Robbert",
+    "description": null,
+    "genre": "Action",
+    "id": "836969",
+    "link": "https://robbertstevens.itch.io/slashy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMjIyNDEucG5n/315x250%23c/k3GNPQ.png",
+    "title": "Slashy",
+    "video": null,
+    "scrapeWords": [
+      "Slashy"
+    ]
+  },
+  {
     "author": "midisaurus",
     "description": "Armed (legged?) with only your ice skates, can you battle your way to the evil presence on the moon?",
     "genre": "Action",
@@ -107628,6 +107719,24 @@
     ]
   },
   {
+    "author": "yatoimtop",
+    "description": "people get lost when spaces lose themselves",
+    "genre": "Adventure",
+    "id": "877648",
+    "link": "https://yatoimtop.itch.io/liminal-ranger",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjQ1MjkuanBn/315x250%23c/27%2BR%2Fo.jpg",
+    "title": "liminal ranger",
+    "video": null,
+    "scrapeWords": [
+      "liminal",
+      "ranger"
+    ]
+  },
+  {
     "author": "HI_TV",
     "description": "your goal is it to order a hotel room for one night and have a good night sleep.",
     "genre": "Puzzle",
@@ -108290,9 +108399,7 @@
     "genre": "Action",
     "id": "881933",
     "link": "https://oreganodev.itch.io/peskypenguins",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ5OTQwMDUucG5n/315x250%23c/Le6BDH.png",
     "title": "Pesky Penguins",
     "video": null,
@@ -108583,6 +108690,26 @@
     ]
   },
   {
+    "author": "Pixel Sprouts",
+    "description": "An updated version of our Mini Jam tennis game",
+    "genre": "Sports",
+    "id": "885001",
+    "link": "https://pixel-sprouts.itch.io/heavenvshelltennis",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTc0MzcuZ2lm/315x250%23cm/LogLJo.gif",
+    "title": "Heaven VS Hell Tennis",
+    "video": "https://img.itch.zone/aW1nLzQ5OTc0MzcuZ2lm/original/gFr6ED.gif",
+    "scrapeWords": [
+      "Heaven",
+      "VS",
+      "Hell",
+      "Tennis"
+    ]
+  },
+  {
     "author": "99 Cent Games",
     "description": null,
     "genre": "Action",
@@ -108803,7 +108930,7 @@
   },
   {
     "author": "Joeri",
-    "description": "Quickly! Clean them!",
+    "description": "✨ Quickly! Clean them!",
     "genre": "Action",
     "id": "885894",
     "link": "https://bakkerjoeri.itch.io/clean-those-kids",
@@ -108840,7 +108967,7 @@
   {
     "author": "Nipeyo",
     "description": "Balloons (workingTitle)",
-    "genre": null,
+    "genre": "Platformer",
     "id": "885938",
     "link": "https://nipeyo.itch.io/wt-baloons",
     "platforms": [
@@ -109345,6 +109472,24 @@
     ]
   },
   {
+    "author": "friendmaster2000",
+    "description": "A short horror experience.",
+    "genre": "Survival",
+    "id": "889992",
+    "link": "https://friendmaster2000.itch.io/the-witchs-maze",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjA0NzIucG5n/315x250%23c/9QQbZ7.png",
+    "title": "The Witch's Maze",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Witchs",
+      "Maze"
+    ]
+  },
+  {
     "author": "Raffaele Picca",
     "description": "No brakes full throttle V8 death-metal car massacre to save your cat Hans.",
     "genre": "Action",
@@ -109359,6 +109504,77 @@
     "scrapeWords": [
       "FRANZ",
       "FURY"
+    ]
+  },
+  {
+    "author": "Elite games",
+    "description": null,
+    "genre": "Shooter",
+    "id": "890028",
+    "link": "https://elite-games.itch.io/shooter-fpsalpha",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjEyNjIucG5n/315x250%23c/yZur18.png",
+    "title": "shooter fps(alpha)",
+    "video": null,
+    "scrapeWords": [
+      "shooter",
+      "fpsalpha"
+    ]
+  },
+  {
+    "author": "Illness Lilin",
+    "description": "Tiny platformer with the focus on being hard.",
+    "genre": "Platformer",
+    "id": "890702",
+    "link": "https://illness-lilin.itch.io/wip-pixelhop",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjQ3ODgucG5n/315x250%23c/0DtDIv.png",
+    "title": "[WIP] Pixel Hop",
+    "video": null,
+    "scrapeWords": [
+      "[WIP]",
+      "Pixel",
+      "Hop"
+    ]
+  },
+  {
+    "author": "b._.render",
+    "description": "Avoiding objects the key to success",
+    "genre": "Survival",
+    "id": "890706",
+    "link": "https://b-render.itch.io/t",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMjU4NzYucG5n/315x250%23c/igrCNV.png",
+    "title": "Things Shoot From The Side",
+    "video": null,
+    "scrapeWords": [
+      "Things",
+      "Shoot",
+      "From",
+      "The",
+      "Side"
+    ]
+  },
+  {
+    "author": "Jamdog",
+    "description": "Escape, 90 degrees at a time.",
+    "genre": "Action",
+    "id": "890728",
+    "link": "https://jamdog.itch.io/times2-demo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjUxMzAucG5n/315x250%23c/HWda65.png",
+    "title": "Times^2 Demo",
+    "video": null,
+    "scrapeWords": [
+      "Times^2"
     ]
   },
   {
