@@ -41186,26 +41186,6 @@
     ]
   },
   {
-    "author": "MatheusPese",
-    "description": "Ludum Dare 45",
-    "genre": null,
-    "id": "495369",
-    "link": "https://matheuspese.itch.io/there-is-nothing-here",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": null,
-    "title": "There is Nothing Here",
-    "video": null,
-    "scrapeWords": [
-      "There",
-      "is",
-      "Nothing",
-      "Here"
-    ]
-  },
-  {
     "author": "Nikolaj",
     "description": "Ludum Dare 45 Entry - Split Screen racing game with joystick support made in Godot 3.1",
     "genre": "Racing",
@@ -50937,25 +50917,6 @@
       "TIME",
       "OF",
       "PLAGUE"
-    ]
-  },
-  {
-    "author": "Vsevolod Ganin",
-    "description": "Multiplayer Pong clone",
-    "genre": "Sports",
-    "id": "573119",
-    "link": "https://vsga.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -62487,7 +62448,11 @@
     "genre": "Shooter",
     "id": "634777",
     "link": "https://eldthezombie.itch.io/totally-shmup",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQzOTI5NDAucG5n/315x250%23c/K1pyhS.png",
     "title": "Totally Shmup WIP",
     "video": null,
@@ -63270,7 +63235,9 @@
     "genre": "Simulation",
     "id": "640069",
     "link": "https://obvlong.itch.io/woodland-empire",
-    "platforms": null,
+    "platforms": [
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQzOTQ1ODMucG5n/315x250%23c/ffNhoI.png",
     "title": "Woodland Empire",
     "video": null,
@@ -67468,7 +67435,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1NzE2NzEucG5n/315x250%23c/9krAVK.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMjg1MzYucG5n/315x250%23c/ememDF.png",
     "title": "Humans: Milestone",
     "video": null,
     "scrapeWords": [
@@ -70689,7 +70656,10 @@
     "genre": "Action",
     "id": "682458",
     "link": "https://jhyde.itch.io/antibody",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NDAxMzcucG5n/315x250%23c/mq1Bax.png",
     "title": "Antibody",
     "video": null,
@@ -79079,21 +79049,6 @@
     ]
   },
   {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -80408,6 +80363,24 @@
     ]
   },
   {
+    "author": "Impostor Studios",
+    "description": "Find your way out of a dark dungeon with only your trusted boombox as a weapon against evil.",
+    "genre": "Adventure",
+    "id": "723276",
+    "link": "https://impostor-studios.itch.io/lullaby",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMTE3NTguZ2lm/315x250%23cm/TgT3Ya.gif",
+    "title": "Lullaby",
+    "video": "https://img.itch.zone/aW1nLzQwMTE3NTguZ2lm/original/aYnOQD.gif",
+    "scrapeWords": [
+      "Lullaby"
+    ]
+  },
+  {
     "author": "Megarev",
     "description": "A Game of rewind mini games",
     "genre": "Action",
@@ -81124,6 +81097,25 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
+    ]
+  },
+  {
+    "author": "KennyTheBard",
+    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
+    "genre": "Sports",
+    "id": "727007",
+    "link": "https://kennythebard.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -107125,6 +107117,21 @@
     ]
   },
   {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Nobody: Interactive",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -107998,6 +108005,22 @@
     ]
   },
   {
+    "author": "shadowhen89",
+    "description": "Two-player game of tic tac toe",
+    "genre": "Strategy",
+    "id": "879042",
+    "link": "https://shadowhen89.itch.io/tic-tac-toe",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDgwODgucG5n/315x250%23c/kBLdMS.png",
+    "title": "Tic Tac Toe",
+    "video": null,
+    "scrapeWords": [
+      "Tic",
+      "Tac",
+      "Toe"
+    ]
+  },
+  {
     "author": "festmester",
     "description": "A game of coins",
     "genre": "Action",
@@ -108172,15 +108195,15 @@
   },
   {
     "author": "BeezNutzDev",
-    "description": "A narrative based game about a robot who's on a path to discover his true feelings.",
-    "genre": "Adventure",
+    "description": "A narrative based game about a robot who's on a path to discover its true feelings.",
+    "genre": null,
     "id": "879952",
     "link": "https://beeznutzdev.itch.io/place-holder",
     "platforms": [
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NTMyNTEucG5n/315x250%23c/LXr8RQ.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMzE0NjguanBn/315x250%23c/W9OTLA.jpg",
     "title": "Place Holder",
     "video": null,
     "scrapeWords": [
@@ -109027,7 +109050,7 @@
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5OTY5MTEucG5n/315x250%23c/iXohFt.png",
-    "title": "FreeFall Pinball 3D",
+    "title": "FreeFall Pinball 3D (DEMO)",
     "video": null,
     "scrapeWords": [
       "Free",
@@ -109067,7 +109090,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTg3MjEucG5n/315x250%23c/QkrOT4.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMzM0OTcucG5n/315x250%23c/fKa%2BnT.png",
     "title": "The Adventures of Noddy the Nomadic Parasite",
     "video": null,
     "scrapeWords": [
@@ -109340,7 +109363,8 @@
     "id": "887341",
     "link": "https://stephensmith.itch.io/exolon-3d",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMDM1MjgucG5n/315x250%23c/bF%2Fp22.png",
     "title": "Exolon 3D",
@@ -109398,6 +109422,25 @@
     "scrapeWords": [
       "Neon",
       "Retroid"
+    ]
+  },
+  {
+    "author": "Antoyne",
+    "description": "Quel avenir 2021 vous réserve ?",
+    "genre": "Simulation",
+    "id": "888180",
+    "link": "https://antoyne.itch.io/8ball-2021",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMDkwNzkucG5n/315x250%23c/5JTx%2Fu.png",
+    "title": "8ball 2021",
+    "video": null,
+    "scrapeWords": [
+      "8ball",
+      "2021"
     ]
   },
   {
@@ -109496,7 +109539,9 @@
     "id": "890000",
     "link": "https://picster.itch.io/franzfury",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMjA2MjcuanBn/315x250%23c/QgN4cV.jpg",
     "title": "FRANZ FURY",
@@ -109508,19 +109553,35 @@
   },
   {
     "author": "Elite games",
-    "description": null,
+    "description": "Created by Elite Games",
     "genre": "Shooter",
     "id": "890028",
-    "link": "https://elite-games.itch.io/shooter-fpsalpha",
+    "link": "https://elite-games.itch.io/shooter-fps-alpha",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwMjEyNjIucG5n/315x250%23c/yZur18.png",
-    "title": "shooter fps(alpha)",
+    "thumb": "https://img.itch.zone/aW1nLzUwMzMxODAucG5n/315x250%23c/eh8gzE.png",
+    "title": "Shooter Fps(alpha)",
     "video": null,
     "scrapeWords": [
-      "shooter",
-      "fpsalpha"
+      "Shooter",
+      "Fpsalpha"
+    ]
+  },
+  {
+    "author": "kamaleon70",
+    "description": null,
+    "genre": "Platformer",
+    "id": "890418",
+    "link": "https://kamaleon70.itch.io/alien-outpost",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMjI5NDAucG5n/315x250%23c/a0UmGo.png",
+    "title": "Alien Outpost",
+    "video": null,
+    "scrapeWords": [
+      "Alien",
+      "Outpost"
     ]
   },
   {
@@ -109549,14 +109610,12 @@
     "link": "https://b-render.itch.io/t",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwMjU4NzYucG5n/315x250%23c/igrCNV.png",
-    "title": "Things Shoot From The Side",
+    "title": "Try'N Dodge",
     "video": null,
     "scrapeWords": [
-      "Things",
-      "Shoot",
-      "From",
-      "The",
-      "Side"
+      "Try",
+      "N",
+      "Dodge"
     ]
   },
   {
@@ -109575,6 +109634,96 @@
     "video": null,
     "scrapeWords": [
       "Times^2"
+    ]
+  },
+  {
+    "author": "magso",
+    "description": null,
+    "genre": "Shooter",
+    "id": "890768",
+    "link": "https://magso.itch.io/enclosed-invasion",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjU2MTYucG5n/315x250%23c/5aREvu.png",
+    "title": "Enclosed Invasion",
+    "video": null,
+    "scrapeWords": [
+      "Enclosed",
+      "Invasion"
+    ]
+  },
+  {
+    "author": "Future games",
+    "description": "Two-Player Brawl!",
+    "genre": "Fighting",
+    "id": "891308",
+    "link": "https://future-games.itch.io/turret-jumper-wars",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjg1MzMucG5n/315x250%23c/dC0l1q.png",
+    "title": "Turret Jumper Wars!",
+    "video": null,
+    "scrapeWords": [
+      "Turret",
+      "Jumper",
+      "Wars"
+    ]
+  },
+  {
+    "author": "Jamam150",
+    "description": "A Awesome 2D Platformer!",
+    "genre": "Platformer",
+    "id": "891375",
+    "link": "https://jamam150.itch.io/astro-jump",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjg5ODkucG5n/315x250%23c/fK7VbK.png",
+    "title": "Astro Jump!",
+    "video": null,
+    "scrapeWords": [
+      "Astro",
+      "Jump"
+    ]
+  },
+  {
+    "author": "rrbenx",
+    "description": "Multiplayer mad tapping run game! Runs, spells, fireballs and betrayals. Get the kingdom throne the first!",
+    "genre": "Action",
+    "id": "891441",
+    "link": "https://rrbenx.itch.io/throne-run",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjk1ODIucG5n/315x250%23c/EkHOQk.png",
+    "title": "Throne Run",
+    "video": null,
+    "scrapeWords": [
+      "Throne",
+      "Run"
+    ]
+  },
+  {
+    "author": "jp00p",
+    "description": "A Greatest Generation Fan Game",
+    "genre": "Action",
+    "id": "891808",
+    "link": "https://jp00p.itch.io/echo-papa-607",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzE5MjUucG5n/315x250%23c/DeDj%2FV.png",
+    "title": "Echo Papa 607",
+    "video": null,
+    "scrapeWords": [
+      "Echo",
+      "Papa",
+      "607"
     ]
   },
   {
