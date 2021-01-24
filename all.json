@@ -45368,12 +45368,12 @@
     "link": "https://deccir.itch.io/pong-advanced",
     "platforms": null,
     "thumb": null,
-    "title": "Pong Advanced v0.7.4",
+    "title": "Pong Advanced v1.0-beta",
     "video": null,
     "scrapeWords": [
       "Pong",
       "Advanced",
-      "v074"
+      "v10-beta"
     ]
   },
   {
@@ -62450,8 +62450,7 @@
     "link": "https://eldthezombie.itch.io/totally-shmup",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQzOTI5NDAucG5n/315x250%23c/K1pyhS.png",
     "title": "Totally Shmup WIP",
@@ -62642,6 +62641,25 @@
     "video": null,
     "scrapeWords": [
       "Invisi-Pong"
+    ]
+  },
+  {
+    "author": "Nicoli",
+    "description": "Tactical Bullet Hell Shooter",
+    "genre": "Shooter",
+    "id": "636457",
+    "link": "https://anomrac21.itch.io/tbhs",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1NzQyMDEuZ2lm/315x250%23cm/dprCsH.gif",
+    "title": "Tactical Bullet Hell Shooter",
+    "video": "https://img.itch.zone/aW1nLzQ1NzQyMDEuZ2lm/original/O4z%2F2Q.gif",
+    "scrapeWords": [
+      "Tactical",
+      "Bullet",
+      "Hell",
+      "Shooter"
     ]
   },
   {
@@ -63235,9 +63253,7 @@
     "genre": "Simulation",
     "id": "640069",
     "link": "https://obvlong.itch.io/woodland-empire",
-    "platforms": [
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQzOTQ1ODMucG5n/315x250%23c/ffNhoI.png",
     "title": "Woodland Empire",
     "video": null,
@@ -79582,8 +79598,7 @@
     "link": "https://apple0726.itch.io/helixteus-3",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2ODQ2MjUucG5n/315x250%23c/AtQcFj.png",
     "title": "Helixteus 3",
@@ -90125,7 +90140,7 @@
   },
   {
     "author": "JJ Montes",
-    "description": "Cow with rope tries to reach Cow Heaven",
+    "description": "Rope swing like never before.",
     "genre": "Platformer",
     "id": "763601",
     "link": "https://jjmontesl.itch.io/ropecow",
@@ -94234,13 +94249,15 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0MDYyMzEucG5n/315x250%23c/rUWP5L.png",
-    "title": "Pow Pow Pew v1.2",
+    "title": "Pow Pow Pew v1.2 (Stopped Development)",
     "video": null,
     "scrapeWords": [
       "Pow",
       "Pow",
       "Pew",
-      "v12"
+      "v12",
+      "Stopped",
+      "Development"
     ]
   },
   {
@@ -103927,13 +103944,13 @@
     "description": null,
     "genre": "Adventure",
     "id": "849651",
-    "link": "https://teammanimani.itch.io/danganronpa-the-end-of-the-end-prologue-and-chapter-1-daily-life",
+    "link": "https://teammanimani.itch.io/danganronpa-the-end-of-the-end",
     "platforms": [
       "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NjQxMTgucG5n/315x250%23c/tpyJQb.png",
-    "title": "Danganronpa: The End of The End, Prologue and Chapter 1 Daily Life",
+    "title": "Danganronpa: The End of The End (In Progress)",
     "video": null,
     "scrapeWords": [
       "Danganronpa",
@@ -103942,12 +103959,8 @@
       "of",
       "The",
       "End",
-      "Prologue",
-      "and",
-      "Chapter",
-      "1",
-      "Daily",
-      "Life"
+      "In",
+      "Progress"
     ]
   },
   {
@@ -107495,6 +107508,21 @@
     ]
   },
   {
+    "author": "Jaedon",
+    "description": "Eat bricks in a maze forever to attone for your gluttony.",
+    "genre": null,
+    "id": "876205",
+    "link": "https://jaedonbraun.itch.io/squareboy",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzYyMzAucG5n/315x250%23c/k12Pbr.png",
+    "title": "SquareBoy",
+    "video": null,
+    "scrapeWords": [
+      "Square",
+      "Boy"
+    ]
+  },
+  {
     "author": "CTN Phaco",
     "description": "Tidy the market before it's too late or you'll be fired!",
     "genre": "Action",
@@ -108295,6 +108323,20 @@
     ]
   },
   {
+    "author": "jbodah",
+    "description": "After the new year, no one remembers their passwords. You play the detective to unlock the computers at your new job!",
+    "genre": "Puzzle",
+    "id": "880573",
+    "link": "https://jbodah.itch.io/admin-play",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzU3NDcucG5n/315x250%23c/Gpdo7n.png",
+    "title": "Admin",
+    "video": null,
+    "scrapeWords": [
+      "Admin"
+    ]
+  },
+  {
     "author": "Torden",
     "description": null,
     "genre": null,
@@ -108624,6 +108666,21 @@
     "video": null,
     "scrapeWords": [
       "oowls"
+    ]
+  },
+  {
+    "author": "Seckie",
+    "description": "Select correct thought to correctly describe the news broadcast.",
+    "genre": null,
+    "id": "883888",
+    "link": "https://seckie.itch.io/news-scramble",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzk0NDAucG5n/315x250%23c/hksgAg.png",
+    "title": "News Scramble",
+    "video": null,
+    "scrapeWords": [
+      "News",
+      "Scramble"
     ]
   },
   {
@@ -109286,6 +109343,23 @@
     ]
   },
   {
+    "author": "Ghazz",
+    "description": "¿podrás desacerté   de los discos o terminaras rodeado de todos ellos?",
+    "genre": "Action",
+    "id": "886855",
+    "link": "https://ghazz.itch.io/balls-out",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMDA1MTUucG5n/315x250%23c/V5ubbP.png",
+    "title": ".Balls out.",
+    "video": null,
+    "scrapeWords": [
+      "Balls",
+      "out"
+    ]
+  },
+  {
     "author": "PixelBitz",
     "description": "Embark on the journey (In-development)",
     "genre": "Adventure",
@@ -109503,6 +109577,7 @@
     "link": "https://bvc-games.itch.io/on-limit-racing",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMTU3NDIucG5n/315x250%23c/FoD%2FUU.png",
@@ -109561,7 +109636,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwMzMxODAucG5n/315x250%23c/eh8gzE.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMzk1MTEucG5n/315x250%23c/t%2Bo0Kj.png",
     "title": "Shooter Fps(alpha)",
     "video": null,
     "scrapeWords": [
@@ -109571,7 +109646,7 @@
   },
   {
     "author": "kamaleon70",
-    "description": null,
+    "description": "For LM0B Beginners Game Jam #11. Short game but I had fun developing it.",
     "genre": "Platformer",
     "id": "890418",
     "link": "https://kamaleon70.itch.io/alien-outpost",
@@ -109589,17 +109664,15 @@
     "description": "Tiny platformer with the focus on being hard.",
     "genre": "Platformer",
     "id": "890702",
-    "link": "https://illness-lilin.itch.io/wip-pixelhop",
-    "platforms": [
-      "Windows"
-    ],
+    "link": "https://illness-lilin.itch.io/wip-laboratory347",
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwMjQ3ODgucG5n/315x250%23c/0DtDIv.png",
-    "title": "[WIP] Pixel Hop",
+    "title": "[WIP] Laboratory 347",
     "video": null,
     "scrapeWords": [
       "[WIP]",
-      "Pixel",
-      "Hop"
+      "Laboratory",
+      "347"
     ]
   },
   {
@@ -109609,7 +109682,7 @@
     "id": "890706",
     "link": "https://b-render.itch.io/t",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwMjU4NzYucG5n/315x250%23c/igrCNV.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwMzY3MjAucG5n/315x250%23c/4IcGZH.png",
     "title": "Try'N Dodge",
     "video": null,
     "scrapeWords": [
@@ -109693,6 +109766,23 @@
     ]
   },
   {
+    "author": "clarkzer0",
+    "description": "A rogue AI known as \"Stardisc\" has taken over a mainframe... you are it's Destroyer.",
+    "genre": "Action",
+    "id": "891440",
+    "link": "https://clarkzer0.itch.io/stardisc-destroyer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMjkxMzgucG5n/315x250%23c/WUIxJt.png",
+    "title": "Stardisc Destroyer",
+    "video": null,
+    "scrapeWords": [
+      "Stardisc",
+      "Destroyer"
+    ]
+  },
+  {
     "author": "rrbenx",
     "description": "Multiplayer mad tapping run game! Runs, spells, fireballs and betrayals. Get the kingdom throne the first!",
     "genre": "Action",
@@ -109711,6 +109801,40 @@
     ]
   },
   {
+    "author": "antonianimations",
+    "description": "My first game! Collect the butterflies and complete the levels to win!",
+    "genre": "Platformer",
+    "id": "891671",
+    "link": "https://antonianimations.itch.io/cupid-vs-demons",
+    "platforms": [
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMzA5MzEucG5n/315x250%23c/iWYHR4.png",
+    "title": "Cupid Vs Demons",
+    "video": null,
+    "scrapeWords": [
+      "Cupid",
+      "Vs",
+      "ns"
+    ]
+  },
+  {
+    "author": "Silivar",
+    "description": null,
+    "genre": "Adventure",
+    "id": "891783",
+    "link": "https://silivar.itch.io/mmbn-themed-prototype",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzYxMTQucG5n/315x250%23c/a%2BWx4n.png",
+    "title": "MMBN themed prototype",
+    "video": null,
+    "scrapeWords": [
+      "MMBN",
+      "themed",
+      "prototype"
+    ]
+  },
+  {
     "author": "jp00p",
     "description": "A Greatest Generation Fan Game",
     "genre": "Action",
@@ -109724,6 +109848,90 @@
       "Echo",
       "Papa",
       "607"
+    ]
+  },
+  {
+    "author": "DevBerke",
+    "description": null,
+    "genre": "Action",
+    "id": "892257",
+    "link": "https://devberke.itch.io/godotbasicplatformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzQ0NzQucG5n/315x250%23c/BEVBZN.png",
+    "title": "GodotPlatformer",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "programical",
+    "description": "A place for hanging out with your friends.",
+    "genre": null,
+    "id": "892275",
+    "link": "https://programical.itch.io/onlineplace",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMzQ2NzgucG5n/315x250%23c/fDn9Xl.png",
+    "title": "onlineplace",
+    "video": null,
+    "scrapeWords": [
+      "onlineplace"
+    ]
+  },
+  {
+    "author": "c-karaolis",
+    "description": "Demo created in godot to learn how the engine works.",
+    "genre": "Adventure",
+    "id": "892641",
+    "link": "https://c-karaolis.itch.io/foxville",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzY3NjUuanBn/315x250%23c/ywxzaD.jpg",
+    "title": "Foxville",
+    "video": null,
+    "scrapeWords": [
+      "Foxville"
+    ]
+  },
+  {
+    "author": "mattybm",
+    "description": "Make breakfast for your hell wife so this doesn't become divorce simulator!",
+    "genre": "Adventure",
+    "id": "892769",
+    "link": "https://mattybm.itch.io/recipe-for-love",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMzgxMjEuanBn/315x250%23c/QoYXOR.jpg",
+    "title": "Recipe For Love",
+    "video": null,
+    "scrapeWords": [
+      "Recipe",
+      "For",
+      "Love"
+    ]
+  },
+  {
+    "author": "xeno",
+    "description": "A tiny shmup with flying cars",
+    "genre": "Shooter",
+    "id": "892844",
+    "link": "https://xoxoxeno.itch.io/air-traffic-cop",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMzgxMzcuZ2lm/315x250%23cm/DWRRwn.gif",
+    "title": "Air Traffic Cop",
+    "video": "https://img.itch.zone/aW1nLzUwMzgxMzcuZ2lm/original/ECC3Zp.gif",
+    "scrapeWords": [
+      "Air",
+      "Traffic",
+      "Cop"
     ]
   },
   {
