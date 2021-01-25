@@ -21298,20 +21298,6 @@
     ]
   },
   {
-    "author": "MatheusPese",
-    "description": "Shmup game for ludum dare 43",
-    "genre": "Shooter",
-    "id": "338603",
-    "link": "https://matheuspese.itch.io/kamikaze",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE5MTg5MzUucG5n/315x250%23c/jo22b5.png",
-    "title": "Kamikaze",
-    "video": null,
-    "scrapeWords": [
-      "Kamikaze"
-    ]
-  },
-  {
     "author": "boesh",
     "description": "gather the souls of the unworthy archangels and sacrifice them to the almighty ruler of the underworld to appease him",
     "genre": "Platformer",
@@ -25675,20 +25661,6 @@
     "video": null,
     "scrapeWords": [
       "Slingaball"
-    ]
-  },
-  {
-    "author": "MatheusPese",
-    "description": null,
-    "genre": null,
-    "id": "374575",
-    "link": "https://matheuspese.itch.io/snek",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE5MTg5NTAucG5n/315x250%23c/FGDKnD.png",
-    "title": "SNEK",
-    "video": null,
-    "scrapeWords": [
-      "SNEK"
     ]
   },
   {
@@ -31398,6 +31370,27 @@
     "video": null,
     "scrapeWords": [
       "sam"
+    ]
+  },
+  {
+    "author": "Solo Byte Games",
+    "description": "Tame the angry dragon with your food shooting cannon.",
+    "genre": null,
+    "id": "430024",
+    "link": "https://solobytegames.itch.io/cannon-fodder",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIxNTEyMTkuZ2lm/315x250%23cm/TpCupy.gif",
+    "title": "Cannon Fodder - Weekly Game Jam 98",
+    "video": "https://img.itch.zone/aW1nLzIxNTEyMTkuZ2lm/original/wr0dIB.gif",
+    "scrapeWords": [
+      "Cannon",
+      "Fodder",
+      "Weekly",
+      "Game",
+      "Jam",
+      "98"
     ]
   },
   {
@@ -55415,7 +55408,7 @@
   },
   {
     "author": "XIMPLE APPS",
-    "description": "Poison Bubble Christmas",
+    "description": "¡Actualización muy pronto!",
     "genre": null,
     "id": "602701",
     "link": "https://ximpleapps.itch.io/poison-bubble",
@@ -59113,23 +59106,6 @@
       "Ludum",
       "Dare",
       "46"
-    ]
-  },
-  {
-    "author": "MatheusPese",
-    "description": null,
-    "genre": null,
-    "id": "618209",
-    "link": "https://matheuspese.itch.io/starving-green",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMyODg1NTkucG5n/315x250%23c/NCxiUQ.png",
-    "title": "Starving Green",
-    "video": null,
-    "scrapeWords": [
-      "Starving",
-      "Green"
     ]
   },
   {
@@ -63253,7 +63229,11 @@
     "genre": "Simulation",
     "id": "640069",
     "link": "https://obvlong.itch.io/woodland-empire",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQzOTQ1ODMucG5n/315x250%23c/ffNhoI.png",
     "title": "Woodland Empire",
     "video": null,
@@ -68270,6 +68250,26 @@
       "Ft",
       "Carrot",
       "Duck"
+    ]
+  },
+  {
+    "author": "CrashApe",
+    "description": "Point and Click",
+    "genre": "Puzzle",
+    "id": "669665",
+    "link": "https://crashape.itch.io/i-cant-draw-2-jam",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM2NDA0NjYucG5n/315x250%23c/CP9Zcg.png",
+    "title": "CrashApe I cant draw 2 jam",
+    "video": null,
+    "scrapeWords": [
+      "Crash",
+      "Ape",
+      "I",
+      "cant",
+      "draw",
+      "2",
+      "jam"
     ]
   },
   {
@@ -85283,12 +85283,14 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxMTg5MjYucG5n/315x250%23c/%2FUVRq5.png",
-    "title": "They Found You",
+    "title": "They Found You (Jam Version)",
     "video": null,
     "scrapeWords": [
       "They",
       "Found",
-      "You"
+      "You",
+      "Jam",
+      "Version"
     ]
   },
   {
@@ -86350,8 +86352,11 @@
     "genre": "Action",
     "id": "744371",
     "link": "https://sinistro25.itch.io/slay-the-horde",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5ODA0MTIucG5n/315x250%23c/gKekR4.png",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNDI4NzcucG5n/315x250%23c/cC6tVY.png",
     "title": "Horde Slayer",
     "video": null,
     "scrapeWords": [
@@ -93587,11 +93592,11 @@
     ]
   },
   {
-    "author": "blacket2050",
+    "author": "blackjet2050",
     "description": "Time-Trial game created for Game Jam Ludum Dare 47",
     "genre": "Platformer",
     "id": "779852",
-    "link": "https://blacket2050.itch.io/internshit",
+    "link": "https://blackjet2050.itch.io/internshit",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQzNjYzMDkucG5n/315x250%23c/D7kKoU.png",
     "title": "Internshit",
@@ -106149,6 +106154,25 @@
     ]
   },
   {
+    "author": "Daisy Games",
+    "description": "A puzzle game with dos-aestethic and adlib audio",
+    "genre": "Puzzle",
+    "id": "865165",
+    "link": "https://daisy-games.itch.io/hackgrid",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDA4MDgucG5n/315x250%23c/twNJsf.png",
+    "title": "Hack Grid",
+    "video": null,
+    "scrapeWords": [
+      "Hack",
+      "Grid"
+    ]
+  },
+  {
     "author": "CosCom Art Group",
     "description": "Medieval medicine simulator",
     "genre": "Simulation",
@@ -109345,7 +109369,7 @@
   {
     "author": "Ghazz",
     "description": "¿podrás desacerté   de los discos o terminaras rodeado de todos ellos?",
-    "genre": "Action",
+    "genre": "Fighting",
     "id": "886855",
     "link": "https://ghazz.itch.io/balls-out",
     "platforms": [
@@ -109357,6 +109381,25 @@
     "scrapeWords": [
       "Balls",
       "out"
+    ]
+  },
+  {
+    "author": "Dratonix",
+    "description": "This is my first game I made from godot from the channel Heartbeast",
+    "genre": "Action",
+    "id": "886969",
+    "link": "https://dratonix.itch.io/2d-action-rpg-from-godot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMDExMjkucG5n/315x250%23c/q%2Byxw0.png",
+    "title": "2D Action RPG from Godot",
+    "video": null,
+    "scrapeWords": [
+      "2",
+      "D",
+      "Action",
+      "RPG",
+      "from",
+      "Godot"
     ]
   },
   {
@@ -109438,7 +109481,8 @@
     "link": "https://stephensmith.itch.io/exolon-3d",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMDM1MjgucG5n/315x250%23c/bF%2Fp22.png",
     "title": "Exolon 3D",
@@ -109534,6 +109578,24 @@
     ]
   },
   {
+    "author": "Croissant d'Automne",
+    "description": "Jeu narratif de petit déjeuner",
+    "genre": "Interactive Fiction",
+    "id": "888227",
+    "link": "https://cavalcadeur.itch.io/kallypse",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMDk0ODMucG5n/315x250%23c/tyWCHG.png",
+    "title": "Kallypse",
+    "video": null,
+    "scrapeWords": [
+      "Kallypse"
+    ]
+  },
+  {
     "author": "SUB4Gamer",
     "description": "SURVIVE and share your score with friends",
     "genre": null,
@@ -109570,6 +109632,27 @@
     ]
   },
   {
+    "author": "Muktada Creations",
+    "description": "Close your eyes but most importantly... Close your ears",
+    "genre": "Adventure",
+    "id": "889198",
+    "link": "https://muktadacreations.itch.io/siren-in-the-snow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNDE2NjcucG5n/315x250%23c/tEN0DV.png",
+    "title": "Siren in the Snow",
+    "video": null,
+    "scrapeWords": [
+      "Siren",
+      "in",
+      "the",
+      "Snow"
+    ]
+  },
+  {
     "author": "BVC games",
     "description": "This is my newest project On Limit Racing. Please check the included document for download instructions!",
     "genre": "Racing",
@@ -109580,7 +109663,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwMTU3NDIucG5n/315x250%23c/FoD%2FUU.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwNDMwNzguanBn/315x250%23c/4iPqKl.jpg",
     "title": "On Limit Racing",
     "video": null,
     "scrapeWords": [
@@ -109680,7 +109763,7 @@
     "description": "Avoiding objects the key to success",
     "genre": "Survival",
     "id": "890706",
-    "link": "https://b-render.itch.io/t",
+    "link": "https://b-render.itch.io/try",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwMzY3MjAucG5n/315x250%23c/4IcGZH.png",
     "title": "Try'N Dodge",
@@ -109932,6 +110015,105 @@
       "Air",
       "Traffic",
       "Cop"
+    ]
+  },
+  {
+    "author": "SOYBABY",
+    "description": "Cross the bridge safely on an overcrowded hiking trail",
+    "genre": "Adventure",
+    "id": "893064",
+    "link": "https://soybaby.itch.io/distance",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwMzkyOTEucG5n/315x250%23c/p4PMOC.png",
+    "title": "Distance!",
+    "video": null,
+    "scrapeWords": [
+      "Distance"
+    ]
+  },
+  {
+    "author": "CrashApe",
+    "description": "Go find the dog",
+    "genre": null,
+    "id": "893759",
+    "link": "https://crashape.itch.io/crashape-trijam-104",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwNDM5ODQucG5n/315x250%23c/kqiT4r.png",
+    "title": "CrashApe Trijam 104",
+    "video": null,
+    "scrapeWords": [
+      "Crash",
+      "Ape",
+      "Trijam",
+      "104"
+    ]
+  },
+  {
+    "author": "Voycawojka",
+    "description": "You're stuck in a loop of killing yourself and possessing new bodies.",
+    "genre": "Adventure",
+    "id": "893819",
+    "link": "https://voycawojka.itch.io/snow-phantom",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNDQ0NTAucG5n/315x250%23c/xlKAKS.png",
+    "title": "Snow Phantom",
+    "video": null,
+    "scrapeWords": [
+      "Snow",
+      "Phantom"
+    ]
+  },
+  {
+    "author": "NeFurka",
+    "description": "Everything on space station is broken. Try to escape!",
+    "genre": "Action",
+    "id": "893936",
+    "link": "https://nefurka.itch.io/broken-escape",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNDc3OTEucG5n/315x250%23c/yObivj.png",
+    "title": "Broken Escape",
+    "video": null,
+    "scrapeWords": [
+      "Broken",
+      "Escape"
+    ]
+  },
+  {
+    "author": "dylanjaide",
+    "description": "A 2D puzzle game - try to climb the tower, while the floor falls apart underneath you.",
+    "genre": null,
+    "id": "894097",
+    "link": "https://dylanjaide.itch.io/scaling-perpettua",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwNDYxNzYucG5n/315x250%23c/s9rcPj.png",
+    "title": "Scaling Perpettua",
+    "video": null,
+    "scrapeWords": [
+      "Scaling",
+      "Perpettua"
+    ]
+  },
+  {
+    "author": "Dev Soham",
+    "description": "Puzzle Game",
+    "genre": "Puzzle",
+    "id": "894282",
+    "link": "https://dev-soham.itch.io/the-amigos-alpha",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNDc0MTkucG5n/315x250%23c/wy8whA.png",
+    "title": "The Amigos Alpha",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Amigos",
+      "Alpha"
     ]
   },
   {
