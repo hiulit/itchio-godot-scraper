@@ -5439,9 +5439,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzE2NTAxODMuZ2lm/315x250%23cm/oNeDaT.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUwNTQzOTUuZ2lm/315x250%23cm/eyeLPI.gif",
     "title": "Escape From The Cosmic Abyss",
-    "video": "https://img.itch.zone/aW1nLzE2NTAxODMuZ2lm/original/Ln0E50.gif",
+    "video": "https://img.itch.zone/aW1nLzUwNTQzOTUuZ2lm/original/LxA%2BaX.gif",
     "scrapeWords": [
       "Escape",
       "From",
@@ -52883,6 +52883,24 @@
     ]
   },
   {
+    "author": "sesopenko",
+    "description": "Exploration game in progress",
+    "genre": "Role Playing",
+    "id": "588099",
+    "link": "https://sesopenko.itch.io/dungeonbuns",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNTcyNzYuanBn/315x250%23c/z08Ozk.jpg",
+    "title": "DungeonBuns",
+    "video": null,
+    "scrapeWords": [
+      "Dungeon",
+      "Buns"
+    ]
+  },
+  {
     "author": "toastylilghosty",
     "description": null,
     "genre": null,
@@ -60002,7 +60020,7 @@
   {
     "author": "QuietGecko",
     "description": "Revive a Kaloche y mantén su fuego encendido",
-    "genre": null,
+    "genre": "Adventure",
     "id": "620424",
     "link": "https://quietgecko.itch.io/kaloche",
     "platforms": [
@@ -78438,7 +78456,7 @@
   },
   {
     "author": "bitbrain",
-    "description": "Trapped in a dark cave, an adventurer tries to escape a rather dark fate.",
+    "description": "Exploration craft'em-up. Uncover the mysteries of a mountain and forge powerful tools!",
     "genre": "Adventure",
     "id": "711579",
     "link": "https://bitbrain.itch.io/cave",
@@ -88296,9 +88314,7 @@
     "genre": "Strategy",
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
-    "platforms": [
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2NTQ1ODcucG5n/315x250%23c/cWUg1G.png",
     "title": "Malice & Greed",
     "video": null,
@@ -93933,7 +93949,7 @@
   },
   {
     "author": "Luke I. Wilson",
-    "description": "A black and white, retro scrolling shoot-em up with cinematic story",
+    "description": "A bicolor, scrolling shooter with a cinematic story.",
     "genre": "Action",
     "id": "781015",
     "link": "https://fivemoreminix.itch.io/vrmnnvzn",
@@ -103326,6 +103342,21 @@
     ]
   },
   {
+    "author": "Bard Development",
+    "description": "Point and shoot. Destroy Christmas spirit. Created for Winter Game Jam 2020",
+    "genre": "Shooter",
+    "id": "844716",
+    "link": "https://barddevelopment.itch.io/exmas",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDE1NzgucG5n/315x250%23c/CugCO5.png",
+    "title": "ExMas",
+    "video": null,
+    "scrapeWords": [
+      "Ex",
+      "Mas"
+    ]
+  },
+  {
     "author": "hael0",
     "description": "Find the UFOs or die trying!",
     "genre": "Platformer",
@@ -103342,11 +103373,11 @@
     ]
   },
   {
-    "author": "devauer",
+    "author": "devaurer",
     "description": "Novela grafica en la cual se encarna a Alex un agente paranormal, encargado de ayudar a las almas en pena a descansar",
     "genre": "Visual Novel",
     "id": "844839",
-    "link": "https://devauer.itch.io/a-ghost-storie",
+    "link": "https://devaurer.itch.io/a-ghost-storie",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3MzY0NzYucG5n/315x250%23c/OyKzjV.png",
     "title": "A ghost Storie",
@@ -106497,11 +106528,14 @@
   },
   {
     "author": "davidpeterworks",
-    "description": null,
+    "description": "The Queen wants your meat.",
     "genre": "Platformer",
     "id": "868884",
     "link": "https://davidpeterworks.itch.io/bug-queen",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MDgwMzcucG5n/315x250%23c/rOWlBP.png",
     "title": "Bug Queen",
     "video": null,
@@ -108678,12 +108712,12 @@
   },
   {
     "author": "Seckie",
-    "description": "Select correct thought to correctly describe the news broadcast.",
+    "description": "Select the correct thought to correctly describe the news broadcast.",
     "genre": null,
     "id": "883888",
     "link": "https://seckie.itch.io/news-scramble",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwMzk0NDAucG5n/315x250%23c/hksgAg.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwNTc5NTQucG5n/315x250%23c/%2B5b4hr.png",
     "title": "News Scramble",
     "video": null,
     "scrapeWords": [
@@ -108820,7 +108854,7 @@
     "id": "885072",
     "link": "https://zoggerdev.itch.io/idle-kosmos",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTQxNjQuanBn/315x250%23c/Hg6%2F2w.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzUwNTgyODUucG5n/315x250%23c/o6nDsR.png",
     "title": "Idle Kosmos",
     "video": null,
     "scrapeWords": [
@@ -109616,7 +109650,7 @@
   {
     "author": "SUB4Gamer",
     "description": "SURVIVE and share your score with friends",
-    "genre": null,
+    "genre": "Shooter",
     "id": "888965",
     "link": "https://sub4gamer112.itch.io/zombies-return",
     "platforms": [
@@ -109688,6 +109722,24 @@
       "On",
       "Limit",
       "Racing"
+    ]
+  },
+  {
+    "author": "joseeduardot",
+    "description": "Trials Of Morana MMO-RPG",
+    "genre": "Role Playing",
+    "id": "889585",
+    "link": "https://joseeduardot.itch.io/trials-of-morana",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMTc1NzUucG5n/315x250%23c/8nJPli.png",
+    "title": "Trials Of Morana",
+    "video": null,
+    "scrapeWords": [
+      "Trials",
+      "Of",
+      "Morana"
     ]
   },
   {
@@ -110040,7 +110092,7 @@
     "id": "893064",
     "link": "https://soybaby.itch.io/distance",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwMzkyOTEucG5n/315x250%23c/p4PMOC.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwNTgzNzgucG5n/315x250%23c/%2FRKgWb.png",
     "title": "DISTANCE!",
     "video": null,
     "scrapeWords": [
@@ -110098,6 +110150,26 @@
       "Hide",
       "or",
       "Risk"
+    ]
+  },
+  {
+    "author": "Belug",
+    "description": "A simple minesweeper implemented by Belug with relaxing music and some background images.",
+    "genre": "Puzzle",
+    "id": "893859",
+    "link": "https://belug.itch.io/belugs-boring-minesweeper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNDg0MTYucG5n/315x250%23c/ztY7o7.png",
+    "title": "Belug's boring Minesweeper",
+    "video": null,
+    "scrapeWords": [
+      "Belugs",
+      "boring",
+      "Minesweeper"
     ]
   },
   {
@@ -110211,6 +110283,62 @@
     "scrapeWords": [
       "Snake",
       "Classic"
+    ]
+  },
+  {
+    "author": "SUB4Gamer",
+    "description": "A short and easy platformer to train your skills.",
+    "genre": "Platformer",
+    "id": "895778",
+    "link": "https://sub4gamer112.itch.io/skyjumper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNTU5MzgucG5n/315x250%23c/4%2BQ%2FVa.png",
+    "title": "SkyJumper",
+    "video": null,
+    "scrapeWords": [
+      "Sky",
+      "Jumper"
+    ]
+  },
+  {
+    "author": "GV2",
+    "description": "You click on stuff to make Jeffory buffer than his enemies. Ez.",
+    "genre": null,
+    "id": "896237",
+    "link": "https://gv256.itch.io/bro-help-me-get-buff",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNTg2OTgucG5n/315x250%23c/h3olsB.png",
+    "title": "Bro, Help Me Get Buff",
+    "video": null,
+    "scrapeWords": [
+      "Bro",
+      "Help",
+      "Me",
+      "Get",
+      "Buff"
+    ]
+  },
+  {
+    "author": "py-guin",
+    "description": "Game where you use barriers to block projectiles.",
+    "genre": "Action",
+    "id": "896321",
+    "link": "https://py-guin.itch.io/block-and-white",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwNTkyMTEucG5n/315x250%23c/2zhoLZ.png",
+    "title": "Block and White",
+    "video": null,
+    "scrapeWords": [
+      "Block",
+      "and",
+      "White"
     ]
   },
   {
