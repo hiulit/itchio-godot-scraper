@@ -40102,6 +40102,22 @@
     ]
   },
   {
+    "author": "Craft",
+    "description": "Inspired by my last job — Mobile-game ad marketing",
+    "genre": "Simulation",
+    "id": "487134",
+    "link": "https://pancheeplay.itch.io/free-and-ad",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI1MTU1MDIucG5n/315x250%23c/mMBa8B.png",
+    "title": "Free and Ad",
+    "video": null,
+    "scrapeWords": [
+      "Free",
+      "and",
+      "Ad"
+    ]
+  },
+  {
     "author": "Cloie",
     "description": "My Alakajam #7 Game Jam Entry",
     "genre": "Puzzle",
@@ -42844,25 +42860,6 @@
     "scrapeWords": [
       "Heroes",
       "Arena"
-    ]
-  },
-  {
-    "author": "Peter Wood",
-    "description": "A simple Space Game inspired by old PC space sims",
-    "genre": "Shooter",
-    "id": "509387",
-    "link": "https://peternatewood.itch.io/space-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDM2NzIucG5n/315x250%23c/YwwpO3.png",
-    "title": "Space Game",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Game"
     ]
   },
   {
@@ -66613,7 +66610,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM1NDMzNDEucG5n/315x250%23c/hif3Zi.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwNjQxMTIucG5n/315x250%23c/xyYMB5.png",
     "title": "TrackMaster: Free For All Motorsport",
     "video": null,
     "scrapeWords": [
@@ -77591,6 +77588,25 @@
     ]
   },
   {
+    "author": "noaS",
+    "description": "Space Game",
+    "genre": "Adventure",
+    "id": "706731",
+    "link": "https://noa5.itch.io/space-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MDgyNTIucG5n/315x250%23c/uDo9Kf.png",
+    "title": "Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Game"
+    ]
+  },
+  {
     "author": "godsam",
     "description": "Get the particles and run",
     "genre": "Survival",
@@ -77948,6 +77964,23 @@
       "From",
       "Pedersen",
       "Manor"
+    ]
+  },
+  {
+    "author": "datoh",
+    "description": "Single and multiplayer party game, each level runs in exactly one minute, beat them all",
+    "genre": null,
+    "id": "709641",
+    "link": "https://datoh.itch.io/oneminute",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0MjY5NjcucG5n/315x250%23c/HzJXa8.png",
+    "title": "One Minute",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Minute"
     ]
   },
   {
@@ -86320,7 +86353,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwNDI4NzcucG5n/315x250%23c/cC6tVY.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwNjI0NTUucG5n/315x250%23c/z8kg3G.png",
     "title": "Horde Slayer",
     "video": null,
     "scrapeWords": [
@@ -87654,11 +87687,11 @@
     ]
   },
   {
-    "author": "BlueBox Studios / Andrew Pilar",
+    "author": "BlueBox Studios",
     "description": "A minimalist 2D platformer",
     "genre": "Platformer",
     "id": "751392",
-    "link": "https://ondrejoda.itch.io/ballin-around",
+    "link": "https://blueboxstudios.itch.io/ballin-around",
     "platforms": [
       "Windows",
       "Linux",
@@ -94717,11 +94750,11 @@
     ]
   },
   {
-    "author": "BlueBox Studios / Andrew Pilar",
+    "author": "BlueBox Studios",
     "description": "a tower defence game where YOU aim the turrets",
     "genre": "Strategy",
     "id": "785699",
-    "link": "https://ondrejoda.itch.io/mouse-controls",
+    "link": "https://blueboxstudios.itch.io/mouse-controls",
     "platforms": [
       "Windows",
       "Linux",
@@ -96361,6 +96394,25 @@
     "scrapeWords": [
       "Dissection",
       "Class"
+    ]
+  },
+  {
+    "author": "GiovanyH",
+    "description": "Platform, Puzzle, and Storytelling game. It is simple and basic, as it is funny and beautiful.",
+    "genre": "Puzzle",
+    "id": "797322",
+    "link": "https://giovanyh.itch.io/beerus-the-puzzle",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNjE4MjAucG5n/315x250%23c/QontdB.png",
+    "title": "Beerus the Puzzle",
+    "video": null,
+    "scrapeWords": [
+      "Beerus",
+      "the",
+      "Puzzle"
     ]
   },
   {
@@ -102216,11 +102268,11 @@
     ]
   },
   {
-    "author": "RichyWow",
+    "author": "SixthSoftware",
     "description": "MoonHopper is a loadout-based deck building game where players must swipe their way through treacherous combat.",
     "genre": "Card Game",
     "id": "837704",
-    "link": "https://richywow.itch.io/moonhopper",
+    "link": "https://sixthsoftware.itch.io/moonhopper",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3MDE0NzkuZ2lm/315x250%23cm/DGRveY.gif",
     "title": "MoonHopper",
@@ -107408,7 +107460,7 @@
   },
   {
     "author": "SnowySierra",
-    "description": "A cute furry block breaking exploration game",
+    "description": "A cute furry brick-breaking exploration game",
     "genre": "Action",
     "id": "875092",
     "link": "https://snowysierra.itch.io/foxpaww",
@@ -108325,7 +108377,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwNjQxODAucG5n/315x250%23c/i6orE2.png",
     "title": "GGJ Countdown",
     "video": null,
     "scrapeWords": [
@@ -108557,9 +108609,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTc4NjcuZ2lm/315x250%23cm/D1nY5a.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUwNjI0NzIuZ2lm/315x250%23cm/C4np8G.gif",
     "title": "Nomads Sky",
-    "video": "https://img.itch.zone/aW1nLzQ5OTc4NjcuZ2lm/original/rIBjSC.gif",
+    "video": "https://img.itch.zone/aW1nLzUwNjI0NzIuZ2lm/original/0d1yZn.gif",
     "scrapeWords": [
       "Nomads",
       "Sky"
@@ -109633,21 +109685,6 @@
     ]
   },
   {
-    "author": "RainbowSausage",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "888566",
-    "link": "https://rainbowsausage.itch.io/one-minute",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwMTE1NTAucG5n/315x250%23c/e3PwIV.png",
-    "title": "One Minute",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Minute"
-    ]
-  },
-  {
     "author": "SUB4Gamer",
     "description": "SURVIVE and share your score with friends",
     "genre": "Shooter",
@@ -110141,7 +110178,8 @@
     "link": "https://peanutsfly.itch.io/hide-or-risk",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwNTA4OTkucG5n/315x250%23c/XT1XHU.png",
     "title": "Hide or Risk",
@@ -110175,7 +110213,7 @@
   {
     "author": "NeFurka",
     "description": "Everything on space station is broken. Try to escape!",
-    "genre": "Action",
+    "genre": "Puzzle",
     "id": "893936",
     "link": "https://nefurka.itch.io/broken-escape",
     "platforms": [
@@ -110286,6 +110324,24 @@
     ]
   },
   {
+    "author": "dwarfpreon",
+    "description": null,
+    "genre": "Platformer",
+    "id": "895072",
+    "link": "https://dwarfpreon.itch.io/ancient-coin-adventure",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNTA3NTkucG5n/315x250%23c/1oMuC7.png",
+    "title": "Ancient Coin Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Ancient",
+      "Coin",
+      "Adventure"
+    ]
+  },
+  {
     "author": "SUB4Gamer",
     "description": "A short and easy platformer to train your skills.",
     "genre": "Platformer",
@@ -110302,6 +110358,48 @@
     "scrapeWords": [
       "Sky",
       "Jumper"
+    ]
+  },
+  {
+    "author": "aystargames",
+    "description": "A physics driven game were you perform underwater heart surgery on Jellyfish.",
+    "genre": "Puzzle",
+    "id": "896015",
+    "link": "https://aystargames.itch.io/jellyfish-heart-surgeon",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNjE1MzcuZ2lm/315x250%23cm/dhTQKS.gif",
+    "title": "Jellyfish Heart Surgeon 💔",
+    "video": "https://img.itch.zone/aW1nLzUwNjE1MzcuZ2lm/original/4j%2Btt4.gif",
+    "scrapeWords": [
+      "Jellyfish",
+      "Heart",
+      "Surgeon",
+      "💔"
+    ]
+  },
+  {
+    "author": "ThEnigmArtist",
+    "description": "Android version of Shooting Gallery",
+    "genre": "Shooter",
+    "id": "896227",
+    "link": "https://blackboxceo.itch.io/black-box-man-down-shooting-gallery-android",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNTg2MDgucG5n/315x250%23c/NUyvXV.png",
+    "title": "Black Box: Man Down (Shooting Gallery) - ANDROID",
+    "video": null,
+    "scrapeWords": [
+      "Black",
+      "Box",
+      "Man",
+      "Down",
+      "Shooting",
+      "Gallery",
+      "ANDROID"
     ]
   },
   {
