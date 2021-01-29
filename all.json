@@ -37703,9 +37703,7 @@
     "genre": "Educational",
     "id": "472569",
     "link": "https://pancheeplay.itch.io/hieroglyphics-characters",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0MjIzNjEucG5n/315x250%23c/tiuMaD.png",
     "title": "Hieroglyphics Characters",
     "video": null,
@@ -39484,21 +39482,6 @@
     "video": null,
     "scrapeWords": [
       "Yogwars"
-    ]
-  },
-  {
-    "author": "Wildos",
-    "description": "memory godot-engine",
-    "genre": "Card Game",
-    "id": "484150",
-    "link": "https://wildos.itch.io/memory-card",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0OTc5MDMucG5n/315x250%23c/49LlE4.png",
-    "title": "Memory Card",
-    "video": null,
-    "scrapeWords": [
-      "Memory",
-      "Card"
     ]
   },
   {
@@ -52390,7 +52373,7 @@
   },
   {
     "author": "DOA",
-    "description": "Extremely fast pace mouse only arade game",
+    "description": "Extremely fast pace mouse only arcade game",
     "genre": "Action",
     "id": "583993",
     "link": "https://doamaster.itch.io/lux-light",
@@ -63259,26 +63242,6 @@
     ]
   },
   {
-    "author": "ThEnigmArtist",
-    "description": "FREE in browser 2 player head to head mini game",
-    "genre": "Fighting",
-    "id": "640373",
-    "link": "https://blackboxceo.itch.io/black-box-operation-pandora-1pvs2p",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5Nzk3NjMucG5n/315x250%23c/JiT9nP.png",
-    "title": "FREE: Black Box- Operation Pandora (mini game)",
-    "video": null,
-    "scrapeWords": [
-      "FREE",
-      "Black",
-      "Box-",
-      "Operation",
-      "Pandora",
-      "mini",
-      "game"
-    ]
-  },
-  {
     "author": "Mi1k",
     "description": "Trig is a space shooter based mainly on player skill!",
     "genre": "Shooter",
@@ -65541,6 +65504,22 @@
     ]
   },
   {
+    "author": "Ralph DC",
+    "description": "A simple 2D puzzle-platform built with Godot and some CC assets.",
+    "genre": "Platformer",
+    "id": "652757",
+    "link": "https://dcr2020.itch.io/caves-of-ludrum",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM1MDQ3MTIucG5n/315x250%23c/PQBBgk.png",
+    "title": "Caves of Ludrum",
+    "video": null,
+    "scrapeWords": [
+      "Caves",
+      "of",
+      "Ludrum"
+    ]
+  },
+  {
     "author": "FuryGames",
     "description": "FuryMath is a Math game :)",
     "genre": null,
@@ -67315,26 +67294,6 @@
     "scrapeWords": [
       "Dino",
       "Run"
-    ]
-  },
-  {
-    "author": "code.ama",
-    "description": "Defend the dungeon as long as you can.",
-    "genre": "Action",
-    "id": "662614",
-    "link": "https://codeama.itch.io/one-button-dungeon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1OTEwNjUuanBn/315x250%23c/q%2BQYTf.jpg",
-    "title": "One Button Dungeon",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Button",
-      "Dungeon"
     ]
   },
   {
@@ -70669,7 +70628,6 @@
     "id": "682458",
     "link": "https://jhyde.itch.io/antibody",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NDAxMzcucG5n/315x250%23c/mq1Bax.png",
@@ -76441,7 +76399,7 @@
     "description": "A point and click adventure for the GMTK 2020 jam.",
     "genre": "Interactive Fiction",
     "id": "701402",
-    "link": "https://movingentertainment.itch.io/mydemon",
+    "link": "https://israelruiz.itch.io/mydemon",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM4NjY4NDQucG5n/315x250%23c/T%2B7mPM.png",
     "title": "MyDemon",
@@ -78992,7 +78950,8 @@
     "id": "713798",
     "link": "https://linuxed.itch.io/space-invader",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxMzM5OTgucG5n/315x250%23c/Mu8reY.png",
     "title": "Space invader",
@@ -79058,6 +79017,21 @@
       "way",
       "is",
       "up"
+    ]
+  },
+  {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
     ]
   },
   {
@@ -91770,7 +91744,7 @@
     "description": "Collect remnant as purple guy and avoid animetronics!",
     "genre": "Survival",
     "id": "770865",
-    "link": "https://movingentertainment.itch.io/fnafgodotgame",
+    "link": "https://israelruiz.itch.io/fnafgodotgame",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MDE2MDEucG5n/315x250%23c/fAGsyL.png",
     "title": "Fnaf Godot Game Christmas of 2020",
@@ -95636,12 +95610,36 @@
     ]
   },
   {
+    "author": "Evpevdev",
+    "description": "A one button dungeon crawler",
+    "genre": "Adventure",
+    "id": "792218",
+    "link": "https://evpevdev.itch.io/one-button-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0MzU2MzMucG5n/315x250%23c/Q3erCE.png",
+    "title": "One Button Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Dungeon"
+    ]
+  },
+  {
     "author": "davidpeterworks",
     "description": "Driving a clay cab in Clay city",
     "genre": "Racing",
     "id": "792257",
     "link": "https://davidpeterworks.itch.io/clay-cab",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NDY2ODQucG5n/315x250%23c/6N66yH.png",
     "title": "Clay Cab",
     "video": null,
@@ -106586,7 +106584,8 @@
     "link": "https://davidpeterworks.itch.io/bug-queen",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MDgwMzcucG5n/315x250%23c/rOWlBP.png",
     "title": "Bug Queen",
@@ -107203,21 +107202,6 @@
     "video": null,
     "scrapeWords": [
       "Imoonity"
-    ]
-  },
-  {
-    "author": "mikepurdy",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "872636",
-    "link": "https://purdy.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -108864,6 +108848,21 @@
     ]
   },
   {
+    "author": "ASecondGuy",
+    "description": "Orders came to him through a monitor. Telling him what buttons to push. How long to push them and in what order.",
+    "genre": null,
+    "id": "884720",
+    "link": "https://asecondguy.itch.io/stanleysnumbers",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTg2MjAuanBn/315x250%23c/ghslIu.jpg",
+    "title": "StanleysNumbers",
+    "video": null,
+    "scrapeWords": [
+      "Stanleys",
+      "Numbers"
+    ]
+  },
+  {
     "author": "Pixel Sprouts",
     "description": "An updated version of our Mini Jam tennis game",
     "genre": "Sports",
@@ -108906,7 +108905,7 @@
     "id": "885072",
     "link": "https://zoggerdev.itch.io/idle-kosmos",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwNTgyODUucG5n/315x250%23c/o6nDsR.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwNzM3OTEucG5n/315x250%23c/MiCIEC.png",
     "title": "Idle Kosmos",
     "video": null,
     "scrapeWords": [
@@ -110290,6 +110289,25 @@
     ]
   },
   {
+    "author": "MrBundles",
+    "description": "Your World Turned Upside Down",
+    "genre": "Puzzle",
+    "id": "894266",
+    "link": "https://mrbundles.itch.io/the-downside",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNjY2NDUucG5n/315x250%23c/7matSY.png",
+    "title": "The Downside",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Downside"
+    ]
+  },
+  {
     "author": "Dev Soham",
     "description": "Puzzle Game",
     "genre": "Puzzle",
@@ -110361,7 +110379,7 @@
     ]
   },
   {
-    "author": "aystargames",
+    "author": "AystarGames",
     "description": "A physics driven game were you perform underwater heart surgery on Jellyfish.",
     "genre": "Puzzle",
     "id": "896015",
@@ -110370,14 +110388,14 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwNjE1MzcuZ2lm/315x250%23cm/dhTQKS.gif",
-    "title": "Jellyfish Heart Surgeon 💔",
-    "video": "https://img.itch.zone/aW1nLzUwNjE1MzcuZ2lm/original/4j%2Btt4.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUwNjk4MjQuZ2lm/315x250%23cm/%2F7HaLw.gif",
+    "title": "Jellyfish Heart Surgeon ❤️",
+    "video": "https://img.itch.zone/aW1nLzUwNjk4MjQuZ2lm/original/5YhYq6.gif",
     "scrapeWords": [
       "Jellyfish",
       "Heart",
       "Surgeon",
-      "💔"
+      "❤️"
     ]
   },
   {
@@ -110440,6 +110458,55 @@
     ]
   },
   {
+    "author": "alexxis342",
+    "description": "en este juego ponte a prueba para batir tu record !escapa de los autos!",
+    "genre": "Action",
+    "id": "896840",
+    "link": "https://alexxis342.itch.io/monster-car",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNjMzMDQucG5n/315x250%23c/tNJhYa.png",
+    "title": "Monster Car",
+    "video": null,
+    "scrapeWords": [
+      "Monster",
+      "Car"
+    ]
+  },
+  {
+    "author": "spiderdash",
+    "description": "Puzzle game about dashing between 2D polygons.",
+    "genre": "Puzzle",
+    "id": "896896",
+    "link": "https://spiderdash.itch.io/spider-dash",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNjIxODEucG5n/315x250%23c/Sl4Shf.png",
+    "title": "Spider Dash",
+    "video": null,
+    "scrapeWords": [
+      "Spider",
+      "Dash"
+    ]
+  },
+  {
+    "author": "Nep toodles",
+    "description": null,
+    "genre": "Platformer",
+    "id": "897755",
+    "link": "https://nep-toodles.itch.io/pt",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwNjY4OTcuanBn/315x250%23c/9JkS%2BN.jpg",
+    "title": "Parti",
+    "video": null,
+    "scrapeWords": [
+      "Parti"
+    ]
+  },
+  {
     "author": "CowThing",
     "description": null,
     "genre": "Action",
@@ -110454,6 +110521,22 @@
     "scrapeWords": [
       "Tank",
       "GB"
+    ]
+  },
+  {
+    "author": "CMonk",
+    "description": "Game for BlackthornProd Game Jam",
+    "genre": null,
+    "id": "898694",
+    "link": "https://cmonk.itch.io/scare",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNzI0NDUucG5n/315x250%23c/2KCdhY.png",
+    "title": "Scare",
+    "video": null,
+    "scrapeWords": [
+      "Scare"
     ]
   },
   {
