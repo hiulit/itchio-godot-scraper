@@ -56892,7 +56892,9 @@
     "genre": "Platformer",
     "id": "610921",
     "link": "https://more-retrogames.itch.io/photophoboy",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMzMjE3OTgucG5n/315x250%23c/RUSaFQ.png",
     "title": "PhotophoBoy",
     "video": null,
@@ -67299,6 +67301,26 @@
     ]
   },
   {
+    "author": "code.ama",
+    "description": "Defend the dungeon as long as you can.",
+    "genre": "Action",
+    "id": "662614",
+    "link": "https://codeama.itch.io/one-button-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1OTEwNjUuanBn/315x250%23c/q%2BQYTf.jpg",
+    "title": "One Button Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Dungeon"
+    ]
+  },
+  {
     "author": "katp32",
     "description": "An open source command line space exploration MMO.",
     "genre": "Simulation",
@@ -67388,7 +67410,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwMjg1MzYucG5n/315x250%23c/ememDF.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwODY4NjkucG5n/315x250%23c/MoHFdN.png",
     "title": "Humans: Milestone",
     "video": null,
     "scrapeWords": [
@@ -79021,21 +79043,6 @@
     ]
   },
   {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -83893,6 +83900,26 @@
     ]
   },
   {
+    "author": "Viktor",
+    "description": "Story-driven weird game containing arcade and puzzle mini-games.",
+    "genre": null,
+    "id": "736831",
+    "link": "https://v-ktor.itch.io/random-access-memories",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxMDE3NzcucG5n/315x250%23c/NP8T5k.png",
+    "title": "Random Access Memories",
+    "video": null,
+    "scrapeWords": [
+      "Random",
+      "Access",
+      "Memories"
+    ]
+  },
+  {
     "author": "Warxwell",
     "description": "My IndieWare Jam submission",
     "genre": null,
@@ -84270,7 +84297,7 @@
   },
   {
     "author": "saltyn",
-    "description": "Finds a way out...",
+    "description": "Find a way out...",
     "genre": "Puzzle",
     "id": "737625",
     "link": "https://saltyn.itch.io/temple",
@@ -94959,11 +94986,7 @@
     "genre": "Action",
     "id": "787527",
     "link": "https://kmlkaramel.itch.io/block-around",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MTY1MDYuanBn/315x250%23c/nLnwhp.jpg",
     "title": "Block Around",
     "video": null,
@@ -95090,11 +95113,7 @@
     "genre": "Platformer",
     "id": "788636",
     "link": "https://outfrost.itch.io/pillars-of-anguish",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ0MTQ2NTUucG5n/315x250%23c/4jzVkd.png",
     "title": "Pillars of Anguish",
     "video": null,
@@ -95102,26 +95121,6 @@
       "Pillars",
       "of",
       "Anguish"
-    ]
-  },
-  {
-    "author": "Team Isla",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "788920",
-    "link": "https://teamisla.itch.io/clash-of-bread",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0MzY3NjkucG5n/315x250%23c/cZxBtI.png",
-    "title": "Clash of the Dungeons",
-    "video": null,
-    "scrapeWords": [
-      "Clash",
-      "of",
-      "the",
-      "Dungeons"
     ]
   },
   {
@@ -95588,26 +95587,6 @@
     "video": null,
     "scrapeWords": [
       "Claret"
-    ]
-  },
-  {
-    "author": "Evpevdev",
-    "description": "A one button dungeon crawler",
-    "genre": "Adventure",
-    "id": "792218",
-    "link": "https://evpevdev.itch.io/one-button-dungeon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0MzU2MzMucG5n/315x250%23c/Q3erCE.png",
-    "title": "One Button Dungeon",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Button",
-      "Dungeon"
     ]
   },
   {
@@ -100562,17 +100541,20 @@
   },
   {
     "author": "TANmasterisME",
-    "description": "Parkcore with a gun and you main objective is find and touching the red orbs",
+    "description": "High Heights with your gun nothing can’t stop you to from your goal (Touching the red orbs)",
     "genre": "Platformer",
     "id": "827365",
-    "link": "https://tanmasterisme.itch.io/parkcore-game",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ4NDEwODQucG5n/315x250%23c/TgrSx8.png",
-    "title": "Parkcore Game",
+    "link": "https://tanmasterisme.itch.io/high-heights",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwODg3MjYuanBn/315x250%23c/wfDedi.jpg",
+    "title": "High Heights",
     "video": null,
     "scrapeWords": [
-      "Parkcore",
-      "Game"
+      "High",
+      "Heights"
     ]
   },
   {
@@ -106044,6 +106026,22 @@
     ]
   },
   {
+    "author": "SnowyCocoon",
+    "description": null,
+    "genre": "Action",
+    "id": "863785",
+    "link": "https://snowycocoon.itch.io/penut-buttter-invasion",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDk5OTQucG5n/315x250%23c/JOyR2a.png",
+    "title": "Peanut Butter Invasion",
+    "video": null,
+    "scrapeWords": [
+      "Peanut",
+      "Butter",
+      "Invasion"
+    ]
+  },
+  {
     "author": "petenotpete",
     "description": "A game I made with my oldest daughter a few years ago",
     "genre": "Action",
@@ -106056,6 +106054,22 @@
     "scrapeWords": [
       "Hannahs",
       "Game"
+    ]
+  },
+  {
+    "author": "Everstead Game",
+    "description": "A relaxed homestead sandbox simulation game set in the wilderness! ALPHA DEMO AVAILABLE NOW!",
+    "genre": "Simulation",
+    "id": "864342",
+    "link": "https://eversteadgame.itch.io/release",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwODgwNDEucG5n/315x250%23c/%2FEJG%2BH.png",
+    "title": "Everstead",
+    "video": null,
+    "scrapeWords": [
+      "Everstead"
     ]
   },
   {
@@ -107206,6 +107220,21 @@
     ]
   },
   {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Nobody: Interactive",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -107410,6 +107439,22 @@
     "scrapeWords": [
       "Falling",
       "Bits"
+    ]
+  },
+  {
+    "author": "R1sk",
+    "description": "Game Nostalgia made for Lab RPLGDC.",
+    "genre": "Educational",
+    "id": "874207",
+    "link": "https://r1sk.itch.io/nostalgia",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MTc3NzYucG5n/315x250%23c/SvVPNg.png",
+    "title": "Nostalgia",
+    "video": null,
+    "scrapeWords": [
+      "Nostalgia"
     ]
   },
   {
@@ -108512,7 +108557,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwNjUwMDYucG5n/315x250%23c/dlrsMP.png",
+    "thumb": "https://img.itch.zone/aW1nLzUwODY1NjEucG5n/315x250%23c/dzHQSe.png",
     "title": "Dry Death",
     "video": null,
     "scrapeWords": [
@@ -109509,7 +109554,7 @@
   },
   {
     "author": "PixelBitz",
-    "description": "Embark on the journey (In-development)",
+    "description": "Mini-game with few levels (In-development)",
     "genre": "Adventure",
     "id": "887089",
     "link": "https://pixelbitz.itch.io/journey-the-beginning",
@@ -109517,12 +109562,10 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMDE5ODEucG5n/315x250%23c/LekltU.png",
-    "title": "Journey : The Beginning",
+    "title": "Journey",
     "video": null,
     "scrapeWords": [
-      "Journey",
-      "The",
-      "Beginning"
+      "Journey"
     ]
   },
   {
@@ -110038,7 +110081,7 @@
   },
   {
     "author": "rrbenx",
-    "description": "Multiplayer mad tapping run game! Runs, spells, fireballs and betrayals. Get the kingdom throne the first!",
+    "description": "Multiplayer mad run game! Runs, spells, fireballs and betrayals. Get the kingdom throne the first!",
     "genre": "Action",
     "id": "891441",
     "link": "https://rrbenx.itch.io/throne-run",
@@ -110102,6 +110145,23 @@
       "Echo",
       "Papa",
       "607"
+    ]
+  },
+  {
+    "author": "Jaacko Torus",
+    "description": "Enjoy the soothing atmosphere of another world while you fish in peace",
+    "genre": "Adventure",
+    "id": "891986",
+    "link": "https://jaacko-torus.itch.io/skyfishing",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwODUxNDYucG5n/315x250%23c/Fu2m2y.png",
+    "title": "SkyFishing",
+    "video": null,
+    "scrapeWords": [
+      "Sky",
+      "Fishing"
     ]
   },
   {
@@ -110210,12 +110270,16 @@
     "link": "https://blueoctopus.itch.io/less-is-more",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwNDIzOTMucG5n/315x250%23c/A9crU9.png",
-    "title": "Bullet is Ennemy",
+    "title": "Less Bullet is More Ennemy & PowerUp",
     "video": null,
     "scrapeWords": [
+      "Less",
       "Bullet",
       "is",
-      "Ennemy"
+      "More",
+      "Ennemy",
+      "Power",
+      "Up"
     ]
   },
   {
@@ -110845,6 +110909,20 @@
     ]
   },
   {
+    "author": "Eniri",
+    "description": "Less light more sound",
+    "genre": null,
+    "id": "899717",
+    "link": "https://eniri.itch.io/lochinvar",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwNzg1NjMucG5n/315x250%23c/X%2FWAQ1.png",
+    "title": "Lochinvar",
+    "video": null,
+    "scrapeWords": [
+      "Lochinvar"
+    ]
+  },
+  {
     "author": "danza4",
     "description": "Slower you go, farther you get",
     "genre": "Racing",
@@ -110954,6 +111032,75 @@
     ]
   },
   {
+    "author": "Knights Game",
+    "description": "The New Adventure Game.",
+    "genre": "Adventure",
+    "id": "900782",
+    "link": "https://knights-game.itch.io/jemeyah",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwODUzNjgucG5n/315x250%23c/DlgUsv.png",
+    "title": "Jemeyah",
+    "video": null,
+    "scrapeWords": [
+      "Jemeyah"
+    ]
+  },
+  {
+    "author": "R1sk",
+    "description": "Top Down Shooter for Devday Game Jam",
+    "genre": "Shooter",
+    "id": "900858",
+    "link": "https://r1sk.itch.io/sxs",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwODczNjAucG5n/315x250%23c/%2F1Nrj8.png",
+    "title": "SxS",
+    "video": null,
+    "scrapeWords": [
+      "Sx",
+      "S"
+    ]
+  },
+  {
+    "author": "ahmedmaawy",
+    "description": "The Lost Hero - GJG 2021 Submission",
+    "genre": "Platformer",
+    "id": "901041",
+    "link": "https://ahmedmaawy.itch.io/the-lost-hero",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwODgzNjEucG5n/315x250%23c/0HMs8s.png",
+    "title": "The Lost Hero",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Lost",
+      "Hero"
+    ]
+  },
+  {
+    "author": "kamaleon70",
+    "description": "Prepare the \"perfect\" soup for your family for a special occasion",
+    "genre": "Puzzle",
+    "id": "901160",
+    "link": "https://kamaleon70.itch.io/cream-of-the-crop-soup",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwODc3ODAucG5n/315x250%23c/vr7Xhe.png",
+    "title": "Cream of the Crop Soup",
+    "video": null,
+    "scrapeWords": [
+      "Cream",
+      "of",
+      "the",
+      "Crop",
+      "Soup"
+    ]
+  },
+  {
     "author": "Sauaciden",
     "description": "Simple Lunar Lander made for GBJAM 5",
     "genre": null,
@@ -110970,6 +111117,72 @@
     "scrapeWords": [
       "Lunar",
       "Lander"
+    ]
+  },
+  {
+    "author": "QIX",
+    "description": "A simple RPG game made with the Godot game engine.",
+    "genre": "Puzzle",
+    "id": "901870",
+    "link": "https://qix.itch.io/mota16",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwOTI5OTUucG5n/315x250%23c/uSayoD.png",
+    "title": "魔塔 16",
+    "video": null,
+    "scrapeWords": [
+      "魔塔",
+      "16"
+    ]
+  },
+  {
+    "author": "ratHippo",
+    "description": "Run from the red ships. How long will you last?",
+    "genre": "Action",
+    "id": "902000",
+    "link": "https://rathippo.itch.io/space-chase",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwOTM2MDMucG5n/315x250%23c/WAjuPQ.png",
+    "title": "Space Chase",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Chase"
+    ]
+  },
+  {
+    "author": "securas",
+    "description": "a little clicker game made for the Global Game Jam",
+    "genre": "Puzzle",
+    "id": "902096",
+    "link": "https://securas.itch.io/gps-simulator",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwOTM2NjEucG5n/315x250%23c/OysOpn.png",
+    "title": "GPS Simulator",
+    "video": null,
+    "scrapeWords": [
+      "GPS",
+      "Simulator"
+    ]
+  },
+  {
+    "author": "Maxwell Clarke (maxeonyx)",
+    "description": null,
+    "genre": null,
+    "id": "902219",
+    "link": "https://maxeonyx.itch.io/message-in-a-sock",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwOTQyNjAuanBn/315x250%23c/h2hdta.jpg",
+    "title": "Message in a Sock",
+    "video": null,
+    "scrapeWords": [
+      "Message",
+      "in",
+      "a",
+      "Sock"
     ]
   },
   {
