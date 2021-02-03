@@ -34557,10 +34557,12 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzIzMTM4OTMuZ2lm/315x250%23cm/XVdeW9.gif",
-    "title": "Dominus",
+    "title": "2d action game",
     "video": "https://img.itch.zone/aW1nLzIzMTM4OTMuZ2lm/original/%2BP3Srh.gif",
     "scrapeWords": [
-      "Dominus"
+      "2d",
+      "action",
+      "game"
     ]
   },
   {
@@ -50039,10 +50041,13 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI5NzMxODEuZ2lm/315x250%23cm/fQDOlk.gif",
-    "title": "Etherblade",
+    "title": "Top down action game",
     "video": "https://img.itch.zone/aW1nLzI5NzMxODEuZ2lm/original/g7SqBI.gif",
     "scrapeWords": [
-      "Etherblade"
+      "Top",
+      "down",
+      "action",
+      "game"
     ]
   },
   {
@@ -61882,28 +61887,6 @@
     ]
   },
   {
-    "author": "ThEnigmArtist",
-    "description": "2d single/co op action rpg mini game",
-    "genre": "Survival",
-    "id": "632689",
-    "link": "https://blackboxceo.itch.io/black-box-man-down",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMzODIzMTcucG5n/315x250%23c/5D4z28.png",
-    "title": "Man Down:  2 player co op version",
-    "video": null,
-    "scrapeWords": [
-      "Man",
-      "Down",
-      "2",
-      "player",
-      "co",
-      "op",
-      "version"
-    ]
-  },
-  {
     "author": "YeahTHATchucK",
     "description": "Guide a robot through the city, blasting bugs!",
     "genre": "Action",
@@ -63477,27 +63460,6 @@
     "video": "https://img.itch.zone/aW1nLzM0NjgxOTEuZ2lm/original/zS04ak.gif",
     "scrapeWords": [
       "Mailchain"
-    ]
-  },
-  {
-    "author": "ThEnigmArtist",
-    "description": "Game files for Windows/Pc",
-    "genre": "Survival",
-    "id": "641472",
-    "link": "https://blackboxceo.itch.io/black-box-survival-min-game-windows",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0MzQyMTQucG5n/315x250%23c/GbOjbU.png",
-    "title": "Black Box: Survival (mini game) - Windows",
-    "video": null,
-    "scrapeWords": [
-      "Black",
-      "Box",
-      "Survival",
-      "mini",
-      "game",
-      "Windows"
     ]
   },
   {
@@ -65249,7 +65211,7 @@
   },
   {
     "author": "FRACTiLE Games",
-    "description": "Simple but challenging zero-gravity 3D shoot'em up in series of unique mazes",
+    "description": "Simple but challenging zero-gravity 3D high score shoot'em up in series of unique mazes",
     "genre": "Action",
     "id": "650351",
     "link": "https://fractilegames.itch.io/polychoron",
@@ -65258,7 +65220,7 @@
       "Linux",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1MDgxMzEucG5n/315x250%23c/FLKO4L.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxMjE3NzcucG5n/315x250%23c/CEWKiA.png",
     "title": "Polychoron",
     "video": null,
     "scrapeWords": [
@@ -79656,7 +79618,9 @@
     "genre": "Puzzle",
     "id": "718215",
     "link": "https://bozar.itch.io/one-more-level",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzM5ODE3MTQucG5n/315x250%23c/npMSw3.png",
     "title": "One More Level",
     "video": null,
@@ -90111,7 +90075,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5ODYwNjEucG5n/315x250%23c/ifR6sa.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxMjQyNzIucG5n/315x250%23c/6MLLBU.png",
     "title": "Rope Cow",
     "video": null,
     "scrapeWords": [
@@ -98040,6 +98004,21 @@
     ]
   },
   {
+    "author": "Collin Visser",
+    "description": "Just Another Jam",
+    "genre": "Action",
+    "id": "807782",
+    "link": "https://collinviz.itch.io/golem-printing",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1Mjc3NjYucG5n/315x250%23c/%2BC0JMj.png",
+    "title": "Printing Golem",
+    "video": null,
+    "scrapeWords": [
+      "Printing",
+      "Golem"
+    ]
+  },
+  {
     "author": "SmoothProcess",
     "description": "Even zombies have feelings",
     "genre": "Platformer",
@@ -98133,24 +98112,6 @@
       "What",
       "The",
       "Hell"
-    ]
-  },
-  {
-    "author": "SlimyOctopussy",
-    "description": "Be a cake baking robot. Bake Cakes and don't ask questions!",
-    "genre": "Educational",
-    "id": "808086",
-    "link": "https://slimyoctopussy.itch.io/cakecrane",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1Mjk0ODcucG5n/315x250%23c/4QS5Jd.png",
-    "title": "CakeCrane",
-    "video": null,
-    "scrapeWords": [
-      "Cake",
-      "Crane"
     ]
   },
   {
@@ -102581,21 +102542,6 @@
     ]
   },
   {
-    "author": "AcheGames",
-    "description": null,
-    "genre": "Platformer",
-    "id": "839380",
-    "link": "https://achegames.itch.io/moon-bots",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3MDUzNTEuanBn/315x250%23c/5KAd09.jpg",
-    "title": "Moon Bots",
-    "video": null,
-    "scrapeWords": [
-      "Moon",
-      "Bots"
-    ]
-  },
-  {
     "author": "stunkgames",
     "description": "A crazy puzzle game when you need make the Cavern Cars",
     "genre": "Puzzle",
@@ -102958,7 +102904,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -108612,7 +108559,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwODY1NjEucG5n/315x250%23c/dzHQSe.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxMjI4OTMucG5n/315x250%23c/kcnzg4.png",
     "title": "Dry Death",
     "video": null,
     "scrapeWords": [
@@ -108764,6 +108711,7 @@
     "id": "883305",
     "link": "https://ronflax.itch.io/ronflaxplatformer",
     "platforms": [
+      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMDQyMzIucG5n/315x250%23c/UT1fIN.png",
@@ -109055,7 +109003,9 @@
     "genre": "Simulation",
     "id": "885072",
     "link": "https://zoggerdev.itch.io/idle-kosmos",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUwOTg3NjAucG5n/315x250%23c/0TNZ%2B8.png",
     "title": "Idle Kosmos",
     "video": null,
@@ -110968,7 +110918,7 @@
     "id": "899166",
     "link": "https://mariokness.itch.io/bard-hero-vr",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwNzUzMDAucG5n/315x250%23c/Nvr3tT.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxMjI0MjQucG5n/315x250%23c/M9pe7Y.png",
     "title": "Bard Hero VR",
     "video": null,
     "scrapeWords": [
@@ -111279,7 +111229,10 @@
     "genre": "Adventure",
     "id": "900782",
     "link": "https://knights-game.itch.io/jemeyah",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUwODUzNjgucG5n/315x250%23c/DlgUsv.png",
     "title": "Jemeyah",
     "video": null,
@@ -111774,7 +111727,7 @@
     "id": "903105",
     "link": "https://ivanvoirol.itch.io/madeleine",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUxMTQ4NTEucG5n/315x250%23c/rrHGSX.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxMjc4ODQucG5n/315x250%23c/%2B4LKiR.png",
     "title": "Madeleine",
     "video": null,
     "scrapeWords": [
@@ -111916,6 +111869,25 @@
     ]
   },
   {
+    "author": "Collin Visser",
+    "description": "GGJ 2021",
+    "genre": "Puzzle",
+    "id": "903411",
+    "link": "https://collinviz.itch.io/theres-a-whale-and-a-way",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMDA3OTQucG5n/315x250%23c/LET6Kg.png",
+    "title": "There's a whale and a way",
+    "video": null,
+    "scrapeWords": [
+      "Theres",
+      "a",
+      "whale",
+      "and",
+      "a",
+      "way"
+    ]
+  },
+  {
     "author": "BlueOctopus",
     "description": "Made in 48 hours",
     "genre": "Platformer",
@@ -112031,7 +112003,7 @@
   {
     "author": "jacobisconfused",
     "description": "Destroy it all - Gotm Game Jam",
-    "genre": null,
+    "genre": "Action",
     "id": "904482",
     "link": "https://deadnoggin.itch.io/major-tom",
     "platforms": null,
@@ -112241,24 +112213,17 @@
   },
   {
     "author": "703337",
-    "description": "Why are you trying to figure out what it is by reading this?",
+    "description": "A short walking sim where you ----",
     "genre": null,
     "id": "905205",
-    "link": "https://703337.itch.io/noreally-idont",
-    "platforms": [
-      "Windows"
-    ],
+    "link": "https://703337.itch.io/blind-trust",
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxMTkzOTUucG5n/315x250%23c/UgWI%2FG.png",
-    "title": "I dunno, why are you asking me?",
+    "title": "Blind Trust",
     "video": null,
     "scrapeWords": [
-      "I",
-      "dunno",
-      "why",
-      "are",
-      "you",
-      "asking",
-      "me"
+      "Blind",
+      "Trust"
     ]
   },
   {
@@ -112289,7 +112254,8 @@
     "id": "905402",
     "link": "https://imrubensi.itch.io/the-shadow-overtakes-you",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxMTI5NTYuanBn/315x250%23c/v2oUyK.jpg",
     "title": "The Shadow Overtakes You",
@@ -112318,7 +112284,7 @@
   },
   {
     "author": "Alex Stewart (Albin)",
-    "description": "Global Game Jam 2021 Entry. Personal Project",
+    "description": "Fall down a deep, depressing hole. Feel anxiety as you descend deeper.",
     "genre": "Simulation",
     "id": "906174",
     "link": "https://thealexstewart.itch.io/anxiety",
@@ -112326,11 +112292,46 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUxMTg0MDQucG5n/315x250%23c/s%2BQTlK.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxMjQ0NTguZ2lm/315x250%23cm/tWptxn.gif",
     "title": "Anxiety",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzUxMjQ0NTguZ2lm/original/0XtvBC.gif",
     "scrapeWords": [
       "Anxiety"
+    ]
+  },
+  {
+    "author": "OliverABM",
+    "description": "Survive a uphill infinite runner as a rover climbing the hill as the seasons and years pass",
+    "genre": "Action",
+    "id": "906789",
+    "link": "https://oliverabm.itch.io/climb-of-the-seasons",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxMjIyNDYucG5n/315x250%23c/iwJ21J.png",
+    "title": "Climb of the seasons",
+    "video": null,
+    "scrapeWords": [
+      "Climb",
+      "of",
+      "the",
+      "seasons"
+    ]
+  },
+  {
+    "author": "Galatra Games",
+    "description": null,
+    "genre": "Adventure",
+    "id": "907293",
+    "link": "https://galatra303.itch.io/treasure-travelers-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMjYwMDAucG5n/315x250%23c/JKHr%2Bs.png",
+    "title": "Treasure Travelers Demo",
+    "video": null,
+    "scrapeWords": [
+      "Treasure",
+      "Travelers"
     ]
   },
   {
