@@ -28127,6 +28127,25 @@
     ]
   },
   {
+    "author": "Vanne",
+    "description": "A simple puzzle game using only two buttons",
+    "genre": "Puzzle",
+    "id": "404133",
+    "link": "https://vanne.itch.io/lights-out",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwMDgwMTcucG5n/315x250%23c/8t3j%2Bu.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Joshua 🐢",
     "description": "A happy birthday project for my friend who likes fries",
     "genre": "Survival",
@@ -55453,7 +55472,7 @@
   },
   {
     "author": "XIMPLE APPS",
-    "description": "¡Actualización muy pronto!",
+    "description": null,
     "genre": null,
     "id": "602701",
     "link": "https://ximpleapps.itch.io/poison-bubble",
@@ -88384,7 +88403,7 @@
   },
   {
     "author": "Xendra",
-    "description": "Experience strategic roguelite RPG combat as you Kill, Abduct, and Butcher your foes!",
+    "description": "The most ruthless RPG around. Abduct enemies, steal skills, create insane builds and teams.",
     "genre": "Strategy",
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
@@ -100738,6 +100757,21 @@
     ]
   },
   {
+    "author": "playlaika",
+    "description": "Ayuda al Guachín, al Viejo Fana y al Barra en el mejor juego de Fútbol Argentino",
+    "genre": "Sports",
+    "id": "827870",
+    "link": "https://playlaika.itch.io/fulboargento",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMzU0NTUucG5n/315x250%23c/kyZ8oi.png",
+    "title": "Fulbo Argento",
+    "video": null,
+    "scrapeWords": [
+      "Fulbo",
+      "Argento"
+    ]
+  },
+  {
     "author": "Gamaturgie",
     "description": null,
     "genre": "Interactive Fiction",
@@ -101408,7 +101442,7 @@
     ]
   },
   {
-    "author": "snesio_cat123",
+    "author": "Snesio_cat Games",
     "description": "Hertje fun",
     "genre": "Platformer",
     "id": "831356",
@@ -107340,21 +107374,6 @@
     ]
   },
   {
-    "author": "mikepurdy",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "872636",
-    "link": "https://purdy.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Bedroom Coders",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -107433,24 +107452,6 @@
       "42",
       "vs",
       "Evil"
-    ]
-  },
-  {
-    "author": "Mitos",
-    "description": "Small pixelart game about crawling dungeons made of ascii characters",
-    "genre": "Adventure",
-    "id": "873378",
-    "link": "https://mitos.itch.io/dndos",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUwODkxODQuanBn/315x250%23c/kOCvTG.jpg",
-    "title": "Dungeons & DOS",
-    "video": null,
-    "scrapeWords": [
-      "Dungeons",
-      "DOS"
     ]
   },
   {
@@ -107615,7 +107616,7 @@
   {
     "author": "FlashLight13",
     "description": "Colonize new planets in the glory of Planetary Soviet",
-    "genre": "Puzzle",
+    "genre": "Strategy",
     "id": "874630",
     "link": "https://flashlight13.itch.io/comrade-architect",
     "platforms": null,
@@ -107643,7 +107644,7 @@
   },
   {
     "author": "SnowySierra",
-    "description": "A cute furry brick-breaking exploration game",
+    "description": "You're a fox in this cute, funny, nature-themed brick-breaker game with a twist!",
     "genre": "Action",
     "id": "875092",
     "link": "https://snowysierra.itch.io/foxpaww",
@@ -107651,7 +107652,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5MjMwMjcucG5n/315x250%23c/Ht1hYt.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxNDQ5MDkucG5n/315x250%23c/qpYI98.png",
     "title": "FoxPaww",
     "video": null,
     "scrapeWords": [
@@ -109421,7 +109422,8 @@
     "id": "886249",
     "link": "https://noiros.itch.io/object-wars",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5OTY1MDcucG5n/315x250%23c/xpX2%2Bo.png",
     "title": "Object Wars",
@@ -112162,6 +112164,25 @@
     ]
   },
   {
+    "author": "Perro Viejo",
+    "description": "Our submission for the GlobalGameJam 2021",
+    "genre": null,
+    "id": "904438",
+    "link": "https://perroviejo.itch.io/rahu-lumina",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxMDY0NzgucG5n/315x250%23c/z2c3BQ.png",
+    "title": "Rahu Lumina",
+    "video": null,
+    "scrapeWords": [
+      "Rahu",
+      "Lumina"
+    ]
+  },
+  {
     "author": "Mr. Arrecis",
     "description": "Destroy all buildings, save all nature.",
     "genre": "Strategy",
@@ -112582,7 +112603,7 @@
     "id": "907859",
     "link": "https://littledeltaplus.itch.io/nobones",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUxMzA1OTYucG5n/315x250%23c/OrH%2B5o.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxNDQ1MDQucG5n/315x250%23c/fHgrG0.png",
     "title": "No Bones (Demo)",
     "video": null,
     "scrapeWords": [
@@ -112614,7 +112635,7 @@
     "id": "908267",
     "link": "https://nomadicrockman.itch.io/io",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUxMzIzNTkucG5n/315x250%23c/TVkCB9.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxNDMyODQucG5n/315x250%23c/%2BpcYHo.png",
     "title": "Io",
     "video": null,
     "scrapeWords": [
@@ -112672,14 +112693,14 @@
   {
     "author": "ZiZUR'S GAMES",
     "description": null,
-    "genre": "Strategy",
+    "genre": null,
     "id": "909139",
     "link": "https://zizurs-games.itch.io/sky-fruits",
     "platforms": [
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUxMzk3NTEucG5n/315x250%23c/bbDCU%2B.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxNDUzOTIucG5n/315x250%23c/UkfWiC.png",
     "title": "Sky Fruits",
     "video": null,
     "scrapeWords": [
@@ -112736,6 +112757,73 @@
       "Valentines",
       "Day",
       "Blues"
+    ]
+  },
+  {
+    "author": "DINOUGAMERDZ",
+    "description": "It is a ping pong game in which you are a player against your enemy,  it is a fun game I advise you to",
+    "genre": null,
+    "id": "910369",
+    "link": "https://dinougamerdz.itch.io/pingpong",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNDU1MTguanBn/315x250%23c/MEOc5N.jpg",
+    "title": "PINGPONG",
+    "video": null,
+    "scrapeWords": [
+      "PINGPONG"
+    ]
+  },
+  {
+    "author": "Sillon de la Sala",
+    "description": "Fight, survive and evolve, to become the strongest duck!",
+    "genre": "Action",
+    "id": "910434",
+    "link": "https://sillon-de-la-sala.itch.io/evolution-duck",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNDU2MzYucG5n/315x250%23c/ykmzQG.png",
+    "title": "Evolution Duck",
+    "video": null,
+    "scrapeWords": [
+      "Evolution",
+      "Duck"
+    ]
+  },
+  {
+    "author": "Doubi88",
+    "description": "A platformer game you cannot finish on first try.",
+    "genre": "Platformer",
+    "id": "910489",
+    "link": "https://doubi88.itch.io/impossible-platformer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNDU5MzEucG5n/315x250%23c/WYeFpF.png",
+    "title": "Impossible Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Impossible",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "Voided Pixels Studio",
+    "description": "Classic Snake with Twists",
+    "genre": "Action",
+    "id": "910511",
+    "link": "https://voidedpixels.itch.io/an-iteration-on-snake",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNDYwODkucG5n/315x250%23c/KFq6ja.png",
+    "title": "an iteration on snake",
+    "video": null,
+    "scrapeWords": [
+      "an",
+      "iteration",
+      "on",
+      "snake"
     ]
   },
   {
