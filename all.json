@@ -2611,7 +2611,7 @@
     ]
   },
   {
-    "author": "lauratchi",
+    "author": "noisybass",
     "description": "Survive to the dangers of the night, avoid dying of hunger or becoming insane...",
     "genre": "Strategy",
     "id": "164227",
@@ -39895,26 +39895,6 @@
     ]
   },
   {
-    "author": "Cauê Henrique",
-    "description": "godot-wild-jam",
-    "genre": "Platformer",
-    "id": "486772",
-    "link": "https://caueh.itch.io/black-or-white",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1MTM2NjEucG5n/315x250%23c/THJXcP.png",
-    "title": "Black or White",
-    "video": null,
-    "scrapeWords": [
-      "Black",
-      "or",
-      "White"
-    ]
-  },
-  {
     "author": "silverslade",
     "description": null,
     "genre": "Platformer",
@@ -61963,6 +61943,28 @@
     ]
   },
   {
+    "author": "ThEnigmArtist",
+    "description": "2d single/co op action rpg mini game",
+    "genre": "Survival",
+    "id": "632689",
+    "link": "https://blackboxceo.itch.io/black-box-man-down",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMzODIzMTcucG5n/315x250%23c/5D4z28.png",
+    "title": "Man Down:  2 player co op version",
+    "video": null,
+    "scrapeWords": [
+      "Man",
+      "Down",
+      "2",
+      "player",
+      "co",
+      "op",
+      "version"
+    ]
+  },
+  {
     "author": "YeahTHATchucK",
     "description": "Guide a robot through the city, blasting bugs!",
     "genre": "Action",
@@ -68624,11 +68626,11 @@
     ]
   },
   {
-    "author": "hitdev",
+    "author": "fedev",
     "description": "Esquiva las rocas para evitar ser destruido!",
     "genre": null,
     "id": "671334",
-    "link": "https://hitdev.itch.io/spacerock",
+    "link": "https://fedev21.itch.io/spacerock",
     "platforms": [
       "Windows",
       "Linux",
@@ -71280,11 +71282,11 @@
     ]
   },
   {
-    "author": "hitdev",
+    "author": "fedev",
     "description": "Reach the goal in less than 10 seconds or you will have lost!",
     "genre": "Puzzle",
     "id": "683778",
-    "link": "https://hitdev.itch.io/10secondstogo",
+    "link": "https://fedev21.itch.io/10secondstogo",
     "platforms": [
       "Windows",
       "Linux",
@@ -72953,11 +72955,11 @@
     ]
   },
   {
-    "author": "hitdev",
+    "author": "fedev",
     "description": "No permitas que corten tu fruta favorita en pedacitos!",
     "genre": null,
     "id": "693462",
-    "link": "https://hitdev.itch.io/dodgy-fruit",
+    "link": "https://fedev21.itch.io/dodgy-fruit",
     "platforms": [
       "Windows",
       "Linux",
@@ -79608,11 +79610,11 @@
     ]
   },
   {
-    "author": "hitdev",
+    "author": "fedev",
     "description": "The title itself is telling you the description of the game XD",
     "genre": "Action",
     "id": "717385",
-    "link": "https://hitdev.itch.io/shootordiexd",
+    "link": "https://fedev21.itch.io/shootordiexd",
     "platforms": [
       "Windows",
       "Linux",
@@ -79865,11 +79867,11 @@
     ]
   },
   {
-    "author": "hitdev",
+    "author": "fedev",
     "description": "Escape from the maze in less than 2 minutes.",
     "genre": null,
     "id": "719020",
-    "link": "https://hitdev.itch.io/the-maze",
+    "link": "https://fedev21.itch.io/the-maze",
     "platforms": [
       "Windows",
       "Linux",
@@ -97020,7 +97022,6 @@
     "id": "800654",
     "link": "https://jontopielski.itch.io/spinny-discs",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -109417,7 +109418,7 @@
   },
   {
     "author": "Noiros",
-    "description": null,
+    "description": "Object Wars is a battle royal game, but you are an object ... fight other player and win the game !!",
     "genre": "Shooter",
     "id": "886249",
     "link": "https://noiros.itch.io/object-wars",
@@ -111349,6 +111350,23 @@
     ]
   },
   {
+    "author": "PrincessNia",
+    "description": "Take turns hucking snowballs at each other!",
+    "genre": "Action",
+    "id": "900616",
+    "link": "https://princessnia.itch.io/snow-mercy",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwOTIxNTYucG5n/315x250%23c/tHjCI3.png",
+    "title": "Snow Mercy",
+    "video": null,
+    "scrapeWords": [
+      "Snow",
+      "Mercy"
+    ]
+  },
+  {
     "author": "bubez",
     "description": "darkness. light. darkness.",
     "genre": "Survival",
@@ -111466,6 +111484,20 @@
       "come",
       "for",
       "you"
+    ]
+  },
+  {
+    "author": "fedetibaldo",
+    "description": "It’s like Tetris, until it isn’t. Flip the gravity and play on all sides!",
+    "genre": "Puzzle",
+    "id": "901085",
+    "link": "https://fedetibaldo.itch.io/gravitatris",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTExNDIucG5n/315x250%23c/Tv8k40.png",
+    "title": "Gravitatris",
+    "video": null,
+    "scrapeWords": [
+      "Gravitatris"
     ]
   },
   {
@@ -112560,6 +112592,25 @@
     ]
   },
   {
+    "author": "Paco",
+    "description": "A puzzle game where you have to teach a robot how to find treasure.",
+    "genre": "Puzzle",
+    "id": "907030",
+    "link": "https://venompaco.itch.io/treasure-bot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTI0NzkucG5n/315x250%23c/TwVMT7.png",
+    "title": "Treasure Bot",
+    "video": null,
+    "scrapeWords": [
+      "Treasure",
+      "Bot"
+    ]
+  },
+  {
     "author": "Galatra Games",
     "description": null,
     "genre": "Adventure",
@@ -112581,7 +112632,8 @@
     "id": "907306",
     "link": "https://splendiddog.itch.io/3d-maze-monster-nokia-jam",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxMzY5NTAucG5n/315x250%23c/OTAwjA.png",
     "title": "3D MAZE MONSTER [Nokia 3310 Jam]",
@@ -112640,6 +112692,38 @@
     "video": null,
     "scrapeWords": [
       "Io"
+    ]
+  },
+  {
+    "author": "Levi",
+    "description": "An endless climber with novel wall-bouncing mechanics!",
+    "genre": "Platformer",
+    "id": "908294",
+    "link": "https://levilindsey.itch.io/stuck-in-an-inner-tube",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMzI2NTcucG5n/315x250%23c/n6pNN%2B.png",
+    "title": "Stuck in an Inner-Tube",
+    "video": null,
+    "scrapeWords": [
+      "Stuck",
+      "in",
+      "an",
+      "Inner-Tube"
+    ]
+  },
+  {
+    "author": "Levi",
+    "description": "Collect your blobs and try not to lose them!",
+    "genre": "Platformer",
+    "id": "908315",
+    "link": "https://levilindsey.itch.io/ooboloo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMzI2ODYucG5n/315x250%23c/JhCI%2Bj.png",
+    "title": "OoboloO",
+    "video": null,
+    "scrapeWords": [
+      "Oobolo",
+      "O"
     ]
   },
   {
@@ -112742,6 +112826,25 @@
     ]
   },
   {
+    "author": "assertchris",
+    "description": "Minesweeper rogue-like. Relaxing music. Retro feel.",
+    "genre": "Puzzle",
+    "id": "909839",
+    "link": "https://assertchris.itch.io/slither-deep",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNDE1MDYucG5n/315x250%23c/bg1pns.png",
+    "title": "Slither Deep",
+    "video": null,
+    "scrapeWords": [
+      "Slither",
+      "Deep"
+    ]
+  },
+  {
     "author": "lilaco",
     "description": null,
     "genre": "Role Playing",
@@ -112810,6 +112913,22 @@
     ]
   },
   {
+    "author": "Daebak",
+    "description": "Choose wisely, the future of humanity rests on you.",
+    "genre": "Visual Novel",
+    "id": "910503",
+    "link": "https://daebak.itch.io/containment",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNDYyNzMucG5n/315x250%23c/FbPHhn.png",
+    "title": "Containment",
+    "video": null,
+    "scrapeWords": [
+      "Containment"
+    ]
+  },
+  {
     "author": "Voided Pixels Studio",
     "description": "Classic Snake with Twists",
     "genre": "Action",
@@ -112849,6 +112968,88 @@
       "Mean-Spirited",
       "Ancient",
       "Deities"
+    ]
+  },
+  {
+    "author": "Gallsy",
+    "description": null,
+    "genre": "Rhythm",
+    "id": "910754",
+    "link": "https://gallsy.itch.io/track-zero",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTQzNDgucG5n/315x250%23c/cfrDcS.png",
+    "title": "Track Zero",
+    "video": null,
+    "scrapeWords": [
+      "Track",
+      "Zero"
+    ]
+  },
+  {
+    "author": "Albert Valo",
+    "description": "Explosive Quads in your computer",
+    "genre": "Action",
+    "id": "910986",
+    "link": "https://albertvalo.itch.io/quadsplosion-madness",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTI0NzUuZ2lm/315x250%23cm/jk8r7U.gif",
+    "title": "Quadsplosion Madness",
+    "video": "https://img.itch.zone/aW1nLzUxNTI0NzUuZ2lm/original/2nCJf%2B.gif",
+    "scrapeWords": [
+      "Quadsplosion",
+      "Madness"
+    ]
+  },
+  {
+    "author": "D.Galga",
+    "description": null,
+    "genre": null,
+    "id": "911489",
+    "link": "https://dgalga.itch.io/fly-through-the-storm-wind",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTI0MTIucG5n/315x250%23c/CcFlUY.png",
+    "title": "Fly through the storm wind",
+    "video": null,
+    "scrapeWords": [
+      "Fly",
+      "through",
+      "the",
+      "storm",
+      "wind"
+    ]
+  },
+  {
+    "author": "gamesbybamsall",
+    "description": "Kill zombies and escape the dark bunker!",
+    "genre": "Shooter",
+    "id": "911794",
+    "link": "https://gamesbybamsall.itch.io/into-the-bunker",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTQ1MzkucG5n/315x250%23c/DG0tBR.png",
+    "title": "Into The Bunker",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "The",
+      "Bunker"
+    ]
+  },
+  {
+    "author": "RZaga",
+    "description": "Submission to NOKIA 3310 JAM 3",
+    "genre": "Platformer",
+    "id": "911885",
+    "link": "https://rzaga.itch.io/platform-switching-square",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTQ5NDUucG5n/315x250%23c/IaGzbE.png",
+    "title": "Platform Switching Square",
+    "video": null,
+    "scrapeWords": [
+      "Platform",
+      "Switching",
+      "Square"
     ]
   },
   {
