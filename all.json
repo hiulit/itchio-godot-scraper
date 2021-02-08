@@ -45084,26 +45084,6 @@
     ]
   },
   {
-    "author": "diquiros",
-    "description": null,
-    "genre": "Platformer",
-    "id": "530221",
-    "link": "https://diquiros.itch.io/truth-of-blood-woods",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI3NTQzNDEucG5n/315x250%23c/MFinZc.png",
-    "title": "Truth of Blood Woods",
-    "video": null,
-    "scrapeWords": [
-      "Truth",
-      "of",
-      "Blood",
-      "Woods"
-    ]
-  },
-  {
     "author": "Vicious Robot Rodent",
     "description": "Sci-fi hell-horror roguelike on the Jupiter moon",
     "genre": "Action",
@@ -60827,7 +60807,7 @@
     "description": null,
     "genre": "Platformer",
     "id": "626512",
-    "link": "https://sheeplipgame.itch.io/my-bricks-are-reds",
+    "link": "https://sheeplip.itch.io/my-bricks-are-reds",
     "platforms": [
       "Windows"
     ],
@@ -63832,11 +63812,11 @@
     ]
   },
   {
-    "author": "RETE AV",
+    "author": "RETE AV STUDIO",
     "description": "Can you go this way?",
     "genre": "Adventure",
     "id": "643198",
-    "link": "https://rete-av.itch.io/way",
+    "link": "https://rete-av-studio.itch.io/way",
     "platforms": [
       "Windows",
       "Linux"
@@ -90212,7 +90192,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUxMjQyNzIucG5n/315x250%23c/6MLLBU.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxNjEzOTYucG5n/315x250%23c/L12TCh.png",
     "title": "Rope Cow",
     "video": null,
     "scrapeWords": [
@@ -102109,11 +102089,11 @@
     ]
   },
   {
-    "author": "Olivia",
+    "author": "Wisk",
     "description": "this was a game submitted to bag jam 2 based on the theme gravity",
     "genre": "Platformer",
     "id": "836721",
-    "link": "https://olivia-summers.itch.io/gravity-scale",
+    "link": "https://wisksoul.itch.io/gravity-scale",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2OTAxMDEucG5n/315x250%23c/CwWuZ1.png",
     "title": "Gravity Scale",
@@ -105915,6 +105895,21 @@
     ]
   },
   {
+    "author": "TMikirog",
+    "description": "Wind-based 1v1 aim and shoot action!",
+    "genre": "Strategy",
+    "id": "861882",
+    "link": "https://tmikirog.itch.io/cannons",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDA3MDMucG5n/315x250%23c/G1LLmj.png",
+    "title": "Backyard Cannons",
+    "video": null,
+    "scrapeWords": [
+      "Backyard",
+      "Cannons"
+    ]
+  },
+  {
     "author": "pmarkee",
     "description": "A little memory based game about catching eggs. Made for Godot Wild Jam #28",
     "genre": null,
@@ -106737,6 +106732,7 @@
     "link": "https://brusi.itch.io/matchoff",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MTk5NDMucG5n/315x250%23c/eajcNu.png",
@@ -110157,14 +110153,14 @@
     "description": "Escape, 90 degrees at a time.",
     "genre": "Action",
     "id": "890728",
-    "link": "https://jamdog.itch.io/times2-demo",
+    "link": "https://jamdog.itch.io/times2",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMjUxMzAucG5n/315x250%23c/HWda65.png",
-    "title": "Times^2 Demo",
+    "title": "Times^2",
     "video": null,
     "scrapeWords": [
       "Times^2"
@@ -110555,6 +110551,22 @@
     "scrapeWords": [
       "Broken",
       "Escape"
+    ]
+  },
+  {
+    "author": "StudiOwens",
+    "description": "CBJAM 2021 Jan Everything is Broken",
+    "genre": "Strategy",
+    "id": "893976",
+    "link": "https://studiowens.itch.io/cbjam-2021-01-broken-tower-defense",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUwNDU1MzkucG5n/315x250%23c/8yJ5bv.png",
+    "title": "Broken Tower Defense",
+    "video": null,
+    "scrapeWords": [
+      "Broken",
+      "Tower",
+      "Defense"
     ]
   },
   {
@@ -112553,6 +112565,23 @@
     ]
   },
   {
+    "author": "ApprenticeGC",
+    "description": "For Nokia 3310 Game Jam 03",
+    "genre": "Survival",
+    "id": "906314",
+    "link": "https://apprenticegc.itch.io/nokia3310-jam03",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTQ3MTYucG5n/315x250%23c/vnCV2e.png",
+    "title": "Tower - Side by Side",
+    "video": null,
+    "scrapeWords": [
+      "Tower",
+      "Side",
+      "by",
+      "Side"
+    ]
+  },
+  {
     "author": "Winged",
     "description": "Fangame based on Super Hexagon",
     "genre": "Action",
@@ -112589,6 +112618,20 @@
       "of",
       "the",
       "seasons"
+    ]
+  },
+  {
+    "author": "Imogia Games",
+    "description": "A short and simple 2d platformer, but with cute 1bit graphics !",
+    "genre": "Platformer",
+    "id": "906957",
+    "link": "https://imogiagames.itch.io/moonie",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNjE3NDUuZ2lm/315x250%23cm/JLvbEX.gif",
+    "title": "Moonie",
+    "video": "https://img.itch.zone/aW1nLzUxNjE3NDUuZ2lm/original/w%2Bj0L7.gif",
+    "scrapeWords": [
+      "Moonie"
     ]
   },
   {
@@ -112635,7 +112678,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUxMzY5NTAucG5n/315x250%23c/OTAwjA.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxNTkwNjUucG5n/315x250%23c/vtucRI.png",
     "title": "3D MAZE MONSTER [Nokia 3310 Jam]",
     "video": null,
     "scrapeWords": [
@@ -112646,6 +112689,21 @@
       "[Nokia",
       "3310",
       "Jam]"
+    ]
+  },
+  {
+    "author": "kamaleon70",
+    "description": "Platform with limitations of legacy Nokia 3310",
+    "genre": "Platformer",
+    "id": "907470",
+    "link": "https://kamaleon70.itch.io/3310-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNDc5NzAucG5n/315x250%23c/XTwEzy.png",
+    "title": "3310 Adventure",
+    "video": null,
+    "scrapeWords": [
+      "3310",
+      "Adventure"
     ]
   },
   {
@@ -112991,13 +113049,61 @@
     "genre": "Action",
     "id": "910986",
     "link": "https://albertvalo.itch.io/quadsplosion-madness",
-    "platforms": null,
+    "platforms": [
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUxNTI0NzUuZ2lm/315x250%23cm/jk8r7U.gif",
     "title": "Quadsplosion Madness",
     "video": "https://img.itch.zone/aW1nLzUxNTI0NzUuZ2lm/original/2nCJf%2B.gif",
     "scrapeWords": [
       "Quadsplosion",
       "Madness"
+    ]
+  },
+  {
+    "author": "dunkelgrau",
+    "description": "Plattformer where you control gravity.",
+    "genre": "Platformer",
+    "id": "911011",
+    "link": "https://dunkelgrau.itch.io/graviton",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTY5ODgucG5n/315x250%23c/Tf0MJ7.png",
+    "title": "Graviton",
+    "video": null,
+    "scrapeWords": [
+      "Graviton"
+    ]
+  },
+  {
+    "author": "Nico",
+    "description": null,
+    "genre": null,
+    "id": "911176",
+    "link": "https://nico-entity.itch.io/the-power-of-martial-arts",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTc5ODYucG5n/315x250%23c/QQ0EHF.png",
+    "title": "Power of Martial Arts",
+    "video": null,
+    "scrapeWords": [
+      "Power",
+      "of",
+      "Martial",
+      "Arts"
+    ]
+  },
+  {
+    "author": "Dr. Tete",
+    "description": "Puzzle (?) game involving batteries and colors.",
+    "genre": "Puzzle",
+    "id": "911288",
+    "link": "https://drtete.itch.io/battery-color",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTk5NjIucG5n/315x250%23c/tVIVsB.png",
+    "title": "Battery Color",
+    "video": null,
+    "scrapeWords": [
+      "Battery",
+      "Color"
     ]
   },
   {
@@ -113016,6 +113122,20 @@
       "the",
       "storm",
       "wind"
+    ]
+  },
+  {
+    "author": "Kiel97",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "911569",
+    "link": "https://kiel97.itch.io/piratemind",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTI3ODUucG5n/315x250%23c/cotQ9k.png",
+    "title": "Piratemind",
+    "video": null,
+    "scrapeWords": [
+      "Piratemind"
     ]
   },
   {
@@ -113050,6 +113170,314 @@
       "Platform",
       "Switching",
       "Square"
+    ]
+  },
+  {
+    "author": "Steve Smith",
+    "description": "Alien 8 recreated in 3D",
+    "genre": "Puzzle",
+    "id": "911989",
+    "link": "https://stephensmith.itch.io/alien8-3d",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTU1NTgucG5n/315x250%23c/exww0y.png",
+    "title": "Alien8 3D",
+    "video": null,
+    "scrapeWords": [
+      "Alien8",
+      "3",
+      "D"
+    ]
+  },
+  {
+    "author": "rakun",
+    "description": null,
+    "genre": "Action",
+    "id": "912018",
+    "link": "https://rakun.itch.io/omega-altro",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTU0NDMucG5n/315x250%23c/%2FppCPW.png",
+    "title": "Omega-Altro",
+    "video": null,
+    "scrapeWords": [
+      "Omega-Altro"
+    ]
+  },
+  {
+    "author": "Uneven Prankster",
+    "description": "Solve your way out of the island in this tiny Grow-ON jam game!",
+    "genre": "Adventure",
+    "id": "912152",
+    "link": "https://unevenprankster.itch.io/practical-tropics",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTY2MzIucG5n/315x250%23c/YFZU1v.png",
+    "title": "Practical Tropics",
+    "video": null,
+    "scrapeWords": [
+      "Practical",
+      "Tropics"
+    ]
+  },
+  {
+    "author": "300g curry rice",
+    "description": "Only got 5 minutes? So does Marisa! Run wild in an environment with tons of destructibles and collectibles.",
+    "genre": "Action",
+    "id": "912206",
+    "link": "https://300gcurryrice.itch.io/marisa",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTY4ODcucG5n/315x250%23c/5FWLA5.png",
+    "title": "Marisa Breaks the Bank",
+    "video": null,
+    "scrapeWords": [
+      "Marisa",
+      "Breaks",
+      "the",
+      "Bank"
+    ]
+  },
+  {
+    "author": "Michell Stuttgart",
+    "description": "Game made to Nokia3310 GameJam",
+    "genre": "Survival",
+    "id": "912275",
+    "link": "https://mstuttgart.itch.io/hostile-terraqueo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTcxNDUucG5n/315x250%23c/3T0yqS.png",
+    "title": "Hostile Terraqueo",
+    "video": null,
+    "scrapeWords": [
+      "Hostile",
+      "Terraqueo"
+    ]
+  },
+  {
+    "author": "jeff",
+    "description": "Resist the curse of lycanthropy by remembering your family",
+    "genre": "Puzzle",
+    "id": "912390",
+    "link": "https://hahaitsjeff.itch.io/keep-them-safe",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTc2OTEucG5n/315x250%23c/EEgHI7.png",
+    "title": "Keep Them Safe",
+    "video": null,
+    "scrapeWords": [
+      "Keep",
+      "Them",
+      "Safe"
+    ]
+  },
+  {
+    "author": "futur_null",
+    "description": "1997's premier faux-Nokia cyberpunk puzzle-platforming action-adventure.",
+    "genre": "Platformer",
+    "id": "912449",
+    "link": "https://futur-null.itch.io/cyberpop-97",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTgyNjAuZ2lm/315x250%23cm/YTwWmb.gif",
+    "title": "cyberpop_97",
+    "video": "https://img.itch.zone/aW1nLzUxNTgyNjAuZ2lm/original/luylcw.gif",
+    "scrapeWords": [
+      "cyberpop_97"
+    ]
+  },
+  {
+    "author": "create2019",
+    "description": "The road less travelled? What about the walls?",
+    "genre": "Action",
+    "id": "912463",
+    "link": "https://create2019.itch.io/seiga-kakus-wicked-wall-zips",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTgxNzYucG5n/315x250%23c/nmkQzW.png",
+    "title": "Seiga Kaku's Wicked Wall-Zips",
+    "video": null,
+    "scrapeWords": [
+      "Seiga",
+      "Kakus",
+      "Wicked",
+      "Wall-Zips"
+    ]
+  },
+  {
+    "author": "sectornotfound",
+    "description": "Escape the Dungeon and avoid the Ghost!",
+    "genre": null,
+    "id": "912550",
+    "link": "https://sectornotfound.itch.io/castle-xxxiii",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTg3ODQucG5n/315x250%23c/3GXvYC.png",
+    "title": "Castle XXXIII",
+    "video": null,
+    "scrapeWords": [
+      "Castle",
+      "XXXIII"
+    ]
+  },
+  {
+    "author": "MikeSundaysProgrammer",
+    "description": "A game where you are constantly changing between tons of powers to recover the lost totem from the dinossaurs",
+    "genre": "Adventure",
+    "id": "912615",
+    "link": "https://mikesundaysprogrammer.itch.io/the-mystery-of-power-space",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTkyOTYucG5n/315x250%23c/kmqrmb.png",
+    "title": "The Mystery of Power-Time",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Mystery",
+      "of",
+      "Power-Time"
+    ]
+  },
+  {
+    "author": "🥕 Robbert",
+    "description": "Defend The Machine From Evil Slimes",
+    "genre": "Survival",
+    "id": "912663",
+    "link": "https://robbertstevens.itch.io/dave-and-the-machine",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTk1MzkucG5n/315x250%23c/Q70DVR.png",
+    "title": "Dave & The Machine",
+    "video": null,
+    "scrapeWords": [
+      "Dave",
+      "The",
+      "Machine"
+    ]
+  },
+  {
+    "author": "AcheGames",
+    "description": "This is a Bean machine game where the player needs to match the dropping ball color to the color at the bottom.",
+    "genre": "Simulation",
+    "id": "912683",
+    "link": "https://achegames.itch.io/color-match",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTk1NzIuanBn/315x250%23c/iIaPil.jpg",
+    "title": "Color Match",
+    "video": null,
+    "scrapeWords": [
+      "Color",
+      "Match"
+    ]
+  },
+  {
+    "author": "TaliOS",
+    "description": "Fast physics based platformer. Flick your way to victory as fast as possible!",
+    "genre": "Platformer",
+    "id": "912737",
+    "link": "https://talios.itch.io/thunderball",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjAyOTAuZ2lm/315x250%23cm/x016DH.gif",
+    "title": "THUNDERBALL",
+    "video": "https://img.itch.zone/aW1nLzUxNjAyOTAuZ2lm/original/XjbjTF.gif",
+    "scrapeWords": [
+      "THUNDERBALL"
+    ]
+  },
+  {
+    "author": "Malgios",
+    "description": null,
+    "genre": "Action",
+    "id": "912781",
+    "link": "https://malgios.itch.io/projectpower",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjAwNjMucG5n/315x250%23c/kbv0R8.png",
+    "title": "Project Power",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "Power"
+    ]
+  },
+  {
+    "author": "GV2",
+    "description": "A platforming circle is trying to avoid them spikes. Kinda hard.",
+    "genre": "Platformer",
+    "id": "912830",
+    "link": "https://gv256.itch.io/rolling-through-the-city",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjAyNDIucG5n/315x250%23c/qC7rGU.png",
+    "title": "Rolling Through the City (but it's not a city)",
+    "video": null,
+    "scrapeWords": [
+      "Rolling",
+      "Through",
+      "the",
+      "City",
+      "but",
+      "its",
+      "not",
+      "a",
+      "city"
+    ]
+  },
+  {
+    "author": "Spidd",
+    "description": "Simple tower defense game made for Mini Jam 73. The theme was power and the limitation was to use only 5 colors.",
+    "genre": null,
+    "id": "912884",
+    "link": "https://spidd.itch.io/twenty",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjA2MjIucG5n/315x250%23c/4Z4NiF.png",
+    "title": "Twenty",
+    "video": null,
+    "scrapeWords": [
+      "Twenty"
+    ]
+  },
+  {
+    "author": "MeatDragon35",
+    "description": "A little boi who's sometimes positive and sometimes negative",
+    "genre": "Puzzle",
+    "id": "913228",
+    "link": "https://nickchu35.itch.io/how-positive",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjI0MjMucG5n/315x250%23c/W04mFt.png",
+    "title": "How Positive - NOKIA 3310 Jam",
+    "video": null,
+    "scrapeWords": [
+      "How",
+      "Positive",
+      "NOKIA",
+      "3310",
+      "Jam"
     ]
   },
   {
