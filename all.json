@@ -9051,7 +9051,7 @@
     ]
   },
   {
-    "author": "Manny Gill - @GamesFromGill",
+    "author": "MannyG",
     "description": "Live by the Die, Die by the Dice.",
     "genre": "Action",
     "id": "249412",
@@ -10000,7 +10000,7 @@
     ]
   },
   {
-    "author": "Manny Gill - @GamesFromGill",
+    "author": "MannyG",
     "description": "Is Winng for Losers or is Winning Everything?",
     "genre": "Action",
     "id": "254662",
@@ -10047,7 +10047,7 @@
     ]
   },
   {
-    "author": "Manny Gill - @GamesFromGill",
+    "author": "MannyG",
     "description": null,
     "genre": "Racing",
     "id": "255290",
@@ -10064,7 +10064,7 @@
     ]
   },
   {
-    "author": "Manny Gill - @GamesFromGill",
+    "author": "MannyG",
     "description": "Endless Runner",
     "genre": "Platformer",
     "id": "255293",
@@ -10079,7 +10079,7 @@
     ]
   },
   {
-    "author": "Manny Gill - @GamesFromGill",
+    "author": "MannyG",
     "description": null,
     "genre": "Action",
     "id": "255883",
@@ -10155,7 +10155,7 @@
     ]
   },
   {
-    "author": "Manny Gill - @GamesFromGill",
+    "author": "MannyG",
     "description": null,
     "genre": "Platformer",
     "id": "257306",
@@ -31171,9 +31171,7 @@
     "genre": "Strategy",
     "id": "427103",
     "link": "https://aeternuxolus.itch.io/knights-path",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIxNjA5ODAucG5n/315x250%23c/Vb2owL.png",
     "title": "Knight's Path",
     "video": null,
@@ -40471,7 +40469,8 @@
     "id": "490507",
     "link": "https://strauji.itch.io/void-strike",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQyNDAwNTcucG5n/315x250%23c/3XBsux.png",
     "title": "VoidStrike",
@@ -45081,6 +45080,26 @@
     "video": null,
     "scrapeWords": [
       "Trees"
+    ]
+  },
+  {
+    "author": "diquiros",
+    "description": null,
+    "genre": "Platformer",
+    "id": "530221",
+    "link": "https://diquiros.itch.io/truth-of-blood-woods",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NTQzNDEucG5n/315x250%23c/MFinZc.png",
+    "title": "Truth of Blood Woods",
+    "video": null,
+    "scrapeWords": [
+      "Truth",
+      "of",
+      "Blood",
+      "Woods"
     ]
   },
   {
@@ -56293,7 +56312,7 @@
     "description": "A 2D puzzle platoformer made with Godot, swap until you die!",
     "genre": "Platformer",
     "id": "607375",
-    "link": "https://igchrono.itch.io/swap-die-repeat",
+    "link": "https://joelchrono12.itch.io/swap-die-repeat",
     "platforms": [
       "Windows"
     ],
@@ -87715,7 +87734,7 @@
     "description": "A 2D platformer where you complete levels in 12 seconds, but you can stop time!, somehow...",
     "genre": "Platformer",
     "id": "751334",
-    "link": "https://igchrono.itch.io/cliff-hanger",
+    "link": "https://joelchrono12.itch.io/cliff-hanger",
     "platforms": [
       "Windows",
       "Linux",
@@ -94059,24 +94078,6 @@
     "scrapeWords": [
       "Full",
       "Ascend"
-    ]
-  },
-  {
-    "author": "Luke I. Wilson",
-    "description": "A bicolor, scrolling shooter with a cinematic story.",
-    "genre": "Action",
-    "id": "781015",
-    "link": "https://fivemoreminix.itch.io/vrmnnvzn",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQzODI2NTgucG5n/315x250%23c/BU%2Bvqb.png",
-    "title": "VRMN NVZN",
-    "video": null,
-    "scrapeWords": [
-      "VRMN",
-      "NVZN"
     ]
   },
   {
@@ -104106,20 +104107,16 @@
     "description": null,
     "genre": "Adventure",
     "id": "849651",
-    "link": "https://teammanimani.itch.io/danganronpa-the-end-of-the-end",
+    "link": "https://teammanimani.itch.io/danganronpa-owari-no-owari",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3NjQxMTgucG5n/315x250%23c/tpyJQb.png",
-    "title": "Danganronpa: The End of The End (In Progress)",
+    "title": "Danganronpa: Owari No Owari",
     "video": null,
     "scrapeWords": [
       "Danganronpa",
-      "The",
-      "End",
-      "of",
-      "The",
-      "End",
-      "In",
-      "Progress"
+      "Owari",
+      "No",
+      "Owari"
     ]
   },
   {
@@ -109363,23 +109360,6 @@
     ]
   },
   {
-    "author": "silicon14",
-    "description": null,
-    "genre": "Simulation",
-    "id": "885933",
-    "link": "https://silicon14.itch.io/the-island-of-trees",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTQzMDkucG5n/315x250%23c/A0NGEE.png",
-    "title": "The Island of Trees",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Island",
-      "of",
-      "Trees"
-    ]
-  },
-  {
     "author": "Nipeyo",
     "description": "Balloons (workingTitle)",
     "genre": "Platformer",
@@ -110410,6 +110390,24 @@
     ]
   },
   {
+    "author": "XGN",
+    "description": "Pressing compeition, but in Godot, and Touhou?",
+    "genre": null,
+    "id": "892987",
+    "link": "https://xgn.itch.io/pressing-competition-2",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": null,
+    "title": "Pressing Competition 2",
+    "video": null,
+    "scrapeWords": [
+      "Pressing",
+      "Competition",
+      "2"
+    ]
+  },
+  {
     "author": "SOYBABY",
     "description": "Cross the bridge safely on an overcrowded hiking trail",
     "genre": "Adventure",
@@ -110965,25 +110963,6 @@
     "scrapeWords": [
       "Check",
       "Mate"
-    ]
-  },
-  {
-    "author": "Demindiro",
-    "description": "Build & destroy machines of war!",
-    "genre": null,
-    "id": "898215",
-    "link": "https://demindiro.itch.io/own-war",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUxMDMyNjUucG5n/315x250%23c/yjlWeC.png",
-    "title": "Own War",
-    "video": null,
-    "scrapeWords": [
-      "Own",
-      "War"
     ]
   },
   {
@@ -112548,6 +112527,24 @@
     ]
   },
   {
+    "author": "Overshake",
+    "description": "\"White Shadow, enquête à Holtwater\" est un point-and-click 2D.",
+    "genre": "Adventure",
+    "id": "905560",
+    "link": "https://overshake.itch.io/white-shadow",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMjgxMjgucG5n/315x250%23c/NkbZ0U.png",
+    "title": "White Shadow, enquête à Holtwater",
+    "video": null,
+    "scrapeWords": [
+      "White",
+      "Shadow",
+      "enquête",
+      "à",
+      "Holtwater"
+    ]
+  },
+  {
     "author": "Alex Stewart (Albin)",
     "description": "Fall down a deep, depressing hole. Feel anxiety as you descend deeper.",
     "genre": "Simulation",
@@ -112693,7 +112690,7 @@
   },
   {
     "author": "kamaleon70",
-    "description": "Platform with limitations of legacy Nokia 3310",
+    "description": "Platformer with limitations of legacy Nokia 3310",
     "genre": "Platformer",
     "id": "907470",
     "link": "https://kamaleon70.itch.io/3310-adventure",
@@ -112834,7 +112831,7 @@
   },
   {
     "author": "ZiZUR'S GAMES",
-    "description": null,
+    "description": "¿Aceptas el reto de llegar a ¡1000! de Score?",
     "genre": null,
     "id": "909139",
     "link": "https://zizurs-games.itch.io/sky-fruits",
@@ -112949,6 +112946,20 @@
     "scrapeWords": [
       "Evolution",
       "Duck"
+    ]
+  },
+  {
+    "author": "andersmkruke",
+    "description": "Puzzle game created for the Nokia 3310 Jam 3",
+    "genre": "Puzzle",
+    "id": "910466",
+    "link": "https://andersmkruke.itch.io/bulbs",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNDU5MjgucG5n/315x250%23c/pMtCxp.png",
+    "title": "Bulbs",
+    "video": null,
+    "scrapeWords": [
+      "Bulbs"
     ]
   },
   {
@@ -113139,6 +113150,25 @@
     ]
   },
   {
+    "author": "mhm32167",
+    "description": "Cleanse the galaxy of your endless enemy and achieve renown on the leaderboard in this solo or couch co-op shoot 'em up!",
+    "genre": "Action",
+    "id": "911644",
+    "link": "https://mhm32167.itch.io/void-warrior",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjU4NjMucG5n/315x250%23c/iv8H13.png",
+    "title": "Void Warrior",
+    "video": null,
+    "scrapeWords": [
+      "Void",
+      "Warrior"
+    ]
+  },
+  {
     "author": "gamesbybamsall",
     "description": "Kill zombies and escape the dark bunker!",
     "genre": "Shooter",
@@ -113179,7 +113209,9 @@
     "id": "911989",
     "link": "https://stephensmith.itch.io/alien8-3d",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxNTU1NTgucG5n/315x250%23c/exww0y.png",
     "title": "Alien8 3D",
@@ -113227,7 +113259,25 @@
     ]
   },
   {
-    "author": "300g curry rice",
+    "author": "Froghat Studio",
+    "description": "Our Game for the Nokia 3310 Jam",
+    "genre": "Platformer",
+    "id": "912181",
+    "link": "https://froghat-studio.itch.io/super-frog-assault",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNTY3NzYucG5n/315x250%23c/iXzVQN.png",
+    "title": "Super Frog Assault",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Frog",
+      "Assault"
+    ]
+  },
+  {
+    "author": "invelica [300g curry rice]",
     "description": "Only got 5 minutes? So does Marisa! Run wild in an environment with tons of destructibles and collectibles.",
     "genre": "Action",
     "id": "912206",
@@ -113259,6 +113309,25 @@
     "scrapeWords": [
       "Hostile",
       "Terraqueo"
+    ]
+  },
+  {
+    "author": "kintrix",
+    "description": "A nokia 3310 style puzzle platformer",
+    "genre": "Platformer",
+    "id": "912302",
+    "link": "https://kintrix.itch.io/viewshift",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjQ2MTAuZ2lm/315x250%23cm/WUgzXh.gif",
+    "title": "ViewShift",
+    "video": "https://img.itch.zone/aW1nLzUxNjQ2MTAuZ2lm/original/oaPu6W.gif",
+    "scrapeWords": [
+      "View",
+      "Shift"
     ]
   },
   {
@@ -113317,6 +113386,20 @@
       "Kakus",
       "Wicked",
       "Wall-Zips"
+    ]
+  },
+  {
+    "author": "Cirr",
+    "description": "A weird alien biopunk Grow-like puzzle",
+    "genre": "Puzzle",
+    "id": "912495",
+    "link": "https://cirr.itch.io/ovo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTgzODgucG5n/315x250%23c/5uhTkb.png",
+    "title": "ovo",
+    "video": null,
+    "scrapeWords": [
+      "ovo"
     ]
   },
   {
@@ -113478,6 +113561,85 @@
       "NOKIA",
       "3310",
       "Jam"
+    ]
+  },
+  {
+    "author": "Sunetraalex",
+    "description": "One-button one kill Samurai sword fight",
+    "genre": "Action",
+    "id": "913471",
+    "link": "https://sunetraalex.itch.io/kill-switch",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNjM4OTkucG5n/315x250%23c/YCW%2Foe.png",
+    "title": "Kill Switch",
+    "video": null,
+    "scrapeWords": [
+      "Kill",
+      "Switch"
+    ]
+  },
+  {
+    "author": "NoNotCar",
+    "description": "Solve physics puzzles with simple parts",
+    "genre": "Puzzle",
+    "id": "913498",
+    "link": "https://nonotcar.itch.io/superb-mechanism",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNjc1NjIucG5n/315x250%23c/gkK0Xq.png",
+    "title": "Superb Mechanism",
+    "video": null,
+    "scrapeWords": [
+      "Superb",
+      "Mechanism"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Crawl your way out",
+    "genre": "Puzzle",
+    "id": "913563",
+    "link": "https://jafcraze.itch.io/nanite-escape",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNjQ1NzcucG5n/315x250%23c/l5cFlT.png",
+    "title": "Nanite Escape",
+    "video": null,
+    "scrapeWords": [
+      "Nanite",
+      "Escape"
+    ]
+  },
+  {
+    "author": "COWBOMOWBO",
+    "description": "An infinite wave based shooter where you shoot slimes and upgrade yourself!",
+    "genre": "Shooter",
+    "id": "913873",
+    "link": "https://cowbomowbo.itch.io/sublime-slime-time",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNjY1MjEucG5n/315x250%23c/ylRjTK.png",
+    "title": "Sublime Slime Time",
+    "video": null,
+    "scrapeWords": [
+      "Sublime",
+      "Slime",
+      "Time"
+    ]
+  },
+  {
+    "author": "ThatLifebloodVessel",
+    "description": "this is a game i made for a small project!",
+    "genre": "Adventure",
+    "id": "913884",
+    "link": "https://thatlifebloodvessel.itch.io/a-game-with-no-name",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNjY3MzYucG5n/315x250%23c/fte4nE.png",
+    "title": "a game with no name.",
+    "video": null,
+    "scrapeWords": [
+      "a",
+      "game",
+      "with",
+      "no",
+      "name"
     ]
   },
   {
