@@ -22280,6 +22280,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38712,25 +38729,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -46006,24 +46004,6 @@
     ]
   },
   {
-    "author": "Danger Chaser",
-    "description": "Short action platformer. There's a monster infestation in the local mine, and you signed up to clear it out.",
-    "genre": "Platformer",
-    "id": "538941",
-    "link": "https://danger-chaser.itch.io/steel-and-magic",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMjY2NTIucG5n/315x250%23c/NloqXD.png",
-    "title": "Steel and Magic",
-    "video": null,
-    "scrapeWords": [
-      "Steel",
-      "and",
-      "Magic"
-    ]
-  },
-  {
     "author": "Benn Richie",
     "description": "A text-based detective game set in a fantasy setting.",
     "genre": "Interactive Fiction",
@@ -46346,7 +46326,7 @@
     ]
   },
   {
-    "author": "<Nooh_Alavi>",
+    "author": "NoohAlavi",
     "description": "How long can you survive against the zombie apocalypse?",
     "genre": "Shooter",
     "id": "540858",
@@ -47824,7 +47804,7 @@
     ]
   },
   {
-    "author": "<Nooh_Alavi>",
+    "author": "NoohAlavi",
     "description": "Battle your friends and crown one champion in Blox Fighters!",
     "genre": "Action",
     "id": "551939",
@@ -55268,7 +55248,7 @@
     ]
   },
   {
-    "author": "<Nooh_Alavi>",
+    "author": "NoohAlavi",
     "description": "An intense bullet hell game where you control an antivirus to fix a corrupted computer. Available on Windows and Linux.",
     "genre": "Shooter",
     "id": "602812",
@@ -56184,7 +56164,9 @@
     "genre": "Platformer",
     "id": "607803",
     "link": "https://ioiototm.itch.io/the-oracle",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMyMjc2NDQucG5n/315x250%23c/IeM1PE.png",
     "title": "The oracle",
     "video": null,
@@ -66113,23 +66095,6 @@
       "Holes",
       "The",
       "Game"
-    ]
-  },
-  {
-    "author": "Thermohalia",
-    "description": "A short game where the only thing that can kill you is yourself",
-    "genre": "Platformer",
-    "id": "656114",
-    "link": "https://thermohalia.itch.io/time-step",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1MjU4OTUucG5n/315x250%23c/60h4wf.png",
-    "title": "Time Step",
-    "video": null,
-    "scrapeWords": [
-      "Time",
-      "Step"
     ]
   },
   {
@@ -78845,6 +78810,24 @@
     ]
   },
   {
+    "author": "Linuxed",
+    "description": "My First Game",
+    "genre": "Shooter",
+    "id": "713798",
+    "link": "https://linuxed.itch.io/space-invader",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxMzM5OTgucG5n/315x250%23c/Mu8reY.png",
+    "title": "Space invader",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "invader"
+    ]
+  },
+  {
     "author": "HalfwayWrong Games",
     "description": "A swashbucking adventure made for the OGA Summer Jam",
     "genre": "Action",
@@ -86936,6 +86919,24 @@
     ]
   },
   {
+    "author": "Golden Wreath Games",
+    "description": "A chaotic party game for up to 4 players",
+    "genre": "Action",
+    "id": "749682",
+    "link": "https://krazykain.itch.io/hard-as-balls",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxODM5MzMucG5n/315x250%23c/SMIjSI.png",
+    "title": "Hard As Balls",
+    "video": null,
+    "scrapeWords": [
+      "Hard",
+      "As",
+      "Balls"
+    ]
+  },
+  {
     "author": "Irenburg",
     "description": "Help the ice cream before it all melts",
     "genre": "Platformer",
@@ -88165,7 +88166,7 @@
   },
   {
     "author": "Xendra",
-    "description": "The most ruthless RPG around. Abduct enemies, steal skills, create insane builds and teams.",
+    "description": "The juiciest turn based combat you've seen. Ever.",
     "genre": "Strategy",
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
@@ -92104,6 +92105,24 @@
     ]
   },
   {
+    "author": "Golden Wreath Games",
+    "description": "A competitive horde mode where 2 players try to outlive the other",
+    "genre": "Action",
+    "id": "774850",
+    "link": "https://krazykain.itch.io/returntosender",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNzgxMDkuanBn/315x250%23c/ECjXds.jpg",
+    "title": "Return To Sender",
+    "video": null,
+    "scrapeWords": [
+      "Return",
+      "To",
+      "Sender"
+    ]
+  },
+  {
     "author": "qpai",
     "description": null,
     "genre": "Platformer",
@@ -92619,7 +92638,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0OTE1MjgucG5n/315x250%23c/B7ms63.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxOTI5NzIucG5n/315x250%23c/v7LrvC.png",
     "title": "Ace of Rope",
     "video": null,
     "scrapeWords": [
@@ -100647,11 +100666,11 @@
     ]
   },
   {
-    "author": "Sociopathix",
+    "author": "Shortstack Games",
     "description": "Squeak your way to freedom! A puzzle-platformer",
     "genre": "Platformer",
     "id": "828477",
-    "link": "https://sociopathix.itch.io/squeaky-factory",
+    "link": "https://shortstack-games.itch.io/squeaky-factory",
     "platforms": [
       "Windows"
     ],
@@ -108842,6 +108861,25 @@
     ]
   },
   {
+    "author": "jmbjr",
+    "description": "Tour the kingdom as an apprentice magician with bunnies as your assistants. (post-jam v2.0 is Live!)",
+    "genre": null,
+    "id": "884554",
+    "link": "https://jmbjr.itch.io/hare-magic",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTkwNjQucG5n/315x250%23c/C30Cuj.png",
+    "title": "Hare Magic",
+    "video": null,
+    "scrapeWords": [
+      "Hare",
+      "Magic"
+    ]
+  },
+  {
     "author": "ARez1",
     "description": "A short game based around being the shepherd dog and protecting the herd from wolves.",
     "genre": "Adventure",
@@ -110942,10 +110980,7 @@
     "genre": "Racing",
     "id": "899804",
     "link": "https://danza4.itch.io/slowest-racing-league",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwNzkyNDMucG5n/315x250%23c/d4J2vF.png",
     "title": "Slowest Racing League",
     "video": null,
@@ -111043,6 +111078,20 @@
     "scrapeWords": [
       "Life",
       "Sacrificer"
+    ]
+  },
+  {
+    "author": "carzo",
+    "description": "Drawn rectangle and destroy Evil circles! try to save TANGOLO",
+    "genre": "Action",
+    "id": "900162",
+    "link": "https://carzo.itch.io/tangolo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTY4NzUucG5n/315x250%23c/W%2FiJF7.png",
+    "title": "Tangolo",
+    "video": null,
+    "scrapeWords": [
+      "Tangolo"
     ]
   },
   {
@@ -112888,6 +112937,23 @@
     ]
   },
   {
+    "author": "Hai Dang",
+    "description": "Together with Dimmily review the memories in the Final World and take her to Heaven.",
+    "genre": "Adventure",
+    "id": "910954",
+    "link": "https://hai-dang.itch.io/after-all",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNDg5OTIucG5n/315x250%23c/zQ5sY7.png",
+    "title": "After All",
+    "video": null,
+    "scrapeWords": [
+      "After",
+      "All"
+    ]
+  },
+  {
     "author": "Albert Valo",
     "description": "Explosive Quads in your computer",
     "genre": "Action",
@@ -113483,6 +113549,21 @@
     ]
   },
   {
+    "author": "MasterWolves1",
+    "description": null,
+    "genre": "Platformer",
+    "id": "913469",
+    "link": "https://masterwolves1.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxOTEwNDEucG5n/315x250%23c/nxXJ0L.png",
+    "title": "lights out",
+    "video": null,
+    "scrapeWords": [
+      "lights",
+      "out"
+    ]
+  },
+  {
     "author": "Sunetraalex",
     "description": "One-button one kill Samurai sword fight",
     "genre": "Action",
@@ -113525,6 +113606,25 @@
     "scrapeWords": [
       "Nanite",
       "Escape"
+    ]
+  },
+  {
+    "author": "Rony Tama Games",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "913806",
+    "link": "https://ronytamagames.itch.io/corn-mission",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNzI5MDAucG5n/315x250%23c/XDbBsz.png",
+    "title": "Corn Mission (Beta)",
+    "video": null,
+    "scrapeWords": [
+      "Corn",
+      "Mission",
+      "Beta"
     ]
   },
   {
@@ -113701,6 +113801,24 @@
     ]
   },
   {
+    "author": "Gonsor",
+    "description": "A Horror Roguelike on a Cursed Island",
+    "genre": "Action",
+    "id": "915951",
+    "link": "https://gonsor.itch.io/ubel-island",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNzkwODYucG5n/315x250%23c/tyJ0QK.png",
+    "title": "Ubel Island",
+    "video": null,
+    "scrapeWords": [
+      "Ubel",
+      "Island"
+    ]
+  },
+  {
     "author": "enotofil",
     "description": "survival flood-filling",
     "genre": "Puzzle",
@@ -113767,6 +113885,39 @@
       "One",
       "More",
       "Thing"
+    ]
+  },
+  {
+    "author": "b._.render",
+    "description": "Click that heart, Gain those points",
+    "genre": "Simulation",
+    "id": "918147",
+    "link": "https://b-render.itch.io/heart-clicker",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxOTEzNDcucG5n/315x250%23c/tPPzo7.png",
+    "title": "Heart Clicker",
+    "video": null,
+    "scrapeWords": [
+      "Heart",
+      "Clicker"
+    ]
+  },
+  {
+    "author": "Bomasaucesays",
+    "description": "A prototype of Little Big Planet made in Godot.",
+    "genre": "Adventure",
+    "id": "918879",
+    "link": "https://directgames.itch.io/littlebiggodot",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxOTU1MTIucG5n/315x250%23c/MMYgOW.png",
+    "title": "Little Big Godot",
+    "video": null,
+    "scrapeWords": [
+      "Little",
+      "Big",
+      "Godot"
     ]
   },
   {
