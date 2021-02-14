@@ -61723,28 +61723,6 @@
     ]
   },
   {
-    "author": "ThEnigmArtist",
-    "description": "2d single/co op action rpg mini game",
-    "genre": "Survival",
-    "id": "632689",
-    "link": "https://blackboxceo.itch.io/black-box-man-down",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMzODIzMTcucG5n/315x250%23c/5D4z28.png",
-    "title": "Man Down:  2 player co op version",
-    "video": null,
-    "scrapeWords": [
-      "Man",
-      "Down",
-      "2",
-      "player",
-      "co",
-      "op",
-      "version"
-    ]
-  },
-  {
     "author": "YeahTHATchucK",
     "description": "Guide a robot through the city, blasting bugs!",
     "genre": "Action",
@@ -66098,6 +66076,23 @@
     ]
   },
   {
+    "author": "Thermohalia",
+    "description": "A short game where the only thing that can kill you is yourself",
+    "genre": "Platformer",
+    "id": "656114",
+    "link": "https://thermohalia.itch.io/time-step",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1MjU4OTUucG5n/315x250%23c/60h4wf.png",
+    "title": "Time Step",
+    "video": null,
+    "scrapeWords": [
+      "Time",
+      "Step"
+    ]
+  },
+  {
     "author": "mokarrom",
     "description": "Survive as long as you can . Good Luck",
     "genre": "Simulation",
@@ -66723,6 +66718,26 @@
       "The",
       "Elevator",
       "Game"
+    ]
+  },
+  {
+    "author": "TheNewGrant",
+    "description": "Difficult Platformer which you want to be wary to Trust.",
+    "genre": "Platformer",
+    "id": "660144",
+    "link": "https://thenewgrant.itch.io/slimes-n-spikes",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1NTIwNzMucG5n/315x250%23c/e7Sbln.png",
+    "title": "Slimes 'n Spikes",
+    "video": null,
+    "scrapeWords": [
+      "Slimes",
+      "n",
+      "Spikes"
     ]
   },
   {
@@ -82290,7 +82305,7 @@
     ]
   },
   {
-    "author": "paruthidotexe",
+    "author": "ParuthidotExE",
     "description": "Guide a father and son to safety in this pixel platformer.",
     "genre": "Puzzle",
     "id": "732823",
@@ -92638,7 +92653,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUxOTI5NzIucG5n/315x250%23c/v7LrvC.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxOTg1OTQucG5n/315x250%23c/sok6kj.png",
     "title": "Ace of Rope",
     "video": null,
     "scrapeWords": [
@@ -95382,7 +95397,8 @@
     "id": "791644",
     "link": "https://boc-dev.itch.io/tine",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NjU5MTgucG5n/315x250%23c/%2Fc5576.png",
     "title": "T.I.N.E",
@@ -108833,7 +108849,9 @@
     "genre": "Platformer",
     "id": "884210",
     "link": "https://zero2death.itch.io/jump-switch",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUxMDI1MDkucG5n/315x250%23c/LP03wa.png",
     "title": "Jump Switch",
     "video": null,
@@ -109026,7 +109044,7 @@
     "description": null,
     "genre": "Adventure",
     "id": "885497",
-    "link": "https://nico-entity.itch.io/new-city",
+    "link": "https://netmind.itch.io/new-city",
     "platforms": [
       "Windows",
       "Linux",
@@ -109883,7 +109901,7 @@
     "description": "A duck with a dream...",
     "genre": null,
     "id": "890518",
-    "link": "https://nico-entity.itch.io/gamedevs-cookies",
+    "link": "https://netmind.itch.io/gamedevs-cookies",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwNjMxMjgucG5n/315x250%23c/%2BcSxA%2B.png",
     "title": "Gamedev's Cookies",
@@ -111754,7 +111772,11 @@
     "genre": "Puzzle",
     "id": "903105",
     "link": "https://ivanvoirol.itch.io/madeleine",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUxMjc4ODQucG5n/315x250%23c/%2B4LKiR.png",
     "title": "Madeleine",
     "video": null,
@@ -112278,7 +112300,7 @@
     ]
   },
   {
-    "author": "Mel",
+    "author": "Missmelher",
     "description": "Destroy the snow monster and avenge the fallen soldiers",
     "genre": "Adventure",
     "id": "904984",
@@ -112869,9 +112891,7 @@
     "genre": "Visual Novel",
     "id": "910503",
     "link": "https://daebak.itch.io/containment",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxNDYyNzMucG5n/315x250%23c/FbPHhn.png",
     "title": "Containment",
     "video": null,
@@ -112989,7 +113009,7 @@
     "description": null,
     "genre": null,
     "id": "911176",
-    "link": "https://nico-entity.itch.io/the-power-of-martial-arts",
+    "link": "https://netmind.itch.io/the-power-of-martial-arts",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxNTc5ODYucG5n/315x250%23c/QQ0EHF.png",
     "title": "Power of Martial Arts",
@@ -113894,12 +113914,26 @@
     "id": "918147",
     "link": "https://b-render.itch.io/heart-clicker",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUxOTEzNDcucG5n/315x250%23c/tPPzo7.png",
+    "thumb": "https://img.itch.zone/aW1nLzUxOTg3NzgucG5n/315x250%23c/e6MxD%2B.png",
     "title": "Heart Clicker",
     "video": null,
     "scrapeWords": [
       "Heart",
       "Clicker"
+    ]
+  },
+  {
+    "author": "dipsyland",
+    "description": "Push and rotate the mirrors and laser and light up the gates in a sokoban like world",
+    "genre": "Puzzle",
+    "id": "918794",
+    "link": "https://dipsyland.itch.io/tentoban",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxOTc4MDkucG5n/315x250%23c/3ICTXe.png",
+    "title": "Tentoban",
+    "video": null,
+    "scrapeWords": [
+      "Tentoban"
     ]
   },
   {
@@ -113918,6 +113952,141 @@
       "Little",
       "Big",
       "Godot"
+    ]
+  },
+  {
+    "author": "Cutre Studio",
+    "description": "A simple game made with Godot 3.2.3 and C#",
+    "genre": "Adventure",
+    "id": "918918",
+    "link": "https://cutre-studio.itch.io/gotta-get-out",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxOTY2NTMucG5n/315x250%23c/pcVHFp.png",
+    "title": "Gotta get out!",
+    "video": null,
+    "scrapeWords": [
+      "Gotta",
+      "get",
+      "out"
+    ]
+  },
+  {
+    "author": "lavaduder",
+    "description": null,
+    "genre": "Sports",
+    "id": "919237",
+    "link": "https://lavaduder.itch.io/samba-do-brazil-2",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxOTc1OTIucG5n/315x250%23c/owYK4Z.png",
+    "title": "Samba Do Brazil 2",
+    "video": null,
+    "scrapeWords": [
+      "Samba",
+      "Do",
+      "Brazil",
+      "2"
+    ]
+  },
+  {
+    "author": "Cyrus Yip",
+    "description": "Slide to victory!",
+    "genre": "Platformer",
+    "id": "919418",
+    "link": "https://realcyguy.itch.io/sliding-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxOTk1NTEucG5n/315x250%23c/4%2FsSRo.png",
+    "title": "Sliding Game",
+    "video": null,
+    "scrapeWords": [
+      "Sliding",
+      "Game"
+    ]
+  },
+  {
+    "author": "rojafox",
+    "description": "Reach the objective with audio and keyboard only!",
+    "genre": "Platformer",
+    "id": "919473",
+    "link": "https://rojafox.itch.io/platformer-less-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxOTkxNzUucG5n/315x250%23c/Ebo6Ny.png",
+    "title": "Platformer-less Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Platformer-less",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "diegodiazdg",
+    "description": "Something Terrifying Happens On The Water Planet In The Solar System, Will The Ship E124 Resist?",
+    "genre": "Action",
+    "id": "919499",
+    "link": "https://diegodiazdg.itch.io/last-hope-ship1",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxOTkzNjcucG5n/315x250%23c/PPoa3v.png",
+    "title": "Last Hope Ship",
+    "video": null,
+    "scrapeWords": [
+      "Last",
+      "Hope",
+      "Ship"
+    ]
+  },
+  {
+    "author": "Caresle",
+    "description": null,
+    "genre": null,
+    "id": "919662",
+    "link": "https://caresle.itch.io/godotban",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMDA0MTcucG5n/315x250%23c/u%2FeK3C.png",
+    "title": "GodotBan",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Ban"
+    ]
+  },
+  {
+    "author": "BioErrorLog",
+    "description": "Avoid from \"Boids\" - Artificial Life which simulates the flocking behaviour.",
+    "genre": "Survival",
+    "id": "919664",
+    "link": "https://bioerrorlog.itch.io/dodge-the-boids",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMDE0NTgucG5n/315x250%23c/yQtpGH.png",
+    "title": "Dodge the Boids",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "the",
+      "Boids"
+    ]
+  },
+  {
+    "author": "prock-fife",
+    "description": "Weekend family game jam project",
+    "genre": "Platformer",
+    "id": "919725",
+    "link": "https://prock-fife.itch.io/jam-runner",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDA3MzAucG5n/315x250%23c/LjeuK6.png",
+    "title": "Jam Runner",
+    "video": null,
+    "scrapeWords": [
+      "Jam",
+      "Runner"
     ]
   },
   {
