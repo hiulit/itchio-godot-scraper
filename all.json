@@ -22280,23 +22280,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -30343,6 +30326,26 @@
     "scrapeWords": [
       "Megu",
       "Pong"
+    ]
+  },
+  {
+    "author": "AikonCWD",
+    "description": "John Conway's Game of Life implemented in Godot",
+    "genre": "Simulation",
+    "id": "423326",
+    "link": "https://aikoncwd.itch.io/game-of-life",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MjAzOTYucG5n/315x250%23c/76IXY8.png",
+    "title": "Game of Life",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "of",
+      "Life"
     ]
   },
   {
@@ -38726,6 +38729,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -52409,7 +52431,7 @@
   },
   {
     "author": "Ithronyar",
-    "description": "A small aerial combat game.",
+    "description": "Aerial combat in a hostile world",
     "genre": "Action",
     "id": "585226",
     "link": "https://ithronyar.itch.io/forsaken-airspace",
@@ -56093,7 +56115,8 @@
     "id": "607375",
     "link": "https://joelchrono12.itch.io/swap-die-repeat",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMyMjQzOTYucG5n/315x250%23c/nNSPgm.png",
     "title": "Swap Die Repeat!",
@@ -56532,11 +56555,11 @@
     ]
   },
   {
-    "author": "Branko 3000",
+    "author": "ACIDATM",
     "description": "An explosive tower defense arcade experience",
     "genre": "Action",
     "id": "609765",
-    "link": "https://branko3000.itch.io/bomberhase",
+    "link": "https://acidatm.itch.io/bomberhase",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMyNDA0NDMucG5n/315x250%23c/FPTiUI.png",
     "title": "Bomberhase",
@@ -64844,11 +64867,11 @@
     ]
   },
   {
-    "author": "tommyunreal",
+    "author": "g82game",
     "description": "adventure storydriven fantasy simulation",
     "genre": "Adventure",
     "id": "649072",
-    "link": "https://tommyunreal.itch.io/alchemy-the-weapon",
+    "link": "https://g82game.itch.io/alchemy-the-weapon",
     "platforms": [
       "Windows",
       "Linux"
@@ -70750,11 +70773,11 @@
     ]
   },
   {
-    "author": "tommyunreal",
+    "author": "g82game",
     "description": "3D puzzle platformer where you control two heroes",
     "genre": "Puzzle",
     "id": "682881",
-    "link": "https://tommyunreal.itch.io/two-blokes",
+    "link": "https://g82game.itch.io/two-blokes",
     "platforms": [
       "Windows",
       "Linux"
@@ -74576,7 +74599,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MjI2OTEucG5n/315x250%23c/6DaTA9.png",
+    "thumb": "https://img.itch.zone/aW1nLzUyMDY1NDQucG5n/315x250%23c/QJG0iE.png",
     "title": "Just Don't Die: Jam Edition",
     "video": null,
     "scrapeWords": [
@@ -79587,24 +79610,6 @@
     "scrapeWords": [
       "Dino",
       "Jump"
-    ]
-  },
-  {
-    "author": "Fern&Dez",
-    "description": null,
-    "genre": null,
-    "id": "718805",
-    "link": "https://ferndez.itch.io/game-of-life",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5ODUwOTgucG5n/315x250%23c/R9%2BJ00.png",
-    "title": "Game of Life",
-    "video": null,
-    "scrapeWords": [
-      "Game",
-      "of",
-      "Life"
     ]
   },
   {
@@ -84802,11 +84807,11 @@
     ]
   },
   {
-    "author": "tommyunreal",
+    "author": "g82game",
     "description": "antique tycoon / simulation game made for miz jam 1",
     "genre": "Simulation",
     "id": "738515",
-    "link": "https://tommyunreal.itch.io/squeak-greek-antique",
+    "link": "https://g82game.itch.io/squeak-greek-antique",
     "platforms": [
       "Windows",
       "Linux"
@@ -92663,7 +92668,7 @@
     ]
   },
   {
-    "author": "🥕 Robbert",
+    "author": "Robbert",
     "description": null,
     "genre": "Adventure",
     "id": "777327",
@@ -98955,11 +98960,11 @@
     ]
   },
   {
-    "author": "Mystery Studio",
+    "author": "Malloc Studio",
     "description": "Contain and Destroy infected areas by planting bombs",
     "genre": "Strategy",
     "id": "815540",
-    "link": "https://mysteryheart.itch.io/infection-control",
+    "link": "https://mallocstudio.itch.io/infection-control",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1NzI1NjIucG5n/315x250%23c/I4BYRF.png",
     "title": "Infection Control - Jam edition",
@@ -101919,7 +101924,7 @@
     ]
   },
   {
-    "author": "🥕 Robbert",
+    "author": "Robbert",
     "description": null,
     "genre": "Action",
     "id": "836969",
@@ -103553,7 +103558,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3NDMxMDQucG5n/315x250%23c/B%2FwgED.png",
+    "thumb": "https://img.itch.zone/aW1nLzUyMDM0ODIucG5n/315x250%23c/oMoclq.png",
     "title": "Megabat",
     "video": null,
     "scrapeWords": [
@@ -103905,16 +103910,14 @@
     "description": null,
     "genre": "Adventure",
     "id": "849651",
-    "link": "https://teammanimani.itch.io/danganronpa-owari-no-owari",
+    "link": "https://teammanimani.itch.io/danganronpa-kaizen",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3NjQxMTgucG5n/315x250%23c/tpyJQb.png",
-    "title": "Danganronpa: Owari No Owari",
+    "thumb": "https://img.itch.zone/aW1nLzUyMDc3NDgucG5n/315x250%23c/98znKn.png",
+    "title": "Danganronpa Kaizen",
     "video": null,
     "scrapeWords": [
       "Danganronpa",
-      "Owari",
-      "No",
-      "Owari"
+      "Kaizen"
     ]
   },
   {
@@ -109572,13 +109575,13 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwMDYyMTIucG5n/315x250%23c/lucjC2.png",
-    "title": "Brew and Stew [DEMO]",
+    "title": "Brew and Stew v0.2.1",
     "video": null,
     "scrapeWords": [
       "Brew",
       "and",
       "Stew",
-      "[]"
+      "v021"
     ]
   },
   {
@@ -113391,7 +113394,7 @@
     ]
   },
   {
-    "author": "🥕 Robbert",
+    "author": "Robbert",
     "description": "Defend The Machine From Evil Slimes",
     "genre": "Survival",
     "id": "912663",
@@ -113937,6 +113940,21 @@
     ]
   },
   {
+    "author": "doruk",
+    "description": "endless jumper",
+    "genre": "Platformer",
+    "id": "918831",
+    "link": "https://lostfolders.itch.io/endless-pipe",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxOTg3NjEucG5n/315x250%23c/Z%2By9TD.png",
+    "title": "pipe(mct #2)",
+    "video": null,
+    "scrapeWords": [
+      "pipemct",
+      "2"
+    ]
+  },
+  {
     "author": "Bomasaucesays",
     "description": "A prototype of Little Big Planet made in Godot.",
     "genre": "Adventure",
@@ -113970,6 +113988,25 @@
       "Gotta",
       "get",
       "out"
+    ]
+  },
+  {
+    "author": "RSB2000",
+    "description": "From Beneath the Sands",
+    "genre": "Shooter",
+    "id": "918969",
+    "link": "https://rsb2000.itch.io/subsurface",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxOTYwMzUucG5n/315x250%23c/QJbhRh.png",
+    "title": "Subsurface: Expedition",
+    "video": null,
+    "scrapeWords": [
+      "Subsurface",
+      "Expedition"
     ]
   },
   {
@@ -114025,10 +114062,10 @@
   },
   {
     "author": "diegodiazdg",
-    "description": "Something Terrifying Happens On The Water Planet In The Solar System, Will The Ship E124 Resist?",
+    "description": "You Are The Last Hope",
     "genre": "Action",
     "id": "919499",
-    "link": "https://diegodiazdg.itch.io/last-hope-ship1",
+    "link": "https://diegodiazdg.itch.io/last-hope-ship",
     "platforms": [
       "Windows"
     ],
@@ -114039,6 +114076,22 @@
       "Last",
       "Hope",
       "Ship"
+    ]
+  },
+  {
+    "author": "MudLobster",
+    "description": null,
+    "genre": "Platformer",
+    "id": "919585",
+    "link": "https://mudlobster.itch.io/tale-of-bill",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMDA0MDEucG5n/315x250%23c/E0ldDA.png",
+    "title": "Tale of Bill",
+    "video": null,
+    "scrapeWords": [
+      "Tale",
+      "of",
+      "Bill"
     ]
   },
   {
@@ -114087,6 +114140,167 @@
     "scrapeWords": [
       "Jam",
       "Runner"
+    ]
+  },
+  {
+    "author": "David KBD",
+    "description": "Puzzle and Music",
+    "genre": "Puzzle",
+    "id": "919924",
+    "link": "https://davidkbd.itch.io/hexapuppies",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDYxMDkucG5n/315x250%23c/iotynM.png",
+    "title": "HexaPuppies",
+    "video": null,
+    "scrapeWords": [
+      "Hexa",
+      "Puppies"
+    ]
+  },
+  {
+    "author": "Mateu S",
+    "description": "A pixeleted space roguelike",
+    "genre": "Shooter",
+    "id": "920129",
+    "link": "https://mateu-s.itch.io/pixspace",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDMwMjQucG5n/315x250%23c/8I%2FmDd.png",
+    "title": "Pixspace",
+    "video": null,
+    "scrapeWords": [
+      "Pixspace"
+    ]
+  },
+  {
+    "author": "dasrow",
+    "description": "trash,bot,godot",
+    "genre": "Puzzle",
+    "id": "920168",
+    "link": "https://dasrow.itch.io/trash-bot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDYzNjYucG5n/315x250%23c/x1UCPE.png",
+    "title": "Trash Bot",
+    "video": null,
+    "scrapeWords": [
+      "Trash",
+      "Bot"
+    ]
+  },
+  {
+    "author": "Frozander",
+    "description": null,
+    "genre": "Platformer",
+    "id": "920207",
+    "link": "https://frozander.itch.io/the-cat-of-hagia-sophia",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDM0NDIucG5n/315x250%23c/MZ%2F0v8.png",
+    "title": "The Cat of Hagia Sophia",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Cat",
+      "of",
+      "Hagia",
+      "Sophia"
+    ]
+  },
+  {
+    "author": "Sander Vanhove",
+    "description": "A top down minimalist heart mending game.",
+    "genre": "Adventure",
+    "id": "920560",
+    "link": "https://sandervanhove.itch.io/mending-a-heart",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMDU0MzQucG5n/315x250%23c/ucHK%2Bq.png",
+    "title": "Mending a Heart (Godot Wild Jam 30)",
+    "video": null,
+    "scrapeWords": [
+      "Mending",
+      "a",
+      "Heart",
+      "Godot",
+      "Wild",
+      "Jam",
+      "30"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Kill the messengers",
+    "genre": "Strategy",
+    "id": "920627",
+    "link": "https://jafcraze.itch.io/drones-td",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMDU4MjgucG5n/315x250%23c/lRG%2BKC.png",
+    "title": "Drones TD",
+    "video": null,
+    "scrapeWords": [
+      "Drones",
+      "TD"
+    ]
+  },
+  {
+    "author": "lukewarmtarsier",
+    "description": null,
+    "genre": "Platformer",
+    "id": "920652",
+    "link": "https://lukewarmtarsier.itch.io/trash-king",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMDYwNzMucG5n/315x250%23c/ZAEiZn.png",
+    "title": "Trash King",
+    "video": null,
+    "scrapeWords": [
+      "Trash",
+      "King"
+    ]
+  },
+  {
+    "author": "Okttah",
+    "description": "Transdimensional Package Delivery",
+    "genre": "Shooter",
+    "id": "920855",
+    "link": "https://okttah.itch.io/kipos-otherworldly-delivery",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDY4OTYucG5n/315x250%23c/8wfX%2FR.png",
+    "title": "Kipo's Otherworldly Delivery",
+    "video": null,
+    "scrapeWords": [
+      "Kipos",
+      "Otherworldly",
+      "Delivery"
+    ]
+  },
+  {
+    "author": "GreenDjango",
+    "description": "Play in your browser. You're a monkey.",
+    "genre": "Platformer",
+    "id": "920893",
+    "link": "https://greendjango.itch.io/monkiki",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDY5MzcucG5n/315x250%23c/%2BCgsDe.png",
+    "title": "Monkiki",
+    "video": null,
+    "scrapeWords": [
+      "Monkiki"
     ]
   },
   {
