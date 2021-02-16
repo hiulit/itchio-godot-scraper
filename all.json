@@ -29360,6 +29360,21 @@
     ]
   },
   {
+    "author": "Stormplay Games",
+    "description": "A 90s-styled shooter set in a universe where the UK never formed",
+    "genre": "Shooter",
+    "id": "413925",
+    "link": "https://stormplay.itch.io/pinkeye",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2OTgxOTEucG5n/315x250%23c/FWViqN.png",
+    "title": "Operation: Pinkeye",
+    "video": null,
+    "scrapeWords": [
+      "Operation",
+      "Pinkeye"
+    ]
+  },
+  {
     "author": "Bakenshake",
     "description": "The spirit of the forest will not tolerate invaders...",
     "genre": "Action",
@@ -86520,6 +86535,7 @@
     "link": "https://pigdev.itch.io/fermi-parallax",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQzOTM0MTcucG5n/315x250%23c/W6lHCs.png",
@@ -89964,7 +89980,7 @@
   },
   {
     "author": "JJ Montes",
-    "description": "Rope swing like never before.",
+    "description": "A crazy rope-swinging based game. Featuring fun rope physics, an adventure mode, a trials mode and lots of cows.",
     "genre": "Platformer",
     "id": "763601",
     "link": "https://jjmontesl.itch.io/ropecow",
@@ -92130,9 +92146,7 @@
     "genre": "Action",
     "id": "774850",
     "link": "https://krazykain.itch.io/returntosender",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxNzgxMDkuanBn/315x250%23c/ECjXds.jpg",
     "title": "Return To Sender",
     "video": null,
@@ -96666,23 +96680,6 @@
     ]
   },
   {
-    "author": "GiovanyH",
-    "description": "A short Halloween-Escape game made in 2 days!",
-    "genre": "Platformer",
-    "id": "799470",
-    "link": "https://giovanyh.itch.io/pumpkin-boi",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0NzY4OTAucG5n/315x250%23c/iLc4Q8.png",
-    "title": "Pumpkin boy",
-    "video": null,
-    "scrapeWords": [
-      "Pumpkin",
-      "boy"
-    ]
-  },
-  {
     "author": "TopCat Games",
     "description": "You're the last great white",
     "genre": "Survival",
@@ -98201,9 +98198,13 @@
     "link": "https://mcoorlim.itch.io/rascal-and-the-boxer",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MzQ1MDQucG5n/315x250%23c/s9HfuT.png",
-    "title": "Rascal and the Boxer",
+    "title": "Zeitgeist 1980 ep 1: Rascal and the Boxer",
     "video": null,
     "scrapeWords": [
+      "Zeitgeist",
+      "1980",
+      "ep",
+      "1",
       "Rascal",
       "and",
       "the",
@@ -113381,7 +113382,7 @@
   {
     "author": "InternationalTicket",
     "description": "A game where you are shapes.",
-    "genre": "Adventure",
+    "genre": "Puzzle",
     "id": "912642",
     "link": "https://internationalticket.itch.io/polyform",
     "platforms": null,
@@ -113849,7 +113850,8 @@
     "link": "https://enotofil.itch.io/dropsk",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxODAxNjEucG5n/315x250%23c/SzPSie.png",
     "title": "Dropsk",
@@ -114143,6 +114145,25 @@
     ]
   },
   {
+    "author": "PneumaVoid",
+    "description": "A short, atmospheric platformer about finding a way out of a world beyond dream's as fast as possible.",
+    "genre": "Platformer",
+    "id": "919774",
+    "link": "https://pneumavoid.itch.io/dream-seeker",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMTIzMzYucG5n/315x250%23c/3%2B3RnI.png",
+    "title": "Dream Seeker",
+    "video": null,
+    "scrapeWords": [
+      "Dream",
+      "Seeker"
+    ]
+  },
+  {
     "author": "David KBD",
     "description": "Puzzle and Music",
     "genre": "Puzzle",
@@ -114158,6 +114179,25 @@
     "scrapeWords": [
       "Hexa",
       "Puppies"
+    ]
+  },
+  {
+    "author": "gedehari",
+    "description": "Eliminate bad internet packets, keep the stream steady.",
+    "genre": "Action",
+    "id": "920022",
+    "link": "https://gedehari.itch.io/packet-inbound",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDI0NTEucG5n/315x250%23c/LGmzUP.png",
+    "title": "Packet Inbound",
+    "video": null,
+    "scrapeWords": [
+      "Packet",
+      "Inbound"
     ]
   },
   {
@@ -114178,7 +114218,7 @@
   },
   {
     "author": "dasrow",
-    "description": "trash,bot,godot",
+    "description": "Bir çöp kutusunu ne kadar sözümüzü dinleyebilecek ?",
     "genre": "Puzzle",
     "id": "920168",
     "link": "https://dasrow.itch.io/trash-bot",
@@ -114301,6 +114341,44 @@
     "video": null,
     "scrapeWords": [
       "Monkiki"
+    ]
+  },
+  {
+    "author": "Werdus",
+    "description": "First short indie game made! For EPQ/A levels purposes.",
+    "genre": null,
+    "id": "921485",
+    "link": "https://mirzawrdus.itch.io/space-raider",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMTAzMjYucG5n/315x250%23c/6IkBn3.png",
+    "title": "Space Raider",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Raider"
+    ]
+  },
+  {
+    "author": "GarnotGAMES",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "922339",
+    "link": "https://garnotgames.itch.io/the-rpg-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMTU4ODAucG5n/315x250%23c/vM9hKg.png",
+    "title": "The RPG Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "RPG",
+      "Game"
     ]
   },
   {
