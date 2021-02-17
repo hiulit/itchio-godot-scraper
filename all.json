@@ -9450,11 +9450,11 @@
     ]
   },
   {
-    "author": "tahurdej",
+    "author": "tdj",
     "description": "My first game for a gamejam, test my kind of platform engine made using Godot.",
     "genre": "Platformer",
     "id": "251939",
-    "link": "https://tahurdej.itch.io/picos-fall",
+    "link": "https://tdj.itch.io/picos-fall",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjUxOTM5LzEyMDUxODEucG5n/315x250%23c/7rsLGa.png",
     "title": "Pico's Fall",
@@ -15847,11 +15847,11 @@
     ]
   },
   {
-    "author": "Falling Snowdin",
+    "author": "fsnowdin",
     "description": "A guy tries to make the best game ever. Tries to.",
     "genre": "Visual Novel",
     "id": "294165",
-    "link": "https://falling-snowdin.itch.io/the-dev-crisis",
+    "link": "https://fsnowdin.itch.io/the-dev-crisis",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjk0MTY1LzE0MzU3NjgucG5n/315x250%23c/QAGYsk.png",
     "title": "The Dev Crisis",
@@ -42679,11 +42679,11 @@
     ]
   },
   {
-    "author": "Falling Snowdin",
+    "author": "fsnowdin",
     "description": "One last gift for his beloved daughter before he leaves this world",
     "genre": "Visual Novel",
     "id": "509087",
-    "link": "https://falling-snowdin.itch.io/one-last-wish",
+    "link": "https://fsnowdin.itch.io/one-last-wish",
     "platforms": [
       "Windows",
       "Linux",
@@ -46993,7 +46993,7 @@
     ]
   },
   {
-    "author": "voec",
+    "author": "spiders",
     "description": "A Glorious Trainwrecks anthro backpacking adventure",
     "genre": "Adventure",
     "id": "545713",
@@ -47591,11 +47591,11 @@
     ]
   },
   {
-    "author": "UltraDogges",
+    "author": "UL/DO",
     "description": "Doot Dude",
     "genre": "Simulation",
     "id": "550675",
-    "link": "https://ultradogges.itch.io/flute-guy",
+    "link": "https://uldo.itch.io/flute-guy",
     "platforms": [
       "Windows",
       "Linux",
@@ -48337,11 +48337,11 @@
     ]
   },
   {
-    "author": "UltraDogges",
+    "author": "UL/DO",
     "description": "Belive me, that's really boring!",
     "genre": "Simulation",
     "id": "553132",
-    "link": "https://ultradogges.itch.io/rbbgs",
+    "link": "https://uldo.itch.io/rbbgs",
     "platforms": [
       "Windows",
       "Linux",
@@ -51337,11 +51337,11 @@
     ]
   },
   {
-    "author": "Falling Snowdin",
+    "author": "fsnowdin",
     "description": "At the edge of the universe, the Seeker completes their mission. No matter the cost.",
     "genre": "Adventure",
     "id": "575801",
-    "link": "https://falling-snowdin.itch.io/seeker",
+    "link": "https://fsnowdin.itch.io/seeker",
     "platforms": [
       "Windows",
       "Linux",
@@ -52301,11 +52301,11 @@
     ]
   },
   {
-    "author": "Falling Snowdin",
+    "author": "fsnowdin",
     "description": "Adventure game imagining life under a cult town.",
     "genre": "Adventure",
     "id": "584132",
-    "link": "https://falling-snowdin.itch.io/awoo",
+    "link": "https://fsnowdin.itch.io/awoo",
     "platforms": [
       "Windows",
       "Linux",
@@ -63376,11 +63376,11 @@
     ]
   },
   {
-    "author": "UltraDogges",
+    "author": "UL/DO",
     "description": null,
     "genre": "Platformer",
     "id": "641717",
-    "link": "https://ultradogges.itch.io/lost-lamp",
+    "link": "https://uldo.itch.io/lost-lamp",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM0MzUyOTcucG5n/315x250%23c/rFyBbu.png",
     "title": "Lost Lamp demo",
@@ -79468,8 +79468,7 @@
     "link": "https://apple0726.itch.io/helixteus-3",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2ODQ2MjUucG5n/315x250%23c/AtQcFj.png",
     "title": "Helixteus 3",
@@ -88681,7 +88680,7 @@
   },
   {
     "author": "Defo Mort",
-    "description": "gather the fruit to fill your delicious pie.",
+    "description": "catch fruit from a magical tree for the perfect pie!",
     "genre": "Action",
     "id": "756259",
     "link": "https://defomort.itch.io/fruitypies",
@@ -89980,7 +89979,7 @@
   },
   {
     "author": "JJ Montes",
-    "description": "A crazy rope-swinging based game. Featuring fun rope physics, an adventure mode, a trials mode and lots of cows.",
+    "description": "A crazy rope-swinging game. Fun rope physics, an adventure mode, a trials mode and lots of cows.",
     "genre": "Platformer",
     "id": "763601",
     "link": "https://jjmontesl.itch.io/ropecow",
@@ -96680,6 +96679,23 @@
     ]
   },
   {
+    "author": "GiovanyH",
+    "description": "A short Halloween-Escape game made in 2 days!",
+    "genre": "Platformer",
+    "id": "799470",
+    "link": "https://giovanyh.itch.io/pumpkin-boi",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0NzY4OTAucG5n/315x250%23c/iLc4Q8.png",
+    "title": "Pumpkin boy",
+    "video": null,
+    "scrapeWords": [
+      "Pumpkin",
+      "boy"
+    ]
+  },
+  {
     "author": "TopCat Games",
     "description": "You're the last great white",
     "genre": "Survival",
@@ -102862,8 +102878,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -106204,7 +106219,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NDA4MDgucG5n/315x250%23c/twNJsf.png",
+    "thumb": "https://img.itch.zone/aW1nLzUyMTg5MTMucG5n/315x250%23c/nQRy1t.png",
     "title": "Hack Grid",
     "video": null,
     "scrapeWords": [
@@ -106428,7 +106443,7 @@
   {
     "author": "Skullzrawk9",
     "description": null,
-    "genre": "Survival",
+    "genre": "Strategy",
     "id": "867221",
     "link": "https://skullzrawk9.itch.io/googy-goo",
     "platforms": null,
@@ -109198,6 +109213,24 @@
     ]
   },
   {
+    "author": "DoctorStupid",
+    "description": "Help Grug eat all the kids!",
+    "genre": "Action",
+    "id": "885919",
+    "link": "https://doctorstupid.itch.io/grugs-other-rampage",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMjMwMzcucG5n/315x250%23c/7BjcIP.png",
+    "title": "Grug's Other Rampage",
+    "video": null,
+    "scrapeWords": [
+      "Grugs",
+      "Other",
+      "Rampage"
+    ]
+  },
+  {
     "author": "Nipeyo",
     "description": "Balloons (workingTitle)",
     "genre": "Platformer",
@@ -109260,9 +109293,9 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTY5MTEucG5n/315x250%23c/iXohFt.png",
+    "thumb": "https://img.itch.zone/aW1nLzUyMjAwODMuZ2lm/315x250%23cm/9Esfrl.gif",
     "title": "FreeFall Pinball 3D (DEMO)",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzUyMjAwODMuZ2lm/original/4f8Vqf.gif",
     "scrapeWords": [
       "Free",
       "Fall",
@@ -110537,6 +110570,26 @@
     ]
   },
   {
+    "author": "SUB4Gamer",
+    "description": "A short and easy platformer to train your skills.",
+    "genre": "Platformer",
+    "id": "895778",
+    "link": "https://sub4gamer112.itch.io/skyjumper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNTU5MzgucG5n/315x250%23c/4%2BQ%2FVa.png",
+    "title": "SkyJumper",
+    "video": null,
+    "scrapeWords": [
+      "Sky",
+      "Jumper"
+    ]
+  },
+  {
     "author": "Marcus Forsberg",
     "description": "2D shooter with perks, multiple maps, camos and upgradeable weapons.",
     "genre": "Shooter",
@@ -111358,24 +111411,6 @@
     ]
   },
   {
-    "author": "PiotreChec",
-    "description": null,
-    "genre": "Platformer",
-    "id": "901301",
-    "link": "https://piotrechec.itch.io/gimper-ratuje-pieski",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUwODkxMDQucG5n/315x250%23c/MIyym6.png",
-    "title": "Gimper ratuje pieski",
-    "video": null,
-    "scrapeWords": [
-      "Gimper",
-      "ratuje",
-      "pieski"
-    ]
-  },
-  {
     "author": "Twinfox",
     "description": "Kick those demons back to hell",
     "genre": "Shooter",
@@ -111977,6 +112012,21 @@
     "scrapeWords": [
       "The",
       "Transparency"
+    ]
+  },
+  {
+    "author": "Bobo_Baqa",
+    "description": "Entry to the 2021 Global Game Jam. You've lost your senses, find your way",
+    "genre": null,
+    "id": "903706",
+    "link": "https://bobo-baqa.itch.io/quadsense",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMDgyNjYucG5n/315x250%23c/giWEul.png",
+    "title": "QuadSense",
+    "video": null,
+    "scrapeWords": [
+      "Quad",
+      "Sense"
     ]
   },
   {
@@ -113382,7 +113432,7 @@
   {
     "author": "InternationalTicket",
     "description": "A game where you are shapes.",
-    "genre": "Puzzle",
+    "genre": "Adventure",
     "id": "912642",
     "link": "https://internationalticket.itch.io/polyform",
     "platforms": null,
@@ -113526,11 +113576,11 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxNzczMjkucG5n/315x250%23c/wEXoEh.png",
-    "title": "Dream house",
+    "title": "Dream House",
     "video": null,
     "scrapeWords": [
       "Dream",
-      "house"
+      "House"
     ]
   },
   {
@@ -113981,7 +114031,8 @@
     "id": "918918",
     "link": "https://cutre-studio.itch.io/gotta-get-out",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxOTY2NTMucG5n/315x250%23c/pcVHFp.png",
     "title": "Gotta get out!",
@@ -114379,6 +114430,22 @@
       "The",
       "RPG",
       "Game"
+    ]
+  },
+  {
+    "author": "klepticat",
+    "description": null,
+    "genre": "Platformer",
+    "id": "922969",
+    "link": "https://klepticat.itch.io/slimy",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMTkyMDMucG5n/315x250%23c/SjSqIx.png",
+    "title": "Slimy",
+    "video": null,
+    "scrapeWords": [
+      "Slimy"
     ]
   },
   {
