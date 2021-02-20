@@ -19870,6 +19870,23 @@
     ]
   },
   {
+    "author": "Zoltan Labs",
+    "description": "2D Retro space arcade game",
+    "genre": "Shooter",
+    "id": "327605",
+    "link": "https://zoltan-labs.itch.io/brutal-deluxe",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE2MjI4OTYucG5n/315x250%23c/2VnTuA.png",
+    "title": "Brutal Deluxe",
+    "video": null,
+    "scrapeWords": [
+      "Brutal",
+      "Deluxe"
+    ]
+  },
+  {
     "author": "BeeredBeastGames",
     "description": "ChernoDate is a little runner made in 48 hours.",
     "genre": "Platformer",
@@ -26327,11 +26344,11 @@
     ]
   },
   {
-    "author": "Pudu Games",
+    "author": "Deep Horizons",
     "description": null,
     "genre": "Adventure",
     "id": "382164",
-    "link": "https://pudugames.itch.io/homeless-hope",
+    "link": "https://deephorizons.itch.io/homeless-hope",
     "platforms": [
       "Windows",
       "Linux",
@@ -40637,6 +40654,24 @@
     "scrapeWords": [
       "Amor",
       "Fati"
+    ]
+  },
+  {
+    "author": "Jiri Hysek",
+    "description": null,
+    "genre": "Action",
+    "id": "494064",
+    "link": "https://jhysek.itch.io/nightbirds",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NTg0MjcuanBn/315x250%23c/BhfJD6.jpg",
+    "title": "Nightbirds",
+    "video": null,
+    "scrapeWords": [
+      "Nightbirds"
     ]
   },
   {
@@ -78903,6 +78938,21 @@
     ]
   },
   {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -92129,7 +92179,9 @@
     "genre": "Action",
     "id": "774850",
     "link": "https://krazykain.itch.io/returntosender",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUxNzgxMDkuanBn/315x250%23c/ECjXds.jpg",
     "title": "Return To Sender",
     "video": null,
@@ -105001,6 +105053,27 @@
     ]
   },
   {
+    "author": "jmbjr",
+    "description": "Help a pair of penguin parents hatch their egg though this melody driven collection of mini games!",
+    "genre": null,
+    "id": "858389",
+    "link": "https://jmbjr.itch.io/carol-of-the-penguins",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NDAwOTAucG5n/315x250%23c/nCw%2BKK.png",
+    "title": "Carol of the Penguins",
+    "video": null,
+    "scrapeWords": [
+      "Carol",
+      "of",
+      "the",
+      "Penguins"
+    ]
+  },
+  {
     "author": "Maestro",
     "description": "The Classic Pong",
     "genre": null,
@@ -107152,21 +107225,6 @@
     ]
   },
   {
-    "author": "mikepurdy",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "872636",
-    "link": "https://purdy.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Bedroom Coders",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -107612,6 +107670,23 @@
       "in",
       "the",
       "Store"
+    ]
+  },
+  {
+    "author": "PancakesWasNotTaken",
+    "description": "A indie attempt of remastering the Asteroids concept",
+    "genre": "Action",
+    "id": "876404",
+    "link": "https://pancakeswasnottaken.itch.io/asteroid2021-demo",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDY5MjguanBn/315x250%23c/Q76Wg%2F.jpg",
+    "title": "Asteroids2021",
+    "video": null,
+    "scrapeWords": [
+      "Asteroids2021"
     ]
   },
   {
@@ -110519,11 +110594,11 @@
     ]
   },
   {
-    "author": "dwarfpreon",
+    "author": "Static Cube",
     "description": null,
     "genre": "Platformer",
     "id": "895072",
-    "link": "https://dwarfpreon.itch.io/ancient-coin-adventure",
+    "link": "https://static-cube.itch.io/ancient-coin-adventure",
     "platforms": [
       "Windows"
     ],
@@ -112075,11 +112150,11 @@
     ]
   },
   {
-    "author": "gamesbyboon",
+    "author": "banjo",
     "description": "What did you leave behind?",
     "genre": "Interactive Fiction",
     "id": "904269",
-    "link": "https://gamesbyboon.itch.io/your-personal-photon",
+    "link": "https://banjo-games.itch.io/your-personal-photon",
     "platforms": [
       "Windows"
     ],
@@ -113791,7 +113866,7 @@
     ]
   },
   {
-    "author": "austin_io",
+    "author": "AUSTIN-IO",
     "description": "Totally not a Minecraft clone...",
     "genre": "Adventure",
     "id": "915332",
@@ -113965,6 +114040,24 @@
     ]
   },
   {
+    "author": "Neverknow247",
+    "description": "DEMO for an upcoming project",
+    "genre": "Adventure",
+    "id": "917780",
+    "link": "https://neverknow247.itch.io/slicker",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxODg4NjIucG5n/315x250%23c/FBcwmQ.png",
+    "title": "slicker (DEMO)",
+    "video": null,
+    "scrapeWords": [
+      "slicker"
+    ]
+  },
+  {
     "author": "b._.render",
     "description": "Click that heart, Gain those points",
     "genre": "Simulation",
@@ -114001,9 +114094,10 @@
     "link": "https://lostfolders.itch.io/endless-pipe",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxOTg3NjEucG5n/315x250%23c/Z%2By9TD.png",
-    "title": "pipe(mct #2)",
+    "title": "endless pipe(mct #2)",
     "video": null,
     "scrapeWords": [
+      "endless",
       "pipemct",
       "2"
     ]
@@ -114217,6 +114311,24 @@
     ]
   },
   {
+    "author": "Dimensionality",
+    "description": "Uses Streamgun to defeat robots",
+    "genre": "Shooter",
+    "id": "919789",
+    "link": "https://dimensionality.itch.io/warrior-of-streamgunner",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDIxMjAucG5n/315x250%23c/%2Bk71Nj.png",
+    "title": "Warrior of Streamgunner",
+    "video": null,
+    "scrapeWords": [
+      "Warrior",
+      "of",
+      "Streamgunner"
+    ]
+  },
+  {
     "author": "David KBD",
     "description": "Puzzle and Music",
     "genre": "Puzzle",
@@ -114232,6 +114344,24 @@
     "scrapeWords": [
       "Hexa",
       "Puppies"
+    ]
+  },
+  {
+    "author": "JRIngram",
+    "description": "A recreation of John Ridley Stroop's \"Stroop Test\"",
+    "genre": null,
+    "id": "919962",
+    "link": "https://jringram.itch.io/the-stroop-test",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDIxNDYucG5n/315x250%23c/6ZKC7e.png",
+    "title": "The Stroop Test",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Stroop",
+      "Test"
     ]
   },
   {
@@ -114492,16 +114622,28 @@
     "genre": null,
     "id": "922977",
     "link": "https://dmitriy-shmilo.itch.io/arkabeat",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyMzI3NTQucG5n/315x250%23c/sa%2FGey.png",
     "title": "ARKABEAT",
     "video": null,
     "scrapeWords": [
       "ARKABEAT"
+    ]
+  },
+  {
+    "author": "moorwort",
+    "description": "You're an octopus on the move from the dangers lurking below... or are you?",
+    "genre": "Adventure",
+    "id": "922999",
+    "link": "https://moorwort.itch.io/octornot",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMTk0MzYucG5n/315x250%23c/3aL90g.png",
+    "title": "Octornot",
+    "video": null,
+    "scrapeWords": [
+      "Octornot"
     ]
   },
   {
@@ -114550,6 +114692,22 @@
     ]
   },
   {
+    "author": "3Mber21",
+    "description": "A simple game of helping alien cat avoid asteroids.",
+    "genre": "Action",
+    "id": "924937",
+    "link": "https://3mber21.itch.io/cateroid",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMzgyMDEucG5n/315x250%23c/Puuxiy.png",
+    "title": "Cateroid",
+    "video": null,
+    "scrapeWords": [
+      "Cateroid"
+    ]
+  },
+  {
     "author": "ludogramming",
     "description": "SImple wheel making toy made with Godot",
     "genre": "Simulation",
@@ -114567,6 +114725,21 @@
       "Inventing",
       "the",
       "wheel"
+    ]
+  },
+  {
+    "author": "IdiotProgrammer",
+    "description": null,
+    "genre": "Simulation",
+    "id": "925011",
+    "link": "https://idiotprogrammer.itch.io/heartbeat-manager",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMzA2MzMucG5n/315x250%23c/7lyxtW.png",
+    "title": "Heartbeat Manager",
+    "video": null,
+    "scrapeWords": [
+      "Heartbeat",
+      "Manager"
     ]
   },
   {
@@ -114590,13 +114763,190 @@
     "id": "925455",
     "link": "https://gartersnake508.itch.io/migration",
     "platforms": [
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUyMzM4MTMuanBn/315x250%23c/PikpXp.jpg",
     "title": "Migration",
     "video": null,
     "scrapeWords": [
       "Migration"
+    ]
+  },
+  {
+    "author": "Demindiro",
+    "description": "Escape the darkness",
+    "genre": "Puzzle",
+    "id": "925515",
+    "link": "https://demindiro.itch.io/you-are-alone",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMzQwMDYucG5n/315x250%23c/dz5hWp.png",
+    "title": "You are Alone",
+    "video": null,
+    "scrapeWords": [
+      "You",
+      "are",
+      "Alone"
+    ]
+  },
+  {
+    "author": "anactualhuman",
+    "description": "A small precision platformer.",
+    "genre": "Platformer",
+    "id": "925647",
+    "link": "https://anactualhuman.itch.io/robo-go",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNDIyMzUuZ2lm/315x250%23cm/5pdzhd.gif",
+    "title": "ROBO-GO!",
+    "video": "https://img.itch.zone/aW1nLzUyNDIyMzUuZ2lm/original/09gOYX.gif",
+    "scrapeWords": [
+      "ROBO-GO"
+    ]
+  },
+  {
+    "author": "HowYouDoing",
+    "description": "Traverse deeper in the dungeon without light, with traps and keys.",
+    "genre": "Puzzle",
+    "id": "926087",
+    "link": "https://howyoudoing.itch.io/praise-maze",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyMzc4NDQucG5n/315x250%23c/qhahif.png",
+    "title": "Praise Maze",
+    "video": null,
+    "scrapeWords": [
+      "Praise",
+      "Maze"
+    ]
+  },
+  {
+    "author": "ollipa",
+    "description": "Help the scribble world visitor to go back home!",
+    "genre": "Puzzle",
+    "id": "926157",
+    "link": "https://ollipa.itch.io/visitor-from-the-scribble-world",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMzgyMjUucG5n/315x250%23c/BHgyxi.png",
+    "title": "Visitor from the Scribble World",
+    "video": null,
+    "scrapeWords": [
+      "Visitor",
+      "from",
+      "the",
+      "Scribble",
+      "World"
+    ]
+  },
+  {
+    "author": "Gesla",
+    "description": "Find your way in an incomprehensible world",
+    "genre": null,
+    "id": "926332",
+    "link": "https://gesla.itch.io/lost-without-translation",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMzk1NjQucG5n/315x250%23c/Y56SoV.png",
+    "title": "Lost Without Translation",
+    "video": null,
+    "scrapeWords": [
+      "Lost",
+      "Without",
+      "Translation"
+    ]
+  },
+  {
+    "author": "TheFuturisticIdiot",
+    "description": null,
+    "genre": "Strategy",
+    "id": "926411",
+    "link": "https://thefuturisticidiot.itch.io/rotate",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNDA2NDQucG5n/315x250%23c/SEZvfk.png",
+    "title": "Rotate",
+    "video": null,
+    "scrapeWords": [
+      "Rotate"
+    ]
+  },
+  {
+    "author": "KonKon Media",
+    "description": "Um jogo da memória educativo, mostrando os cuidados recomendados para a prevenção do novo Covid-19.",
+    "genre": "Educational",
+    "id": "926566",
+    "link": "https://konkonmedia.itch.io/cuidados-contra-o-virus",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNDA3MzcucG5n/315x250%23c/g7%2FdCK.png",
+    "title": "Cuidados Contra o Vírus",
+    "video": null,
+    "scrapeWords": [
+      "Cuidados",
+      "Contra",
+      "o",
+      "Vírus"
+    ]
+  },
+  {
+    "author": "fernandolv3",
+    "description": "A casual game made just for fun. Beat the best time drifting at maximum speed!",
+    "genre": "Racing",
+    "id": "926597",
+    "link": "https://fernandolv3.itch.io/lowpoly-drifting-challenge",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNDA5MTkucG5n/315x250%23c/Z3lsS%2F.png",
+    "title": "LowPoly Drifting Challenge",
+    "video": null,
+    "scrapeWords": [
+      "Low",
+      "Poly",
+      "Drifting",
+      "Challenge"
+    ]
+  },
+  {
+    "author": "Tino Zhabinskiy",
+    "description": null,
+    "genre": "Action",
+    "id": "926761",
+    "link": "https://zhabinskiy.itch.io/sleepwalkers",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNDE5MTUucG5n/315x250%23c/Ksor5l.png",
+    "title": "Sleepwalkers",
+    "video": null,
+    "scrapeWords": [
+      "Sleepwalkers"
+    ]
+  },
+  {
+    "author": "l1ch1v1l",
+    "description": "GAME FOR JAM",
+    "genre": "Puzzle",
+    "id": "927050",
+    "link": "https://l1ch1v1l.itch.io/good-friend",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNDM0ODMucG5n/315x250%23c/QJjEsw.png",
+    "title": "good_friend",
+    "video": null,
+    "scrapeWords": [
+      "good_friend"
     ]
   },
   {
