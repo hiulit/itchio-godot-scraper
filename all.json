@@ -40890,20 +40890,6 @@
     ]
   },
   {
-    "author": "HowYouDoing",
-    "description": "Just an demo for testing",
-    "genre": null,
-    "id": "495051",
-    "link": "https://howyoudoing.itch.io/pilot",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI1NTkwMzMucG5n/315x250%23c/OVrjto.png",
-    "title": "Pilot",
-    "video": null,
-    "scrapeWords": [
-      "Pilot"
-    ]
-  },
-  {
     "author": "sprngr",
     "description": null,
     "genre": "Platformer",
@@ -45130,6 +45116,25 @@
     "scrapeWords": [
       "Imagine",
       "lifetimes"
+    ]
+  },
+  {
+    "author": "sourWood",
+    "description": "Dodge...but with two buttons only",
+    "genre": "Action",
+    "id": "532249",
+    "link": "https://sourwood.itch.io/two-button-shooter",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NjczOTYucG5n/315x250%23c/xxHFhk.png",
+    "title": "Two Button Dodger",
+    "video": null,
+    "scrapeWords": [
+      "Two",
+      "Button",
+      "Dodger"
     ]
   },
   {
@@ -75228,7 +75233,7 @@
   },
   {
     "author": "okayscott",
-    "description": "Your tank requires 4 crew, but you'll have to work with what you have",
+    "description": "Your tank requires 4 crew, but you'll have to work with what you got.",
     "genre": "Shooter",
     "id": "698083",
     "link": "https://okayscott.itch.io/understaffed-tank-crew",
@@ -80270,11 +80275,11 @@
     ]
   },
   {
-    "author": "z30b",
+    "author": "defective_toast",
     "description": null,
     "genre": "Shooter",
     "id": "723749",
-    "link": "https://z30b.itch.io/enemy-rewind",
+    "link": "https://defective-toast.itch.io/enemy-rewind",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQwMTM5NjQucG5n/315x250%23c/2F4KGy.png",
     "title": "Enemy Rewind",
@@ -95411,7 +95416,8 @@
     "link": "https://boc-dev.itch.io/tine",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0NjU5MTgucG5n/315x250%23c/%2Fc5576.png",
     "title": "T.I.N.E",
@@ -95547,7 +95553,7 @@
     ]
   },
   {
-    "author": "Future games",
+    "author": "Future Games",
     "description": null,
     "genre": "Platformer",
     "id": "792351",
@@ -96491,8 +96497,7 @@
     "link": "https://tuanisapps.itch.io/the-lagrange-grid",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MTk2NTkucG5n/315x250%23c/iqTlJC.png",
     "title": "The Lagrange Grid",
@@ -96660,11 +96665,11 @@
     ]
   },
   {
-    "author": "z30b",
+    "author": "defective_toast",
     "description": "Can you escape back to your grave within 2 minutes?",
     "genre": "Puzzle",
     "id": "799456",
-    "link": "https://z30b.itch.io/ghost-escape",
+    "link": "https://defective-toast.itch.io/ghost-escape",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ0NzY3NzAucG5n/315x250%23c/pTwZyi.png",
     "title": "Ghost Escape",
@@ -97104,7 +97109,7 @@
     ]
   },
   {
-    "author": "Future games",
+    "author": "Future Games",
     "description": "The ultimate platformer. Just joking, it sucks.",
     "genre": "Platformer",
     "id": "802962",
@@ -99792,7 +99797,7 @@
     ]
   },
   {
-    "author": "Future games",
+    "author": "Future Games",
     "description": "Action-Parkour-Shooter game with time control",
     "genre": "Platformer",
     "id": "821902",
@@ -102500,11 +102505,11 @@
     ]
   },
   {
-    "author": "z30b",
+    "author": "defective_toast",
     "description": "Send your ship to the moon. Mini golf style.",
     "genre": "Strategy",
     "id": "839152",
-    "link": "https://z30b.itch.io/moon-golf",
+    "link": "https://defective-toast.itch.io/moon-golf",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3MDQxNjgucG5n/315x250%23c/uw%2BHzC.png",
     "title": "Moon Golf",
@@ -106324,6 +106329,21 @@
     ]
   },
   {
+    "author": "chucklepie",
+    "description": "Remake of the fine ZX Spectrum metroidvania platform game Rex",
+    "genre": "Platformer",
+    "id": "865947",
+    "link": "https://chucklepie.itch.io/rex-remake",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4NjMwMTgucG5n/315x250%23c/kgsZ%2B7.png",
+    "title": "Rex Remake",
+    "video": null,
+    "scrapeWords": [
+      "Rex",
+      "Remake"
+    ]
+  },
+  {
     "author": "Top Notch Games",
     "description": "Battle to the death in the snow!",
     "genre": "Shooter",
@@ -106806,7 +106826,7 @@
     ]
   },
   {
-    "author": "Future games",
+    "author": "Future Games",
     "description": "Happiness is never eternal.",
     "genre": "Adventure",
     "id": "870177",
@@ -107911,6 +107931,21 @@
     "video": null,
     "scrapeWords": [
       "Cthululu"
+    ]
+  },
+  {
+    "author": "Miltage",
+    "description": "Being a bat has never been this hard",
+    "genre": null,
+    "id": "877596",
+    "link": "https://miltage.itch.io/batty-cave",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5Mzg4MTgucG5n/315x250%23c/ElnsOk.png",
+    "title": "Batty Cave",
+    "video": null,
+    "scrapeWords": [
+      "Batty",
+      "Cave"
     ]
   },
   {
@@ -110074,7 +110109,7 @@
     ]
   },
   {
-    "author": "Future games",
+    "author": "Future Games",
     "description": "Two-Player Brawl!",
     "genre": "Fighting",
     "id": "891308",
@@ -113858,14 +113893,14 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxNjY3MzYucG5n/315x250%23c/fte4nE.png",
-    "title": "a game with no name.",
+    "title": "A Game With No Name.",
     "video": null,
     "scrapeWords": [
-      "a",
-      "game",
-      "with",
-      "no",
-      "name"
+      "A",
+      "Game",
+      "With",
+      "No",
+      "Name"
     ]
   },
   {
@@ -114172,7 +114207,7 @@
     ]
   },
   {
-    "author": "doruk",
+    "author": "lost folders",
     "description": "endless jumper",
     "genre": "Platformer",
     "id": "918831",
@@ -114259,6 +114294,25 @@
     "video": null,
     "scrapeWords": [
       "Sanity"
+    ]
+  },
+  {
+    "author": "velopman",
+    "description": null,
+    "genre": "Simulation",
+    "id": "919063",
+    "link": "https://velopman.itch.io/pump-it",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNDcyNTguZ2lm/315x250%23cm/3Lsil3.gif",
+    "title": "Pump it!",
+    "video": "https://img.itch.zone/aW1nLzUyNDcyNTguZ2lm/original/VBYel2.gif",
+    "scrapeWords": [
+      "Pump",
+      "it"
     ]
   },
   {
@@ -114429,6 +114483,23 @@
       "Warrior",
       "of",
       "Streamgunner"
+    ]
+  },
+  {
+    "author": "MikatoLee",
+    "description": "A box moving puzzle game",
+    "genre": "Puzzle",
+    "id": "919885",
+    "link": "https://mikatolee.itch.io/thegreatslimeescapes",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNTUxOTIucG5n/315x250%23c/tlgBtO.png",
+    "title": "The Great Slime Escapes",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Great",
+      "Slime",
+      "Escapes"
     ]
   },
   {
@@ -114893,7 +114964,7 @@
   {
     "author": "okayscott",
     "description": "It's like Tetris, but you can only move the pieces after they land.",
-    "genre": null,
+    "genre": "Puzzle",
     "id": "924613",
     "link": "https://okayscott.itch.io/rafteys",
     "platforms": [
@@ -115192,7 +115263,9 @@
     "id": "926597",
     "link": "https://fernandolv3.itch.io/lowpoly-drifting-challenge",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUyNDA5MTkucG5n/315x250%23c/Z3lsS%2F.png",
     "title": "LowPoly Drifting Challenge",
@@ -115594,7 +115667,7 @@
     "id": "928933",
     "link": "https://ww-studio.itch.io/unite-against-them",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUyNTUwODkucG5n/315x250%23c/KTlCS2.png",
+    "thumb": "https://img.itch.zone/aW1nLzUyNzc5MzQucG5n/315x250%23c/ut%2F3uH.png",
     "title": "Unite Against Them",
     "video": null,
     "scrapeWords": [
@@ -115696,23 +115769,6 @@
     ]
   },
   {
-    "author": "FloezeTv",
-    "description": "A two player jump and run game created for Brackeys Game Jam 2021.1",
-    "genre": "Platformer",
-    "id": "929583",
-    "link": "https://floezetv.itch.io/prison-escape",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": null,
-    "title": "Prison Escape",
-    "video": null,
-    "scrapeWords": [
-      "Prison",
-      "Escape"
-    ]
-  },
-  {
     "author": "Mariothedog",
     "description": "A tower defence puzzle game",
     "genre": "Puzzle",
@@ -115770,7 +115826,7 @@
   },
   {
     "author": "exopunk",
-    "description": "A puzzle game enriched with a lot of snow",
+    "description": "A puzzle game where you play as multiple characters that can be combined together",
     "genre": "Platformer",
     "id": "929778",
     "link": "https://exopunk.itch.io/we-snow-nothin",
@@ -115784,6 +115840,21 @@
       "We",
       "Snow",
       "Nothin"
+    ]
+  },
+  {
+    "author": "ThatAnnoyingGuitarGuy",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "929890",
+    "link": "https://thatannoyingguitarguy.itch.io/aaa-catastrophe",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNzQwODMucG5n/315x250%23c/T4zojA.png",
+    "title": "AAA Catastrophe",
+    "video": null,
+    "scrapeWords": [
+      "AAA",
+      "Catastrophe"
     ]
   },
   {
@@ -115903,8 +115974,27 @@
     ]
   },
   {
+    "author": "Selina",
+    "description": "Bring color to the world by planting flowers!",
+    "genre": "Adventure",
+    "id": "930269",
+    "link": "https://selinadev.itch.io/colorise",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNzczNTQucG5n/315x250%23c/C2Iuy%2F.png",
+    "title": "ColoRise",
+    "video": null,
+    "scrapeWords": [
+      "Colo",
+      "Rise"
+    ]
+  },
+  {
     "author": "Austrian-kangaroo",
-    "description": null,
+    "description": "Today was a great day, we played hide and seek with my friends",
     "genre": "Adventure",
     "id": "930348",
     "link": "https://austrian-kangaroo.itch.io/its-your-turn-to-hide",
@@ -116094,6 +116184,93 @@
     "scrapeWords": [
       "Chaos",
       "Patrol"
+    ]
+  },
+  {
+    "author": "Cyrus Yip",
+    "description": "Be the island and defend yourself from the green balls.",
+    "genre": "Action",
+    "id": "930987",
+    "link": "https://realcyguy.itch.io/i-am-the-island",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNzUyNzYucG5n/315x250%23c/sOq6RX.png",
+    "title": "i am the island",
+    "video": null,
+    "scrapeWords": [
+      "i",
+      "am",
+      "the",
+      "island"
+    ]
+  },
+  {
+    "author": "Chipuse",
+    "description": "In this flock combat game, you guide a group of sparrows on their fight south as an eternal winter arrived.",
+    "genre": "Action",
+    "id": "931077",
+    "link": "https://chipuse.itch.io/heading-south",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNzUxNzgucG5n/315x250%23c/66ba26.png",
+    "title": "Heading South",
+    "video": null,
+    "scrapeWords": [
+      "Heading",
+      "South"
+    ]
+  },
+  {
+    "author": "codenameHALF",
+    "description": "A short game about defeating the king.",
+    "genre": "Platformer",
+    "id": "931240",
+    "link": "https://codenamehalf.itch.io/monk-man",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNzQwNTAucG5n/315x250%23c/0f5GC9.png",
+    "title": "Monk Man",
+    "video": null,
+    "scrapeWords": [
+      "Monk",
+      "Man"
+    ]
+  },
+  {
+    "author": "Clumsywise",
+    "description": "A small LCD handheld-inspired game about parrying an Evil Knight.",
+    "genre": null,
+    "id": "931596",
+    "link": "https://clumsywise.itch.io/knight-block",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNzcwMDguanBn/315x250%23c/Y%2FZGFF.jpg",
+    "title": "Knight Block",
+    "video": null,
+    "scrapeWords": [
+      "Knight",
+      "Block"
+    ]
+  },
+  {
+    "author": "Orbit Games",
+    "description": "A very short horror game made in 2 and a half hours",
+    "genre": "Adventure",
+    "id": "931702",
+    "link": "https://orbit-games.itch.io/the-dead-village",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNzczNTIucG5n/315x250%23c/dwiAVD.png",
+    "title": "The Dead Village",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Dead",
+      "Village"
     ]
   },
   {
