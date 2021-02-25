@@ -22249,23 +22249,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38710,6 +38693,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -77420,9 +77422,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MzI2OTMuZ2lm/315x250%23cm/6hIp4L.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUyOTEzMDAucG5n/315x250%23c/67WiHT.png",
     "title": "Cards'n'Castles",
-    "video": "https://img.itch.zone/aW1nLzM5MzI2OTMuZ2lm/original/V4zEU4.gif",
+    "video": null,
     "scrapeWords": [
       "Cardsn",
       "Castles"
@@ -113101,6 +113103,25 @@
     ]
   },
   {
+    "author": "sudhan",
+    "description": "Narrative",
+    "genre": "Visual Novel",
+    "id": "910576",
+    "link": "https://sudhan.itch.io/5-days-of-nivi-ghosted-story",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNDY3NzcucG5n/315x250%23c/4brQ8Q.png",
+    "title": "5 Days of Nivi: Ghosted story",
+    "video": null,
+    "scrapeWords": [
+      "5",
+      "Days",
+      "of",
+      "Nivi",
+      "Ghosted",
+      "story"
+    ]
+  },
+  {
     "author": "LydianChord",
     "description": "Short and potentially frustrating bullet hell game",
     "genre": "Shooter",
@@ -113731,11 +113752,11 @@
     ]
   },
   {
-    "author": "EndlessnessDev",
+    "author": "endlessnessproject",
     "description": "The most In-depth, addicting 2D surivial shooter ever...Coming Soon!",
     "genre": "Survival",
     "id": "913124",
-    "link": "https://endlessnessdev.itch.io/project-e",
+    "link": "https://endlessnessproject.itch.io/project-e",
     "platforms": [
       "Windows",
       "macOS"
@@ -113889,7 +113910,7 @@
   {
     "author": "ThatLifebloodVessel",
     "description": "this is a game i made for a small project!",
-    "genre": "Role Playing",
+    "genre": "Action",
     "id": "913884",
     "link": "https://thatlifebloodvessel.itch.io/a-game-with-no-name",
     "platforms": [
@@ -114335,6 +114356,20 @@
     ]
   },
   {
+    "author": "goonie33",
+    "description": "Jogo tutorial Youtube - Alex Sander",
+    "genre": "Action",
+    "id": "919181",
+    "link": "https://goonie33.itch.io/bolota",
+    "platforms": null,
+    "thumb": null,
+    "title": "Bolota",
+    "video": null,
+    "scrapeWords": [
+      "Bolota"
+    ]
+  },
+  {
     "author": "lavaduder",
     "description": null,
     "genre": "Sports",
@@ -114357,7 +114392,7 @@
   },
   {
     "author": "Cyrus Yip",
-    "description": "Slide to victory!",
+    "description": "Platforming speed runner with only jumping!",
     "genre": "Platformer",
     "id": "919418",
     "link": "https://realcyguy.itch.io/sliding-game",
@@ -115122,7 +115157,7 @@
     "link": "https://gartersnake508.itch.io/migration",
     "platforms": [
       "Windows",
-      "macOS"
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUyMzM4MTMuanBn/315x250%23c/PikpXp.jpg",
     "title": "Migration",
@@ -115496,6 +115531,21 @@
     ]
   },
   {
+    "author": "Tostym8",
+    "description": "Chill with the rain gliding your window",
+    "genre": null,
+    "id": "927722",
+    "link": "https://tostym8.itch.io/falling-droplets",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNTYyNDguZ2lm/315x250%23cm/31r2Ge.gif",
+    "title": "Falling Droplets",
+    "video": "https://img.itch.zone/aW1nLzUyNTYyNDguZ2lm/original/2KMiWo.gif",
+    "scrapeWords": [
+      "Falling",
+      "Droplets"
+    ]
+  },
+  {
     "author": "POBIX",
     "description": null,
     "genre": "Platformer",
@@ -115826,7 +115876,7 @@
   },
   {
     "author": "Mariothedog",
-    "description": "A tower defence puzzle game",
+    "description": "A puzzle-based tower defence game",
     "genre": "Puzzle",
     "id": "929630",
     "link": "https://mariothedog.itch.io/simultaneous-turrets",
@@ -116056,6 +116106,7 @@
     "link": "https://austrian-kangaroo.itch.io/its-your-turn-to-hide",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUyNjk2NDgucG5n/315x250%23c/nNHKio.png",
@@ -116411,6 +116462,21 @@
     "scrapeWords": [
       "Hero",
       "Knight"
+    ]
+  },
+  {
+    "author": "le epic gamedev",
+    "description": null,
+    "genre": "Action",
+    "id": "933686",
+    "link": "https://krh.itch.io/pong",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyODk0MDgucG5n/315x250%23c/aFfNrf.png",
+    "title": "Pong Game",
+    "video": null,
+    "scrapeWords": [
+      "Pong",
+      "Game"
     ]
   },
   {
