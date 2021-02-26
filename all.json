@@ -22249,6 +22249,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38696,25 +38713,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -44804,21 +44802,6 @@
     ]
   },
   {
-    "author": "Emaleth",
-    "description": "2d agility infinite runner",
-    "genre": "Platformer",
-    "id": "529580",
-    "link": "https://emaleth.itch.io/kira",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI3NTU3NjQucG5n/315x250%23c/Vfr%2Fnj.png",
-    "title": "Simplicitas Dominatur",
-    "video": null,
-    "scrapeWords": [
-      "Simplicitas",
-      "Dominatur"
-    ]
-  },
-  {
     "author": "binglo",
     "description": "Mario inspired game",
     "genre": "Platformer",
@@ -50702,25 +50685,6 @@
       "TIME",
       "OF",
       "PLAGUE"
-    ]
-  },
-  {
-    "author": "Vsevolod Ganin",
-    "description": "Multiplayer Pong clone",
-    "genre": "Sports",
-    "id": "573119",
-    "link": "https://vsga.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -76479,11 +76443,11 @@
     ]
   },
   {
-    "author": "Mohammed Almahri",
+    "author": "Mahri2D",
     "description": "Bit2D",
     "genre": "Platformer",
     "id": "702291",
-    "link": "https://mohammed-almahri.itch.io/bit2d",
+    "link": "https://mahri2d.itch.io/bit2d",
     "platforms": [
       "Windows",
       "Android"
@@ -80914,6 +80878,25 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
+    ]
+  },
+  {
+    "author": "KennyTheBard",
+    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
+    "genre": "Sports",
+    "id": "727007",
+    "link": "https://kennythebard.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -94031,6 +94014,25 @@
     ]
   },
   {
+    "author": "T Studio Games",
+    "description": "short exploration painting game",
+    "genre": null,
+    "id": "782101",
+    "link": "https://t-studio-games.itch.io/island-artist",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyOTYxMDMuZ2lm/315x250%23cm/LIMhNi.gif",
+    "title": "Island Artist",
+    "video": "https://img.itch.zone/aW1nLzUyOTYxMDMuZ2lm/original/W%2BT8lq.gif",
+    "scrapeWords": [
+      "Island",
+      "Artist"
+    ]
+  },
+  {
     "author": "Denhonator",
     "description": "Roguelike with random enemy generation",
     "genre": "Action",
@@ -103561,11 +103563,7 @@
     "genre": "Puzzle",
     "id": "846118",
     "link": "https://pugdev.itch.io/megabat",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyMDM0ODIucG5n/315x250%23c/oMoclq.png",
     "title": "Megabat",
     "video": null,
@@ -115517,12 +115515,14 @@
   },
   {
     "author": "Kelvis Bandeira",
-    "description": "A prototype game created on Godot engine",
+    "description": "A simple shooter game created on Godot engine",
     "genre": "Action",
     "id": "927708",
     "link": "https://kekehdev.itch.io/pixelarena",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUyNDczNjIucG5n/315x250%23c/4GnWA7.png",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyOTU0MzIucG5n/315x250%23c/8CSB4w.png",
     "title": "PixelArena",
     "video": null,
     "scrapeWords": [
@@ -115939,9 +115939,9 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUyNjc5ODQuZ2lm/315x250%23cm/YESaZI.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUyOTY2MjQuanBn/315x250%23c/T7rU2C.jpg",
     "title": "We Snow Nothin'",
-    "video": "https://img.itch.zone/aW1nLzUyNjc5ODQuZ2lm/original/TI9keF.gif",
+    "video": null,
     "scrapeWords": [
       "We",
       "Snow",
@@ -116398,6 +116398,25 @@
     ]
   },
   {
+    "author": "Poq Xert",
+    "description": "Mahjong solitaire for single player",
+    "genre": "Puzzle",
+    "id": "932246",
+    "link": "https://poqxert.itch.io/mahjong-single",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyODA0MjYucG5n/315x250%23c/sbZafA.png",
+    "title": "Mahjong Single",
+    "video": null,
+    "scrapeWords": [
+      "Mahjong",
+      "Single"
+    ]
+  },
+  {
     "author": "JafCraze",
     "description": "They're just lost and hungry",
     "genre": "Survival",
@@ -116450,6 +116469,20 @@
     ]
   },
   {
+    "author": "LT Games",
+    "description": "A platformer where you control the platforms",
+    "genre": "Platformer",
+    "id": "933218",
+    "link": "https://lucasthomaz97.itch.io/skyterider",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyOTYwNzYucG5n/315x250%23c/zw%2F2Bq.png",
+    "title": "Skyterider",
+    "video": null,
+    "scrapeWords": [
+      "Skyterider"
+    ]
+  },
+  {
     "author": "zunfuyuzora",
     "description": "My First Game",
     "genre": "Platformer",
@@ -116477,6 +116510,90 @@
     "scrapeWords": [
       "Pong",
       "Game"
+    ]
+  },
+  {
+    "author": "jezv",
+    "description": "Inflatable flamingo take on ice curling",
+    "genre": "Sports",
+    "id": "934900",
+    "link": "https://jezv.itch.io/flamingo-island",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyOTY4NjUucG5n/315x250%23c/VbTkas.png",
+    "title": "Flamingo Island",
+    "video": null,
+    "scrapeWords": [
+      "Flamingo",
+      "Island"
+    ]
+  },
+  {
+    "author": "EternalNooblet",
+    "description": "Blow up the skeletons before they come back to life.",
+    "genre": "Platformer",
+    "id": "934921",
+    "link": "https://eternalnooblet.itch.io/resurrection-island",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyOTcxNjkuZ2lm/315x250%23cm/aM3Mai.gif",
+    "title": "Resurrection Island",
+    "video": "https://img.itch.zone/aW1nLzUyOTcxNjkuZ2lm/original/9Jux2c.gif",
+    "scrapeWords": [
+      "Resurrection",
+      "Island"
+    ]
+  },
+  {
+    "author": "Vopaman",
+    "description": "You must connect LED to light it up",
+    "genre": null,
+    "id": "935009",
+    "link": "https://vopaman.itch.io/light-please",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyOTczNzcucG5n/315x250%23c/t7qTvB.png",
+    "title": "Light please",
+    "video": null,
+    "scrapeWords": [
+      "Light",
+      "please"
+    ]
+  },
+  {
+    "author": "Dan Wolfgang",
+    "description": "Map Painting Wargame",
+    "genre": "Strategy",
+    "id": "935099",
+    "link": "https://dan-wolfgang.itch.io/civil-war-ii",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyOTk1NzYucG5n/315x250%23c/dNRQmZ.png",
+    "title": "Civil War II",
+    "video": null,
+    "scrapeWords": [
+      "Civil",
+      "War",
+      "II"
+    ]
+  },
+  {
+    "author": "SOMEwaterSHOULDhelp",
+    "description": "Not quite a scene painter, but a cool first project.",
+    "genre": "Simulation",
+    "id": "935341",
+    "link": "https://somewatershouldhelp.itch.io/scenepainter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDA1MTgucG5n/315x250%23c/osSeTW.png",
+    "title": "Scene Painter",
+    "video": null,
+    "scrapeWords": [
+      "Scene",
+      "Painter"
     ]
   },
   {
