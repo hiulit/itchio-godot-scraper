@@ -22249,23 +22249,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38710,6 +38693,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -57361,7 +57363,6 @@
     "id": "613714",
     "link": "https://asheraryam.itch.io/its-still-me",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -88121,7 +88122,7 @@
     "id": "753973",
     "link": "https://xendra.itch.io/malice-and-greed",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwNzkxMTcucG5n/315x250%23c/Jff4VH.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzMDgyOTQucG5n/315x250%23c/uuJ4f2.png",
     "title": "Malice & Greed",
     "video": null,
     "scrapeWords": [
@@ -100868,7 +100869,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUxNzQ3MTAucG5n/315x250%23c/c%2F369E.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzMDM4ODEucG5n/315x250%23c/wmoMgA.png",
     "title": "Escape The Box",
     "video": null,
     "scrapeWords": [
@@ -106560,10 +106561,10 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4Nzg5MzUucG5n/315x250%23c/1NKHJf.png",
-    "title": "bounceball",
+    "title": "Bounceball",
     "video": null,
     "scrapeWords": [
-      "bounceball"
+      "Bounceball"
     ]
   },
   {
@@ -107539,7 +107540,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5MjQyNzkucG5n/315x250%23c/PMgxX8.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzMDQ4MDMucG5n/315x250%23c/q8PWd4.png",
     "title": "Quadremor",
     "video": null,
     "scrapeWords": [
@@ -116110,14 +116111,14 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUyNjk2NDgucG5n/315x250%23c/nNHKio.png",
-    "title": "It's your turn to hide",
+    "title": "It's Your Turn To Hide",
     "video": null,
     "scrapeWords": [
       "Its",
-      "your",
-      "turn",
-      "to",
-      "hide"
+      "Your",
+      "Turn",
+      "To",
+      "Hide"
     ]
   },
   {
@@ -116582,6 +116583,22 @@
     ]
   },
   {
+    "author": "Josh Vazquez",
+    "description": "You're the test subject...",
+    "genre": "Strategy",
+    "id": "935159",
+    "link": "https://joshvaz.itch.io/survive",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyOTg5ODEucG5n/315x250%23c/ZCpq5T.png",
+    "title": "Survive",
+    "video": null,
+    "scrapeWords": [
+      "Survive"
+    ]
+  },
+  {
     "author": "SOMEwaterSHOULDhelp",
     "description": "Not quite a scene painter, but a cool first project.",
     "genre": "Simulation",
@@ -116608,6 +116625,146 @@
     "video": null,
     "scrapeWords": [
       "DRINK"
+    ]
+  },
+  {
+    "author": "zinnoa",
+    "description": "Chillax with a powerful grappling hook.",
+    "genre": "Adventure",
+    "id": "935402",
+    "link": "https://zinnoa.itch.io/etherscape",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMDcwMTUucG5n/315x250%23c/AejM3Y.png",
+    "title": "Etherscape",
+    "video": null,
+    "scrapeWords": [
+      "Etherscape"
+    ]
+  },
+  {
+    "author": "LML STUDIO",
+    "description": "Help Theodore get through the mysterious forest!",
+    "genre": "Platformer",
+    "id": "935835",
+    "link": "https://lml-studio.itch.io/theodore",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMDI0MTcucG5n/315x250%23c/ijEtJf.png",
+    "title": "Theodore",
+    "video": null,
+    "scrapeWords": [
+      "Theodore"
+    ]
+  },
+  {
+    "author": "Tim Krief",
+    "description": "Trapped in an endless maze",
+    "genre": "Action",
+    "id": "936103",
+    "link": "https://timkrief.itch.io/daedalus-demise",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMDQ0NjQuZ2lm/315x250%23cm/mnPRMi.gif",
+    "title": "Daedalus Demise",
+    "video": "https://img.itch.zone/aW1nLzUzMDQ0NjQuZ2lm/original/ugl7C2.gif",
+    "scrapeWords": [
+      "Daedalus",
+      "Demise"
+    ]
+  },
+  {
+    "author": "andrea",
+    "description": "Side scrolling platform game featuring zombies",
+    "genre": "Platformer",
+    "id": "936312",
+    "link": "https://romagnoli.itch.io/zombies-2d",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDUwMTQucG5n/315x250%23c/XGB4yR.png",
+    "title": "Zombies 2D",
+    "video": null,
+    "scrapeWords": [
+      "Zombies",
+      "2",
+      "D"
+    ]
+  },
+  {
+    "author": "Adan's Workshop",
+    "description": "Run around as a Hamster",
+    "genre": "Adventure",
+    "id": "936439",
+    "link": "https://adans-workshop.itch.io/dash",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDU2MDUucG5n/315x250%23c/VvCsQM.png",
+    "title": "Dash",
+    "video": null,
+    "scrapeWords": [
+      "Dash"
+    ]
+  },
+  {
+    "author": "oakdays",
+    "description": "An intriguing card game with slightly complex rules",
+    "genre": "Card Game",
+    "id": "936509",
+    "link": "https://oakdays.itch.io/im-the-best",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDYwNDkucG5n/315x250%23c/AD%2FUZ1.png",
+    "title": "You're the best!",
+    "video": null,
+    "scrapeWords": [
+      "Youre",
+      "the",
+      "best"
+    ]
+  },
+  {
+    "author": "hilde",
+    "description": "A glorified flappy bird clone I made in 3 days",
+    "genre": null,
+    "id": "936531",
+    "link": "https://hildergill.itch.io/the-sky",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDYyNjYucG5n/315x250%23c/LrQGGe.png",
+    "title": "The Sky",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Sky"
+    ]
+  },
+  {
+    "author": "Seik Sugaloth",
+    "description": "Control a blue/purple ball trying to reach a strange portal. Shrink or grow (or both) to achieve your goal.",
+    "genre": "Puzzle",
+    "id": "936665",
+    "link": "https://seiksugaloth.itch.io/no-idea-what-to-call-this-game-but-here-it-is-anyways",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDY5MTEucG5n/315x250%23c/Nj0Zet.png",
+    "title": "No idea what to call this game but here it is anyways",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "idea",
+      "what",
+      "to",
+      "call",
+      "this",
+      "game",
+      "but",
+      "here",
+      "it",
+      "is",
+      "anyways"
     ]
   },
   {
