@@ -22249,6 +22249,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38693,25 +38710,6 @@
     "scrapeWords": [
       "Project",
       "Huesos"
-    ]
-  },
-  {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -62612,7 +62610,7 @@
   },
   {
     "author": "OatsProduction",
-    "description": "pre alpha build",
+    "description": "v0.1 Tutorial Act",
     "genre": "Adventure",
     "id": "637930",
     "link": "https://oatsproduction.itch.io/alveron-kingdom",
@@ -62621,7 +62619,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NDY2NzUucG5n/315x250%23c/FeDMuh.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzMTU4OTMucG5n/315x250%23c/qo2XxN.png",
     "title": "Alveron Kingdom",
     "video": null,
     "scrapeWords": [
@@ -79001,7 +78999,7 @@
     ]
   },
   {
-    "author": "MsUn",
+    "author": "msun_",
     "description": "A little 2D-platformer where you wake up in the past and you should hide from dinosaurs.",
     "genre": "Adventure",
     "id": "716045",
@@ -94321,24 +94319,6 @@
     ]
   },
   {
-    "author": "Fija",
-    "description": "A game with emerging gameplay, where everything is either cake or not cake.",
-    "genre": "Puzzle",
-    "id": "784405",
-    "link": "https://fija.itch.io/gameofcake",
-    "platforms": [
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQzODkxOTAucG5n/315x250%23c/fyiwp%2B.png",
-    "title": "Game of Cake",
-    "video": null,
-    "scrapeWords": [
-      "Game",
-      "of",
-      "Cake"
-    ]
-  },
-  {
     "author": "pand4y0",
     "description": "HELP YURI SURVIVE THE ASTEROID FIELD",
     "genre": "Survival",
@@ -94850,7 +94830,7 @@
     ]
   },
   {
-    "author": "Karamel",
+    "author": "Karamel (Cup'n Plate Games)",
     "description": "A 360° block breaker. Grab the keys and warp yourself to the next level.",
     "genre": "Action",
     "id": "787527",
@@ -96452,7 +96432,8 @@
     "link": "https://tuanisapps.itch.io/the-lagrange-grid",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MTk2NTkucG5n/315x250%23c/iqTlJC.png",
     "title": "The Lagrange Grid",
@@ -104127,6 +104108,22 @@
     ]
   },
   {
+    "author": "msun_",
+    "description": null,
+    "genre": "Platformer",
+    "id": "852888",
+    "link": "https://msun.itch.io/jmpadvnt",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMTE5ODIucG5n/315x250%23c/lYpe%2Fn.png",
+    "title": "A jumpy adventure",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "jumpy",
+      "adventure"
+    ]
+  },
+  {
     "author": "swordmaster2k",
     "description": "Hippity hoppity, cure those froggitys!",
     "genre": "Puzzle",
@@ -107310,6 +107307,23 @@
     ]
   },
   {
+    "author": "Mitos",
+    "description": "Small pixelart game about crawling dungeons made of ascii characters",
+    "genre": "Adventure",
+    "id": "873378",
+    "link": "https://mitos.itch.io/dndos",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwODkxODQuanBn/315x250%23c/kOCvTG.jpg",
+    "title": "Dungeons & DOS",
+    "video": null,
+    "scrapeWords": [
+      "Dungeons",
+      "DOS"
+    ]
+  },
+  {
     "author": "zccv",
     "description": null,
     "genre": "Platformer",
@@ -110150,7 +110164,7 @@
     ]
   },
   {
-    "author": "crowdedgames",
+    "author": "Crowded Games",
     "description": "Multiplayer mad run game! Runs, spells, fireballs and betrayals. Get the kingdom throne the first!",
     "genre": "Action",
     "id": "891441",
@@ -113994,6 +114008,23 @@
     ]
   },
   {
+    "author": "kodlon",
+    "description": "You must hack it!",
+    "genre": "Action",
+    "id": "914814",
+    "link": "https://kodlon.itch.io/project-virus",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNzE4NDMucG5n/315x250%23c/997Qvu.png",
+    "title": "Project Virus",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "Virus"
+    ]
+  },
+  {
     "author": "albesca",
     "description": "A 2D endless runner",
     "genre": null,
@@ -114982,6 +115013,32 @@
     "video": null,
     "scrapeWords": [
       "Octornot"
+    ]
+  },
+  {
+    "author": "Cahatstrophe Games",
+    "description": "It's all in the name, really",
+    "genre": "Fighting",
+    "id": "923675",
+    "link": "https://cahatstrophe-games.itch.io/swordfighting-for-people-who-are-really-bad-at-swordfighting",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMDY2NjUucG5n/315x250%23c/h2v3EB.png",
+    "title": "Swordfighting For People Who Are Really Bad At Swordfighting",
+    "video": null,
+    "scrapeWords": [
+      "Swordfighting",
+      "For",
+      "People",
+      "Who",
+      "Are",
+      "Really",
+      "Bad",
+      "At",
+      "Swordfighting"
     ]
   },
   {
@@ -116186,6 +116243,24 @@
     ]
   },
   {
+    "author": "edibletoe",
+    "description": "The Moon awaits.",
+    "genre": "Adventure",
+    "id": "930485",
+    "link": "https://edibletoe.itch.io/eye-have-you",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyNzEwNzkucG5n/315x250%23c/8CVXRn.png",
+    "title": "Eye Have You",
+    "video": null,
+    "scrapeWords": [
+      "Eye",
+      "Have",
+      "You"
+    ]
+  },
+  {
     "author": "null painter",
     "description": "Can you cure this bizarre line-up of patients in time and secure your job?!",
     "genre": "Action",
@@ -116514,13 +116589,27 @@
     ]
   },
   {
+    "author": "Mr Afroduck",
+    "description": "High intensity platformer/boss fight",
+    "genre": "Platformer",
+    "id": "933902",
+    "link": "https://mr-afroduck.itch.io/curdle-jam-11-hunted",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMTEwNDYuanBn/315x250%23c/fhIVYR.jpg",
+    "title": "Hunted",
+    "video": null,
+    "scrapeWords": [
+      "Hunted"
+    ]
+  },
+  {
     "author": "jezv",
     "description": "Inflatable flamingo take on ice curling",
     "genre": "Sports",
     "id": "934900",
     "link": "https://jezv.itch.io/flamingo-island",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUyOTY4NjUucG5n/315x250%23c/VbTkas.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzMTI2NDMucG5n/315x250%23c/3TN1Ko.png",
     "title": "Flamingo Island",
     "video": null,
     "scrapeWords": [
@@ -116663,6 +116752,24 @@
     ]
   },
   {
+    "author": "Crowded Games",
+    "description": "Stream-oriented super-easy-to-setup auto-translate",
+    "genre": null,
+    "id": "936014",
+    "link": "https://crowdedgames.itch.io/stream-trivia-quiz",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMDMzMDcucG5n/315x250%23c/bnENvC.png",
+    "title": "Stream Trivia Quiz",
+    "video": null,
+    "scrapeWords": [
+      "Stream",
+      "Trivia",
+      "Quiz"
+    ]
+  },
+  {
     "author": "Tim Krief",
     "description": "Trapped in an endless maze",
     "genre": "Action",
@@ -116744,27 +116851,101 @@
   },
   {
     "author": "Seik Sugaloth",
-    "description": "Control a blue/purple ball trying to reach a strange portal. Shrink or grow (or both) to achieve your goal.",
+    "description": "Control a purple ball trying to reach a strange portal. Shrink or grow (or both) to achieve your goal.",
     "genre": "Puzzle",
     "id": "936665",
-    "link": "https://seiksugaloth.itch.io/no-idea-what-to-call-this-game-but-here-it-is-anyways",
+    "link": "https://seiksugaloth.itch.io/yup-this-is-my-game",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUzMDY5MTEucG5n/315x250%23c/Nj0Zet.png",
-    "title": "No idea what to call this game but here it is anyways",
+    "title": "Perplexing Purple Puzzle",
     "video": null,
     "scrapeWords": [
-      "No",
-      "idea",
-      "what",
-      "to",
-      "call",
-      "this",
-      "game",
-      "but",
-      "here",
-      "it",
-      "is",
-      "anyways"
+      "Perplexing",
+      "Purple",
+      "Puzzle"
+    ]
+  },
+  {
+    "author": "EliasG2",
+    "description": "when you fail 5 times you start over",
+    "genre": "Platformer",
+    "id": "937012",
+    "link": "https://eliasg2.itch.io/will-you-ball",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDg5OTUucG5n/315x250%23c/xKmx1z.png",
+    "title": "will you ball?",
+    "video": null,
+    "scrapeWords": [
+      "will",
+      "you",
+      "ball"
+    ]
+  },
+  {
+    "author": "Nehemiah Turner",
+    "description": "Beta Release of a procedural adventure game currently being developed",
+    "genre": null,
+    "id": "937194",
+    "link": "https://99thnehemiah.itch.io/procedural-planet",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMTAzNjcucG5n/315x250%23c/XB3viL.png",
+    "title": "Procedural Planet",
+    "video": null,
+    "scrapeWords": [
+      "Procedural",
+      "Planet"
+    ]
+  },
+  {
+    "author": "JRBeryllium",
+    "description": "An open source procedural platformer about avoiding cave enemies while scoring points.",
+    "genre": "Platformer",
+    "id": "937222",
+    "link": "https://jrberyllium.itch.io/cave",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMTAxODMucG5n/315x250%23c/lZyA2d.png",
+    "title": "Cave",
+    "video": null,
+    "scrapeWords": [
+      "Cave"
+    ]
+  },
+  {
+    "author": "RAPIDPUNCHES",
+    "description": "Goblin shar, wollfish, gastropod, elephant seal, rockhopper, cuttlefish, slug.",
+    "genre": "Platformer",
+    "id": "937807",
+    "link": "https://rapidpunches.itch.io/sea-bottom",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMTM0MTMuZ2lm/315x250%23cm/PRPXa9.gif",
+    "title": "Bottom of the Sea",
+    "video": "https://img.itch.zone/aW1nLzUzMTM0MTMuZ2lm/original/uDNwX2.gif",
+    "scrapeWords": [
+      "Bottom",
+      "of",
+      "the",
+      "Sea"
+    ]
+  },
+  {
+    "author": "A J",
+    "description": "You are in the ancient ruby temple, and you must find the ancient ruby  that lies within.",
+    "genre": "Adventure",
+    "id": "937852",
+    "link": "https://a-j.itch.io/ruby-temple",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMTU0MjgucG5n/315x250%23c/4DvEsu.png",
+    "title": "Ruby Temple",
+    "video": null,
+    "scrapeWords": [
+      "Ruby",
+      "Temple"
     ]
   },
   {
@@ -116783,6 +116964,23 @@
     "scrapeWords": [
       "Mushroom",
       "Towers"
+    ]
+  },
+  {
+    "author": "Micah Fischer",
+    "description": "A short Sim game created in 7 days for GamesPlusJam2021",
+    "genre": "Simulation",
+    "id": "938155",
+    "link": "https://micahfischer.itch.io/minimart",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMTU4MDgucG5n/315x250%23c/LX5CJJ.png",
+    "title": "MiniMart",
+    "video": null,
+    "scrapeWords": [
+      "Mini",
+      "Mart"
     ]
   },
   {
