@@ -10545,29 +10545,6 @@
     ]
   },
   {
-    "author": "Binogure Studio",
-    "description": "Shoot marbles, trigger chain reactions and challenge your friends",
-    "genre": "Puzzle",
-    "id": "262844",
-    "link": "https://binogure.itch.io/sneakin",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjYyODQ0LzEyNjM3OTIucG5n/315x250%23c/rIKqu%2B.png",
-    "title": "Sneak In - Marble Shooter Game",
-    "video": null,
-    "scrapeWords": [
-      "Sneak",
-      "In",
-      "Marble",
-      "Shooter",
-      "Game"
-    ]
-  },
-  {
     "author": "Davi Fox",
     "description": "Make your way through the rainy night",
     "genre": "Platformer",
@@ -38522,24 +38499,6 @@
     ]
   },
   {
-    "author": "PixelDud",
-    "description": "A small 6 level platformer.",
-    "genre": "Platformer",
-    "id": "478375",
-    "link": "https://pixeldud.itch.io/colors",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NTk5OTgucG5n/315x250%23c/jDglWX.png",
-    "title": "Colors",
-    "video": null,
-    "scrapeWords": [
-      "Colors"
-    ]
-  },
-  {
     "author": "Guilherme Dias",
     "description": "Sobreviva ao extremo!",
     "genre": "Action",
@@ -65078,6 +65037,21 @@
     ]
   },
   {
+    "author": "carshalljd",
+    "description": "Multiplayer capture the flag with weapons",
+    "genre": "Action",
+    "id": "650606",
+    "link": "https://carshalljd.itch.io/superctf",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1ODQ5MDMucG5n/315x250%23c/2VM08M.png",
+    "title": "SuperCTF",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "CTF"
+    ]
+  },
+  {
     "author": "extra_syrup",
     "description": "Don't get picked! Be the last egg left! [Made with Godot]",
     "genre": "Puzzle",
@@ -67463,24 +67437,6 @@
     "scrapeWords": [
       "Chroma",
       "Rails"
-    ]
-  },
-  {
-    "author": "DogedomStudioS",
-    "description": "TBC for Finally Finish Something Jam 2021",
-    "genre": null,
-    "id": "664903",
-    "link": "https://dogedomstudios.itch.io/applesvsoranges",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1OTMzMzAucG5n/315x250%23c/CP0g2I.png",
-    "title": "Apples Versus Oranges",
-    "video": null,
-    "scrapeWords": [
-      "Apples",
-      "Versus",
-      "Oranges"
     ]
   },
   {
@@ -80657,7 +80613,9 @@
     "genre": "Adventure",
     "id": "725763",
     "link": "https://piratechipgames.itch.io/decked-out-knight",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQwMjc2MjAuZ2lm/315x250%23cm/B8Junq.gif",
     "title": "Decked Out Knight",
     "video": "https://img.itch.zone/aW1nLzQwMjc2MjAuZ2lm/original/6Gka6L.gif",
@@ -90198,7 +90156,9 @@
     "genre": "Simulation",
     "id": "764451",
     "link": "https://patricemp.itch.io/outbreak-in-space",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQzMzc3OTcucG5n/315x250%23c/%2FOQJMZ.png",
     "title": "Outbreak in Space",
     "video": null,
@@ -92945,24 +92905,6 @@
     ]
   },
   {
-    "author": "A J",
-    "description": "Horror game where you have to collect all six ice creams while avoiding the shadow monster.",
-    "genre": "Survival",
-    "id": "778136",
-    "link": "https://a-j.itch.io/artic-shadows",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0NDQxNjkucG5n/315x250%23c/LpV5rm.png",
-    "title": "Arctic Shadows",
-    "video": null,
-    "scrapeWords": [
-      "Arctic",
-      "Shadows"
-    ]
-  },
-  {
     "author": "LuisMint",
     "description": "Restore childhood memories by replaying your old jank cartridge of MINI RACERS for the Nintendo 64",
     "genre": "Racing",
@@ -94166,7 +94108,9 @@
     "genre": "Educational",
     "id": "782545",
     "link": "https://pedrorns.itch.io/democracia-socratica",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ3OTQ3MjEucG5n/315x250%23c/Wy1Rl0.png",
     "title": "Socratic Democracy",
     "video": null,
@@ -96043,7 +95987,7 @@
   },
   {
     "author": "Gamocrates",
-    "description": "You, a post-apocalyptic earth, a time machine. The fate of humanity is in your hands.",
+    "description": "The turn-based time travel adventure",
     "genre": "Puzzle",
     "id": "796296",
     "link": "https://gamocrates.itch.io/teiy",
@@ -103854,23 +103798,6 @@
     ]
   },
   {
-    "author": "Mateu S",
-    "description": "A match 3 game adventure",
-    "genre": "Adventure",
-    "id": "848710",
-    "link": "https://mateu-s.itch.io/matchland",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4MTU4NjMucG5n/315x250%23c/Ptof3Q.png",
-    "title": "Matchland",
-    "video": null,
-    "scrapeWords": [
-      "Matchland"
-    ]
-  },
-  {
     "author": "brwxisme",
     "description": "Learn Javanese Krama Language",
     "genre": "Educational",
@@ -107511,9 +107438,7 @@
     "genre": "Educational",
     "id": "874207",
     "link": "https://r1sk.itch.io/nostalgia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ5MTc3NzYucG5n/315x250%23c/SvVPNg.png",
     "title": "Nostalgia",
     "video": null,
@@ -107545,7 +107470,7 @@
     "id": "874630",
     "link": "https://flashlight13.itch.io/comrade-architect",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwNzgzMzcucG5n/315x250%23c/iWjmIv.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzMzkzMzkucG5n/315x250%23c/R%2BpwLP.png",
     "title": "Comrade Architect",
     "video": null,
     "scrapeWords": [
@@ -109569,6 +109494,26 @@
     ]
   },
   {
+    "author": "nicksmaddog",
+    "description": "Extract resources, make a profit, save your family!",
+    "genre": null,
+    "id": "886534",
+    "link": "https://nicksmaddog.itch.io/damon-the-merchant",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTgxMzUucG5n/315x250%23c/3YGr9d.png",
+    "title": "Damon the Merchant",
+    "video": null,
+    "scrapeWords": [
+      "Damon",
+      "the",
+      "Merchant"
+    ]
+  },
+  {
     "author": "mikouaji",
     "description": "My entry for the Godot Wild Jam 29",
     "genre": "Survival",
@@ -111282,25 +111227,6 @@
     ]
   },
   {
-    "author": "Abbajur",
-    "description": "Hunt down all those Slimes!",
-    "genre": "Role Playing",
-    "id": "899913",
-    "link": "https://abbajur.itch.io/slime-hunter-2000",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUwODAzMjQucG5n/315x250%23c/4oO5Jh.png",
-    "title": "Slime Hunter 2000",
-    "video": null,
-    "scrapeWords": [
-      "Slime",
-      "Hunter",
-      "2000"
-    ]
-  },
-  {
     "author": "Henrik \"Desaru\" Tallen",
     "description": "Spacepirate Gardening Simulator",
     "genre": null,
@@ -111499,9 +111425,7 @@
     "genre": "Shooter",
     "id": "900858",
     "link": "https://r1sk.itch.io/sxs",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwODczNjAucG5n/315x250%23c/%2F1Nrj8.png",
     "title": "SxS",
     "video": null,
@@ -114242,7 +114166,7 @@
     "id": "916726",
     "link": "https://cwisbg.itch.io/my-cabin",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUyNzIyODIucG5n/315x250%23c/0T%2FtI4.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzMzczOTEucG5n/315x250%23c/O2Z4Zp.png",
     "title": "My Cabin",
     "video": null,
     "scrapeWords": [
@@ -115084,9 +115008,7 @@
     "genre": "Adventure",
     "id": "922999",
     "link": "https://moorwort.itch.io/octornot",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyMTk0MzYucG5n/315x250%23c/3aL90g.png",
     "title": "Octornot",
     "video": null,
@@ -115450,10 +115372,7 @@
     "genre": "Educational",
     "id": "926566",
     "link": "https://konkonmedia.itch.io/cuidados-contra-o-virus",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyNDA3MzcucG5n/315x250%23c/g7%2FdCK.png",
     "title": "Cuidados Contra o Vírus",
     "video": null,
@@ -116924,7 +116843,7 @@
   },
   {
     "author": "Crowded Games",
-    "description": "Stream-oriented super-easy-to-setup auto-translate",
+    "description": "Twitch oriented super-easy-to-setup auto-translate",
     "genre": null,
     "id": "936014",
     "link": "https://crowdedgames.itch.io/stream-trivia-quiz",
@@ -117037,6 +116956,21 @@
     ]
   },
   {
+    "author": "Data Overflow",
+    "description": null,
+    "genre": "Platformer",
+    "id": "936975",
+    "link": "https://dataoverflow.itch.io/notebook-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzI3NDkuZ2lm/315x250%23cm/6CZgwO.gif",
+    "title": "Notebook Game",
+    "video": "https://img.itch.zone/aW1nLzUzMzI3NDkuZ2lm/original/jjOwzY.gif",
+    "scrapeWords": [
+      "Notebook",
+      "Game"
+    ]
+  },
+  {
     "author": "EliasG2",
     "description": "when you fail 5 times you start over",
     "genre": "Platformer",
@@ -117069,6 +117003,25 @@
     "scrapeWords": [
       "Needed",
       "Failure"
+    ]
+  },
+  {
+    "author": "Herald",
+    "description": "Reflex-based samurai duel game",
+    "genre": "Fighting",
+    "id": "937023",
+    "link": "https://heraldod.itch.io/blades-honor",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjMzMzAuZ2lm/315x250%23cm/4S1FZd.gif",
+    "title": "Blade's Honor",
+    "video": "https://img.itch.zone/aW1nLzUzMjMzMzAuZ2lm/original/AsN%2BFl.gif",
+    "scrapeWords": [
+      "Blades",
+      "Honor"
     ]
   },
   {
@@ -117126,6 +117079,27 @@
     ]
   },
   {
+    "author": "MrEliptik (vico.choco)",
+    "description": "You're running away from what's supposed to be the goal, progressing each run.",
+    "genre": "Action",
+    "id": "937307",
+    "link": "https://mreliptik.itch.io/zoid",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjAxMDgucG5n/315x250%23c/5Fyy77.png",
+    "title": "Zoid - The great escape",
+    "video": null,
+    "scrapeWords": [
+      "Zoid",
+      "The",
+      "great",
+      "escape"
+    ]
+  },
+  {
     "author": "Rubn",
     "description": "Relax with bees",
     "genre": "Simulation",
@@ -117167,6 +117141,24 @@
     "video": null,
     "scrapeWords": [
       "beepboopbeep"
+    ]
+  },
+  {
+    "author": "warspiteful",
+    "description": null,
+    "genre": "Action",
+    "id": "937643",
+    "link": "https://warspiteful.itch.io/significant-otters",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMTg5MTEucG5n/315x250%23c/koA9R6.png",
+    "title": "Significant Otters",
+    "video": null,
+    "scrapeWords": [
+      "Significant",
+      "Otters"
     ]
   },
   {
@@ -117281,7 +117273,9 @@
     "id": "938155",
     "link": "https://micahfischer.itch.io/minimart",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzMTU4MDgucG5n/315x250%23c/LX5CJJ.png",
     "title": "MiniMart",
@@ -117289,6 +117283,21 @@
     "scrapeWords": [
       "Mini",
       "Mart"
+    ]
+  },
+  {
+    "author": "HI_TV",
+    "description": "you are a host (half ghost half human) and have to escape from the castle",
+    "genre": "Platformer",
+    "id": "938280",
+    "link": "https://hi-tv.itch.io/left-alive",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMTU5MTYucG5n/315x250%23c/u3Eevj.png",
+    "title": "LEFT ALIVE",
+    "video": null,
+    "scrapeWords": [
+      "LEFT",
+      "ALIVE"
     ]
   },
   {
@@ -117306,6 +117315,25 @@
     "scrapeWords": [
       "Reverse",
       "Pong"
+    ]
+  },
+  {
+    "author": "_superspaceturtle",
+    "description": "Game where death is frequent and fast. Save as many souls as you can!",
+    "genre": "Action",
+    "id": "938324",
+    "link": "https://josef-ambruz.itch.io/death-mask",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjc3NTUucG5n/315x250%23c/xLeVat.png",
+    "title": "Death Mask",
+    "video": null,
+    "scrapeWords": [
+      "Death",
+      "Mask"
     ]
   },
   {
@@ -117385,6 +117413,24 @@
       "Get",
       "All",
       "Coin"
+    ]
+  },
+  {
+    "author": "Selina",
+    "description": "A benevolent AI won't let any harm come to you. Can you still manage to escape?",
+    "genre": "Platformer",
+    "id": "938922",
+    "link": "https://selinadev.itch.io/i-wont-let-you-fail",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMjkzMzkucG5n/315x250%23c/uwrBCY.png",
+    "title": "I Won't Let You Fail",
+    "video": null,
+    "scrapeWords": [
+      "I",
+      "Wont",
+      "Let",
+      "You",
+      "Fail"
     ]
   },
   {
@@ -117525,6 +117571,40 @@
     ]
   },
   {
+    "author": "Prince de sang 201b8",
+    "description": "Potat0s Gam Jam 6 submission",
+    "genre": "Puzzle",
+    "id": "939561",
+    "link": "https://prince-de-sang-201b8.itch.io/abstractode",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzc0MzYucG5n/315x250%23c/GWrjtA.png",
+    "title": "Abstractoïde",
+    "video": null,
+    "scrapeWords": [
+      "Abstractoïde"
+    ]
+  },
+  {
+    "author": "MagellanicGames",
+    "description": "Turn-based first person fantasy dungeon crawler.",
+    "genre": "Role Playing",
+    "id": "939585",
+    "link": "https://magellanicgames.itch.io/castle-eminence-demo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjkxMTUucG5n/315x250%23c/PZZv0S.png",
+    "title": "Castle Eminence Demo",
+    "video": null,
+    "scrapeWords": [
+      "Castle",
+      "Eminence"
+    ]
+  },
+  {
     "author": "Demindiro",
     "description": "Stop the witch from doing mean things!",
     "genre": "Platformer",
@@ -117542,6 +117622,22 @@
       "Beat",
       "the",
       "Witch"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "It's my poison of choice",
+    "genre": "Puzzle",
+    "id": "939759",
+    "link": "https://jafcraze.itch.io/wowiejam30",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzAyNzcuZ2lm/315x250%23cm/SbxKvZ.gif",
+    "title": "Thirst For Poison",
+    "video": "https://img.itch.zone/aW1nLzUzMzAyNzcuZ2lm/original/3rF8C3.gif",
+    "scrapeWords": [
+      "Thirst",
+      "For",
+      "Poison"
     ]
   },
   {
@@ -117565,6 +117661,24 @@
     ]
   },
   {
+    "author": "Nayckron",
+    "description": null,
+    "genre": "Platformer",
+    "id": "939761",
+    "link": "https://nayckron.itch.io/slimy-jimmy",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjc1MjMucG5n/315x250%23c/VaP84t.png",
+    "title": "Slimy Jimmy",
+    "video": null,
+    "scrapeWords": [
+      "Slimy",
+      "Jimmy"
+    ]
+  },
+  {
     "author": "Sebastián",
     "description": "Dash around the pizzeria and serve customers their delicious pizzas before they get bored and leave!",
     "genre": "Action",
@@ -117583,6 +117697,25 @@
     ]
   },
   {
+    "author": "guydoesthings",
+    "description": "My desperate attempt at giving a product FAST",
+    "genre": null,
+    "id": "939795",
+    "link": "https://guydoesthings.itch.io/aritgame",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzQ4NTMucG5n/315x250%23c/92zk7%2F.png",
+    "title": "arit the alien",
+    "video": null,
+    "scrapeWords": [
+      "arit",
+      "the",
+      "alien"
+    ]
+  },
+  {
     "author": "goofyblocks",
     "description": "a 3d platformer where you die to win",
     "genre": "Platformer",
@@ -117598,6 +117731,21 @@
       "Tonys",
       "Big",
       "Adventure"
+    ]
+  },
+  {
+    "author": "M_rld",
+    "description": "Use your corpses to progress! Play in your browser",
+    "genre": "Platformer",
+    "id": "940066",
+    "link": "https://mrld.itch.io/death-barrier",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzcwNTEucG5n/315x250%23c/z7f1ne.png",
+    "title": "DEATH BARRIER",
+    "video": null,
+    "scrapeWords": [
+      "DEATH",
+      "BARRIER"
     ]
   },
   {
@@ -117636,6 +117784,45 @@
     ]
   },
   {
+    "author": "clima",
+    "description": "Wowie Jam 3.0 Submission",
+    "genre": "Action",
+    "id": "940511",
+    "link": "https://clima.itch.io/cube-and-flags-go-brr",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "Cube and Flags go Brr!",
+    "video": null,
+    "scrapeWords": [
+      "Cube",
+      "and",
+      "Flags",
+      "go",
+      "Brr"
+    ]
+  },
+  {
+    "author": "Wartori",
+    "description": "Game for wowie game jam",
+    "genre": "Platformer",
+    "id": "940571",
+    "link": "https://wartori.itch.io/robobreak",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjkyNTkucG5n/315x250%23c/pLTnk3.png",
+    "title": "Robobreak",
+    "video": null,
+    "scrapeWords": [
+      "Robobreak"
+    ]
+  },
+  {
     "author": "SUNY GDC",
     "description": "miss things to win",
     "genre": "Action",
@@ -117650,6 +117837,232 @@
     "scrapeWords": [
       "Egg",
       "Assault"
+    ]
+  },
+  {
+    "author": "sushidev",
+    "description": null,
+    "genre": "Platformer",
+    "id": "940617",
+    "link": "https://sushidev01.itch.io/wow-die",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjg4NzEucG5n/315x250%23c/15qgQ9.png",
+    "title": "Wow Die",
+    "video": null,
+    "scrapeWords": [
+      "Wow",
+      "Die"
+    ]
+  },
+  {
+    "author": "SoMir",
+    "description": "A small 2d platformer for the Wowie 3.0 Jam",
+    "genre": "Platformer",
+    "id": "940634",
+    "link": "https://somir.itch.io/you-win",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjkyMjIucG5n/315x250%23c/LuLoCA.png",
+    "title": "You win(not)!",
+    "video": null,
+    "scrapeWords": [
+      "You",
+      "winnot"
+    ]
+  },
+  {
+    "author": "Missmelher",
+    "description": "Succeed on failing on your journey",
+    "genre": "Platformer",
+    "id": "940737",
+    "link": "https://missmelher.itch.io/one-tricky-journey",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzAyMjEucG5n/315x250%23c/3cd2Kk.png",
+    "title": "One Tricky Journey",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Tricky",
+      "Journey"
+    ]
+  },
+  {
+    "author": "bit05",
+    "description": "Made for the 2021 WOWIE Jam 3",
+    "genre": "Platformer",
+    "id": "940764",
+    "link": "https://bit05.itch.io/br3k0ut",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjk0NTIucG5n/315x250%23c/Af5t4w.png",
+    "title": "BR3K 0UT",
+    "video": null,
+    "scrapeWords": [
+      "BR3",
+      "K",
+      "0",
+      "UT"
+    ]
+  },
+  {
+    "author": "lwaken",
+    "description": null,
+    "genre": "Adventure",
+    "id": "940772",
+    "link": "https://lwaken.itch.io/power-the-plant",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMjk5NzcucG5n/315x250%23c/P%2FQ3H3.png",
+    "title": "Power the plant",
+    "video": null,
+    "scrapeWords": [
+      "Power",
+      "the",
+      "plant"
+    ]
+  },
+  {
+    "author": "rickropes",
+    "description": "Will you save humanity, or will you just... give up?",
+    "genre": "Action",
+    "id": "940913",
+    "link": "https://rickropes.itch.io/a-date-with-death",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzA1NDgucG5n/315x250%23c/bywPJS.png",
+    "title": "A Date with Death",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Date",
+      "with",
+      "Death"
+    ]
+  },
+  {
+    "author": "Blauhschwert",
+    "description": "Four different souls share one body and pursue other goals.",
+    "genre": "Platformer",
+    "id": "940950",
+    "link": "https://blauhschwert.itch.io/shatt",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzA1MjgucG5n/315x250%23c/Xo%2Bx3n.png",
+    "title": "Shattered Soul",
+    "video": null,
+    "scrapeWords": [
+      "Shattered",
+      "Soul"
+    ]
+  },
+  {
+    "author": "MyYeeziesHaveTheSneezies",
+    "description": "Delivering the post at ANY cost.",
+    "genre": "Puzzle",
+    "id": "940964",
+    "link": "https://myyeezieshavethesneezies.itch.io/post-haste",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzIzMTEucG5n/315x250%23c/lrN7Hl.png",
+    "title": "Post-haste",
+    "video": null,
+    "scrapeWords": [
+      "Post-haste"
+    ]
+  },
+  {
+    "author": "The Missing Bracket",
+    "description": "Trapped in a dungeon filled with spirits, use your scythe and your spirit to survive",
+    "genre": "Survival",
+    "id": "941029",
+    "link": "https://the-missing-bracket.itch.io/soul-reaper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzExODgucG5n/315x250%23c/x2NV9E.png",
+    "title": "Spirit Reaper",
+    "video": null,
+    "scrapeWords": [
+      "Spirit",
+      "Reaper"
+    ]
+  },
+  {
+    "author": "Amber Studios",
+    "description": "Use your epic slime powers to embark on this adventure.",
+    "genre": "Puzzle",
+    "id": "941039",
+    "link": "https://amberstudios.itch.io/slimey-the-slime",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjk4NTYucG5n/315x250%23c/XcE%2BIv.png",
+    "title": "Slimey the Slime",
+    "video": null,
+    "scrapeWords": [
+      "Slimey",
+      "the",
+      "Slime"
+    ]
+  },
+  {
+    "author": "J.K.R. Gwyn",
+    "description": "A agent on a dangerous mission must enter a strange dimension to jump through time and space.",
+    "genre": "Platformer",
+    "id": "941132",
+    "link": "https://jkrgwyn.itch.io/geojumper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzI0MjcucG5n/315x250%23c/2Q4ERd.png",
+    "title": "GeoJumper",
+    "video": null,
+    "scrapeWords": [
+      "Geo",
+      "Jumper"
+    ]
+  },
+  {
+    "author": "Quasarc",
+    "description": "Small game for YGDA Game Jam",
+    "genre": null,
+    "id": "941420",
+    "link": "https://quasarc.itch.io/basket-grape",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzUzNTMucG5n/315x250%23c/gFPpgG.png",
+    "title": "Basket Grape",
+    "video": null,
+    "scrapeWords": [
+      "Basket",
+      "Grape"
+    ]
+  },
+  {
+    "author": "serena.denault",
+    "description": "Reach the medicine in 1 minute or less!",
+    "genre": "Platformer",
+    "id": "941874",
+    "link": "https://serenadenault.itch.io/one-minute-max",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzc3ODUucG5n/315x250%23c/tqmW1F.png",
+    "title": "One Minute Max",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Minute",
+      "Max"
     ]
   },
   {
