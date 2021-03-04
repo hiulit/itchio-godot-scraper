@@ -48308,7 +48308,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMjgzMzEucG5n/315x250%23c/QdEEBO.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzNTAwODQucG5n/315x250%23c/QtTmZs.png",
     "title": "Hollows",
     "video": null,
     "scrapeWords": [
@@ -63526,27 +63526,6 @@
     ]
   },
   {
-    "author": "Samsong",
-    "description": "Save your pet dragon! on a adventure of monsters and traps.",
-    "genre": null,
-    "id": "643290",
-    "link": "https://samsong.itch.io/dragon-of-the-night",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NTE3MTQucG5n/315x250%23c/F5jyRD.png",
-    "title": "Dragon of the Knight",
-    "video": null,
-    "scrapeWords": [
-      "Dragon",
-      "of",
-      "the",
-      "Knight"
-    ]
-  },
-  {
     "author": "colorfur",
     "description": "It's like connect four with physics",
     "genre": null,
@@ -71232,16 +71211,15 @@
     "description": "An metroidvania inspired on Order of Eclessia",
     "genre": "Platformer",
     "id": "685316",
-    "link": "https://dannygaray60.itch.io/xandria-curse",
+    "link": "https://dannygaray60.itch.io/xandria",
     "platforms": [
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM3NzEyNzMucG5n/315x250%23c/%2Fewxfo.png",
-    "title": "Xandria's Curse (prototype)",
+    "title": "Xandria (prototype)",
     "video": null,
     "scrapeWords": [
-      "Xandrias",
-      "Curse",
+      "Xandria",
       "prototype"
     ]
   },
@@ -73084,25 +73062,6 @@
     ]
   },
   {
-    "author": "Samsong",
-    "description": "Escape a lab as a malfunctioning robot!",
-    "genre": "Platformer",
-    "id": "694184",
-    "link": "https://samsong.itch.io/robot-run",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM4MzA5OTMucG5n/315x250%23c/VmnfLX.png",
-    "title": "Robot Run",
-    "video": null,
-    "scrapeWords": [
-      "Robot",
-      "Run"
-    ]
-  },
-  {
     "author": "ishmandoo",
     "description": null,
     "genre": "Action",
@@ -74257,11 +74216,11 @@
     ]
   },
   {
-    "author": "Guambe",
+    "author": "Moraguma",
     "description": "Control a crumbling station to survive a swarm of alien monstrosities",
     "genre": "Strategy",
     "id": "696366",
-    "link": "https://guambe.itch.io/ifuv",
+    "link": "https://moraguma.itch.io/ifuv",
     "platforms": [
       "Windows"
     ],
@@ -86094,10 +86053,7 @@
     "genre": "Action",
     "id": "744371",
     "link": "https://sinistro25.itch.io/slay-the-horde",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUwNzQ4NjkucG5n/315x250%23c/mk9ZYR.png",
     "title": "Horde Slayer",
     "video": null,
@@ -86302,6 +86258,25 @@
       "Owesome",
       "Marmelade",
       "Game"
+    ]
+  },
+  {
+    "author": "l1ch1v1l",
+    "description": "THA - This Happen Again. Survival-Horror with strange history.",
+    "genre": "Survival",
+    "id": "745201",
+    "link": "https://l1ch1v1l.itch.io/this-happen-again",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxODM4ODAucG5n/315x250%23c/mwY0Oh.png",
+    "title": "This Happen Again",
+    "video": null,
+    "scrapeWords": [
+      "This",
+      "Happen",
+      "Again"
     ]
   },
   {
@@ -101817,11 +101792,11 @@
     ]
   },
   {
-    "author": "Lewis Game Dev",
+    "author": "Comet Arts Entertainment",
     "description": "after waking up in a goverment facility being tested on your only chance for survival is to escape",
     "genre": "Shooter",
     "id": "836289",
-    "link": "https://lewis-glasgow.itch.io/escape-demo",
+    "link": "https://comet-arts-entertainment.itch.io/escape-demo",
     "platforms": [
       "Windows",
       "Linux",
@@ -103245,6 +103220,23 @@
     "scrapeWords": [
       "Quick",
       "Primes"
+    ]
+  },
+  {
+    "author": "l1ch1v1l",
+    "description": "Flappy bird with cup ;-; (made in Godot Engine)",
+    "genre": "Simulation",
+    "id": "844009",
+    "link": "https://l1ch1v1l.itch.io/flappy-ch1ll",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzEzNTguanBn/315x250%23c/fGn8Fc.jpg",
+    "title": "flappy-ch1ll",
+    "video": null,
+    "scrapeWords": [
+      "flappy-ch1ll"
     ]
   },
   {
@@ -109968,20 +109960,6 @@
     ]
   },
   {
-    "author": "BinaryMind",
-    "description": "A test trial demo [VERSION 1.1]",
-    "genre": "Puzzle",
-    "id": "889754",
-    "link": "https://binarymind.itch.io/loophole",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwMTg4ODAucG5n/315x250%23c/5Q9vyk.png",
-    "title": "Loophole",
-    "video": null,
-    "scrapeWords": [
-      "Loophole"
-    ]
-  },
-  {
     "author": "friendmaster2000",
     "description": "A short horror experience.",
     "genre": "Survival",
@@ -116344,9 +116322,9 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMTk3MTAuZ2lm/315x250%23cm/PJppe2.gif",
+    "thumb": "https://img.itch.zone/aW1nLzUzNTI4NTAuZ2lm/315x250%23cm/ZjJrMf.gif",
     "title": "Planet Painter",
-    "video": "https://img.itch.zone/aW1nLzUzMTk3MTAuZ2lm/original/nLGmEC.gif",
+    "video": "https://img.itch.zone/aW1nLzUzNTI4NTAuZ2lm/original/kID2%2Ba.gif",
     "scrapeWords": [
       "Planet",
       "Painter"
@@ -117004,7 +116982,7 @@
   },
   {
     "author": "Touff97",
-    "description": "Clear your way through waves of enemies, and gain recognition",
+    "description": "Clear your way through waves of enemies, and gain recognition!",
     "genre": "Shooter",
     "id": "937021",
     "link": "https://touff97.itch.io/needed-failure",
@@ -117447,11 +117425,11 @@
     ]
   },
   {
-    "author": "Guambe",
+    "author": "Moraguma",
     "description": "Action Puzzler about controlling blood with your mind",
     "genre": "Action",
     "id": "938941",
-    "link": "https://guambe.itch.io/deerskull",
+    "link": "https://moraguma.itch.io/deerskull",
     "platforms": [
       "Windows",
       "Linux",
@@ -117964,6 +117942,21 @@
     ]
   },
   {
+    "author": "RNGames",
+    "description": "Wowie Jam 3.0 - Failure is Progress",
+    "genre": "Racing",
+    "id": "940684",
+    "link": "https://rn-games.itch.io/phantom-freeride",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzgwNjgucG5n/315x250%23c/O75FHC.png",
+    "title": "Phantom Freeride",
+    "video": null,
+    "scrapeWords": [
+      "Phantom",
+      "Freeride"
+    ]
+  },
+  {
     "author": "Missmelher",
     "description": "Succeed on failing on your journey",
     "genre": "Platformer",
@@ -118065,7 +118058,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMzA1MjgucG5n/315x250%23c/Xo%2Bx3n.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzNDgzNDMucG5n/315x250%23c/4Nhay1.png",
     "title": "Shattered Soul",
     "video": null,
     "scrapeWords": [
@@ -118187,6 +118180,30 @@
     ]
   },
   {
+    "author": "ledocool",
+    "description": "An arcade shooter where your spaceship handles like butter on a hot pan",
+    "genre": "Action",
+    "id": "942721",
+    "link": "https://ledocool.itch.io/i-lost-in-asteroids",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNDgwNDUucG5n/315x250%23c/jCLhiq.png",
+    "title": "That day I got lost in an asteroid field",
+    "video": null,
+    "scrapeWords": [
+      "That",
+      "day",
+      "I",
+      "got",
+      "lost",
+      "in",
+      "an",
+      "asteroid",
+      "field"
+    ]
+  },
+  {
     "author": "Aspark",
     "description": "CroSSBoom is a human vs human game about getting tiles of your color in a Rock-Paper-Scissors Style!!",
     "genre": "Strategy",
@@ -118219,6 +118236,75 @@
       "The",
       "last",
       "train"
+    ]
+  },
+  {
+    "author": "CPUGuy",
+    "description": "A little demo of my upcoming game",
+    "genre": "Puzzle",
+    "id": "943836",
+    "link": "https://cpuguy.itch.io/boxes",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNDk3NDYucG5n/315x250%23c/cjEnds.png",
+    "title": "Boxes - demo",
+    "video": null,
+    "scrapeWords": [
+      "Boxes"
+    ]
+  },
+  {
+    "author": "GodotDude",
+    "description": "Plz download",
+    "genre": "Shooter",
+    "id": "944151",
+    "link": "https://godotdude.itch.io/super-shooter",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNTE0OTEucG5n/315x250%23c/lowMZJ.png",
+    "title": "Super Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Shooter"
+    ]
+  },
+  {
+    "author": "chaarlyz",
+    "description": "Un complejo, 12 vigilantes y un cazador... Encuentra la salida y huye. ¡Tienes 24 horas antes de que el cazador llegue!",
+    "genre": "Survival",
+    "id": "944368",
+    "link": "https://chaarlyz.itch.io/before-the-hunter-arrives",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNTMwMzAucG5n/315x250%23c/ODzvvb.png",
+    "title": "Before the hunter arrives",
+    "video": null,
+    "scrapeWords": [
+      "Before",
+      "the",
+      "hunter",
+      "arrives"
+    ]
+  },
+  {
+    "author": "Patron Media",
+    "description": null,
+    "genre": "Sports",
+    "id": "944499",
+    "link": "https://patron-media.itch.io/the-greatest-10",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNTM1MTkucG5n/315x250%23c/n6ZpnA.png",
+    "title": "The Greatest 10",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Greatest",
+      "10"
     ]
   },
   {
