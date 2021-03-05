@@ -25860,7 +25860,7 @@
   {
     "author": "chipolux",
     "description": "Do you like Myst? Realistic puzzles? Low poly outsider art? Then give this a try!",
-    "genre": "Puzzle",
+    "genre": "Adventure",
     "id": "378767",
     "link": "https://chipolux.itch.io/clean-escape",
     "platforms": [
@@ -79505,6 +79505,21 @@
     ]
   },
   {
+    "author": "breakfastpal",
+    "description": "Help T-Pain find his mansion while learning Wisconsin geography",
+    "genre": "Educational",
+    "id": "718992",
+    "link": "https://breakfastpal.itch.io/t-pains-mansion",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5OTA3MTMucG5n/315x250%23c/3xrmXG.png",
+    "title": "T-Pain's Mansion",
+    "video": null,
+    "scrapeWords": [
+      "T-Pains",
+      "Mansion"
+    ]
+  },
+  {
     "author": "fedev",
     "description": "Escape from the maze in less than 2 minutes.",
     "genre": null,
@@ -110166,24 +110181,6 @@
     ]
   },
   {
-    "author": "Crowded Games",
-    "description": "Multiplayer mad run game! Runs, spells, fireballs and betrayals. Get the kingdom throne the first!",
-    "genre": "Action",
-    "id": "891441",
-    "link": "https://crowdedgames.itch.io/throne-run",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUwMjk1ODIucG5n/315x250%23c/EkHOQk.png",
-    "title": "Throne Run",
-    "video": null,
-    "scrapeWords": [
-      "Throne",
-      "Run"
-    ]
-  },
-  {
     "author": "antonianimations",
     "description": "My first game! Collect the butterflies and complete the levels to win!",
     "genre": "Platformer",
@@ -110670,7 +110667,8 @@
     "id": "895072",
     "link": "https://static-cube.itch.io/ancient-coin-adventure",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwNTA3NTkucG5n/315x250%23c/1oMuC7.png",
     "title": "Ancient Coin Adventure",
@@ -113219,7 +113217,7 @@
     ]
   },
   {
-    "author": "Crescent Eye Interactive",
+    "author": "Crescent Eye",
     "description": "Lure the triangle into the box!",
     "genre": "Action",
     "id": "911239",
@@ -113754,11 +113752,11 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzMjQzNzIucG5n/315x250%23c/FUMVFf.png",
-    "title": "Endlessness 0.1.2",
+    "title": "Endlessness 0.1.20",
     "video": null,
     "scrapeWords": [
       "Endlessness",
-      "012"
+      "0120"
     ]
   },
   {
@@ -115154,11 +115152,11 @@
     ]
   },
   {
-    "author": "IdiotProgrammer",
+    "author": "Idiot Programmer",
     "description": null,
     "genre": "Simulation",
     "id": "925011",
-    "link": "https://idiotprogrammer.itch.io/heartbeat-manager",
+    "link": "https://idiot-programmer.itch.io/heartbeat-manager",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyMzA2MzMucG5n/315x250%23c/7lyxtW.png",
     "title": "Heartbeat Manager",
@@ -116255,7 +116253,7 @@
     ]
   },
   {
-    "author": "edibletoe",
+    "author": "EdibleToe",
     "description": "The Moon awaits.",
     "genre": "Adventure",
     "id": "930485",
@@ -116320,7 +116318,8 @@
     "link": "https://eternalnooblet.itch.io/planet-painter",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzNTI4NTAuZ2lm/315x250%23cm/ZjJrMf.gif",
     "title": "Planet Painter",
@@ -117632,6 +117631,24 @@
     ]
   },
   {
+    "author": "Kai Eckert",
+    "description": "Can you fail at Tetris?",
+    "genre": "Puzzle",
+    "id": "939673",
+    "link": "https://kaiec.itch.io/failtris",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjg2MzUucG5n/315x250%23c/CXQ6In.png",
+    "title": "Failtris",
+    "video": null,
+    "scrapeWords": [
+      "Failtris"
+    ]
+  },
+  {
     "author": "Demindiro",
     "description": "Stop the witch from doing mean things!",
     "genre": "Platformer",
@@ -118166,6 +118183,21 @@
     ]
   },
   {
+    "author": "Antinkss",
+    "description": "This is my first ever game",
+    "genre": "Platformer",
+    "id": "942084",
+    "link": "https://antinkss.itch.io/blob-world",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNTE4ODgucG5n/315x250%23c/zz%2BAFV.png",
+    "title": "Blob World",
+    "video": null,
+    "scrapeWords": [
+      "Blob",
+      "World"
+    ]
+  },
+  {
     "author": "VulcanStorm",
     "description": "Race penguins down an iceberg!",
     "genre": "Racing",
@@ -118262,7 +118294,8 @@
     "link": "https://godotdude.itch.io/super-shooter",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzNTE0OTEucG5n/315x250%23c/lowMZJ.png",
     "title": "Super Shooter",
@@ -118292,6 +118325,22 @@
     ]
   },
   {
+    "author": "Mahri2D",
+    "description": "Top-Larrup  Shoot 'Em Up Game",
+    "genre": "Shooter",
+    "id": "944482",
+    "link": "https://mahri2d.itch.io/top-larrup",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNjA3NDUucG5n/315x250%23c/z1S%2FaQ.png",
+    "title": "Top-Larrap",
+    "video": null,
+    "scrapeWords": [
+      "Top-Larrap"
+    ]
+  },
+  {
     "author": "Patron Media",
     "description": null,
     "genre": "Sports",
@@ -118305,6 +118354,55 @@
       "The",
       "Greatest",
       "10"
+    ]
+  },
+  {
+    "author": "Phil",
+    "description": "A 48 hour GameJam project.",
+    "genre": null,
+    "id": "944646",
+    "link": "https://gamephile.itch.io/circuit-breaker",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNTQ1NDgucG5n/315x250%23c/3zXnCV.png",
+    "title": "Circuit Breaker",
+    "video": null,
+    "scrapeWords": [
+      "Circuit",
+      "Breaker"
+    ]
+  },
+  {
+    "author": "Dawidak Games",
+    "description": "Just Another Clicker",
+    "genre": null,
+    "id": "944714",
+    "link": "https://dawidak.itch.io/just-another-clicker",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNTQ3MjMucG5n/315x250%23c/7AWali.png",
+    "title": "JAC",
+    "video": null,
+    "scrapeWords": [
+      "JAC"
+    ]
+  },
+  {
+    "author": "GalaxyGamingBoy",
+    "description": "This game is made for the Brackeys 2021.1 Game Jam that I didn't finsh! I liked the idea so I decided to upload it.",
+    "genre": "Platformer",
+    "id": "945036",
+    "link": "https://galaxygamingboy.itch.io/together-is-better",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNTY0ODIucG5n/315x250%23c/tKngSo.png",
+    "title": "Together is better!",
+    "video": null,
+    "scrapeWords": [
+      "Together",
+      "is",
+      "better"
     ]
   },
   {
