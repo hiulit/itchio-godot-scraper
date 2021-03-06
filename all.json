@@ -22226,6 +22226,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38636,25 +38653,6 @@
     "scrapeWords": [
       "Project",
       "Huesos"
-    ]
-  },
-  {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -61592,6 +61590,26 @@
     ]
   },
   {
+    "author": "DinaJam",
+    "description": "Аренный шутер на 1-2 игроков с поддержкой гейм-падов и ботами",
+    "genre": "Shooter",
+    "id": "632351",
+    "link": "https://dinajam.itch.io/obey-in-they-we-trust",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMzODU1NTAucG5n/315x250%23c/A31Zqx.png",
+    "title": "OBEY: in they we trust",
+    "video": null,
+    "scrapeWords": [
+      "OBEY",
+      "in",
+      "they",
+      "we",
+      "trust"
+    ]
+  },
+  {
     "author": "mvolution",
     "description": null,
     "genre": "Puzzle",
@@ -68736,10 +68754,7 @@
     "genre": "Puzzle",
     "id": "673683",
     "link": "https://terragos.itch.io/carrot-crawler",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4MjU3MzkucG5n/315x250%23c/H4Xizq.png",
     "title": "Carrot Crawler",
     "video": null,
@@ -91492,6 +91507,21 @@
     ]
   },
   {
+    "author": "Rain drop",
+    "description": null,
+    "genre": "Platformer",
+    "id": "770461",
+    "link": "https://rain-drop.itch.io/jump-square",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQzMTA4MzQucG5n/315x250%23c/y1stYj.png",
+    "title": "Jump square",
+    "video": null,
+    "scrapeWords": [
+      "Jump",
+      "square"
+    ]
+  },
+  {
     "author": "BSdev",
     "description": null,
     "genre": "Adventure",
@@ -102181,10 +102211,9 @@
     "id": "837535",
     "link": "https://derangedturtlegames.itch.io/mad-crab-grab",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3NjI1MDAucG5n/315x250%23c/3LO%2FMo.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzNjczNTYucG5n/315x250%23c/%2FJnZMo.png",
     "title": "Mad Crab Grab",
     "video": null,
     "scrapeWords": [
@@ -106559,23 +106588,6 @@
     ]
   },
   {
-    "author": "programical",
-    "description": "A ball that bounces around your desktop.",
-    "genre": null,
-    "id": "868375",
-    "link": "https://programical.itch.io/bounceball",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4Nzg5MzUucG5n/315x250%23c/1NKHJf.png",
-    "title": "Bounceball",
-    "video": null,
-    "scrapeWords": [
-      "Bounceball"
-    ]
-  },
-  {
     "author": "Ori Brusilovsky",
     "description": "Memory card game crossed with turn-based, wild-west themed duel",
     "genre": "Card Game",
@@ -110263,23 +110275,6 @@
     ]
   },
   {
-    "author": "programical",
-    "description": "A place for hanging out with your friends.",
-    "genre": null,
-    "id": "892275",
-    "link": "https://programical.itch.io/onlineplace",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUwMzQ2NzgucG5n/315x250%23c/fDn9Xl.png",
-    "title": "onlineplace",
-    "video": null,
-    "scrapeWords": [
-      "onlineplace"
-    ]
-  },
-  {
     "author": "c-karaolis",
     "description": "Demo created in godot to learn how the engine works.",
     "genre": "Adventure",
@@ -113743,20 +113738,19 @@
   },
   {
     "author": "Endlessness Studios",
-    "description": "The most In-depth, addicting 2D surivial shooter ever...Coming Soon!",
+    "description": "The most In-depth, addicting 2D survival shooter ever...Coming Soon!",
     "genre": "Survival",
     "id": "913124",
-    "link": "https://endlessnessproject.itch.io/endlessness",
+    "link": "https://endlessness-studios.itch.io/endlessness",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzMjQzNzIucG5n/315x250%23c/FUMVFf.png",
-    "title": "Endlessness 0.1.20",
+    "title": "Endlessness 0.1.30",
     "video": null,
     "scrapeWords": [
       "Endlessness",
-      "0120"
+      "0130"
     ]
   },
   {
@@ -113800,7 +113794,7 @@
   },
   {
     "author": "MasterWolves1",
-    "description": null,
+    "description": "nokia (3) - platformer",
     "genre": "Platformer",
     "id": "913469",
     "link": "https://masterwolves1.itch.io/lights-out",
@@ -115348,7 +115342,10 @@
     "genre": "Educational",
     "id": "926566",
     "link": "https://konkonmedia.itch.io/cuidados-contra-o-virus",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUyNDA3MzcucG5n/315x250%23c/g7%2FdCK.png",
     "title": "Cuidados Contra o Vírus",
     "video": null,
@@ -116767,6 +116764,24 @@
     ]
   },
   {
+    "author": "Pixel42",
+    "description": "Conway's game of life with some interesting features",
+    "genre": null,
+    "id": "935346",
+    "link": "https://pixel42.itch.io/conways-interesting-game-of-life",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMzU5NzYucG5n/315x250%23c/1t6f7S.png",
+    "title": "Conway's interesting game of life",
+    "video": null,
+    "scrapeWords": [
+      "Conways",
+      "interesting",
+      "game",
+      "of",
+      "life"
+    ]
+  },
+  {
     "author": "nhydock",
     "description": "Fun little one button game about anarchy and juice",
     "genre": null,
@@ -117545,6 +117560,22 @@
     ]
   },
   {
+    "author": "Texula",
+    "description": "A game that is all about being relaxed",
+    "genre": "Rhythm",
+    "id": "939383",
+    "link": "https://texula.itch.io/zeen",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjIyMjEucG5n/315x250%23c/BAhwOt.png",
+    "title": "Zeen",
+    "video": null,
+    "scrapeWords": [
+      "Zeen"
+    ]
+  },
+  {
     "author": "platinshadow",
     "description": "Try to brick the Test Chambers to help Shutter Inovations Ltd.",
     "genre": "Puzzle",
@@ -117628,6 +117659,24 @@
       "The",
       "Paper",
       "Square"
+    ]
+  },
+  {
+    "author": "DePaSciFi",
+    "description": "a 2D mini Shoot 'Em Up",
+    "genre": "Shooter",
+    "id": "939612",
+    "link": "https://depascifi.itch.io/flight-from-storhavn",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjI4ODEuanBn/315x250%23c/s%2B6Bf7.jpg",
+    "title": "Flight From Storhavn",
+    "video": null,
+    "scrapeWords": [
+      "Flight",
+      "From",
+      "Storhavn"
     ]
   },
   {
@@ -118140,9 +118189,7 @@
     "genre": "Platformer",
     "id": "941132",
     "link": "https://jkrgwyn.itch.io/geojumper",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUzMzI0MjcucG5n/315x250%23c/2Q4ERd.png",
     "title": "GeoJumper",
     "video": null,
@@ -118164,6 +118211,23 @@
     "scrapeWords": [
       "Basket",
       "Grape"
+    ]
+  },
+  {
+    "author": "Lil_Nip",
+    "description": null,
+    "genre": "Action",
+    "id": "941766",
+    "link": "https://lil-nip.itch.io/cubeshoota",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzg1MTIucG5n/315x250%23c/ZNf%2Bgw.png",
+    "title": "Cube Shoota",
+    "video": null,
+    "scrapeWords": [
+      "Cube",
+      "Shoota"
     ]
   },
   {
@@ -118306,6 +118370,26 @@
     ]
   },
   {
+    "author": "James",
+    "description": "2f2g is a zombie top down shooter where YOUR the fast one.",
+    "genre": "Shooter",
+    "id": "944267",
+    "link": "https://james-oh-lol.itch.io/2f2g",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNTI4NDIucG5n/315x250%23c/euxC5%2F.png",
+    "title": "2 Fast 2 Go",
+    "video": null,
+    "scrapeWords": [
+      "2",
+      "Fast",
+      "2",
+      "Go"
+    ]
+  },
+  {
     "author": "chaarlyz",
     "description": "Un complejo, 12 vigilantes y un cazador... Encuentra la salida y huye. ¡Tienes 24 horas antes de que el cazador llegue!",
     "genre": "Survival",
@@ -118333,9 +118417,9 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzNjA3NDUucG5n/315x250%23c/z1S%2FaQ.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzNjc1MzUuZ2lm/315x250%23cm/QtkQ%2Bp.gif",
     "title": "Top-Larrap",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzUzNjc1MzUuZ2lm/original/ygItUf.gif",
     "scrapeWords": [
       "Top-Larrap"
     ]
@@ -118403,6 +118487,77 @@
       "Together",
       "is",
       "better"
+    ]
+  },
+  {
+    "author": "SoloRobo",
+    "description": "Match box colors to clear the stage!",
+    "genre": "Puzzle",
+    "id": "945785",
+    "link": "https://solorobo.itch.io/boxoku",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEyMDcucG5n/315x250%23c/GWg5Xr.png",
+    "title": "Boxoku!",
+    "video": null,
+    "scrapeWords": [
+      "Boxoku"
+    ]
+  },
+  {
+    "author": "dunkelgrau",
+    "description": "Help alice find the door in the maze",
+    "genre": "Adventure",
+    "id": "946078",
+    "link": "https://dunkelgrau.itch.io/alice-in-the-maze",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjMwNDkucG5n/315x250%23c/3WOJHM.png",
+    "title": "Alice in the maze",
+    "video": null,
+    "scrapeWords": [
+      "Alice",
+      "in",
+      "the",
+      "maze"
+    ]
+  },
+  {
+    "author": "24hrs Studio",
+    "description": "You are a little green alien, who just tries too survive on the earth.",
+    "genre": "Platformer",
+    "id": "946167",
+    "link": "https://24hrs-studio.itch.io/dark-saber",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNjM0MTgucG5n/315x250%23c/pwscPN.png",
+    "title": "Dark Saber",
+    "video": null,
+    "scrapeWords": [
+      "Dark",
+      "Saber"
+    ]
+  },
+  {
+    "author": "KonKon Media",
+    "description": "Um jogo da memória educativo, mostrando os cuidados recomendados para a prevenção do novo Covid-19.",
+    "genre": "Educational",
+    "id": "946336",
+    "link": "https://konkonmedia.itch.io/cuidado-contra-o-virus-web",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjQ0MDYucG5n/315x250%23c/m4DcTC.png",
+    "title": "Cuidado Contra o Vírus - WEB",
+    "video": null,
+    "scrapeWords": [
+      "Cuidado",
+      "Contra",
+      "o",
+      "Vírus",
+      "WEB"
     ]
   },
   {
