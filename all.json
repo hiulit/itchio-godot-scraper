@@ -59634,7 +59634,7 @@
     ]
   },
   {
-    "author": "IronStudios",
+    "author": "IronStudios | IronGames",
     "description": "Help the alien grow without the evil aliens killing it.",
     "genre": "Survival",
     "id": "620185",
@@ -77822,22 +77822,6 @@
     ]
   },
   {
-    "author": "voxelvoid",
-    "description": "Get out of the maze!",
-    "genre": "Shooter",
-    "id": "710081",
-    "link": "https://voxelvoid.itch.io/amazeing",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MzA0NjgucG5n/315x250%23c/OOIxXy.png",
-    "title": "amaze.ing",
-    "video": null,
-    "scrapeWords": [
-      "amazeing"
-    ]
-  },
-  {
     "author": "technicat",
     "description": "Godot demo",
     "genre": null,
@@ -78805,21 +78789,6 @@
       "way",
       "is",
       "up"
-    ]
-  },
-  {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -88541,11 +88510,11 @@
     ]
   },
   {
-    "author": "Alvarenga Games",
+    "author": "Anderson Alvarenga",
     "description": "Jogo feito no Godot Engine e disponível no Google Play Store",
     "genre": "Shooter",
     "id": "756161",
-    "link": "https://alvarengagames.itch.io/space-beetle-adventure",
+    "link": "https://andersonalvarenga.itch.io/space-beetle-adventure",
     "platforms": [
       "Windows",
       "Linux"
@@ -96151,11 +96120,11 @@
     ]
   },
   {
-    "author": "Gcoder12",
+    "author": "Gdev Studios",
     "description": "Inhabit another planet!",
     "genre": "Puzzle",
     "id": "796799",
-    "link": "https://gcoder12.itch.io/inhabitor",
+    "link": "https://gdev-studios.itch.io/inhabitor",
     "platforms": [
       "Windows"
     ],
@@ -100493,8 +100462,7 @@
     "id": "826472",
     "link": "https://adrianbelmont.itch.io/gravity-blade",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MzE3NzAuanBlZw==/315x250%23c/QJw%2B25.jpeg",
     "title": "Gravity Blade",
@@ -102927,9 +102895,7 @@
     "link": "https://bearlikelion.itch.io/mpdc",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS",
-      "Android"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -105620,6 +105586,25 @@
     ]
   },
   {
+    "author": "CodeX Systems.Inc",
+    "description": null,
+    "genre": "Shooter",
+    "id": "861378",
+    "link": "https://codexsystemsinc.itch.io/vegetable-rain-3d",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "Vegetable Rain 3d",
+    "video": null,
+    "scrapeWords": [
+      "Vegetable",
+      "Rain",
+      "3d"
+    ]
+  },
+  {
     "author": "Dilis",
     "description": "A game about taking pictures of birds.",
     "genre": "Puzzle",
@@ -106392,11 +106377,7 @@
     "genre": "Platformer",
     "id": "865947",
     "link": "https://chucklepie.itch.io/rex-remake",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4NjMwMTgucG5n/315x250%23c/kgsZ%2B7.png",
     "title": "Rex Remake",
     "video": null,
@@ -107002,6 +106983,23 @@
     ]
   },
   {
+    "author": "kopernik",
+    "description": "Catch the pomps and save yourself from the droids!",
+    "genre": "Action",
+    "id": "871012",
+    "link": "https://kopernik.itch.io/pomp",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4OTU4OTkucG5n/315x250%23c/uUXD3g.png",
+    "title": "POMP",
+    "video": null,
+    "scrapeWords": [
+      "POMP"
+    ]
+  },
+  {
     "author": "george12teodor",
     "description": null,
     "genre": "Shooter",
@@ -107253,6 +107251,21 @@
     "video": null,
     "scrapeWords": [
       "Imoonity"
+    ]
+  },
+  {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
     ]
   },
   {
@@ -111145,20 +111158,6 @@
     ]
   },
   {
-    "author": "SDf",
-    "description": "A tower climber with a rocket launcher.",
-    "genre": "Platformer",
-    "id": "899484",
-    "link": "https://ssdf.itch.io/boom",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwNzc0NjAucG5n/315x250%23c/Difo9q.png",
-    "title": "Boom",
-    "video": null,
-    "scrapeWords": [
-      "Boom"
-    ]
-  },
-  {
     "author": "Eniri",
     "description": "Less light more sound",
     "genre": null,
@@ -113370,6 +113369,21 @@
     ]
   },
   {
+    "author": "ludopatia",
+    "description": "Mostachito Jump is a super jump adventure across differents city envirements and against a lot of funnies enemies",
+    "genre": "Adventure",
+    "id": "911956",
+    "link": "https://ludopatia.itch.io/mostachito-jump",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxNTUzOTQucG5n/315x250%23c/BINcx7.png",
+    "title": "Mostachito Jump",
+    "video": null,
+    "scrapeWords": [
+      "Mostachito",
+      "Jump"
+    ]
+  },
+  {
     "author": "Steve Smith",
     "description": "Alien 8 recreated in 3D",
     "genre": "Puzzle",
@@ -114004,9 +114018,7 @@
     "genre": "Action",
     "id": "914814",
     "link": "https://kodlon.itch.io/project-virus",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxNzE4NDMucG5n/315x250%23c/997Qvu.png",
     "title": "Project Virus",
     "video": null,
@@ -114159,7 +114171,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzNDQ3OTgucG5n/315x250%23c/aBFkXA.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzODM4ODEucG5n/315x250%23c/KCjY4q.png",
     "title": "My Cabin",
     "video": null,
     "scrapeWords": [
@@ -115030,6 +115042,23 @@
     "video": null,
     "scrapeWords": [
       "Octornot"
+    ]
+  },
+  {
+    "author": "Ihsan Entertainment",
+    "description": "Hilf dem Ball alle Level zu meistern!",
+    "genre": null,
+    "id": "923191",
+    "link": "https://ihsan-entertainment.itch.io/lostball",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMzk2MzUucG5n/315x250%23c/L5FoC7.png",
+    "title": "LostBall",
+    "video": null,
+    "scrapeWords": [
+      "Lost",
+      "Ball"
     ]
   },
   {
@@ -116464,7 +116493,7 @@
   {
     "author": "Cyrus Yip",
     "description": "Be the island and defend yourself from the green balls.",
-    "genre": "Action",
+    "genre": "Shooter",
     "id": "930987",
     "link": "https://realcyguy.itch.io/i-am-the-island",
     "platforms": null,
@@ -116679,6 +116708,21 @@
     "scrapeWords": [
       "Hero",
       "Knight"
+    ]
+  },
+  {
+    "author": "ludopatia",
+    "description": "Shikaku Adventure is a simple and relaxing puzzle game for all ages",
+    "genre": "Puzzle",
+    "id": "933458",
+    "link": "https://ludopatia.itch.io/shikaku-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyODc5NjIucG5n/315x250%23c/se80WY.png",
+    "title": "Shikaku Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Shikaku",
+      "Adventure"
     ]
   },
   {
@@ -118488,11 +118532,11 @@
     ]
   },
   {
-    "author": "Alvarenga Games",
+    "author": "Anderson Alvarenga",
     "description": "Jogo feito na Global Game Jam 2021 usando Godot Engine",
     "genre": "Adventure",
     "id": "943365",
-    "link": "https://alvarengagames.itch.io/the-last-train",
+    "link": "https://andersonalvarenga.itch.io/the-last-train",
     "platforms": [
       "Windows"
     ],
@@ -118776,6 +118820,7 @@
     "id": "946167",
     "link": "https://24hrs-studio.itch.io/dark-saber",
     "platforms": [
+      "Windows",
       "macOS",
       "Android"
     ],
@@ -119129,13 +119174,32 @@
     ]
   },
   {
+    "author": "Ethanation",
+    "description": "Wisdom comes at a cost.",
+    "genre": "Shooter",
+    "id": "948925",
+    "link": "https://ethanation.itch.io/brain-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNzk5NTgucG5n/315x250%23c/mNQSfM.png",
+    "title": "Brain Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Brain",
+      "Dungeon"
+    ]
+  },
+  {
     "author": "Mr. Arrecis",
     "description": "It's time to go to another planet.",
     "genre": "Platformer",
     "id": "949112",
     "link": "https://arrecis.itch.io/space-riders",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzODA3NzMucG5n/315x250%23c/yV1PFH.png",
+    "thumb": "https://img.itch.zone/aW1nLzUzODIyMDIucG5n/315x250%23c/aSVJz0.png",
     "title": "Space riders",
     "video": null,
     "scrapeWords": [
@@ -119174,6 +119238,22 @@
     "scrapeWords": [
       "Wizards",
       "Escape"
+    ]
+  },
+  {
+    "author": "Kahagino",
+    "description": "2D retro-like beat 'em up",
+    "genre": "Fighting",
+    "id": "949260",
+    "link": "https://leopnt.itch.io/street-club-2",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzODE5NDMucG5n/315x250%23c/gP9RfU.png",
+    "title": "Street Club 2",
+    "video": null,
+    "scrapeWords": [
+      "Street",
+      "Club",
+      "2"
     ]
   },
   {
