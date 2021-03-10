@@ -3041,7 +3041,7 @@
     "description": "A really short visual novel about population.",
     "genre": "Visual Novel",
     "id": "172261",
-    "link": "https://hellveloper.itch.io/project-overgrowth",
+    "link": "https://icaropeixoto.itch.io/project-overgrowth",
     "platforms": [
       "Windows"
     ],
@@ -3215,7 +3215,7 @@
     "description": "Point-and-click adventure game and historical fiction based on the London Blitz.",
     "genre": "Adventure",
     "id": "177767",
-    "link": "https://hellveloper.itch.io/blitzshelter",
+    "link": "https://icaropeixoto.itch.io/blitzshelter",
     "platforms": [
       "Windows",
       "Linux",
@@ -22368,7 +22368,7 @@
     "description": "Because I have nothing else to do.",
     "genre": "Simulation",
     "id": "349508",
-    "link": "https://hellveloper.itch.io/dvd-screensaver-game",
+    "link": "https://icaropeixoto.itch.io/dvd-screensaver-game",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE3MzcwNzkucG5n/315x250%23c/JjlKuP.png",
     "title": "DVD Screensaver Game",
@@ -27845,25 +27845,6 @@
     "scrapeWords": [
       "COLOR",
       "BREAK"
-    ]
-  },
-  {
-    "author": "JacoDepa",
-    "description": "This is my first game. Hope you enjoy it!",
-    "genre": "Action",
-    "id": "403817",
-    "link": "https://jacodepa.itch.io/the-island",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMDQzNTMucG5n/315x250%23c/B7UZ1w.png",
-    "title": "The Island",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Island"
     ]
   },
   {
@@ -39252,11 +39233,11 @@
     ]
   },
   {
-    "author": "sevenfoldgates",
+    "author": "snallygaster",
     "description": "Catch the asteroids as they fall!",
     "genre": "Platformer",
     "id": "484716",
-    "link": "https://sevenfoldgates.itch.io/asteroid-falls",
+    "link": "https://snallygasterr.itch.io/asteroid-falls",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1MDM0MjYucG5n/315x250%23c/%2B6FiPZ.png",
     "title": "Asteroid Falls",
@@ -49878,7 +49859,7 @@
     "description": "An action typing game based on the Yoruba religion",
     "genre": "Action",
     "id": "567310",
-    "link": "https://hellveloper.itch.io/oya",
+    "link": "https://icaropeixoto.itch.io/oya",
     "platforms": [
       "Windows",
       "Linux",
@@ -57596,7 +57577,7 @@
     "description": "Top-down Arcade Shooter with a dancing unicorn in the center",
     "genre": "Shooter",
     "id": "614760",
-    "link": "https://hellveloper.itch.io/dduom",
+    "link": "https://icaropeixoto.itch.io/dduom",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMzMjM5MDYuanBn/315x250%23c/GmxHBQ.jpg",
     "title": "Dance Dance Unicorn of Magic",
@@ -62550,11 +62531,11 @@
     ]
   },
   {
-    "author": "omn0mn0m",
+    "author": "nomniverse",
     "description": "A game of dodgeball with portals and superpowers.",
     "genre": "Action",
     "id": "637574",
-    "link": "https://omn0mn0m.itch.io/dodgeball",
+    "link": "https://nomniverse.itch.io/dodgeball",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM0MTAwOTAucG5n/315x250%23c/Hcpyh%2B.png",
     "title": "DODGEBALL",
@@ -66168,24 +66149,6 @@
     ]
   },
   {
-    "author": "gedehari",
-    "description": "Simple space shooter, but you're fighting a virus.",
-    "genre": "Action",
-    "id": "657635",
-    "link": "https://gedehari.itch.io/corona-shooter",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1MzU3OTcucG5n/315x250%23c/z4r9tj.png",
-    "title": "Corona Shooter",
-    "video": null,
-    "scrapeWords": [
-      "Corona",
-      "Shooter"
-    ]
-  },
-  {
     "author": "mokarrom",
     "description": "Try your best to save the Bubble.",
     "genre": "Survival",
@@ -67362,7 +67325,7 @@
     "description": "Wreck your rivals and aliens with a sawn-off in an endless death battle.",
     "genre": "Shooter",
     "id": "664387",
-    "link": "https://ic3bug-games.itch.io/godot-shotgun-party",
+    "link": "https://ic3bug.itch.io/godot-shotgun-party",
     "platforms": [
       "Windows",
       "Linux"
@@ -72224,7 +72187,7 @@
     "description": "Tetrisu for Final Assigment",
     "genre": "Puzzle",
     "id": "690839",
-    "link": "https://ikamonga.itch.io/tetrisu",
+    "link": "https://ikaiyo.itch.io/tetrisu",
     "platforms": [
       "Windows"
     ],
@@ -75726,7 +75689,7 @@
     "description": "Explore space, fix problems, trade cargo, romance the sellers.",
     "genre": "Platformer",
     "id": "699542",
-    "link": "https://hellveloper.itch.io/quest-for-the-space-waifus",
+    "link": "https://icaropeixoto.itch.io/quest-for-the-space-waifus",
     "platforms": [
       "Windows",
       "Linux",
@@ -76386,7 +76349,7 @@
     "description": "2.5D Platformer Shooter",
     "genre": "Shooter",
     "id": "702132",
-    "link": "https://hellveloper.itch.io/ai-gone-wild",
+    "link": "https://icaropeixoto.itch.io/ai-gone-wild",
     "platforms": [
       "Windows"
     ],
@@ -76404,7 +76367,7 @@
     "description": null,
     "genre": "Fighting",
     "id": "702148",
-    "link": "https://hellveloper.itch.io/the-schemer",
+    "link": "https://icaropeixoto.itch.io/the-schemer",
     "platforms": [
       "Windows",
       "Linux",
@@ -95051,11 +95014,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ0MjQ1ODUucG5n/315x250%23c/OPTexe.png",
-    "title": "Cave Adventure",
+    "title": "Cave Adventure (Jam Version)",
     "video": null,
     "scrapeWords": [
       "Cave",
-      "Adventure"
+      "Adventure",
+      "Jam",
+      "Version"
     ]
   },
   {
@@ -100464,9 +100429,9 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MzE3NzAuanBlZw==/315x250%23c/QJw%2B25.jpeg",
+    "thumb": "https://img.itch.zone/aW1nLzUzOTEyMzUuZ2lm/315x250%23cm/A%2B1yQB.gif",
     "title": "Gravity Blade",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzUzOTEyMzUuZ2lm/original/BVzx%2FE.gif",
     "scrapeWords": [
       "Gravity",
       "Blade"
@@ -102217,7 +102182,10 @@
     "genre": null,
     "id": "837535",
     "link": "https://derangedturtlegames.itch.io/mad-crab-grab",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUzNjczNTYucG5n/315x250%23c/%2FJnZMo.png",
     "title": "Mad Crab Grab",
     "video": null,
@@ -102895,7 +102863,8 @@
     "link": "https://bearlikelion.itch.io/mpdc",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTQ2OTkucG5n/315x250%23c/yCEhGa.png",
     "title": "MPDC",
@@ -104149,6 +104118,22 @@
     "video": null,
     "scrapeWords": [
       "Vinekid"
+    ]
+  },
+  {
+    "author": "PseudotsugaMensk",
+    "description": null,
+    "genre": "Action",
+    "id": "852829",
+    "link": "https://pseudotsugamensk.itch.io/world-war-cthulhu",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzOTE2MzUucG5n/315x250%23c/lUk%2FiD.png",
+    "title": "World War Cthulhu",
+    "video": null,
+    "scrapeWords": [
+      "World",
+      "War",
+      "Cthulhu"
     ]
   },
   {
@@ -105547,6 +105532,27 @@
     "scrapeWords": [
       "Egg",
       "Pong"
+    ]
+  },
+  {
+    "author": "Cahatstrophe Games",
+    "description": "Unfinished tower defence jam game",
+    "genre": "Strategy",
+    "id": "861266",
+    "link": "https://cahatstrophe-games.itch.io/sometimes-there-are-spiders",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MzgyNDMucG5n/315x250%23c/nEEo7H.png",
+    "title": "Sometimes There Are Spiders",
+    "video": null,
+    "scrapeWords": [
+      "Sometimes",
+      "There",
+      "Are",
+      "Spiders"
     ]
   },
   {
@@ -116123,7 +116129,7 @@
     ]
   },
   {
-    "author": "Peter Kolo",
+    "author": "Piotr Kołodziejski",
     "description": "Game created for Godot Wild Jam 30",
     "genre": null,
     "id": "930015",
@@ -117348,23 +117354,6 @@
     ]
   },
   {
-    "author": "RAPIDPUNCHES",
-    "description": "Goblin shar, wollfish, gastropod, elephant seal, rockhopper, cuttlefish, slug.",
-    "genre": "Platformer",
-    "id": "937807",
-    "link": "https://rapidpunches.itch.io/sea-bottom",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzMTM0MTMuZ2lm/315x250%23cm/PRPXa9.gif",
-    "title": "Bottom of the Sea",
-    "video": "https://img.itch.zone/aW1nLzUzMTM0MTMuZ2lm/original/uDNwX2.gif",
-    "scrapeWords": [
-      "Bottom",
-      "of",
-      "the",
-      "Sea"
-    ]
-  },
-  {
     "author": "A J",
     "description": "You are in the ancient ruby temple, and you must find the ancient ruby  that lies within.",
     "genre": "Adventure",
@@ -118083,7 +118072,7 @@
     "description": "Pracice your rocket launching in a fast-paced wave survival FPS.",
     "genre": "Action",
     "id": "940463",
-    "link": "https://ic3bug-games.itch.io/rocket-bots",
+    "link": "https://ic3bug.itch.io/rocket-bots",
     "platforms": [
       "Windows",
       "Linux"
@@ -119050,6 +119039,27 @@
     ]
   },
   {
+    "author": "Steve Smith",
+    "description": "Escort the bomb to the end of the Highway!",
+    "genre": "Action",
+    "id": "948027",
+    "link": "https://stephensmith.itch.io/highway-encounter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNzQzMjAucG5n/315x250%23c/xij34G.png",
+    "title": "Highway Encounter 3D",
+    "video": null,
+    "scrapeWords": [
+      "Highway",
+      "Encounter",
+      "3",
+      "D"
+    ]
+  },
+  {
     "author": "JafCraze",
     "description": "Ring, ring, ring...",
     "genre": "Shooter",
@@ -119174,6 +119184,23 @@
     ]
   },
   {
+    "author": "gramozilho",
+    "description": "Your speed is your health, headbutt the skull into the goal to score. Can you defeat all dungeon mob teams?",
+    "genre": "Sports",
+    "id": "948895",
+    "link": "https://gramozilho.itch.io/footskull",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNzk4NTMuZ2lm/315x250%23cm/xuf43h.gif",
+    "title": "FootSkull",
+    "video": "https://img.itch.zone/aW1nLzUzNzk4NTMuZ2lm/original/Vda48Y.gif",
+    "scrapeWords": [
+      "Foot",
+      "Skull"
+    ]
+  },
+  {
     "author": "Ethanation",
     "description": "Wisdom comes at a cost.",
     "genre": "Shooter",
@@ -119254,6 +119281,56 @@
       "Street",
       "Club",
       "2"
+    ]
+  },
+  {
+    "author": "Cyrus Yip",
+    "description": "Reach the sun at the end of the dungeon that gives you a fresh start every time you die.",
+    "genre": "Action",
+    "id": "950156",
+    "link": "https://realcyguy.itch.io/the-refreshing-dungeon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzODcxMzEucG5n/315x250%23c/pB5K1Y.png",
+    "title": "the refreshing dungeon",
+    "video": null,
+    "scrapeWords": [
+      "the",
+      "refreshing",
+      "dungeon"
+    ]
+  },
+  {
+    "author": "programical",
+    "description": null,
+    "genre": null,
+    "id": "950561",
+    "link": "https://programical.itch.io/roundabout-pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzODkwMzAucG5n/315x250%23c/%2FMnTPa.png",
+    "title": "Roundabout Pong",
+    "video": null,
+    "scrapeWords": [
+      "Roundabout",
+      "Pong"
+    ]
+  },
+  {
+    "author": "MaryWillowson",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "950610",
+    "link": "https://marywillowson.itch.io/sisyphos",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzOTIwODQucG5n/315x250%23c/n0GvTY.png",
+    "title": "Sisyphos",
+    "video": null,
+    "scrapeWords": [
+      "Sisyphos"
     ]
   },
   {
