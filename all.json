@@ -32007,6 +32007,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -36392,7 +36410,7 @@
     ]
   },
   {
-    "author": "NightmareElixir",
+    "author": "Sanju. D. S",
     "description": "Gotta dodge em' all!",
     "genre": null,
     "id": "466562",
@@ -46208,23 +46226,6 @@
     "scrapeWords": [
       "Kaiju",
       "Klimb"
-    ]
-  },
-  {
-    "author": "NoohAlavi",
-    "description": "How long can you survive against the zombie apocalypse?",
-    "genre": "Shooter",
-    "id": "540858",
-    "link": "https://noohalavi.itch.io/undead-rising",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4Mjk0NzYucG5n/315x250%23c/Jco4jx.png",
-    "title": "Undead: Rising",
-    "video": null,
-    "scrapeWords": [
-      "Undead",
-      "Rising"
     ]
   },
   {
@@ -71005,7 +71006,6 @@
     "id": "683877",
     "link": "https://yatoimtop.itch.io/pearlgrabber",
     "platforms": [
-      "Windows",
       "Linux",
       "macOS"
     ],
@@ -72188,7 +72188,7 @@
     ]
   },
   {
-    "author": "Ikamonga",
+    "author": "Ikaiyo",
     "description": "Tetrisu for Final Assigment",
     "genre": "Puzzle",
     "id": "690839",
@@ -74355,7 +74355,7 @@
     "description": "Puzzle game made for GMTK Game Jam 2020",
     "genre": "Puzzle",
     "id": "696479",
-    "link": "https://ryzy27.itch.io/out-of-control",
+    "link": "https://trydev.itch.io/out-of-control",
     "platforms": [
       "Windows",
       "Linux",
@@ -113777,7 +113777,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMjQzNzIucG5n/315x250%23c/FUMVFf.png",
+    "thumb": null,
     "title": "Endlessness 0.1.31",
     "video": null,
     "scrapeWords": [
@@ -113987,6 +113987,25 @@
     "video": null,
     "scrapeWords": [
       "Cuber"
+    ]
+  },
+  {
+    "author": "Otter Games",
+    "description": "Direct the adventurers to their demise in this typing game!",
+    "genre": "Action",
+    "id": "914616",
+    "link": "https://otter-games.itch.io/killing-words",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNDgxMTcuZ2lm/315x250%23cm/NlMfTy.gif",
+    "title": "Killing Words",
+    "video": "https://img.itch.zone/aW1nLzUzNDgxMTcuZ2lm/original/aWyL5P.gif",
+    "scrapeWords": [
+      "Killing",
+      "Words"
     ]
   },
   {
@@ -115163,6 +115182,21 @@
     "scrapeWords": [
       "Sputtery",
       "Spaceship"
+    ]
+  },
+  {
+    "author": "LuminoRay",
+    "description": "A Pacman-style arcade game starring Hari Ryu! Try for the highest score you can.",
+    "genre": null,
+    "id": "924891",
+    "link": "https://luminoray.itch.io/nightmarecollector",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MDg1MDAucG5n/315x250%23c/LcXE7M.png",
+    "title": "Nightmare Collector",
+    "video": null,
+    "scrapeWords": [
+      "Nightmare",
+      "Collector"
     ]
   },
   {
@@ -116545,6 +116579,26 @@
     "scrapeWords": [
       "Monk",
       "Man"
+    ]
+  },
+  {
+    "author": "Pandaqi",
+    "description": "A cute puzzler about an Ogre trying to improve his eyesight (and escape his cave)",
+    "genre": "Puzzle",
+    "id": "931257",
+    "link": "https://pandaqi.itch.io/square-ogre",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyODgxNTkucG5n/315x250%23c/1nz2VC.png",
+    "title": "Square Ogre",
+    "video": null,
+    "scrapeWords": [
+      "Square",
+      "Ogre"
     ]
   },
   {
@@ -118703,6 +118757,22 @@
   },
   {
     "author": "School for Games",
+    "description": "Action Rogue-Lite",
+    "genre": "Action",
+    "id": "944592",
+    "link": "https://s4g.itch.io/krhaken",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzODk5NjEucG5n/315x250%23c/SiEFzR.png",
+    "title": "Kr'haken",
+    "video": null,
+    "scrapeWords": [
+      "Krhaken"
+    ]
+  },
+  {
+    "author": "School for Games",
     "description": "twin-stick shooter",
     "genre": "Shooter",
     "id": "944593",
@@ -118798,21 +118868,6 @@
     "video": null,
     "scrapeWords": [
       "Boxoku"
-    ]
-  },
-  {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -119368,6 +119423,25 @@
     ]
   },
   {
+    "author": "OrfeasWorldGames Studio",
+    "description": "The Ultimate Turret Jumper",
+    "genre": "Platformer",
+    "id": "949564",
+    "link": "https://orfeasworldgames-studio.itch.io/tutj-ft",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzODM4NDYucG5n/315x250%23c/GNfpZP.png",
+    "title": "Flappy Turret",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Turret"
+    ]
+  },
+  {
     "author": "Cyrus Yip",
     "description": "Reach the sun at the end of the dungeon that gives you a fresh start every time you die.",
     "genre": "Action",
@@ -119384,6 +119458,26 @@
     ]
   },
   {
+    "author": "Crowded Games",
+    "description": "speedrun on a multiplayer mayhem (and solo)",
+    "genre": "Racing",
+    "id": "950442",
+    "link": "https://crowdedgames.itch.io/wee-huu-runners",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MDI1ODkuZ2lm/315x250%23cm/atioM6.gif",
+    "title": "🏃‍♂️ - WEE HUU - Runners 🏃‍♂️",
+    "video": "https://img.itch.zone/aW1nLzU0MDI1ODkuZ2lm/original/bQ3rYQ.gif",
+    "scrapeWords": [
+      "🏃‍♂️",
+      "WEE",
+      "HUU",
+      "Runners",
+      "🏃‍♂️"
+    ]
+  },
+  {
     "author": "MaryWillowson",
     "description": null,
     "genre": "Puzzle",
@@ -119397,6 +119491,24 @@
     "video": null,
     "scrapeWords": [
       "Sisyphos"
+    ]
+  },
+  {
+    "author": "sx2",
+    "description": "maze build in Godot 3.2",
+    "genre": null,
+    "id": "951121",
+    "link": "https://sx2.itch.io/maze-2d",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzOTI0MDgucG5n/315x250%23c/lUVZtT.png",
+    "title": "Maze 2D",
+    "video": null,
+    "scrapeWords": [
+      "Maze",
+      "2",
+      "D"
     ]
   },
   {
@@ -119450,6 +119562,47 @@
     ]
   },
   {
+    "author": "samon101",
+    "description": "Use classes de palavras para montar uma pequena história.",
+    "genre": null,
+    "id": "952538",
+    "link": "https://samon101.itch.io/monte-historia",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MDAwMTEucG5n/315x250%23c/twXhDU.png",
+    "title": "Monte sua História",
+    "video": null,
+    "scrapeWords": [
+      "Monte",
+      "sua",
+      "História"
+    ]
+  },
+  {
+    "author": "Negrito_Pelig318",
+    "description": null,
+    "genre": "Platformer",
+    "id": "952736",
+    "link": "https://negrito-pelig318.itch.io/24-horas-antes-de-un-juego",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MDEwNzgucG5n/315x250%23c/FWj8JC.png",
+    "title": "24 Horas Antes De Un Juego",
+    "video": null,
+    "scrapeWords": [
+      "24",
+      "Horas",
+      "Antes",
+      "De",
+      "Un",
+      "Juego"
+    ]
+  },
+  {
     "author": "Danielle's games",
     "description": null,
     "genre": "Strategy",
@@ -119481,6 +119634,72 @@
       "30",
       "Second",
       "Ambush"
+    ]
+  },
+  {
+    "author": "Flying Octopus",
+    "description": null,
+    "genre": "Action",
+    "id": "953103",
+    "link": "https://flyingoctopus.itch.io/new-lands",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MDMyNDkucG5n/315x250%23c/YRsIrO.png",
+    "title": "New Lands",
+    "video": null,
+    "scrapeWords": [
+      "New",
+      "Lands"
+    ]
+  },
+  {
+    "author": "Moowool",
+    "description": "Feed him, he hungry",
+    "genre": "Platformer",
+    "id": "953412",
+    "link": "https://moowool.itch.io/sheeep",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MDUxNTEucG5n/315x250%23c/FspvBg.png",
+    "title": "Sheeep",
+    "video": null,
+    "scrapeWords": [
+      "Sheeep"
+    ]
+  },
+  {
+    "author": "AcheGames",
+    "description": null,
+    "genre": "Action",
+    "id": "954290",
+    "link": "https://achegames.itch.io/twin-bee-retro-jam",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MDk1OTIuanBn/315x250%23c/ziBkpp.jpg",
+    "title": "Twin Bee Retro Jam",
+    "video": null,
+    "scrapeWords": [
+      "Twin",
+      "Bee",
+      "Retro",
+      "Jam"
+    ]
+  },
+  {
+    "author": "Chevon",
+    "description": null,
+    "genre": "Adventure",
+    "id": "954354",
+    "link": "https://chevon.itch.io/blood-red-reclamation",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTAwMjcucG5n/315x250%23c/KO8jrW.png",
+    "title": "Blood Red Reclamation",
+    "video": null,
+    "scrapeWords": [
+      "Blood",
+      "Red",
+      "Reclamation"
     ]
   },
   {
