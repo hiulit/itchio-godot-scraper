@@ -4207,20 +4207,6 @@
     ]
   },
   {
-    "author": "imekon",
-    "description": "Breakout sample in Godot 2.1.4",
-    "genre": null,
-    "id": "197722",
-    "link": "https://imekon.itch.io/breakout",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTk3NzIyLzkyNDcxMy5wbmc=/315x250%23c/T21bKx.png",
-    "title": "Breakout",
-    "video": null,
-    "scrapeWords": [
-      "Breakout"
-    ]
-  },
-  {
     "author": "securas",
     "description": "A hack and slash roguelike winner of the 2017 Github Game Off Jam",
     "genre": "Role Playing",
@@ -14468,6 +14454,20 @@
       "of",
       "Memory",
       "Space"
+    ]
+  },
+  {
+    "author": "Chuckles P.  Monkeyworth",
+    "description": "Breakout game. Not very original, but with screen shake and googly eyes!",
+    "genre": null,
+    "id": "290114",
+    "link": "https://chucklespmonkeyworth.itch.io/breakout",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMTE0LzE0MTQ5MDMucG5n/315x250%23c/N%2FpZUj.png",
+    "title": "Breakout",
+    "video": null,
+    "scrapeWords": [
+      "Breakout"
     ]
   },
   {
@@ -32007,24 +32007,6 @@
     ]
   },
   {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
-    ]
-  },
-  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -41598,12 +41580,12 @@
     "link": "https://bitbotzgames.itch.io/spacerunner",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI1OTAyNTUucG5n/315x250%23c/PqNCOU.png",
-    "title": "Space Runner - Demo 2",
+    "title": "Space Runner - Demo 3",
     "video": null,
     "scrapeWords": [
       "Space",
       "Runner",
-      "2"
+      "3"
     ]
   },
   {
@@ -57907,25 +57889,6 @@
     ]
   },
   {
-    "author": "Gigaarts Official",
-    "description": "Can you find the way without getting catched?",
-    "genre": "Adventure",
-    "id": "615625",
-    "link": "https://gigaarts-official.itch.io/outoftheisolation",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0OTIwNjAucG5n/315x250%23c/oE5KJG.png",
-    "title": "Out of the Isolation",
-    "video": null,
-    "scrapeWords": [
-      "Out",
-      "of",
-      "the",
-      "Isolation"
-    ]
-  },
-  {
     "author": "GodotCommunityDE",
     "description": null,
     "genre": "Puzzle",
@@ -66348,6 +66311,25 @@
     ]
   },
   {
+    "author": "SexDrugsVideoGames",
+    "description": "Poetry for the sick",
+    "genre": null,
+    "id": "658696",
+    "link": "https://sexdrugsvideogames.itch.io/hauntedhaikugenerator",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM1NDMxOTIucG5n/315x250%23c/NPz%2FpA.png",
+    "title": "Haunted Haiku Generator",
+    "video": null,
+    "scrapeWords": [
+      "Haunted",
+      "Haiku",
+      "Generator"
+    ]
+  },
+  {
     "author": "jmb462",
     "description": "A 3D platform game : Make the snake big again !",
     "genre": "Platformer",
@@ -71898,20 +71880,21 @@
     ]
   },
   {
-    "author": "Responsible File",
+    "author": "CrispyOwl717",
     "description": "A very short horror game",
     "genre": "Interactive Fiction",
     "id": "688985",
-    "link": "https://responsiblefile.itch.io/sapphire",
+    "link": "https://crispyowl717.itch.io/sapphire",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM3OTUzNTUucG5n/315x250%23c/l6XtLK.png",
-    "title": "Heavenly Blue Collection Sapphire",
+    "title": "Sapphire - 2020 2-Minute Horror Jam",
     "video": null,
     "scrapeWords": [
-      "Heavenly",
-      "Blue",
-      "Collection",
-      "Sapphire"
+      "Sapphire",
+      "2020",
+      "2-Minute",
+      "Horror",
+      "Jam"
     ]
   },
   {
@@ -76993,11 +76976,11 @@
     ]
   },
   {
-    "author": "Kwabi",
+    "author": "Kwabsi",
     "description": "Manage your own personal planet and optimize your profit! Don't mind the title.",
     "genre": "Strategy",
     "id": "706058",
-    "link": "https://kwabi.itch.io/spontaneous-planetal-collapse",
+    "link": "https://kwabsi.itch.io/spontaneous-planetal-collapse",
     "platforms": [
       "Windows",
       "Linux",
@@ -77950,11 +77933,7 @@
     "genre": "Sports",
     "id": "710864",
     "link": "https://melvin8d.itch.io/superdigitaltennis",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM5MzU1OTcucG5n/315x250%23c/P24reG.png",
     "title": "Super Digital Tennis",
     "video": null,
@@ -93781,6 +93760,24 @@
     ]
   },
   {
+    "author": "Luke I. Wilson",
+    "description": "A classic bicolor, scrolling shooter with refreshingly cinematic story.",
+    "genre": "Action",
+    "id": "781015",
+    "link": "https://fivemoreminix.itch.io/vrmnnvzn",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTQ5OTIuZ2lm/315x250%23cm/22IBv0.gif",
+    "title": "VRMN NVZN",
+    "video": "https://img.itch.zone/aW1nLzU0MTQ5OTIuZ2lm/original/CntK1N.gif",
+    "scrapeWords": [
+      "VRMN",
+      "NVZN"
+    ]
+  },
+  {
     "author": "sundowns",
     "description": "A short, quirky FPS puzzle game. Push looping arrows to escape test chambers!",
     "genre": "Puzzle",
@@ -95959,8 +95956,8 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3MjI0MjYucG5n/315x250%23c/3dPEZl.png",
-    "title": "TEIY - The Enemy Is You",
+    "thumb": "https://img.itch.zone/aW1nLzU0MTE4NzkucG5n/315x250%23c/qK3S6f.png",
+    "title": "TEIY : The Enemy Is You",
     "video": null,
     "scrapeWords": [
       "TEIY",
@@ -97877,6 +97874,27 @@
     "scrapeWords": [
       "Ball",
       "Adventure"
+    ]
+  },
+  {
+    "author": "RoStudio1",
+    "description": "Experience the life of a game developer.",
+    "genre": "Simulation",
+    "id": "807728",
+    "link": "https://rostudio1.itch.io/dev-and-cry-simulator",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ1MjcyOTYucG5n/315x250%23c/5uG7ce.png",
+    "title": "Dev and Cry Simulator",
+    "video": null,
+    "scrapeWords": [
+      "Dev",
+      "and",
+      "Cry",
+      "Simulator"
     ]
   },
   {
@@ -104499,7 +104517,8 @@
     "link": "https://ggbot.itch.io/cyberway",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4MDUxMTcucG5n/315x250%23c/wINApo.png",
     "title": "CYBERWAY",
@@ -114194,6 +114213,25 @@
     ]
   },
   {
+    "author": "Cheeseness",
+    "description": "A prototype puzzle game about fossils",
+    "genre": "Puzzle",
+    "id": "916922",
+    "link": "https://cheeseness.itch.io/bonesweeper",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNjc4MTUucG5n/315x250%23c/OIQZgh.png",
+    "title": "Bonesweeper Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Bonesweeper",
+      "Prototype"
+    ]
+  },
+  {
     "author": "AlexMaus",
     "description": "Help Hans-Norbert, the microbiologist, with his experiments.",
     "genre": "Educational",
@@ -118871,6 +118909,39 @@
     ]
   },
   {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
+    "author": "Escada Games",
+    "description": "Asteroids with special relativity",
+    "genre": "Shooter",
+    "id": "945939",
+    "link": "https://escada-games.itch.io/celeritas",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNzI4NjIuZ2lm/315x250%23cm/4bhwMx.gif",
+    "title": "Celeritas",
+    "video": "https://img.itch.zone/aW1nLzUzNzI4NjIuZ2lm/original/MLF0xQ.gif",
+    "scrapeWords": [
+      "Celeritas"
+    ]
+  },
+  {
     "author": "Salatios",
     "description": "Serve orders to the patrons of your 1960's American Diner.",
     "genre": "Simulation",
@@ -119158,6 +119229,28 @@
     ]
   },
   {
+    "author": "zacryol",
+    "description": "Explore a dungeon where opening one path seals another",
+    "genre": null,
+    "id": "947610",
+    "link": "https://zacryol.itch.io/and-another-door-bites-the-dust",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MDA5OTMucG5n/315x250%23c/UfUVPH.png",
+    "title": "And Another Door Bites the Dust",
+    "video": null,
+    "scrapeWords": [
+      "And",
+      "Another",
+      "Door",
+      "Bites",
+      "the",
+      "Dust"
+    ]
+  },
+  {
     "author": "Teemolert",
     "description": "Survive 5 Nights",
     "genre": "Survival",
@@ -119165,6 +119258,7 @@
     "link": "https://teemolert.itch.io/fnau",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzNzI5NTgucG5n/315x250%23c/si73C%2F.png",
@@ -119291,7 +119385,7 @@
   },
   {
     "author": "danil-ko",
-    "description": "Multiplayer Top Down Shooter",
+    "description": "Network Multiplayer Top Down Shooter (Against other players or bots)",
     "genre": "Shooter",
     "id": "948705",
     "link": "https://danil-ko.itch.io/machine-battle",
@@ -119442,6 +119536,23 @@
     ]
   },
   {
+    "author": "jojo58fr - Joachim Miens",
+    "description": "The prequel of Dark souls 1 where you play has Oscar the Knight of Astora.",
+    "genre": "Platformer",
+    "id": "949671",
+    "link": "https://jojo58fr.itch.io/hollow-souls",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTMwMDAuZ2lm/315x250%23cm/kATqBF.gif",
+    "title": "Hollow Souls",
+    "video": "https://img.itch.zone/aW1nLzU0MTMwMDAuZ2lm/original/tle8jR.gif",
+    "scrapeWords": [
+      "Hollow",
+      "Souls"
+    ]
+  },
+  {
     "author": "Cyrus Yip",
     "description": "Reach the sun at the end of the dungeon that gives you a fresh start every time you die.",
     "genre": "Action",
@@ -119582,6 +119693,27 @@
     ]
   },
   {
+    "author": "obliviist",
+    "description": "A freaky New Vegas sandbox fever dream to explore with PSX-style graphics",
+    "genre": "Adventure",
+    "id": "952647",
+    "link": "https://obliviist.itch.io/fallout-marooned-in-novac",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTIyNDUucG5n/315x250%23c/3buKl%2B.png",
+    "title": "Fallout: Marooned In Novac",
+    "video": null,
+    "scrapeWords": [
+      "Fallout",
+      "Marooned",
+      "In",
+      "Novac"
+    ]
+  },
+  {
     "author": "Negrito_Pelig318",
     "description": null,
     "genre": "Platformer",
@@ -119668,13 +119800,49 @@
     ]
   },
   {
+    "author": "darkxception990 / Tiny Nanogames",
+    "description": "Retro-looking fighting game",
+    "genre": "Fighting",
+    "id": "953795",
+    "link": "https://darkxception.itch.io/drift-tears",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MDcyMDQucG5n/315x250%23c/d55V%2Bn.png",
+    "title": "Drift Tears",
+    "video": null,
+    "scrapeWords": [
+      "Drift",
+      "Tears"
+    ]
+  },
+  {
+    "author": "EternalNooblet",
+    "description": "Have you ever dreamt you were a flappy bird?",
+    "genre": "Shooter",
+    "id": "953985",
+    "link": "https://eternalnooblet.itch.io/enter-the-flappy-bird",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTE0MzcuZ2lm/315x250%23cm/IXPuuK.gif",
+    "title": "Enter The Flappy Bird",
+    "video": "https://img.itch.zone/aW1nLzU0MTE0MzcuZ2lm/original/umn6fp.gif",
+    "scrapeWords": [
+      "Enter",
+      "The",
+      "Flappy",
+      "Bird"
+    ]
+  },
+  {
     "author": "AcheGames",
     "description": null,
     "genre": "Action",
     "id": "954290",
     "link": "https://achegames.itch.io/twin-bee-retro-jam",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU0MDk1OTIuanBn/315x250%23c/ziBkpp.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzU0MTI2MDMuanBn/315x250%23c/lGWE8b.jpg",
     "title": "Twin Bee Retro Jam",
     "video": null,
     "scrapeWords": [
@@ -119700,6 +119868,76 @@
       "Blood",
       "Red",
       "Reclamation"
+    ]
+  },
+  {
+    "author": "rbgr",
+    "description": "Retro Jam submission based on the game Kingdom: classic",
+    "genre": "Strategy",
+    "id": "954482",
+    "link": "https://rbgr.itch.io/retrokingdom",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MTIwODAucG5n/315x250%23c/BiyQC3.png",
+    "title": "Retrokingdom Old Lands",
+    "video": null,
+    "scrapeWords": [
+      "Retrokingdom",
+      "Old",
+      "Lands"
+    ]
+  },
+  {
+    "author": "johnbrynte",
+    "description": "What if the ground breaking Zelda game for the Nintendo 64 would have been a remake of Link's Awakening?",
+    "genre": "Adventure",
+    "id": "954872",
+    "link": "https://johnbrynte.itch.io/awakening-64",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTM1MzQucG5n/315x250%23c/nPKoNM.png",
+    "title": "Awakening 64",
+    "video": null,
+    "scrapeWords": [
+      "Awakening",
+      "64"
+    ]
+  },
+  {
+    "author": "Escada Games",
+    "description": "Endless runner where you match colors while jumping between platforms",
+    "genre": "Platformer",
+    "id": "955320",
+    "link": "https://escada-games.itch.io/jump3match",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTYwNTMuZ2lm/315x250%23cm/QlEdaA.gif",
+    "title": "Jump3Match",
+    "video": "https://img.itch.zone/aW1nLzU0MTYwNTMuZ2lm/original/%2BgT89u.gif",
+    "scrapeWords": [
+      "Jump3",
+      "Match"
+    ]
+  },
+  {
+    "author": "whitehatcat",
+    "description": "Several boss battles in a Japanese sandbox island",
+    "genre": "Action",
+    "id": "955433",
+    "link": "https://whitehatcat.itch.io/robotical",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTY3NzMucG5n/315x250%23c/MNqaOj.png",
+    "title": "Robotical",
+    "video": null,
+    "scrapeWords": [
+      "Robotical"
     ]
   },
   {
