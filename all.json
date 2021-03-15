@@ -22240,6 +22240,23 @@
     ]
   },
   {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38619,25 +38636,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -46481,6 +46479,22 @@
     "scrapeWords": [
       "Confetti",
       "Rocket"
+    ]
+  },
+  {
+    "author": "ZeroZipZilch",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "542185",
+    "link": "https://zerozipzilch.itch.io/xyzdris",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI4MjQ0OTgucG5n/315x250%23c/3mzg3h.png",
+    "title": "XYZdris",
+    "video": null,
+    "scrapeWords": [
+      "XYZdris"
     ]
   },
   {
@@ -76553,6 +76567,26 @@
     ]
   },
   {
+    "author": "Dev Wodsobe",
+    "description": "Butter's not as good as you think",
+    "genre": "Action",
+    "id": "703116",
+    "link": "https://devwodsobe.itch.io/wodsobe",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQyMjAzODMucG5n/315x250%23c/xDfBdX.png",
+    "title": "Hoitown Files: Wodsobe",
+    "video": null,
+    "scrapeWords": [
+      "Hoitown",
+      "Files",
+      "Wodsobe"
+    ]
+  },
+  {
     "author": "jagrutjio",
     "description": null,
     "genre": "Shooter",
@@ -93932,8 +93966,7 @@
     "id": "781871",
     "link": "https://mash0star.itch.io/fat-spinner",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQzNzQxMjEucG5n/315x250%23c/P7d3pV.png",
     "title": "Fat Spinner: Spin Knight!",
@@ -106337,7 +106370,6 @@
     "link": "https://daisy-games.itch.io/hackgrid",
     "platforms": [
       "Windows",
-      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUyMjc0NzgucG5n/315x250%23c/DDKXWm.png",
@@ -112961,6 +112993,22 @@
     ]
   },
   {
+    "author": "Nikita Vychuz",
+    "description": "Help the zombie escape from a mansion... with typing!",
+    "genre": "Action",
+    "id": "909189",
+    "link": "https://nikitavychuz.itch.io/typos-and-brains",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MjgwOTAucG5n/315x250%23c/0NUPlq.png",
+    "title": "Typos and Brains",
+    "video": null,
+    "scrapeWords": [
+      "Typos",
+      "and",
+      "Brains"
+    ]
+  },
+  {
     "author": "EliasG2",
     "description": "a game where you are in a small space ship that uses guns to fly",
     "genre": "Action",
@@ -116876,6 +116924,22 @@
     ]
   },
   {
+    "author": "Red Alpha",
+    "description": "Fortune teller like app which tells what 2 people are  based on the letters in their names.",
+    "genre": null,
+    "id": "933881",
+    "link": "https://red-alpha.itch.io/flames",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyOTA4MzIucG5n/315x250%23c/YFuh91.png",
+    "title": "Flames",
+    "video": null,
+    "scrapeWords": [
+      "Flames"
+    ]
+  },
+  {
     "author": "WhiteVir",
     "description": "A vida de um gato em seu apartamento",
     "genre": "Platformer",
@@ -116922,6 +116986,23 @@
       "Snowman",
       "from",
       "Hanoi"
+    ]
+  },
+  {
+    "author": "Quantablos",
+    "description": "Submission for the Magical Girl Game Jam #3",
+    "genre": "Role Playing",
+    "id": "934395",
+    "link": "https://quantablos.itch.io/copykat",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjYzNjAucG5n/315x250%23c/i3QzIp.png",
+    "title": "Copykat",
+    "video": null,
+    "scrapeWords": [
+      "Copykat"
     ]
   },
   {
@@ -117193,21 +117274,6 @@
       "Youre",
       "the",
       "best"
-    ]
-  },
-  {
-    "author": "hilde",
-    "description": "A glorified flappy bird clone I made in 3 days",
-    "genre": null,
-    "id": "936531",
-    "link": "https://hildergill.itch.io/the-sky",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzMDYyNjYucG5n/315x250%23c/LrQGGe.png",
-    "title": "The Sky",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Sky"
     ]
   },
   {
@@ -118489,13 +118555,35 @@
     "genre": "Platformer",
     "id": "941132",
     "link": "https://jkrgwyn.itch.io/geojumper",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzMzI0MjcucG5n/315x250%23c/2Q4ERd.png",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjU4OTUucG5n/315x250%23c/h0AHTB.png",
     "title": "GeoJumper",
     "video": null,
     "scrapeWords": [
       "Geo",
       "Jumper"
+    ]
+  },
+  {
+    "author": "shelerr",
+    "description": "Story-based bullet-hell dungeon crawler with a time travel based plot.",
+    "genre": "Action",
+    "id": "941414",
+    "link": "https://shelerr.itch.io/timewhirl",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzODg5ODEucG5n/315x250%23c/81j214.png",
+    "title": "TimeWhirl β",
+    "video": null,
+    "scrapeWords": [
+      "Time",
+      "Whirl",
+      "β"
     ]
   },
   {
@@ -119384,7 +119472,9 @@
     "genre": "Simulation",
     "id": "948383",
     "link": "https://leanderdev.itch.io/spring-flowers",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUzODA4MDgucG5n/315x250%23c/rxy%2FmO.png",
     "title": "Spring Flowers",
     "video": null,
@@ -119560,6 +119650,20 @@
     "scrapeWords": [
       "Hollow",
       "Souls"
+    ]
+  },
+  {
+    "author": "rgscherf",
+    "description": "six faces, infinite rolls (7DRL 2021)",
+    "genre": "Puzzle",
+    "id": "949904",
+    "link": "https://rgscherf.itch.io/omnihexahedron",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzODczNjIuZ2lm/315x250%23cm/8l5YnM.gif",
+    "title": "omnihexahedron",
+    "video": "https://img.itch.zone/aW1nLzUzODczNjIuZ2lm/original/v3zDX%2F.gif",
+    "scrapeWords": [
+      "omnihexahedron"
     ]
   },
   {
@@ -119908,10 +120012,7 @@
     "genre": "Racing",
     "id": "954125",
     "link": "https://jocamar.itch.io/windward-rush-alpha",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU0MDg3NzcuanBn/315x250%23c/86xIz0.jpg",
     "title": "Windward Rush (alpha)",
     "video": null,
@@ -119923,7 +120024,7 @@
   },
   {
     "author": "AcheGames",
-    "description": null,
+    "description": "Tried to make Nes Twin bee to a newer retro design",
     "genre": "Action",
     "id": "954290",
     "link": "https://achegames.itch.io/twin-bee-retro-jam",
@@ -120019,7 +120120,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU0MjM3NzYucG5n/315x250%23c/H94pM2.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0MzM2MzUucG5n/315x250%23c/D5tfYN.png",
     "title": "A Root Path",
     "video": null,
     "scrapeWords": [
@@ -120047,14 +120148,28 @@
     ]
   },
   {
+    "author": "whiteshampoo",
+    "description": "RTS with oregano as currency",
+    "genre": "Strategy",
+    "id": "955620",
+    "link": "https://whiteshampoo.itch.io/oregano-wars",
+    "platforms": null,
+    "thumb": null,
+    "title": "Oregano Wars",
+    "video": null,
+    "scrapeWords": [
+      "Oregano",
+      "Wars"
+    ]
+  },
+  {
     "author": "oiKeTTLe",
     "description": "A game I'm developing as I learn Godot.",
     "genre": "Platformer",
     "id": "955686",
     "link": "https://oikettle.itch.io/mining-game",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0MjI1NzgucG5n/315x250%23c/i%2FHs90.png",
     "title": "Mining Game (Very Very Alpha Stage)",
@@ -120122,6 +120237,24 @@
     ]
   },
   {
+    "author": "Falcon Nova",
+    "description": "Help Anya save the Internet world from a virus!",
+    "genre": "Adventure",
+    "id": "956103",
+    "link": "https://falcon-nova.itch.io/across-the-servers",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjA5NDQucG5n/315x250%23c/oA1ICo.png",
+    "title": "Across the servers",
+    "video": null,
+    "scrapeWords": [
+      "Across",
+      "the",
+      "servers"
+    ]
+  },
+  {
     "author": "ST2005",
     "description": "Фангейм по Five nights at Freddy's, написанный на Godot Engine.",
     "genre": "Survival",
@@ -120177,6 +120310,23 @@
     ]
   },
   {
+    "author": "bennnperson",
+    "description": "A short little game about chasing down an ice cream truck to get some ice cream.",
+    "genre": "Platformer",
+    "id": "956652",
+    "link": "https://bennnperson.itch.io/heist-cream",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjQxMzAucG5n/315x250%23c/idrrbc.png",
+    "title": "Heist Cream",
+    "video": null,
+    "scrapeWords": [
+      "Heist",
+      "Cream"
+    ]
+  },
+  {
     "author": "kdiduk",
     "description": "A simple roguelike game with pixel graphics prepared for 7DRL Jam",
     "genre": null,
@@ -120201,8 +120351,12 @@
     "description": "how deep do your roots grow?",
     "genre": "Platformer",
     "id": "956744",
-    "link": "https://p8.itch.io/fof",
-    "platforms": null,
+    "link": "https://p8.itch.io/ff",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU0MjQ2NTIucG5n/315x250%23c/xYNGoW.png",
     "title": "forests of the forevers",
     "video": null,
@@ -120211,6 +120365,176 @@
       "of",
       "the",
       "forevers"
+    ]
+  },
+  {
+    "author": "Otwald",
+    "description": "Bullet Hell with Magic Girls fighting to protect the forest",
+    "genre": "Action",
+    "id": "956822",
+    "link": "https://otwald.itch.io/magical-princesses-forest-journey-save-the-day",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjU2MDkucG5n/315x250%23c/84sEzf.png",
+    "title": "Magical Princesses: Forest Journey. Save the Day!!",
+    "video": null,
+    "scrapeWords": [
+      "Magical",
+      "Princesses",
+      "Forest",
+      "Journey",
+      "Save",
+      "the",
+      "Day"
+    ]
+  },
+  {
+    "author": "barely-finished-games",
+    "description": "our contribution to #7DRL 2021",
+    "genre": "Adventure",
+    "id": "956917",
+    "link": "https://barely-finished-games.itch.io/slimecaves",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MjYwNTgucG5n/315x250%23c/%2Bi8Lwp.png",
+    "title": "Slimecaves",
+    "video": null,
+    "scrapeWords": [
+      "Slimecaves"
+    ]
+  },
+  {
+    "author": "Created_by_a_guy",
+    "description": "Made for Godot Wild Jam",
+    "genre": "Platformer",
+    "id": "957028",
+    "link": "https://created-by-a-guy.itch.io/where-is-everything",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MjY4NjMucG5n/315x250%23c/BWqHnd.png",
+    "title": "Ball.",
+    "video": null,
+    "scrapeWords": [
+      "Ball"
+    ]
+  },
+  {
+    "author": "Abhinav.M.B",
+    "description": null,
+    "genre": "Platformer",
+    "id": "957046",
+    "link": "https://abhinavmb.itch.io/alien-platformer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjY2OTgucG5n/315x250%23c/5uK9NH.png",
+    "title": "Alien Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Alien",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "Somedudelol",
+    "description": "Space cube V0.3",
+    "genre": "Platformer",
+    "id": "957191",
+    "link": "https://somedudelol.itch.io/space-cube",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0Mjc0NTAucG5n/315x250%23c/KhgqRZ.png",
+    "title": "Space cube!",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "cube"
+    ]
+  },
+  {
+    "author": "Orbit Games",
+    "description": "Small arcade game made in 2 hours and 42 minutes",
+    "genre": "Action",
+    "id": "957192",
+    "link": "https://orbit-games.itch.io/squares-of-doom",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0Mjc1OTYucG5n/315x250%23c/JScltu.png",
+    "title": "Squares of Doom",
+    "video": null,
+    "scrapeWords": [
+      "Squares",
+      "of",
+      "Doom"
+    ]
+  },
+  {
+    "author": "acegiak",
+    "description": "Explore the ruins of your home from an alternate timeline.",
+    "genre": "Role Playing",
+    "id": "957193",
+    "link": "https://acegiak.itch.io/echo-down",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0Mjc0MDYucG5n/315x250%23c/i29BXv.png",
+    "title": "Echo Down",
+    "video": null,
+    "scrapeWords": [
+      "Echo",
+      "Down"
+    ]
+  },
+  {
+    "author": "FartFish",
+    "description": null,
+    "genre": "Action",
+    "id": "957477",
+    "link": "https://fartfish.itch.io/brittle-blade",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjkxNzMucG5n/315x250%23c/Lz4mjH.png",
+    "title": "Brittle Blade",
+    "video": null,
+    "scrapeWords": [
+      "Brittle",
+      "Blade"
+    ]
+  },
+  {
+    "author": "Birdwards",
+    "description": null,
+    "genre": null,
+    "id": "957619",
+    "link": "https://birdwards.itch.io/trilliards",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MzAwNTUucG5n/315x250%23c/qzQDy%2F.png",
+    "title": "Trilliards",
+    "video": null,
+    "scrapeWords": [
+      "Trilliards"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Triangles for Trijam",
+    "genre": "Puzzle",
+    "id": "957652",
+    "link": "https://jafcraze.itch.io/tri111",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MzAyNTIucG5n/315x250%23c/AXwhZD.png",
+    "title": "Tri111",
+    "video": null,
+    "scrapeWords": [
+      "Tri111"
     ]
   },
   {
