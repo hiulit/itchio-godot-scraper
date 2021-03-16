@@ -3037,7 +3037,7 @@
     ]
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": "A really short visual novel about population.",
     "genre": "Visual Novel",
     "id": "172261",
@@ -3211,7 +3211,7 @@
     "scrapeWords": null
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": "Point-and-click adventure game and historical fiction based on the London Blitz.",
     "genre": "Adventure",
     "id": "177767",
@@ -15401,7 +15401,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkyODU4LzE0MjgwMzAucG5n/315x250%23c/DZavF9.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0Mzg1OTUucG5n/315x250%23c/%2FG3tfr.png",
     "title": "Junk Dealerz",
     "video": null,
     "scrapeWords": [
@@ -22240,23 +22240,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -22396,7 +22379,7 @@
     ]
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": "Because I have nothing else to do.",
     "genre": "Simulation",
     "id": "349508",
@@ -29659,7 +29642,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIwNjU4NDMucG5n/315x250%23c/jPefaF.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0Mzg2NTQucG5n/315x250%23c/FhgbBR.png",
     "title": "Snots Quest",
     "video": null,
     "scrapeWords": [
@@ -32036,24 +32019,6 @@
       "Grav",
       "Magnet",
       "Prototype"
-    ]
-  },
-  {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -38633,6 +38598,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -49872,7 +49856,7 @@
     ]
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": "An action typing game based on the Yoruba religion",
     "genre": "Action",
     "id": "567310",
@@ -56448,6 +56432,25 @@
     ]
   },
   {
+    "author": "Peter Offerman",
+    "description": "A casual racing game with cute cars and a lot of fun",
+    "genre": "Racing",
+    "id": "609831",
+    "link": "https://peterofferman.itch.io/loose-bolts",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMDE2MDMucG5n/315x250%23c/3zDuEV.png",
+    "title": "Loose Bolts",
+    "video": null,
+    "scrapeWords": [
+      "Loose",
+      "Bolts"
+    ]
+  },
+  {
     "author": "xyz160",
     "description": "Escape the room in horror setting by solving puzzles.",
     "genre": "Puzzle",
@@ -57592,7 +57595,7 @@
     ]
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": "Top-down Arcade Shooter with a dancing unicorn in the center",
     "genre": "Shooter",
     "id": "614760",
@@ -61635,7 +61638,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMzODIzMTcucG5n/315x250%23c/5D4z28.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0MzUwNjkuanBn/315x250%23c/hizsu0.jpg",
     "title": "Man Down:  2 player co op version",
     "video": null,
     "scrapeWords": [
@@ -74475,28 +74478,6 @@
     ]
   },
   {
-    "author": "LFJ Game Studios",
-    "description": "Survibunny's Bizarre Adventure",
-    "genre": "Platformer",
-    "id": "696681",
-    "link": "https://lfj-gs.itch.io/just-dont-die-jam-edition",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyMDY1NDQucG5n/315x250%23c/QJG0iE.png",
-    "title": "Just Don't Die: Jam Edition",
-    "video": null,
-    "scrapeWords": [
-      "Just",
-      "Dont",
-      "Die",
-      "Jam",
-      "Edition"
-    ]
-  },
-  {
     "author": "GreenClovers",
     "description": "A gardening witch tries to run a florist while keeping her magic from causing chaos.",
     "genre": "Simulation",
@@ -75704,7 +75685,7 @@
     ]
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": "Explore space, fix problems, trade cargo, romance the sellers.",
     "genre": "Platformer",
     "id": "699542",
@@ -76364,7 +76345,7 @@
     ]
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": "2.5D Platformer Shooter",
     "genre": "Shooter",
     "id": "702132",
@@ -76382,7 +76363,7 @@
     ]
   },
   {
-    "author": "Hellveloper",
+    "author": "GravityI",
     "description": null,
     "genre": "Fighting",
     "id": "702148",
@@ -84372,16 +84353,19 @@
     "id": "738033",
     "link": "https://michael-grieshofer.itch.io/abandoned",
     "platforms": [
-      "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0OTc1OTEucG5n/315x250%23c/webpOt.png",
-    "title": "A World Abandoned",
+    "thumb": "https://img.itch.zone/aW1nLzU0MzgwOTIucG5n/315x250%23c/HjiPgm.png",
+    "title": "A World Abandoned ... miz game jam version",
     "video": null,
     "scrapeWords": [
       "A",
       "World",
-      "Abandoned"
+      "Abandoned",
+      "miz",
+      "game",
+      "jam",
+      "version"
     ]
   },
   {
@@ -100426,7 +100410,7 @@
   {
     "author": "ExoPrism",
     "description": null,
-    "genre": null,
+    "genre": "Puzzle",
     "id": "826021",
     "link": "https://exoprism.itch.io/iamabox",
     "platforms": [
@@ -101803,7 +101787,7 @@
   },
   {
     "author": "Quadratic Games",
-    "description": "A peaceful little adventure with unusual controls",
+    "description": "A peaceful little adventure with unusual controls | In development",
     "genre": "Adventure",
     "id": "835992",
     "link": "https://quadratic-games.itch.io/little-red-square",
@@ -113913,6 +113897,26 @@
     ]
   },
   {
+    "author": "Guineu",
+    "description": "Cursed Among us ripoff",
+    "genre": "Survival",
+    "id": "913420",
+    "link": "https://guineu.itch.io/among-uwus",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNjM1NzMucG5n/315x250%23c/gu4yBr.png",
+    "title": "Among UwUs",
+    "video": null,
+    "scrapeWords": [
+      "Among",
+      "Uw",
+      "Us"
+    ]
+  },
+  {
     "author": "MasterWolves1",
     "description": "nokia (3) - platformer",
     "genre": "Platformer",
@@ -117277,6 +117281,21 @@
     ]
   },
   {
+    "author": "hilde",
+    "description": "A glorified flappy bird clone I made in 3 days",
+    "genre": null,
+    "id": "936531",
+    "link": "https://hildergill.itch.io/the-sky",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDYyNjYucG5n/315x250%23c/LrQGGe.png",
+    "title": "The Sky",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Sky"
+    ]
+  },
+  {
     "author": "Seik Sugaloth",
     "description": "Control a purple ball trying to reach a strange portal. Shrink or grow (or both) to achieve your goal.",
     "genre": "Puzzle",
@@ -119018,6 +119037,21 @@
     ]
   },
   {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Escada Games",
     "description": "Asteroids with special relativity",
     "genre": "Shooter",
@@ -119199,6 +119233,24 @@
       "a",
       "memory",
       "game"
+    ]
+  },
+  {
+    "author": "Deranged Turtle Games",
+    "description": "In a post-apocolyptic world... all you can do is tri.",
+    "genre": "Puzzle",
+    "id": "946897",
+    "link": "https://derangedturtlegames.itch.io/trihard",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0Mzg2MDcucG5n/315x250%23c/pgYQlE.png",
+    "title": "TriHard",
+    "video": null,
+    "scrapeWords": [
+      "Tri",
+      "Hard"
     ]
   },
   {
@@ -119553,6 +119605,25 @@
     ]
   },
   {
+    "author": "FreddryTurbina",
+    "description": "will you be able to overcome the training of a light traveler?",
+    "genre": "Platformer",
+    "id": "949066",
+    "link": "https://freddryturbina.itch.io/99c",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzODI1OTkucG5n/315x250%23c/ONKdCs.png",
+    "title": "0.99C",
+    "video": null,
+    "scrapeWords": [
+      "099",
+      "C"
+    ]
+  },
+  {
     "author": "Mr. Arrecis",
     "description": "It's time to go to another planet.",
     "genre": "Platformer",
@@ -119654,7 +119725,7 @@
   },
   {
     "author": "rgscherf",
-    "description": "six faces, infinite rolls (7DRL 2021)",
+    "description": "six faces, infinite frustration (7DRL 2021)",
     "genre": "Puzzle",
     "id": "949904",
     "link": "https://rgscherf.itch.io/omnihexahedron",
@@ -120012,7 +120083,10 @@
     "genre": "Racing",
     "id": "954125",
     "link": "https://jocamar.itch.io/windward-rush-alpha",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU0MDg3NzcuanBn/315x250%23c/86xIz0.jpg",
     "title": "Windward Rush (alpha)",
     "video": null,
@@ -120390,6 +120464,28 @@
     ]
   },
   {
+    "author": "SCORPIXELITE",
+    "description": "A Bark in the Space is a serious 1v1 simulating game made for 100 $ Cowboy Jam over a weekend",
+    "genre": "Simulation",
+    "id": "956856",
+    "link": "https://scorpixelite.itch.io/a-bark-in-the-space",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MjcyNzMucG5n/315x250%23c/SzwFTs.png",
+    "title": "A Bark in the Space",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Bark",
+      "in",
+      "the",
+      "Space"
+    ]
+  },
+  {
     "author": "barely-finished-games",
     "description": "our contribution to #7DRL 2021",
     "genre": "Adventure",
@@ -120443,7 +120539,8 @@
     "id": "957191",
     "link": "https://somedudelol.itch.io/space-cube",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0Mjc0NTAucG5n/315x250%23c/KhgqRZ.png",
     "title": "Space cube!",
@@ -120494,7 +120591,7 @@
   },
   {
     "author": "FartFish",
-    "description": null,
+    "description": "an original spin on the bullet hell boss fight genre",
     "genre": "Action",
     "id": "957477",
     "link": "https://fartfish.itch.io/brittle-blade",
@@ -120535,6 +120632,77 @@
     "video": null,
     "scrapeWords": [
       "Tri111"
+    ]
+  },
+  {
+    "author": "Nikpotato",
+    "description": null,
+    "genre": "Platformer",
+    "id": "957674",
+    "link": "https://nikpotato.itch.io/climbing-to-the-top",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MzM5ODgucG5n/315x250%23c/7Btryc.png",
+    "title": "Climbing to the top",
+    "video": null,
+    "scrapeWords": [
+      "Climbing",
+      "to",
+      "the",
+      "top"
+    ]
+  },
+  {
+    "author": "Obaasan Games",
+    "description": "Endless elder runner",
+    "genre": "Platformer",
+    "id": "958976",
+    "link": "https://obaasangames.itch.io/hayaku-obaasan",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0Mzg3MTEucG5n/315x250%23c/kXyRaI.png",
+    "title": "Hayaku Obaasan!",
+    "video": null,
+    "scrapeWords": [
+      "Hayaku",
+      "Obaasan"
+    ]
+  },
+  {
+    "author": "neoncangames",
+    "description": "The perfect game for table ball bouncer professionals.",
+    "genre": "Action",
+    "id": "959014",
+    "link": "https://neoncangames.itch.io/table-bouncer-professional",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0Mzg2OTIucG5n/315x250%23c/gzlrWZ.png",
+    "title": "Table Bouncer Professional",
+    "video": null,
+    "scrapeWords": [
+      "Table",
+      "Bouncer",
+      "Professional"
+    ]
+  },
+  {
+    "author": "FreshWaterGames",
+    "description": "Prove your worth to the manager by filing your way back to the top!",
+    "genre": "Puzzle",
+    "id": "959353",
+    "link": "https://freshwatergames.itch.io/blockade",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NDA3OTYucG5n/315x250%23c/jnGsXJ.png",
+    "title": "Blockade",
+    "video": null,
+    "scrapeWords": [
+      "Blockade"
     ]
   },
   {
