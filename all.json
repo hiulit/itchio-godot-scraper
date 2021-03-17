@@ -30086,9 +30086,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMzQ5MzkuZ2lm/315x250%23cm/qoti04.gif",
+    "thumb": "https://img.itch.zone/aW1nLzU0NDg5NzAuZ2lm/315x250%23cm/Z2qeX%2F.gif",
     "title": "Hive Time",
-    "video": "https://img.itch.zone/aW1nLzMwMzQ5MzkuZ2lm/original/M8BJKP.gif",
+    "video": "https://img.itch.zone/aW1nLzU0NDg5NzAuZ2lm/original/0kTsih.gif",
     "scrapeWords": [
       "Hive",
       "Time"
@@ -33232,6 +33232,28 @@
       "Sauls",
       "Dungeon",
       "Crawl"
+    ]
+  },
+  {
+    "author": "tavurth",
+    "description": "Hands on workshop content for the first TDPK game jam",
+    "genre": "Educational",
+    "id": "447847",
+    "link": "https://tavurth.itch.io/tdpk-gamejam-workshop-1",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyNjM1MDcuanBn/315x250%23c/GEqjK5.jpg",
+    "title": "TDPK Game Jam Workshop 1",
+    "video": null,
+    "scrapeWords": [
+      "TDPK",
+      "Game",
+      "Jam",
+      "Workshop",
+      "1"
     ]
   },
   {
@@ -42650,11 +42672,11 @@
     ]
   },
   {
-    "author": "Shiny Logarius",
+    "author": "ShinyOlivia",
     "description": "Submission for 49er Game Jam Fall 2019",
     "genre": "Shooter",
     "id": "510332",
-    "link": "https://shiny-logarius.itch.io/time-hackerz",
+    "link": "https://shinyolivia.itch.io/time-hackerz",
     "platforms": [
       "Windows",
       "Linux",
@@ -56724,7 +56746,8 @@
     "id": "611568",
     "link": "https://smoula.itch.io/haunted",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM0NDc1ODcucG5n/315x250%23c/Oi7U0e.png",
     "title": "Haunted",
@@ -65416,7 +65439,11 @@
     "genre": "Action",
     "id": "653140",
     "link": "https://josephcantrell14.itch.io/prophet-launcher",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzM1MDYwOTQucG5n/315x250%23c/13qRm%2F.png",
     "title": "Prophet Launcher",
     "video": null,
@@ -71731,16 +71758,14 @@
     "genre": "Puzzle",
     "id": "688225",
     "link": "https://frontrider.itch.io/tetrum",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM4MTU4NzMucG5n/315x250%23c/aLyFLf.png",
-    "title": "Tetrum",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NDgxMDUucG5n/315x250%23c/Ky7hPV.png",
+    "title": "Tetrum <under rebrand>",
     "video": null,
     "scrapeWords": [
-      "Tetrum"
+      "Tetrum",
+      "under",
+      "rebrand"
     ]
   },
   {
@@ -84353,6 +84378,7 @@
     "id": "738033",
     "link": "https://michael-grieshofer.itch.io/abandoned",
     "platforms": [
+      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0MzgwOTIucG5n/315x250%23c/HjiPgm.png",
@@ -100409,7 +100435,7 @@
   },
   {
     "author": "ExoPrism",
-    "description": null,
+    "description": "It's simply a box!",
     "genre": "Puzzle",
     "id": "826021",
     "link": "https://exoprism.itch.io/iamabox",
@@ -114034,7 +114060,7 @@
   },
   {
     "author": "dbybr",
-    "description": null,
+    "description": "PUNK FIREFIGHTING ACTION!!!!!",
     "genre": "Action",
     "id": "914409",
     "link": "https://dbybr.itch.io/forward-by-hot",
@@ -116913,6 +116939,22 @@
     ]
   },
   {
+    "author": "Anagh's World",
+    "description": "Escape to survive. A game by Anagh's World.",
+    "genre": "Survival",
+    "id": "933609",
+    "link": "https://anaghsworld.itch.io/the-dark-room",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyODk5NzIuanBn/315x250%23c/BXOThJ.jpg",
+    "title": "The Dark Room",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Dark",
+      "Room"
+    ]
+  },
+  {
     "author": "le epic gamedev",
     "description": null,
     "genre": "Action",
@@ -118792,11 +118834,11 @@
     ]
   },
   {
-    "author": "GodotDude",
+    "author": "SolRaptor",
     "description": "Plz download",
     "genre": "Shooter",
     "id": "944151",
-    "link": "https://godotdude.itch.io/super-shooter",
+    "link": "https://solraptor.itch.io/super-shooter",
     "platforms": [
       "Windows",
       "Linux",
@@ -119920,9 +119962,7 @@
     "genre": "Platformer",
     "id": "952736",
     "link": "https://negrito-pelig318.itch.io/24-horas-antes-de-un-juego",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU0MDEwNzgucG5n/315x250%23c/FWj8JC.png",
     "title": "24 Horas Antes De Un Juego",
     "video": null,
@@ -119967,6 +120007,21 @@
       "30",
       "Second",
       "Ambush"
+    ]
+  },
+  {
+    "author": "Anagh's World",
+    "description": "Help \"Fuchsia\" the bird to collect food and water that will help her survive the coming summer. A game by Anagh's World.",
+    "genre": "Adventure",
+    "id": "952847",
+    "link": "https://anaghsworld.itch.io/spring-time",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MDE4MDUuanBn/315x250%23c/Jh1nHc.jpg",
+    "title": "Spring Time",
+    "video": null,
+    "scrapeWords": [
+      "Spring",
+      "Time"
     ]
   },
   {
@@ -120119,9 +120174,7 @@
     "genre": "Adventure",
     "id": "954354",
     "link": "https://chevon.itch.io/blood-red-reclamation",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU0MTAwMjcucG5n/315x250%23c/KO8jrW.png",
     "title": "Blood Red Reclamation",
     "video": null,
@@ -120308,6 +120361,21 @@
       "[Remake]",
       "Dangerous",
       "dave"
+    ]
+  },
+  {
+    "author": "GrandInquisitor",
+    "description": "My Godot Wild Jam 31 Project",
+    "genre": "Shooter",
+    "id": "956079",
+    "link": "https://grandinquisitor.itch.io/spriteless-jerks",
+    "platforms": null,
+    "thumb": null,
+    "title": "Spriteless Jerks",
+    "video": null,
+    "scrapeWords": [
+      "Spriteless",
+      "Jerks"
     ]
   },
   {
@@ -120514,25 +120582,6 @@
     ]
   },
   {
-    "author": "Abhinav.M.B",
-    "description": null,
-    "genre": "Platformer",
-    "id": "957046",
-    "link": "https://abhinavmb.itch.io/alien-platformer",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0MjY2OTgucG5n/315x250%23c/5uK9NH.png",
-    "title": "Alien Platformer",
-    "video": null,
-    "scrapeWords": [
-      "Alien",
-      "Platformer"
-    ]
-  },
-  {
     "author": "Somedudelol",
     "description": "Space cube V0.3",
     "genre": "Platformer",
@@ -120654,6 +120703,21 @@
     ]
   },
   {
+    "author": "Anagh's World",
+    "description": "You play as \"Mr. Triangle\", the expert in escaping potty. An endless runner type game by Anagh's World.",
+    "genre": "Platformer",
+    "id": "958045",
+    "link": "https://anaghsworld.itch.io/potty-escape",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MzI2NDYuanBn/315x250%23c/RSmnDR.jpg",
+    "title": "Potty Escape",
+    "video": null,
+    "scrapeWords": [
+      "Potty",
+      "Escape"
+    ]
+  },
+  {
     "author": "Obaasan Games",
     "description": "Endless elder runner",
     "genre": "Platformer",
@@ -120703,6 +120767,41 @@
     "video": null,
     "scrapeWords": [
       "Blockade"
+    ]
+  },
+  {
+    "author": "Ammo Games",
+    "description": "Its pong, BUT BETTER!",
+    "genre": "Simulation",
+    "id": "959779",
+    "link": "https://ammo-games.itch.io/pong-fanmade-edition",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NDMzODgucG5n/315x250%23c/EjHuew.png",
+    "title": "Pong: Fanmade Edition",
+    "video": null,
+    "scrapeWords": [
+      "Pong",
+      "Fanmade",
+      "Edition"
+    ]
+  },
+  {
+    "author": "AikonCWD",
+    "description": "Traditional roguelike inspired on the original Rogue game",
+    "genre": "Adventure",
+    "id": "959783",
+    "link": "https://aikoncwd.itch.io/godorogue",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NDM0NzYucG5n/315x250%23c/tSqoW%2F.png",
+    "title": "GodoRogue",
+    "video": null,
+    "scrapeWords": [
+      "Godo",
+      "Rogue"
     ]
   },
   {
