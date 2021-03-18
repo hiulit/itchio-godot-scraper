@@ -11971,6 +11971,24 @@
     ]
   },
   {
+    "author": "Lethian",
+    "description": "Participate in a race of steam trains",
+    "genre": "Racing",
+    "id": "270272",
+    "link": "https://lethiandev.itch.io/steam-race",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjcwMjcyLzEzMDU1MzcucG5n/315x250%23c/8huXYI.png",
+    "title": "Steam Race",
+    "video": null,
+    "scrapeWords": [
+      "Steam",
+      "Race"
+    ]
+  },
+  {
     "author": "Noshyaar",
     "description": "Survive for as long as possible in an apocalypse!",
     "genre": "Action",
@@ -22237,6 +22255,23 @@
       "be",
       "a",
       "Triangle"
+    ]
+  },
+  {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -38623,25 +38658,6 @@
     ]
   },
   {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -40178,10 +40194,7 @@
     "genre": "Action",
     "id": "490507",
     "link": "https://strauji.itch.io/void-strike",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQyNDAwNTcucG5n/315x250%23c/3XBsux.png",
     "title": "VoidStrike",
     "video": null,
@@ -45438,7 +45451,7 @@
     "description": "A 2D exploration game.",
     "genre": "Platformer",
     "id": "535810",
-    "link": "https://rics-devlogs.itch.io/quantum-ruins-pre-alpha",
+    "link": "https://ric-gamedev.itch.io/quantum-ruins-pre-alpha",
     "platforms": [
       "Windows",
       "Linux",
@@ -59749,22 +59762,6 @@
     "video": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/original/bofI0x.gif",
     "scrapeWords": [
       "Kaloche"
-    ]
-  },
-  {
-    "author": "fivefingergames",
-    "description": "Medic! - Our Ludum Dare 46 Game",
-    "genre": null,
-    "id": "620482",
-    "link": "https://fivefingergames.itch.io/medic",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMyOTc1ODAucG5n/315x250%23c/y6Sb8D.png",
-    "title": "Medic!",
-    "video": null,
-    "scrapeWords": [
-      "Medic"
     ]
   },
   {
@@ -90856,7 +90853,7 @@
     ]
   },
   {
-    "author": "XanthosWare",
+    "author": "Zhangir Nurmukhambetov",
     "description": "Collect stamps on time!",
     "genre": "Action",
     "id": "767804",
@@ -91522,11 +91519,11 @@
     ]
   },
   {
-    "author": "BSdev",
+    "author": "AMdev28",
     "description": null,
     "genre": "Adventure",
     "id": "770481",
-    "link": "https://bsdev.itch.io/eternal-moon-game",
+    "link": "https://amdev28.itch.io/eternal-moon-game",
     "platforms": [
       "Windows"
     ],
@@ -94009,11 +94006,11 @@
     ]
   },
   {
-    "author": "BSdev",
+    "author": "AMdev28",
     "description": "Gravity changing platformer game",
     "genre": "Platformer",
     "id": "782064",
-    "link": "https://bsdev.itch.io/monochroin-hunt-game",
+    "link": "https://amdev28.itch.io/monochroin-hunt-game",
     "platforms": [
       "Windows"
     ],
@@ -94188,6 +94185,26 @@
     "video": null,
     "scrapeWords": [
       "Jugglemaster"
+    ]
+  },
+  {
+    "author": "Diane Sparks",
+    "description": "CAPSTONE 2020-2021",
+    "genre": "Platformer",
+    "id": "783234",
+    "link": "https://dianesparks.itch.io/capstone",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNDQxMzgucG5n/315x250%23c/4bNaie.png",
+    "title": "Little Monster Story",
+    "video": null,
+    "scrapeWords": [
+      "Little",
+      "Monster",
+      "Story"
     ]
   },
   {
@@ -99316,7 +99333,7 @@
     ]
   },
   {
-    "author": "XanthosWare",
+    "author": "Zhangir Nurmukhambetov",
     "description": "Ring Away Against Your Friend!",
     "genre": null,
     "id": "819286",
@@ -106847,7 +106864,8 @@
     "id": "869823",
     "link": "https://josephcantrell14.itch.io/prophet-launcher-3d",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ4ODgxOTIucG5n/315x250%23c/JB6Ft9.png",
     "title": "Prophet Launcher 3D",
@@ -116666,6 +116684,21 @@
     ]
   },
   {
+    "author": "Lethian",
+    "description": "Protect your neutron star from the power-hungry alien faction",
+    "genre": "Action",
+    "id": "930858",
+    "link": "https://lethiandev.itch.io/neutron-star",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNzEyOTcucG5n/315x250%23c/GPp25S.png",
+    "title": "Neutron Star",
+    "video": null,
+    "scrapeWords": [
+      "Neutron",
+      "Star"
+    ]
+  },
+  {
     "author": "Cyrus Yip",
     "description": "Be the island and defend yourself from the green balls.",
     "genre": "Shooter",
@@ -116874,6 +116907,21 @@
     "scrapeWords": [
       "Coconut",
       "Tag"
+    ]
+  },
+  {
+    "author": "Lethian",
+    "description": "Simple yet challenging platform game with hens escaping alien spaceship",
+    "genre": "Platformer",
+    "id": "933112",
+    "link": "https://lethiandev.itch.io/hen-misadventures",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyODY0MTYucG5n/315x250%23c/kG4%2FWD.png",
+    "title": "Hen Misadventures",
+    "video": null,
+    "scrapeWords": [
+      "Hen",
+      "Misadventures"
     ]
   },
   {
@@ -117835,7 +117883,7 @@
     "description": "A benevolent AI won't let any harm come to you. Can you still manage to escape?",
     "genre": "Platformer",
     "id": "938922",
-    "link": "https://selinadev.itch.io/i-wont-let-you-fail",
+    "link": "https://selinadev.itch.io/i-wont-let-you-fail-jam-version",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUzMjkzMzkucG5n/315x250%23c/uwrBCY.png",
     "title": "I Won't Let You Fail",
@@ -119287,7 +119335,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU0Mzg2MDcucG5n/315x250%23c/pgYQlE.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0NTU1MDcucG5n/315x250%23c/uV3%2FZ7.png",
     "title": "TriHard",
     "video": null,
     "scrapeWords": [
@@ -119767,14 +119815,14 @@
   },
   {
     "author": "rgscherf",
-    "description": "six faces, infinite frustration (7DRL 2021)",
+    "description": "3D puzzle/dungeoncrawl where you are a cube. Put on your thinking cap.",
     "genre": "Puzzle",
     "id": "949904",
     "link": "https://rgscherf.itch.io/omnihexahedron",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzODczNjIuZ2lm/315x250%23cm/8l5YnM.gif",
+    "thumb": "https://img.itch.zone/aW1nLzU0NTUxMDUuZ2lm/315x250%23cm/MQn0jo.gif",
     "title": "omnihexahedron",
-    "video": "https://img.itch.zone/aW1nLzUzODczNjIuZ2lm/original/v3zDX%2F.gif",
+    "video": "https://img.itch.zone/aW1nLzU0NTUxMDUuZ2lm/original/vAuReP.gif",
     "scrapeWords": [
       "omnihexahedron"
     ]
@@ -119837,9 +119885,7 @@
     "genre": null,
     "id": "951121",
     "link": "https://sx2.itch.io/maze-2d",
-    "platforms": [
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUzOTI0MDgucG5n/315x250%23c/lUVZtT.png",
     "title": "Maze 2D",
     "video": null,
@@ -120754,6 +120800,27 @@
     ]
   },
   {
+    "author": "LFJ Game Studios",
+    "description": "Point-and-Click Puzzle-Platformer with retro art style and music",
+    "genre": "Puzzle",
+    "id": "959092",
+    "link": "https://lfj-gs.itch.io/just-dont-die",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MzkzMjYucG5n/315x250%23c/Gr7e1E.png",
+    "title": "Just Don't Die: Full Edition",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "Dont",
+      "Die",
+      "Full",
+      "Edition"
+    ]
+  },
+  {
     "author": "FreshWaterGames",
     "description": "Prove your worth to the manager by filing your way back to the top!",
     "genre": "Puzzle",
@@ -120802,6 +120869,35 @@
     "scrapeWords": [
       "Godo",
       "Rogue"
+    ]
+  },
+  {
+    "author": "Anagh's World",
+    "description": "\"Oregano Eater\" - a wild creature that comes out at night in search of oregano. A game made by Anagh's World.",
+    "genre": "Platformer",
+    "id": "961078",
+    "link": "https://anaghsworld.itch.io/oregano-eater",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NTI0NTYuanBn/315x250%23c/veGhgG.jpg",
+    "title": "Oregano Eater",
+    "video": null,
+    "scrapeWords": [
+      "Oregano",
+      "Eater"
+    ]
+  },
+  {
+    "author": "Gage Herrmann",
+    "description": "An Adventure",
+    "genre": "Adventure",
+    "id": "961426",
+    "link": "https://gage-herrmann.itch.io/albuquerque",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NTQ2MTEucG5n/315x250%23c/wUJ0SO.png",
+    "title": "Albuquerque",
+    "video": null,
+    "scrapeWords": [
+      "Albuquerque"
     ]
   },
   {
