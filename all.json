@@ -47242,7 +47242,6 @@
     "link": "https://thelovedoc.itch.io/smaller-and-deeper",
     "platforms": [
       "Windows",
-      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzI4Njg1MjgucG5n/315x250%23c/XkG%2FBv.png",
@@ -59762,6 +59761,22 @@
     "video": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/original/bofI0x.gif",
     "scrapeWords": [
       "Kaloche"
+    ]
+  },
+  {
+    "author": "fivefingergames",
+    "description": "Medic! - Our Ludum Dare 46 Game",
+    "genre": null,
+    "id": "620482",
+    "link": "https://fivefingergames.itch.io/medic",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyOTc1ODAucG5n/315x250%23c/y6Sb8D.png",
+    "title": "Medic!",
+    "video": null,
+    "scrapeWords": [
+      "Medic"
     ]
   },
   {
@@ -79325,7 +79340,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2ODQ2MjUucG5n/315x250%23c/AtQcFj.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0NTg3MjgucG5n/315x250%23c/wmbME2.png",
     "title": "Helixteus 3",
     "video": null,
     "scrapeWords": [
@@ -101366,6 +101381,22 @@
     ]
   },
   {
+    "author": "GNamimates",
+    "description": "snakey snakey",
+    "genre": "Puzzle",
+    "id": "831992",
+    "link": "https://gnamimates.itch.io/basic-snake-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ2ODE1OTYucG5n/315x250%23c/WJ3Hht.png",
+    "title": "basic snake game",
+    "video": null,
+    "scrapeWords": [
+      "basic",
+      "snake",
+      "game"
+    ]
+  },
+  {
     "author": "Kayoudee",
     "description": "Tests that i've did for a couple weeks.",
     "genre": "Puzzle",
@@ -116316,11 +116347,11 @@
     ]
   },
   {
-    "author": "Piotr Kołodziejski",
+    "author": "Pichi Dev",
     "description": "Game created for Godot Wild Jam 30",
     "genre": null,
     "id": "930015",
-    "link": "https://peterkolo.itch.io/guardian-angel",
+    "link": "https://pichidev.itch.io/guardian-angel",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyNjY5NzMucG5n/315x250%23c/tj%2F259.png",
     "title": "Guardian Angel",
@@ -117368,6 +117399,22 @@
       "Youre",
       "the",
       "best"
+    ]
+  },
+  {
+    "author": "maybell🌻",
+    "description": "a chaotic, infinite twin stick shooty ✨",
+    "genre": "Action",
+    "id": "936521",
+    "link": "https://maybell.itch.io/satryn",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NjI5NTcuZ2lm/315x250%23cm/3K4xgR.gif",
+    "title": "satryn",
+    "video": "https://img.itch.zone/aW1nLzU0NjI5NTcuZ2lm/original/MJPwfi.gif",
+    "scrapeWords": [
+      "satryn"
     ]
   },
   {
@@ -118684,7 +118731,9 @@
     "id": "941414",
     "link": "https://shelerr.itch.io/timewhirl",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzODg5ODEucG5n/315x250%23c/81j214.png",
     "title": "TimeWhirl β",
@@ -119627,7 +119676,7 @@
   },
   {
     "author": "danil-ko",
-    "description": "Network Multiplayer Top Down Shooter (Against other players or bots)",
+    "description": "Network Multiplayer Top Down Shooter (Against other players or bots) with Godot Engine",
     "genre": "Shooter",
     "id": "948705",
     "link": "https://danil-ko.itch.io/machine-battle",
@@ -120336,6 +120385,23 @@
     ]
   },
   {
+    "author": "Pixel Sprouts",
+    "description": "the ultimate local multiplayer battle for burgers in outer space",
+    "genre": "Platformer",
+    "id": "955651",
+    "link": "https://pixel-sprouts.itch.io/hungrynauts",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTgyNTkuZ2lm/315x250%23cm/WADwyL.gif",
+    "title": "hungrynauts",
+    "video": "https://img.itch.zone/aW1nLzU0MTgyNTkuZ2lm/original/hQZeo%2F.gif",
+    "scrapeWords": [
+      "hungrynauts"
+    ]
+  },
+  {
     "author": "oiKeTTLe",
     "description": "A game I'm developing as I learn Godot.",
     "genre": "Platformer",
@@ -120628,6 +120694,22 @@
     ]
   },
   {
+    "author": "LeonKaarneem@gmail.com",
+    "description": null,
+    "genre": null,
+    "id": "957070",
+    "link": "https://leonkaarneemgmailcom.itch.io/out-of-bounds",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MjY3NDUucG5n/315x250%23c/YINeFb.png",
+    "title": "Out Of Bounds",
+    "video": null,
+    "scrapeWords": [
+      "Out",
+      "Of",
+      "Bounds"
+    ]
+  },
+  {
     "author": "Somedudelol",
     "description": "Space cube V0.3",
     "genre": "Platformer",
@@ -120810,14 +120892,12 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0MzkzMjYucG5n/315x250%23c/Gr7e1E.png",
-    "title": "Just Don't Die: Full Edition",
+    "title": "Just Don't Die",
     "video": null,
     "scrapeWords": [
       "Just",
       "Dont",
-      "Die",
-      "Full",
-      "Edition"
+      "Die"
     ]
   },
   {
@@ -120887,6 +120967,25 @@
     ]
   },
   {
+    "author": "giabeni",
+    "description": "RUN and SHOOT to save the world from giant viruses invaders in this 3D Endless Runner.",
+    "genre": "Action",
+    "id": "961276",
+    "link": "https://giabeni.itch.io/pandemic-hero",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NTM4MTkuanBn/315x250%23c/HL76yh.jpg",
+    "title": "Pandemic Hero",
+    "video": null,
+    "scrapeWords": [
+      "Pandemic",
+      "Hero"
+    ]
+  },
+  {
     "author": "Gage Herrmann",
     "description": "An Adventure",
     "genre": "Adventure",
@@ -120898,6 +120997,42 @@
     "video": null,
     "scrapeWords": [
       "Albuquerque"
+    ]
+  },
+  {
+    "author": "Priory Games",
+    "description": "Journey across the Medieval Silk Roads in search of fame, fortune and adventure!",
+    "genre": "Role Playing",
+    "id": "961774",
+    "link": "https://priory-games.itch.io/silk-roads-caravan-kings",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NTY0OTkucG5n/315x250%23c/%2BJi40%2F.png",
+    "title": "Silk Roads: Caravan Kings",
+    "video": null,
+    "scrapeWords": [
+      "Silk",
+      "Roads",
+      "Caravan",
+      "Kings"
+    ]
+  },
+  {
+    "author": "Lazarwolfe",
+    "description": "Your friend Miguel got oregano in his eye sockets, help him get to the restroom!",
+    "genre": "Platformer",
+    "id": "962421",
+    "link": "https://lazarwolfe.itch.io/spice-mishap",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NjExMjIucG5n/315x250%23c/HENbWX.png",
+    "title": "Spice Mishap",
+    "video": null,
+    "scrapeWords": [
+      "Spice",
+      "Mishap"
     ]
   },
   {
