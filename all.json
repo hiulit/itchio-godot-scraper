@@ -22258,23 +22258,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -38655,6 +38638,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -56687,7 +56689,9 @@
     "genre": "Adventure",
     "id": "611405",
     "link": "https://takelime.itch.io/everplant",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQ0MDUxNTUucG5n/315x250%23c/ZbpR69.png",
     "title": "Everplant",
     "video": null,
@@ -59653,7 +59657,7 @@
     ]
   },
   {
-    "author": "IronStudios | IronGames",
+    "author": "IronStudios",
     "description": "Help the alien grow without the evil aliens killing it.",
     "genre": "Survival",
     "id": "620185",
@@ -85967,7 +85971,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxNTE4MjYucG5n/315x250%23c/UsSHrj.png",
     "title": "Laser Maze 2",
@@ -88125,21 +88130,6 @@
     ]
   },
   {
-    "author": "Xendra",
-    "description": "The juiciest turn based combat you've seen. Ever.",
-    "genre": "Strategy",
-    "id": "753973",
-    "link": "https://xendra.itch.io/malice-and-greed",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzMDgyOTQucG5n/315x250%23c/uuJ4f2.png",
-    "title": "Malice & Greed",
-    "video": null,
-    "scrapeWords": [
-      "Malice",
-      "Greed"
-    ]
-  },
-  {
     "author": "Toasted Gears",
     "description": "Theme: Here, take one",
     "genre": "Puzzle",
@@ -89359,10 +89349,7 @@
     "genre": "Role Playing",
     "id": "761802",
     "link": "https://particle-arts.itch.io/lethal-planet",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQyNjA3MTQucG5n/315x250%23c/wE%2BGNO.png",
     "title": "Lethal Planet",
     "video": null,
@@ -91519,21 +91506,6 @@
     ]
   },
   {
-    "author": "Rain drop",
-    "description": null,
-    "genre": "Platformer",
-    "id": "770461",
-    "link": "https://rain-drop.itch.io/jump-square",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQzMTA4MzQucG5n/315x250%23c/y1stYj.png",
-    "title": "Jump square",
-    "video": null,
-    "scrapeWords": [
-      "Jump",
-      "square"
-    ]
-  },
-  {
     "author": "AMdev28",
     "description": null,
     "genre": "Adventure",
@@ -91636,6 +91608,24 @@
       "in",
       "a",
       "Cave"
+    ]
+  },
+  {
+    "author": "josefu",
+    "description": "Un robot en el espacio xd",
+    "genre": null,
+    "id": "771405",
+    "link": "https://josefu.itch.io/robotspace",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzNDAyMDUucG5n/315x250%23c/H3bw%2BR.png",
+    "title": "RobotSpace",
+    "video": null,
+    "scrapeWords": [
+      "Robot",
+      "Space"
     ]
   },
   {
@@ -96704,25 +96694,6 @@
       "Last",
       "Great",
       "White"
-    ]
-  },
-  {
-    "author": "Azertinv",
-    "description": "Broken cycles and Mesopotamian gods",
-    "genre": "Platformer",
-    "id": "799787",
-    "link": "https://azertinv.itch.io/a-leafs-journey",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1NTQyMTQuZ2lm/315x250%23cm/Z%2BW0mw.gif",
-    "title": "A Leaf's Journey",
-    "video": "https://img.itch.zone/aW1nLzQ1NTQyMTQuZ2lm/original/bcliyP.gif",
-    "scrapeWords": [
-      "A",
-      "Leafs",
-      "Journey"
     ]
   },
   {
@@ -102964,7 +102935,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU0MjQ4NTUucG5n/315x250%23c/1%2Bp%2FtJ.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0NzEwMjAucG5n/315x250%23c/K4C7V%2F.png",
     "title": "STARPEW",
     "video": null,
     "scrapeWords": [
@@ -107260,6 +107231,23 @@
     ]
   },
   {
+    "author": "Lazyninja1017",
+    "description": null,
+    "genre": "Platformer",
+    "id": "871821",
+    "link": "https://lazyninja1017.itch.io/slide-lock",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDExNTEucG5n/315x250%23c/oRq%2BS%2F.png",
+    "title": "Slide Lock",
+    "video": null,
+    "scrapeWords": [
+      "Slide",
+      "Lock"
+    ]
+  },
+  {
     "author": "mssalkhalifah",
     "description": null,
     "genre": "Action",
@@ -107736,11 +107724,12 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUxNDQ5MDkucG5n/315x250%23c/qpYI98.png",
-    "title": "FoxPaww",
+    "title": "FoxPaww Breakout",
     "video": null,
     "scrapeWords": [
       "Fox",
-      "Paww"
+      "Paww",
+      "Breakout"
     ]
   },
   {
@@ -117418,21 +117407,6 @@
     ]
   },
   {
-    "author": "hilde",
-    "description": "A glorified flappy bird clone I made in 3 days",
-    "genre": null,
-    "id": "936531",
-    "link": "https://hildergill.itch.io/the-sky",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzMDYyNjYucG5n/315x250%23c/LrQGGe.png",
-    "title": "The Sky",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Sky"
-    ]
-  },
-  {
     "author": "Seik Sugaloth",
     "description": "Control a purple ball trying to reach a strange portal. Shrink or grow (or both) to achieve your goal.",
     "genre": "Puzzle",
@@ -120375,7 +120349,9 @@
     "genre": "Strategy",
     "id": "955620",
     "link": "https://whiteshampoo.itch.io/oregano-wars",
-    "platforms": null,
+    "platforms": [
+      "Linux"
+    ],
     "thumb": null,
     "title": "Oregano Wars",
     "video": null,
@@ -121033,6 +121009,60 @@
     "scrapeWords": [
       "Spice",
       "Mishap"
+    ]
+  },
+  {
+    "author": "fortythreesam",
+    "description": "Short action platforming game",
+    "genre": "Platformer",
+    "id": "963149",
+    "link": "https://fortythreesam.itch.io/distraught-ground",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NjQ3MTkuZ2lm/315x250%23cm/rYEqJC.gif",
+    "title": "Distraught Ground",
+    "video": "https://img.itch.zone/aW1nLzU0NjQ3MTkuZ2lm/original/1Hcd5L.gif",
+    "scrapeWords": [
+      "Distraught",
+      "Ground"
+    ]
+  },
+  {
+    "author": "Ammo Games",
+    "description": null,
+    "genre": null,
+    "id": "963349",
+    "link": "https://ammo-games.itch.io/color-eater",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NjU3MjEucG5n/315x250%23c/i8pZDf.png",
+    "title": "Color Eater",
+    "video": null,
+    "scrapeWords": [
+      "Color",
+      "Eater"
+    ]
+  },
+  {
+    "author": "b._.render",
+    "description": "Made in honour of all those games that seemingly load forever",
+    "genre": "Simulation",
+    "id": "963417",
+    "link": "https://b-render.itch.io/loading",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NjY1NTIucG5n/315x250%23c/tk7oVy.png",
+    "title": "The Loading Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Loading",
+      "Game"
     ]
   },
   {
