@@ -2575,11 +2575,11 @@
     ]
   },
   {
-    "author": "noisybass",
+    "author": "nbmach1ne",
     "description": "Survive to the dangers of the night, avoid dying of hunger or becoming insane...",
     "genre": "Strategy",
     "id": "164227",
-    "link": "https://lauratchi.itch.io/embers",
+    "link": "https://nbmachine.itch.io/embers",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMTY0MjI3Lzc1NjM5Mi5wbmc=/315x250%23c/ntph8E.png",
     "title": "Embers",
@@ -62173,26 +62173,6 @@
     ]
   },
   {
-    "author": "EldTheZombie",
-    "description": "Vertical, Horizontal and Multi Directional Randomised Shmup",
-    "genre": "Shooter",
-    "id": "634777",
-    "link": "https://eldthezombie.itch.io/totally-shmup",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQzOTI5NDAucG5n/315x250%23c/K1pyhS.png",
-    "title": "Totally Shmup WIP",
-    "video": null,
-    "scrapeWords": [
-      "Totally",
-      "Shmup",
-      "WIP"
-    ]
-  },
-  {
     "author": "Dikaiosune",
     "description": "An adventure game through the realms of Quantum Mechanics.",
     "genre": "Adventure",
@@ -72247,7 +72227,7 @@
     "description": "You only have only 20 seconds during which you must dash to the factory to be able to repair a critical damage.",
     "genre": "Platformer",
     "id": "690921",
-    "link": "https://andyscrab.itch.io/factory-dash",
+    "link": "https://androojam.itch.io/factory-dash",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM4MDkwNjUuanBn/315x250%23c/o6fJA6.jpg",
     "title": "Factory Dash",
@@ -79396,21 +79376,6 @@
     "scrapeWords": [
       "Odyssey",
       "Mobile"
-    ]
-  },
-  {
-    "author": "Flin",
-    "description": "Game made for the  Dev Atlas game jam #2",
-    "genre": "Action",
-    "id": "718008",
-    "link": "https://anythingworks.itch.io/the-void",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5ODA2MDQuZ2lm/315x250%23cm/%2BMe1zk.gif",
-    "title": "THE VOID",
-    "video": "https://img.itch.zone/aW1nLzM5ODA2MDQuZ2lm/original/9CeDnC.gif",
-    "scrapeWords": [
-      "THE",
-      "VOID"
     ]
   },
   {
@@ -94123,6 +94088,23 @@
     ]
   },
   {
+    "author": "pedrorns",
+    "description": "Play as a politician in an ancient greek city state called Foititia.",
+    "genre": "Educational",
+    "id": "782545",
+    "link": "https://pedrorns.itch.io/democracia-socratica",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3OTQ3MjEucG5n/315x250%23c/Wy1Rl0.png",
+    "title": "Socratic Democracy",
+    "video": null,
+    "scrapeWords": [
+      "Socratic",
+      "cracy"
+    ]
+  },
+  {
     "author": "Hazem Huzayen",
     "description": "top down survival game. you, death, guns and all them freaking zombies.",
     "genre": "Shooter",
@@ -108365,7 +108347,7 @@
   },
   {
     "author": "DavidGames001",
-    "description": "Feito para Game Jaaj 5",
+    "description": "Game for #game_jaaj5 with TOWER as the theme.",
     "genre": "Action",
     "id": "878971",
     "link": "https://davidgames001.itch.io/the-lighthouse-light",
@@ -109514,8 +109496,7 @@
     "id": "886249",
     "link": "https://noiros.itch.io/object-wars",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5OTY1MDcucG5n/315x250%23c/xpX2%2Bo.png",
     "title": "Object Wars",
@@ -119020,11 +119001,7 @@
     "genre": "Role Playing",
     "id": "944535",
     "link": "https://drmoriarty.itch.io/the-lost-king-of-avallon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUzNTQxMzIuanBn/315x250%23c/fvMxoO.jpg",
     "title": "The Lost King of Avallon",
     "video": null,
@@ -119375,7 +119352,6 @@
     "id": "946897",
     "link": "https://derangedturtlegames.itch.io/trihard",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0NTU1MDcucG5n/315x250%23c/uV3%2FZ7.png",
@@ -120518,6 +120494,38 @@
     ]
   },
   {
+    "author": "Neopolis",
+    "description": "Earth has been ruined and the climate is swinging out of control. Survive long enough to get off the planet!",
+    "genre": "Simulation",
+    "id": "955855",
+    "link": "https://neopolis.itch.io/escaping-winter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0ODkwNDcucG5n/315x250%23c/P0qFzt.png",
+    "title": "Escaping Winter",
+    "video": null,
+    "scrapeWords": [
+      "Escaping",
+      "Winter"
+    ]
+  },
+  {
+    "author": "isabel lee",
+    "description": "graduating college during a panorama is hard",
+    "genre": "Interactive Fiction",
+    "id": "955953",
+    "link": "https://isabellee.itch.io/turn-in-your-pset",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0MzExOTkucG5n/315x250%23c/Sri0de.png",
+    "title": "TURN IN YOUR PSET",
+    "video": null,
+    "scrapeWords": [
+      "TURN",
+      "IN",
+      "YOUR",
+      "PSET"
+    ]
+  },
+  {
     "author": "eldritchamster",
     "description": "Short platformer game made in godot",
     "genre": "Platformer",
@@ -120929,6 +120937,22 @@
     ]
   },
   {
+    "author": "MrBundles",
+    "description": "You're In Charge",
+    "genre": "Platformer",
+    "id": "957905",
+    "link": "https://mrbundles.itch.io/out-of-power",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0ODk2MDYucG5n/315x250%23c/vRlFhC.png",
+    "title": "Out Of Power",
+    "video": null,
+    "scrapeWords": [
+      "Out",
+      "Of",
+      "Power"
+    ]
+  },
+  {
     "author": "Anagh's World",
     "description": "You play as \"Mr. Triangle\", the expert in escaping potty. An endless runner type game by Anagh's World.",
     "genre": "Platformer",
@@ -121187,6 +121211,27 @@
     ]
   },
   {
+    "author": "Priory Games",
+    "description": "Escape the Black Death as you guide a family through 1665 England!",
+    "genre": "Simulation",
+    "id": "961865",
+    "link": "https://priory-games.itch.io/the-great-plague-exodus",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NTY4MTUucG5n/315x250%23c/v6Uh5H.png",
+    "title": "The Great Plague Exodus",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Great",
+      "Plague",
+      "Exodus"
+    ]
+  },
+  {
     "author": "Lazarwolfe",
     "description": "Your friend Miguel got oregano in his eye sockets, help him get to the restroom!",
     "genre": "Platformer",
@@ -121331,7 +121376,7 @@
     "id": "963417",
     "link": "https://b-render.itch.io/loading",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU0NjY1NTIucG5n/315x250%23c/tk7oVy.png",
+    "thumb": "https://img.itch.zone/aW1nLzU0OTM4MzQucG5n/315x250%23c/UUiS3M.png",
     "title": "The Loading Game",
     "video": null,
     "scrapeWords": [
@@ -121408,6 +121453,21 @@
     "video": null,
     "scrapeWords": [
       "PEREZAGRUZKA"
+    ]
+  },
+  {
+    "author": "Hanz",
+    "description": "[BETA] Mine, Build, Earn!",
+    "genre": "Simulation",
+    "id": "964288",
+    "link": "https://hanzhaxors.itch.io/cryptotycoon",
+    "platforms": null,
+    "thumb": null,
+    "title": "CryptoTycoon",
+    "video": null,
+    "scrapeWords": [
+      "Crypto",
+      "Tycoon"
     ]
   },
   {
@@ -122131,6 +122191,23 @@
     ]
   },
   {
+    "author": "Shimmyshake",
+    "description": null,
+    "genre": "Platformer",
+    "id": "966761",
+    "link": "https://shimmyshake.itch.io/you-can-fall-upwards",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0OTA4NDQucG5n/315x250%23c/bgSPSn.png",
+    "title": "You Can Fall Upwards",
+    "video": null,
+    "scrapeWords": [
+      "You",
+      "Can",
+      "Fall",
+      "Upwards"
+    ]
+  },
+  {
     "author": "JafCraze",
     "description": "Triple H",
     "genre": "Puzzle",
@@ -122142,6 +122219,122 @@
     "video": null,
     "scrapeWords": [
       "Hex-Heli-Help"
+    ]
+  },
+  {
+    "author": "AcheGames",
+    "description": "Get as many gems as you can for higher points.",
+    "genre": null,
+    "id": "967081",
+    "link": "https://achegames.itch.io/endless-road",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0ODg3MzQuanBn/315x250%23c/qgGH%2Fh.jpg",
+    "title": "Endless Space Road",
+    "video": null,
+    "scrapeWords": [
+      "Endless",
+      "Space",
+      "Road"
+    ]
+  },
+  {
+    "author": "ASAPL0",
+    "description": null,
+    "genre": "Action",
+    "id": "967431",
+    "link": "https://asapl0.itch.io/bitdasher",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0OTA4OTQucG5n/315x250%23c/oWJOvf.png",
+    "title": "BitDasher",
+    "video": null,
+    "scrapeWords": [
+      "Bit",
+      "Dasher"
+    ]
+  },
+  {
+    "author": "Orbit Games",
+    "description": "A mathematical arcade game",
+    "genre": "Puzzle",
+    "id": "967485",
+    "link": "https://orbit-games.itch.io/linkmatic",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0OTA5MzMucG5n/315x250%23c/GWCFRb.png",
+    "title": "Linkmatic",
+    "video": null,
+    "scrapeWords": [
+      "Linkmatic"
+    ]
+  },
+  {
+    "author": "Und3rC0ver",
+    "description": "Just run... and jump... and keep pressing space?",
+    "genre": "Platformer",
+    "id": "967495",
+    "link": "https://und3rc0ver.itch.io/spacerun",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0OTExMjQucG5n/315x250%23c/oanZfH.png",
+    "title": "SpaceRun",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Run"
+    ]
+  },
+  {
+    "author": "FartFish",
+    "description": "A short puzzle platformer",
+    "genre": "Puzzle",
+    "id": "967613",
+    "link": "https://fartfish.itch.io/fist-bump",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0OTE2OTAucG5n/315x250%23c/AYJz8C.png",
+    "title": "Fist Bump",
+    "video": null,
+    "scrapeWords": [
+      "Fist",
+      "Bump"
+    ]
+  },
+  {
+    "author": "Ihsan Entertainment",
+    "description": "Pranke deine Freunde und Familie!",
+    "genre": null,
+    "id": "967622",
+    "link": "https://ihsan-entertainment.itch.io/hacking-tool",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0OTE3NTIucG5n/315x250%23c/LPWMck.png",
+    "title": "Ihsan's Hacking Tool",
+    "video": null,
+    "scrapeWords": [
+      "Ihsans",
+      "Hacking",
+      "Tool"
+    ]
+  },
+  {
+    "author": "Juan Pablo Cardoso",
+    "description": "A puzzle game where you will paint flags of countries.",
+    "genre": "Educational",
+    "id": "968198",
+    "link": "https://jpcard.itch.io/flagr",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0OTU3MzkucG5n/315x250%23c/tc63U5.png",
+    "title": "Flagr",
+    "video": null,
+    "scrapeWords": [
+      "Flagr"
     ]
   },
   {
