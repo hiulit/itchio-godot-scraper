@@ -92963,23 +92963,6 @@
     ]
   },
   {
-    "author": "RevTheGame",
-    "description": "Every Mobile Game I Make in 2021 For One Low Price",
-    "genre": null,
-    "id": "778591",
-    "link": "https://revthegame.itch.io/revpass",
-    "platforms": [
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0MTA1MTcucG5n/315x250%23c/stuz93.png",
-    "title": "revPass",
-    "video": null,
-    "scrapeWords": [
-      "rev",
-      "Pass"
-    ]
-  },
-  {
     "author": "JafCraze",
     "description": "Remove it to make another word",
     "genre": "Puzzle",
@@ -98189,6 +98172,27 @@
     "video": null,
     "scrapeWords": [
       "Mustelia"
+    ]
+  },
+  {
+    "author": "Michael Coorlim",
+    "description": "A very 80s interactive fiction gamebook",
+    "genre": "Interactive Fiction",
+    "id": "808892",
+    "link": "https://mcoorlim.itch.io/rascal-and-the-boxer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ1MzQ1MDQucG5n/315x250%23c/s9HfuT.png",
+    "title": "Zeitgeist 1980 ep 1: Rascal and the Boxer",
+    "video": null,
+    "scrapeWords": [
+      "Zeitgeist",
+      "1980",
+      "ep",
+      "1",
+      "Rascal",
+      "and",
+      "the",
+      "Boxer"
     ]
   },
   {
@@ -108030,7 +108034,7 @@
   {
     "author": "sebasMartin",
     "description": "Trying the Godot engine with these 3d test levels...",
-    "genre": "Action",
+    "genre": "Adventure",
     "id": "877007",
     "link": "https://sebasmartin.itch.io/workdone",
     "platforms": [
@@ -109472,6 +109476,22 @@
     "scrapeWords": [
       "Balloons",
       "WT"
+    ]
+  },
+  {
+    "author": "kathleenkirchner",
+    "description": null,
+    "genre": "Action",
+    "id": "886234",
+    "link": "https://kathleenkirchner.itch.io/fangsi",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwNDM2OTMucG5n/315x250%23c/Y4mbBJ.png",
+    "title": "Fangsi",
+    "video": null,
+    "scrapeWords": [
+      "Fangsi"
     ]
   },
   {
@@ -116648,6 +116668,25 @@
     ]
   },
   {
+    "author": "IndieEnProblemas",
+    "description": "Be fast, be focus, and get the best time!!!",
+    "genre": "Platformer",
+    "id": "930787",
+    "link": "https://indieenproblemas.itch.io/30-seconds-to-win",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyODYyMTgucG5n/315x250%23c/8zessZ.png",
+    "title": "30 Seconds To Win",
+    "video": null,
+    "scrapeWords": [
+      "30",
+      "Seconds",
+      "To",
+      "Win"
+    ]
+  },
+  {
     "author": "Munsie",
     "description": "A challenging Sokoban-inspired puzzle game!",
     "genre": "Puzzle",
@@ -119351,10 +119390,8 @@
     "genre": "Puzzle",
     "id": "946897",
     "link": "https://derangedturtlegames.itch.io/trihard",
-    "platforms": [
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0NTU1MDcucG5n/315x250%23c/uV3%2FZ7.png",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDExOTMucG5n/315x250%23c/A9p1Um.png",
     "title": "TriHard",
     "video": null,
     "scrapeWords": [
@@ -120346,6 +120383,24 @@
     ]
   },
   {
+    "author": "TRy Dev",
+    "description": "A short story.",
+    "genre": "Adventure",
+    "id": "955180",
+    "link": "https://trydev.itch.io/confabulation",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0ODIwODIucG5n/315x250%23c/5ARp4g.png",
+    "title": "Confabulation",
+    "video": null,
+    "scrapeWords": [
+      "Confabulation"
+    ]
+  },
+  {
     "author": "Escada Games",
     "description": "Endless runner where you match colors while jumping between platforms",
     "genre": "Platformer",
@@ -120577,6 +120632,25 @@
     "scrapeWords": [
       "Spriteless",
       "Jerks"
+    ]
+  },
+  {
+    "author": "dardanbujupaj",
+    "description": "Collect the lost crystal orbs and return the color to the village Prism.",
+    "genre": "Adventure",
+    "id": "956092",
+    "link": "https://dardanbujupaj.itch.io/rainbow-crystal",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0ODExNjYucG5n/315x250%23c/414lNs.png",
+    "title": "Rainbow Crystal",
+    "video": null,
+    "scrapeWords": [
+      "Rainbow",
+      "Crystal"
     ]
   },
   {
@@ -120968,6 +121042,26 @@
     ]
   },
   {
+    "author": "StellarFelines",
+    "description": "Stellar Felines's entry for the 2021 Flair Fair Game Jam",
+    "genre": null,
+    "id": "958331",
+    "link": "https://stellarfelines.itch.io/legend-of-the-unicorn-king",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0ODI2MjAucG5n/315x250%23c/qqYQf5.png",
+    "title": "Legend of the Unicorn King",
+    "video": null,
+    "scrapeWords": [
+      "Legend",
+      "of",
+      "the",
+      "Unicorn",
+      "King"
+    ]
+  },
+  {
     "author": "sushidev",
     "description": "A platformer, but in each level the mechanic required to complete it is missing.",
     "genre": "Platformer",
@@ -121043,7 +121137,10 @@
     "genre": "Puzzle",
     "id": "959092",
     "link": "https://lfj-gs.itch.io/just-dont-die",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU0NzUzNDIuZ2lm/315x250%23cm/6cABt6.gif",
     "title": "Just Don't Die",
     "video": "https://img.itch.zone/aW1nLzU0NzUzNDIuZ2lm/original/x45aFL.gif",
@@ -121386,6 +121483,20 @@
     ]
   },
   {
+    "author": "jonnelafin",
+    "description": "Tries to solve sudoku puzzles using a wave function collapse algorithm.",
+    "genre": null,
+    "id": "963812",
+    "link": "https://jonnelafin.itch.io/wfc-sudoku",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0Nzg2NjEucG5n/315x250%23c/kpL5aU.png",
+    "title": "Sudoku",
+    "video": null,
+    "scrapeWords": [
+      "Sudoku"
+    ]
+  },
+  {
     "author": "leopnt",
     "description": "Dodge the neutrons",
     "genre": "Action",
@@ -121479,7 +121590,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU0ODQwMzUucG5n/315x250%23c/A%2FtPPG.png",
+    "thumb": "https://img.itch.zone/aW1nLzU1MDAxMTMucG5n/315x250%23c/dtFrnf.png",
     "title": "Itero",
     "video": null,
     "scrapeWords": [
@@ -122139,25 +122250,6 @@
     ]
   },
   {
-    "author": "Plextora",
-    "description": "Your only option is to complete the game in one sitting",
-    "genre": "Platformer",
-    "id": "966352",
-    "link": "https://plextora.itch.io/one-sitting",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0ODUwMTAucG5n/315x250%23c/ZoTY23.png",
-    "title": "One Sitting",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Sitting"
-    ]
-  },
-  {
     "author": "ZirconiumLabs",
     "description": "احترس من كاميرات المراقبة . اللعب بالماوس بدون لوحة المفاتيح",
     "genre": "Adventure",
@@ -122237,6 +122329,25 @@
       "Endless",
       "Space",
       "Road"
+    ]
+  },
+  {
+    "author": "Skinner Space",
+    "description": "The most brutal beat'em up ever!",
+    "genre": "Action",
+    "id": "967247",
+    "link": "https://skinner-space.itch.io/brutal-castle",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0OTUwNDQuZ2lm/315x250%23cm/9oKrPO.gif",
+    "title": "Brutal Castle | FREE DEMO",
+    "video": "https://img.itch.zone/aW1nLzU0OTUwNDQuZ2lm/original/C5zCYF.gif",
+    "scrapeWords": [
+      "Brutal",
+      "Castle",
+      "|",
+      "FREE"
     ]
   },
   {
@@ -122335,6 +122446,55 @@
     "video": null,
     "scrapeWords": [
       "Flagr"
+    ]
+  },
+  {
+    "author": "PauloZago",
+    "description": "A simple game of Rock, paper and scissor",
+    "genre": "Strategy",
+    "id": "968898",
+    "link": "https://paulozago.itch.io/jokenpo",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MDAwNDYucG5n/315x250%23c/tTeybW.png",
+    "title": "Jokenpo",
+    "video": null,
+    "scrapeWords": [
+      "Jokenpo"
+    ]
+  },
+  {
+    "author": "Juan Pablo Cardoso",
+    "description": "A puzzle game where you will have to solve quantum computing circuits.",
+    "genre": "Educational",
+    "id": "969291",
+    "link": "https://jpcard.itch.io/quantum-play-circuit-tuner",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDIzNDYucG5n/315x250%23c/u0s%2BBA.png",
+    "title": "Quantum Play: Circuit Tuner",
+    "video": null,
+    "scrapeWords": [
+      "Quantum",
+      "Play",
+      "Circuit",
+      "Tuner"
+    ]
+  },
+  {
+    "author": "Juan Pablo Cardoso",
+    "description": "Action coin flip game related to quantum computing concepts.",
+    "genre": "Educational",
+    "id": "969361",
+    "link": "https://jpcard.itch.io/quantum-penny-flip",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDI4MDUucG5n/315x250%23c/CoUPgZ.png",
+    "title": "Quantum Penny Flip",
+    "video": null,
+    "scrapeWords": [
+      "Quantum",
+      "Penny",
+      "Flip"
     ]
   },
   {
