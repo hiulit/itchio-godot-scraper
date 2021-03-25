@@ -32610,25 +32610,6 @@
     ]
   },
   {
-    "author": "PhantasmagoriaGames",
-    "description": null,
-    "genre": "Shooter",
-    "id": "442605",
-    "link": "https://phantasmagoriagames.itch.io/something-something-asteroids",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIzMTY5MDMucG5n/315x250%23c/onWNj8.png",
-    "title": "Something Something Asteroids",
-    "video": null,
-    "scrapeWords": [
-      "Something",
-      "Something",
-      "Asteroids"
-    ]
-  },
-  {
     "author": "Thor Merlin Lervik",
     "description": null,
     "genre": null,
@@ -51864,23 +51845,6 @@
     "video": null,
     "scrapeWords": [
       "Eternower"
-    ]
-  },
-  {
-    "author": "vetta_vetka",
-    "description": "Just like make game",
-    "genre": "Action",
-    "id": "582580",
-    "link": "https://vetta-vetka.itch.io/borderline-heartbreak",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNzAzNjYucG5n/315x250%23c/e1pRwC.png",
-    "title": "Borderline Heartbreak",
-    "video": null,
-    "scrapeWords": [
-      "Borderline",
-      "Heartbreak"
     ]
   },
   {
@@ -85424,6 +85388,26 @@
     ]
   },
   {
+    "author": "David Bååth",
+    "description": "A rogue-lite quiz",
+    "genre": "Educational",
+    "id": "741390",
+    "link": "https://davidbaath.itch.io/tree-of-knowledge",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxMjk2MTQucG5n/315x250%23c/QayxpT.png",
+    "title": "Tree of Knowledge",
+    "video": null,
+    "scrapeWords": [
+      "Tree",
+      "of",
+      "Knowledge"
+    ]
+  },
+  {
     "author": "Jasonsumm",
     "description": "Gameboy style highscore platformer with physics-based puzzles",
     "genre": "Platformer",
@@ -100402,7 +100386,7 @@
   },
   {
     "author": "ExoPrism",
-    "description": "It's simply a box!",
+    "description": "A 2D-topdown-pixel maze game with a red box!",
     "genre": "Puzzle",
     "id": "826021",
     "link": "https://exoprism.itch.io/iamabox",
@@ -104359,7 +104343,7 @@
     "id": "853863",
     "link": "https://buppedbirio.itch.io/pinoblu",
     "platforms": [
-      "Windows",
+      "Linux",
       "macOS",
       "Android"
     ],
@@ -109187,10 +109171,7 @@
     "genre": "Sports",
     "id": "885001",
     "link": "https://pixel-sprouts.itch.io/heavenvshelltennis",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ5OTc0MzcuZ2lm/315x250%23cm/LogLJo.gif",
     "title": "Heaven VS Hell Tennis",
     "video": "https://img.itch.zone/aW1nLzQ5OTc0MzcuZ2lm/original/gFr6ED.gif",
@@ -116669,13 +116650,11 @@
   },
   {
     "author": "IndieEnProblemas",
-    "description": "Be fast, be focus, and get the best time!!!",
+    "description": "Be fast, keep focused and get the best time!!!",
     "genre": "Platformer",
     "id": "930787",
     "link": "https://indieenproblemas.itch.io/30-seconds-to-win",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyODYyMTgucG5n/315x250%23c/8zessZ.png",
     "title": "30 Seconds To Win",
     "video": null,
@@ -117342,6 +117321,21 @@
       "Trivia",
       "Quiz",
       "🧠"
+    ]
+  },
+  {
+    "author": "Wolf Peach Games",
+    "description": "A small game where you need to learn to communicate with other animals to learn about the world and find your way!",
+    "genre": "Role Playing",
+    "id": "936026",
+    "link": "https://wolfpeachgames.itch.io/ringtail",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDk0MTAuZ2lm/315x250%23cm/YZM%2BtY.gif",
+    "title": "Ringtail (alpha)",
+    "video": "https://img.itch.zone/aW1nLzU1MDk0MTAuZ2lm/original/JRg%2Bvz.gif",
+    "scrapeWords": [
+      "Ringtail",
+      "alpha"
     ]
   },
   {
@@ -119390,7 +119384,10 @@
     "genre": "Puzzle",
     "id": "946897",
     "link": "https://derangedturtlegames.itch.io/trihard",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU1MDExOTMucG5n/315x250%23c/A9p1Um.png",
     "title": "TriHard",
     "video": null,
@@ -119688,7 +119685,7 @@
   },
   {
     "author": "LeanderDev",
-    "description": "a game about gardening",
+    "description": "A game about gardening",
     "genre": "Simulation",
     "id": "948383",
     "link": "https://leanderdev.itch.io/spring-flowers",
@@ -121192,13 +121189,12 @@
     "id": "959779",
     "link": "https://ammo-games.itch.io/pong-fanmade-edition",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU0NDMzODgucG5n/315x250%23c/EjHuew.png",
-    "title": "Pong: Fanmade Edition",
+    "thumb": "https://img.itch.zone/aW1nLzU1MDc5NjUucG5n/315x250%23c/B7XUHU.png",
+    "title": "Pong Stadium",
     "video": null,
     "scrapeWords": [
       "Pong",
-      "Fanmade",
-      "Edition"
+      "Stadium"
     ]
   },
   {
@@ -121494,6 +121490,20 @@
     "video": null,
     "scrapeWords": [
       "Sudoku"
+    ]
+  },
+  {
+    "author": "Zeno",
+    "description": "a journey between two dimensions",
+    "genre": "Platformer",
+    "id": "963839",
+    "link": "https://zenogamedev.itch.io/geojam",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDg1MzYucG5n/315x250%23c/NZL28%2B.png",
+    "title": "Neon",
+    "video": null,
+    "scrapeWords": [
+      "Neon"
     ]
   },
   {
@@ -121903,7 +121913,7 @@
     ]
   },
   {
-    "author": "AraTheDevWasTaken",
+    "author": "AraTheDev",
     "description": "Factory Simulation Game",
     "genre": "Strategy",
     "id": "965489",
@@ -122250,6 +122260,25 @@
     ]
   },
   {
+    "author": "Plextora",
+    "description": "Your only option is to complete the game in one sitting without dying",
+    "genre": "Platformer",
+    "id": "966352",
+    "link": "https://plextora.itch.io/one-sitting",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0ODUwMTAucG5n/315x250%23c/ZoTY23.png",
+    "title": "One Sitting",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Sitting"
+    ]
+  },
+  {
     "author": "ZirconiumLabs",
     "description": "احترس من كاميرات المراقبة . اللعب بالماوس بدون لوحة المفاتيح",
     "genre": "Adventure",
@@ -122366,24 +122395,6 @@
     ]
   },
   {
-    "author": "Orbit Games",
-    "description": "A mathematical arcade game",
-    "genre": "Puzzle",
-    "id": "967485",
-    "link": "https://orbit-games.itch.io/linkmatic",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0OTA5MzMucG5n/315x250%23c/GWCFRb.png",
-    "title": "Linkmatic",
-    "video": null,
-    "scrapeWords": [
-      "Linkmatic"
-    ]
-  },
-  {
     "author": "Und3rC0ver",
     "description": "Just run... and jump... and keep pressing space?",
     "genre": "Platformer",
@@ -122465,6 +122476,22 @@
     ]
   },
   {
+    "author": "Dolus Studios",
+    "description": "A game for the Firith Studio's spring game jam.",
+    "genre": "Adventure",
+    "id": "968918",
+    "link": "https://dolus-studios.itch.io/life-of-frog",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDA4NzgucG5n/315x250%23c/2HOBef.png",
+    "title": "Life of Frog",
+    "video": null,
+    "scrapeWords": [
+      "Life",
+      "of",
+      "Frog"
+    ]
+  },
+  {
     "author": "Juan Pablo Cardoso",
     "description": "A puzzle game where you will have to solve quantum computing circuits.",
     "genre": "Educational",
@@ -122495,6 +122522,104 @@
       "Quantum",
       "Penny",
       "Flip"
+    ]
+  },
+  {
+    "author": "hylian guy",
+    "description": null,
+    "genre": null,
+    "id": "969638",
+    "link": "https://hylian-guy.itch.io/tax-evaders",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MDQxMjIucG5n/315x250%23c/X7hjPA.png",
+    "title": "Tax evaders",
+    "video": null,
+    "scrapeWords": [
+      "Tax",
+      "evaders"
+    ]
+  },
+  {
+    "author": "kokol.ch",
+    "description": "Incarnate and reincarnate as a cat in this game of skills.",
+    "genre": "Platformer",
+    "id": "969964",
+    "link": "https://loyon.itch.io/figa",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDYxOTQucG5n/315x250%23c/CaOUOB.png",
+    "title": "Figa",
+    "video": null,
+    "scrapeWords": [
+      "Figa"
+    ]
+  },
+  {
+    "author": "Elias Will",
+    "description": "Classical hangman game of guessing words for friends and families.",
+    "genre": "Puzzle",
+    "id": "970027",
+    "link": "https://lord-endless.itch.io/hanged-pig",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MDg2NTcucG5n/315x250%23c/MYo0ai.png",
+    "title": "Hanged Pig",
+    "video": null,
+    "scrapeWords": [
+      "Hanged",
+      "Pig"
+    ]
+  },
+  {
+    "author": "Fuzzyzilla",
+    "description": "Break out and help your slimy friends escape by destroying stuff!!",
+    "genre": "Shooter",
+    "id": "970155",
+    "link": "https://fuzzyzilla.itch.io/slime-stampede",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDc1MDcucG5n/315x250%23c/OlHG%2Fw.png",
+    "title": "Slime Stampede",
+    "video": null,
+    "scrapeWords": [
+      "Slime",
+      "Stampede"
+    ]
+  },
+  {
+    "author": "PokeParadox",
+    "description": "Simple break-out style game",
+    "genre": null,
+    "id": "970320",
+    "link": "https://pokeparadox.itch.io/godotoid",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MDg5MTQucG5n/315x250%23c/4A96Uc.png",
+    "title": "Godotoid",
+    "video": null,
+    "scrapeWords": [
+      "Godotoid"
+    ]
+  },
+  {
+    "author": "Netherwave63",
+    "description": "godot",
+    "genre": "Survival",
+    "id": "970646",
+    "link": "https://netherwave63.itch.io/minifantasy-survival-rpg",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MTEzMTMucG5n/315x250%23c/WvzM9x.png",
+    "title": "Minifantasy Survival RPG",
+    "video": null,
+    "scrapeWords": [
+      "Minifantasy",
+      "Survival",
+      "RPG"
     ]
   },
   {
