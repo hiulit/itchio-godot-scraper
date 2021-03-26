@@ -7386,6 +7386,21 @@
     ]
   },
   {
+    "author": "billson games",
+    "description": "A new spin on an old genre.",
+    "genre": null,
+    "id": "240430",
+    "link": "https://billsongames.itch.io/rotadroid",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NzYxMDIucG5n/315x250%23c/KXxt2K.png",
+    "title": "RotaDroid",
+    "video": null,
+    "scrapeWords": [
+      "Rota",
+      "Droid"
+    ]
+  },
+  {
     "author": "notapixelstudio",
     "description": "Will you be ... the Chosen One?",
     "genre": "Role Playing",
@@ -51848,6 +51863,23 @@
     ]
   },
   {
+    "author": "vetta_vetka",
+    "description": "Just like make game",
+    "genre": "Action",
+    "id": "582580",
+    "link": "https://vetta-vetka.itch.io/borderline-heartbreak",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNzAzNjYucG5n/315x250%23c/e1pRwC.png",
+    "title": "Borderline Heartbreak",
+    "video": null,
+    "scrapeWords": [
+      "Borderline",
+      "Heartbreak"
+    ]
+  },
+  {
     "author": "tndwolf",
     "description": "As the Captain of your own ship live a life of trade and adventuring in a randomly generated fantasy sea.",
     "genre": "Role Playing",
@@ -85395,8 +85427,7 @@
     "link": "https://davidbaath.itch.io/tree-of-knowledge",
     "platforms": [
       "Windows",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxMjk2MTQucG5n/315x250%23c/QayxpT.png",
     "title": "Tree of Knowledge",
@@ -103848,10 +103879,7 @@
     "genre": "Adventure",
     "id": "848694",
     "link": "https://knights-game.itch.io/hulu-adventure",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4MDEyMjUucG5n/315x250%23c/Z9GbUW.png",
     "title": "Hulu Adventure",
     "video": null,
@@ -107148,6 +107176,21 @@
     "video": null,
     "scrapeWords": [
       "Astronomancer"
+    ]
+  },
+  {
+    "author": "JordanPatrickWilliam",
+    "description": "Alpha Demo",
+    "genre": "Role Playing",
+    "id": "871688",
+    "link": "https://jordanpatrickwilliam.itch.io/mersia-muses",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDAwNDkucG5n/315x250%23c/NyADuV.png",
+    "title": "Mersia Muses",
+    "video": null,
+    "scrapeWords": [
+      "Mersia",
+      "Muses"
     ]
   },
   {
@@ -111056,6 +111099,24 @@
     ]
   },
   {
+    "author": "iwilliams",
+    "description": "Explore a procedurally generated dungeon, collect loot, and fight skeletons!",
+    "genre": "Action",
+    "id": "896956",
+    "link": "https://iwilliams.itch.io/fiends-isle-demo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNjAyOTIuZ2lm/315x250%23cm/aBM1Mm.gif",
+    "title": "Fiend's Isle [DEMO]",
+    "video": "https://img.itch.zone/aW1nLzUzNjAyOTIuZ2lm/original/BDMkW8.gif",
+    "scrapeWords": [
+      "Fiends",
+      "Isle",
+      "[]"
+    ]
+  },
+  {
     "author": "Nep toodles",
     "description": null,
     "genre": "Platformer",
@@ -111380,12 +111441,11 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwODM1NDcucG5n/315x250%23c/d%2FX%2BkE.png",
-    "title": "Guerra de tanques",
+    "title": "OpenTanks",
     "video": null,
     "scrapeWords": [
-      "Guerra",
-      "de",
-      "tanques"
+      "Open",
+      "Tanks"
     ]
   },
   {
@@ -120255,6 +120315,26 @@
     ]
   },
   {
+    "author": "samon101",
+    "description": "Embarque em uma jornada sendo um slime em um pequeno jogo de plataforma!",
+    "genre": "Platformer",
+    "id": "953918",
+    "link": "https://samon101.itch.io/dias-pulo",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NzQ4MzMucG5n/315x250%23c/H6ux6V.png",
+    "title": "Dias de Pulo",
+    "video": null,
+    "scrapeWords": [
+      "Dias",
+      "de",
+      "Pulo"
+    ]
+  },
+  {
     "author": "EternalNooblet",
     "description": "Have you ever dreamt you were a flappy bird?",
     "genre": "Shooter",
@@ -121463,6 +121543,25 @@
     ]
   },
   {
+    "author": "The Haunted PS1",
+    "description": "Admission is FREE! Visit now, and you might even leave alive...",
+    "genre": null,
+    "id": "963368",
+    "link": "https://hauntedps1.itch.io/demodisc2021",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MDYxNDguZ2lm/315x250%23cm/Dmnz4x.gif",
+    "title": "Haunted PS1 Demo Disc 2021",
+    "video": "https://img.itch.zone/aW1nLzU1MDYxNDguZ2lm/original/8LEcHS.gif",
+    "scrapeWords": [
+      "Haunted",
+      "PS1",
+      "Disc",
+      "2021"
+    ]
+  },
+  {
     "author": "b._.render",
     "description": "Made in honour of all those games that seemingly load forever",
     "genre": "Simulation",
@@ -121661,6 +121760,21 @@
     ]
   },
   {
+    "author": "Toaxtier",
+    "description": "El mundo otra vez esta en problemas. Ahora hay que defender a tu país de los extranjeros.",
+    "genre": "Action",
+    "id": "964775",
+    "link": "https://toaxtier.itch.io/navybattle",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU0NzQ4NjEucG5n/315x250%23c/A05RJM.png",
+    "title": "Navy Battle",
+    "video": null,
+    "scrapeWords": [
+      "Navy",
+      "Battle"
+    ]
+  },
+  {
     "author": "Kwabsi",
     "description": "Something stole the colors. Get them back.",
     "genre": "Platformer",
@@ -121721,9 +121835,11 @@
     "link": "https://dyariko.itch.io/stealth-program",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU0NzY4NjkucG5n/315x250%23c/7CzsWp.png",
-    "title": "برنامج التسلل",
+    "title": "Stealth Program - برنامج التسلل",
     "video": null,
     "scrapeWords": [
+      "Stealth",
+      "Program",
       "برنامج",
       "التسلل"
     ]
@@ -122446,6 +122562,20 @@
     ]
   },
   {
+    "author": "zac",
+    "description": "keep ur health up by shooting as many skeletons as you can",
+    "genre": "Action",
+    "id": "967807",
+    "link": "https://3amsoda.itch.io/gunlunch",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDY0MzMucG5n/315x250%23c/5op2%2FM.png",
+    "title": "GUNLUNCH",
+    "video": null,
+    "scrapeWords": [
+      "GUNLUNCH"
+    ]
+  },
+  {
     "author": "Juan Pablo Cardoso",
     "description": "A puzzle game where you will paint flags of countries.",
     "genre": "Educational",
@@ -122457,6 +122587,25 @@
     "video": null,
     "scrapeWords": [
       "Flagr"
+    ]
+  },
+  {
+    "author": "rio",
+    "description": "Show them aliens who's intergalactic boss!",
+    "genre": "Strategy",
+    "id": "968818",
+    "link": "https://therioko.itch.io/end-matter",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MDEyMDkuZ2lm/315x250%23cm/oTiVKi.gif",
+    "title": "End Matter",
+    "video": "https://img.itch.zone/aW1nLzU1MDEyMDkuZ2lm/original/FljY0U.gif",
+    "scrapeWords": [
+      "End",
+      "Matter"
     ]
   },
   {
@@ -122588,6 +122737,21 @@
     ]
   },
   {
+    "author": "binglo",
+    "description": "Inspired by the old arcade game Asteroid",
+    "genre": "Shooter",
+    "id": "970221",
+    "link": "https://binglo.itch.io/asteroid-belt",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDgzMjAucG5n/315x250%23c/Mkq1L8.png",
+    "title": "Asteroid belt",
+    "video": null,
+    "scrapeWords": [
+      "Asteroid",
+      "belt"
+    ]
+  },
+  {
     "author": "PokeParadox",
     "description": "Simple break-out style game",
     "genre": null,
@@ -122602,6 +122766,22 @@
     "video": null,
     "scrapeWords": [
       "Godotoid"
+    ]
+  },
+  {
+    "author": "llasram",
+    "description": "Memory/Concentration plus RPG combat inspired mechanics",
+    "genre": "Puzzle",
+    "id": "970475",
+    "link": "https://llasram.itch.io/memquest",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MTI0MzAucG5n/315x250%23c/D2dvI4.png",
+    "title": "MemoryQuest Arena",
+    "video": null,
+    "scrapeWords": [
+      "Memory",
+      "Quest",
+      "Arena"
     ]
   },
   {
@@ -122620,6 +122800,59 @@
       "Minifantasy",
       "Survival",
       "RPG"
+    ]
+  },
+  {
+    "author": "LML STUDIO",
+    "description": "Explore the mysterious and dangerous dungeon with Thomas to find his lost grandchild",
+    "genre": "Puzzle",
+    "id": "970775",
+    "link": "https://lml-studio.itch.io/grandpa",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MTEyOTIucG5n/315x250%23c/4U36sk.png",
+    "title": "Grandpa",
+    "video": null,
+    "scrapeWords": [
+      "Grandpa"
+    ]
+  },
+  {
+    "author": "ColdCalzone",
+    "description": "Blast those aliens away!",
+    "genre": "Shooter",
+    "id": "971031",
+    "link": "https://coldcalzone.itch.io/protector-2",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MTI5MDIucG5n/315x250%23c/aCgHmB.png",
+    "title": "PROTECTOR - Public Release",
+    "video": null,
+    "scrapeWords": [
+      "PROTECTOR",
+      "Public",
+      "Release"
+    ]
+  },
+  {
+    "author": "quibar",
+    "description": "A tile placement game with a short story",
+    "genre": "Puzzle",
+    "id": "971953",
+    "link": "https://quibar.itch.io/soul-manager",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MTk0MDUucG5n/315x250%23c/kaoabh.png",
+    "title": "Soul Manager",
+    "video": null,
+    "scrapeWords": [
+      "Soul",
+      "Manager"
     ]
   },
   {
