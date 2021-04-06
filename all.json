@@ -45829,6 +45829,25 @@
     ]
   },
   {
+    "author": "Double Sept",
+    "description": "A VR Coop adventure",
+    "genre": "Puzzle",
+    "id": "538536",
+    "link": "https://doublesept.itch.io/escape",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxMzM3ODIuZ2lm/315x250%23cm/v%2FUxkF.gif",
+    "title": "Escape From The Void",
+    "video": "https://img.itch.zone/aW1nLzQxMzM3ODIuZ2lm/original/tht1vL.gif",
+    "scrapeWords": [
+      "Escape",
+      "From",
+      "The",
+      "Void"
+    ]
+  },
+  {
     "author": "Timo Koesters",
     "description": "An elephant wants to go right",
     "genre": "Platformer",
@@ -52846,7 +52865,7 @@
   {
     "author": "voxelvoid",
     "description": "Stuck in a dungeon where something's not quite right",
-    "genre": "Survival",
+    "genre": "Adventure",
     "id": "589266",
     "link": "https://voxelvoid.itch.io/dungeonn",
     "platforms": [
@@ -57813,6 +57832,23 @@
       "Roll",
       "the",
       "barrel"
+    ]
+  },
+  {
+    "author": "Gigaarts",
+    "description": "Can you find the way without getting catched?",
+    "genre": "Adventure",
+    "id": "615625",
+    "link": "https://gigaarts.itch.io/outoftheisolation",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MDQ3MzYucG5n/315x250%23c/F5fEe2.png",
+    "title": "Out of the Isolation",
+    "video": null,
+    "scrapeWords": [
+      "Out",
+      "of",
+      "the",
+      "Isolation"
     ]
   },
   {
@@ -66933,26 +66969,6 @@
       "Journey",
       "To",
       "Begin"
-    ]
-  },
-  {
-    "author": "code.ama",
-    "description": "Defend the dungeon as long as you can.",
-    "genre": "Action",
-    "id": "662614",
-    "link": "https://codeama.itch.io/one-button-dungeon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1OTEwNjUuanBn/315x250%23c/q%2BQYTf.jpg",
-    "title": "One Button Dungeon",
-    "video": null,
-    "scrapeWords": [
-      "One",
-      "Button",
-      "Dungeon"
     ]
   },
   {
@@ -95263,6 +95279,26 @@
     ]
   },
   {
+    "author": "Evpevdev",
+    "description": "A one button dungeon crawler",
+    "genre": "Adventure",
+    "id": "792218",
+    "link": "https://evpevdev.itch.io/one-button-dungeon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0MzU2MzMucG5n/315x250%23c/Q3erCE.png",
+    "title": "One Button Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "One",
+      "Button",
+      "Dungeon"
+    ]
+  },
+  {
     "author": "davidpeterworks",
     "description": "Driving a clay cab in Clay city",
     "genre": "Racing",
@@ -108748,6 +108784,23 @@
     ]
   },
   {
+    "author": "Texto de Ejemplo",
+    "description": "Reventure pero cutre",
+    "genre": "Adventure",
+    "id": "883161",
+    "link": "https://texto-de-ejemplo-games.itch.io/atom-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzQ1ODYucG5n/315x250%23c/Xwuuqy.png",
+    "title": "Project Atom",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "Atom"
+    ]
+  },
+  {
     "author": "Ronflax",
     "description": "Hey, here is my new prototype game. You can try it quickly from the browser. Have fun!",
     "genre": "Adventure",
@@ -110864,17 +110917,17 @@
   },
   {
     "author": "spiderdash",
-    "description": "Puzzle game about dashing between 2D polygons.",
+    "description": "Puzzle game about dashing between 2D obstacles.",
     "genre": "Puzzle",
     "id": "896896",
-    "link": "https://spiderdash.itch.io/spider-dash",
+    "link": "https://spiderdash.itch.io/long-tail",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxODk0MDcucG5n/315x250%23c/Verxi6.png",
-    "title": "Spider Dash",
+    "title": "Long Tail",
     "video": null,
     "scrapeWords": [
-      "Spider",
-      "Dash"
+      "Long",
+      "Tail"
     ]
   },
   {
@@ -117435,7 +117488,9 @@
     "genre": "Platformer",
     "id": "936975",
     "link": "https://dataoverflow.itch.io/notebook-game",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUzNDc0NTAuZ2lm/315x250%23cm/DedFkz.gif",
     "title": "Notebook Game",
     "video": "https://img.itch.zone/aW1nLzUzNDc0NTAuZ2lm/original/cezu14.gif",
@@ -119525,22 +119580,6 @@
     "scrapeWords": [
       "Golf",
       "Jam"
-    ]
-  },
-  {
-    "author": "Shazelz Studios",
-    "description": "Descend the hole",
-    "genre": "Action",
-    "id": "947446",
-    "link": "https://shazelz-studios.itch.io/septem",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU1NzgxMzQucG5n/315x250%23c/oStFhN.png",
-    "title": "Septem",
-    "video": null,
-    "scrapeWords": [
-      "Septem"
     ]
   },
   {
@@ -123303,7 +123342,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU1NjE1ODEucG5n/315x250%23c/FDm7Ts.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2MDIxMjMucG5n/315x250%23c/f333YR.png",
     "title": "Diminutive Expanse",
     "video": null,
     "scrapeWords": [
@@ -123677,7 +123716,7 @@
   },
   {
     "author": "Talkie Dev",
-    "description": "This is my platformer game alpha version 0.1 made with godot engine",
+    "description": "This is my platformer game alpha version 0.2 made with godot engine",
     "genre": "Platformer",
     "id": "975835",
     "link": "https://talkie-dev.itch.io/talkie",
@@ -124166,7 +124205,7 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1NzgzMzYucG5n/315x250%23c/Bee0LN.png",
-    "title": "Farmer Phil and the Zombie Apocalypse",
+    "title": "Farmer Phil and the Zombie Alien Robot Apocalypse",
     "video": null,
     "scrapeWords": [
       "Farmer",
@@ -124174,6 +124213,8 @@
       "and",
       "the",
       "Zombie",
+      "Alien",
+      "Robot",
       "Apocalypse"
     ]
   },
@@ -124227,6 +124268,26 @@
     "scrapeWords": [
       "Diamond",
       "Hunters1"
+    ]
+  },
+  {
+    "author": "davidpeterworks",
+    "description": "Lead an army of droids and fix the glitch.",
+    "genre": "Action",
+    "id": "981235",
+    "link": "https://davidpeterworks.itch.io/glitch-is-coming",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1OTc1ODUucG5n/315x250%23c/BfNb8k.png",
+    "title": "Glitch is coming",
+    "video": null,
+    "scrapeWords": [
+      "Glitch",
+      "is",
+      "coming"
     ]
   },
   {
@@ -124588,6 +124649,47 @@
     ]
   },
   {
+    "author": "giabeni",
+    "description": "A 3D action game inspired by Bomberman",
+    "genre": "Action",
+    "id": "984201",
+    "link": "https://giabeni.itch.io/dynam-it",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MDM5MjYucG5n/315x250%23c/0D1r9w.png",
+    "title": "Dynam It",
+    "video": null,
+    "scrapeWords": [
+      "Dynam",
+      "It"
+    ]
+  },
+  {
+    "author": "RedEye95",
+    "description": "A game where you  control a drunk guy looking for beer while platforming",
+    "genre": "Platformer",
+    "id": "984438",
+    "link": "https://redeye95.itch.io/drunk-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1OTY5NDEuZ2lm/315x250%23cm/xH39t3.gif",
+    "title": "Going Home After Drinking With Friends (aka Drunk Platformer)",
+    "video": "https://img.itch.zone/aW1nLzU1OTY5NDEuZ2lm/original/Y96QIt.gif",
+    "scrapeWords": [
+      "Going",
+      "Home",
+      "After",
+      "Drinking",
+      "With",
+      "Friends",
+      "aka",
+      "Drunk",
+      "Platformer"
+    ]
+  },
+  {
     "author": "Andrea1141",
     "description": "Travel with your rocket to reach the final planet!",
     "genre": "Platformer",
@@ -124621,6 +124723,36 @@
       "Dont",
       "Click",
       "Me"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Relight the spark",
+    "genre": "Shooter",
+    "id": "985107",
+    "link": "https://jafcraze.itch.io/smoke-assassin",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MDEwNzQuZ2lm/315x250%23cm/P9Ju%2Bd.gif",
+    "title": "Smoke Assassin",
+    "video": "https://img.itch.zone/aW1nLzU2MDEwNzQuZ2lm/original/qOWW6R.gif",
+    "scrapeWords": [
+      "Smoke",
+      "Assassin"
+    ]
+  },
+  {
+    "author": "Marcos Paulo",
+    "description": "Jogo de tiro contra ondas infinitas de inimigos",
+    "genre": "Action",
+    "id": "985712",
+    "link": "https://mr-soulfox.itch.io/wave-shooter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MDQ4NTUucG5n/315x250%23c/OCAXDJ.png",
+    "title": "Wave Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Wave",
+      "Shooter"
     ]
   }
 ]
