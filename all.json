@@ -39355,6 +39355,24 @@
     ]
   },
   {
+    "author": "Stranker",
+    "description": "One cat. One jetpack. One dream.",
+    "genre": null,
+    "id": "485772",
+    "link": "https://stranker.itch.io/cats-can-fly",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1MDc1MjEucG5n/315x250%23c/kvOi5a.png",
+    "title": "Cats Can Fly!",
+    "video": null,
+    "scrapeWords": [
+      "Cats",
+      "Can",
+      "Fly"
+    ]
+  },
+  {
     "author": "DEVEL_BOX",
     "description": null,
     "genre": null,
@@ -49542,24 +49560,6 @@
     "video": null,
     "scrapeWords": [
       "Minitroid"
-    ]
-  },
-  {
-    "author": "K-Arthur Games",
-    "description": "Feed your caterpillar to become a pretty butterfly.",
-    "genre": "Action",
-    "id": "565309",
-    "link": "https://k-arthur-games.itch.io/the-great-grub",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5Njk2MjIucG5n/315x250%23c/qzKzfL.png",
-    "title": "The Great Grub",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Great",
-      "Grub"
     ]
   },
   {
@@ -90408,6 +90408,23 @@
     ]
   },
   {
+    "author": "Bayaola",
+    "description": "help \"plane\" to survive in \"warning zone\"",
+    "genre": "Action",
+    "id": "76671",
+    "link": "https://bayaola.itch.io/warning-zone",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvNzY2NzEvMzU3Mjk3LnBuZw==/315x250%23c/M%2FgdRZ.png",
+    "title": "Warning Zone",
+    "video": null,
+    "scrapeWords": [
+      "Warning",
+      "Zone"
+    ]
+  },
+  {
     "author": "Ducksy",
     "description": "puzzle platformer",
     "genre": "Puzzle",
@@ -104206,6 +104223,7 @@
     "id": "853863",
     "link": "https://buppedbirio.itch.io/pinoblu",
     "platforms": [
+      "Windows",
       "Linux",
       "macOS",
       "Android"
@@ -104237,6 +104255,23 @@
       "Santa",
       "Jam",
       "2020"
+    ]
+  },
+  {
+    "author": "MumuNiMochii",
+    "description": "This is a demo version and also the 'concept' version of the game project.",
+    "genre": "Platformer",
+    "id": "853952",
+    "link": "https://mumunimochii.itch.io/starr-and-monsters-concept-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3ODk4NDQucG5n/315x250%23c/7Cb93Y.png",
+    "title": "Starr and Monsters - Concept Demo",
+    "video": null,
+    "scrapeWords": [
+      "Starr",
+      "and",
+      "Monsters",
+      "Concept"
     ]
   },
   {
@@ -105023,6 +105058,23 @@
       "Throwman",
       "Mc",
       "Gee"
+    ]
+  },
+  {
+    "author": "MumuNiMochii",
+    "description": "Worlds are expected to be packed into one whole universe, and new items have arrived.",
+    "genre": "Adventure",
+    "id": "858582",
+    "link": "https://mumunimochii.itch.io/starr-and-monsters-world-patch-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTg1MjUucG5n/315x250%23c/2YhM8E.png",
+    "title": "Starr & Monsters - World Patch Demo",
+    "video": null,
+    "scrapeWords": [
+      "Starr",
+      "Monsters",
+      "World",
+      "Patch"
     ]
   },
   {
@@ -107946,6 +107998,26 @@
     "video": null,
     "scrapeWords": [
       "Cthululu"
+    ]
+  },
+  {
+    "author": "GoneLoot",
+    "description": "Help Sat and Tan escape the Underworld!",
+    "genre": "Role Playing",
+    "id": "877582",
+    "link": "https://goneloot.itch.io/shin-megami-tansat",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NzUwNjEucG5n/315x250%23c/gJFcT3.png",
+    "title": "Shin Megami TanSat",
+    "video": null,
+    "scrapeWords": [
+      "Shin",
+      "Megami",
+      "Tan",
+      "Sat"
     ]
   },
   {
@@ -116994,6 +117066,25 @@
     ]
   },
   {
+    "author": "MumuNiMochii",
+    "description": "Explore a world of monsters and survive the dangers of it!",
+    "genre": "Platformer",
+    "id": "933598",
+    "link": "https://mumunimochii.itch.io/starr-and-monsters",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyODg5MjIucG5n/315x250%23c/Klfeiu.png",
+    "title": "Starr & Monsters - Binary Release",
+    "video": null,
+    "scrapeWords": [
+      "Starr",
+      "Monsters",
+      "Binary",
+      "Release"
+    ]
+  },
+  {
     "author": "Anagh's World",
     "description": "Escape to survive. A game by Anagh's World.",
     "genre": "Survival",
@@ -119441,6 +119532,28 @@
     ]
   },
   {
+    "author": "Zhangir Nurmukhambetov",
+    "description": "Your a robot who lost all it's parts! Will you be able to reassemble?",
+    "genre": "Platformer",
+    "id": "946899",
+    "link": "https://xanthosware.itch.io/reassemble",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MzU2NDEucG5n/315x250%23c/pOoOjN.png",
+    "title": "Reassemble [Godot Wild Jam March 2020]",
+    "video": null,
+    "scrapeWords": [
+      "Reassemble",
+      "[Godot",
+      "Wild",
+      "Jam",
+      "March",
+      "2020]"
+    ]
+  },
+  {
     "author": "theMADturtle",
     "description": "abandon ship",
     "genre": "Platformer",
@@ -120046,6 +120159,21 @@
       "Maze",
       "2",
       "D"
+    ]
+  },
+  {
+    "author": "KreaTales",
+    "description": null,
+    "genre": "Platformer",
+    "id": "951345",
+    "link": "https://kreatales.itch.io/underground-adventures",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzOTM4MTEucG5n/315x250%23c/ZUChVh.png",
+    "title": "Underground Adventures",
+    "video": null,
+    "scrapeWords": [
+      "Underground",
+      "Adventures"
     ]
   },
   {
@@ -120937,20 +121065,6 @@
       "in",
       "the",
       "Space"
-    ]
-  },
-  {
-    "author": "barely-finished-games",
-    "description": "our contribution to #7DRL 2021",
-    "genre": "Adventure",
-    "id": "956917",
-    "link": "https://barely-finished-games.itch.io/slimecaves",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU0MjYwNTgucG5n/315x250%23c/%2Bi8Lwp.png",
-    "title": "Slimecaves",
-    "video": null,
-    "scrapeWords": [
-      "Slimecaves"
     ]
   },
   {
@@ -122084,6 +122198,25 @@
     ]
   },
   {
+    "author": "kalebye2",
+    "description": "A Godot Wild Game Jam platformer game",
+    "genre": "Platformer",
+    "id": "965157",
+    "link": "https://kalebye2.itch.io/jump-girl",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NzY4NzYucG5n/315x250%23c/nPwJ62.png",
+    "title": "Jump Girl",
+    "video": null,
+    "scrapeWords": [
+      "Jump",
+      "Girl"
+    ]
+  },
+  {
     "author": "Forinti Games",
     "description": null,
     "genre": "Platformer",
@@ -122434,29 +122567,6 @@
     ]
   },
   {
-    "author": "Mastermori",
-    "description": "You're a robot who has lost all of it's parts! Will you be able to reassemble?",
-    "genre": "Platformer",
-    "id": "966142",
-    "link": "https://mastermori.itch.io/reassmble",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0ODI4NjUucG5n/315x250%23c/lrVuoZ.png",
-    "title": "Reassemble [Godot Wild Jam March 2020]",
-    "video": null,
-    "scrapeWords": [
-      "Reassemble",
-      "[Godot",
-      "Wild",
-      "Jam",
-      "March",
-      "2020]"
-    ]
-  },
-  {
     "author": "emgiel",
     "description": "You just lost your car keys in the beach. Luckily, you have your metal detector to find you.",
     "genre": null,
@@ -122770,6 +122880,25 @@
     ]
   },
   {
+    "author": "KreaTales",
+    "description": null,
+    "genre": "Platformer",
+    "id": "967663",
+    "link": "https://kreatales.itch.io/through-the-other-side",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MjMwNzYucG5n/315x250%23c/ikJXjI.png",
+    "title": "Through the Other Side",
+    "video": null,
+    "scrapeWords": [
+      "Through",
+      "the",
+      "Other",
+      "Side"
+    ]
+  },
+  {
     "author": "zac",
     "description": "keep ur health up by shooting as many skeletons as you can",
     "genre": "Action",
@@ -122791,7 +122920,8 @@
     "link": "https://wheatleyhdd.itch.io/untitled",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0OTQ3MTEucG5n/315x250%23c/m%2FnyAd.png",
     "title": "[untitled]",
@@ -122832,6 +122962,25 @@
       "Out",
       "The",
       "House"
+    ]
+  },
+  {
+    "author": "Majorelle Mystery",
+    "description": "Free the Villa Majorelle | A Coding da Vinci project",
+    "genre": "Puzzle",
+    "id": "968498",
+    "link": "https://majmys.itch.io/majorelle-mystery",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0OTcyMzMucG5n/315x250%23c/FBDNSM.png",
+    "title": "Majorelle Mystery",
+    "video": null,
+    "scrapeWords": [
+      "Majorelle",
+      "Mystery"
     ]
   },
   {
@@ -123232,9 +123381,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU1MjA2OTAucG5n/315x250%23c/09iKhM.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2MTAwNjcuZ2lm/315x250%23cm/hqpOQY.gif",
     "title": "Ewellia and the Magic Bag",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzU2MTAwNjcuZ2lm/original/NQiwTk.gif",
     "scrapeWords": [
       "Ewellia",
       "and",
@@ -123851,6 +124000,25 @@
     ]
   },
   {
+    "author": "MumuNiMochii",
+    "description": "Shaders and options have been added, however, it is far from completion.",
+    "genre": "Platformer",
+    "id": "977327",
+    "link": "https://mumunimochii.itch.io/starr-and-monsters-process-and-vfx",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1NTEzNTMucG5n/315x250%23c/%2BfcY8Y.png",
+    "title": "Starr & Monsters - Process and VFX Update",
+    "video": null,
+    "scrapeWords": [
+      "Starr",
+      "Monsters",
+      "Process",
+      "and",
+      "VFX",
+      "Update"
+    ]
+  },
+  {
     "author": "Ankush Gupta",
     "description": "Challenge your Controlling Skills",
     "genre": "Platformer",
@@ -124281,7 +124449,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU1OTc1ODUucG5n/315x250%23c/BfNb8k.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2MTM2MzkucG5n/315x250%23c/%2Fqgy2V.png",
     "title": "Glitch is coming",
     "video": null,
     "scrapeWords": [
@@ -124341,7 +124509,7 @@
   {
     "author": "GreenDjango",
     "description": "Horror game where you have to find something in a museum...",
-    "genre": null,
+    "genre": "Survival",
     "id": "981921",
     "link": "https://greendjango.itch.io/mutheyum",
     "platforms": [
@@ -124650,14 +124818,12 @@
   },
   {
     "author": "giabeni",
-    "description": "A 3D action game inspired by Bomberman",
+    "description": "A 3D action game inspired by Bomberman, which happens in an eery gold mine...",
     "genre": "Action",
     "id": "984201",
     "link": "https://giabeni.itch.io/dynam-it",
     "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2MDM5MjYucG5n/315x250%23c/0D1r9w.png",
     "title": "Dynam It",
@@ -124665,6 +124831,23 @@
     "scrapeWords": [
       "Dynam",
       "It"
+    ]
+  },
+  {
+    "author": "CassetteCow",
+    "description": null,
+    "genre": "Platformer",
+    "id": "984291",
+    "link": "https://cassettecow.itch.io/saturn-jumper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1OTYxNTkucG5n/315x250%23c/ZJo7qv.png",
+    "title": "Saturn Jumper",
+    "video": null,
+    "scrapeWords": [
+      "Saturn",
+      "Jumper"
     ]
   },
   {
@@ -124753,6 +124936,58 @@
     "scrapeWords": [
       "Wave",
       "Shooter"
+    ]
+  },
+  {
+    "author": "fernandolv3",
+    "description": "A game about exploration of spaceships and in narrow corridors. Made in the Dungeon Crawler Jam 2021",
+    "genre": "Action",
+    "id": "986649",
+    "link": "https://fernandolv3.itch.io/space-crawlers",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MTA3NDUucG5n/315x250%23c/1qCBAx.png",
+    "title": "Space Crawlers #dcjam2021",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Crawlers",
+      "dcjam2021"
+    ]
+  },
+  {
+    "author": "MumuNiMochii",
+    "description": "Added new VFX with shaders and the World Environment node, and fixed slimes' behaviour.",
+    "genre": "Platformer",
+    "id": "986899",
+    "link": "https://mumunimochii.itch.io/starr-and-monsters-glow-and-slime-update",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MTI3MTkucG5n/315x250%23c/fKAFVY.png",
+    "title": "Starr & Monsters - Glow and Slime Update",
+    "video": null,
+    "scrapeWords": [
+      "Starr",
+      "Monsters",
+      "Glow",
+      "and",
+      "Slime",
+      "Update"
+    ]
+  },
+  {
+    "author": "autistmouse",
+    "description": "A modern take on the classic snake game made in Godot",
+    "genre": "Puzzle",
+    "id": "987091",
+    "link": "https://autistmouse.itch.io/snake-2021",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MTM5NTAucG5n/315x250%23c/E7L3sO.png",
+    "title": "Snake 2021",
+    "video": null,
+    "scrapeWords": [
+      "Snake",
+      "2021"
     ]
   }
 ]
