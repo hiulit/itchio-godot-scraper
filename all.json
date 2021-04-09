@@ -22336,11 +22336,11 @@
     ]
   },
   {
-    "author": "Cupi",
+    "author": "ChaosWitchNikol",
     "description": "Enjoy this roguelite twinstick dungeon crawler.",
     "genre": "Role Playing",
     "id": "348621",
-    "link": "https://cupi.itch.io/dungeon-crates",
+    "link": "https://chaoswitchnikol.itch.io/dungeon-crates",
     "platforms": [
       "Windows",
       "Linux",
@@ -22980,24 +22980,6 @@
     "video": "https://img.itch.zone/aW1nLzE3ODA2NDcuZ2lm/original/MhQlL5.gif",
     "scrapeWords": [
       "Knak"
-    ]
-  },
-  {
-    "author": "Jamep",
-    "description": null,
-    "genre": null,
-    "id": "356745",
-    "link": "https://jamepdev.itch.io/dodgeout",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3ODQzNTEuZ2lm/315x250%23cm/tLjkJB.gif",
-    "title": "Dodgeout",
-    "video": "https://img.itch.zone/aW1nLzE3ODQzNTEuZ2lm/original/cSwdZh.gif",
-    "scrapeWords": [
-      "Dodgeout"
     ]
   },
   {
@@ -30285,6 +30267,26 @@
     ]
   },
   {
+    "author": "AikonCWD",
+    "description": "John Conway's Game of Life implemented in Godot",
+    "genre": "Simulation",
+    "id": "423326",
+    "link": "https://aikoncwd.itch.io/game-of-life",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MjAzOTYucG5n/315x250%23c/76IXY8.png",
+    "title": "Game of Life",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "of",
+      "Life"
+    ]
+  },
+  {
     "author": "44pes",
     "description": "Complete all the levels to get the reward from Lucifer.",
     "genre": "Action",
@@ -31681,11 +31683,11 @@
     ]
   },
   {
-    "author": "Cupi",
+    "author": "ChaosWitchNikol",
     "description": "Cyber Bee is asteroids inspired top down shooter",
     "genre": "Shooter",
     "id": "434689",
-    "link": "https://cupi.itch.io/cyber-bee",
+    "link": "https://chaoswitchnikol.itch.io/cyber-bee",
     "platforms": [
       "Windows",
       "Linux"
@@ -36836,11 +36838,11 @@
     ]
   },
   {
-    "author": "Cupi",
+    "author": "ChaosWitchNikol",
     "description": "Fight space pirates in fierce turn based action combat and escape them with your ship",
     "genre": "Fighting",
     "id": "469834",
-    "link": "https://cupi.itch.io/one-day-in-universe",
+    "link": "https://chaoswitchnikol.itch.io/one-day-in-universe",
     "platforms": [
       "Windows",
       "Linux"
@@ -51164,24 +51166,6 @@
     ]
   },
   {
-    "author": "fsnowdin",
-    "description": "At the edge of the universe, the Seeker completes their mission. No matter the cost.",
-    "genre": "Adventure",
-    "id": "575801",
-    "link": "https://fsnowdin.itch.io/seeker",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMzA0NTcuZ2lm/315x250%23cm/QghiqC.gif",
-    "title": "Seeker (demo)",
-    "video": "https://img.itch.zone/aW1nLzMwMzA0NTcuZ2lm/original/XR8qvs.gif",
-    "scrapeWords": [
-      "Seeker"
-    ]
-  },
-  {
     "author": "Juan",
     "description": null,
     "genre": "Adventure",
@@ -51380,24 +51364,6 @@
       "Black",
       "n",
       "White"
-    ]
-  },
-  {
-    "author": "BlacoInc",
-    "description": "A 2 players PvP with Fun and Platforms!",
-    "genre": "Action",
-    "id": "577935",
-    "link": "https://calboinc.itch.io/sorcerers-pvp",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDI4MzgucG5n/315x250%23c/mxVPA5.png",
-    "title": "Sorcerer's PvP",
-    "video": null,
-    "scrapeWords": [
-      "Sorcerers",
-      "Pv",
-      "P"
     ]
   },
   {
@@ -79292,24 +79258,6 @@
     ]
   },
   {
-    "author": "Fern&Dez",
-    "description": null,
-    "genre": null,
-    "id": "718805",
-    "link": "https://ferndez.itch.io/game-of-life",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5ODUwOTgucG5n/315x250%23c/R9%2BJ00.png",
-    "title": "Game of Life",
-    "video": null,
-    "scrapeWords": [
-      "Game",
-      "of",
-      "Life"
-    ]
-  },
-  {
     "author": "Cleverzoid",
     "description": "Tiny space shooter created for the LowResJam 2020",
     "genre": "Shooter",
@@ -84143,7 +84091,7 @@
     ]
   },
   {
-    "author": "Ivess",
+    "author": "John Ivess",
     "description": "Play as the last defender of the village against unstoppable hordes of enemies. Fight, die, improve, repeat!",
     "genre": "Action",
     "id": "738030",
@@ -85776,11 +85724,11 @@
     ]
   },
   {
-    "author": "Cupi",
+    "author": "ChaosWitchNikol",
     "description": "Charming turn-based RPG-ish game with a cute player character",
     "genre": "Role Playing",
     "id": "743842",
-    "link": "https://cupi.itch.io/one-last-slime",
+    "link": "https://chaoswitchnikol.itch.io/one-last-slime",
     "platforms": [
       "Windows",
       "Linux",
@@ -96335,7 +96283,7 @@
     ]
   },
   {
-    "author": "Ivess",
+    "author": "John Ivess",
     "description": "Defend the Crystal from approaching enemies - but only by hiring others to do so!",
     "genre": "Strategy",
     "id": "798526",
@@ -98789,7 +98737,7 @@
   },
   {
     "author": "Finn Pickart",
-    "description": "You wake up in a strange village. All of the residents look like them and it's night forever. Can you escape?",
+    "description": "You wake up in a strange village. All of the villagers look the same and the night doesn't seem to end. Can you escape?",
     "genre": "Puzzle",
     "id": "814762",
     "link": "https://finn378.itch.io/the-stranger-in-town",
@@ -99500,7 +99448,8 @@
     "link": "https://affordable.itch.io/super-vili",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0NjYyMDgucG5n/315x250%23c/cisU%2Ff.png",
     "title": "Super Vili",
@@ -99621,25 +99570,6 @@
     "video": null,
     "scrapeWords": [
       "Fiesta"
-    ]
-  },
-  {
-    "author": "TotobirdCreations",
-    "description": "Space game inspired from FTL.",
-    "genre": "Strategy",
-    "id": "821871",
-    "link": "https://totobirdcreations.itch.io/galactic-horizon",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MTY0MjMucG5n/315x250%23c/EcwcPi.png",
-    "title": "Galactic Horizon",
-    "video": null,
-    "scrapeWords": [
-      "Galactic",
-      "Horizon"
     ]
   },
   {
@@ -107910,7 +107840,7 @@
     ]
   },
   {
-    "author": "Ivess",
+    "author": "John Ivess",
     "description": "Brutally fight off all the Cthulhu cultists of the neighborhood in this fast-paced action shooter!",
     "genre": "Action",
     "id": "876876",
@@ -116668,14 +116598,14 @@
     "id": "930517",
     "link": "https://diegoferraribruno.itch.io/gato-mia-2",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU1ODUyNTUucG5n/315x250%23c/BgB1dh.png",
-    "title": "Gato Mia - Touch A.06",
+    "thumb": "https://img.itch.zone/aW1nLzU2Mjg5OTYucG5n/315x250%23c/lF1ljP.png",
+    "title": "Gato Mia - Touch a.07",
     "video": null,
     "scrapeWords": [
       "Gato",
       "Mia",
       "Touch",
-      "A06"
+      "a07"
     ]
   },
   {
@@ -118482,7 +118412,7 @@
     ]
   },
   {
-    "author": "Ivess",
+    "author": "John Ivess",
     "description": "You're an immortal ninja trying to escape everchanging dungeon - fight and die to free yourself!",
     "genre": "Action",
     "id": "939999",
@@ -121351,9 +121281,11 @@
     "description": "A platformer, but in each level the mechanic required to complete it is missing.",
     "genre": "Platformer",
     "id": "958586",
-    "link": "https://sushidev01.itch.io/patchless-jam-version",
+    "link": "https://sushidev01.itch.io/patchless",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0NjY2NzAuZ2lm/315x250%23cm/osweN7.gif",
     "title": "Patchless",
@@ -123572,6 +123504,24 @@
     ]
   },
   {
+    "author": "zsozsozs",
+    "description": "Make more money by utilizing gravity instead of fuel",
+    "genre": "Action",
+    "id": "972671",
+    "link": "https://zsozsozs.itch.io/gravity",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjU3MzYucG5n/315x250%23c/qrI%2Bt5.png",
+    "title": "Gravity",
+    "video": null,
+    "scrapeWords": [
+      "Gravity"
+    ]
+  },
+  {
     "author": "Arrowshot Studio",
     "description": "First game",
     "genre": "Platformer",
@@ -124373,6 +124323,28 @@
     ]
   },
   {
+    "author": "Cahatstrophe Games",
+    "description": "A lot like asteroids but actually so much worse",
+    "genre": "Shooter",
+    "id": "980141",
+    "link": "https://cahatstrophe-games.itch.io/worlds-worst-asteroids-clone",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2Mjg5ODEucG5n/315x250%23c/0yyzFY.png",
+    "title": "The World's Worst Asteroids Clone",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Worlds",
+      "Worst",
+      "Asteroids",
+      "Clone"
+    ]
+  },
+  {
     "author": "Crowded Games",
     "description": "couch co-op bullethell dungeon",
     "genre": "Action",
@@ -124557,25 +124529,6 @@
     "video": null,
     "scrapeWords": [
       "Sword-child"
-    ]
-  },
-  {
-    "author": "nawawi",
-    "description": "hidden treasure waiting for you!!! collect key and explore in darkness to get them!!",
-    "genre": "Platformer",
-    "id": "981847",
-    "link": "https://nawawi.itch.io/get-treasure",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU1ODEwMzkucG5n/315x250%23c/CvsMhj.png",
-    "title": "Get Treasure!!!!",
-    "video": null,
-    "scrapeWords": [
-      "Get",
-      "Treasure"
     ]
   },
   {
@@ -125037,6 +124990,24 @@
     ]
   },
   {
+    "author": "sarrowsmith",
+    "description": "RoboLike continued",
+    "genre": null,
+    "id": "985235",
+    "link": "https://sarrowsmith.itch.io/quasidroid",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2Mjk4ODQucG5n/315x250%23c/NuHQfj.png",
+    "title": "Quasidroid",
+    "video": null,
+    "scrapeWords": [
+      "Quasidroid"
+    ]
+  },
+  {
     "author": "Marcos Paulo",
     "description": "Jogo de tiro contra ondas infinitas de inimigos",
     "genre": "Action",
@@ -125164,6 +125135,28 @@
     ]
   },
   {
+    "author": "SnowySierra",
+    "description": "Sneak through open cities and puzzle levels in this furry stealth game.",
+    "genre": "Simulation",
+    "id": "987705",
+    "link": "https://snowysierra.itch.io/endless-thief",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MTg0MDYucG5n/315x250%23c/94VeJA.png",
+    "title": "Endless Thief: a furry stealth adventure",
+    "video": null,
+    "scrapeWords": [
+      "Endless",
+      "Thief",
+      "a",
+      "furry",
+      "stealth",
+      "adventure"
+    ]
+  },
+  {
     "author": "Rafagars",
     "description": null,
     "genre": "Platformer",
@@ -125172,7 +125165,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2MTkyNzAucG5n/315x250%23c/oH7e%2BH.png",
     "title": "Spike Hell",
@@ -125199,6 +125193,107 @@
     "scrapeWords": [
       "Bee",
       "Toy"
+    ]
+  },
+  {
+    "author": "Yiourn",
+    "description": "FPS Boomerang on infinite plane",
+    "genre": "Action",
+    "id": "988747",
+    "link": "https://yiourn.itch.io/deadarang",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjQ3NDUucG5n/315x250%23c/2kHmr0.png",
+    "title": "Deadarang",
+    "video": null,
+    "scrapeWords": [
+      "Deadarang"
+    ]
+  },
+  {
+    "author": "hpnrep6",
+    "description": "Explore wonderful things!",
+    "genre": "Puzzle",
+    "id": "988788",
+    "link": "https://hpnrep6.itch.io/jay-jay-dating-sim-jay-jays-basement-of-fun",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjkwNjMucG5n/315x250%23c/xFX5IH.png",
+    "title": "Jay Jay Dating Sim: Jay Jay's Basement of Fun",
+    "video": null,
+    "scrapeWords": [
+      "Jay",
+      "Jay",
+      "Dating",
+      "Sim",
+      "Jay",
+      "Jays",
+      "Basement",
+      "of",
+      "Fun"
+    ]
+  },
+  {
+    "author": "Dijjidog (foo-tech)",
+    "description": "Bullet hell/platformer for billy jam",
+    "genre": "Rhythm",
+    "id": "988795",
+    "link": "https://dijjidog-foo-tech.itch.io/fifty-percent-hell-by-spaghetti-skull-and-dijjidog",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjUxNTkucG5n/315x250%23c/lNTZ1O.png",
+    "title": "Fifty Percent Hell By Spaghetti Skull And Dijjidog",
+    "video": null,
+    "scrapeWords": [
+      "Fifty",
+      "Percent",
+      "Hell",
+      "By",
+      "Spaghetti",
+      "Skull",
+      "And",
+      "Dijjidog"
+    ]
+  },
+  {
+    "author": "ZirconiumLabs",
+    "description": "Try to save kangaroo by jumping obstacles on the way. Use mouse left button or touch screen.",
+    "genre": "Adventure",
+    "id": "988827",
+    "link": "https://zirconiumlabs.itch.io/save-kangaroo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MjUwMzUucG5n/315x250%23c/0WuE1v.png",
+    "title": "Save Kangaroo",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "Kangaroo"
+    ]
+  },
+  {
+    "author": "loony_moth",
+    "description": null,
+    "genre": "Action",
+    "id": "989038",
+    "link": "https://loony-moth.itch.io/vape-escape",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjYyMDcucG5n/315x250%23c/An9cPx.png",
+    "title": "Vape Escape",
+    "video": null,
+    "scrapeWords": [
+      "Vape",
+      "Escape"
     ]
   }
 ]
