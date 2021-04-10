@@ -30267,26 +30267,6 @@
     ]
   },
   {
-    "author": "AikonCWD",
-    "description": "John Conway's Game of Life implemented in Godot",
-    "genre": "Simulation",
-    "id": "423326",
-    "link": "https://aikoncwd.itch.io/game-of-life",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MjAzOTYucG5n/315x250%23c/76IXY8.png",
-    "title": "Game of Life",
-    "video": null,
-    "scrapeWords": [
-      "Game",
-      "of",
-      "Life"
-    ]
-  },
-  {
     "author": "44pes",
     "description": "Complete all the levels to get the reward from Lucifer.",
     "genre": "Action",
@@ -32019,24 +31999,6 @@
     "video": null,
     "scrapeWords": [
       "Patter"
-    ]
-  },
-  {
-    "author": "Iddmeister",
-    "description": "Gravitational Magnetism (It's a real thing I promise)",
-    "genre": "Platformer",
-    "id": "438026",
-    "link": "https://iddmeister.itch.io/gravmagnet-prototype",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIxOTkwMTkucG5n/315x250%23c/qmKMhm.png",
-    "title": "GravMagnet - Prototype",
-    "video": null,
-    "scrapeWords": [
-      "Grav",
-      "Magnet",
-      "Prototype"
     ]
   },
   {
@@ -37604,7 +37566,7 @@
   },
   {
     "author": "MenacingMecha",
-    "description": "WarioWare style game demo originally developed for Abertay Midsummer Jam 2018",
+    "description": "WarioWare-style prototype demo for Abertay MidSummer Jam 2018",
     "genre": null,
     "id": "473963",
     "link": "https://menacingmecha.itch.io/airship-funk",
@@ -42592,25 +42554,6 @@
     "scrapeWords": [
       "Heroes",
       "Arena"
-    ]
-  },
-  {
-    "author": "Peter Wood",
-    "description": "A simple Space Game inspired by old PC space sims",
-    "genre": "Shooter",
-    "id": "509387",
-    "link": "https://peternatewood.itch.io/space-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDM2NzIucG5n/315x250%23c/YwwpO3.png",
-    "title": "Space Game",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Game"
     ]
   },
   {
@@ -51166,6 +51109,24 @@
     ]
   },
   {
+    "author": "fsnowdin",
+    "description": "At the edge of the universe, the Seeker completes their mission. No matter the cost.",
+    "genre": "Adventure",
+    "id": "575801",
+    "link": "https://fsnowdin.itch.io/seeker",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzA0NTcuZ2lm/315x250%23cm/QghiqC.gif",
+    "title": "Seeker (demo)",
+    "video": "https://img.itch.zone/aW1nLzMwMzA0NTcuZ2lm/original/XR8qvs.gif",
+    "scrapeWords": [
+      "Seeker"
+    ]
+  },
+  {
     "author": "Juan",
     "description": null,
     "genre": "Adventure",
@@ -51364,6 +51325,24 @@
       "Black",
       "n",
       "White"
+    ]
+  },
+  {
+    "author": "BlacoInc",
+    "description": "A 2 players PvP with Fun and Platforms!",
+    "genre": "Action",
+    "id": "577935",
+    "link": "https://calboinc.itch.io/sorcerers-pvp",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDI4MzgucG5n/315x250%23c/mxVPA5.png",
+    "title": "Sorcerer's PvP",
+    "video": null,
+    "scrapeWords": [
+      "Sorcerers",
+      "Pv",
+      "P"
     ]
   },
   {
@@ -61540,28 +61519,6 @@
     ]
   },
   {
-    "author": "ThEnigmArtist",
-    "description": "2d single/co op action rpg mini game",
-    "genre": "Survival",
-    "id": "632689",
-    "link": "https://blackboxceo.itch.io/black-box-man-down",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0MzUwNjkuanBn/315x250%23c/hizsu0.jpg",
-    "title": "Man Down:  2 player co op version",
-    "video": null,
-    "scrapeWords": [
-      "Man",
-      "Down",
-      "2",
-      "player",
-      "co",
-      "op",
-      "version"
-    ]
-  },
-  {
     "author": "YeahTHATchucK",
     "description": "Guide a robot through the city, blasting bugs!",
     "genre": "Action",
@@ -62886,26 +62843,6 @@
     ]
   },
   {
-    "author": "ThEnigmArtist",
-    "description": "FREE in browser 2 player head to head mini game",
-    "genre": "Fighting",
-    "id": "640373",
-    "link": "https://blackboxceo.itch.io/black-box-operation-pandora-1pvs2p",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5Nzk3NjMucG5n/315x250%23c/JiT9nP.png",
-    "title": "FREE: Black Box- Operation Pandora (mini game)",
-    "video": null,
-    "scrapeWords": [
-      "FREE",
-      "Black",
-      "Box-",
-      "Operation",
-      "Pandora",
-      "mini",
-      "game"
-    ]
-  },
-  {
     "author": "Mi1k",
     "description": "Trig is a space shooter based mainly on player skill!",
     "genre": "Shooter",
@@ -63136,27 +63073,6 @@
     "video": "https://img.itch.zone/aW1nLzM0NjgxOTEuZ2lm/original/zS04ak.gif",
     "scrapeWords": [
       "Mailchain"
-    ]
-  },
-  {
-    "author": "ThEnigmArtist",
-    "description": "Game files for Windows/Pc",
-    "genre": "Survival",
-    "id": "641472",
-    "link": "https://blackboxceo.itch.io/black-box-survival-min-game-windows",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0MzQyMTQucG5n/315x250%23c/GbOjbU.png",
-    "title": "Black Box: Survival (mini game) - Windows",
-    "video": null,
-    "scrapeWords": [
-      "Black",
-      "Box",
-      "Survival",
-      "mini",
-      "game",
-      "Windows"
     ]
   },
   {
@@ -77188,6 +77104,25 @@
     ]
   },
   {
+    "author": "noaS",
+    "description": "Space Game",
+    "genre": "Adventure",
+    "id": "706731",
+    "link": "https://noa5.itch.io/space-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MDgyNTIucG5n/315x250%23c/uDo9Kf.png",
+    "title": "Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Game"
+    ]
+  },
+  {
     "author": "godsam",
     "description": "Get the particles and run",
     "genre": "Survival",
@@ -79255,6 +79190,24 @@
     "scrapeWords": [
       "Dino",
       "Jump"
+    ]
+  },
+  {
+    "author": "Fern&Dez",
+    "description": null,
+    "genre": null,
+    "id": "718805",
+    "link": "https://ferndez.itch.io/game-of-life",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5ODUwOTgucG5n/315x250%23c/R9%2BJ00.png",
+    "title": "Game of Life",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "of",
+      "Life"
     ]
   },
   {
@@ -87197,21 +87150,6 @@
     ]
   },
   {
-    "author": "Cleverzoid",
-    "description": "A action RPG prototype  inspired by The Legend of Zelda (NES)",
-    "genre": null,
-    "id": "751206",
-    "link": "https://cleverzoid.itch.io/simple-dungeon",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQxOTM0NDkuZ2lm/315x250%23cm/dEBf6T.gif",
-    "title": "Simple Dungeon",
-    "video": "https://img.itch.zone/aW1nLzQxOTM0NDkuZ2lm/original/rpWZTZ.gif",
-    "scrapeWords": [
-      "Simple",
-      "Dungeon"
-    ]
-  },
-  {
     "author": "Hell Games",
     "description": "A game made by Hell games",
     "genre": null,
@@ -89825,24 +89763,6 @@
     ]
   },
   {
-    "author": "penguish",
-    "description": null,
-    "genre": "Adventure",
-    "id": "764327",
-    "link": "https://penguish.itch.io/aeri-manis",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQyNzYyMTYucG5n/315x250%23c/s1F7vB.png",
-    "title": "Aeri Manis",
-    "video": null,
-    "scrapeWords": [
-      "Aeri",
-      "Manis"
-    ]
-  },
-  {
     "author": "Gamedevmike",
     "description": "This is my first Godot game for my YouTube channel!",
     "genre": "Platformer",
@@ -91202,7 +91122,7 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQzNzkxNDIucG5n/315x250%23c/rqCXhu.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2MzYzNDEucG5n/315x250%23c/1jfjdj.png",
     "title": "Ninja Yeti Maker",
     "video": null,
     "scrapeWords": [
@@ -99045,11 +98965,11 @@
     ]
   },
   {
-    "author": "Ebrahim666",
+    "author": "Ibrahim666",
     "description": "this game was made for the low effort game jam 4",
     "genre": "Platformer",
     "id": "818634",
-    "link": "https://ebrahim666.itch.io/cat-adventure",
+    "link": "https://ibrahim666.itch.io/cat-adventure",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1OTQ1NjkucG5n/315x250%23c/xZ8ENP.png",
     "title": "cat adventure",
@@ -99061,7 +98981,7 @@
   },
   {
     "author": "MenacingMecha",
-    "description": "Interactive gallery styled as a PS1 demo disc",
+    "description": "Interactive 3D gallery of my Inktober 2020 pieces, styled as a PS1 demo disc",
     "genre": null,
     "id": "818949",
     "link": "https://menacingmecha.itch.io/inktober-2020-demo-disc",
@@ -99451,7 +99371,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU0NjYyMDgucG5n/315x250%23c/cisU%2Ff.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2MzU1MzMucG5n/315x250%23c/DmkbQD.png",
     "title": "Super Vili",
     "video": null,
     "scrapeWords": [
@@ -99570,6 +99490,25 @@
     "video": null,
     "scrapeWords": [
       "Fiesta"
+    ]
+  },
+  {
+    "author": "TotobirdCreations",
+    "description": "Space game inspired from FTL.",
+    "genre": "Strategy",
+    "id": "821871",
+    "link": "https://totobirdcreations.itch.io/galactic-horizon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2MTY0MjMucG5n/315x250%23c/EcwcPi.png",
+    "title": "Galactic Horizon",
+    "video": null,
+    "scrapeWords": [
+      "Galactic",
+      "Horizon"
     ]
   },
   {
@@ -107091,6 +107030,26 @@
       "With",
       "That",
       "Stick"
+    ]
+  },
+  {
+    "author": "nad_labs",
+    "description": null,
+    "genre": "Strategy",
+    "id": "871907",
+    "link": "https://nad-labs.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
     ]
   },
   {
@@ -115297,26 +115256,6 @@
     ]
   },
   {
-    "author": "twodotsixk",
-    "description": "help an alien to escape from a laboratory cloning himself",
-    "genre": "Platformer",
-    "id": "924725",
-    "link": "https://twodotsixk.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyMjkxODgucG5n/315x250%23c/0SdS0C.png",
-    "title": "Escape The Lab",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Lab"
-    ]
-  },
-  {
     "author": "yokelpole",
     "description": "A Flappy Bird inspired space shooter",
     "genre": "Shooter",
@@ -118540,7 +118479,7 @@
     ]
   },
   {
-    "author": "TheoTheTorch",
+    "author": "Theo, the PowerFlame.",
     "description": "You fall down into a deep blue cave. You have to get out, by breaking the magic crystal.",
     "genre": "Platformer",
     "id": "940537",
@@ -120938,7 +120877,7 @@
   },
   {
     "author": "MenacingMecha",
-    "description": "Guide your wandering spirit back to the tree of life in this Mystery Dungeon-inspired roguelike!",
+    "description": "Mystery Dungeon-inspired roguelike for 7DRL2021",
     "genre": "Role Playing",
     "id": "956451",
     "link": "https://menacingmecha.itch.io/wildekin",
@@ -124135,6 +124074,23 @@
     ]
   },
   {
+    "author": "McLovinIt",
+    "description": null,
+    "genre": "Platformer",
+    "id": "978681",
+    "link": "https://mclovinit.itch.io/age-of-garb",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1NjA0NTUuZ2lm/315x250%23cm/epw%2B1G.gif",
+    "title": "The Age of Garb",
+    "video": "https://img.itch.zone/aW1nLzU1NjA0NTUuZ2lm/original/dSbLI8.gif",
+    "scrapeWords": [
+      "The",
+      "Age",
+      "of",
+      "Garb"
+    ]
+  },
+  {
     "author": "arialdead",
     "description": "ever wanted an autochess where there isn't 7 other players who goes for the same comp as you ?",
     "genre": "Card Game",
@@ -124656,7 +124612,7 @@
     "id": "982793",
     "link": "https://idlebum.itch.io/kanobu",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU1ODkzMjIuanBn/315x250%23c/puevBn.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzU2MzcwOTguanBn/315x250%23c/KerEGX.jpg",
     "title": "KaNoBu",
     "video": null,
     "scrapeWords": [
@@ -125008,6 +124964,38 @@
     ]
   },
   {
+    "author": "miscae",
+    "description": "Do you have what it takes to reach the end?",
+    "genre": "Puzzle",
+    "id": "985250",
+    "link": "https://miscae.itch.io/mindscape",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjczMDgucG5n/315x250%23c/0Qag2n.png",
+    "title": "Mindscape",
+    "video": null,
+    "scrapeWords": [
+      "Mindscape"
+    ]
+  },
+  {
+    "author": "Austin Long",
+    "description": "Try to take the king when your piece changes every move...",
+    "genre": "Puzzle",
+    "id": "985404",
+    "link": "https://xykra.itch.io/chetris",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MDYxNDEucG5n/315x250%23c/lmBNz8.png",
+    "title": "Chetris",
+    "video": null,
+    "scrapeWords": [
+      "Chetris"
+    ]
+  },
+  {
     "author": "Marcos Paulo",
     "description": "Jogo de tiro contra ondas infinitas de inimigos",
     "genre": "Action",
@@ -125119,6 +125107,42 @@
     ]
   },
   {
+    "author": "OsmiumForge",
+    "description": null,
+    "genre": "Fighting",
+    "id": "987347",
+    "link": "https://osmiumforge.itch.io/topdowndungeon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MzE0MjIucG5n/315x250%23c/0KPU0D.png",
+    "title": "Topdown dungeon game idk what to call it",
+    "video": null,
+    "scrapeWords": [
+      "Topdown",
+      "dungeon",
+      "game",
+      "idk",
+      "what",
+      "to",
+      "call",
+      "it"
+    ]
+  },
+  {
+    "author": "DJenderboi12",
+    "description": "This is a demo",
+    "genre": "Platformer",
+    "id": "987459",
+    "link": "https://djenderboi12.itch.io/volly-ball",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MTYyNDUucG5n/315x250%23c/oaIuZh.png",
+    "title": "Volly Ball",
+    "video": null,
+    "scrapeWords": [
+      "Volly",
+      "Ball"
+    ]
+  },
+  {
     "author": "SpaceScape20xx",
     "description": null,
     "genre": "Simulation",
@@ -125174,6 +125198,23 @@
     "scrapeWords": [
       "Spike",
       "Hell"
+    ]
+  },
+  {
+    "author": "FineamNeoStudio",
+    "description": "The original (now a demo) 1st game",
+    "genre": "Platformer",
+    "id": "987963",
+    "link": "https://fineamneostudio.itch.io/dgb-v10",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjE5OTMucG5n/315x250%23c/UIZbY%2F.png",
+    "title": "DGB v1.0",
+    "video": null,
+    "scrapeWords": [
+      "DGB",
+      "v10"
     ]
   },
   {
@@ -125294,6 +125335,104 @@
     "scrapeWords": [
       "Vape",
       "Escape"
+    ]
+  },
+  {
+    "author": "MxtApps",
+    "description": "An open-source 3D game about a dog that escapes from it's room...",
+    "genre": "Action",
+    "id": "990106",
+    "link": "https://mxtapps.itch.io/catch-the-dog",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MzQ3NDguZ2lm/315x250%23cm/8rejLk.gif",
+    "title": "Catch the dog",
+    "video": "https://img.itch.zone/aW1nLzU2MzQ3NDguZ2lm/original/3XGWSu.gif",
+    "scrapeWords": [
+      "Catch",
+      "the",
+      "dog"
+    ]
+  },
+  {
+    "author": "Sammy Fischer",
+    "description": "just a small prototype for a top down scrolling racing game.",
+    "genre": "Racing",
+    "id": "990221",
+    "link": "https://sammyf.itch.io/racing",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MzMyMzUucG5n/315x250%23c/blpo1n.png",
+    "title": "Racing Prototype",
+    "video": null,
+    "scrapeWords": [
+      "Racing",
+      "Prototype"
+    ]
+  },
+  {
+    "author": "stephen.gurnett",
+    "description": "Remake of an ancient joke game to practice Godot",
+    "genre": null,
+    "id": "990457",
+    "link": "https://stephengurnett.itch.io/satsuma-tosser",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MzUwMjAucG5n/315x250%23c/Af7BTY.png",
+    "title": "Satsuma Tosser",
+    "video": null,
+    "scrapeWords": [
+      "Satsuma",
+      "Tosser"
+    ]
+  },
+  {
+    "author": "Nizart",
+    "description": "my thrid game using godot",
+    "genre": "Action",
+    "id": "990460",
+    "link": "https://nizart.itch.io/dragon-drop",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MzQ4ODAucG5n/315x250%23c/mkOzw0.png",
+    "title": "Dragon Drop",
+    "video": null,
+    "scrapeWords": [
+      "Dragon",
+      "Drop"
+    ]
+  },
+  {
+    "author": "Halls_of_Fear",
+    "description": "Just Another Godot Study Platformer",
+    "genre": "Platformer",
+    "id": "990597",
+    "link": "https://halls-of-fear.itch.io/shitty-study-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MzU2NTUucG5n/315x250%23c/HbRqxq.png",
+    "title": "STG",
+    "video": null,
+    "scrapeWords": [
+      "STG"
+    ]
+  },
+  {
+    "author": "Minic 迷拟客",
+    "description": "simple roguelike dungeon explore",
+    "genre": "Adventure",
+    "id": "990641",
+    "link": "https://mimic-nix.itch.io/simple-dungeon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2MzU5NDcucG5n/315x250%23c/fiiClT.png",
+    "title": "Simple Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Simple",
+      "Dungeon"
     ]
   }
 ]
