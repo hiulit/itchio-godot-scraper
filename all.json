@@ -42629,17 +42629,16 @@
     ]
   },
   {
-    "author": "ShinyOlivia",
-    "description": "Submission for 49er Game Jam Fall 2019",
+    "author": "toastylilghosty",
+    "description": "Submission for Fall 49er Game Jam",
     "genre": "Shooter",
-    "id": "510332",
-    "link": "https://shinyolivia.itch.io/time-hackerz",
+    "id": "510313",
+    "link": "https://toastylilghosty.itch.io/time-hackerz",
     "platforms": [
       "Windows",
-      "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDk1NzcucG5n/315x250%23c/0cBz9o.png",
+    "thumb": "https://img.itch.zone/aW1nLzI2NDk1MDIucG5n/315x250%23c/mfae%2FU.png",
     "title": "time hackerz",
     "video": null,
     "scrapeWords": [
@@ -46727,26 +46726,6 @@
     ]
   },
   {
-    "author": "Thomdin",
-    "description": null,
-    "genre": "Shooter",
-    "id": "545458",
-    "link": "https://thomdin.itch.io/happy-little-trees",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI4NDg4MzQucG5n/315x250%23c/kUChiq.png",
-    "title": "Happy Little Trees",
-    "video": null,
-    "scrapeWords": [
-      "Happy",
-      "Little",
-      "Trees"
-    ]
-  },
-  {
     "author": "Dorthu",
     "description": "The story before the story of an adventure.",
     "genre": "Adventure",
@@ -50503,25 +50482,6 @@
       "TIME",
       "OF",
       "PLAGUE"
-    ]
-  },
-  {
-    "author": "Vsevolod Ganin",
-    "description": "Multiplayer Pong clone",
-    "genre": "Sports",
-    "id": "573119",
-    "link": "https://vsga.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -65217,25 +65177,6 @@
     ]
   },
   {
-    "author": "Joseph Cantrell",
-    "description": "Aim to offend the pillars of humanity's most sacred in this speedy 2D platform shooter parody.",
-    "genre": "Action",
-    "id": "653140",
-    "link": "https://josephcantrell14.itch.io/prophet-launcher",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1MDYwOTQucG5n/315x250%23c/13qRm%2F.png",
-    "title": "Prophet Launcher",
-    "video": null,
-    "scrapeWords": [
-      "Prophet",
-      "Launcher"
-    ]
-  },
-  {
     "author": "Wizard of Ox",
     "description": "Escape Medusa, collect items, be a real girl again",
     "genre": "Adventure",
@@ -76298,7 +76239,7 @@
     ]
   },
   {
-    "author": "Dev Wodsobe",
+    "author": "Dev Wodsobe™",
     "description": "Butter's not as good as you think",
     "genre": "Action",
     "id": "703116",
@@ -80567,6 +80508,25 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
+    ]
+  },
+  {
+    "author": "KennyTheBard",
+    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
+    "genre": "Sports",
+    "id": "727007",
+    "link": "https://kennythebard.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -107506,7 +107466,9 @@
     "genre": "Shooter",
     "id": "875253",
     "link": "https://voxelvoid.itch.io/quadremor",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUzMDQ4MDMucG5n/315x250%23c/q8PWd4.png",
     "title": "Quadremor",
     "video": null,
@@ -107550,6 +107512,25 @@
       "Alight",
       "LDjam",
       "46"
+    ]
+  },
+  {
+    "author": "zertuk",
+    "description": "A short metroidvania about a killer robot who learns to love~ 💕 Explore, defeat bosses, and gain the power of LOVE!",
+    "genre": "Platformer",
+    "id": "875694",
+    "link": "https://zertuk.itch.io/sj-19-learns-to-love",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjY5NjgucG5n/315x250%23c/zFMdH4.png",
+    "title": "SJ-19 Learns to Love! Demo",
+    "video": null,
+    "scrapeWords": [
+      "SJ-19",
+      "Learns",
+      "to",
+      "Love"
     ]
   },
   {
@@ -108023,6 +108004,22 @@
       "Path",
       "of",
       "Tengri"
+    ]
+  },
+  {
+    "author": "Omar Lamine Mezerreg",
+    "description": "Rolling ball game pc",
+    "genre": null,
+    "id": "878177",
+    "link": "https://omar-lamine-mezerreg.itch.io/rolling",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDI0MjgucG5n/315x250%23c/r8FILP.png",
+    "title": "Rolling",
+    "video": null,
+    "scrapeWords": [
+      "Rolling"
     ]
   },
   {
@@ -120323,6 +120320,7 @@
     "link": "https://lfmaster780.itch.io/ester-seeking-feelings",
     "platforms": [
       "Windows",
+      "Linux",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1NzgxNzIucG5n/315x250%23c/IbDsar.png",
@@ -123443,11 +123441,11 @@
     ]
   },
   {
-    "author": "zsozsozs",
+    "author": "zsoker",
     "description": "Make more money by utilizing gravity instead of fuel",
     "genre": "Action",
     "id": "972671",
-    "link": "https://zsozsozs.itch.io/gravity",
+    "link": "https://zsoker.itch.io/gravity",
     "platforms": [
       "Windows",
       "Linux",
@@ -123998,6 +123996,24 @@
     ]
   },
   {
+    "author": "KobaDesu",
+    "description": "Use the jet to dodge the lasers!",
+    "genre": "Survival",
+    "id": "977537",
+    "link": "https://kobadesu.itch.io/lazer-dodger",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1NTI2NzcucG5n/315x250%23c/K%2FuKyH.png",
+    "title": "Lazer Dodger",
+    "video": null,
+    "scrapeWords": [
+      "Lazer",
+      "Dodger"
+    ]
+  },
+  {
     "author": "MisterDude1337",
     "description": "INVASION OF CHEESE ALIEN",
     "genre": "Action",
@@ -124393,7 +124409,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU1ODA1NzgucG5n/315x250%23c/U4ygZF.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2Mzk1OTAucG5n/315x250%23c/ZiNeGV.png",
     "title": "Snow Brothers - A Fan Game",
     "video": null,
     "scrapeWords": [
@@ -124607,7 +124623,7 @@
   },
   {
     "author": "idlebum",
-    "description": "Fabulous arcade based on well-known game «Rock, Paper, Scissors»",
+    "description": "«Rock-Paper-Scissors» arcade with pickups, bonuses, randomness and even more!",
     "genre": null,
     "id": "982793",
     "link": "https://idlebum.itch.io/kanobu",
@@ -124664,6 +124680,26 @@
     "video": null,
     "scrapeWords": [
       "RPGOT"
+    ]
+  },
+  {
+    "author": "Finn Pickart",
+    "description": "You are lost in your own mind. You will get confronted with your past and your losses. Can you find a way out?",
+    "genre": "Adventure",
+    "id": "983020",
+    "link": "https://finn378.itch.io/deep-in-mind",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2NDAwNjIucG5n/315x250%23c/l2Xb7O.png",
+    "title": "Deep In Mind",
+    "video": null,
+    "scrapeWords": [
+      "Deep",
+      "In",
+      "Mind"
     ]
   },
   {
@@ -124894,24 +124930,6 @@
     ]
   },
   {
-    "author": "XaNslonko",
-    "description": "Dont Cick me is short crappy horror  i made in few mins for fun",
-    "genre": null,
-    "id": "984518",
-    "link": "https://springdev.itch.io/dont-click-me",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU1OTcxMjcuanBn/315x250%23c/wVHYzQ.jpg",
-    "title": "Dont Click Me",
-    "video": null,
-    "scrapeWords": [
-      "Dont",
-      "Click",
-      "Me"
-    ]
-  },
-  {
     "author": "llamabit",
     "description": "Avoid and collect!",
     "genre": null,
@@ -125066,6 +125084,25 @@
       "and",
       "Slime",
       "Update"
+    ]
+  },
+  {
+    "author": "steamknight",
+    "description": "Reclaim what is yours and escape your prison!",
+    "genre": "Adventure",
+    "id": "987063",
+    "link": "https://steamknight.itch.io/ankehotep",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MTM3NzMucG5n/315x250%23c/Nd%2B3HR.png",
+    "title": "Ankehotep's Prison",
+    "video": null,
+    "scrapeWords": [
+      "Ankehoteps",
+      "Prison"
     ]
   },
   {
@@ -125256,7 +125293,7 @@
   {
     "author": "hpnrep6",
     "description": "Explore wonderful things!",
-    "genre": "Puzzle",
+    "genre": "Adventure",
     "id": "988788",
     "link": "https://hpnrep6.itch.io/jay-jay-dating-sim-jay-jays-basement-of-fun",
     "platforms": [
@@ -125433,6 +125470,85 @@
     "scrapeWords": [
       "Simple",
       "Dungeon"
+    ]
+  },
+  {
+    "author": "coisef",
+    "description": "build as you want",
+    "genre": null,
+    "id": "991093",
+    "link": "https://coisef.itch.io/nulcraftfrhu",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MzkxODYucG5n/315x250%23c/2Q0TgR.png",
+    "title": "nulcraft",
+    "video": null,
+    "scrapeWords": [
+      "nulcraft"
+    ]
+  },
+  {
+    "author": "sterngames",
+    "description": "Dash across the sky",
+    "genre": "Platformer",
+    "id": "991158",
+    "link": "https://sterngames.itch.io/orbit-dash",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MzkyNzYucG5n/315x250%23c/R1T%2Bg4.png",
+    "title": "Orbit Dash",
+    "video": null,
+    "scrapeWords": [
+      "Orbit",
+      "Dash"
+    ]
+  },
+  {
+    "author": "ludrol",
+    "description": null,
+    "genre": "Simulation",
+    "id": "991292",
+    "link": "https://ludrol.itch.io/sometimes-you-just-need-to-move-couple-of-boxes",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2Mzk4MzgucG5n/315x250%23c/H%2BigMU.png",
+    "title": "Sometimes You Just Need To Move Couple Of Boxes",
+    "video": null,
+    "scrapeWords": [
+      "Sometimes",
+      "You",
+      "Just",
+      "Need",
+      "To",
+      "Move",
+      "Couple",
+      "Of",
+      "Boxes"
+    ]
+  },
+  {
+    "author": "Jesse",
+    "description": "An emulation of a dream",
+    "genre": "Simulation",
+    "id": "991771",
+    "link": "https://jeb495.itch.io/differential-geometry-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2NDI3NjkucG5n/315x250%23c/AK4gDY.png",
+    "title": "Differential Geometry",
+    "video": null,
+    "scrapeWords": [
+      "Differential",
+      "Geometry"
     ]
   }
 ]
