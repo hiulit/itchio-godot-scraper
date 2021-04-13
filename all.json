@@ -11524,6 +11524,24 @@
     ]
   },
   {
+    "author": "AniMerrill Productions",
+    "description": "The sole survivor in an icy climate, find a way to survive in the wilderness...",
+    "genre": "Survival",
+    "id": "270037",
+    "link": "https://animerrill.itch.io/stranded",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjcwMDM3LzEzMDQyMDQucG5n/315x250%23c/TptPgp.png",
+    "title": "Stranded",
+    "video": null,
+    "scrapeWords": [
+      "Stranded"
+    ]
+  },
+  {
     "author": "Robbie Cooper",
     "description": "Tetris with a melting mechanic",
     "genre": "Action",
@@ -39086,6 +39104,25 @@
     "scrapeWords": [
       "Bubbly",
       "Gubbly"
+    ]
+  },
+  {
+    "author": "Mariothedog",
+    "description": "Game I made for Trijam #36 which had the theme \"Power Up\".",
+    "genre": "Action",
+    "id": "483568",
+    "link": "https://mariothedog.itch.io/boss-fight",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTQzMTQucG5n/315x250%23c/aj07Cl.png",
+    "title": "Boss Fight",
+    "video": null,
+    "scrapeWords": [
+      "Boss",
+      "Fight"
     ]
   },
   {
@@ -78543,6 +78580,21 @@
     ]
   },
   {
+    "author": "Diogo Vernier",
+    "description": "Puzzle game in which you have to turn off all the lights",
+    "genre": "Puzzle",
+    "id": "714207",
+    "link": "https://diogo-vernier.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -94602,7 +94654,7 @@
     ]
   },
   {
-    "author": "Karamel (Cup'n Plate Games)",
+    "author": "Cup'n Plate Games",
     "description": "A 360° block breaker with hardcore scoring mechanics. Grab the keys and go to the next level.",
     "genre": "Action",
     "id": "787527",
@@ -107177,21 +107229,6 @@
     ]
   },
   {
-    "author": "mikepurdy",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "872636",
-    "link": "https://purdy.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Bedroom Coders",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -109410,14 +109447,14 @@
   },
   {
     "author": "Noiros",
-    "description": "Object Wars is a battle royal game, but you are an object ... fight other player and win the game !!",
+    "description": "Object Wars is a battle royal game, but you are an object ... fight other player and the last a life win the game !!",
     "genre": "Shooter",
     "id": "886249",
     "link": "https://noiros.itch.io/object-wars",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTY1MDcucG5n/315x250%23c/xpX2%2Bo.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2NTc3MTMucG5n/315x250%23c/BmLv6G.png",
     "title": "Object Wars",
     "video": null,
     "scrapeWords": [
@@ -118525,7 +118562,7 @@
     ]
   },
   {
-    "author": "Theo, the PowerFlame.",
+    "author": "TheoTheTorch",
     "description": "You fall down into a deep blue cave. You have to get out, by breaking the magic crystal.",
     "genre": "Platformer",
     "id": "940537",
@@ -120509,6 +120546,29 @@
     ]
   },
   {
+    "author": "Robotex",
+    "description": "С&C Red Alert for NES",
+    "genre": "Strategy",
+    "id": "954611",
+    "link": "https://robotex.itch.io/redalertnes",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2NTQ4NDIucG5n/315x250%23c/GDNmoz.png",
+    "title": "C&C Red Alert Demastered for NES",
+    "video": null,
+    "scrapeWords": [
+      "CC",
+      "Red",
+      "Alert",
+      "Demastered",
+      "for",
+      "NES"
+    ]
+  },
+  {
     "author": "acedron",
     "description": "A Gameplay Focused RPG.",
     "genre": "Role Playing",
@@ -121782,24 +121842,6 @@
     ]
   },
   {
-    "author": "Maestro",
-    "description": "A short puzzle-platformer",
-    "genre": "Platformer",
-    "id": "964102",
-    "link": "https://maestro313.itch.io/stranded",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0NzA0NDYucG5n/315x250%23c/yS0lE1.png",
-    "title": "Stranded",
-    "video": null,
-    "scrapeWords": [
-      "Stranded"
-    ]
-  },
-  {
     "author": "SnoozeTime",
     "description": "Escape from humans! An endless flyer where you need to go as far as possible",
     "genre": "Action",
@@ -121973,6 +122015,23 @@
     "scrapeWords": [
       "Buncat",
       "Recolored"
+    ]
+  },
+  {
+    "author": "KnightAdz",
+    "description": "Collect & play cards to defeat waves of enemies",
+    "genre": "Action",
+    "id": "964801",
+    "link": "https://knightadz.itch.io/deckbuild-arena",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NzQ5NjYucG5n/315x250%23c/TTfIYE.png",
+    "title": "Deckbuild Arena",
+    "video": null,
+    "scrapeWords": [
+      "Deckbuild",
+      "Arena"
     ]
   },
   {
@@ -124924,25 +124983,6 @@
     ]
   },
   {
-    "author": "Monkii Goes Boarding",
-    "description": "You can't stop moving in this fast paced twinstick-shooter boss fight!",
-    "genre": "Shooter",
-    "id": "984349",
-    "link": "https://monkii-man.itch.io/boss-fight",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU1OTY0NDUucG5n/315x250%23c/2qFnlI.png",
-    "title": "Boss Fight",
-    "video": null,
-    "scrapeWords": [
-      "Boss",
-      "Fight"
-    ]
-  },
-  {
     "author": "RedEye95",
     "description": "A game where you  control a drunk guy looking for beer while platforming",
     "genre": "Platformer",
@@ -125718,6 +125758,22 @@
       "a",
       "Telekinetic",
       "Monk"
+    ]
+  },
+  {
+    "author": "LuisMint",
+    "description": "You cant exist if you don't stay out of your own way, but nothing stands between you and TOUCHING YOURSELF",
+    "genre": "Platformer",
+    "id": "992955",
+    "link": "https://luismint.itch.io/dont-touch-yourself",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2NTI1NzMucG5n/315x250%23c/vRKb4G.png",
+    "title": "DONT TOUCH YOURSELF",
+    "video": null,
+    "scrapeWords": [
+      "DONT",
+      "TOUCH",
+      "YOURSELF"
     ]
   },
   {
