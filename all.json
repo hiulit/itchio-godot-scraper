@@ -16558,7 +16558,7 @@
     "description": "Help a slime couple survive and find their way home.",
     "genre": "Platformer",
     "id": "299931",
-    "link": "https://whyat1872.itch.io/slimedom-homeward-bound",
+    "link": "https://whyatt1872.itch.io/slimedom-homeward-bound",
     "platforms": [
       "Windows",
       "Linux",
@@ -21318,7 +21318,7 @@
     ]
   },
   {
-    "author": "LeandreLPP",
+    "author": "Léandre \"Youkool\" Le Polles--Potin",
     "description": "Submission for the Ludum Dare 43.",
     "genre": "Puzzle",
     "id": "339649",
@@ -37766,7 +37766,7 @@
     "description": null,
     "genre": "Survival",
     "id": "474724",
-    "link": "https://whyat1872.itch.io/slime-tile-dodge",
+    "link": "https://whyatt1872.itch.io/slime-tile-dodge",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0MzY5OTEucG5n/315x250%23c/KYiPqT.png",
     "title": "Slime: Spike Dodger",
@@ -39104,25 +39104,6 @@
     "scrapeWords": [
       "Bubbly",
       "Gubbly"
-    ]
-  },
-  {
-    "author": "Mariothedog",
-    "description": "Game I made for Trijam #36 which had the theme \"Power Up\".",
-    "genre": "Action",
-    "id": "483568",
-    "link": "https://mariothedog.itch.io/boss-fight",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0OTQzMTQucG5n/315x250%23c/aj07Cl.png",
-    "title": "Boss Fight",
-    "video": null,
-    "scrapeWords": [
-      "Boss",
-      "Fight"
     ]
   },
   {
@@ -42593,6 +42574,25 @@
     ]
   },
   {
+    "author": "Peter Wood",
+    "description": "A simple Space Game inspired by old PC space sims",
+    "genre": "Shooter",
+    "id": "509387",
+    "link": "https://peternatewood.itch.io/space-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2NDM2NzIucG5n/315x250%23c/YwwpO3.png",
+    "title": "Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Game"
+    ]
+  },
+  {
     "author": "jimmyjonezz",
     "description": null,
     "genre": "Shooter",
@@ -42665,16 +42665,17 @@
     ]
   },
   {
-    "author": "toastylilghosty",
-    "description": "Submission for Fall 49er Game Jam",
+    "author": "ShinyOlivia",
+    "description": "Submission for 49er Game Jam Fall 2019",
     "genre": "Shooter",
-    "id": "510313",
-    "link": "https://toastylilghosty.itch.io/time-hackerz",
+    "id": "510332",
+    "link": "https://shinyolivia.itch.io/time-hackerz",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NDk1MDIucG5n/315x250%23c/mfae%2FU.png",
+    "thumb": "https://img.itch.zone/aW1nLzI2NDk1NzcucG5n/315x250%23c/0cBz9o.png",
     "title": "time hackerz",
     "video": null,
     "scrapeWords": [
@@ -46603,25 +46604,6 @@
     ]
   },
   {
-    "author": "chr143",
-    "description": "Master a dynamic 2D tile based universe...​",
-    "genre": "Puzzle",
-    "id": "543603",
-    "link": "https://chr143.itch.io/project-chr143",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUzNzUyNzEucG5n/315x250%23c/7VqhuH.png",
-    "title": "Project CHR$(143)",
-    "video": null,
-    "scrapeWords": [
-      "Project",
-      "CHR143"
-    ]
-  },
-  {
     "author": "Niv 🦌",
     "description": "Collect stars in outer space!",
     "genre": "Platformer",
@@ -50538,6 +50520,25 @@
       "TIME",
       "OF",
       "PLAGUE"
+    ]
+  },
+  {
+    "author": "Vsevolod Ganin",
+    "description": "Multiplayer Pong clone",
+    "genre": "Sports",
+    "id": "573119",
+    "link": "https://vsga.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -66291,7 +66292,7 @@
   },
   {
     "author": "litedictteam",
-    "description": "Sturmgewher isometric shooter",
+    "description": "Sturmgewehr isometric shooter",
     "genre": "Shooter",
     "id": "658967",
     "link": "https://litedictteam.itch.io/sturmgewehr",
@@ -77163,25 +77164,6 @@
     ]
   },
   {
-    "author": "noaS",
-    "description": "Space Game",
-    "genre": "Adventure",
-    "id": "706731",
-    "link": "https://noa5.itch.io/space-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5MDgyNTIucG5n/315x250%23c/uDo9Kf.png",
-    "title": "Space Game",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Game"
-    ]
-  },
-  {
     "author": "godsam",
     "description": "Get the particles and run",
     "genre": "Survival",
@@ -78580,21 +78562,6 @@
     ]
   },
   {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -79710,29 +79677,6 @@
     ]
   },
   {
-    "author": "Hedi Dev Studio",
-    "description": null,
-    "genre": "Adventure",
-    "id": "722130",
-    "link": "https://hedi-dev-studio.itch.io/dora-hafsi-goken-storm-project-files-source-code",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0OTY1MDEucG5n/315x250%23c/081Lek.png",
-    "title": "Dora Hafsi : Goken Storm - Project files & Source code",
-    "video": null,
-    "scrapeWords": [
-      "Dora",
-      "Hafsi",
-      "Goken",
-      "Storm",
-      "Project",
-      "files",
-      "Source",
-      "code"
-    ]
-  },
-  {
     "author": "janjcl",
     "description": "This is a 2d shooter game with pixel art.",
     "genre": "Action",
@@ -80641,25 +80585,6 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
-    ]
-  },
-  {
-    "author": "KennyTheBard",
-    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
-    "genre": "Sports",
-    "id": "727007",
-    "link": "https://kennythebard.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -85129,7 +85054,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQxMjM0NjUucG5n/315x250%23c/GdcAFz.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2NjM2NTUucG5n/315x250%23c/1Khe5a.png",
     "title": "BLASTRONAUT",
     "video": null,
     "scrapeWords": [
@@ -85699,7 +85624,7 @@
     "description": "Help Hopper hop for his life",
     "genre": "Survival",
     "id": "743561",
-    "link": "https://whyat1872.itch.io/tile-hopper",
+    "link": "https://whyatt1872.itch.io/tile-hopper",
     "platforms": [
       "Android"
     ],
@@ -97957,7 +97882,7 @@
     "description": "Pitch pennies at your own peril",
     "genre": "Survival",
     "id": "808320",
-    "link": "https://whyat1872.itch.io/penny-pitcher",
+    "link": "https://whyatt1872.itch.io/penny-pitcher",
     "platforms": [
       "Windows"
     ],
@@ -100010,7 +99935,7 @@
     "description": "A quick and easy clicker game where you collect crafty crowns!",
     "genre": null,
     "id": "824208",
-    "link": "https://whyat1872.itch.io/crown-game",
+    "link": "https://whyatt1872.itch.io/crown-game",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2MTk5MTMucG5n/315x250%23c/ix1g1E.png",
     "title": "Crown Game",
@@ -107110,26 +107035,6 @@
     ]
   },
   {
-    "author": "nad_labs",
-    "description": null,
-    "genre": "Strategy",
-    "id": "871907",
-    "link": "https://nad-labs.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
-    "title": "Escape The Lab",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Lab"
-    ]
-  },
-  {
     "author": "GNamimates",
     "description": "among us",
     "genre": "Interactive Fiction",
@@ -107226,6 +107131,21 @@
     "video": null,
     "scrapeWords": [
       "Imoonity"
+    ]
+  },
+  {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
     ]
   },
   {
@@ -109191,7 +109111,7 @@
     "description": "I made pong in Godot",
     "genre": null,
     "id": "885402",
-    "link": "https://imred.itch.io/pong",
+    "link": "https://itsthatredperson.itch.io/pong",
     "platforms": [
       "Windows",
       "Linux"
@@ -115336,6 +115256,26 @@
       "Friends",
       "Dungeon",
       "Rescue"
+    ]
+  },
+  {
+    "author": "twodotsixk",
+    "description": "help an alien to escape from a laboratory cloning himself",
+    "genre": "Platformer",
+    "id": "924725",
+    "link": "https://twodotsixk.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMjkxODgucG5n/315x250%23c/0SdS0C.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
     ]
   },
   {
@@ -122069,6 +122009,24 @@
     ]
   },
   {
+    "author": "Clauveira",
+    "description": "Multiplayer project at Godot",
+    "genre": "Fighting",
+    "id": "964896",
+    "link": "https://clauveira.itch.io/champion-bash",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjA3NTkucG5n/315x250%23c/HXIddd.png",
+    "title": "[Alpha] Champion Bash",
+    "video": null,
+    "scrapeWords": [
+      "[Alpha]",
+      "Champion",
+      "Bash"
+    ]
+  },
+  {
     "author": "elektito",
     "description": "Short platformer about the Tin Man searching for his missing heart.",
     "genre": "Platformer",
@@ -124983,6 +124941,25 @@
     ]
   },
   {
+    "author": "Monkii Goes Boarding",
+    "description": "You can't stop moving in this fast paced twinstick-shooter boss fight!",
+    "genre": "Shooter",
+    "id": "984349",
+    "link": "https://monkii-man.itch.io/boss-fight",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1OTY0NDUucG5n/315x250%23c/2qFnlI.png",
+    "title": "Boss Fight",
+    "video": null,
+    "scrapeWords": [
+      "Boss",
+      "Fight"
+    ]
+  },
+  {
     "author": "RedEye95",
     "description": "A game where you  control a drunk guy looking for beer while platforming",
     "genre": "Platformer",
@@ -125031,7 +125008,6 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1OTg2MzUucG5n/315x250%23c/MMeaQa.png",
@@ -125317,7 +125293,7 @@
     "id": "987780",
     "link": "https://quhark.itch.io/brawnrend",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU2MjE0NzAucG5n/315x250%23c/RzXgqx.png",
+    "thumb": "https://img.itch.zone/aW1nLzU2NjUzMTgucG5n/315x250%23c/kxyyRI.png",
     "title": "Brawnrend(alpha)",
     "video": null,
     "scrapeWords": [
@@ -125516,6 +125492,24 @@
     ]
   },
   {
+    "author": "Medow",
+    "description": "Puppet themed Metroidvania",
+    "genre": "Adventure",
+    "id": "990198",
+    "link": "https://medow.itch.io/thread",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MzMxNjQucG5n/315x250%23c/ccALQH.png",
+    "title": "Thread",
+    "video": null,
+    "scrapeWords": [
+      "Thread"
+    ]
+  },
+  {
     "author": "Sammy Fischer",
     "description": "just a small prototype for a top down scrolling racing game.",
     "genre": "Racing",
@@ -125565,7 +125559,7 @@
     ]
   },
   {
-    "author": "freyhoe",
+    "author": "frey",
     "description": "your banana pie has gone missing",
     "genre": "Platformer",
     "id": "990548",
@@ -125777,6 +125771,22 @@
     ]
   },
   {
+    "author": "NomuraSan123",
+    "description": "i used this art kit: https://www.kenney.nl/assets/micro-roguelike",
+    "genre": "Role Playing",
+    "id": "992976",
+    "link": "https://nomurasan123.itch.io/godottopdownrpg",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2NDk1NzAucG5n/315x250%23c/3kDIuL.png",
+    "title": "GodotTopdownRPG",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Topdown",
+      "RPG"
+    ]
+  },
+  {
     "author": "CrashApe",
     "description": "Drag form on same form/color",
     "genre": null,
@@ -125854,6 +125864,41 @@
       "Hoppy",
       "Days",
       "beta"
+    ]
+  },
+  {
+    "author": "cursedROM",
+    "description": "An atmospheric horror game, inspired by black and white movies and liminal spaces.",
+    "genre": null,
+    "id": "995568",
+    "link": "https://cursedrom-8.itch.io/visitor",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2NjY4ODYuZ2lm/315x250%23cm/Ig0hL%2F.gif",
+    "title": "Visitor",
+    "video": "https://img.itch.zone/aW1nLzU2NjY4ODYuZ2lm/original/wo02h8.gif",
+    "scrapeWords": [
+      "Visitor"
+    ]
+  },
+  {
+    "author": "Bluestarr52",
+    "description": null,
+    "genre": "Shooter",
+    "id": "995974",
+    "link": "https://bluestarr-games.itch.io/neon-ships",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2Njc3OTYucG5n/315x250%23c/ezJPOC.png",
+    "title": "Neon Ships",
+    "video": null,
+    "scrapeWords": [
+      "Neon",
+      "Ships"
     ]
   }
 ]
