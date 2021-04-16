@@ -6,6 +6,8 @@ A scraper for Godot games hosted on https://itch.io/.
 
 https://itchio-godot-scraper.now.sh
 
+Auto updated every day at 12:00 CET.
+
 ## Usage
 
 - `/api` - Get all the games.
