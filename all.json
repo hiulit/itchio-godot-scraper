@@ -266,6 +266,24 @@
     ]
   },
   {
+    "author": "lukewardford",
+    "description": "Another abstract game where you need to solve puzzles while fight enemies.",
+    "genre": "Puzzle",
+    "id": "1001902",
+    "link": "https://lukewardford.itch.io/yeol",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MDI3MzYucG5n/315x250%23c/eOcMKw.png",
+    "title": "Yeol",
+    "video": null,
+    "scrapeWords": [
+      "Yeol"
+    ]
+  },
+  {
     "author": "Vault Kid",
     "description": "An very easy and extremly relaxing Space Shooting game",
     "genre": "Shooter",
@@ -318,6 +336,24 @@
     "scrapeWords": [
       "Missile",
       "Dodge"
+    ]
+  },
+  {
+    "author": "MIOpia",
+    "description": "A minigame collection featuring six wacky games AT THE SAME TIME.",
+    "genre": "Action",
+    "id": "1002140",
+    "link": "https://miopia.itch.io/monitorium",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MDQ1MzMucG5n/315x250%23c/RLWbmV.png",
+    "title": "Monitorium",
+    "video": null,
+    "scrapeWords": [
+      "Monitorium"
     ]
   },
   {
@@ -531,6 +567,42 @@
       "in",
       "Space",
       "2"
+    ]
+  },
+  {
+    "author": "Cearáj",
+    "description": "Bugs rule the world.",
+    "genre": null,
+    "id": "1003045",
+    "link": "https://cearaj.itch.io/bug-spreader",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3MTAwMTYucG5n/315x250%23c/aeUyto.png",
+    "title": "Bug Spreader",
+    "video": null,
+    "scrapeWords": [
+      "Bug",
+      "Spreader"
+    ]
+  },
+  {
+    "author": "Benjamin Mai",
+    "description": "This isn't your Classic Space Invaders. You are in for a challenge!",
+    "genre": "Action",
+    "id": "1004358",
+    "link": "https://bcmai.itch.io/spaceinvader2k21",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MTkzMjQucG5n/315x250%23c/3Ea5dd.png",
+    "title": "Space Invader 2k21 (Playtest#1)",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Invader",
+      "2k21",
+      "Playtest1"
     ]
   },
   {
@@ -32537,6 +32609,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -39604,25 +39694,6 @@
     "scrapeWords": [
       "Bubbly",
       "Gubbly"
-    ]
-  },
-  {
-    "author": "Mariothedog",
-    "description": "Game I made for Trijam #36 which had the theme \"Power Up\".",
-    "genre": "Action",
-    "id": "483568",
-    "link": "https://mariothedog.itch.io/boss-fight",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0OTQzMTQucG5n/315x250%23c/aj07Cl.png",
-    "title": "Boss Fight",
-    "video": null,
-    "scrapeWords": [
-      "Boss",
-      "Fight"
     ]
   },
   {
@@ -79113,21 +79184,6 @@
     ]
   },
   {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
-    ]
-  },
-  {
     "author": "Measurable Harm Studio",
     "description": "Do something, it's on fire.",
     "genre": "Action",
@@ -91146,6 +91202,26 @@
     ]
   },
   {
+    "author": "Zhangir Nurmukhambetov",
+    "description": "Collect stamps on time!",
+    "genre": "Action",
+    "id": "767804",
+    "link": "https://xanthosware.itch.io/delman-1920",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzMDA2MDUucG5n/315x250%23c/dW%2Bw8G.png",
+    "title": "Delman 1920 (VimJam Submission)",
+    "video": null,
+    "scrapeWords": [
+      "Delman",
+      "1920",
+      "Vim",
+      "Jam",
+      "Submission"
+    ]
+  },
+  {
     "author": "SeaLiteral",
     "description": "A short game about retrieveing discs left behind when moving to a new home",
     "genre": "Platformer",
@@ -100621,23 +100697,6 @@
     ]
   },
   {
-    "author": "Root",
-    "description": null,
-    "genre": null,
-    "id": "825738",
-    "link": "https://drootdev.itch.io/spaceball",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MzI5MjEucG5n/315x250%23c/SgmSmb.png",
-    "title": "SpaceBall",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Ball"
-    ]
-  },
-  {
     "author": "20kdc",
     "description": "A puzzle game half about gravity and not quite about physics.",
     "genre": "Puzzle",
@@ -100730,11 +100789,11 @@
     ]
   },
   {
-    "author": "adrianbelmont",
+    "author": "arbitraryarbitrary",
     "description": "A small physics based adventure game, evolved out of our 2020 Game Jam.",
     "genre": "Action",
     "id": "826472",
-    "link": "https://adrianbelmont.itch.io/gravity-blade",
+    "link": "https://arbitraryarbitrary.itch.io/gravity-blade",
     "platforms": [
       "Windows"
     ],
@@ -103179,6 +103238,20 @@
     "video": null,
     "scrapeWords": [
       "STARPEW"
+    ]
+  },
+  {
+    "author": "parkurist",
+    "description": "2D BaseDefense Survival Game",
+    "genre": "Survival",
+    "id": "840723",
+    "link": "https://parkurist.itch.io/frost",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1MDM1NjQucG5n/315x250%23c/NrQUzW.png",
+    "title": "Frost",
+    "video": null,
+    "scrapeWords": [
+      "Frost"
     ]
   },
   {
@@ -107678,6 +107751,21 @@
     ]
   },
   {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Bedroom Coders",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -109610,7 +109698,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU2Nzk0OTIucG5n/315x250%23c/a%2Bo8hN.png",
+    "thumb": "https://img.itch.zone/aW1nLzU3MTcxMTQucG5n/315x250%23c/4aiA1H.png",
     "title": "CUBEY!™",
     "video": null,
     "scrapeWords": [
@@ -119761,21 +119849,6 @@
     ]
   },
   {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
-    ]
-  },
-  {
     "author": "Escada Games",
     "description": "Asteroids with special relativity",
     "genre": "Shooter",
@@ -119965,10 +120038,7 @@
     "genre": "Puzzle",
     "id": "946897",
     "link": "https://derangedturtlegames.itch.io/trihard",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU1MDExOTMucG5n/315x250%23c/A9p1Um.png",
     "title": "TriHard",
     "video": null,
@@ -120854,11 +120924,11 @@
     ]
   },
   {
-    "author": "lfmaster780",
-    "description": "Roguelike",
+    "author": "AnuGameStudio",
+    "description": "Roguelike, Sci-fi",
     "genre": "Strategy",
     "id": "953637",
-    "link": "https://lfmaster780.itch.io/ester-seeking-feelings",
+    "link": "https://anugamestudio.itch.io/ester-seeking-feelings",
     "platforms": [
       "Windows",
       "Linux",
@@ -122562,10 +122632,8 @@
     "genre": "Fighting",
     "id": "964896",
     "link": "https://clauveira.itch.io/champion-bash",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU2MjA3NTkucG5n/315x250%23c/HXIddd.png",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3MTg4OTEucG5n/315x250%23c/o1vezd.png",
     "title": "[Alpha] Champion Bash",
     "video": null,
     "scrapeWords": [
@@ -123476,7 +123544,7 @@
   },
   {
     "author": "JPCard",
-    "description": "A puzzle game where you will paint flags of countries.",
+    "description": "A puzzle game where you will paint national flags.",
     "genre": "Educational",
     "id": "968198",
     "link": "https://jpcard.itch.io/flagr",
@@ -125299,6 +125367,20 @@
     ]
   },
   {
+    "author": "trashbait",
+    "description": "short game made for a game jam",
+    "genre": "Platformer",
+    "id": "982632",
+    "link": "https://trashbait.itch.io/donut",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1OTQ1MTUucG5n/315x250%23c/EhCXXG.png",
+    "title": "donut",
+    "video": null,
+    "scrapeWords": [
+      "donut"
+    ]
+  },
+  {
     "author": "Escada Games",
     "description": "Protect a small planet from invasors",
     "genre": "Strategy",
@@ -125604,6 +125686,25 @@
     "scrapeWords": [
       "Saturn",
       "Jumper"
+    ]
+  },
+  {
+    "author": "Monkii Goes Boarding",
+    "description": "You can't stop moving in this fast paced twinstick-shooter boss fight!",
+    "genre": "Shooter",
+    "id": "984349",
+    "link": "https://monkii-man.itch.io/boss-fight",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1OTY0NDUucG5n/315x250%23c/2qFnlI.png",
+    "title": "Boss Fight",
+    "video": null,
+    "scrapeWords": [
+      "Boss",
+      "Fight"
     ]
   },
   {
