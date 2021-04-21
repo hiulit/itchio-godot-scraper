@@ -21,7 +21,9 @@
     "id": "1000178",
     "link": "https://urodela.itch.io/queen-of-gnomes",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3MDY1MjYucG5n/315x250%23c/pgrZgQ.png",
     "title": "Queen of Gnomes",
@@ -169,7 +171,11 @@
     "genre": "Platformer",
     "id": "1001575",
     "link": "https://kreeko.itch.io/toxic-trial",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU3MDAzMzQucG5n/315x250%23c/UeTt%2Bz.png",
     "title": "Toxic Trial",
     "video": null,
@@ -302,6 +308,26 @@
       "Relaxing",
       "Space",
       "Shooter"
+    ]
+  },
+  {
+    "author": "Paspartout",
+    "description": "Defend the divine tree by placing only 7 towers at once!",
+    "genre": "Strategy",
+    "id": "1002016",
+    "link": "https://paspartout.itch.io/the-tower-forest",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MDQyNzUuanBn/315x250%23c/eQS%2F0k.jpg",
+    "title": "The Tower Forest",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Tower",
+      "Forest"
     ]
   },
   {
@@ -442,6 +468,24 @@
     ]
   },
   {
+    "author": "geojax",
+    "description": null,
+    "genre": "Action",
+    "id": "1002408",
+    "link": "https://geojax.itch.io/stolen-sevenths",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MDYzNjUucG5n/315x250%23c/qQiPvq.png",
+    "title": "The Stolen Sevenths",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Stolen",
+      "Sevenths"
+    ]
+  },
+  {
     "author": "Exuin",
     "description": "oh no i ran out of time",
     "genre": "Puzzle",
@@ -575,7 +619,9 @@
     "genre": null,
     "id": "1003045",
     "link": "https://cearaj.itch.io/bug-spreader",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU3MTAwMTYucG5n/315x250%23c/aeUyto.png",
     "title": "Bug Spreader",
     "video": null,
@@ -603,6 +649,72 @@
       "Invader",
       "2k21",
       "Playtest1"
+    ]
+  },
+  {
+    "author": "5MagicalFive5",
+    "description": "A 2d Platformer game created in Godot with GDscript.",
+    "genre": "Platformer",
+    "id": "1004647",
+    "link": "https://5magicalfive5.itch.io/melon-hunter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3MjEyMjEucG5n/315x250%23c/26pFjR.png",
+    "title": "Melon Hunter",
+    "video": null,
+    "scrapeWords": [
+      "Melon",
+      "Hunter"
+    ]
+  },
+  {
+    "author": "Synzorasize",
+    "description": "No goal in particular, but you can spam a bunch of silver bullets.",
+    "genre": "Shooter",
+    "id": "1005248",
+    "link": "https://synzorasize.itch.io/silverbullet-bullet-hell",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3MjU0MzAucG5n/315x250%23c/hah6wn.png",
+    "title": "SilverBullet (Bullet Hell!)",
+    "video": null,
+    "scrapeWords": [
+      "Silver",
+      "Bullet",
+      "Bullet",
+      "Hell"
+    ]
+  },
+  {
+    "author": "nammflow",
+    "description": "Because you want to roll dice- with physical dice, but digitally.",
+    "genre": "Simulation",
+    "id": "1005536",
+    "link": "https://nammflow.itch.io/dice-roller",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3MjcyNTQucG5n/315x250%23c/Hwl3xR.png",
+    "title": "Dice Roller",
+    "video": null,
+    "scrapeWords": [
+      "Dice",
+      "Roller"
+    ]
+  },
+  {
+    "author": "MumuNiMochii",
+    "description": "Improved main menu, buttons, and animations graphics.",
+    "genre": "Platformer",
+    "id": "1005685",
+    "link": "https://mumunimochii.itch.io/starr-and-monsters-gui-scenes-and-animation",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3MjgwMzQuZ2lm/315x250%23cm/KfqlIB.gif",
+    "title": "Starr & Monsters - GUI, Scenes, and Animation",
+    "video": "https://img.itch.zone/aW1nLzU3MjgwMzQuZ2lm/original/uKLm2t.gif",
+    "scrapeWords": [
+      "Starr",
+      "Monsters",
+      "GUI",
+      "Scenes",
+      "and",
+      "Animation"
     ]
   },
   {
@@ -50502,21 +50614,6 @@
     ]
   },
   {
-    "author": "Everyman",
-    "description": "Save the cookies from dunking into the Milky Way!",
-    "genre": "Platformer",
-    "id": "568138",
-    "link": "https://everyman.itch.io/milkyway",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI5ODUyMzUucG5n/315x250%23c/7auSri.png",
-    "title": "Milky Way",
-    "video": null,
-    "scrapeWords": [
-      "Milky",
-      "Way"
-    ]
-  },
-  {
     "author": "LABORIOUS REX",
     "description": "Throw the map at your friends! ( + FREE DEMO )",
     "genre": "Platformer",
@@ -61038,24 +61135,6 @@
       "Gunner",
       "Asteroid",
       "Cleanup"
-    ]
-  },
-  {
-    "author": "Hashbee",
-    "description": "No textures contain more than two colours, and all colours are an opacity of black, or just white.",
-    "genre": null,
-    "id": "627178",
-    "link": "https://hashbee.itch.io/two-colours-hashbee",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMzNDM0NjMucG5n/315x250%23c/lhy4hP.png",
-    "title": "\"Two Colours\" Hashbee",
-    "video": null,
-    "scrapeWords": [
-      "Two",
-      "Colours",
-      "Hashbee"
     ]
   },
   {
@@ -88889,7 +88968,7 @@
     ]
   },
   {
-    "author": "Anderson Alvarenga",
+    "author": "atmozzie",
     "description": "Jogo feito no Godot Engine e disponível no Google Play Store",
     "genre": "Shooter",
     "id": "756161",
@@ -96194,6 +96273,21 @@
     ]
   },
   {
+    "author": "USBRODI GAMES",
+    "description": "Protect, kill and escape! Your wife needs milk!",
+    "genre": null,
+    "id": "794995",
+    "link": "https://usbrodi-games.itch.io/milky-way",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ0NjUyNDMucG5n/315x250%23c/fHKFGX.png",
+    "title": "Milky Way",
+    "video": null,
+    "scrapeWords": [
+      "Milky",
+      "Way"
+    ]
+  },
+  {
     "author": "rickbala",
     "description": null,
     "genre": "Platformer",
@@ -102119,7 +102213,7 @@
     "link": "https://zentzuken.itch.io/daemonic",
     "platforms": [
       "Windows",
-      "Linux"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwODY4NjAucG5n/315x250%23c/9ypw93.png",
     "title": "Daemonic",
@@ -104270,22 +104364,6 @@
     "scrapeWords": [
       "Scardy",
       "Godot"
-    ]
-  },
-  {
-    "author": "fortythreesam",
-    "description": "Find out what happened",
-    "genre": "Interactive Fiction",
-    "id": "849030",
-    "link": "https://fortythreesam.itch.io/megawastelandthree",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3NjAzMDgucG5n/315x250%23c/KnPK9U.png",
-    "title": "MegaWastelandThree",
-    "video": null,
-    "scrapeWords": [
-      "Mega",
-      "Wasteland",
-      "Three"
     ]
   },
   {
@@ -111551,7 +111629,7 @@
   },
   {
     "author": "iwilliams",
-    "description": "Explore a procedurally generated dungeon, collect loot, and fight skeletons!",
+    "description": "Fight skeletons, explore a procedurally generated dungeon, and collect loot!",
     "genre": "Action",
     "id": "896956",
     "link": "https://iwilliams.itch.io/fiends-isle-demo",
@@ -116566,11 +116644,11 @@
     ]
   },
   {
-    "author": "bxg",
+    "author": "sleepwitch",
     "description": "Make your way through hazardous spikes and pits in this VVVVVV inspired puzzle platformer",
     "genre": "Platformer",
     "id": "928427",
-    "link": "https://bxxg.itch.io/square-up",
+    "link": "https://sleepwitch.itch.io/square-up",
     "platforms": [
       "Windows"
     ],
@@ -119557,7 +119635,7 @@
     ]
   },
   {
-    "author": "Anderson Alvarenga",
+    "author": "atmozzie",
     "description": "Jogo feito na Global Game Jam 2021 usando Godot Engine",
     "genre": "Adventure",
     "id": "943365",
@@ -120038,7 +120116,10 @@
     "genre": "Puzzle",
     "id": "946897",
     "link": "https://derangedturtlegames.itch.io/trihard",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU1MDExOTMucG5n/315x250%23c/A9p1Um.png",
     "title": "TriHard",
     "video": null,
@@ -125699,7 +125780,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU1OTY0NDUucG5n/315x250%23c/2qFnlI.png",
+    "thumb": "https://img.itch.zone/aW1nLzU3MjY1MDQucG5n/315x250%23c/UMbzeJ.png",
     "title": "Boss Fight",
     "video": null,
     "scrapeWords": [
@@ -126037,7 +126118,10 @@
     "genre": "Simulation",
     "id": "987705",
     "link": "https://snowysierra.itch.io/endless-thief",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU2MTg0MDYucG5n/315x250%23c/94VeJA.png",
     "title": "Endless Thief: a furry stealth adventure",
     "video": null,
