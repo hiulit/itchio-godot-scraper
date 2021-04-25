@@ -717,6 +717,24 @@
     ]
   },
   {
+    "author": "Maugrift",
+    "description": "A tiny medieval city builder",
+    "genre": "Strategy",
+    "id": "1003723",
+    "link": "https://maugrift.itch.io/minieval",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NTA4NjEucG5n/315x250%23c/kQQUDx.png",
+    "title": "Minieval",
+    "video": null,
+    "scrapeWords": [
+      "Minieval"
+    ]
+  },
+  {
     "author": "Hadospy",
     "description": "Puzzle game for BW GameJam",
     "genre": "Puzzle",
@@ -749,6 +767,24 @@
     ]
   },
   {
+    "author": "kintrix",
+    "description": "It's to kill or be killed... by the timer",
+    "genre": "Action",
+    "id": "1004032",
+    "link": "https://kintrix.itch.io/neobum",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NDgzNzkucG5n/315x250%23c/MJxI3v.png",
+    "title": "Neobum",
+    "video": null,
+    "scrapeWords": [
+      "Neobum"
+    ]
+  },
+  {
     "author": "Benjamin Mai",
     "description": "This isn't your Classic Space Invaders. You are in for a challenge!",
     "genre": "Action",
@@ -770,13 +806,31 @@
     ]
   },
   {
+    "author": "Jaacko Torus",
+    "description": "Find your way through different spaces",
+    "genre": "Adventure",
+    "id": "1004419",
+    "link": "https://jaacko-torus.itch.io/find-your-space",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NTgwODYucG5n/315x250%23c/pOmAze.png",
+    "title": "Find Your Space",
+    "video": null,
+    "scrapeWords": [
+      "Find",
+      "Your",
+      "Space"
+    ]
+  },
+  {
     "author": "erSt",
     "description": "Fast paced roguelike to kill some time",
     "genre": "Role Playing",
     "id": "1004538",
     "link": "https://erst.itch.io/one-last-quest",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU3NDE1NjUucG5n/315x250%23c/mNvEt0.png",
+    "thumb": "https://img.itch.zone/aW1nLzU3NTgyNzMucG5n/315x250%23c/u1cmbD.png",
     "title": "One Last Quest!",
     "video": null,
     "scrapeWords": [
@@ -1191,6 +1245,23 @@
     ]
   },
   {
+    "author": "Brain Jar",
+    "description": "Hack n Slash Wizard Style",
+    "genre": "Action",
+    "id": "1008714",
+    "link": "https://brainjar.itch.io/hellstar",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NjMyMjcucG5n/315x250%23c/P2Hcl%2B.png",
+    "title": "HellStar",
+    "video": null,
+    "scrapeWords": [
+      "Hell",
+      "Star"
+    ]
+  },
+  {
     "author": "XEGRAND",
     "description": "CLASSIC 2D PLATFORMER",
     "genre": "Platformer",
@@ -1257,6 +1328,142 @@
     "video": null,
     "scrapeWords": [
       "idk-coder"
+    ]
+  },
+  {
+    "author": "GarterSnake508",
+    "description": "A video game of the fantasy, The Book of the Dun Cow.",
+    "genre": "Platformer",
+    "id": "1010534",
+    "link": "https://gartersnake508.itch.io/the-book-of-the-dun-cow",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NTc0MDgucG5n/315x250%23c/mfGNFZ.png",
+    "title": "The Book of the Dun Cow",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Book",
+      "of",
+      "the",
+      "Dun",
+      "Cow"
+    ]
+  },
+  {
+    "author": "DenverA",
+    "description": "This is a top-down-racegame it is in an early fase.",
+    "genre": "Racing",
+    "id": "1010668",
+    "link": "https://denvera.itch.io/top-down-racegame",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NTgxNzYucG5n/315x250%23c/DVT%2FSx.png",
+    "title": "top down racegame",
+    "video": null,
+    "scrapeWords": [
+      "top",
+      "down",
+      "racegame"
+    ]
+  },
+  {
+    "author": "MeowMooGames",
+    "description": "Sneak through enemy strongholds and save the world from your evil clones",
+    "genre": "Shooter",
+    "id": "1010792",
+    "link": "https://meowmoogames.itch.io/davids-clone-catastrophe",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NTg5ODYucG5n/315x250%23c/lQZ90A.png",
+    "title": "David's Clone Catastrophe",
+    "video": null,
+    "scrapeWords": [
+      "Davids",
+      "Clone",
+      "Catastrophe"
+    ]
+  },
+  {
+    "author": "Delentor",
+    "description": "#BWJam",
+    "genre": "Platformer",
+    "id": "1010861",
+    "link": "https://delentor.itch.io/jump",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NTk1MjEuanBn/315x250%23c/dCYm4B.jpg",
+    "title": "Jump!",
+    "video": null,
+    "scrapeWords": [
+      "Jump"
+    ]
+  },
+  {
+    "author": "Jonah Amos",
+    "description": "Advanced physics toybox",
+    "genre": "Simulation",
+    "id": "1011126",
+    "link": "https://jonah-amos.itch.io/plastix",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NjEwMTIucG5n/315x250%23c/j3JRR4.png",
+    "title": "Plastix",
+    "video": null,
+    "scrapeWords": [
+      "Plastix"
+    ]
+  },
+  {
+    "author": "defective_toast",
+    "description": "Avoid being seen by enemies and keep your control",
+    "genre": "Strategy",
+    "id": "1011397",
+    "link": "https://defective-toast.itch.io/dont-lose-control",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NjI1NTEucG5n/315x250%23c/QSajy%2B.png",
+    "title": "Don't lose control",
+    "video": null,
+    "scrapeWords": [
+      "Dont",
+      "lose",
+      "control"
+    ]
+  },
+  {
+    "author": "Future Games",
+    "description": "Jeff Jones, secret agent",
+    "genre": "Action",
+    "id": "1011430",
+    "link": "https://future-games.itch.io/743-names",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NjI2ODQucG5n/315x250%23c/j1ieWS.png",
+    "title": "743 names",
+    "video": null,
+    "scrapeWords": [
+      "743",
+      "names"
+    ]
+  },
+  {
+    "author": "payne43",
+    "description": "Game of fighting farmers for gain the biggest land",
+    "genre": "Puzzle",
+    "id": "1011570",
+    "link": "https://payne43.itch.io/waroffields",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NjM2NjgucG5n/315x250%23c/NU9tg6.png",
+    "title": "WarOfFields",
+    "video": null,
+    "scrapeWords": [
+      "War",
+      "Of",
+      "Fields"
     ]
   },
   {
@@ -22871,25 +23078,6 @@
     ]
   },
   {
-    "author": "polycement",
-    "description": "A game about sacrifice, made for Ludum Dare 43",
-    "genre": "Action",
-    "id": "340687",
-    "link": "https://polycement.itch.io/blood-and-loss",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE2ODgyNTIucG5n/315x250%23c/Le7cn3.png",
-    "title": "Blood & Loss",
-    "video": null,
-    "scrapeWords": [
-      "Blood",
-      "Loss"
-    ]
-  },
-  {
     "author": "John Croisant",
     "description": "A very subtle social commentary game (LD43)",
     "genre": "Platformer",
@@ -30578,6 +30766,26 @@
     ]
   },
   {
+    "author": "Bakenshake",
+    "description": "The spirit of the forest will not tolerate invaders...",
+    "genre": "Action",
+    "id": "414059",
+    "link": "https://bakenshake09.itch.io/force-of-nature",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIwNTk3MDUucG5n/315x250%23c/4wf9Z7.png",
+    "title": "Force of Nature",
+    "video": null,
+    "scrapeWords": [
+      "Force",
+      "of",
+      "Nature"
+    ]
+  },
+  {
     "author": "tomatenbrei",
     "description": "Multiplayer arena shooter with currency theme (created for Ludum Dare 44)",
     "genre": "Shooter",
@@ -36336,9 +36544,7 @@
     "genre": null,
     "id": "461027",
     "link": "https://drillur.itch.io/lored",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQwMzMxNDEucG5n/315x250%23c/bV%2BnOo.png",
     "title": "LORED",
     "video": null,
@@ -73305,11 +73511,11 @@
     ]
   },
   {
-    "author": "CaptainSwing817",
+    "author": "Godot Power",
     "description": "Fly like a paper bird.",
     "genre": "Simulation",
     "id": "690948",
-    "link": "https://captainswing817.itch.io/target-craft",
+    "link": "https://godotpower.itch.io/target-craft",
     "platforms": [
       "Windows",
       "Linux",
@@ -107648,22 +107854,6 @@
     ]
   },
   {
-    "author": "horhorou",
-    "description": "Holsens is a submission for the Completion Jam hosted by Deynum on December 2020.",
-    "genre": "Platformer",
-    "id": "867741",
-    "link": "https://horhorou.itch.io/holsens",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4ODk0MzMucG5n/315x250%23c/p4LiZ%2B.png",
-    "title": "Holsens",
-    "video": null,
-    "scrapeWords": [
-      "Holsens"
-    ]
-  },
-  {
     "author": "First Slime Games",
     "description": null,
     "genre": "Puzzle",
@@ -108808,7 +108998,9 @@
     "link": "https://love4retro.itch.io/solstice",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MzU2OTYucG5n/315x250%23c/dLrqCn.png",
     "title": "Solstice",
@@ -117245,23 +117437,6 @@
     "video": null,
     "scrapeWords": [
       "Soloband"
-    ]
-  },
-  {
-    "author": "sleepwitch",
-    "description": "Make your way through hazardous spikes and pits in this VVVVVV inspired puzzle platformer",
-    "genre": "Platformer",
-    "id": "928427",
-    "link": "https://sleepwitch.itch.io/square-up",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyNTE3NzUucG5n/315x250%23c/1VCKZl.png",
-    "title": "Square Up",
-    "video": null,
-    "scrapeWords": [
-      "Square",
-      "Up"
     ]
   },
   {
@@ -127283,6 +127458,7 @@
     "id": "991325",
     "link": "https://zzeitstau.itch.io/minotaur",
     "platforms": [
+      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2NDAwMzIucG5n/315x250%23c/fmG%2B%2Fr.png",
@@ -127873,14 +128049,13 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2ODQyNDkucG5n/315x250%23c/Yw9ALr.png",
-    "title": "DogeCoin Clicker 2 (Beta)",
+    "title": "DogeCoin Clicker 2",
     "video": null,
     "scrapeWords": [
       "Doge",
       "Coin",
       "Clicker",
-      "2",
-      "Beta"
+      "2"
     ]
   },
   {
@@ -127988,6 +128163,23 @@
     "video": null,
     "scrapeWords": [
       "Henry"
+    ]
+  },
+  {
+    "author": "flamestar",
+    "description": "​A small roguelike about orb slinging wizards exploring a multi dimensional dungeon.",
+    "genre": "Action",
+    "id": "999365",
+    "link": "https://flamestar.itch.io/orbmancer",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NTQ0NjEucG5n/315x250%23c/5j0oox.png",
+    "title": "Orbmancer",
+    "video": null,
+    "scrapeWords": [
+      "Orbmancer"
     ]
   },
   {
@@ -128103,7 +128295,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU2OTA5MjIucG5n/315x250%23c/Kk5Lp1.png",
+    "thumb": "https://img.itch.zone/aW1nLzU3NTY4NzcucG5n/315x250%23c/kD37Np.png",
     "title": "TOO FAST",
     "video": null,
     "scrapeWords": [
