@@ -435,11 +435,11 @@
     ]
   },
   {
-    "author": "Arnav Ghatti",
+    "author": "Finix2002",
     "description": "Made for the Godot Game Jam 32",
     "genre": "Adventure",
     "id": "1002133",
-    "link": "https://arnav-ghatti.itch.io/missile-dodge",
+    "link": "https://finix2002.itch.io/missile-dodge",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU3MDQ0ODEucG5n/315x250%23c/V1%2FmsB.png",
     "title": "Missile Dodge",
@@ -717,6 +717,21 @@
     ]
   },
   {
+    "author": "Copper Tunic",
+    "description": "Catty Boi vs the minions of hell! An action game made by my nephew and I.",
+    "genre": "Action",
+    "id": "1003360",
+    "link": "https://copper-tunic.itch.io/cattyboi",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3MjAxMjIucG5n/315x250%23c/9FNYtP.png",
+    "title": "Catty Boi",
+    "video": null,
+    "scrapeWords": [
+      "Catty",
+      "Boi"
+    ]
+  },
+  {
     "author": "Maugrift",
     "description": "A tiny medieval city builder",
     "genre": "Strategy",
@@ -909,6 +924,24 @@
     ]
   },
   {
+    "author": "markopolodev",
+    "description": "Dungeon crawler submission for Ludum Dare 48",
+    "genre": "Action",
+    "id": "1005472",
+    "link": "https://markopolodev.itch.io/minotoad",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQ5MjIucG5n/315x250%23c/yYLfY%2B.png",
+    "title": "MINOTOAD",
+    "video": null,
+    "scrapeWords": [
+      "MINOTOAD"
+    ]
+  },
+  {
     "author": "nammflow",
     "description": "Because you want to roll dice- with physical dice, but digitally.",
     "genre": "Simulation",
@@ -992,6 +1025,23 @@
       "Bullet",
       "Hell",
       "Prototype"
+    ]
+  },
+  {
+    "author": "Zoey-21",
+    "description": "In the darkness something lurks...",
+    "genre": "Action",
+    "id": "1006493",
+    "link": "https://zoey-21.itch.io/lost-in-the-dark",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzAxNDEucG5n/315x250%23c/DroYxa.png",
+    "title": "Lost in the Dark",
+    "video": null,
+    "scrapeWords": [
+      "Lost",
+      "in",
+      "the",
+      "Dark"
     ]
   },
   {
@@ -1253,7 +1303,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU3NjMyMjcucG5n/315x250%23c/P2Hcl%2B.png",
+    "thumb": "https://img.itch.zone/aW1nLzU3NjgxOTQucG5n/315x250%23c/M5lXEJ.png",
     "title": "HellStar",
     "video": null,
     "scrapeWords": [
@@ -1273,11 +1323,10 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3NDc3NDUucG5n/315x250%23c/VSNcin.png",
-    "title": "ELUO - beta",
+    "title": "ELUO",
     "video": null,
     "scrapeWords": [
-      "ELUO",
-      "beta"
+      "ELUO"
     ]
   },
   {
@@ -1331,6 +1380,40 @@
     ]
   },
   {
+    "author": "dyariko",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "1009962",
+    "link": "https://dyariko.itch.io/beam-reflector",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQ2MjQucG5n/315x250%23c/OOVktk.png",
+    "title": "Beam Reflector",
+    "video": null,
+    "scrapeWords": [
+      "Beam",
+      "Reflector"
+    ]
+  },
+  {
+    "author": "ChickenStorm",
+    "description": "Participation à la 5ème game jam d'Arcadia !",
+    "genre": "Adventure",
+    "id": "1010168",
+    "link": "https://chickenstorm.itch.io/hungrykitty",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3Njc3MjguanBn/315x250%23c/gyy3nM.jpg",
+    "title": "Hungry Kitty",
+    "video": null,
+    "scrapeWords": [
+      "Hungry",
+      "Kitty"
+    ]
+  },
+  {
     "author": "GarterSnake508",
     "description": "A video game of the fantasy, The Book of the Dun Cow.",
     "genre": "Platformer",
@@ -1339,7 +1422,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU3NTc0MDgucG5n/315x250%23c/mfGNFZ.png",
+    "thumb": "https://img.itch.zone/aW1nLzU3NjcwNTEucG5n/315x250%23c/41cANk.png",
     "title": "The Book of the Dun Cow",
     "video": null,
     "scrapeWords": [
@@ -1349,6 +1432,23 @@
       "the",
       "Dun",
       "Cow"
+    ]
+  },
+  {
+    "author": "ProBase",
+    "description": "5 Laps in the least amount of time!",
+    "genre": "Platformer",
+    "id": "1010572",
+    "link": "https://probase.itch.io/run-bob-run",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NTc4ODAucG5n/315x250%23c/tnh4oi.png",
+    "title": "Run BoB Run!",
+    "video": null,
+    "scrapeWords": [
+      "Run",
+      "Bo",
+      "B",
+      "Run"
     ]
   },
   {
@@ -1386,6 +1486,20 @@
     ]
   },
   {
+    "author": "apeyrard",
+    "description": "Submission for ludum dare 48",
+    "genre": "Platformer",
+    "id": "1010824",
+    "link": "https://apeyrard.itch.io/wandering",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NTk2NDkuanBn/315x250%23c/heHyzt.jpg",
+    "title": "wandering",
+    "video": null,
+    "scrapeWords": [
+      "wandering"
+    ]
+  },
+  {
     "author": "Delentor",
     "description": "#BWJam",
     "genre": "Platformer",
@@ -1413,6 +1527,26 @@
     "video": null,
     "scrapeWords": [
       "Plastix"
+    ]
+  },
+  {
+    "author": "Kramdar",
+    "description": "A simple game about digging and debt",
+    "genre": "Strategy",
+    "id": "1011270",
+    "link": "https://kramdar.itch.io/in-the-hole",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzI4MDcucG5n/315x250%23c/U5DZou.png",
+    "title": "In the Hole",
+    "video": null,
+    "scrapeWords": [
+      "In",
+      "the",
+      "Hole"
     ]
   },
   {
@@ -1451,6 +1585,28 @@
     ]
   },
   {
+    "author": "Project Guillotine",
+    "description": "A game where you roam around Purgatory and climb a really big tower.",
+    "genre": "Adventure",
+    "id": "1011522",
+    "link": "https://project-guillotine.itch.io/regular-comedy",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQ1MTkucG5n/315x250%23c/9nFDO2.png",
+    "title": "Regular Comedy: A Game About Death",
+    "video": null,
+    "scrapeWords": [
+      "Regular",
+      "Comedy",
+      "A",
+      "Game",
+      "About",
+      "Death"
+    ]
+  },
+  {
     "author": "payne43",
     "description": "Game of fighting farmers for gain the biggest land",
     "genre": "Puzzle",
@@ -1467,6 +1623,61 @@
     ]
   },
   {
+    "author": "Tim77",
+    "description": "A rhythm/timing game where you get as much gold as possible in 1 minute.",
+    "genre": "Rhythm",
+    "id": "1011790",
+    "link": "https://tim77.itch.io/dig-deep-get-gold",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzI3NzUucG5n/315x250%23c/zwynrB.png",
+    "title": "Dig Deep Get Gold",
+    "video": null,
+    "scrapeWords": [
+      "Dig",
+      "Deep",
+      "Get",
+      "Gold"
+    ]
+  },
+  {
+    "author": "Opossum In A Jar",
+    "description": "Use your tools to discover the mine!",
+    "genre": null,
+    "id": "1011794",
+    "link": "https://opossum-in-a-jar.itch.io/fine-line-mine",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzEzNDUuZ2lm/315x250%23cm/Ipl5Mz.gif",
+    "title": "Fine Line Mine",
+    "video": "https://img.itch.zone/aW1nLzU3NzEzNDUuZ2lm/original/RgZ%2B%2FM.gif",
+    "scrapeWords": [
+      "Fine",
+      "Line",
+      "Mine"
+    ]
+  },
+  {
+    "author": "dzil123",
+    "description": "It's time to Jam!",
+    "genre": "Interactive Fiction",
+    "id": "1011895",
+    "link": "https://dzil123.itch.io/strap-one-on",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQ5MDMucG5n/315x250%23c/gspXez.png",
+    "title": "Strap One On",
+    "video": null,
+    "scrapeWords": [
+      "Strap",
+      "One",
+      "On"
+    ]
+  },
+  {
     "author": "Elrel Studios",
     "description": "Mod your gun with another barrel anywhere every time you beat a level!",
     "genre": "Platformer",
@@ -1479,6 +1690,638 @@
     "scrapeWords": [
       "Mod",
       "Shot"
+    ]
+  },
+  {
+    "author": "Anagh's World",
+    "description": "Fix the bugs to save the game from crashing. A game made by Anagh's World.",
+    "genre": "Survival",
+    "id": "1012390",
+    "link": "https://anaghsworld.itch.io/bug-fixer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3Njc5MTUuanBn/315x250%23c/0hp4sV.jpg",
+    "title": "Bug Fixer",
+    "video": null,
+    "scrapeWords": [
+      "Bug",
+      "Fixer"
+    ]
+  },
+  {
+    "author": "weed_snorkeler",
+    "description": "Suck and spit momentum based platformer",
+    "genre": "Platformer",
+    "id": "1012412",
+    "link": "https://weed-snorkeler.itch.io/egg-ascent",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NjgyNjIucG5n/315x250%23c/WQLdQX.png",
+    "title": "Egg Ascent",
+    "video": null,
+    "scrapeWords": [
+      "Egg",
+      "Ascent"
+    ]
+  },
+  {
+    "author": "PROJECTaroid",
+    "description": "Survey drone LD-48 will be dispatched to collect suspected organic compounds on Jupiter’s moon Titan",
+    "genre": "Action",
+    "id": "1012503",
+    "link": "https://projectaroid.itch.io/titan-abyss",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3Njg0NDAucG5n/315x250%23c/13Uz3f.png",
+    "title": "Titan Abyss",
+    "video": null,
+    "scrapeWords": [
+      "Titan",
+      "Abyss"
+    ]
+  },
+  {
+    "author": "Pitivie",
+    "description": "Miner to survive",
+    "genre": "Strategy",
+    "id": "1012527",
+    "link": "https://pitivie.itch.io/the-last-ark",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NjkxMTgucG5n/315x250%23c/V9TdC1.png",
+    "title": "The Last Ark",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Last",
+      "Ark"
+    ]
+  },
+  {
+    "author": "AcheGames",
+    "description": "Ludum Dare 48 theme : deeper and deeper 48hour COMPO event",
+    "genre": null,
+    "id": "1012617",
+    "link": "https://achegames.itch.io/deepest-ocean",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3Njg3NTQuanBn/315x250%23c/0QNlnT.jpg",
+    "title": "Deepest Ocean (Ludum Dare 48)",
+    "video": null,
+    "scrapeWords": [
+      "Deepest",
+      "Ocean",
+      "Ludum",
+      "Dare",
+      "48"
+    ]
+  },
+  {
+    "author": "quin2",
+    "description": "venture deep into space...",
+    "genre": "Action",
+    "id": "1012680",
+    "link": "https://quin2.itch.io/deeper-into-space",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3Njk2NTcucG5n/315x250%23c/di%2Fa6T.png",
+    "title": "deeper into space",
+    "video": null,
+    "scrapeWords": [
+      "deeper",
+      "into",
+      "space"
+    ]
+  },
+  {
+    "author": "cwiep",
+    "description": "Protect Walter Wormington on his adventure to the depths of the ocean by slapping away fishes.",
+    "genre": "Adventure",
+    "id": "1012688",
+    "link": "https://cwiep.itch.io/fish-slapping-simulator-2021",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NjkxOTIucG5n/315x250%23c/n1N2g%2F.png",
+    "title": "Fish Slapping Simulator 2021",
+    "video": null,
+    "scrapeWords": [
+      "Fish",
+      "Slapping",
+      "Simulator",
+      "2021"
+    ]
+  },
+  {
+    "author": "Martin \"Džejky\" Jakubik",
+    "description": "Grow your little tree",
+    "genre": null,
+    "id": "1012737",
+    "link": "https://martindzejky.itch.io/my-little-tree",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3Njk0NjMucG5n/315x250%23c/aHLLR3.png",
+    "title": "My Little Tree",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "Little",
+      "Tree"
+    ]
+  },
+  {
+    "author": "ishmandoo",
+    "description": "Help brothers Deeper and Deeper, separated at birth, reunite",
+    "genre": "Adventure",
+    "id": "1012757",
+    "link": "https://ishmandoo.itch.io/deeper-and-deeper",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3Njk3NTUucG5n/315x250%23c/S6mc4x.png",
+    "title": "Deeper and Deeper",
+    "video": null,
+    "scrapeWords": [
+      "Deeper",
+      "and",
+      "Deeper"
+    ]
+  },
+  {
+    "author": "JohnGabrielUK",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "1012832",
+    "link": "https://johngabrieluk.itch.io/grgridid",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3Njk5NjAucG5n/315x250%23c/9QMSo5.png",
+    "title": "grGRIDid",
+    "video": null,
+    "scrapeWords": [
+      "gr",
+      "GRIDid"
+    ]
+  },
+  {
+    "author": "Diane Sparks",
+    "description": "A local haunt, burned into your memories",
+    "genre": "Interactive Fiction",
+    "id": "1012871",
+    "link": "https://dianesparks.itch.io/circle-9",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzEzMzUucG5n/315x250%23c/hlqDdI.png",
+    "title": "Circle 9",
+    "video": null,
+    "scrapeWords": [
+      "Circle",
+      "9"
+    ]
+  },
+  {
+    "author": "Ariorick",
+    "description": "Run into infinity while synths and guitars play you a symphony. Play in your browser",
+    "genre": "Racing",
+    "id": "1012968",
+    "link": "https://ariorick.itch.io/deep-into-the-vibe",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzA2NDAucG5n/315x250%23c/wLcUm1.png",
+    "title": "Deep into the vibe",
+    "video": null,
+    "scrapeWords": [
+      "Deep",
+      "into",
+      "the",
+      "vibe"
+    ]
+  },
+  {
+    "author": "soundgnome",
+    "description": "Jamie's in a jam! Can you avoid disaster?",
+    "genre": "Puzzle",
+    "id": "1013063",
+    "link": "https://soundgnome.itch.io/jamies-jam",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzE1NTUucG5n/315x250%23c/z6R0jF.png",
+    "title": "Jamie's Jam",
+    "video": null,
+    "scrapeWords": [
+      "Jamies",
+      "Jam"
+    ]
+  },
+  {
+    "author": "Jiri Hysek",
+    "description": null,
+    "genre": "Action",
+    "id": "1013088",
+    "link": "https://jhysek.itch.io/deep-blue",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzM2NjgucG5n/315x250%23c/UtZT1H.png",
+    "title": "Deep Blue",
+    "video": null,
+    "scrapeWords": [
+      "Deep",
+      "Blue"
+    ]
+  },
+  {
+    "author": "Jun Kajii",
+    "description": "Just a guy falling",
+    "genre": "Action",
+    "id": "1013094",
+    "link": "https://junkajii.itch.io/the-fall",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzM0OTMuanBn/315x250%23c/KV%2FzMC.jpg",
+    "title": "The Fall",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Fall"
+    ]
+  },
+  {
+    "author": "fortythreesam",
+    "description": "Play as a crab with a long sword that's wants to take over this dungeon",
+    "genre": "Action",
+    "id": "1013273",
+    "link": "https://fortythreesam.itch.io/upset-crab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzE5OTQucG5n/315x250%23c/Q7Np48.png",
+    "title": "Upset Crab",
+    "video": null,
+    "scrapeWords": [
+      "Upset",
+      "Crab"
+    ]
+  },
+  {
+    "author": "Unsteady Yeti Games",
+    "description": "2D Physics-Based Action Platformer",
+    "genre": "Platformer",
+    "id": "1013300",
+    "link": "https://uygames.itch.io/just-jump-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzI3OTAucG5n/315x250%23c/GBbF9i.png",
+    "title": "Just Jump Demo",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "Jump"
+    ]
+  },
+  {
+    "author": "zondarg",
+    "description": "LD48 Compo Entry",
+    "genre": "Platformer",
+    "id": "1013301",
+    "link": "https://zondarg.itch.io/project-orpheo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzIxNzQucG5n/315x250%23c/hvVePW.png",
+    "title": "Project ORPHEO",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "ORPHEO"
+    ]
+  },
+  {
+    "author": "8BitMuffin",
+    "description": "Avoid obstacles in this simple vertical scrolling game set in space",
+    "genre": "Action",
+    "id": "1013331",
+    "link": "https://8bitmuffin.itch.io/super-space-explorer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzI4NjcucG5n/315x250%23c/ctNxhX.png",
+    "title": "Super Space Explorer",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Space",
+      "Explorer"
+    ]
+  },
+  {
+    "author": "thefireflyer",
+    "description": "Mine deeper and deeper with your mouse",
+    "genre": null,
+    "id": "1013350",
+    "link": "https://thefireflyer.itch.io/gold-clicker",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzIyNzQucG5n/315x250%23c/AF0K6g.png",
+    "title": "Gold Clicker",
+    "video": null,
+    "scrapeWords": [
+      "Gold",
+      "Clicker"
+    ]
+  },
+  {
+    "author": "ludoethereal",
+    "description": null,
+    "genre": "Action",
+    "id": "1013355",
+    "link": "https://ludoethereal.itch.io/volatilefloors-ld48",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzI5ODQucG5n/315x250%23c/cr39Lr.png",
+    "title": "Volatile Floors (LD48)",
+    "video": null,
+    "scrapeWords": [
+      "Volatile",
+      "Floors",
+      "LD48"
+    ]
+  },
+  {
+    "author": "NullTexture",
+    "description": "A horror game where you must search through the woods to find the missing pieces to complete the ritual.",
+    "genre": "Survival",
+    "id": "1013398",
+    "link": "https://nulltexture.itch.io/deepinthewoods",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzI4MjcucG5n/315x250%23c/vmhsGi.png",
+    "title": "DeepInTheWoods",
+    "video": null,
+    "scrapeWords": [
+      "Deep",
+      "In",
+      "The",
+      "Woods"
+    ]
+  },
+  {
+    "author": "jitspoe",
+    "description": "Wingsuit",
+    "genre": "Simulation",
+    "id": "1013400",
+    "link": "https://jitspoe.itch.io/ld48-soaring-under",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzM3NDcucG5n/315x250%23c/5aEYEB.png",
+    "title": "LD48: Soaring Under",
+    "video": null,
+    "scrapeWords": [
+      "LD48",
+      "Soaring",
+      "Under"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Half and half again",
+    "genre": "Puzzle",
+    "id": "1013423",
+    "link": "https://jafcraze.itch.io/divide-to-go-deeper",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzM2ODgucG5n/315x250%23c/5yw9rm.png",
+    "title": "Divide to go Deeper",
+    "video": null,
+    "scrapeWords": [
+      "Divide",
+      "to",
+      "go",
+      "Deeper"
+    ]
+  },
+  {
+    "author": "Ardiam Games",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "1013449",
+    "link": "https://ardiamgames.itch.io/reflectolabs-inc",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQ3MTAucG5n/315x250%23c/hwY9Cp.png",
+    "title": "ReflectoLabs Inc",
+    "video": null,
+    "scrapeWords": [
+      "Reflecto",
+      "Labs",
+      "Inc"
+    ]
+  },
+  {
+    "author": "rojafox",
+    "description": "How deep into space can you go?",
+    "genre": "Action",
+    "id": "1013486",
+    "link": "https://rojafox.itch.io/so-deep-in-space",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzI4ODAucG5n/315x250%23c/7nYOIB.png",
+    "title": "So Deep In Space",
+    "video": null,
+    "scrapeWords": [
+      "So",
+      "Deep",
+      "In",
+      "Space"
+    ]
+  },
+  {
+    "author": "DIEVOLUTION",
+    "description": "Dig, play and have fun! A LDJAM 48 Compo Entry",
+    "genre": "Action",
+    "id": "1013512",
+    "link": "https://dizelabs.itch.io/bohris",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzMwNzEuanBn/315x250%23c/Q%2FSdke.jpg",
+    "title": "Bohris",
+    "video": null,
+    "scrapeWords": [
+      "Bohris"
+    ]
+  },
+  {
+    "author": "RNGames",
+    "description": "Ludum Dare 48 - Deeper and Deeper",
+    "genre": "Action",
+    "id": "1013656",
+    "link": "https://rn-games.itch.io/drills-and-gadgets",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQ0MTAucG5n/315x250%23c/Tv6Ks1.png",
+    "title": "Drills & Gadgets",
+    "video": null,
+    "scrapeWords": [
+      "Drills",
+      "Gadgets"
+    ]
+  },
+  {
+    "author": "sirtyler",
+    "description": "Ludum Dare 48 submission",
+    "genre": null,
+    "id": "1013658",
+    "link": "https://sirtyler.itch.io/deep3r",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzM0NjkucG5n/315x250%23c/bXri6H.png",
+    "title": "Deep3r",
+    "video": null,
+    "scrapeWords": [
+      "Deep3r"
+    ]
+  },
+  {
+    "author": "Jon Topielski",
+    "description": "a dicey venture through the deep web",
+    "genre": "Strategy",
+    "id": "1013672",
+    "link": "https://jontopielski.itch.io/into-the-deep-web",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQwNDYucG5n/315x250%23c/Y%2BvdYs.png",
+    "title": "Into the Deep Web",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "the",
+      "Deep",
+      "Web"
+    ]
+  },
+  {
+    "author": "Pizzasgood",
+    "description": null,
+    "genre": null,
+    "id": "1013786",
+    "link": "https://pizzasgood.itch.io/minball-ld48",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzUxMTAucG5n/315x250%23c/ganc7Y.png",
+    "title": "Minball - LD48",
+    "video": null,
+    "scrapeWords": [
+      "Minball",
+      "LD48"
+    ]
+  },
+  {
+    "author": "ArtoniXDEV",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "1013796",
+    "link": "https://artonix.itch.io/ventil-of-view",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQwODEucG5n/315x250%23c/dJvy2q.png",
+    "title": "Ventil Of View",
+    "video": null,
+    "scrapeWords": [
+      "Ventil",
+      "Of",
+      "View"
+    ]
+  },
+  {
+    "author": "nyxkn",
+    "description": "Entry for Ludum Dare 48 - Puzzle / Walking Sim",
+    "genre": "Puzzle",
+    "id": "1013814",
+    "link": "https://nyxkn.itch.io/astral-descension",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzQxMDcucG5n/315x250%23c/1L8R53.png",
+    "title": "Astral Descension",
+    "video": null,
+    "scrapeWords": [
+      "Astral",
+      "Descension"
+    ]
+  },
+  {
+    "author": "marksteve",
+    "description": "SudoXE: the last pod that can bring you down to the core shelter. Will you be able to escape?",
+    "genre": "Action",
+    "id": "1013968",
+    "link": "https://marksteve.itch.io/sudoxe",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NzUxNDUucG5n/315x250%23c/xjTIQj.png",
+    "title": "SudoXE",
+    "video": null,
+    "scrapeWords": [
+      "Sudo",
+      "XE"
+    ]
+  },
+  {
+    "author": "youlikeit",
+    "description": "Game for LD48",
+    "genre": "Action",
+    "id": "1014210",
+    "link": "https://youlikeit.itch.io/bloob-seeker",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzY3NDguanBn/315x250%23c/okGdp5.jpg",
+    "title": "Bloob Seeker",
+    "video": null,
+    "scrapeWords": [
+      "Bloob",
+      "Seeker"
+    ]
+  },
+  {
+    "author": "Quadratic Games",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1014258",
+    "link": "https://quadratic-games.itch.io/dont-learn-repeat",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NzcxNDkuZ2lm/315x250%23cm/XYhSYI.gif",
+    "title": "Don't Learn, Repeat!",
+    "video": "https://img.itch.zone/aW1nLzU3NzcxNDkuZ2lm/original/SYQxl8.gif",
+    "scrapeWords": [
+      "Dont",
+      "Learn",
+      "Repeat"
     ]
   },
   {
@@ -21098,7 +21941,7 @@
     ]
   },
   {
-    "author": "nartier",
+    "author": "miziziziz",
     "description": "minimalistic horror game made in godot",
     "genre": "Puzzle",
     "id": "324483",
@@ -23075,6 +23918,25 @@
     "scrapeWords": [
       "Volcano",
       "Island"
+    ]
+  },
+  {
+    "author": "polycement",
+    "description": "A game about sacrifice, made for Ludum Dare 43",
+    "genre": "Action",
+    "id": "340687",
+    "link": "https://polycement.itch.io/blood-and-loss",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE2ODgyNTIucG5n/315x250%23c/Le7cn3.png",
+    "title": "Blood & Loss",
+    "video": null,
+    "scrapeWords": [
+      "Blood",
+      "Loss"
     ]
   },
   {
@@ -25395,7 +26257,7 @@
   },
   {
     "author": "Kat Witten",
-    "description": "Find your way home (Global Game Jam 2019)",
+    "description": "Find your way home",
     "genre": "Action",
     "id": "362387",
     "link": "https://turtlewit.itch.io/float-home",
@@ -34995,7 +35857,7 @@
   },
   {
     "author": "Diane Sparks",
-    "description": "Simple card-based RPG (Godot Wild Jam  11)",
+    "description": "Eccentric card-based RPG",
     "genre": "Role Playing",
     "id": "449770",
     "link": "https://dianesparks.itch.io/sixfive",
@@ -36416,7 +37278,7 @@
   },
   {
     "author": "Diane Sparks",
-    "description": "There is only one light (GMTK Jam 2019)",
+    "description": "There is only one light",
     "genre": "Platformer",
     "id": "460701",
     "link": "https://dianesparks.itch.io/afterlight",
@@ -37427,7 +38289,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "The psychological narrative game about doing what you're told",
     "genre": "Simulation",
     "id": "462903",
@@ -38374,25 +39236,6 @@
     "scrapeWords": [
       "Ham",
       "Rush"
-    ]
-  },
-  {
-    "author": "Future Proof Games",
-    "description": "Take back the land from those keeping it a food desert. Every run transforms the land in your favor.",
-    "genre": "Strategy",
-    "id": "470113",
-    "link": "https://futureproofgames.itch.io/cultivating-insurgency",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1Njc4NjkucG5n/315x250%23c/u3dTL4.png",
-    "title": "Cultivating Insurgency",
-    "video": null,
-    "scrapeWords": [
-      "Cultivating",
-      "Insurgency"
     ]
   },
   {
@@ -39627,7 +40470,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "The Charming Rhythm Platformer",
     "genre": "Platformer",
     "id": "477339",
@@ -43897,7 +44740,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Make relevant art (or starve)",
     "genre": "Simulation",
     "id": "508829",
@@ -45766,7 +46609,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "when in doubt, hop about",
     "genre": "Adventure",
     "id": "526327",
@@ -48499,7 +49342,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "a titled goose game about defeating a horrible goose",
     "genre": "Action",
     "id": "548454",
@@ -49407,7 +50250,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Cute little puzzle game about a bug stuck in a cold place",
     "genre": "Puzzle",
     "id": "552926",
@@ -50449,7 +51292,7 @@
   },
   {
     "author": "Diane Sparks",
-    "description": "Repair a fallen kingdom (Global Game Jam 2020)",
+    "description": "Repair a fallen kingdom",
     "genre": "Action",
     "id": "561179",
     "link": "https://dianesparks.itch.io/return-from-dust",
@@ -51757,7 +52600,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Challenging platformer about shooting portals",
     "genre": "Platformer",
     "id": "571621",
@@ -56319,7 +57162,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Deckbuilding game where you gamble with ghosts over webcam chat",
     "genre": "Card Game",
     "id": "601618",
@@ -60863,7 +61706,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Solve programming bugs and then defeat those bugs in turn based combat",
     "genre": "Role Playing",
     "id": "619963",
@@ -67197,7 +68040,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Welcome to your new job as a Telemarketer!",
     "genre": "Simulation",
     "id": "655876",
@@ -72196,7 +73039,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Groove to the beat in an underground nightclub",
     "genre": "Rhythm",
     "id": "683582",
@@ -80147,7 +80990,10 @@
     "genre": "Action",
     "id": "715527",
     "link": "https://fenchel.itch.io/vacuum-decay",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzM5ODI3OTUucG5n/315x250%23c/n8yjdW.png",
     "title": "Vacuum Decay",
     "video": null,
@@ -81375,7 +82221,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Warioware inspired microgames based on rewinding",
     "genre": "Action",
     "id": "723858",
@@ -84470,7 +85316,7 @@
   },
   {
     "author": "Diane Sparks",
-    "description": "Change is out of your hands (GMTK Jam 2020)",
+    "description": "Change is out of your hands",
     "genre": "Action",
     "id": "735751",
     "link": "https://dianesparks.itch.io/blue-plus-red",
@@ -86872,10 +87718,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxMzYzNDQucG5n/315x250%23c/T06gx5.png",
-    "title": "RUN",
+    "title": "RUN: The world in-between",
     "video": null,
     "scrapeWords": [
-      "RUN"
+      "RUN",
+      "The",
+      "world",
+      "in-between"
     ]
   },
   {
@@ -87290,18 +88139,20 @@
   },
   {
     "author": "Ender29",
-    "description": null,
+    "description": "after having finished painting some paint drops are left, help them get out",
     "genre": "Puzzle",
     "id": "744212",
-    "link": "https://ender29.itch.io/contrariorum",
+    "link": "https://ender29.itch.io/freshpaint",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": null,
-    "title": "Contrariorum",
+    "title": "Fresh Paint",
     "video": null,
     "scrapeWords": [
-      "Contrariorum"
+      "Fresh",
+      "Paint"
     ]
   },
   {
@@ -87961,22 +88812,6 @@
       "Ninja",
       "vs",
       "Wasps"
-    ]
-  },
-  {
-    "author": "Unsteady Yeti Games",
-    "description": null,
-    "genre": "Platformer",
-    "id": "748411",
-    "link": "https://uygames.itch.io/just-jump-testing",
-    "platforms": null,
-    "thumb": null,
-    "title": "Just Jump Testing",
-    "video": null,
-    "scrapeWords": [
-      "Just",
-      "Jump",
-      "Testing"
     ]
   },
   {
@@ -94193,7 +95028,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Puzzle platformer where you place keys to get from point A to point B",
     "genre": "Puzzle",
     "id": "778476",
@@ -95775,6 +96610,25 @@
       "that",
       "never",
       "ends"
+    ]
+  },
+  {
+    "author": "Maskren",
+    "description": "A Zombie vs player game",
+    "genre": "Action",
+    "id": "785426",
+    "link": "https://maskren.itch.io/four-ray",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzOTYzNjUucG5n/315x250%23c/4br68g.png",
+    "title": "FourRay",
+    "video": null,
+    "scrapeWords": [
+      "Four",
+      "Ray"
     ]
   },
   {
@@ -97990,7 +98844,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Dodge and smash giant saw blades",
     "genre": "Action",
     "id": "800654",
@@ -98391,11 +99245,11 @@
     ]
   },
   {
-    "author": "Arnav Ghatti",
+    "author": "Finix2002",
     "description": "A tricky puzzle game. Hard to solve",
     "genre": "Puzzle",
     "id": "803744",
-    "link": "https://arnav-ghatti.itch.io/underwater-mysteries",
+    "link": "https://finix2002.itch.io/underwater-mysteries",
     "platforms": [
       "Windows",
       "Linux",
@@ -98426,23 +99280,6 @@
     "scrapeWords": [
       "Squid",
       "Savings"
-    ]
-  },
-  {
-    "author": "HumanMan",
-    "description": "Trapped in a dungeon with your last spell, Catapult",
-    "genre": "Action",
-    "id": "803902",
-    "link": "https://humanman.itch.io/kinetica",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1MDM5NDIuZ2lm/315x250%23cm/DCvR5B.gif",
-    "title": "Kinetica",
-    "video": "https://img.itch.zone/aW1nLzQ1MDM5NDIuZ2lm/original/HXt5Q%2F.gif",
-    "scrapeWords": [
-      "Kinetica"
     ]
   },
   {
@@ -101004,6 +101841,25 @@
     "video": null,
     "scrapeWords": [
       "Fiesta"
+    ]
+  },
+  {
+    "author": "Totobird Creations",
+    "description": null,
+    "genre": "Strategy",
+    "id": "821871",
+    "link": "https://totobirdcreations.itch.io/galactic-horizon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2NzQ4OTgucG5n/315x250%23c/12XfS%2F.png",
+    "title": "Galactic Horizon",
+    "video": null,
+    "scrapeWords": [
+      "Galactic",
+      "Horizon"
     ]
   },
   {
@@ -104430,7 +105286,7 @@
     ]
   },
   {
-    "author": "jontopielski",
+    "author": "Jon Topielski",
     "description": "Play a dancing space cat in this pixel rhythm RPG!",
     "genre": "Role Playing",
     "id": "843633",
@@ -105004,8 +105860,7 @@
     "id": "847915",
     "link": "https://alexkun.itch.io/ostamerrent",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3NTM2MjQucG5n/315x250%23c/41%2BMx9.png",
     "title": "Ostamerrent",
@@ -110754,16 +111609,16 @@
   },
   {
     "author": "kathleenkirchner",
-    "description": null,
+    "description": "Action game where you catch and tame monsters",
     "genre": "Action",
     "id": "886234",
     "link": "https://kathleenkirchner.itch.io/fangsi",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUwNDM2OTMucG5n/315x250%23c/Y4mbBJ.png",
+    "thumb": "https://img.itch.zone/aW1nLzU3NjkwNDMuZ2lm/315x250%23cm/GtJFou.gif",
     "title": "Fangsi",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzU3NjkwNDMuZ2lm/original/ss4RCL.gif",
     "scrapeWords": [
       "Fangsi"
     ]
@@ -113017,7 +113872,7 @@
   },
   {
     "author": "Diane Sparks",
-    "description": "The most egregious operating system devised (Global Game Jam 2021)",
+    "description": "The most egregious operating system devised",
     "genre": "Puzzle",
     "id": "901642",
     "link": "https://dianesparks.itch.io/nefarios",
@@ -125329,6 +126184,24 @@
     ]
   },
   {
+    "author": "Red",
+    "description": "Download Project Kosbelum Today!",
+    "genre": "Shooter",
+    "id": "975036",
+    "link": "https://itsthatredperson.itch.io/project-kosbelum",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1OTI3MjQuanBn/315x250%23c/K0XtNs.jpg",
+    "title": "Project Kosbelum",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "Kosbelum"
+    ]
+  },
+  {
     "author": "OhmPossum",
     "description": "Acompanhe Lilo em sua aventura pela fábrica de chocolate nesse jogo de plataforma e puzzle.",
     "genre": "Platformer",
@@ -125631,11 +126504,11 @@
     ]
   },
   {
-    "author": "Cosmic-Space soft.",
+    "author": "Dimension Software",
     "description": null,
     "genre": "Platformer",
     "id": "978310",
-    "link": "https://cosmic-space-soft.itch.io/collonize-mars-program-1",
+    "link": "https://dimension-software.itch.io/collonize-mars-program-1",
     "platforms": [
       "Windows"
     ],
@@ -127803,6 +128676,25 @@
     "scrapeWords": [
       "Neon",
       "Ships"
+    ]
+  },
+  {
+    "author": "rudyvic",
+    "description": "Black and white maze game, with enemies and traps.",
+    "genre": null,
+    "id": "996038",
+    "link": "https://rudyvic.itch.io/light-age",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NjM2MjUucG5n/315x250%23c/z0SZiS.png",
+    "title": "Light Age",
+    "video": null,
+    "scrapeWords": [
+      "Light",
+      "Age"
     ]
   },
   {
