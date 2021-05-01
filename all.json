@@ -1493,6 +1493,24 @@
     ]
   },
   {
+    "author": "My Sweet Whomp",
+    "description": "Bubbles' friends have been captured by sneaky Lizardmen! Delve into their caves to save them!",
+    "genre": "Adventure",
+    "id": "1009431",
+    "link": "https://mysweetwhomp.itch.io/monkey-quest",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3OTM3NDYucG5n/315x250%23c/NiKuGT.png",
+    "title": "Monkey Quest",
+    "video": null,
+    "scrapeWords": [
+      "Monkey",
+      "Quest"
+    ]
+  },
+  {
     "author": "Future Games",
     "description": "A demo of a game",
     "genre": "Platformer",
@@ -1813,7 +1831,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU3OTM2NDgucG5n/315x250%23c/IZbynu.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4MzI1NDkucG5n/315x250%23c/GapZjn.png",
     "title": "Ariel Cleanomancer and the Eldritch Sweep",
     "video": null,
     "scrapeWords": [
@@ -2526,7 +2544,7 @@
   },
   {
     "author": "fortythreesam",
-    "description": "Play as a crab with a long sword that's wants to take over this dungeon",
+    "description": "Play as a crab with a long sword that wants to take over this dungeon",
     "genre": "Action",
     "id": "1013273",
     "link": "https://fortythreesam.itch.io/upset-crab",
@@ -2551,9 +2569,9 @@
     "id": "1013300",
     "link": "https://uygames.itch.io/just-jump-demo",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU3NzI3OTAucG5n/315x250%23c/GBbF9i.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4MzE3MjEuZ2lm/315x250%23cm/CwRRt5.gif",
     "title": "Just Jump Demo",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzU4MzE3MjEuZ2lm/original/RCNTYD.gif",
     "scrapeWords": [
       "Just",
       "Jump"
@@ -3314,6 +3332,22 @@
     "scrapeWords": [
       "Double",
       "Bubble"
+    ]
+  },
+  {
+    "author": "KnightOrc",
+    "description": "A game jam entry for Ludum Dare 48",
+    "genre": "Shooter",
+    "id": "1015549",
+    "link": "https://knightorc.itch.io/downfall",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3ODUwOTEucG5n/315x250%23c/Vk25%2F7.png",
+    "title": "Downfall",
+    "video": null,
+    "scrapeWords": [
+      "Downfall"
     ]
   },
   {
@@ -4123,7 +4157,8 @@
     "link": "https://mendillorriapps.itch.io/institutuko-jokua",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4MDc1ODgucG5n/315x250%23c/O06CeW.png",
     "title": "Institutuko Jokua - High School Game",
@@ -4265,6 +4300,74 @@
     "video": null,
     "scrapeWords": [
       "Adventure"
+    ]
+  },
+  {
+    "author": "Appoclip Studios",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1021925",
+    "link": "https://appoclip-studios.itch.io/annoyedexe",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4MjYzNTUuanBn/315x250%23c/pD5k3z.jpg",
+    "title": "Annoyed.Exe",
+    "video": null,
+    "scrapeWords": [
+      "Annoyed",
+      "Exe"
+    ]
+  },
+  {
+    "author": "Indieology",
+    "description": "Action RPG made with Godot Engine",
+    "genre": "Action",
+    "id": "1021928",
+    "link": "https://indieology.itch.io/amnesia-hero",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4MjYzNjgucG5n/315x250%23c/7aLnvC.png",
+    "title": "Amnesia Hero?",
+    "video": null,
+    "scrapeWords": [
+      "Amnesia",
+      "Hero"
+    ]
+  },
+  {
+    "author": "Rayuse",
+    "description": "Just a small prototype of an online multiplayer top-down shooter game I made using Godot",
+    "genre": "Shooter",
+    "id": "1022517",
+    "link": "https://rayuse.itch.io/multiplayer-top-down-shooter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4MzAzMjAucG5n/315x250%23c/1mKpBC.png",
+    "title": "Multiplayer Top-down Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Multiplayer",
+      "Top-down",
+      "Shooter"
+    ]
+  },
+  {
+    "author": "ChunkyPears",
+    "description": null,
+    "genre": "Educational",
+    "id": "1022732",
+    "link": "https://chunkypears.itch.io/double-slit-visualizer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4MzE0NzAucG5n/315x250%23c/lNm3yr.png",
+    "title": "Double Slit Visualizer",
+    "video": null,
+    "scrapeWords": [
+      "Double",
+      "Slit",
+      "Visualizer"
     ]
   },
   {
@@ -26089,6 +26192,25 @@
     ]
   },
   {
+    "author": "CIULLO CORPORATION",
+    "description": "Can you beat a chyrkyan? Discover it NOW!",
+    "genre": "Puzzle",
+    "id": "342985",
+    "link": "https://ciullocorporation.itch.io/pc-chyrkyan-trial-2",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4NTUwODguanBn/315x250%23c/1VphC%2F.jpg",
+    "title": "[WINDOWS] Chyrkyan Trial II",
+    "video": null,
+    "scrapeWords": [
+      "[WINDOWS]",
+      "Chyrkyan",
+      "Trial",
+      "II"
+    ]
+  },
+  {
     "author": "rresto",
     "description": "A clone of the game Pong",
     "genre": "Action",
@@ -36237,6 +36359,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -37941,11 +38081,11 @@
     ]
   },
   {
-    "author": "LMC_dd",
+    "author": "GodoTer",
     "description": null,
     "genre": "Educational",
     "id": "451016",
-    "link": "https://lmc-dd.itch.io/flags",
+    "link": "https://godoter.itch.io/flags",
     "platforms": [
       "Windows",
       "Linux",
@@ -40832,6 +40972,40 @@
     ]
   },
   {
+    "author": "GreenClovers",
+    "description": "A strange RPG where you have to go round your room, convincing your clothes to be, well, your clothes again.",
+    "genre": "Role Playing",
+    "id": "468673",
+    "link": "https://greenclovers.itch.io/clothes-rpg",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1OTc3NzkuZ2lm/315x250%23cm/K1tfKd.gif",
+    "title": "I accidently insulted a witch and now all of my clothes are sentient and they hate me!",
+    "video": "https://img.itch.zone/aW1nLzU1OTc3NzkuZ2lm/original/bDptWe.gif",
+    "scrapeWords": [
+      "I",
+      "accidently",
+      "insulted",
+      "a",
+      "witch",
+      "and",
+      "now",
+      "all",
+      "of",
+      "my",
+      "clothes",
+      "are",
+      "sentient",
+      "and",
+      "they",
+      "hate",
+      "me"
+    ]
+  },
+  {
     "author": "pintman",
     "description": "Simpe asteroids clone",
     "genre": "Action",
@@ -42249,9 +42423,7 @@
     "genre": "Simulation",
     "id": "476170",
     "link": "https://tibi4.itch.io/food-friends",
-    "platforms": [
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyMzQyMTQucG5n/315x250%23c/aRtVlJ.png",
     "title": "Food Friends - Online Restaurant Simulator",
     "video": null,
@@ -54742,25 +54914,6 @@
     ]
   },
   {
-    "author": "Vsevolod Ganin",
-    "description": "Multiplayer Pong clone",
-    "genre": "Sports",
-    "id": "573119",
-    "link": "https://vsga.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
-    ]
-  },
-  {
     "author": "eldelnacho",
     "description": "Play as a riot cop fighting hordes of criminals and degenerates in this top-down style beat 'em up.",
     "genre": "Action",
@@ -57349,11 +57502,11 @@
     ]
   },
   {
-    "author": "LMC_dd",
+    "author": "GodoTer",
     "description": "Memory",
     "genre": "Educational",
     "id": "591033",
-    "link": "https://lmc-dd.itch.io/memory",
+    "link": "https://godoter.itch.io/memory",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMxMjg4MjEucG5n/315x250%23c/NAsnIO.png",
     "title": "Memory_N",
@@ -66369,24 +66522,6 @@
       "The",
       "Dark",
       "Forest"
-    ]
-  },
-  {
-    "author": "Shapkofil",
-    "description": "Rain Game",
-    "genre": null,
-    "id": "636076",
-    "link": "https://shapkofil.itch.io/downfall",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0OTUxNDAucG5n/315x250%23c/G9oEVY.png",
-    "title": "Downfall",
-    "video": null,
-    "scrapeWords": [
-      "Downfall"
     ]
   },
   {
@@ -84809,6 +84944,25 @@
     ]
   },
   {
+    "author": "KennyTheBard",
+    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
+    "genre": "Sports",
+    "id": "727007",
+    "link": "https://kennythebard.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
+    ]
+  },
+  {
     "author": "lapspider45",
     "description": "A slime's quest for revenge against the evil Dr. Kidd",
     "genre": "Platformer",
@@ -101855,7 +102009,7 @@
   },
   {
     "author": "Finn Pickart",
-    "description": "You play as a donut and you have to try not to be eaten. To get points you have to provoke and set traps",
+    "description": "Try not to be eaten. Use traps to get points. You can find them in item boxes",
     "genre": "Action",
     "id": "807447",
     "link": "https://finn378.itch.io/donut-seduction",
@@ -101865,7 +102019,7 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ1MjU1ODMucG5n/315x250%23c/y3LGQK.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4Mjk2NDQucG5n/315x250%23c/fSgPxV.png",
     "title": "Donut Seduction",
     "video": null,
     "scrapeWords": [
@@ -111234,6 +111388,26 @@
     ]
   },
   {
+    "author": "nad_labs",
+    "description": null,
+    "genre": "Strategy",
+    "id": "871907",
+    "link": "https://nad-labs.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
+    ]
+  },
+  {
     "author": "GNamimates",
     "description": "among us",
     "genre": "Interactive Fiction",
@@ -111465,23 +111639,6 @@
       "Nameless",
       "Project",
       "1"
-    ]
-  },
-  {
-    "author": "Gaax Inc.",
-    "description": "Play Flappy Bird Again",
-    "genre": "Action",
-    "id": "873443",
-    "link": "https://gaax-inc.itch.io/flappy-bird",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5MTE2ODAucG5n/315x250%23c/bJaKjD.png",
-    "title": "Flappy Bird",
-    "video": null,
-    "scrapeWords": [
-      "Flappy",
-      "Bird"
     ]
   },
   {
@@ -111737,6 +111894,27 @@
       "Alight",
       "LDjam",
       "46"
+    ]
+  },
+  {
+    "author": "LOYAL INTERACTIVE",
+    "description": null,
+    "genre": "Platformer",
+    "id": "875396",
+    "link": "https://solucionesconresultado.itch.io/lexy-nix-en-el-templo-del-sol-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MjUxMDIucG5n/315x250%23c/AZTkc7.png",
+    "title": "Lex y Nix en el Templo del Sol Demo",
+    "video": null,
+    "scrapeWords": [
+      "Lex",
+      "y",
+      "Nix",
+      "en",
+      "el",
+      "Templo",
+      "del",
+      "Sol"
     ]
   },
   {
@@ -112376,7 +112554,7 @@
   {
     "author": "GagaPete",
     "description": null,
-    "genre": null,
+    "genre": "Strategy",
     "id": "879019",
     "link": "https://gagapete.itch.io/no-way-up",
     "platforms": [
@@ -117091,6 +117269,24 @@
     ]
   },
   {
+    "author": "arthurpaulino",
+    "description": "Play as a Gyrom called Izzy and control how gravity affects you!",
+    "genre": "Platformer",
+    "id": "908219",
+    "link": "https://arthurpaulino.itch.io/spinstar",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MTI1ODMuZ2lm/315x250%23cm/UHLYiL.gif",
+    "title": "Spinstar",
+    "video": "https://img.itch.zone/aW1nLzU3MTI1ODMuZ2lm/original/ves0P5.gif",
+    "scrapeWords": [
+      "Spinstar"
+    ]
+  },
+  {
     "author": "WaveCollapse",
     "description": "Solve puzzles as Io the robot",
     "genre": "Puzzle",
@@ -119541,26 +119737,6 @@
       "Friends",
       "Dungeon",
       "Rescue"
-    ]
-  },
-  {
-    "author": "twodotsixk",
-    "description": "help an alien to escape from a laboratory cloning himself",
-    "genre": "Platformer",
-    "id": "924725",
-    "link": "https://twodotsixk.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyMjkxODgucG5n/315x250%23c/0SdS0C.png",
-    "title": "Escape The Lab",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Lab"
     ]
   },
   {
@@ -123509,21 +123685,6 @@
     "video": null,
     "scrapeWords": [
       "Boxoku"
-    ]
-  },
-  {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -131046,6 +131207,21 @@
     "scrapeWords": [
       "TDS",
       "2"
+    ]
+  },
+  {
+    "author": "GuroGuru",
+    "description": "Two alien judoka, thirty minutes to live and one single technique: the legendary seoi-nage!",
+    "genre": "Fighting",
+    "id": "999215",
+    "link": "https://guroguru.itch.io/seoi-man",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2ODYxNDcucG5n/315x250%23c/8V4MX4.png",
+    "title": "Seoi Man!",
+    "video": null,
+    "scrapeWords": [
+      "Seoi",
+      "Man"
     ]
   },
   {
