@@ -909,6 +909,28 @@
     ]
   },
   {
+    "author": "Rafagars",
+    "description": "Survive every wave of enemies that spawn every 10 seconds",
+    "genre": "Shooter",
+    "id": "1004944",
+    "link": "https://rafagars.itch.io/shmup-with-very-bad-title",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MjMzMzcucG5n/315x250%23c/Fu32Pr.png",
+    "title": "shmup with very bad title",
+    "video": null,
+    "scrapeWords": [
+      "shmup",
+      "with",
+      "very",
+      "bad",
+      "title"
+    ]
+  },
+  {
     "author": "Synzorasize",
     "description": "No goal in particular, but you can spam a bunch of silver bullets.",
     "genre": "Shooter",
@@ -1583,7 +1605,7 @@
     "id": "1009962",
     "link": "https://dyariko.itch.io/beam-reflector",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU3NzQ2MjQucG5n/315x250%23c/OOVktk.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4NDA2MzUucG5n/315x250%23c/Lk3DMg.png",
     "title": "Beam Reflector",
     "video": null,
     "scrapeWords": [
@@ -1613,7 +1635,7 @@
   {
     "author": "GarterSnake508",
     "description": "A video game of the fantasy, The Book of the Dun Cow.",
-    "genre": "Platformer",
+    "genre": "Role Playing",
     "id": "1010534",
     "link": "https://gartersnake508.itch.io/the-book-of-the-dun-cow",
     "platforms": [
@@ -3352,7 +3374,7 @@
   },
   {
     "author": "Fredrik Edman",
-    "description": "Point & click adventure set in a spooky house!",
+    "description": "Point & click adventure set in a spooky house! Ludum Dare 48 entry.",
     "genre": "Adventure",
     "id": "1015561",
     "link": "https://fpeg.itch.io/blackout-ld48",
@@ -3874,7 +3896,8 @@
     "link": "https://warrrkus.itch.io/oceanwork",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3OTMyMjMucG5n/315x250%23c/fB%2BfHm.png",
     "title": "Oceanwork",
@@ -4117,6 +4140,29 @@
     ]
   },
   {
+    "author": "Goodgis",
+    "description": "A Short Story about Elves and Egos",
+    "genre": "Adventure",
+    "id": "1018048",
+    "link": "https://goodgis.itch.io/badgis-the-supercilious-maze-of-malcontents",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4MzA3NjUuZ2lm/315x250%23cm/lzzeaw.gif",
+    "title": "Badgis & The Supercilious Maze of Malcontents",
+    "video": "https://img.itch.zone/aW1nLzU4MzA3NjUuZ2lm/original/QuFGb7.gif",
+    "scrapeWords": [
+      "Badgis",
+      "The",
+      "Supercilious",
+      "Maze",
+      "of",
+      "Malcontents"
+    ]
+  },
+  {
     "author": "nerdur",
     "description": null,
     "genre": "Puzzle",
@@ -4221,21 +4267,6 @@
     ]
   },
   {
-    "author": "PrymeEvil",
-    "description": "Beat everyone else's runs in this short speedrunning game!",
-    "genre": "Platformer",
-    "id": "1020158",
-    "link": "https://prymeevil.itch.io/beat-run",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU4MTQ2MjUuanBn/315x250%23c/fdDrKq.jpg",
-    "title": "Beat Run!",
-    "video": null,
-    "scrapeWords": [
-      "Beat",
-      "Run"
-    ]
-  },
-  {
     "author": "DDRKirby(ISQ)",
     "description": "An adventure game about exploring a cat's dreams.",
     "genre": "Adventure",
@@ -4286,6 +4317,20 @@
       "Chiquita",
       "Madness",
       "Day"
+    ]
+  },
+  {
+    "author": "BeamBrain",
+    "description": "Breakout meets Missile Command!",
+    "genre": "Action",
+    "id": "1020828",
+    "link": "https://beambrain.itch.io/gunball",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NDEyNzAucG5n/315x250%23c/QRowIx.png",
+    "title": "Gunball",
+    "video": null,
+    "scrapeWords": [
+      "Gunball"
     ]
   },
   {
@@ -4368,6 +4413,139 @@
       "Double",
       "Slit",
       "Visualizer"
+    ]
+  },
+  {
+    "author": "Team Void Heart",
+    "description": "An open source platformer.",
+    "genre": "Platformer",
+    "id": "1022750",
+    "link": "https://team-void-heart.itch.io/paper-climb",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4MzY5ODcucG5n/315x250%23c/B1pgSB.png",
+    "title": "Paper-Climb",
+    "video": null,
+    "scrapeWords": [
+      "Paper-Climb"
+    ]
+  },
+  {
+    "author": "bluemeerkat",
+    "description": "A short game about repairing a wrecked ship",
+    "genre": "Action",
+    "id": "1023534",
+    "link": "https://bluemeerkat.itch.io/into-the-depths",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4MzgxNTEucG5n/315x250%23c/wA%2F%2FQD.png",
+    "title": "Into the Depths",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "the",
+      "Depths"
+    ]
+  },
+  {
+    "author": "Krad",
+    "description": "A hyper casual game suitable for killing your time",
+    "genre": null,
+    "id": "1023535",
+    "link": "https://tungkradle.itch.io/whitedrop-android",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4Mzc4MDMucG5n/315x250%23c/lKku0R.png",
+    "title": "White Drop on Android",
+    "video": null,
+    "scrapeWords": [
+      "White",
+      "Drop",
+      "on",
+      "Android"
+    ]
+  },
+  {
+    "author": "GetBass",
+    "description": "A tech demo showing off the building generation features and lighting of my game",
+    "genre": null,
+    "id": "1023985",
+    "link": "https://getbass.itch.io/city-buildinglighting-demo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4Mzk1MDEuanBn/315x250%23c/sxCMo5.jpg",
+    "title": "City Building/Lighting Tech Demo",
+    "video": null,
+    "scrapeWords": [
+      "City",
+      "Building",
+      "Lighting",
+      "Tech"
+    ]
+  },
+  {
+    "author": "KobeDoby",
+    "description": "#godot",
+    "genre": "Shooter",
+    "id": "1024051",
+    "link": "https://kobedoby.itch.io/eventual-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NDA0MjMucG5n/315x250%23c/cB0O07.png",
+    "title": "Eventual Game",
+    "video": null,
+    "scrapeWords": [
+      "Eventual",
+      "Game"
+    ]
+  },
+  {
+    "author": "kingyanray",
+    "description": "Save lives and make money by providing power to the US grid.",
+    "genre": "Simulation",
+    "id": "1024153",
+    "link": "https://kingyanray.itch.io/green-tycoon-simulator",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NDA0MTgucG5n/315x250%23c/QndLiV.png",
+    "title": "Green Tycoon Simulator",
+    "video": null,
+    "scrapeWords": [
+      "Green",
+      "Tycoon",
+      "Simulator"
+    ]
+  },
+  {
+    "author": "Neverite",
+    "description": "soup.",
+    "genre": null,
+    "id": "1024505",
+    "link": "https://neverite.itch.io/quick-delivery",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NDI0NjYucG5n/315x250%23c/OkMBj8.png",
+    "title": "Quick Delivery",
+    "video": null,
+    "scrapeWords": [
+      "Quick",
+      "Delivery"
+    ]
+  },
+  {
+    "author": "zedpoum",
+    "description": "a jam game about poisoning your foes (trijam#118)",
+    "genre": null,
+    "id": "1024537",
+    "link": "https://ausindiz.itch.io/spysonous",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NDI3MDAuanBn/315x250%23c/3BLFCI.jpg",
+    "title": "spysonous",
+    "video": null,
+    "scrapeWords": [
+      "spysonous"
     ]
   },
   {
@@ -38732,7 +38910,7 @@
     "description": "Small Infinite Runner Game Created for TraiJam29",
     "genre": "Survival",
     "id": "456414",
-    "link": "https://samdaiya.itch.io/dobby-run",
+    "link": "https://samdaiyagames.itch.io/dobby-run",
     "platforms": [
       "Linux"
     ],
@@ -42456,7 +42634,7 @@
     "description": "It's a Puzzel Game inspired by \"Alt+F4\" Shortcut to \"Exit Applications\".",
     "genre": "Puzzle",
     "id": "476488",
-    "link": "https://samdaiya.itch.io/alt-f4",
+    "link": "https://samdaiyagames.itch.io/alt-f4",
     "platforms": [
       "Linux"
     ],
@@ -43117,28 +43295,6 @@
     "video": null,
     "scrapeWords": [
       "Erasterra"
-    ]
-  },
-  {
-    "author": "heckin_doggo",
-    "description": "Collect the movies. Become the Governator.",
-    "genre": "Platformer",
-    "id": "480855",
-    "link": "https://heckin-doggo.itch.io/arnold",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI0NzcxODUucG5n/315x250%23c/lcGP3z.png",
-    "title": "Arnold and the Quest to become Governor of California",
-    "video": null,
-    "scrapeWords": [
-      "Arnold",
-      "and",
-      "the",
-      "Quest",
-      "to",
-      "become",
-      "Governor",
-      "of",
-      "California"
     ]
   },
   {
@@ -55052,7 +55208,7 @@
     "description": "3 Hour Super Hexagon Clone",
     "genre": "Survival",
     "id": "574200",
-    "link": "https://samdaiya.itch.io/hyper-hexagon",
+    "link": "https://samdaiyagames.itch.io/hyper-hexagon",
     "platforms": [
       "Windows",
       "Linux",
@@ -82897,21 +83053,6 @@
       "way",
       "is",
       "up"
-    ]
-  },
-  {
-    "author": "Diogo Vernier",
-    "description": "Puzzle game in which you have to turn off all the lights",
-    "genre": "Puzzle",
-    "id": "714207",
-    "link": "https://diogo-vernier.itch.io/lights-out",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTg0MTkucG5n/315x250%23c/IJjiv9.png",
-    "title": "Lights Out",
-    "video": null,
-    "scrapeWords": [
-      "Lights",
-      "Out"
     ]
   },
   {
@@ -111507,6 +111648,21 @@
     ]
   },
   {
+    "author": "mikepurdy",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "872636",
+    "link": "https://purdy.itch.io/lights-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDY1MTcucG5n/315x250%23c/Pg8hdB.png",
+    "title": "Lights Out",
+    "video": null,
+    "scrapeWords": [
+      "Lights",
+      "Out"
+    ]
+  },
+  {
     "author": "Bedroom Coders",
     "description": "Crush the Soviet Menace in this famous piece of CIA propaganda!",
     "genre": "Platformer",
@@ -114952,7 +115108,7 @@
   {
     "author": "dylanjaide",
     "description": "A 2D puzzle game - try to climb the tower, while the floor falls apart underneath you.",
-    "genre": null,
+    "genre": "Puzzle",
     "id": "894097",
     "link": "https://dylanjaide.itch.io/scaling-perpettua",
     "platforms": null,
@@ -124661,24 +124817,6 @@
     ]
   },
   {
-    "author": "Danielle's games",
-    "description": null,
-    "genre": "Strategy",
-    "id": "952808",
-    "link": "https://danielles-games.itch.io/icy-maze",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0MDE2MTguanBn/315x250%23c/HhMyV3.jpg",
-    "title": "Icy Maze",
-    "video": null,
-    "scrapeWords": [
-      "Icy",
-      "Maze"
-    ]
-  },
-  {
     "author": "gamesbybamsall",
     "description": "You Have 30 Seconds To Ambush A Gang Of Angry Cubes!!",
     "genre": "Shooter",
@@ -125150,7 +125288,7 @@
   },
   {
     "author": "Cuchi",
-    "description": "\"Born, without a goal. I’m sorry. Find your Zeichen\"",
+    "description": "Zeichen is an action RPG open map game currently in developing.",
     "genre": "Adventure",
     "id": "955838",
     "link": "https://cuchi.itch.io/zeichen",
@@ -130580,6 +130718,22 @@
     ]
   },
   {
+    "author": "Israel Ruiz",
+    "description": "Explore and discover a strange world that doesnt seem to make any sense.",
+    "genre": "Educational",
+    "id": "992167",
+    "link": "https://israelruiz.itch.io/aaaa",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MjA2MDkucG5n/315x250%23c/6yrX1u.png",
+    "title": "AAAA",
+    "video": null,
+    "scrapeWords": [
+      "AAAA"
+    ]
+  },
+  {
     "author": "TNTC-Lab",
     "description": "...keep entering them to stay alive",
     "genre": "Puzzle",
@@ -131247,10 +131401,7 @@
     "genre": "Action",
     "id": "999365",
     "link": "https://flamestar.itch.io/orbmancer",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU3NTQ0NjEucG5n/315x250%23c/5j0oox.png",
     "title": "Orbmancer",
     "video": null,
