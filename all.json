@@ -3414,22 +3414,6 @@
     ]
   },
   {
-    "author": "KnightOrc",
-    "description": "A game jam entry for Ludum Dare 48",
-    "genre": "Shooter",
-    "id": "1015549",
-    "link": "https://knightorc.itch.io/downfall",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU3ODUwOTEucG5n/315x250%23c/Vk25%2F7.png",
-    "title": "Downfall",
-    "video": null,
-    "scrapeWords": [
-      "Downfall"
-    ]
-  },
-  {
     "author": "Fredrik Edman",
     "description": "Point & click adventure set in a spooky house! Ludum Dare 48 entry.",
     "genre": "Adventure",
@@ -4287,7 +4271,9 @@
     "id": "1018228",
     "link": "https://sacristan.itch.io/ggfarce",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4NTMxMTYucG5n/315x250%23c/hj64PO.png",
     "title": "GGFarce",
@@ -4439,7 +4425,7 @@
     "description": null,
     "genre": "Interactive Fiction",
     "id": "1020803",
-    "link": "https://hyperfocused-games.itch.io/chiquita-madness-day",
+    "link": "https://hyperfocused.itch.io/chiquita-madness-day",
     "platforms": [
       "Windows",
       "Linux"
@@ -4602,6 +4588,24 @@
     ]
   },
   {
+    "author": "Unsteady Yeti Games",
+    "description": "2D Physics-Based Action Platformer",
+    "genre": "Platformer",
+    "id": "1022942",
+    "link": "https://uygames.itch.io/just-jump",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4MzI5OTIuZ2lm/315x250%23cm/SV%2B0yo.gif",
+    "title": "Just Jump",
+    "video": "https://img.itch.zone/aW1nLzU4MzI5OTIuZ2lm/original/6lwlOH.gif",
+    "scrapeWords": [
+      "Just",
+      "Jump"
+    ]
+  },
+  {
     "author": "g3rwy",
     "description": "It's a game that is inspired by DOS era and the dungeon crawlers.",
     "genre": "Strategy",
@@ -4616,6 +4620,22 @@
     "video": null,
     "scrapeWords": [
       "Salesman"
+    ]
+  },
+  {
+    "author": "thatnick",
+    "description": "Grow your caterpillar by eating leaves. Avoid the other bugs. Fulfil your destiny and become a beautiful butterfly.",
+    "genre": "Survival",
+    "id": "1023413",
+    "link": "https://thatnick.itch.io/growth",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NDU5MTMuanBn/315x250%23c/pAFBsn.jpg",
+    "title": "GrowGrowCaterpillar",
+    "video": null,
+    "scrapeWords": [
+      "Grow",
+      "Grow",
+      "Caterpillar"
     ]
   },
   {
@@ -4679,11 +4699,13 @@
     "link": "https://kobedoby.itch.io/eventual-game",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU4NDA0MjMucG5n/315x250%23c/cB0O07.png",
-    "title": "Eventual Game",
+    "title": "Eventual Game Don't try",
     "video": null,
     "scrapeWords": [
       "Eventual",
-      "Game"
+      "Game",
+      "Dont",
+      "try"
     ]
   },
   {
@@ -4702,6 +4724,22 @@
       "Green",
       "Tycoon",
       "Simulator"
+    ]
+  },
+  {
+    "author": "Sezotove",
+    "description": "Be Frog, Save Eggs!",
+    "genre": "Adventure",
+    "id": "1024212",
+    "link": "https://sezotove.itch.io/bigpappafrogg",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NjAwMTEucG5n/315x250%23c/VVxEE%2B.png",
+    "title": "BigPappaFrogg",
+    "video": null,
+    "scrapeWords": [
+      "Big",
+      "Pappa",
+      "Frogg"
     ]
   },
   {
@@ -4785,6 +4823,23 @@
     "scrapeWords": [
       "Fly",
       "Frogged"
+    ]
+  },
+  {
+    "author": "SleepyWombat",
+    "description": "A 2D Puzzle and Platformer",
+    "genre": "Platformer",
+    "id": "1024792",
+    "link": "https://sleepywombat.itch.io/slimes-adventures-the-crown",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NDQzODQucG5n/315x250%23c/NdGxib.png",
+    "title": "Slime's Adventures The Crown",
+    "video": null,
+    "scrapeWords": [
+      "Slimes",
+      "Adventures",
+      "The",
+      "Crown"
     ]
   },
   {
@@ -4979,6 +5034,27 @@
     ]
   },
   {
+    "author": "GitbonGames",
+    "description": "(AUN EN DESARROLLO) The Nightmare is just Beginning",
+    "genre": "Adventure",
+    "id": "1025791",
+    "link": "https://gitbongames.itch.io/alone-in-the-forest-2d-prealfa",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NTcwMDUuanBn/315x250%23c/y9hJH5.jpg",
+    "title": "Alone in the Forest 2D",
+    "video": null,
+    "scrapeWords": [
+      "Alone",
+      "in",
+      "the",
+      "Forest",
+      "2",
+      "D"
+    ]
+  },
+  {
     "author": "Pedrohjv",
     "description": null,
     "genre": "Platformer",
@@ -4993,6 +5069,39 @@
     "scrapeWords": [
       "Divine",
       "Daycare"
+    ]
+  },
+  {
+    "author": "Ramiro Almeida Basso",
+    "description": "Be the playground salesman",
+    "genre": "Action",
+    "id": "1025831",
+    "link": "https://wobbumash.itch.io/minipreneur",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NTA1MzAucG5n/315x250%23c/Aetor1.png",
+    "title": "Minipreneur - An Entrepreneurship Simulator?",
+    "video": null,
+    "scrapeWords": [
+      "Minipreneur",
+      "An",
+      "Entrepreneurship",
+      "Simulator"
+    ]
+  },
+  {
+    "author": "Dreatern",
+    "description": "Ultimate Ninja Dad",
+    "genre": "Action",
+    "id": "1025899",
+    "link": "https://dreatern.itch.io/ultimate-ninja-dad",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NTA5MTgucG5n/315x250%23c/Ab6IaW.png",
+    "title": "Ultimate Ninja Dad",
+    "video": null,
+    "scrapeWords": [
+      "Ultimate",
+      "Ninja",
+      "Dad"
     ]
   },
   {
@@ -5011,6 +5120,89 @@
     "scrapeWords": [
       "Slurp",
       "Ninja"
+    ]
+  },
+  {
+    "author": "ResRebus",
+    "description": "Play as a tiny adventurous frog caught in a cursed swamp. Survive as long as you can!",
+    "genre": "Survival",
+    "id": "1026079",
+    "link": "https://resrebusstudios.itch.io/frobbit",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NTE4MTcucG5n/315x250%23c/HLLmoo.png",
+    "title": "Frobbit",
+    "video": null,
+    "scrapeWords": [
+      "Frobbit"
+    ]
+  },
+  {
+    "author": "slampisko",
+    "description": "You're a bee. Do bee things.",
+    "genre": null,
+    "id": "1026255",
+    "link": "https://slampisko.itch.io/or-not-to-bee",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NTc1NTMucG5n/315x250%23c/uyWrFZ.png",
+    "title": "... Or Not To Bee",
+    "video": null,
+    "scrapeWords": [
+      "Or",
+      "Not",
+      "To",
+      "Bee"
+    ]
+  },
+  {
+    "author": "LateNightDev064",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1026265",
+    "link": "https://latenightdev064.itch.io/legendary-knight-stories",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NTk2NjkucG5n/315x250%23c/hPbHk%2F.png",
+    "title": "Legendary Knight Stories",
+    "video": null,
+    "scrapeWords": [
+      "Legendary",
+      "Knight",
+      "Stories"
+    ]
+  },
+  {
+    "author": "lkidfuryl",
+    "description": "La belleza no es potencia",
+    "genre": "Shooter",
+    "id": "1027042",
+    "link": "https://lkidfuryl.itch.io/spcaye",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NTc5MjIucG5n/315x250%23c/i3TzJ0.png",
+    "title": "SPCAYE",
+    "video": null,
+    "scrapeWords": [
+      "SPCAYE"
+    ]
+  },
+  {
+    "author": "Mr.Nekuromu",
+    "description": "How many chops can you do in 60 seconds?",
+    "genre": null,
+    "id": "1027085",
+    "link": "https://nekuromu.itch.io/pixelchopper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NTk2MjAucG5n/315x250%23c/UHd6XW.png",
+    "title": "Pixel Chopper",
+    "video": null,
+    "scrapeWords": [
+      "Pixel",
+      "Chopper"
     ]
   },
   {
@@ -22568,7 +22760,6 @@
     "id": "307615",
     "link": "https://agameraaron.itch.io/tiktaaliks-tale",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMzA3NjE1LzE1MTAzMDEucG5n/315x250%23c/47vIlz.png",
@@ -26212,11 +26403,11 @@
     ]
   },
   {
-    "author": "gNeFnAp",
+    "author": "pf",
     "description": null,
     "genre": "Simulation",
     "id": "339282",
-    "link": "https://gnefnap.itch.io/life-simulator",
+    "link": "https://pf.itch.io/life-simulator",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIwODQwMjguanBn/315x250%23c/tBB%2FcR.jpg",
     "title": "Life Simulator",
@@ -29094,7 +29285,7 @@
     ]
   },
   {
-    "author": "BrainChocolate",
+    "author": "Skulltip",
     "description": "A one button, pixel-art, endless runner with online leaderboards.",
     "genre": null,
     "id": "363543",
@@ -35267,6 +35458,26 @@
     ]
   },
   {
+    "author": "AikonCWD",
+    "description": "John Conway's Game of Life implemented in Godot",
+    "genre": "Simulation",
+    "id": "423326",
+    "link": "https://aikoncwd.itch.io/game-of-life",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5MjAzOTYucG5n/315x250%23c/76IXY8.png",
+    "title": "Game of Life",
+    "video": null,
+    "scrapeWords": [
+      "Game",
+      "of",
+      "Life"
+    ]
+  },
+  {
     "author": "44pes",
     "description": "Complete all the levels to get the reward from Lucifer.",
     "genre": "Action",
@@ -37002,19 +37213,21 @@
     ]
   },
   {
-    "author": "Joe",
-    "description": "A  2d space shooter with exploding asteroids",
-    "genre": "Shooter",
-    "id": "438847",
-    "link": "https://pdxgames.itch.io/space-thugs-infinity",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIyMDYwMDMuanBn/315x250%23c/Il0hKo.jpg",
-    "title": "Space Thugs Infinity",
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
     "video": null,
     "scrapeWords": [
-      "Space",
-      "Thugs",
-      "Infinity"
+      "Hoppy",
+      "Days"
     ]
   },
   {
@@ -64543,6 +64756,28 @@
     ]
   },
   {
+    "author": "IronStudios",
+    "description": "Help the alien grow without the evil aliens killing it.",
+    "genre": "Survival",
+    "id": "620185",
+    "link": "https://ironstudios.itch.io/hmg-ld",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyOTY4MzEucG5n/315x250%23c/7u4YVg.png",
+    "title": "Help Me GROW!: Jam Edition [GA]",
+    "video": null,
+    "scrapeWords": [
+      "Help",
+      "Me",
+      "GROW",
+      "Jam",
+      "Edition",
+      "[GA]"
+    ]
+  },
+  {
     "author": "hypermania",
     "description": "What happens when you try to perform a Satanic ritual alone?",
     "genre": null,
@@ -67125,6 +67360,24 @@
       "The",
       "Dark",
       "Forest"
+    ]
+  },
+  {
+    "author": "Shapkofil",
+    "description": "Rain Game",
+    "genre": null,
+    "id": "636076",
+    "link": "https://shapkofil.itch.io/downfall",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0OTUxNDAucG5n/315x250%23c/G9oEVY.png",
+    "title": "Downfall",
+    "video": null,
+    "scrapeWords": [
+      "Downfall"
     ]
   },
   {
@@ -84175,24 +84428,6 @@
     "scrapeWords": [
       "Dino",
       "Jump"
-    ]
-  },
-  {
-    "author": "Fern&Dez",
-    "description": null,
-    "genre": null,
-    "id": "718805",
-    "link": "https://ferndez.itch.io/game-of-life",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM5ODUwOTgucG5n/315x250%23c/R9%2BJ00.png",
-    "title": "Game of Life",
-    "video": null,
-    "scrapeWords": [
-      "Game",
-      "of",
-      "Life"
     ]
   },
   {
@@ -115963,6 +116198,20 @@
     ]
   },
   {
+    "author": "gustavorubo",
+    "description": "A puzzle game about connecting dots",
+    "genre": "Puzzle",
+    "id": "896992",
+    "link": "https://gustavorubo.itch.io/rotas",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU2NDI0MjMucG5n/315x250%23c/vDTgxx.png",
+    "title": "Rotas",
+    "video": null,
+    "scrapeWords": [
+      "Rotas"
+    ]
+  },
+  {
     "author": "Nep toodles",
     "description": null,
     "genre": "Platformer",
@@ -124257,21 +124506,6 @@
     "video": null,
     "scrapeWords": [
       "Boxoku"
-    ]
-  },
-  {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
