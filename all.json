@@ -1373,7 +1373,7 @@
   {
     "author": "Soysouce",
     "description": null,
-    "genre": null,
+    "genre": "Survival",
     "id": "1007894",
     "link": "https://soysouce.itch.io/turtle-terror-version-100",
     "platforms": [
@@ -1381,13 +1381,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3NDE2MDkucG5n/315x250%23c/WLwiZD.png",
-    "title": "Turtle Terror version. 1.0.0.",
+    "title": "Turtle Terror version. 2.0.0.",
     "video": null,
     "scrapeWords": [
       "Turtle",
       "Terror",
       "version",
-      "100"
+      "200"
     ]
   },
   {
@@ -1423,7 +1423,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU4NDg3MzgucG5n/315x250%23c/KK5qVW.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4NzQ4NzUucG5n/315x250%23c/chN8dE.png",
     "title": "HellroN",
     "video": null,
     "scrapeWords": [
@@ -4717,13 +4717,12 @@
     "link": "https://kobedoby.itch.io/eventual-game",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU4NDA0MjMucG5n/315x250%23c/cB0O07.png",
-    "title": "Eventual Game Don't try",
+    "title": "Eventual Game(before Multiplayer)",
     "video": null,
     "scrapeWords": [
       "Eventual",
-      "Game",
-      "Dont",
-      "try"
+      "Gamebefore",
+      "Multiplayer"
     ]
   },
   {
@@ -5234,20 +5233,6 @@
     ]
   },
   {
-    "author": "lkidfuryl",
-    "description": "En un mundo donde si pierdes todo reinicia",
-    "genre": "Shooter",
-    "id": "1027042",
-    "link": "https://lkidfuryl.itch.io/spcaye",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU4NTc5MjIucG5n/315x250%23c/i3TzJ0.png",
-    "title": "SPCAYE",
-    "video": null,
-    "scrapeWords": [
-      "SPCAYE"
-    ]
-  },
-  {
     "author": "Mr.Nekuromu",
     "description": "How many chops can you do in 60 seconds?",
     "genre": null,
@@ -5288,15 +5273,32 @@
     "genre": "Action",
     "id": "1027589",
     "link": "https://agex005.itch.io/epik-bird",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU4NjEyNjYucG5n/315x250%23c/mvLWyD.png",
     "title": "Epik Bird",
     "video": null,
     "scrapeWords": [
       "Epik",
       "Bird"
+    ]
+  },
+  {
+    "author": "mlatu",
+    "description": "Stuck in time, the only winning move is to fight.",
+    "genre": "Action",
+    "id": "1027917",
+    "link": "https://mlatu.itch.io/tmppest",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NzY0OTUucG5n/315x250%23c/pFG4KO.png",
+    "title": "Temporal Pest",
+    "video": null,
+    "scrapeWords": [
+      "Temporal",
+      "Pest"
     ]
   },
   {
@@ -5334,6 +5336,60 @@
       "Curdles",
       "Jam",
       "Factory"
+    ]
+  },
+  {
+    "author": "gamesbybamsall",
+    "description": "Escape The Randomly Generated Maze!",
+    "genre": "Adventure",
+    "id": "1029118",
+    "link": "https://gamesbybamsall.itch.io/the-everchanging-maze",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NzA1MTEucG5n/315x250%23c/HOvHOW.png",
+    "title": "The Everchanging Maze",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Everchanging",
+      "Maze"
+    ]
+  },
+  {
+    "author": "TheCaister",
+    "description": "A game where money is the center of everything. Will you be able to pay off your debt in time?!",
+    "genre": "Action",
+    "id": "1029857",
+    "link": "https://thecaister.itch.io/at-debts-door",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NzUxNTEucG5n/315x250%23c/L2M1KY.png",
+    "title": "At Debt's Door",
+    "video": null,
+    "scrapeWords": [
+      "At",
+      "Debts",
+      "Door"
+    ]
+  },
+  {
+    "author": "Totally",
+    "description": "A fun topdown racing game",
+    "genre": "Racing",
+    "id": "1030013",
+    "link": "https://totallyjustmagic.itch.io/ventus-celer",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NzYwMjYucG5n/315x250%23c/PnrnfY.png",
+    "title": "Ventus Celer",
+    "video": null,
+    "scrapeWords": [
+      "Ventus",
+      "Celer"
     ]
   },
   {
@@ -12887,6 +12943,23 @@
       "Adventure",
       "Platformer",
       "Prototype"
+    ]
+  },
+  {
+    "author": "DAZEL",
+    "description": "Face waves of alien dinosaur zombies with your friends!",
+    "genre": "Action",
+    "id": "242157",
+    "link": "https://dazel.itch.io/ink-o-saur",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjQyMTU3LzExNTUzNDQucG5n/315x250%23c/1x2piR.png",
+    "title": "Ink-o-Saur",
+    "video": null,
+    "scrapeWords": [
+      "Ink-o-Saur"
     ]
   },
   {
@@ -22855,6 +22928,7 @@
     "id": "307615",
     "link": "https://agameraaron.itch.io/tiktaaliks-tale",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1hZ2UvMzA3NjE1LzE1MTAzMDEucG5n/315x250%23c/47vIlz.png",
@@ -37285,24 +37359,6 @@
     "video": null,
     "scrapeWords": [
       "Patter"
-    ]
-  },
-  {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -93289,6 +93345,24 @@
     ]
   },
   {
+    "author": "carl",
+    "description": "Página 253 del webcómic Homestuck de Andrew Hussie",
+    "genre": "Interactive Fiction",
+    "id": "754404",
+    "link": "https://modestcarl.itch.io/homestuck-page-253",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQyMTQ2ODUuZ2lm/315x250%23cm/SkOBbw.gif",
+    "title": "Homestuck Página 253 (Spanish only)",
+    "video": "https://img.itch.zone/aW1nLzQyMTQ2ODUuZ2lm/original/x8CTiz.gif",
+    "scrapeWords": [
+      "Homestuck",
+      "Página",
+      "253",
+      "Spanish",
+      "only"
+    ]
+  },
+  {
     "author": "talamander",
     "description": "Adapt To Survive",
     "genre": "Action",
@@ -108431,6 +108505,25 @@
     ]
   },
   {
+    "author": "carl",
+    "description": "let's just forgeeeet",
+    "genre": null,
+    "id": "844599",
+    "link": "https://modestcarl.itch.io/americanfootball",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ3MzUxOTMucG5n/315x250%23c/wrUOb%2B.png",
+    "title": "americ anfootball as a ps1 game",
+    "video": null,
+    "scrapeWords": [
+      "americ",
+      "anfootball",
+      "as",
+      "a",
+      "ps1",
+      "game"
+    ]
+  },
+  {
     "author": "Bard Development",
     "description": "Point and shoot. Destroy Christmas spirit. Created for Winter Game Jam 2020",
     "genre": "Shooter",
@@ -113300,6 +113393,22 @@
       "Path",
       "of",
       "Tengri"
+    ]
+  },
+  {
+    "author": "Omar Lamine Mezerreg",
+    "description": "Rolling ball game pc",
+    "genre": null,
+    "id": "878177",
+    "link": "https://omar-lamine-mezerreg.itch.io/rolling",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5NDI0MjgucG5n/315x250%23c/r8FILP.png",
+    "title": "Rolling",
+    "video": null,
+    "scrapeWords": [
+      "Rolling"
     ]
   },
   {
@@ -120854,6 +120963,29 @@
     ]
   },
   {
+    "author": "carl",
+    "description": "It just so happens that today, the 12th of April, 2009, is the day before this young man's birthday.",
+    "genre": "Puzzle",
+    "id": "925848",
+    "link": "https://modestcarl.itch.io/a-young-man",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMzYxNjkucG5n/315x250%23c/AH5Fyj.png",
+    "title": "A young man stands in his bedroom",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "young",
+      "man",
+      "stands",
+      "in",
+      "his",
+      "bedroom"
+    ]
+  },
+  {
     "author": "zeegames",
     "description": null,
     "genre": "Puzzle",
@@ -124619,6 +124751,21 @@
     ]
   },
   {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Escada Games",
     "description": "Asteroids with special relativity",
     "genre": "Shooter",
@@ -125441,7 +125588,7 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzOTI0MDgucG5n/315x250%23c/lUVZtT.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4Nzk4OTgucG5n/315x250%23c/6PhRLx.png",
     "title": "Maze 2D",
     "video": null,
     "scrapeWords": [
@@ -125589,6 +125736,24 @@
       "De",
       "Un",
       "Juego"
+    ]
+  },
+  {
+    "author": "Danielle's games",
+    "description": null,
+    "genre": "Strategy",
+    "id": "952808",
+    "link": "https://danielles-games.itch.io/icy-maze",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MDE2MTguanBn/315x250%23c/HhMyV3.jpg",
+    "title": "Icy Maze",
+    "video": null,
+    "scrapeWords": [
+      "Icy",
+      "Maze"
     ]
   },
   {
@@ -129436,7 +129601,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU1NTM5NDEucG5n/315x250%23c/E6ftZy.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4Nzc1NDkucG5n/315x250%23c/xVDR8E.png",
     "title": "Guess The Time",
     "video": null,
     "scrapeWords": [
@@ -129630,7 +129795,9 @@
     "genre": "Platformer",
     "id": "978681",
     "link": "https://brainshotstudios.itch.io/age-of-garb",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU1NjA0NTUuZ2lm/315x250%23cm/epw%2B1G.gif",
     "title": "The Age of Garb",
     "video": "https://img.itch.zone/aW1nLzU1NjA0NTUuZ2lm/original/dSbLI8.gif",
@@ -130117,6 +130284,21 @@
       "game",
       "Godot",
       "test"
+    ]
+  },
+  {
+    "author": "L-Gad",
+    "description": "Be the Tiny Champion",
+    "genre": "Action",
+    "id": "981832",
+    "link": "https://l-gad.itch.io/massive-arena",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1ODA5NjMucG5n/315x250%23c/Ndyiff.png",
+    "title": "Massive Arena",
+    "video": null,
+    "scrapeWords": [
+      "Massive",
+      "Arena"
     ]
   },
   {
