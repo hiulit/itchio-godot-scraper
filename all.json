@@ -1261,22 +1261,23 @@
   },
   {
     "author": "MyasNick",
-    "description": "Deck Looter Card Crawler",
+    "description": "Prototype of a fast-paced roguelike card game in the setting of good old action movies.",
     "genre": "Card Game",
     "id": "1007589",
     "link": "https://myasnick.itch.io/lastrun",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU3NDAxMTIuanBn/315x250%23c/IepCdH.jpg",
-    "title": "Last Run: Loot Your Deck!",
+    "thumb": "https://img.itch.zone/aW1nLzU4ODk2NzMucG5n/315x250%23c/eVaRQV.png",
+    "title": "Last Run: Deck Looter Card Crawler",
     "video": null,
     "scrapeWords": [
       "Last",
       "Run",
-      "Loot",
-      "Your",
-      "Deck"
+      "Deck",
+      "Looter",
+      "Card",
+      "Crawler"
     ]
   },
   {
@@ -1423,7 +1424,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU4NzQ4NzUucG5n/315x250%23c/chN8dE.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4OTc0MjMucG5n/315x250%23c/h%2FE%2Fdq.png",
     "title": "HellroN",
     "video": null,
     "scrapeWords": [
@@ -3429,6 +3430,22 @@
     ]
   },
   {
+    "author": "KnightOrc",
+    "description": "A game jam entry for Ludum Dare 48",
+    "genre": "Shooter",
+    "id": "1015549",
+    "link": "https://knightorc.itch.io/downfall",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3ODUwOTEucG5n/315x250%23c/Vk25%2F7.png",
+    "title": "Downfall",
+    "video": null,
+    "scrapeWords": [
+      "Downfall"
+    ]
+  },
+  {
     "author": "Fredrik Edman",
     "description": "Point & click adventure set in a spooky house! Ludum Dare 48 entry.",
     "genre": "Adventure",
@@ -4554,7 +4571,7 @@
   },
   {
     "author": "ChunkyPears",
-    "description": null,
+    "description": "Simulation of the double-slit experiment.",
     "genre": "Educational",
     "id": "1022732",
     "link": "https://chunkypears.itch.io/double-slit-visualizer",
@@ -5161,6 +5178,25 @@
     ]
   },
   {
+    "author": "aXu",
+    "description": "Help the narrator decide, how the legend goes!",
+    "genre": "Visual Novel",
+    "id": "1025846",
+    "link": "https://axu-ap.itch.io/a-tale-of-noun",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4OTU1ODAucG5n/315x250%23c/XUs9vP.png",
+    "title": "A Tale of [Noun]",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Tale",
+      "of",
+      "[Noun]"
+    ]
+  },
+  {
     "author": "Dreatern",
     "description": "Ultimate Ninja Dad",
     "genre": "Action",
@@ -5336,6 +5372,25 @@
     ]
   },
   {
+    "author": "Ahopness",
+    "description": "Search the post-death",
+    "genre": "Adventure",
+    "id": "1027529",
+    "link": "https://ahopness.itch.io/gift",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NzU3NzkuZ2lm/315x250%23cm/mMCV1c.gif",
+    "title": "GIFT - Experimental Mobile Horror",
+    "video": "https://img.itch.zone/aW1nLzU4NzU3NzkuZ2lm/original/UcNsHK.gif",
+    "scrapeWords": [
+      "GIFT",
+      "Experimental",
+      "Mobile",
+      "Horror"
+    ]
+  },
+  {
     "author": "AgeX005",
     "description": "Flappy bird regresa y ahora quiere tu estabilidad psicológica!",
     "genre": "Action",
@@ -5380,11 +5435,30 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU4Njc2MTAucG5n/315x250%23c/H6hj7m.png",
+    "thumb": "https://img.itch.zone/aW1nLzU4ODk0OTMucG5n/315x250%23c/cyfI%2Ft.png",
     "title": "kaiju",
     "video": null,
     "scrapeWords": [
       "kaiju"
+    ]
+  },
+  {
+    "author": "Ben Kurtin",
+    "description": "The coolest rhythm game in first person",
+    "genre": "Rhythm",
+    "id": "1028765",
+    "link": "https://thisisbennyk.itch.io/funkin-vr",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4OTIxNDAucG5n/315x250%23c/5kSELy.png",
+    "title": "Friday Night Funkin' VR",
+    "video": null,
+    "scrapeWords": [
+      "Friday",
+      "Night",
+      "Funkin",
+      "VR"
     ]
   },
   {
@@ -15502,28 +15576,6 @@
     ]
   },
   {
-    "author": "Knives",
-    "description": "Weekly Game Jam (week 43 theme: \"Your Brother's Birthday\")",
-    "genre": "Adventure",
-    "id": "255970",
-    "link": "https://arashizakku.itch.io/birthday-trek-the-journey-home",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjU1OTcwLzEyMjY1OTcucG5n/315x250%23c/2dZgRh.png",
-    "title": "Birthday Trek: The Journey Home",
-    "video": null,
-    "scrapeWords": [
-      "Birthday",
-      "Trek",
-      "The",
-      "Journey",
-      "Home"
-    ]
-  },
-  {
     "author": "New_Node",
     "description": "Adventure in the desert with multiple game modes",
     "genre": "Platformer",
@@ -15641,25 +15693,6 @@
     "scrapeWords": [
       "Ninja",
       "Run"
-    ]
-  },
-  {
-    "author": "Knives",
-    "description": null,
-    "genre": "Action",
-    "id": "257993",
-    "link": "https://arashizakku.itch.io/street-credfitti",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjU3OTkzLzEyNDEyMjMucG5n/315x250%23c/FMfUOo.png",
-    "title": "Street Credfiti (Demo)",
-    "video": null,
-    "scrapeWords": [
-      "Street",
-      "Credfiti"
     ]
   },
   {
@@ -15781,27 +15814,6 @@
     "scrapeWords": [
       "Its",
       "Over"
-    ]
-  },
-  {
-    "author": "Knives",
-    "description": null,
-    "genre": "Adventure",
-    "id": "259960",
-    "link": "https://arashizakku.itch.io/meggnet-twins",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjU5OTYwLzEyNDc3ODcucG5n/315x250%23c/xepizx.png",
-    "title": "Meggnet Twins (Alpha 4)",
-    "video": null,
-    "scrapeWords": [
-      "Meggnet",
-      "Twins",
-      "Alpha",
-      "4"
     ]
   },
   {
@@ -16355,27 +16367,6 @@
     "scrapeWords": [
       "Rat",
       "Maze"
-    ]
-  },
-  {
-    "author": "Knives",
-    "description": null,
-    "genre": "Puzzle",
-    "id": "266821",
-    "link": "https://arashizakku.itch.io/otherwalls",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjY2ODIxLzEyOTY2NDEucG5n/315x250%23c/mOLPCY.png",
-    "title": "OtherWalls (Alpha 5)",
-    "video": null,
-    "scrapeWords": [
-      "Other",
-      "Walls",
-      "Alpha",
-      "5"
     ]
   },
   {
@@ -17947,27 +17938,6 @@
     ]
   },
   {
-    "author": "Knives",
-    "description": null,
-    "genre": "Adventure",
-    "id": "270500",
-    "link": "https://arashizakku.itch.io/unworthy-descendant",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjcwNTAwLzEzMTExMTQucG5n/315x250%23c/XNrcem.png",
-    "title": "Unworthy Descendant (Alpha 3)",
-    "video": null,
-    "scrapeWords": [
-      "Unworthy",
-      "Descendant",
-      "Alpha",
-      "3"
-    ]
-  },
-  {
     "author": "Frances",
     "description": "Catch coins and avoid fish!",
     "genre": "Action",
@@ -18406,20 +18376,6 @@
     "video": null,
     "scrapeWords": [
       "noon"
-    ]
-  },
-  {
-    "author": "Knives",
-    "description": "Zero to Hero!",
-    "genre": "Platformer",
-    "id": "275345",
-    "link": "https://arashizakku.itch.io/seed",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjc1MzQ1LzEzMzg0MDMucG5n/315x250%23c/0ovfGY.png",
-    "title": "Seed",
-    "video": null,
-    "scrapeWords": [
-      "Seed"
     ]
   },
   {
@@ -27727,6 +27683,23 @@
       "be",
       "a",
       "Triangle"
+    ]
+  },
+  {
+    "author": "Raespark",
+    "description": "Peace and Tranquilty",
+    "genre": null,
+    "id": "347133",
+    "link": "https://raespark.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
+    "title": "Grow",
+    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -39832,7 +39805,7 @@
     ]
   },
   {
-    "author": "Sam Daiya",
+    "author": "Sam Daiya Games",
     "description": "Small Infinite Runner Game Created for TraiJam29",
     "genre": "Survival",
     "id": "456414",
@@ -43556,7 +43529,7 @@
     ]
   },
   {
-    "author": "Sam Daiya",
+    "author": "Sam Daiya Games",
     "description": "It's a Puzzel Game inspired by \"Alt+F4\" Shortcut to \"Exit Applications\".",
     "genre": "Puzzle",
     "id": "476488",
@@ -44074,25 +44047,6 @@
     "scrapeWords": [
       "Project",
       "Huesos"
-    ]
-  },
-  {
-    "author": "FigyTuna",
-    "description": "Collect and grow all 27 kinds of plants!",
-    "genre": "Simulation",
-    "id": "480061",
-    "link": "https://figytuna.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
-    "title": "Grow",
-    "video": null,
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -53491,7 +53445,7 @@
     ]
   },
   {
-    "author": "D.Green Games",
+    "author": "D Green Games",
     "description": "lets loose to win",
     "genre": "Platformer",
     "id": "552934",
@@ -56133,7 +56087,7 @@
     ]
   },
   {
-    "author": "Sam Daiya",
+    "author": "Sam Daiya Games",
     "description": "3 Hour Super Hexagon Clone",
     "genre": "Survival",
     "id": "574200",
@@ -65106,9 +65060,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/315x250%23cm/Os6%2BaP.gif",
+    "thumb": "https://img.itch.zone/aW1nLzU4OTQ3MzUuZ2lm/315x250%23cm/AoXLet.gif",
     "title": "Kaloche",
-    "video": "https://img.itch.zone/aW1nLzMyOTc3NjMuZ2lm/original/bofI0x.gif",
+    "video": "https://img.itch.zone/aW1nLzU4OTQ3MzUuZ2lm/original/oRb2Te.gif",
     "scrapeWords": [
       "Kaloche"
     ]
@@ -67607,24 +67561,6 @@
       "The",
       "Dark",
       "Forest"
-    ]
-  },
-  {
-    "author": "Shapkofil",
-    "description": "Rain Game",
-    "genre": null,
-    "id": "636076",
-    "link": "https://shapkofil.itch.io/downfall",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0OTUxNDAucG5n/315x250%23c/G9oEVY.png",
-    "title": "Downfall",
-    "video": null,
-    "scrapeWords": [
-      "Downfall"
     ]
   },
   {
@@ -72777,23 +72713,6 @@
     "scrapeWords": [
       "Digital",
       "Dimensions"
-    ]
-  },
-  {
-    "author": "K.T.S / INDIE DEVLOPER",
-    "description": null,
-    "genre": "Shooter",
-    "id": "664993",
-    "link": "https://kts-indie-devloper.itch.io/fast-shooter",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM1ODk3NDEuanBlZw==/315x250%23c/3vFR%2Bb.jpeg",
-    "title": "Fast Shooter",
-    "video": null,
-    "scrapeWords": [
-      "Fast",
-      "Shooter"
     ]
   },
   {
@@ -79728,6 +79647,28 @@
     "scrapeWords": [
       "Gravity",
       "Rotation"
+    ]
+  },
+  {
+    "author": "LFJ Game Studios",
+    "description": "Survibunny's Bizarre Adventure",
+    "genre": "Platformer",
+    "id": "696681",
+    "link": "https://lfj-gs.itch.io/jdd-jam-edition",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMDY1NDQucG5n/315x250%23c/QJG0iE.png",
+    "title": "Just Don't Die: Jam Edition",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "Dont",
+      "Die",
+      "Jam",
+      "Edition"
     ]
   },
   {
@@ -96071,7 +96012,7 @@
     ]
   },
   {
-    "author": "Zhangir Nurmukhambetov",
+    "author": "Nurmuhammad",
     "description": "Collect stamps on time!",
     "genre": "Action",
     "id": "767804",
@@ -104538,7 +104479,7 @@
     ]
   },
   {
-    "author": "Zhangir Nurmukhambetov",
+    "author": "Nurmuhammad",
     "description": "An in-universe game seen on Mao Mao: Heroes of Pure Heart!",
     "genre": "Action",
     "id": "819286",
@@ -130020,7 +129961,7 @@
     ]
   },
   {
-    "author": "AmmonLawDev",
+    "author": "Ammon Law Developer",
     "description": null,
     "genre": "Shooter",
     "id": "979217",
