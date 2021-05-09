@@ -850,13 +850,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3MTkzMjQucG5n/315x250%23c/3Ea5dd.png",
-    "title": "Space Invader 2k21 (Playtest#2)",
+    "title": "Space Invader 2k21 (Playtest#1)",
     "video": null,
     "scrapeWords": [
       "Space",
       "Invader",
       "2k21",
-      "Playtest2"
+      "Playtest1"
     ]
   },
   {
@@ -4587,7 +4587,7 @@
   },
   {
     "author": "Team Void Heart",
-    "description": "An open source platformer.",
+    "description": "An open source platformer for Windows and HTML5.",
     "genre": "Platformer",
     "id": "1022750",
     "link": "https://team-void-heart.itch.io/paper-climb",
@@ -4807,6 +4807,24 @@
       "Big",
       "Pappa",
       "Frogg"
+    ]
+  },
+  {
+    "author": "Kaelan DM",
+    "description": null,
+    "genre": null,
+    "id": "1024393",
+    "link": "https://kaelandm.itch.io/the-faceless-city",
+    "platforms": [
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4OTY5NzMuanBn/315x250%23c/sp%2FUnA.jpg",
+    "title": "The Faceless City",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Faceless",
+      "City"
     ]
   },
   {
@@ -5323,6 +5341,20 @@
     ]
   },
   {
+    "author": "howmironic",
+    "description": null,
+    "genre": "Interactive Fiction",
+    "id": "1026886",
+    "link": "https://howmironic.itch.io/familiar",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NTcyNjkucG5n/315x250%23c/8utCCY.png",
+    "title": "Familiar",
+    "video": null,
+    "scrapeWords": [
+      "Familiar"
+    ]
+  },
+  {
     "author": "lkidfuryl",
     "description": "Top down de tipo shooter espacial en desarrollo",
     "genre": "Shooter",
@@ -5378,6 +5410,9 @@
     "id": "1027529",
     "link": "https://ahopness.itch.io/gift",
     "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4NzU3NzkuZ2lm/315x250%23cm/mMCV1c.gif",
@@ -5440,6 +5475,26 @@
     "video": null,
     "scrapeWords": [
       "kaiju"
+    ]
+  },
+  {
+    "author": "Verduritas04",
+    "description": "A short tower defense puzzle game where you help the enemies win.",
+    "genre": "Puzzle",
+    "id": "1028675",
+    "link": "https://verduritas04.itch.io/plantyourrevenge",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDAxNTkucG5n/315x250%23c/pl%2Fh6P.png",
+    "title": "Plant your revenge",
+    "video": null,
+    "scrapeWords": [
+      "Plant",
+      "your",
+      "revenge"
     ]
   },
   {
@@ -5586,6 +5641,23 @@
     ]
   },
   {
+    "author": "AgeX005",
+    "description": "Save your chicks!",
+    "genre": "Action",
+    "id": "1031471",
+    "link": "https://agex005.itch.io/my-chicks",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDI2MTgucG5n/315x250%23c/yi%2FKAZ.png",
+    "title": "My Chicks!",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "Chicks"
+    ]
+  },
+  {
     "author": "Doorsrio",
     "description": "BRO-DIE is a short game where you follow the objectives to meet the LORD.",
     "genre": "Adventure",
@@ -5597,6 +5669,80 @@
     "video": null,
     "scrapeWords": [
       "BRO-DIE"
+    ]
+  },
+  {
+    "author": "Karljakob",
+    "description": "In this game you play as a rubber ball that wants to get to the flag of each level but it can only move by jumping.",
+    "genre": "Platformer",
+    "id": "1033450",
+    "link": "https://karljakob.itch.io/out-of-bounce",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4OTc5ODIucG5n/315x250%23c/L4in9N.png",
+    "title": "Out of bounce",
+    "video": null,
+    "scrapeWords": [
+      "Out",
+      "of",
+      "bounce"
+    ]
+  },
+  {
+    "author": "JoeyAsagiri",
+    "description": "Fight for gold and glory",
+    "genre": "Action",
+    "id": "1033623",
+    "link": "https://joeyasagiri.itch.io/knightly-gold-and-glory",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4OTkwMzMucG5n/315x250%23c/uU%2FheX.png",
+    "title": "Knightly Gold and Glory",
+    "video": null,
+    "scrapeWords": [
+      "Knightly",
+      "Gold",
+      "and",
+      "Glory"
+    ]
+  },
+  {
+    "author": "SleepyWombat",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1033681",
+    "link": "https://sleepywombat.itch.io/slimes-adventures-the-hidden-gem",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MDUxMjYucG5n/315x250%23c/mtO79V.png",
+    "title": "Slime's Adventures The Hidden Gem",
+    "video": null,
+    "scrapeWords": [
+      "Slimes",
+      "Adventures",
+      "The",
+      "Hidden",
+      "Gem"
+    ]
+  },
+  {
+    "author": "GuroGuru",
+    "description": "Blow your way out the facility that keeps you held as experiment",
+    "genre": "Platformer",
+    "id": "1033774",
+    "link": "https://guroguru.itch.io/no-easy-way-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4OTk5NjQucG5n/315x250%23c/61Qvd4.png",
+    "title": "No Easy Way Out",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Easy",
+      "Way",
+      "Out"
     ]
   },
   {
@@ -43950,7 +44096,7 @@
   {
     "author": "Corrade",
     "description": "A colour-matching bullet hell.",
-    "genre": null,
+    "genre": "Shooter",
     "id": "479530",
     "link": "https://corrade.itch.io/kaflydoscope",
     "platforms": null,
@@ -68696,20 +68842,6 @@
     ]
   },
   {
-    "author": "gamedevlibrarian",
-    "description": "Take control of a witch and her cat familiar and simultaneously guide them through platforming challenges.",
-    "genre": "Platformer",
-    "id": "642560",
-    "link": "https://gamedevlibrarian.itch.io/familiar",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM0NDM2NDkucG5n/315x250%23c/hILDgn.png",
-    "title": "Familiar",
-    "video": null,
-    "scrapeWords": [
-      "Familiar"
-    ]
-  },
-  {
     "author": "DeeJayLSP",
     "description": "A quick adventure. Through time.",
     "genre": "Role Playing",
@@ -92180,26 +92312,6 @@
     ]
   },
   {
-    "author": "Verduritas04",
-    "description": null,
-    "genre": "Platformer",
-    "id": "749875",
-    "link": "https://verduritas04.itch.io/papestarland",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQxOTY1MjkucG5n/315x250%23c/Cy0iah.png",
-    "title": "Paper Star Land",
-    "video": null,
-    "scrapeWords": [
-      "Paper",
-      "Star",
-      "Land"
-    ]
-  },
-  {
     "author": "The Cool Bounana",
     "description": "This is a 2D top down survival game with an ice theme.",
     "genre": "Survival",
@@ -92237,14 +92349,15 @@
   {
     "author": "Untailo",
     "description": "2D puzzle-platformer demo where you can control two different characters",
-    "genre": "Adventure",
+    "genre": "Platformer",
     "id": "749975",
     "link": "https://untailo.itch.io/homelette",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NDE5NzMucG5n/315x250%23c/4iXGIY.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5MDE2NTEucG5n/315x250%23c/jatO7Q.png",
     "title": "Homelette demo",
     "video": null,
     "scrapeWords": [
@@ -120056,24 +120169,6 @@
     ]
   },
   {
-    "author": "Verduritas04",
-    "description": null,
-    "genre": "Action",
-    "id": "919026",
-    "link": "https://verduritas04.itch.io/gwj-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyNDUxNTQucG5n/315x250%23c/Jf1Q7e.png",
-    "title": "Sanity",
-    "video": null,
-    "scrapeWords": [
-      "Sanity"
-    ]
-  },
-  {
     "author": "velopman",
     "description": null,
     "genre": "Simulation",
@@ -125021,6 +125116,28 @@
     ]
   },
   {
+    "author": "Nurmuhammad",
+    "description": "Your a robot who lost all it's parts! Will you be able to reassemble?",
+    "genre": "Platformer",
+    "id": "946899",
+    "link": "https://xanthosware.itch.io/reassemble",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MzU2NDEucG5n/315x250%23c/pOoOjN.png",
+    "title": "Reassemble [Godot Wild Jam March 2020]",
+    "video": null,
+    "scrapeWords": [
+      "Reassemble",
+      "[Godot",
+      "Wild",
+      "Jam",
+      "March",
+      "2020]"
+    ]
+  },
+  {
     "author": "theMADturtle",
     "description": "abandon ship",
     "genre": "Platformer",
@@ -128169,29 +128286,6 @@
     ]
   },
   {
-    "author": "Mastermori",
-    "description": "You're a robot who has lost all of it's parts! Will you be able to reassemble?",
-    "genre": "Platformer",
-    "id": "966142",
-    "link": "https://mastermori.itch.io/reassmble",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0ODI4NjUucG5n/315x250%23c/lrVuoZ.png",
-    "title": "Reassemble [Godot Wild Jam March 2020]",
-    "video": null,
-    "scrapeWords": [
-      "Reassemble",
-      "[Godot",
-      "Wild",
-      "Jam",
-      "March",
-      "2020]"
-    ]
-  },
-  {
     "author": "emgiel",
     "description": "You just lost your car keys in the beach. Luckily, you have your metal detector to find you.",
     "genre": null,
@@ -129174,9 +129268,7 @@
     "genre": "Card Game",
     "id": "972657",
     "link": "https://steamstrikerandstuff.itch.io/card-game",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU2MDIxMjMucG5n/315x250%23c/f333YR.png",
     "title": "Diminutive Expanse",
     "video": null,
@@ -130669,7 +130761,8 @@
     "id": "983649",
     "link": "https://hrookami.itch.io/tea-room",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1OTI4NTEucG5n/315x250%23c/kIcLCR.png",
     "title": "TeaRoom",
