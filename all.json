@@ -2146,6 +2146,22 @@
     ]
   },
   {
+    "author": "Miguel_R",
+    "description": "Recelo is a short horror game about a guy who breaks in the house of a deceased.",
+    "genre": "Survival",
+    "id": "1012297",
+    "link": "https://miguel-r.itch.io/recelo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NjcyMzYucG5n/315x250%23c/gxGx2s.png",
+    "title": "Recelo",
+    "video": null,
+    "scrapeWords": [
+      "Recelo"
+    ]
+  },
+  {
     "author": "rancidbacon",
     "description": "An autobiographical tale...",
     "genre": "Puzzle",
@@ -4587,7 +4603,7 @@
   },
   {
     "author": "Team Void Heart",
-    "description": "An open source platformer for Windows and HTML5.",
+    "description": "An open source platformer for Windows.",
     "genre": "Platformer",
     "id": "1022750",
     "link": "https://team-void-heart.itch.io/paper-climb",
@@ -4811,11 +4827,12 @@
   },
   {
     "author": "Kaelan DM",
-    "description": null,
+    "description": "Steal the faces of your city's inhabitants",
     "genre": null,
     "id": "1024393",
     "link": "https://kaelandm.itch.io/the-faceless-city",
     "platforms": [
+      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4OTY5NzMuanBn/315x250%23c/sp%2FUnA.jpg",
@@ -5089,6 +5106,21 @@
     ]
   },
   {
+    "author": "ravenverse",
+    "description": "Great game about great brawl of soups!",
+    "genre": "Action",
+    "id": "1025516",
+    "link": "https://ravenverse.itch.io/soup-brawl",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NDg3NzMucG5n/315x250%23c/0wYLcT.png",
+    "title": "Soup Brawl",
+    "video": null,
+    "scrapeWords": [
+      "Soup",
+      "Brawl"
+    ]
+  },
+  {
     "author": "AcheGames",
     "description": "mini jam 79 Frogs",
     "genre": null,
@@ -5273,7 +5305,9 @@
     "genre": null,
     "id": "1026255",
     "link": "https://slampisko.itch.io/or-not-to-bee",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU4NTc1NTMucG5n/315x250%23c/uyWrFZ.png",
     "title": "... Or Not To Bee",
     "video": null,
@@ -5352,6 +5386,27 @@
     "video": null,
     "scrapeWords": [
       "Familiar"
+    ]
+  },
+  {
+    "author": "IllusoryN",
+    "description": "Space exploration game.",
+    "genre": "Survival",
+    "id": "1026950",
+    "link": "https://illusoryn.itch.io/lets-blow-up-some-planets",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MTEwMzMucG5n/315x250%23c/mgTi7i.png",
+    "title": "Let's blow up some planets",
+    "video": null,
+    "scrapeWords": [
+      "Lets",
+      "blow",
+      "up",
+      "some",
+      "planets"
     ]
   },
   {
@@ -5536,6 +5591,29 @@
     ]
   },
   {
+    "author": "730",
+    "description": "The disheartening story of an empty man and his life in Glitch City",
+    "genre": "Visual Novel",
+    "id": "1028845",
+    "link": "https://730.itch.io/barback-blues",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDkwMjcucG5n/315x250%23c/in1nkK.png",
+    "title": "Barback Blues: A Valhalla Story ～鬱陶しき日々～",
+    "video": null,
+    "scrapeWords": [
+      "Barback",
+      "Blues",
+      "A",
+      "Valhalla",
+      "Story",
+      "～鬱陶しき日々～"
+    ]
+  },
+  {
     "author": "gamesbybamsall",
     "description": "Escape The Randomly Generated Maze!",
     "genre": "Adventure",
@@ -5658,6 +5736,24 @@
     ]
   },
   {
+    "author": "Misterm",
+    "description": "Generate faces changing the parameters on the app.",
+    "genre": null,
+    "id": "1031549",
+    "link": "https://misterm.itch.io/manga-face-generator",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDg5MTcucG5n/315x250%23c/Fm%2F7PB.png",
+    "title": "Manga Face Generator",
+    "video": null,
+    "scrapeWords": [
+      "Manga",
+      "Face",
+      "Generator"
+    ]
+  },
+  {
     "author": "Doorsrio",
     "description": "BRO-DIE is a short game where you follow the objectives to meet the LORD.",
     "genre": "Adventure",
@@ -5669,6 +5765,26 @@
     "video": null,
     "scrapeWords": [
       "BRO-DIE"
+    ]
+  },
+  {
+    "author": "Benjamin Mai",
+    "description": "This isn't your Classic Space Invaders. You are in for a challenge!",
+    "genre": "Action",
+    "id": "1032656",
+    "link": "https://bcmai.itch.io/space-invader-2k21-playtest2",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDk0ODAucG5n/315x250%23c/2YwlDy.png",
+    "title": "Space Invader 2k21 (Playtest#2)",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Invader",
+      "2k21",
+      "Playtest2"
     ]
   },
   {
@@ -5734,7 +5850,9 @@
     "genre": "Platformer",
     "id": "1033774",
     "link": "https://guroguru.itch.io/no-easy-way-out",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU4OTk5NjQucG5n/315x250%23c/61Qvd4.png",
     "title": "No Easy Way Out",
     "video": null,
@@ -5743,6 +5861,147 @@
       "Easy",
       "Way",
       "Out"
+    ]
+  },
+  {
+    "author": "Bley",
+    "description": "A game I made as a project for class and experimenting with looping threads.",
+    "genre": "Adventure",
+    "id": "1033911",
+    "link": "https://bley-chimera.itch.io/dashandsmash",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDgyNDIucG5n/315x250%23c/Eow97j.png",
+    "title": "Dash and smash",
+    "video": null,
+    "scrapeWords": [
+      "Dash",
+      "and",
+      "smash"
+    ]
+  },
+  {
+    "author": "Jwillc",
+    "description": null,
+    "genre": "Sports",
+    "id": "1033919",
+    "link": "https://jwillc.itch.io/baby-bones-last-skate",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MDA4MjQucG5n/315x250%23c/%2BxIqT3.png",
+    "title": "Baby Bones' Last Skate",
+    "video": null,
+    "scrapeWords": [
+      "Baby",
+      "Bones",
+      "Last",
+      "Skate"
+    ]
+  },
+  {
+    "author": "Dasniper4145",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1034248",
+    "link": "https://dasniper4145.itch.io/a-skeleton-goes-shopping",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MTEwMTEucG5n/315x250%23c/72eT%2Bi.png",
+    "title": "A Skeleton Goes Shopping",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Skeleton",
+      "Goes",
+      "Shopping"
+    ]
+  },
+  {
+    "author": "Benjamin Mai",
+    "description": "Bored of playing the original Space Invader game?  Clicking on this changes everything.",
+    "genre": "Action",
+    "id": "1034495",
+    "link": "https://bcmai.itch.io/space-invaders-2k21-final",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDkwNDcucG5n/315x250%23c/nhCxBN.png",
+    "title": "Space Invaders 2k21",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Invaders",
+      "2k21"
+    ]
+  },
+  {
+    "author": "HetBest",
+    "description": null,
+    "genre": null,
+    "id": "1034768",
+    "link": "https://hetbest.itch.io/cosmic-path",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDY5MzcucG5n/315x250%23c/weTsQ6.png",
+    "title": "Cosmic path",
+    "video": null,
+    "scrapeWords": [
+      "Cosmic",
+      "path"
+    ]
+  },
+  {
+    "author": "JafCraze",
+    "description": "Who are you to judge?",
+    "genre": "Role Playing",
+    "id": "1035138",
+    "link": "https://jafcraze.itch.io/judge-jr",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MTA4MjMucG5n/315x250%23c/P90PYo.png",
+    "title": "Judge Jr",
+    "video": null,
+    "scrapeWords": [
+      "Judge",
+      "Jr"
+    ]
+  },
+  {
+    "author": "Happyfork",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1035212",
+    "link": "https://happyfork.itch.io/lazy-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MDkzODQucG5n/315x250%23c/Y7Hzgh.png",
+    "title": "Lazy Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Lazy",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "Shmellyorc",
+    "description": "A simple pixelated retoro style space shooter game!",
+    "genre": "Shooter",
+    "id": "1035516",
+    "link": "https://shmellyorc.itch.io/spacerunner",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MTEyMjUucG5n/315x250%23c/UBR4gA.png",
+    "title": "Space Runner",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Runner"
     ]
   },
   {
@@ -19266,27 +19525,6 @@
     ]
   },
   {
-    "author": "CLprod",
-    "description": "Tower defense in which you repair and upgrade your towers.",
-    "genre": null,
-    "id": "282566",
-    "link": "https://clprod.itch.io/kyt-keep-your-towers",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjgyNTY2LzEzNzI1NzkucG5n/315x250%23c/u%2Bg9%2BL.png",
-    "title": "KYT! - Keep Your Towers!",
-    "video": null,
-    "scrapeWords": [
-      "KYT",
-      "Keep",
-      "Your",
-      "Towers"
-    ]
-  },
-  {
     "author": "jcmonkey",
     "description": "Made for the weeklygamejam 54",
     "genre": "Puzzle",
@@ -20453,25 +20691,6 @@
     "scrapeWords": [
       "Deadpan",
       "Gulch"
-    ]
-  },
-  {
-    "author": "SebaSOFT! Games",
-    "description": "Two player Triple Town",
-    "genre": "Puzzle",
-    "id": "291142",
-    "link": "https://sebasoft.itch.io/arrrisland",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkxMTQyLzE0MjA3MzguanBn/315x250%23c/eLz2Mq.jpg",
-    "title": "Arrr Island",
-    "video": null,
-    "scrapeWords": [
-      "Arrr",
-      "Island"
     ]
   },
   {
@@ -27829,23 +28048,6 @@
       "be",
       "a",
       "Triangle"
-    ]
-  },
-  {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -37600,6 +37802,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -44193,6 +44413,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -56734,25 +56973,6 @@
     "scrapeWords": [
       "Glam",
       "Doc"
-    ]
-  },
-  {
-    "author": "ninjager1",
-    "description": null,
-    "genre": "Survival",
-    "id": "575887",
-    "link": "https://ninjager1.itch.io/rat-plague",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMzA4MTYucG5n/315x250%23c/Ix9%2BMY.png",
-    "title": "Rat Plague",
-    "video": null,
-    "scrapeWords": [
-      "Rat",
-      "Plague"
     ]
   },
   {
@@ -86299,6 +86519,23 @@
     ]
   },
   {
+    "author": "jco",
+    "description": "I made a 2D platformer entirely out of Kanji",
+    "genre": "Action",
+    "id": "728058",
+    "link": "https://jco.itch.io/kanji-chaos",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwNDM0MzAucG5n/315x250%23c/ufskbB.png",
+    "title": "Kanji Chaos",
+    "video": null,
+    "scrapeWords": [
+      "Kanji",
+      "Chaos"
+    ]
+  },
+  {
     "author": "bitmagine Studio",
     "description": "My new (and most ambitious) game to date.",
     "genre": "Platformer",
@@ -108426,7 +108663,7 @@
     "description": "An easy little legendary RPG, just avoid the blue bat!",
     "genre": "Role Playing",
     "id": "842757",
-    "link": "https://magical-shepherd.itch.io/the-legend-of-lea",
+    "link": "https://magusbence.itch.io/the-legend-of-lea",
     "platforms": [
       "Windows",
       "Linux",
@@ -117801,25 +118038,6 @@
     ]
   },
   {
-    "author": "SebaSOFT! Games",
-    "description": "Angrod, a mercenary, sets out in search of a unique artifact in the dark forest, to regain his place in the guild",
-    "genre": "Platformer",
-    "id": "903971",
-    "link": "https://sebasoft.itch.io/just-a-quest",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUxMDM5MDYucG5n/315x250%23c/pQY8as.png",
-    "title": "Just a Quest",
-    "video": null,
-    "scrapeWords": [
-      "Just",
-      "a",
-      "Quest"
-    ]
-  },
-  {
     "author": "qwuck",
     "description": "Play as an electrical signal travelling through a circuit!",
     "genre": "Puzzle",
@@ -124899,21 +125117,6 @@
     ]
   },
   {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
-    ]
-  },
-  {
     "author": "Escada Games",
     "description": "Asteroids with special relativity",
     "genre": "Shooter",
@@ -129607,10 +129810,7 @@
     "genre": "Shooter",
     "id": "975036",
     "link": "https://itsthatredperson.itch.io/project-kosbelum",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU1OTI3MjQuanBn/315x250%23c/K0XtNs.jpg",
     "title": "Project Kosbelum",
     "video": null,
@@ -130673,11 +130873,11 @@
     ]
   },
   {
-    "author": "KenT4ikss",
+    "author": "KenT4ik",
     "description": "[Game] RPGOT - 2D Platformer RPG",
     "genre": "Platformer",
     "id": "982930",
-    "link": "https://kent4ikss.itch.io/rpgot",
+    "link": "https://kent4ik.itch.io/rpgot",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU1ODc5OTgucG5n/315x250%23c/d3NNgt.png",
     "title": "RPGOT",
@@ -131096,17 +131296,15 @@
     "genre": "Puzzle",
     "id": "986596",
     "link": "https://lethalraptorgames.itch.io/tomb-of-pharaohs",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU2Mjk2OTcucG5n/315x250%23c/RjcfPq.png",
-    "title": "Tomb Of Pharaohs - DEMO - v0.5.1 BETA",
+    "title": "Tomb Of Pharaohs - DEMO - v0.5.2 BETA",
     "video": null,
     "scrapeWords": [
       "Tomb",
       "Of",
       "Pharaohs",
-      "v051",
+      "v052",
       "BETA"
     ]
   },
@@ -131552,7 +131750,7 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2MzMxNjQucG5n/315x250%23c/ccALQH.png",
-    "title": "Thread",
+    "title": "Thread (Demo)",
     "video": null,
     "scrapeWords": [
       "Thread"
