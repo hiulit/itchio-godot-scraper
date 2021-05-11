@@ -3446,6 +3446,28 @@
     ]
   },
   {
+    "author": "FoxReds",
+    "description": null,
+    "genre": "Simulation",
+    "id": "1015460",
+    "link": "https://foxreds.itch.io/the-ultimate-fat-losing",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NTY5NDIucG5n/315x250%23c/aRoDuR.png",
+    "title": "The Ultimate Fat Losing Simulator",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Ultimate",
+      "Fat",
+      "Losing",
+      "Simulator"
+    ]
+  },
+  {
     "author": "KnightOrc",
     "description": "A game jam entry for Ludum Dare 48",
     "genre": "Shooter",
@@ -4386,11 +4408,11 @@
     ]
   },
   {
-    "author": "Lowercase Games",
+    "author": "lowercase games",
     "description": "Battlebots....in SPAAACCEE. With mechs!",
     "genre": "Strategy",
     "id": "1019464",
-    "link": "https://lower-case-games.itch.io/mecha-battle-bots",
+    "link": "https://lowercasegames.itch.io/mecha-battle-bots",
     "platforms": [
       "Windows",
       "Linux"
@@ -5410,20 +5432,6 @@
     ]
   },
   {
-    "author": "lkidfuryl",
-    "description": "Top down de tipo shooter espacial en desarrollo",
-    "genre": "Shooter",
-    "id": "1027042",
-    "link": "https://lkidfuryl.itch.io/spcaye",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU4NTc5MjIucG5n/315x250%23c/i3TzJ0.png",
-    "title": "SPCAYE",
-    "video": null,
-    "scrapeWords": [
-      "SPCAYE"
-    ]
-  },
-  {
     "author": "Mr.Nekuromu",
     "description": "How many chops can you do in 60 seconds?",
     "genre": null,
@@ -5559,7 +5567,8 @@
     "id": "1028765",
     "link": "https://thisisbennyk.itch.io/funkin-vr",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4OTIxNDAucG5n/315x250%23c/5kSELy.png",
     "title": "Friday Night Funkin' VR",
@@ -5986,6 +5995,23 @@
     ]
   },
   {
+    "author": "dkawoke",
+    "description": "very cool",
+    "genre": "Action",
+    "id": "1035451",
+    "link": "https://dkawoke.itch.io/the-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MTUxMjIucG5n/315x250%23c/Ry0M7I.png",
+    "title": "the game",
+    "video": null,
+    "scrapeWords": [
+      "the",
+      "game"
+    ]
+  },
+  {
     "author": "Shmellyorc",
     "description": "A simple pixelated retoro style space shooter game!",
     "genre": "Shooter",
@@ -6002,6 +6028,56 @@
     "scrapeWords": [
       "Space",
       "Runner"
+    ]
+  },
+  {
+    "author": "HangLang",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1036337",
+    "link": "https://langsdendev.itch.io/the-depths",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MTYzNTkucG5n/315x250%23c/xtbrcj.png",
+    "title": "The Depths",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Depths"
+    ]
+  },
+  {
+    "author": "Johnny",
+    "description": "A 3D version of Miridalia Monarchy.",
+    "genre": null,
+    "id": "1036438",
+    "link": "https://johnnys-games.itch.io/miridalia-monarchy-3d",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MTY4NDQuanBn/315x250%23c/ToCfWv.jpg",
+    "title": "Miridalia Monarchy 3D",
+    "video": null,
+    "scrapeWords": [
+      "Miridalia",
+      "Monarchy",
+      "3",
+      "D"
+    ]
+  },
+  {
+    "author": "TriangleDev",
+    "description": "Choose Ur Path ||  What-A-Jam",
+    "genre": "Action",
+    "id": "1037165",
+    "link": "https://triangledev.itch.io/what-a-pizza",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MjE3ODcucG5n/315x250%23c/weKqsh.png",
+    "title": "What-A-Pizza",
+    "video": null,
+    "scrapeWords": [
+      "What-A-Pizza"
     ]
   },
   {
@@ -19525,6 +19601,27 @@
     ]
   },
   {
+    "author": "CLprod",
+    "description": "Tower defense in which you repair and upgrade your towers.",
+    "genre": null,
+    "id": "282566",
+    "link": "https://clprod.itch.io/kyt-keep-your-towers",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjgyNTY2LzEzNzI1NzkucG5n/315x250%23c/u%2Bg9%2BL.png",
+    "title": "KYT! - Keep Your Towers!",
+    "video": null,
+    "scrapeWords": [
+      "KYT",
+      "Keep",
+      "Your",
+      "Towers"
+    ]
+  },
+  {
     "author": "jcmonkey",
     "description": "Made for the weeklygamejam 54",
     "genre": "Puzzle",
@@ -28353,6 +28450,22 @@
       "Tonys",
       "Dress",
       "Up"
+    ]
+  },
+  {
+    "author": "securas",
+    "description": "a short game for the mini jam 18",
+    "genre": "Puzzle",
+    "id": "351198",
+    "link": "https://securas.itch.io/cloudtris",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE3NDg0MzYuZ2lm/315x250%23cm/to%2BxbR.gif",
+    "title": "cloudtris",
+    "video": "https://img.itch.zone/aW1nLzE3NDg0MzYuZ2lm/original/8YyYy%2B.gif",
+    "scrapeWords": [
+      "cloudtris"
     ]
   },
   {
@@ -56973,6 +57086,25 @@
     "scrapeWords": [
       "Glam",
       "Doc"
+    ]
+  },
+  {
+    "author": "ninjager1",
+    "description": null,
+    "genre": "Survival",
+    "id": "575887",
+    "link": "https://ninjager1.itch.io/rat-plague",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMwMzA4MTYucG5n/315x250%23c/Ix9%2BMY.png",
+    "title": "Rat Plague",
+    "video": null,
+    "scrapeWords": [
+      "Rat",
+      "Plague"
     ]
   },
   {
@@ -97596,24 +97728,6 @@
     ]
   },
   {
-    "author": "Golden Wreath Games",
-    "description": "A competitive horde mode where 2 players try to outlive the other",
-    "genre": "Action",
-    "id": "774850",
-    "link": "https://krazykain.itch.io/returntosender",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUxNzgxMDkuanBn/315x250%23c/ECjXds.jpg",
-    "title": "Return To Sender",
-    "video": null,
-    "scrapeWords": [
-      "Return",
-      "To",
-      "Sender"
-    ]
-  },
-  {
     "author": "qpai",
     "description": null,
     "genre": "Platformer",
@@ -108482,7 +108596,7 @@
   },
   {
     "author": "AcheGames",
-    "description": null,
+    "description": "beat your own score. Free on Google Play",
     "genre": null,
     "id": "841014",
     "link": "https://achegames.itch.io/spin-r",
@@ -113175,21 +113289,6 @@
       "Down",
       "Wave",
       "Shooter"
-    ]
-  },
-  {
-    "author": "Clauveira",
-    "description": "Godot - prototype",
-    "genre": "Action",
-    "id": "874423",
-    "link": "https://clauveira.itch.io/monks-rage",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwMDA4MjMucG5n/315x250%23c/Cq6wYL.png",
-    "title": "Monk's Rage",
-    "video": null,
-    "scrapeWords": [
-      "Monks",
-      "Rage"
     ]
   },
   {
@@ -119582,7 +119681,7 @@
   },
   {
     "author": "AcheGames",
-    "description": "This is a Bean machine game where the player needs to match the dropping ball color to the color at the bottom.",
+    "description": "Match the dropping ball color to the color at the bottom. Free on Google Play",
     "genre": "Simulation",
     "id": "912683",
     "link": "https://achegames.itch.io/color-match",
@@ -121929,7 +122028,7 @@
   },
   {
     "author": "AcheGames",
-    "description": "Destroy the enemies , upgrade your weapon and save the planet.",
+    "description": "Destroy the enemies , upgrade your weapon and save the planet. Free on Google Play",
     "genre": null,
     "id": "929179",
     "link": "https://achegames.itch.io/stronger-together-save-our-planet",
@@ -125356,6 +125455,25 @@
     ]
   },
   {
+    "author": "securas",
+    "description": "a fan game for the retrojam",
+    "genre": "Platformer",
+    "id": "947079",
+    "link": "https://securas.itch.io/a-super-short-hike",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MTYxMzkuZ2lm/315x250%23cm/EkveR8.gif",
+    "title": "a super short hike",
+    "video": "https://img.itch.zone/aW1nLzU0MTYxMzkuZ2lm/original/RyAcAB.gif",
+    "scrapeWords": [
+      "a",
+      "super",
+      "short",
+      "hike"
+    ]
+  },
+  {
     "author": "Fibogacci",
     "description": "Daj Polakowi dwie kulki, jedną zgubi, a drugą zepsuje... Daj mu nieograniczoną ilość kulek...",
     "genre": null,
@@ -125480,6 +125598,22 @@
     "scrapeWords": [
       "Golf",
       "Jam"
+    ]
+  },
+  {
+    "author": "Shazelz Studios",
+    "description": "Descend the hole",
+    "genre": "Action",
+    "id": "947446",
+    "link": "https://shazelz-studios.itch.io/septem",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1NzgxMzQucG5n/315x250%23c/oStFhN.png",
+    "title": "Septem",
+    "video": null,
+    "scrapeWords": [
+      "Septem"
     ]
   },
   {
@@ -126309,7 +126443,7 @@
   },
   {
     "author": "AcheGames",
-    "description": "Tried to make Nes Twin bee to a newer retro design",
+    "description": "Tried to make Nes Twin bee to a newer retro design. Free on Google Play",
     "genre": "Action",
     "id": "954290",
     "link": "https://achegames.itch.io/twin-bee-retro-jam",
@@ -127947,9 +128081,9 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU3MTg4OTEucG5n/315x250%23c/o1vezd.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5MjEyNDUuZ2lm/315x250%23cm/2HiA5r.gif",
     "title": "[Alpha] Champion Bash",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzU5MjEyNDUuZ2lm/original/Wcc3eR.gif",
     "scrapeWords": [
       "[Alpha]",
       "Champion",
