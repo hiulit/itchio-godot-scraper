@@ -1266,7 +1266,8 @@
     "id": "1007589",
     "link": "https://myasnick.itch.io/lastrun",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4ODk2NzMucG5n/315x250%23c/eVaRQV.png",
     "title": "Last Run: Deck Looter Card Crawler",
@@ -1623,12 +1624,15 @@
     ]
   },
   {
-    "author": "dyariko",
+    "author": "Abderrahmane DYAR",
     "description": "Rotate the mirrors to redirect the beam",
     "genre": "Puzzle",
     "id": "1009962",
     "link": "https://dyariko.itch.io/beam-reflector",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU4NDA2MzUucG5n/315x250%23c/Lk3DMg.png",
     "title": "Beam Reflector",
     "video": null,
@@ -4534,7 +4538,7 @@
     "id": "1020828",
     "link": "https://beambrain.itch.io/gunball",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU4NDEyNzAucG5n/315x250%23c/QRowIx.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5MjgzNDgucG5n/315x250%23c/3fLEjd.png",
     "title": "Gunball",
     "video": null,
     "scrapeWords": [
@@ -5059,11 +5063,11 @@
     ]
   },
   {
-    "author": "Squizard_Studios",
+    "author": "Squizard Studios",
     "description": "Join Ted in his search for the \"something\".",
     "genre": "Platformer",
     "id": "1025409",
-    "link": "https://squizard-studios.itch.io/teds-journey",
+    "link": "https://squizardstudios.itch.io/teds-journey",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU4NDkyODUuZ2lm/315x250%23cm/QYoSFf.gif",
     "title": "Ted's Journey",
@@ -6000,9 +6004,7 @@
     "genre": "Action",
     "id": "1035451",
     "link": "https://dkawoke.itch.io/the-game",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU5MTUxMjIucG5n/315x250%23c/Ry0M7I.png",
     "title": "the game",
     "video": null,
@@ -6063,6 +6065,21 @@
     ]
   },
   {
+    "author": "Santiago_1325",
+    "description": null,
+    "genre": "Racing",
+    "id": "1036862",
+    "link": "https://santiago-1325.itch.io/escape-race",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MjAwMzgucG5n/315x250%23c/TbrnZX.png",
+    "title": "Escape Race",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "Race"
+    ]
+  },
+  {
     "author": "TriangleDev",
     "description": "Choose Ur Path ||  What-A-Jam",
     "genre": "Action",
@@ -6078,6 +6095,110 @@
     "video": null,
     "scrapeWords": [
       "What-A-Pizza"
+    ]
+  },
+  {
+    "author": "Deranged Turtle Games",
+    "description": "Yet another Flappy Bird clone",
+    "genre": "Action",
+    "id": "1037504",
+    "link": "https://derangedturtlegames.itch.io/flappy-unicorn",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MjQwMzAucG5n/315x250%23c/JT6zMC.png",
+    "title": "Flappy Unicorn",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Unicorn"
+    ]
+  },
+  {
+    "author": "XaNslonko",
+    "description": "My first gamejam entry!",
+    "genre": "Puzzle",
+    "id": "1037624",
+    "link": "https://xanslonko.itch.io/just-walls-and-shapes",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MjQ5MDkucG5n/315x250%23c/V13sbZ.png",
+    "title": "Just Walls and Shapes",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "Walls",
+      "and",
+      "Shapes"
+    ]
+  },
+  {
+    "author": "MisterDude1337",
+    "description": "An Unfinished Prototype for a Platformer Game",
+    "genre": "Platformer",
+    "id": "1037995",
+    "link": "https://misterdude1337.itch.io/project-hoppity",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MjcxMjcucG5n/315x250%23c/Xq464n.png",
+    "title": "Project \"Hoppity\" (Unfinished Prototype)",
+    "video": null,
+    "scrapeWords": [
+      "Project",
+      "Hoppity",
+      "Unfinished",
+      "Prototype"
+    ]
+  },
+  {
+    "author": "blastmode",
+    "description": "A puzzle game where you can rewind time",
+    "genre": "Puzzle",
+    "id": "1038351",
+    "link": "https://blastmode.itch.io/clockmans-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MjkzMjEucG5n/315x250%23c/kNUKmC.png",
+    "title": "Clockman's Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Clockmans",
+      "Adventure"
+    ]
+  },
+  {
+    "author": "breakfast",
+    "description": "Use WASD to control Stef the sheep through the Dreamworld!",
+    "genre": "Platformer",
+    "id": "1038405",
+    "link": "https://itsbreakfast.itch.io/into-dreamworld",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5Mjk1NTMucG5n/315x250%23c/bWRTKh.png",
+    "title": "Into Dreamworld",
+    "video": null,
+    "scrapeWords": [
+      "Into",
+      "Dreamworld"
+    ]
+  },
+  {
+    "author": "NJ Prod.",
+    "description": "Still Work In Progress",
+    "genre": "Platformer",
+    "id": "1038485",
+    "link": "https://nj-prod.itch.io/kings-and-pigs",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MzAxMDkucG5n/315x250%23c/admj4Y.png",
+    "title": "King's And Pig's",
+    "video": null,
+    "scrapeWords": [
+      "Kings",
+      "And",
+      "Pigs"
     ]
   },
   {
@@ -37912,24 +38033,6 @@
     "video": null,
     "scrapeWords": [
       "Patter"
-    ]
-  },
-  {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -71728,7 +71831,7 @@
     "description": "A game about wormholes!",
     "genre": "Puzzle",
     "id": "656112",
-    "link": "https://soalreapercaptain.itch.io/wormholes",
+    "link": "https://solreaper.itch.io/wormholes",
     "platforms": [
       "Windows",
       "Linux",
@@ -104198,7 +104301,7 @@
     ]
   },
   {
-    "author": "logiky",
+    "author": "zesus0101",
     "description": null,
     "genre": "Action",
     "id": "812399",
@@ -105213,7 +105316,7 @@
     "description": null,
     "genre": "Racing",
     "id": "821429",
-    "link": "https://soalreapercaptain.itch.io/dice-racers",
+    "link": "https://solreaper.itch.io/dice-racers",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2MDQ2MTEucG5n/315x250%23c/HllJzY.png",
     "title": "Dice Racers",
@@ -107612,22 +107715,6 @@
     ]
   },
   {
-    "author": "GGMagenta",
-    "description": "???",
-    "genre": "Puzzle",
-    "id": "836941",
-    "link": "https://ggmagenta.itch.io/spgdv",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2OTEwNjEucG5n/315x250%23c/M0pTX%2B.png",
-    "title": "SPGDV",
-    "video": null,
-    "scrapeWords": [
-      "SPGDV"
-    ]
-  },
-  {
     "author": "Robbert",
     "description": null,
     "genre": "Action",
@@ -108848,11 +108935,11 @@
     ]
   },
   {
-    "author": "HectorCelis",
+    "author": "MyHCel",
     "description": "Run, jump  and collect coins across the world.",
     "genre": "Platformer",
     "id": "843383",
-    "link": "https://hectorcelis.itch.io/platformer-test",
+    "link": "https://myhcel.itch.io/platformer-test",
     "platforms": [
       "Windows",
       "Linux",
@@ -115675,7 +115762,7 @@
     "description": "A rhythm-based fighting game.",
     "genre": "Fighting",
     "id": "887445",
-    "link": "https://soalreapercaptain.itch.io/rb-1",
+    "link": "https://solreaper.itch.io/rb-1",
     "platforms": [
       "Windows",
       "Linux",
@@ -116868,7 +116955,7 @@
   },
   {
     "author": "iwilliams",
-    "description": "Fight skeletons, explore a procedurally generated dungeon, and collect loot!",
+    "description": "3D Roguelike Action RPG",
     "genre": "Action",
     "id": "896956",
     "link": "https://iwilliams.itch.io/fiends-isle-demo",
@@ -124948,7 +125035,11 @@
     "genre": "Card Game",
     "id": "943801",
     "link": "https://opyate.itch.io/contumacious-commuter",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU4ODQ3OTEucG5n/315x250%23c/Tisfr4.png",
     "title": "WIP: Contumacious Commuter",
     "video": null,
@@ -125213,6 +125304,21 @@
     "video": null,
     "scrapeWords": [
       "Boxoku"
+    ]
+  },
+  {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
     ]
   },
   {
@@ -127428,6 +127534,24 @@
     ]
   },
   {
+    "author": "1234ab",
+    "description": "A level-based combat game.",
+    "genre": "Action",
+    "id": "959933",
+    "link": "https://1234ab.itch.io/minimap",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NDQ5MjYucG5n/315x250%23c/tTLGbx.png",
+    "title": "Minimap",
+    "video": null,
+    "scrapeWords": [
+      "Minimap"
+    ]
+  },
+  {
     "author": "Anagh's World",
     "description": "\"Oregano Eater\" - a wild creature that comes out at night in search of oregano. A game made by Anagh's World.",
     "genre": "Platformer",
@@ -128113,13 +128237,14 @@
     ]
   },
   {
-    "author": "dyariko",
+    "author": "Abderrahmane DYAR",
     "description": "Infiltrate into the illuminati's core system to shut it down",
     "genre": "Platformer",
     "id": "964960",
     "link": "https://dyariko.itch.io/stealth-program",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU0NzY4NjkucG5n/315x250%23c/7CzsWp.png",
     "title": "Stealth Program - برنامج التسلل",
