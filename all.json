@@ -117,7 +117,9 @@
     "id": "1000985",
     "link": "https://mkhoi.itch.io/7-degrees",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3MDE4NTUucG5n/315x250%23c/Lrrf6U.png",
     "title": "7 Degrees",
@@ -2152,7 +2154,7 @@
   {
     "author": "Miguel_R",
     "description": "Recelo is a short horror game about a guy who breaks in the house of a deceased.",
-    "genre": "Survival",
+    "genre": null,
     "id": "1012297",
     "link": "https://miguel-r.itch.io/recelo",
     "platforms": [
@@ -4487,7 +4489,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU4ODEyNDYucG5n/315x250%23c/ZBbJjC.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5MzI3MDkucG5n/315x250%23c/2ldhV2.png",
     "title": "The Mystifying Trial",
     "video": null,
     "scrapeWords": [
@@ -5571,8 +5573,7 @@
     "id": "1028765",
     "link": "https://thisisbennyk.itch.io/funkin-vr",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4OTIxNDAucG5n/315x250%23c/5kSELy.png",
     "title": "Friday Night Funkin' VR",
@@ -5614,7 +5615,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU5MDkwMjcucG5n/315x250%23c/in1nkK.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5MzIzMTEucG5n/315x250%23c/YJSP8O.png",
     "title": "Barback Blues: A Valhalla Story ～鬱陶しき日々～",
     "video": null,
     "scrapeWords": [
@@ -5954,7 +5955,7 @@
   {
     "author": "HetBest",
     "description": null,
-    "genre": null,
+    "genre": "Shooter",
     "id": "1034768",
     "link": "https://hetbest.itch.io/cosmic-path",
     "platforms": [
@@ -5996,21 +5997,6 @@
     "scrapeWords": [
       "Lazy",
       "Platformer"
-    ]
-  },
-  {
-    "author": "dkawoke",
-    "description": "very cool",
-    "genre": "Action",
-    "id": "1035451",
-    "link": "https://dkawoke.itch.io/the-game",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU5MTUxMjIucG5n/315x250%23c/Ry0M7I.png",
-    "title": "the game",
-    "video": null,
-    "scrapeWords": [
-      "the",
-      "game"
     ]
   },
   {
@@ -6135,6 +6121,26 @@
     ]
   },
   {
+    "author": "DevMoose",
+    "description": "A simple, yet challenging puzzle platformer where you boost your way through trials.",
+    "genre": "Platformer",
+    "id": "1037813",
+    "link": "https://devmoose.itch.io/trials-and-tribulations",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MjczNzUucG5n/315x250%23c/Sgd9tQ.png",
+    "title": "Trials and Tribulations",
+    "video": null,
+    "scrapeWords": [
+      "Trials",
+      "and",
+      "Tribulations"
+    ]
+  },
+  {
     "author": "MisterDude1337",
     "description": "An Unfinished Prototype for a Platformer Game",
     "genre": "Platformer",
@@ -6161,7 +6167,11 @@
     "genre": "Puzzle",
     "id": "1038351",
     "link": "https://blastmode.itch.io/clockmans-adventure",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU5MjkzMjEucG5n/315x250%23c/kNUKmC.png",
     "title": "Clockman's Adventure",
     "video": null,
@@ -6199,6 +6209,57 @@
       "Kings",
       "And",
       "Pigs"
+    ]
+  },
+  {
+    "author": "RodrigoBucrin",
+    "description": "JarochoRush disponible en Google Play",
+    "genre": "Adventure",
+    "id": "1038889",
+    "link": "https://rodrigobucrin.itch.io/jarocho-rush",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MzI2ODIucG5n/315x250%23c/NDxD8i.png",
+    "title": "Jarocho Rush",
+    "video": null,
+    "scrapeWords": [
+      "Jarocho",
+      "Rush"
+    ]
+  },
+  {
+    "author": "WhiteVell",
+    "description": "Quick Project I been running learning Godot",
+    "genre": "Platformer",
+    "id": "1039535",
+    "link": "https://whitevell.itch.io/plataformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MzY0MzIucG5n/315x250%23c/ZCdzrb.png",
+    "title": "Plataformer",
+    "video": null,
+    "scrapeWords": [
+      "Plataformer"
+    ]
+  },
+  {
+    "author": "Jadegenius",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1039699",
+    "link": "https://jadegenius.itch.io/temperature-is-key",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5Mzc1MDYucG5n/315x250%23c/4tpuu8.png",
+    "title": "Temperature is key(no idea for a name)",
+    "video": null,
+    "scrapeWords": [
+      "Temperature",
+      "is",
+      "keyno",
+      "idea",
+      "for",
+      "a",
+      "name"
     ]
   },
   {
@@ -47524,30 +47585,6 @@
     ]
   },
   {
-    "author": "Thoughtquake",
-    "description": "An experimental language deciphering game (made in 48 hrs)",
-    "genre": "Puzzle",
-    "id": "499475",
-    "link": "https://thoughtquake.itch.io/archives-of-voxdeep",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI1ODM1MDUucG5n/315x250%23c/8eDC8t.png",
-    "title": "The Archives of VoxDeep (Game Jam Version)",
-    "video": null,
-    "scrapeWords": [
-      "The",
-      "Archives",
-      "of",
-      "Vox",
-      "Deep",
-      "Game",
-      "Jam",
-      "Version"
-    ]
-  },
-  {
     "author": "Erdnusshonig",
     "description": "A fun little game - completely ad-free",
     "genre": "Action",
@@ -53307,6 +53344,27 @@
     ]
   },
   {
+    "author": "AndersonGarrote",
+    "description": "Jogo de Plataforma do Garibot, o robô reciclador",
+    "genre": "Platformer",
+    "id": "549831",
+    "link": "https://andersongarrote.itch.io/garibot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI4NzQzNDkucG5n/315x250%23c/JKP%2FIT.png",
+    "title": "Garibot e o Mundo de Resíduos - v 1.9",
+    "video": null,
+    "scrapeWords": [
+      "Garibot",
+      "e",
+      "o",
+      "Mundo",
+      "de",
+      "Resíduos",
+      "v",
+      "19"
+    ]
+  },
+  {
     "author": "systemsoverload",
     "description": "A remake of the classic Qbasic demo `GORILLAS.BAS` recreated with Godot Engine",
     "genre": "Strategy",
@@ -58894,7 +58952,7 @@
   },
   {
     "author": "voxelvoid",
-    "description": "Stuck in a dungeon where something's not quite right",
+    "description": "A psychological horror game involving a disturbing story",
     "genre": "Adventure",
     "id": "589266",
     "link": "https://voxelvoid.itch.io/dungeonn",
@@ -68581,8 +68639,7 @@
     "id": "638877",
     "link": "https://jamesnippoc.itch.io/oneroom",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM0MTg5NTIucG5n/315x250%23c/fI9o%2Bm.png",
     "title": "OneRoom",
@@ -71586,24 +71643,6 @@
       "Time",
       "Is",
       "Moneyliterally"
-    ]
-  },
-  {
-    "author": "ThEnigmArtist",
-    "description": "Cyber Ninja vs Mech battle: Rescue mission",
-    "genre": "Fighting",
-    "id": "654971",
-    "link": "https://blackboxceo.itch.io/mech-battle",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5Nzk3NzcucG5n/315x250%23c/bQlsBZ.png",
-    "title": "Black Box: Operation Pandora (Mechs)",
-    "video": null,
-    "scrapeWords": [
-      "Black",
-      "Box",
-      "Operation",
-      "Pandora",
-      "Mechs"
     ]
   },
   {
@@ -112411,7 +112450,7 @@
     ]
   },
   {
-    "author": "welson_staly",
+    "author": "abdelhakim",
     "description": "car 2d physics with some stages and steering wheel",
     "genre": "Racing",
     "id": "868351",
@@ -113623,23 +113662,6 @@
       "in",
       "the",
       "Store"
-    ]
-  },
-  {
-    "author": "PancakesWasNotTaken",
-    "description": "A indie attempt of remastering the Asteroids concept",
-    "genre": "Action",
-    "id": "876404",
-    "link": "https://pancakeswasnottaken.itch.io/asteroid2021",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NDY5MjguanBn/315x250%23c/Q76Wg%2F.jpg",
-    "title": "Asteroids2021",
-    "video": null,
-    "scrapeWords": [
-      "Asteroids2021"
     ]
   },
   {
@@ -120306,7 +120328,7 @@
     ]
   },
   {
-    "author": "SpaceScape20xx",
+    "author": "SpaceScape",
     "description": null,
     "genre": "Simulation",
     "id": "916317",
@@ -126442,8 +126464,7 @@
     "link": "https://anugamestudio.itch.io/ester-seeking-feelings",
     "platforms": [
       "Windows",
-      "Linux",
-      "Android"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1NzgxNzIucG5n/315x250%23c/IbDsar.png",
     "title": "Ester: Seeking Feelings",
@@ -126679,9 +126700,7 @@
     "genre": "Adventure",
     "id": "955262",
     "link": "https://epiblitikos.itch.io/lamplighter",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU2MTU2MjMuZ2lm/315x250%23cm/DQ5waJ.gif",
     "title": "Lamplighter [Prototype]",
     "video": "https://img.itch.zone/aW1nLzU2MTU2MjMuZ2lm/original/VeIP%2FY.gif",
@@ -131322,8 +131341,7 @@
     "id": "983952",
     "link": "https://3boood-pro.itch.io/dungeon-escapers",
     "platforms": [
-      "Windows",
-      "Android"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2NzUxMjUucG5n/315x250%23c/dLL1qd.png",
     "title": "Dungeon Escapers | هاربوا الزنزانة",
@@ -131719,7 +131737,7 @@
     ]
   },
   {
-    "author": "SpaceScape20xx",
+    "author": "SpaceScape",
     "description": null,
     "genre": "Simulation",
     "id": "987519",
