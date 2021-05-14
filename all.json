@@ -35,6 +35,24 @@
     ]
   },
   {
+    "author": "ericthedrifter",
+    "description": "SRPG experience set in the Wild West.",
+    "genre": "Role Playing",
+    "id": "1000342",
+    "link": "https://ericthedrifter.itch.io/drifter-dynasty",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NDM0MTcucG5n/315x250%23c/g3vlVq.png",
+    "title": "Drifter Dynasty",
+    "video": null,
+    "scrapeWords": [
+      "Drifter",
+      "Dynasty"
+    ]
+  },
+  {
     "author": "raptor9999",
     "description": "You deliver things. At night. To people's houses. Unaware!",
     "genre": "Adventure",
@@ -2154,7 +2172,7 @@
   {
     "author": "Miguel_R",
     "description": "Recelo is a short horror game about a guy who breaks in the house of a deceased.",
-    "genre": null,
+    "genre": "Survival",
     "id": "1012297",
     "link": "https://miguel-r.itch.io/recelo",
     "platforms": [
@@ -3001,7 +3019,9 @@
     "genre": "Platformer",
     "id": "1013660",
     "link": "https://honey-pony.itch.io/there-again",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU3NzM4MDcucG5n/315x250%23c/RtFMxt.png",
     "title": "There, Again",
     "video": null,
@@ -4829,12 +4849,14 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4NDA0MTgucG5n/315x250%23c/QndLiV.png",
-    "title": "Green Tycoon Simulator",
+    "title": "Green Tycoon Simulator (Old Version)",
     "video": null,
     "scrapeWords": [
       "Green",
       "Tycoon",
-      "Simulator"
+      "Simulator",
+      "Old",
+      "Version"
     ]
   },
   {
@@ -5309,22 +5331,6 @@
     "scrapeWords": [
       "Slurp",
       "Ninja"
-    ]
-  },
-  {
-    "author": "ResRebus",
-    "description": "Play as a tiny adventurous frog caught in a cursed swamp. Survive as long as you can!",
-    "genre": "Survival",
-    "id": "1026079",
-    "link": "https://resrebusstudios.itch.io/frobbit",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU4NzEwMTgucG5n/315x250%23c/CiW2Xs.png",
-    "title": "Frobbit",
-    "video": null,
-    "scrapeWords": [
-      "Frobbit"
     ]
   },
   {
@@ -5841,6 +5847,25 @@
     ]
   },
   {
+    "author": "Pabeio",
+    "description": "An old style FPS game",
+    "genre": "Shooter",
+    "id": "1033645",
+    "link": "https://pabeio.itch.io/dreamparadox",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MjY4NzkuanBlZw==/315x250%23c/0wEWHH.jpeg",
+    "title": "Dream Paradox",
+    "video": null,
+    "scrapeWords": [
+      "Dream",
+      "Paradox"
+    ]
+  },
+  {
     "author": "SleepyWombat",
     "description": null,
     "genre": "Platformer",
@@ -6019,6 +6044,25 @@
     ]
   },
   {
+    "author": "Plextora",
+    "description": "How long can you go?",
+    "genre": "Action",
+    "id": "1035708",
+    "link": "https://plextora.itch.io/to-the-stars-demo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5Mzk4NzMucG5n/315x250%23c/MDgQis.png",
+    "title": "To The Stars",
+    "video": null,
+    "scrapeWords": [
+      "To",
+      "The",
+      "Stars"
+    ]
+  },
+  {
     "author": "HangLang",
     "description": null,
     "genre": "Platformer",
@@ -6085,7 +6129,7 @@
   },
   {
     "author": "Deranged Turtle Games",
-    "description": "Yet another Flappy Bird clone",
+    "description": "A fabolous Flappy Bird clone",
     "genre": "Action",
     "id": "1037504",
     "link": "https://derangedturtlegames.itch.io/flappy-unicorn",
@@ -6263,6 +6307,76 @@
     ]
   },
   {
+    "author": "oathmilks",
+    "description": "When the heating system of the dungeon fails, comes Slime to fix it.",
+    "genre": "Platformer",
+    "id": "1040067",
+    "link": "https://oathmilks.itch.io/dungeon-heating-system",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5Mzk2OTgucG5n/315x250%23c/7igUUD.png",
+    "title": "DUNGEON Heating System",
+    "video": null,
+    "scrapeWords": [
+      "DUNGEON",
+      "Heating",
+      "System"
+    ]
+  },
+  {
+    "author": "Chamrdoid",
+    "description": "Casual game",
+    "genre": "Adventure",
+    "id": "1040179",
+    "link": "https://baba09.itch.io/hungry-penguin",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NDA4NTQucG5n/315x250%23c/UIH%2BKh.png",
+    "title": "Hungry Penguin",
+    "video": null,
+    "scrapeWords": [
+      "Hungry",
+      "Penguin"
+    ]
+  },
+  {
+    "author": "Zahid Games",
+    "description": "The War For Future has begin",
+    "genre": "Action",
+    "id": "1040215",
+    "link": "https://zahidgames.itch.io/trff",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NDA3NzAucG5n/315x250%23c/zTZRG%2B.png",
+    "title": "The Race For Future",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Race",
+      "For",
+      "Future"
+    ]
+  },
+  {
+    "author": "Moville",
+    "description": "become gamer",
+    "genre": "Platformer",
+    "id": "1040254",
+    "link": "https://moville.itch.io/epic-pro-egg-surfing",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NDA4NjEucG5n/315x250%23c/c%2BDExG.png",
+    "title": "Epic Pro 2d Egg Surfing Video Game",
+    "video": null,
+    "scrapeWords": [
+      "Epic",
+      "Pro",
+      "2d",
+      "Egg",
+      "Surfing",
+      "Video",
+      "Game"
+    ]
+  },
+  {
     "author": "batmanasb",
     "description": null,
     "genre": "Strategy",
@@ -6279,6 +6393,35 @@
     "scrapeWords": [
       "Room",
       "Gloom"
+    ]
+  },
+  {
+    "author": "Teen_Creator",
+    "description": "Study♥Play☻Eat☺Sleep◘",
+    "genre": "Action",
+    "id": "1041085",
+    "link": "https://teen-creator.itch.io/egg-buster",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NDU5MDUucG5n/315x250%23c/qSDduf.png",
+    "title": "Egg_Buster",
+    "video": null,
+    "scrapeWords": [
+      "Egg_Buster"
+    ]
+  },
+  {
+    "author": "jmb462",
+    "description": "Tetris clone with Godot Engine",
+    "genre": "Puzzle",
+    "id": "1041151",
+    "link": "https://jmb462.itch.io/godotris",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NDYzMzMuanBn/315x250%23c/8ZteHK.jpg",
+    "title": "GodoTris",
+    "video": null,
+    "scrapeWords": [
+      "Godo",
+      "Tris"
     ]
   },
   {
@@ -63795,24 +63938,6 @@
     ]
   },
   {
-    "author": "fedz",
-    "description": null,
-    "genre": "Adventure",
-    "id": "615247",
-    "link": "https://fedz.itch.io/toilet-rush",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMyNzM2NzYucG5n/315x250%23c/uX7tqz.png",
-    "title": "Toilet Rush",
-    "video": null,
-    "scrapeWords": [
-      "Toilet",
-      "Rush"
-    ]
-  },
-  {
     "author": "GruseT",
     "description": "You play as a ember trying to find its way back to the fiery brazier it calls home. but be careful not to burn out!",
     "genre": "Platformer",
@@ -92859,7 +92984,7 @@
   },
   {
     "author": "Untailo",
-    "description": "2D puzzle-platformer demo where you can control two different characters",
+    "description": "2D puzzle-platformer where you can control two different characters",
     "genre": "Platformer",
     "id": "749975",
     "link": "https://untailo.itch.io/homelette",
@@ -94887,7 +95012,7 @@
     ]
   },
   {
-    "author": "Sergi Collado",
+    "author": "sergi_py",
     "description": "Ride with The reaper is a challenging 2D action-driving game.",
     "genre": "Action",
     "id": "75955",
@@ -120523,11 +120648,11 @@
     ]
   },
   {
-    "author": "lost folders",
+    "author": "doruk",
     "description": "endless jumper",
     "genre": "Platformer",
     "id": "918831",
-    "link": "https://lostfolders.itch.io/endless-pipe",
+    "link": "https://dorukb.itch.io/endless-pipe",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUxOTg3NjEucG5n/315x250%23c/Z%2By9TD.png",
     "title": "endless pipe(mct #2)",
@@ -126464,7 +126589,8 @@
     "link": "https://anugamestudio.itch.io/ester-seeking-feelings",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1NzgxNzIucG5n/315x250%23c/IbDsar.png",
     "title": "Ester: Seeking Feelings",
@@ -126811,10 +126937,7 @@
     "genre": "Platformer",
     "id": "955651",
     "link": "https://pixel-sprouts.itch.io/hungrynauts",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU0MTgyNTkuZ2lm/315x250%23cm/WADwyL.gif",
     "title": "hungrynauts",
     "video": "https://img.itch.zone/aW1nLzU0MTgyNTkuZ2lm/original/hQZeo%2F.gif",
@@ -129003,7 +129126,7 @@
     "description": "The most brutal beat'em up ever!",
     "genre": "Action",
     "id": "967247",
-    "link": "https://skinner-space.itch.io/brutal-castle",
+    "link": "https://skinner-space.itch.io/brutal-castle-demo",
     "platforms": [
       "Windows"
     ],
