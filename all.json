@@ -218,6 +218,22 @@
     ]
   },
   {
+    "author": "Narking",
+    "description": "A Top-Down Shooter about a militar robot and sci-fi experements",
+    "genre": "Shooter",
+    "id": "1001443",
+    "link": "https://narking.itch.io/b8901",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2OTk4MDMucG5n/315x250%23c/O8udqG.png",
+    "title": "B8901",
+    "video": null,
+    "scrapeWords": [
+      "B8901"
+    ]
+  },
+  {
     "author": "SnoozeTime",
     "description": "Prevent the Panic at 711 by satisfying all the customer's demands!",
     "genre": "Action",
@@ -686,7 +702,7 @@
   },
   {
     "author": "Skwyni",
-    "description": "Made for Godot Wild Jam #32",
+    "description": "A platformer with little time to get to the end.",
     "genre": "Platformer",
     "id": "1002484",
     "link": "https://skwyni.itch.io/7-seconds-platformer",
@@ -974,7 +990,7 @@
     "id": "1005320",
     "link": "https://derangedturtlegames.itch.io/dogecoin-the-video-game",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU3Mjk0MzAucG5n/315x250%23c/e8Bn%2FK.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5NDY4NDkucG5n/315x250%23c/DnNGil.png",
     "title": "Dogecoin: The Video Game",
     "video": null,
     "scrapeWords": [
@@ -1644,7 +1660,7 @@
     ]
   },
   {
-    "author": "Abderrahmane DYAR",
+    "author": "DYAR",
     "description": "Rotate the mirrors to redirect the beam",
     "genre": "Puzzle",
     "id": "1009962",
@@ -4483,6 +4499,21 @@
     ]
   },
   {
+    "author": "PrymeEvil",
+    "description": "Beat everyone else's runs in this short speedrunning game!",
+    "genre": "Platformer",
+    "id": "1020158",
+    "link": "https://prymeevil.itch.io/beat-run",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4MTQ2MjUuanBn/315x250%23c/fdDrKq.jpg",
+    "title": "Beat Run!",
+    "video": null,
+    "scrapeWords": [
+      "Beat",
+      "Run"
+    ]
+  },
+  {
     "author": "DDRKirby(ISQ)",
     "description": "An adventure game about exploring a cat's dreams.",
     "genre": "Adventure",
@@ -4579,6 +4610,26 @@
     "video": null,
     "scrapeWords": [
       "Adventure"
+    ]
+  },
+  {
+    "author": "TM COMIX INC",
+    "description": "game",
+    "genre": "Platformer",
+    "id": "1021823",
+    "link": "https://tm-comix-inc.itch.io/gamework-in-progress-title-obviously",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4MjU2OTEucG5n/315x250%23c/ACO5xx.png",
+    "title": "game(work in progress title obviously)",
+    "video": null,
+    "scrapeWords": [
+      "gamework",
+      "in",
+      "progress",
+      "title",
+      "obviously"
     ]
   },
   {
@@ -4825,7 +4876,7 @@
   },
   {
     "author": "KobeDoby",
-    "description": "#godot",
+    "description": "Cool Game",
     "genre": "Shooter",
     "id": "1024051",
     "link": "https://kobedoby.itch.io/eventual-game",
@@ -4873,6 +4924,21 @@
       "Big",
       "Pappa",
       "Frogg"
+    ]
+  },
+  {
+    "author": "Aldebaram",
+    "description": "A simple 2d platform game.",
+    "genre": null,
+    "id": "1024310",
+    "link": "https://aldebaram.itch.io/elf-jump",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU4NDE0MTEucG5n/315x250%23c/tHXRRJ.png",
+    "title": "Elf jump",
+    "video": null,
+    "scrapeWords": [
+      "Elf",
+      "jump"
     ]
   },
   {
@@ -5128,6 +5194,7 @@
     "link": "https://tgn-27.itch.io/hunger",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4NDg1ODkucG5n/315x250%23c/nAWEeY.png",
@@ -5331,6 +5398,25 @@
     "scrapeWords": [
       "Slurp",
       "Ninja"
+    ]
+  },
+  {
+    "author": "securas",
+    "description": "a short shooter for the KoriJam",
+    "genre": "Platformer",
+    "id": "1026140",
+    "link": "https://securas.itch.io/defshot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NTM2MTAuZ2lm/315x250%23cm/ay6sPR.gif",
+    "title": "DefShot",
+    "video": "https://img.itch.zone/aW1nLzU4NTM2MTAuZ2lm/original/UDFWuW.gif",
+    "scrapeWords": [
+      "Def",
+      "Shot"
     ]
   },
   {
@@ -6051,7 +6137,8 @@
     "link": "https://plextora.itch.io/to-the-stars-demo",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU5Mzk4NzMucG5n/315x250%23c/MDgQis.png",
     "title": "To The Stars",
@@ -6137,7 +6224,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU5MjQwMzAucG5n/315x250%23c/JT6zMC.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5NDY4MDEucG5n/315x250%23c/u1vOqf.png",
     "title": "Flappy Unicorn",
     "video": null,
     "scrapeWords": [
@@ -6274,7 +6361,7 @@
   },
   {
     "author": "WhiteVell",
-    "description": "Quick Project I been running learning Godot",
+    "description": "A very generic plataform game",
     "genre": "Platformer",
     "id": "1039535",
     "link": "https://whitevell.itch.io/plataformer",
@@ -6307,6 +6394,23 @@
     ]
   },
   {
+    "author": "Skinner Space",
+    "description": "The most brutal beat'em up ever!",
+    "genre": "Fighting",
+    "id": "1040043",
+    "link": "https://skinner-space.itch.io/brutal-castle",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MzkzOTUuZ2lm/315x250%23cm/BxS%2FC4.gif",
+    "title": "Brutal Castle",
+    "video": "https://img.itch.zone/aW1nLzU5MzkzOTUuZ2lm/original/N2rgT5.gif",
+    "scrapeWords": [
+      "Brutal",
+      "Castle"
+    ]
+  },
+  {
     "author": "oathmilks",
     "description": "When the heating system of the dungeon fails, comes Slime to fix it.",
     "genre": "Platformer",
@@ -6320,6 +6424,20 @@
       "DUNGEON",
       "Heating",
       "System"
+    ]
+  },
+  {
+    "author": "amdotblacksheep",
+    "description": "Will you be able to save the world  or will you fail miserably?",
+    "genre": "Platformer",
+    "id": "1040178",
+    "link": "https://amdotblacksheep.itch.io/wefa",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NDMwMTkuanBn/315x250%23c/S0m8%2Bq.jpg",
+    "title": "WEFA",
+    "video": null,
+    "scrapeWords": [
+      "WEFA"
     ]
   },
   {
@@ -6401,12 +6519,56 @@
     "genre": "Action",
     "id": "1041085",
     "link": "https://teen-creator.itch.io/egg-buster",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU5NDU5MDUucG5n/315x250%23c/qSDduf.png",
     "title": "Egg_Buster",
     "video": null,
     "scrapeWords": [
       "Egg_Buster"
+    ]
+  },
+  {
+    "author": "Félix Metzinger",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "1041110",
+    "link": "https://argon39.itch.io/dinodigging",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NDYxOTgucG5n/315x250%23c/6iTOBm.png",
+    "title": "DinoDigging (Post-Jam)",
+    "video": null,
+    "scrapeWords": [
+      "Dino",
+      "Digging",
+      "Post-Jam"
+    ]
+  },
+  {
+    "author": "the_golden",
+    "description": "a space shooter game",
+    "genre": "Shooter",
+    "id": "1041125",
+    "link": "https://the-golden.itch.io/space-shooter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NDYxOTAucG5n/315x250%23c/RqLmNI.png",
+    "title": "space shooter",
+    "video": null,
+    "scrapeWords": [
+      "space",
+      "shooter"
     ]
   },
   {
@@ -6439,6 +6601,55 @@
     "scrapeWords": [
       "Space",
       "Miners"
+    ]
+  },
+  {
+    "author": "GarterSnake508",
+    "description": "Evil beings have taken over the sewers. Only you can stop them.",
+    "genre": "Platformer",
+    "id": "1041741",
+    "link": "https://gartersnake508.itch.io/srgya-and-the-swamp-of-death",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NTAzNzUucG5n/315x250%23c/6QzJTj.png",
+    "title": "Srgya and the Swamp of Death",
+    "video": null,
+    "scrapeWords": [
+      "Srgya",
+      "and",
+      "the",
+      "Swamp",
+      "of",
+      "Death"
+    ]
+  },
+  {
+    "author": "yeoji",
+    "description": "Pour the perfect cup of tea for your customers",
+    "genre": null,
+    "id": "1042416",
+    "link": "https://yeoji.itch.io/tea-time",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NTQ5MTgucG5n/315x250%23c/q%2FwY%2B5.png",
+    "title": "Tea Time",
+    "video": null,
+    "scrapeWords": [
+      "Tea",
+      "Time"
+    ]
+  },
+  {
+    "author": "zedpoum",
+    "description": "a game about a café plantation in the caribbean islands",
+    "genre": "Puzzle",
+    "id": "1042439",
+    "link": "https://ausindiz.itch.io/plantasyon-kafe",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NTUxNjMuanBn/315x250%23c/avI7vm.jpg",
+    "title": "Plantasyon Kafé",
+    "video": null,
+    "scrapeWords": [
+      "Plantasyon",
+      "Kafé"
     ]
   },
   {
@@ -7227,6 +7438,22 @@
       "Pour",
       "some",
       "tea"
+    ]
+  },
+  {
+    "author": "ijet",
+    "description": null,
+    "genre": null,
+    "id": "122091",
+    "link": "https://ijet.itch.io/dodge-the-creeps",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MTgyMjYucG5n/315x250%23c/MToDF8.png",
+    "title": "Dodge the Creeps",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "the",
+      "Creeps"
     ]
   },
   {
@@ -8944,20 +9171,6 @@
     "video": null,
     "scrapeWords": [
       "Owld"
-    ]
-  },
-  {
-    "author": "nbmach1ne",
-    "description": "Survive to the dangers of the night, avoid dying of hunger or becoming insane...",
-    "genre": "Strategy",
-    "id": "164227",
-    "link": "https://nbmachine.itch.io/embers",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMTY0MjI3Lzc1NjM5Mi5wbmc=/315x250%23c/ntph8E.png",
-    "title": "Embers",
-    "video": null,
-    "scrapeWords": [
-      "Embers"
     ]
   },
   {
@@ -26170,26 +26383,6 @@
     ]
   },
   {
-    "author": "JigmeDatse",
-    "description": "Tutorial Jam submission using Godot",
-    "genre": "Strategy",
-    "id": "328541",
-    "link": "https://jigmedatse.itch.io/dodge-the-creeps",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": null,
-    "title": "Dodge the Creeps",
-    "video": null,
-    "scrapeWords": [
-      "Dodge",
-      "the",
-      "Creeps"
-    ]
-  },
-  {
     "author": "miretz",
     "description": "If you ever play with weather, please be careful!!!",
     "genre": "Card Game",
@@ -28758,7 +28951,7 @@
     ]
   },
   {
-    "author": "Tony bark",
+    "author": "Tony Bark",
     "description": "A basic dress up game.",
     "genre": null,
     "id": "351083",
@@ -38915,7 +39108,7 @@
     "description": "Destroy all enemies with your superhot wave!",
     "genre": "Shooter",
     "id": "443408",
-    "link": "https://luneal-labs.itch.io/heatwave",
+    "link": "https://uthlabs.itch.io/heatwave",
     "platforms": [
       "Windows",
       "Linux",
@@ -58835,7 +59028,7 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMxMTM5NjQucG5n/315x250%23c/4uRtU1.png",
-    "title": "Photobound (demo)",
+    "title": "Photobound",
     "video": null,
     "scrapeWords": [
       "Photobound"
@@ -85255,7 +85448,7 @@
     ]
   },
   {
-    "author": "GameDev Argentina",
+    "author": "Gamedev Argentina",
     "description": "Fly your Space Ship avoiding the obstacles to reach the portals in this colorful random generated game!",
     "genre": "Action",
     "id": "717783",
@@ -86956,25 +87149,6 @@
       "a",
       "sorcerers",
       "job"
-    ]
-  },
-  {
-    "author": "jhonnystene",
-    "description": "A small adventure platforming game in beta stages.Beta)",
-    "genre": "Platformer",
-    "id": "728316",
-    "link": "https://jhonnystene.itch.io/caverns",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQwNzIyMTMucG5n/315x250%23c/xbzLs8.png",
-    "title": "Caverns (On Hold)",
-    "video": null,
-    "scrapeWords": [
-      "Caverns",
-      "On",
-      "Hold"
     ]
   },
   {
@@ -94675,35 +94849,6 @@
       "The",
       "Fool",
       "Beta"
-    ]
-  },
-  {
-    "author": "jhonnystene",
-    "description": "Rescue isn't coming.",
-    "genre": "Survival",
-    "id": "757095",
-    "link": "https://jhonnystene.itch.io/escape-the-robots-2",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0MzQzOTQucG5n/315x250%23c/vS4s25.png",
-    "title": "Escape The Robots And Oh Gosh They're Coming Run 2: The Better One",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Robots",
-      "And",
-      "Oh",
-      "Gosh",
-      "Theyre",
-      "Coming",
-      "Run",
-      "2",
-      "The",
-      "Better",
-      "One"
     ]
   },
   {
@@ -108352,7 +108497,7 @@
     ]
   },
   {
-    "author": "tsouthom",
+    "author": "Thomas T.",
     "description": "Terraform the moon one seed at a time. Watch out for the meteorites!",
     "genre": "Shooter",
     "id": "838800",
@@ -120648,22 +120793,6 @@
     ]
   },
   {
-    "author": "doruk",
-    "description": "endless jumper",
-    "genre": "Platformer",
-    "id": "918831",
-    "link": "https://dorukb.itch.io/endless-pipe",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUxOTg3NjEucG5n/315x250%23c/Z%2By9TD.png",
-    "title": "endless pipe(mct #2)",
-    "video": null,
-    "scrapeWords": [
-      "endless",
-      "pipemct",
-      "2"
-    ]
-  },
-  {
     "author": "Bomasaucesays",
     "description": "A prototype of Little Big Planet made in Godot.",
     "genre": "Adventure",
@@ -125177,6 +125306,25 @@
     ]
   },
   {
+    "author": "redencya",
+    "description": "A 2D Metroidvania about the conflict between nature and man",
+    "genre": "Platformer",
+    "id": "943752",
+    "link": "https://redencya.itch.io/rottenheart",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NDk5NDAucG5n/315x250%23c/gCUjIx.png",
+    "title": "Rotten Heart",
+    "video": null,
+    "scrapeWords": [
+      "Rotten",
+      "Heart"
+    ]
+  },
+  {
     "author": "Juan Uys",
     "description": "Retrieve your kidnapped pet with public transport, and fight card battles on the way.",
     "genre": "Card Game",
@@ -125433,24 +125581,6 @@
       "Together",
       "is",
       "better"
-    ]
-  },
-  {
-    "author": "SoloRobo",
-    "description": "Match box colors to clear the stage!",
-    "genre": "Puzzle",
-    "id": "945785",
-    "link": "https://solorobo.itch.io/boxoku",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEyMDcucG5n/315x250%23c/GWg5Xr.png",
-    "title": "Boxoku!",
-    "video": null,
-    "scrapeWords": [
-      "Boxoku"
     ]
   },
   {
@@ -128379,7 +128509,7 @@
     ]
   },
   {
-    "author": "Abderrahmane DYAR",
+    "author": "DYAR",
     "description": "Infiltrate into the illuminati's core system to shut it down",
     "genre": "Platformer",
     "id": "964960",
@@ -129119,25 +129249,6 @@
       "GAME",
       "3",
       "D"
-    ]
-  },
-  {
-    "author": "Skinner Space",
-    "description": "The most brutal beat'em up ever!",
-    "genre": "Action",
-    "id": "967247",
-    "link": "https://skinner-space.itch.io/brutal-castle-demo",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU0OTUwNDQuZ2lm/315x250%23cm/9oKrPO.gif",
-    "title": "Brutal Castle | FREE DEMO",
-    "video": "https://img.itch.zone/aW1nLzU0OTUwNDQuZ2lm/original/C5zCYF.gif",
-    "scrapeWords": [
-      "Brutal",
-      "Castle",
-      "|",
-      "FREE"
     ]
   },
   {
@@ -131045,6 +131156,21 @@
     ]
   },
   {
+    "author": "Lirodon",
+    "description": null,
+    "genre": "Shooter",
+    "id": "981446",
+    "link": "https://lirodon.itch.io/triadcentroid",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU1Nzg1NjUucG5n/315x250%23c/uK9OcE.png",
+    "title": "triadCentroid",
+    "video": null,
+    "scrapeWords": [
+      "triad",
+      "Centroid"
+    ]
+  },
+  {
     "author": "Eugene Lymar",
     "description": "Distractions be gone! Let's destroy those pesky apps.",
     "genre": "Survival",
@@ -132783,7 +132909,9 @@
     "genre": "Shooter",
     "id": "995974",
     "link": "https://bluestarr-games.itch.io/neon-ships",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU2Njc3OTYucG5n/315x250%23c/ezJPOC.png",
     "title": "Neon Ships",
     "video": null,
