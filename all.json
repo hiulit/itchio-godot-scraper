@@ -3285,7 +3285,7 @@
   },
   {
     "author": "OgelGames",
-    "description": "Can you dig a million?",
+    "description": "A simple, relaxing, procedural digging game.",
     "genre": null,
     "id": "1014612",
     "link": "https://ogelgames.itch.io/diggillion",
@@ -3529,6 +3529,22 @@
       "Fat",
       "Losing",
       "Simulator"
+    ]
+  },
+  {
+    "author": "KnightOrc",
+    "description": "A game jam entry for Ludum Dare 48",
+    "genre": "Shooter",
+    "id": "1015549",
+    "link": "https://knightorc.itch.io/downfall",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3ODUwOTEucG5n/315x250%23c/Vk25%2F7.png",
+    "title": "Downfall",
+    "video": null,
+    "scrapeWords": [
+      "Downfall"
     ]
   },
   {
@@ -5445,6 +5461,22 @@
     ]
   },
   {
+    "author": "ResRebus",
+    "description": "Play as a tiny adventurous frog caught in a cursed swamp. Survive as long as you can!",
+    "genre": "Survival",
+    "id": "1026079",
+    "link": "https://resrebusstudios.itch.io/frobbit",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NzEwMTgucG5n/315x250%23c/CiW2Xs.png",
+    "title": "Frobbit",
+    "video": null,
+    "scrapeWords": [
+      "Frobbit"
+    ]
+  },
+  {
     "author": "securas",
     "description": "a short shooter for the KoriJam",
     "genre": "Platformer",
@@ -6836,6 +6868,23 @@
     ]
   },
   {
+    "author": "Lj V. Miranda",
+    "description": "Descend into the abyss",
+    "genre": "Action",
+    "id": "1043493",
+    "link": "https://ljvmiranda921.itch.io/abyss",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NjE4MTEucG5n/315x250%23c/V6Oz%2BX.png",
+    "title": "Abyss",
+    "video": null,
+    "scrapeWords": [
+      "Abyss"
+    ]
+  },
+  {
     "author": "BNumb",
     "description": null,
     "genre": "Puzzle",
@@ -6963,7 +7012,8 @@
     "link": "https://kyllingene.itch.io/escape-the-cave",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU5NjY5ODcucG5n/315x250%23c/jHV6HA.png",
     "title": "Escape the Cave",
@@ -7007,6 +7057,20 @@
       "for",
       "my",
       "treasure"
+    ]
+  },
+  {
+    "author": "Brysonic",
+    "description": "Kind of like Frogger but you click and drag to move",
+    "genre": "Action",
+    "id": "1044476",
+    "link": "https://brysonic.itch.io/grasshopper",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NjgxMjAucG5n/315x250%23c/3GUWRu.png",
+    "title": "Grasshopper",
+    "video": null,
+    "scrapeWords": [
+      "Grasshopper"
     ]
   },
   {
@@ -7147,7 +7211,9 @@
     "id": "1044971",
     "link": "https://emotiongames.itch.io/dodge-test",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU5NzQwNDUucG5n/315x250%23c/js31%2FT.png",
     "title": "Dodge Test 🤾",
@@ -7372,7 +7438,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU5NzQ3ODYucG5n/315x250%23c/3FuPkZ.png",
+    "thumb": "https://img.itch.zone/aW1nLzU5ODU0MDIucG5n/315x250%23c/uwBjSu.png",
     "title": "Apex Racing",
     "video": null,
     "scrapeWords": [
@@ -7415,6 +7481,55 @@
     "video": "https://img.itch.zone/aW1nLzU5NzY5NjUuZ2lm/original/%2FmjmJM.gif",
     "scrapeWords": [
       "Reflection"
+    ]
+  },
+  {
+    "author": "shmooy",
+    "description": "A game where you have to go backwards sometimes",
+    "genre": "Puzzle",
+    "id": "1046198",
+    "link": "https://shmooy.itch.io/syncrobot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5ODc2NTIucG5n/315x250%23c/tZMVrD.png",
+    "title": "SyncRobot",
+    "video": null,
+    "scrapeWords": [
+      "Sync",
+      "Robot"
+    ]
+  },
+  {
+    "author": "BubbleDev",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1047040",
+    "link": "https://bubbledev.itch.io/jellyjump",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5ODQ4NDUucG5n/315x250%23c/48AEOH.png",
+    "title": "Jelly+",
+    "video": null,
+    "scrapeWords": [
+      "Jelly"
+    ]
+  },
+  {
+    "author": "PhonoForest",
+    "description": "Metroidvania type 2d platformer",
+    "genre": "Platformer",
+    "id": "1047805",
+    "link": "https://phonoforest.itch.io/void-climber",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5ODk2ODYucG5n/315x250%23c/TM7hD5.png",
+    "title": "Void Climber [WIP]",
+    "video": null,
+    "scrapeWords": [
+      "Void",
+      "Climber",
+      "[WIP]"
     ]
   },
   {
@@ -8182,6 +8297,22 @@
       "Pour",
       "some",
       "tea"
+    ]
+  },
+  {
+    "author": "ijet",
+    "description": null,
+    "genre": null,
+    "id": "122091",
+    "link": "https://ijet.itch.io/dodge-the-creeps",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MTgyMjYucG5n/315x250%23c/MToDF8.png",
+    "title": "Dodge the Creeps",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "the",
+      "Creeps"
     ]
   },
   {
@@ -25130,25 +25261,6 @@
     ]
   },
   {
-    "author": "Game Endeavor",
-    "description": "Defend Earth from an onslaught of asteroids with a cannon on a massive rail system!",
-    "genre": "Shooter",
-    "id": "311308",
-    "link": "https://game-endeavor.itch.io/space-force-one",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzE1MzAyNTkucG5n/315x250%23c/QqjIbw.png",
-    "title": "Space Force One: Rail Cannon Defense",
-    "video": null,
-    "scrapeWords": [
-      "Space",
-      "Force",
-      "One",
-      "Rail",
-      "Cannon",
-      "Defense"
-    ]
-  },
-  {
     "author": "securas",
     "description": "A prototype",
     "genre": "Action",
@@ -27122,26 +27234,6 @@
     "video": null,
     "scrapeWords": [
       "Inconnu"
-    ]
-  },
-  {
-    "author": "JigmeDatse",
-    "description": "Tutorial Jam submission using Godot",
-    "genre": "Strategy",
-    "id": "328541",
-    "link": "https://jigmedatse.itch.io/dodge-the-creeps",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": null,
-    "title": "Dodge the Creeps",
-    "video": null,
-    "scrapeWords": [
-      "Dodge",
-      "the",
-      "Creeps"
     ]
   },
   {
@@ -68099,6 +68191,24 @@
     ]
   },
   {
+    "author": "Holo74",
+    "description": null,
+    "genre": "Platformer",
+    "id": "629901",
+    "link": "https://holo74.itch.io/oughtplorers",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM5NDYzNjYucG5n/315x250%23c/dxpJuy.png",
+    "title": "Oughtplorers",
+    "video": null,
+    "scrapeWords": [
+      "Oughtplorers"
+    ]
+  },
+  {
     "author": "unSAME Studio",
     "description": "A cute 2D platformer inspired by the NES game Balloon Fight",
     "genre": "Platformer",
@@ -69300,24 +69410,6 @@
       "The",
       "Dark",
       "Forest"
-    ]
-  },
-  {
-    "author": "Shapkofil",
-    "description": "Rain Game",
-    "genre": null,
-    "id": "636076",
-    "link": "https://shapkofil.itch.io/downfall",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0OTUxNDAucG5n/315x250%23c/G9oEVY.png",
-    "title": "Downfall",
-    "video": null,
-    "scrapeWords": [
-      "Downfall"
     ]
   },
   {
@@ -83432,7 +83524,9 @@
     "genre": "Action",
     "id": "703116",
     "link": "https://devwodsobe.itch.io/wodsobe",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzQyMjAzODMucG5n/315x250%23c/xDfBdX.png",
     "title": "Hoitown Files: Wodsobe",
     "video": null,
@@ -97699,7 +97793,7 @@
     ]
   },
   {
-    "author": "Nurmuhammad",
+    "author": "Xanthos Ware",
     "description": "Collect stamps on time!",
     "genre": "Action",
     "id": "767804",
@@ -106147,7 +106241,7 @@
     ]
   },
   {
-    "author": "Nurmuhammad",
+    "author": "Xanthos Ware",
     "description": "An in-universe game seen on Mao Mao: Heroes of Pure Heart!",
     "genre": "Action",
     "id": "819286",
@@ -112497,7 +112591,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5ODk1ODYucG5n/315x250%23c/Ozln1c.png",
     "title": "Vegetable Rain 3d",
     "video": null,
     "scrapeWords": [
@@ -126558,7 +126652,7 @@
     ]
   },
   {
-    "author": "Nurmuhammad",
+    "author": "Xanthos Ware",
     "description": "Your a robot who lost all it's parts! Will you be able to reassemble?",
     "genre": "Platformer",
     "id": "946899",
@@ -129215,9 +129309,9 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU5MjEyNDUuZ2lm/315x250%23cm/2HiA5r.gif",
+    "thumb": "https://img.itch.zone/aW1nLzU5ODU3NzQucG5n/315x250%23c/2arm3m.png",
     "title": "[Alpha] Champion Bash",
-    "video": "https://img.itch.zone/aW1nLzU5MjEyNDUuZ2lm/original/Wcc3eR.gif",
+    "video": null,
     "scrapeWords": [
       "[Alpha]",
       "Champion",
