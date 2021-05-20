@@ -1,10 +1,10 @@
 [
   {
-    "author": "N8M8",
+    "author": "Nothan",
     "description": "​Step up to the infamously sneaky Simon Snake-Eyes in this dice-duel to the DEATH!",
     "genre": "Action",
     "id": "1000057",
-    "link": "https://n8m8.itch.io/duelin-dice",
+    "link": "https://nilnaut.itch.io/duelin-dice",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU3MDQ4MDMucG5n/315x250%23c/geEZyq.png",
     "title": "Duelin' Dice",
@@ -3178,7 +3178,7 @@
   },
   {
     "author": "Ernesto Torres",
-    "description": "A small horror FPS made for ludumdare #48",
+    "description": "A small 3D arcade horror FPS made for ludumdare #48",
     "genre": "Shooter",
     "id": "1014109",
     "link": "https://iamernesto.itch.io/the-pit",
@@ -4477,9 +4477,7 @@
     "genre": "Interactive Fiction",
     "id": "1019241",
     "link": "https://prsas.itch.io/taoy",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU5MzQxMjguZ2lm/315x250%23cm/G3Db8n.gif",
     "title": "The Apocalypse of You",
     "video": "https://img.itch.zone/aW1nLzU5MzQxMjguZ2lm/original/HIdpna.gif",
@@ -6140,6 +6138,24 @@
     ]
   },
   {
+    "author": "birbgames",
+    "description": "A  coffee-making visual novel about a cute bird helping adventurers on their quests. Your choices matter!",
+    "genre": "Visual Novel",
+    "id": "1034638",
+    "link": "https://birbgames.itch.io/birb-cafe-demo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5MDU3ODAucG5n/315x250%23c/NMgNEe.png",
+    "title": "Birb Café Demo",
+    "video": null,
+    "scrapeWords": [
+      "Birb",
+      "Café"
+    ]
+  },
+  {
     "author": "HetBest",
     "description": null,
     "genre": "Shooter",
@@ -6545,7 +6561,7 @@
     "id": "1040178",
     "link": "https://amdotblacksheep.itch.io/wefa",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU5NDMwMTkuanBn/315x250%23c/S0m8%2Bq.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzU5OTQxMDQuanBn/315x250%23c/%2Bvnxgj.jpg",
     "title": "WEFA",
     "video": null,
     "scrapeWords": [
@@ -6767,11 +6783,11 @@
     ]
   },
   {
-    "author": "DrBynw",
+    "author": "Epiphron",
     "description": "Collect coffee beans to stay awake and be aware to don't fall asleep",
     "genre": "Survival",
     "id": "1042595",
-    "link": "https://drbynw.itch.io/stay-awake",
+    "link": "https://epiphron.itch.io/stay-awake",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU5NTYwNzYucG5n/315x250%23c/WF%2F4ud.png",
     "title": "Stay Awake",
@@ -7177,9 +7193,7 @@
     "id": "1044954",
     "link": "https://lazergater.itch.io/wavesplash",
     "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU5NzA3OTcucG5n/315x250%23c/npnR1W.png",
     "title": "WaveSplash",
@@ -7517,6 +7531,26 @@
     ]
   },
   {
+    "author": "haztro",
+    "description": "Improve your online chess skills!",
+    "genre": "Action",
+    "id": "1047751",
+    "link": "https://haztro.itch.io/chess-bullet-trainer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5ODk0MjYucG5n/315x250%23c/OrWMLY.png",
+    "title": "Chess Bullet Trainer",
+    "video": null,
+    "scrapeWords": [
+      "Chess",
+      "Bullet",
+      "Trainer"
+    ]
+  },
+  {
     "author": "PhonoForest",
     "description": "Metroidvania type 2d platformer",
     "genre": "Platformer",
@@ -7530,6 +7564,43 @@
       "Void",
       "Climber",
       "[WIP]"
+    ]
+  },
+  {
+    "author": "girloffthecob",
+    "description": "A basic indie arcade game -- take down the coronavirus!",
+    "genre": "Shooter",
+    "id": "1048347",
+    "link": "https://girloffthecob.itch.io/coronabuster",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5OTQwMDkucG5n/315x250%23c/jvoryW.png",
+    "title": "CoronaBuster Beta",
+    "video": null,
+    "scrapeWords": [
+      "Corona",
+      "Buster",
+      "Beta"
+    ]
+  },
+  {
+    "author": "MFauzan Project",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1049002",
+    "link": "https://mfproject.itch.io/bugbot",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5OTgwNDYucG5n/315x250%23c/3jqdIv.png",
+    "title": "BugBot",
+    "video": null,
+    "scrapeWords": [
+      "Bug",
+      "Bot"
     ]
   },
   {
@@ -25258,6 +25329,25 @@
       "Doomed",
       "to",
       "Hell"
+    ]
+  },
+  {
+    "author": "Game Endeavor",
+    "description": "Defend Earth from an onslaught of asteroids with a cannon on a massive rail system!",
+    "genre": "Shooter",
+    "id": "311308",
+    "link": "https://game-endeavor.itch.io/space-force-one",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzE1MzAyNTkucG5n/315x250%23c/QqjIbw.png",
+    "title": "Space Force One: Rail Cannon Defense",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Force",
+      "One",
+      "Rail",
+      "Cannon",
+      "Defense"
     ]
   },
   {
@@ -47652,11 +47742,11 @@
     ]
   },
   {
-    "author": "MangoGames",
+    "author": "Blimmy Games",
     "description": null,
     "genre": "Platformer",
     "id": "491573",
-    "link": "https://mangogames.itch.io/blow-back",
+    "link": "https://blimmy-games.itch.io/blow-back",
     "platforms": [
       "Windows"
     ],
@@ -54552,14 +54642,14 @@
     ]
   },
   {
-    "author": "AndersonGarrote",
-    "description": "Jogo de Plataforma do Garibot, o robô reciclador",
+    "author": "Anderson Garrote",
+    "description": "Jogo de plataforma do Garibot, o robô reciclador",
     "genre": "Platformer",
     "id": "549831",
     "link": "https://andersongarrote.itch.io/garibot",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzI4NzQzNDkucG5n/315x250%23c/JKP%2FIT.png",
-    "title": "Garibot e o Mundo de Resíduos - v 1.9",
+    "thumb": "https://img.itch.zone/aW1nLzU5OTY1MDkucG5n/315x250%23c/EZhDWk.png",
+    "title": "Garibot e o Mundo de Resíduos",
     "video": null,
     "scrapeWords": [
       "Garibot",
@@ -54567,9 +54657,7 @@
       "o",
       "Mundo",
       "de",
-      "Resíduos",
-      "v",
-      "19"
+      "Resíduos"
     ]
   },
   {
@@ -81377,7 +81465,7 @@
   },
   {
     "author": "Bilzeiboube",
-    "description": null,
+    "description": "Dodge the attacks... with the keyboard's keys changing over time.",
     "genre": "Action",
     "id": "696501",
     "link": "https://bilzeiboube.itch.io/out-of-shock",
@@ -123790,11 +123878,11 @@
     ]
   },
   {
-    "author": "IndieEnProblemas",
+    "author": "AnNoviceIndie",
     "description": "Be fast, keep focused and get the best time!!!",
     "genre": "Platformer",
     "id": "930787",
-    "link": "https://indieenproblemas.itch.io/30-seconds-to-win",
+    "link": "https://annoviceindie.itch.io/30-seconds-to-win",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyODYyMTgucG5n/315x250%23c/8zessZ.png",
     "title": "30 Seconds To Win",
@@ -133718,7 +133806,7 @@
   },
   {
     "author": "Ernesto Torres",
-    "description": "A tiny game about feeding chickens",
+    "description": "A tiny 3D game about feeding chickens",
     "genre": "Simulation",
     "id": "994992",
     "link": "https://iamernesto.itch.io/tacs",
