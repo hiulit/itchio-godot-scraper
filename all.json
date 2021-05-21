@@ -1,6 +1,6 @@
 [
   {
-    "author": "Nothan",
+    "author": "Naut",
     "description": "​Step up to the infamously sneaky Simon Snake-Eyes in this dice-duel to the DEATH!",
     "genre": "Action",
     "id": "1000057",
@@ -2224,6 +2224,21 @@
     ]
   },
   {
+    "author": "cagibi",
+    "description": "Jules Beaverne lost his keys in the bottom of the lake!",
+    "genre": "Platformer",
+    "id": "1012315",
+    "link": "https://cagibi.itch.io/beaver-submarine",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3NjczNjYucG5n/315x250%23c/WCh%2FgO.png",
+    "title": "Beaver Submarine",
+    "video": null,
+    "scrapeWords": [
+      "Beaver",
+      "Submarine"
+    ]
+  },
+  {
     "author": "Anagh's World",
     "description": "Fix the bugs to save the game from crashing. A game made by Anagh's World.",
     "genre": "Survival",
@@ -2603,6 +2618,7 @@
     "link": "https://nethead.itch.io/ziggurat",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3NzA1MjMucG5n/315x250%23c/bYJEsd.png",
@@ -3386,6 +3402,25 @@
     "scrapeWords": [
       "The",
       "Cure"
+    ]
+  },
+  {
+    "author": "Jomag",
+    "description": "Submission to the ludum darre jam 48. Proper description incoming...",
+    "genre": "Platformer",
+    "id": "1014980",
+    "link": "https://jomag.itch.io/darling-have-you-seen-the-children",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3ODM5MjUucG5n/315x250%23c/yYJkBZ.png",
+    "title": "Darling, have you seen the children?",
+    "video": null,
+    "scrapeWords": [
+      "Darling",
+      "have",
+      "you",
+      "seen",
+      "the",
+      "children"
     ]
   },
   {
@@ -7604,6 +7639,38 @@
     ]
   },
   {
+    "author": "191brian",
+    "description": "Godot Udemy Course",
+    "genre": "Platformer",
+    "id": "1049784",
+    "link": "https://191brian.itch.io/godot-test-project",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMDM0ODYucG5n/315x250%23c/gEKRrt.png",
+    "title": "Godot Test Project",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Test",
+      "Project"
+    ]
+  },
+  {
+    "author": "CaptainLiv",
+    "description": "Dodge the potato like space rocks and survive for as long as possible",
+    "genre": "Survival",
+    "id": "1049840",
+    "link": "https://captainliv.itch.io/starship",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMDM2MDQucG5n/315x250%23c/JCRgpo.png",
+    "title": "Starship",
+    "video": null,
+    "scrapeWords": [
+      "Starship"
+    ]
+  },
+  {
     "author": "patrickreh",
     "description": "LD #37 Jam Entry",
     "genre": "Adventure",
@@ -7620,6 +7687,43 @@
       "Last",
       "in",
       "Time"
+    ]
+  },
+  {
+    "author": "slabgames",
+    "description": "Find cute hidden cat, merge game, and play with cute cats.",
+    "genre": "Puzzle",
+    "id": "1050312",
+    "link": "https://slabgames.itch.io/where-is-my-cat",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMDY1MjcucG5n/315x250%23c/k7vzzU.png",
+    "title": "Where is My Cat?",
+    "video": null,
+    "scrapeWords": [
+      "Where",
+      "is",
+      "My",
+      "Cat"
+    ]
+  },
+  {
+    "author": "44pes",
+    "description": "Go through the rooms, get the upgrades and find the exit",
+    "genre": "Adventure",
+    "id": "1050352",
+    "link": "https://44pes.itch.io/mental-prison",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMDY2NDUucG5n/315x250%23c/mXlWur.png",
+    "title": "Mental Prison",
+    "video": null,
+    "scrapeWords": [
+      "Mental",
+      "Prison"
     ]
   },
   {
@@ -46497,6 +46601,25 @@
     ]
   },
   {
+    "author": "Mariothedog",
+    "description": "Game I made for Trijam #36 which had the theme \"Power Up\".",
+    "genre": "Action",
+    "id": "483568",
+    "link": "https://mariothedog.itch.io/boss-fight",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTQzMTQucG5n/315x250%23c/aj07Cl.png",
+    "title": "Boss Fight",
+    "video": null,
+    "scrapeWords": [
+      "Boss",
+      "Fight"
+    ]
+  },
+  {
     "author": "tomas7777",
     "description": "Control a square and jump between platforms that move increasingly faster.",
     "genre": null,
@@ -50822,25 +50945,6 @@
       "The",
       "Impossible",
       "Crypt"
-    ]
-  },
-  {
-    "author": "Doomed Lord",
-    "description": null,
-    "genre": "Racing",
-    "id": "517910",
-    "link": "https://doomed-lord.itch.io/holydriver",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2OTI1NDUucG5n/315x250%23c/F9tRjJ.png",
-    "title": "Holy Driver",
-    "video": null,
-    "scrapeWords": [
-      "Holy",
-      "Driver"
     ]
   },
   {
@@ -79147,27 +79251,6 @@
     "scrapeWords": [
       "Color",
       "Save"
-    ]
-  },
-  {
-    "author": "Lorenzo_774",
-    "description": "Finally, above the ground!",
-    "genre": "Platformer",
-    "id": "689689",
-    "link": "https://lorenzo-774.itch.io/above-the-ground-2020",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM4MDA0MDEuanBn/315x250%23c/tMyZMV.jpg",
-    "title": "Above The Ground 2020",
-    "video": null,
-    "scrapeWords": [
-      "Above",
-      "The",
-      "Ground",
-      "2020"
     ]
   },
   {
@@ -114890,6 +114973,20 @@
     ]
   },
   {
+    "author": "AnidemDex",
+    "description": "DEMO V1.2.2",
+    "genre": "Platformer",
+    "id": "876402",
+    "link": "https://dexanidem.itch.io/angela",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzE2NjQucG5n/315x250%23c/BBegmx.png",
+    "title": "Angela",
+    "video": null,
+    "scrapeWords": [
+      "Angela"
+    ]
+  },
+  {
     "author": "Lerg-exe",
     "description": "You are the robot who was sent from the future to save humanity.  Isnpired by Karlson2D and katan zero(but not as good)",
     "genre": "Action",
@@ -132257,6 +132354,21 @@
     ]
   },
   {
+    "author": "goldmindbreaker",
+    "description": "This is an early prototype for a game I'm working on",
+    "genre": "Action",
+    "id": "982583",
+    "link": "https://goldmindbreaker.itch.io/toons-warfare-prototype",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMDE0MzAuanBn/315x250%23c/pkRQ5Q.jpg",
+    "title": "TOONS WARFARE",
+    "video": null,
+    "scrapeWords": [
+      "TOONS",
+      "WARFARE"
+    ]
+  },
+  {
     "author": "trashbait",
     "description": "short game made for a game jam",
     "genre": "Platformer",
@@ -132597,25 +132709,6 @@
     "scrapeWords": [
       "Saturn",
       "Jumper"
-    ]
-  },
-  {
-    "author": "Monkii Goes Boarding",
-    "description": "You can't stop moving in this fast paced twinstick-shooter boss fight!",
-    "genre": "Shooter",
-    "id": "984349",
-    "link": "https://monkii-man.itch.io/boss-fight",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU3MjY1MDQucG5n/315x250%23c/UMbzeJ.png",
-    "title": "Boss Fight",
-    "video": null,
-    "scrapeWords": [
-      "Boss",
-      "Fight"
     ]
   },
   {
