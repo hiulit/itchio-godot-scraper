@@ -4748,12 +4748,8 @@
     "genre": "Action",
     "id": "1021928",
     "link": "https://indieology.itch.io/amnesia-hero",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU4MjYzNjgucG5n/315x250%23c/7aLnvC.png",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMTQ1OTkucG5n/315x250%23c/gZDPoE.png",
     "title": "Amnesia Hero?",
     "video": null,
     "scrapeWords": [
@@ -6368,7 +6364,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU5NTk5MTMucG5n/315x250%23c/PrtTct.png",
+    "thumb": "https://img.itch.zone/aW1nLzYwMDc5NTEucG5n/315x250%23c/MC8nAR.png",
     "title": "Flappy Unicorn",
     "video": null,
     "scrapeWords": [
@@ -6889,6 +6885,20 @@
     ]
   },
   {
+    "author": "MaFiOuS",
+    "description": "The 'z' is for style.",
+    "genre": "Action",
+    "id": "1043179",
+    "link": "https://mafious.itch.io/cellz",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5NjM1NjIucG5n/315x250%23c/2wMVcl.png",
+    "title": "Cellz",
+    "video": null,
+    "scrapeWords": [
+      "Cellz"
+    ]
+  },
+  {
     "author": "HexTooRed",
     "description": null,
     "genre": "Platformer",
@@ -7108,6 +7118,25 @@
       "for",
       "my",
       "treasure"
+    ]
+  },
+  {
+    "author": "CGCFSS",
+    "description": null,
+    "genre": "Racing",
+    "id": "1044456",
+    "link": "https://cgcfss.itch.io/van-life",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NzMyMDQucG5n/315x250%23c/oZDUQL.png",
+    "title": "VAN Life",
+    "video": null,
+    "scrapeWords": [
+      "VAN",
+      "Life"
     ]
   },
   {
@@ -7379,7 +7408,9 @@
     "genre": "Strategy",
     "id": "1045150",
     "link": "https://danielbarral.itch.io/arrows",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzU5NzIyODQucG5n/315x250%23c/tZgbeK.png",
     "title": "Arrows",
     "video": null,
@@ -7534,7 +7565,7 @@
   },
   {
     "author": "shmooy",
-    "description": "A game where you have to go backwards sometimes",
+    "description": "A game where you have to go backwards to move forward",
     "genre": "Puzzle",
     "id": "1046198",
     "link": "https://shmooy.itch.io/syncrobot",
@@ -7563,6 +7594,26 @@
     "video": null,
     "scrapeWords": [
       "Jelly"
+    ]
+  },
+  {
+    "author": "Sezotove",
+    "description": null,
+    "genre": "Strategy",
+    "id": "1047601",
+    "link": "https://sezotove.itch.io/wild-dungeon-defense",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5ODkxMzkucG5n/315x250%23c/VqAEpp.png",
+    "title": "Wild! Dungeon Defense!",
+    "video": null,
+    "scrapeWords": [
+      "Wild",
+      "Dungeon",
+      "Defense"
     ]
   },
   {
@@ -7602,6 +7653,25 @@
     ]
   },
   {
+    "author": "zacryol",
+    "description": "Steal the Dark Lord's minions for money",
+    "genre": null,
+    "id": "1048200",
+    "link": "https://zacryol.itch.io/monstrum-pecuniam",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMDIxNjAucG5n/315x250%23c/mJfzhs.png",
+    "title": "Monstrum Pecuniam",
+    "video": null,
+    "scrapeWords": [
+      "Monstrum",
+      "Pecuniam"
+    ]
+  },
+  {
     "author": "girloffthecob",
     "description": "A basic indie arcade game -- take down the coronavirus!",
     "genre": "Shooter",
@@ -7636,6 +7706,24 @@
     "scrapeWords": [
       "Bug",
       "Bot"
+    ]
+  },
+  {
+    "author": "mattiasa",
+    "description": "A local co-op puzzle game.",
+    "genre": "Puzzle",
+    "id": "1049241",
+    "link": "https://mattiasa.itch.io/sigint",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5OTk4NzgucG5n/315x250%23c/t29EHT.png",
+    "title": "SIGINT",
+    "video": null,
+    "scrapeWords": [
+      "SIGINT"
     ]
   },
   {
@@ -7727,6 +7815,60 @@
     ]
   },
   {
+    "author": "Maxknd",
+    "description": "Game I'm making while learning Godot",
+    "genre": "Platformer",
+    "id": "1050543",
+    "link": "https://maxknd.itch.io/morcov-v100",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMDgwMTUuanBn/315x250%23c/LxTtvp.jpg",
+    "title": "Morcov_v1.0.1",
+    "video": null,
+    "scrapeWords": [
+      "Morcov_v101"
+    ]
+  },
+  {
+    "author": "excshi",
+    "description": "Shoot The Aliens!!!",
+    "genre": "Shooter",
+    "id": "1050715",
+    "link": "https://excshi.itch.io/space-warrior",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMDk0ODkuZ2lm/315x250%23cm/y1eTwD.gif",
+    "title": "Space Warrior",
+    "video": "https://img.itch.zone/aW1nLzYwMDk0ODkuZ2lm/original/1TgJQz.gif",
+    "scrapeWords": [
+      "Space",
+      "Warrior"
+    ]
+  },
+  {
+    "author": "Fadri",
+    "description": "A greedy gnome wants to collect all the mushrooms that he can!",
+    "genre": "Action",
+    "id": "1050872",
+    "link": "https://fadri.itch.io/funginome",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMTA0MTguanBn/315x250%23c/C%2B6YDO.jpg",
+    "title": "Funginome - Godot Wild Jam #33",
+    "video": null,
+    "scrapeWords": [
+      "Funginome",
+      "Godot",
+      "Wild",
+      "Jam",
+      "33"
+    ]
+  },
+  {
     "author": "depression",
     "description": "psychological",
     "genre": null,
@@ -7743,6 +7885,47 @@
     "scrapeWords": [
       "Psy",
       "room"
+    ]
+  },
+  {
+    "author": "nad_labs",
+    "description": "Climb the tower, get da rubies, get rich!",
+    "genre": "Adventure",
+    "id": "1051513",
+    "link": "https://nad-labs.itch.io/gogetmesomerubies",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMTQ0MjEucG5n/315x250%23c/XEuy0t.png",
+    "title": "GoGetMeSomeRubies",
+    "video": null,
+    "scrapeWords": [
+      "Go",
+      "Get",
+      "Me",
+      "Some",
+      "Rubies"
+    ]
+  },
+  {
+    "author": "vishwah13",
+    "description": "steal the jewellery and escape from the authorities",
+    "genre": "Adventure",
+    "id": "1051723",
+    "link": "https://vishwah13.itch.io/thief",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMTU4OTgucG5n/315x250%23c/8N%2Bwce.png",
+    "title": "Elusive Thief",
+    "video": null,
+    "scrapeWords": [
+      "Elusive",
+      "Thief"
     ]
   },
   {
@@ -50948,6 +51131,25 @@
     ]
   },
   {
+    "author": "Doomed Lord",
+    "description": null,
+    "genre": "Racing",
+    "id": "517910",
+    "link": "https://doomed-lord.itch.io/holydriver",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI2OTI1NDUucG5n/315x250%23c/F9tRjJ.png",
+    "title": "Holy Driver",
+    "video": null,
+    "scrapeWords": [
+      "Holy",
+      "Driver"
+    ]
+  },
+  {
     "author": "AloveZ",
     "description": "`Time Leap` by bike Cycle",
     "genre": "Racing",
@@ -74598,25 +74800,6 @@
     ]
   },
   {
-    "author": "ic3bug",
-    "description": "Wreck your rivals and aliens with a sawn-off in an endless death battle.",
-    "genre": "Shooter",
-    "id": "664387",
-    "link": "https://ic3bug.itch.io/godot-shotgun-party",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ3NzgwODYucG5n/315x250%23c/dnTuxi.png",
-    "title": "Godot Shotgun Party",
-    "video": null,
-    "scrapeWords": [
-      "Godot",
-      "Shotgun",
-      "Party"
-    ]
-  },
-  {
     "author": "GuilhermeH",
     "description": "Dodge fast, blow up enemies and stay alive as much as you can.",
     "genre": "Adventure",
@@ -79251,6 +79434,27 @@
     "scrapeWords": [
       "Color",
       "Save"
+    ]
+  },
+  {
+    "author": "Lorenzo_774",
+    "description": "Finally, above the ground!",
+    "genre": "Platformer",
+    "id": "689689",
+    "link": "https://lorenzo-774.itch.io/above-the-ground-2020",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM4MDA0MDEuanBn/315x250%23c/tMyZMV.jpg",
+    "title": "Above The Ground 2020",
+    "video": null,
+    "scrapeWords": [
+      "Above",
+      "The",
+      "Ground",
+      "2020"
     ]
   },
   {
@@ -86294,23 +86498,6 @@
     ]
   },
   {
-    "author": "LLL",
-    "description": "Action Role Playing Game",
-    "genre": "Action",
-    "id": "716703",
-    "link": "https://illl.itch.io/rhym",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU4OTg5ODUucG5n/315x250%23c/Eq3GZy.png",
-    "title": "Unfinished Undefined",
-    "video": null,
-    "scrapeWords": [
-      "Unfinished",
-      "Undefined"
-    ]
-  },
-  {
     "author": "OnyxIdol",
     "description": "Explore a deep sea cave system with your submarine and collect artifacts.",
     "genre": "Action",
@@ -90180,6 +90367,24 @@
       "Whos",
       "That",
       "Function"
+    ]
+  },
+  {
+    "author": "[OMG]",
+    "description": "Become one of the \"evil\" creatures and try to survive.",
+    "genre": "Survival",
+    "id": "735171",
+    "link": "https://one-man-games-studio.itch.io/underlings",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwOTEwNzIucG5n/315x250%23c/ebWTh1.png",
+    "title": "Underlings",
+    "video": null,
+    "scrapeWords": [
+      "Underlings"
     ]
   },
   {
@@ -94735,11 +94940,11 @@
     ]
   },
   {
-    "author": "yakii",
+    "author": "AlienCoding",
     "description": "Avoid the lava and get the highest score!",
     "genre": "Action",
     "id": "751626",
-    "link": "https://yakii.itch.io/super-treasure",
+    "link": "https://aliencoding.itch.io/super-treasure",
     "platforms": [
       "Windows"
     ],
@@ -106563,7 +106768,7 @@
   {
     "author": "ItchYoBoi",
     "description": "A game involving math",
-    "genre": null,
+    "genre": "Puzzle",
     "id": "820823",
     "link": "https://itchyoboi.itch.io/operators-and-operands",
     "platforms": [
@@ -125831,24 +126036,6 @@
     ]
   },
   {
-    "author": "ic3bug",
-    "description": "Pracice your rocket launching in a fast-paced wave survival FPS.",
-    "genre": "Action",
-    "id": "940463",
-    "link": "https://ic3bug.itch.io/rocket-bots",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMjc4MzQucG5n/315x250%23c/XpMRAO.png",
-    "title": "Rocket Bots",
-    "video": null,
-    "scrapeWords": [
-      "Rocket",
-      "Bots"
-    ]
-  },
-  {
     "author": "clima",
     "description": "Wowie Jam 3.0 Submission",
     "genre": "Action",
@@ -128124,24 +128311,6 @@
       "The",
       "Rotation",
       "Maneuver"
-    ]
-  },
-  {
-    "author": "Cuchi",
-    "description": "Zeichen is an action RPG open map game currently in developing.",
-    "genre": "Adventure",
-    "id": "955838",
-    "link": "https://cuchi.itch.io/zeichen",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU4NjQ2MjMucG5n/315x250%23c/xz2Lss.png",
-    "title": "Zeichen",
-    "video": null,
-    "scrapeWords": [
-      "Zeichen"
     ]
   },
   {
