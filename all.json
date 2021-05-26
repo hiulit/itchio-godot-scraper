@@ -4745,7 +4745,7 @@
     ]
   },
   {
-    "author": "b._.render",
+    "author": "Brender",
     "description": "the adventurous ninjafrog",
     "genre": "Adventure",
     "id": "1021318",
@@ -4854,6 +4854,8 @@
     "link": "https://team-void-heart.itch.io/paper-climb",
     "platforms": [
       "Windows",
+      "Linux",
+      "macOS",
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4MzY5ODcucG5n/315x250%23c/B1pgSB.png",
@@ -6206,6 +6208,26 @@
     ]
   },
   {
+    "author": "Flubbar",
+    "description": "Arknights fangame based on Contingency Contract",
+    "genre": "Action",
+    "id": "1034604",
+    "link": "https://flubbar.itch.io/pyrite-memoir",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDAxMjkucG5n/315x250%23c/Iu8tWU.png",
+    "title": "Pyrite Memoir / 황철의 회고록",
+    "video": null,
+    "scrapeWords": [
+      "Pyrite",
+      "Memoir",
+      "황철의",
+      "회고록"
+    ]
+  },
+  {
     "author": "birbgames",
     "description": "A  coffee-making visual novel about a cute bird helping adventurers on their quests. Your choices matter!",
     "genre": "Visual Novel",
@@ -6709,6 +6731,24 @@
     "scrapeWords": [
       "Room",
       "Gloom"
+    ]
+  },
+  {
+    "author": "Teen_Creator",
+    "description": "Study♥Play☻Eat☺Sleep◘",
+    "genre": "Action",
+    "id": "1041085",
+    "link": "https://teen-creator.itch.io/egg-buster",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5NDU5MDUucG5n/315x250%23c/qSDduf.png",
+    "title": "Egg_Buster",
+    "video": null,
+    "scrapeWords": [
+      "Egg_Buster"
     ]
   },
   {
@@ -7703,7 +7743,11 @@
     "genre": "Puzzle",
     "id": "1046778",
     "link": "https://cozyfractal.itch.io/gravity",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYwMjc1MDcucG5n/315x250%23c/XytWrd.png",
     "title": "Le maître de la gravité",
     "video": null,
@@ -7860,6 +7904,24 @@
     ]
   },
   {
+    "author": "Fabre Loup",
+    "description": "Play airhockey into adventure worlds and combat.",
+    "genre": "Action",
+    "id": "1049356",
+    "link": "https://neverwrittengames.itch.io/lairhockey",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMDAzNjgucG5n/315x250%23c/mNk5RH.png",
+    "title": "Lair Hockey",
+    "video": null,
+    "scrapeWords": [
+      "Lair",
+      "Hockey"
+    ]
+  },
+  {
     "author": "191brian",
     "description": "Godot Udemy Course",
     "genre": "Platformer",
@@ -7987,7 +8049,9 @@
     "genre": "Simulation",
     "id": "1050762",
     "link": "https://mpaul0416.itch.io/the-shire-reeve",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYwMjY0OTAucG5n/315x250%23c/moRQfi.png",
     "title": "The Shire Reeve",
     "video": null,
@@ -8100,7 +8164,7 @@
   },
   {
     "author": "twotwos",
-    "description": "One-button fighting for up to 26 players",
+    "description": "One-button fighting for two to twenty-six players",
     "genre": "Fighting",
     "id": "1051817",
     "link": "https://twotwos.itch.io/push-button",
@@ -8190,6 +8254,7 @@
     "id": "1052124",
     "link": "https://zehkira.itch.io/casual-snaking",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYwMTc4ODYucG5n/315x250%23c/5eWFw8.png",
@@ -8871,6 +8936,22 @@
     ]
   },
   {
+    "author": "breakfast",
+    "description": "Help Prince Toku fly through the clouds!",
+    "genre": "Action",
+    "id": "1054094",
+    "link": "https://itsbreakfast.itch.io/toku-takes-flight",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMzM2NjYucG5n/315x250%23c/C76FjA.png",
+    "title": "Toku Takes Flight",
+    "video": null,
+    "scrapeWords": [
+      "Toku",
+      "Takes",
+      "Flight"
+    ]
+  },
+  {
     "author": "JafCraze",
     "description": "Space travel is a-mazing",
     "genre": "Puzzle",
@@ -8916,6 +8997,146 @@
       "is",
       "the",
       "Bathroom"
+    ]
+  },
+  {
+    "author": "SleepyWombat",
+    "description": "a mobile game",
+    "genre": null,
+    "id": "1055464",
+    "link": "https://sleepywombat.itch.io/1-orb-bounce",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMzk3OTkucG5n/315x250%23c/0ahO53.png",
+    "title": "Orb Bounce",
+    "video": null,
+    "scrapeWords": [
+      "Orb",
+      "Bounce"
+    ]
+  },
+  {
+    "author": "Josh",
+    "description": null,
+    "genre": "Action",
+    "id": "1055882",
+    "link": "https://joshuajrodrigues.itch.io/blade-frogger",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDIwNzgucG5n/315x250%23c/MqWnit.png",
+    "title": "Blade Frogger",
+    "video": null,
+    "scrapeWords": [
+      "Blade",
+      "Frogger"
+    ]
+  },
+  {
+    "author": "salvin18",
+    "description": "A simple platformer made using car physics !",
+    "genre": null,
+    "id": "1055921",
+    "link": "https://salvin18.itch.io/car-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwNDI5NDUucG5n/315x250%23c/vTmZ1%2B.png",
+    "title": "Yet to be named car platformer",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "to",
+      "be",
+      "named",
+      "car",
+      "platformer"
+    ]
+  },
+  {
+    "author": "DvorakDwarf",
+    "description": "This is a short platformer I made to see what I want to learn.",
+    "genre": "Platformer",
+    "id": "1056046",
+    "link": "https://dvorakdwarf.itch.io/yet-another-platformer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDMyODQucG5n/315x250%23c/dgOyPX.png",
+    "title": "Yet Another Platformer",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Platformer"
+    ]
+  },
+  {
+    "author": "Me Dicen Boga",
+    "description": "find the chest(CasualGame)",
+    "genre": "Adventure",
+    "id": "1056077",
+    "link": "https://medicenboga.itch.io/find-the-chest",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwNDMyODEucG5n/315x250%23c/dvIzIm.png",
+    "title": "Find The Chest",
+    "video": null,
+    "scrapeWords": [
+      "Find",
+      "The",
+      "Chest"
+    ]
+  },
+  {
+    "author": "Sosasees🌳👾",
+    "description": "An Arcade Game for GoGodotJam (2021)",
+    "genre": "Action",
+    "id": "1056143",
+    "link": "https://sosasees.itch.io/ggj-tree-invaders",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDQ5NDAucG5n/315x250%23c/fxj%2Fuf.png",
+    "title": "Tree Invaders",
+    "video": null,
+    "scrapeWords": [
+      "Tree",
+      "Invaders"
+    ]
+  },
+  {
+    "author": "Can202",
+    "description": "4rcadeGames",
+    "genre": null,
+    "id": "1056448",
+    "link": "https://can202.itch.io/4rcadegames",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDU4MjQucG5n/315x250%23c/t7iyKV.png",
+    "title": "4rcadeGames",
+    "video": null,
+    "scrapeWords": [
+      "4rcade",
+      "Games"
+    ]
+  },
+  {
+    "author": "TheLogicMaster",
+    "description": "A simple runner game",
+    "genre": "Platformer",
+    "id": "1056758",
+    "link": "https://thelogicmaster.itch.io/sponge-runner",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDc0NjIucG5n/315x250%23c/fDYAQA.png",
+    "title": "Sponge Runner",
+    "video": null,
+    "scrapeWords": [
+      "Sponge",
+      "Runner"
     ]
   },
   {
@@ -16410,23 +16631,6 @@
     ]
   },
   {
-    "author": "Naythf",
-    "description": "A Alpha of my simple game",
-    "genre": null,
-    "id": "242253",
-    "link": "https://naythf.itch.io/naythanjumpfox",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjQyMjUzLzExNjM1OTgucG5n/315x250%23c/N%2BFgc%2F.png",
-    "title": "Naythan The Jump Fox",
-    "video": null,
-    "scrapeWords": [
-      "Naythan",
-      "The",
-      "Jump",
-      "Fox"
-    ]
-  },
-  {
     "author": "Aloe Vertex",
     "description": "A TF2 themed rouge lite. Similar in gameplay to Nuclear Throne.",
     "genre": "Shooter",
@@ -19337,6 +19541,24 @@
     ]
   },
   {
+    "author": "Escada Games",
+    "description": "A tower defense platformer with waffle elements.",
+    "genre": "Platformer",
+    "id": "263268",
+    "link": "https://escada-games.itch.io/wafflegeddon",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjYzMjY4LzEyNjY0MzUuZ2lm/315x250%23cm/RIY6RH.gif",
+    "title": "Wafflegeddon (Prototype)",
+    "video": "https://img.itch.zone/aW1hZ2UvMjYzMjY4LzEyNjY0MzUuZ2lm/original/AmPiP6.gif",
+    "scrapeWords": [
+      "Wafflegeddon",
+      "Prototype"
+    ]
+  },
+  {
     "author": "Overgeared Noob",
     "description": "Space shooter game from Godot course",
     "genre": "Shooter",
@@ -19413,22 +19635,6 @@
       "Order",
       "Road",
       "[][ENG]"
-    ]
-  },
-  {
-    "author": "Amil",
-    "description": "Help your little soccer heroes winning epic matches with super powerups ! Full and free for a limited time!",
-    "genre": "Sports",
-    "id": "264239",
-    "link": "https://amil-developer.itch.io/pocket-soccer",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjY0MjM5LzEzNjUwMDcuZ2lm/315x250%23cm/6psdph.gif",
-    "title": "Pocket Soccer 2018",
-    "video": "https://img.itch.zone/aW1hZ2UvMjY0MjM5LzEzNjUwMDcuZ2lm/original/9i48qg.gif",
-    "scrapeWords": [
-      "Pocket",
-      "Soccer",
-      "2018"
     ]
   },
   {
@@ -20458,6 +20664,25 @@
     "video": null,
     "scrapeWords": [
       "Stigresl"
+    ]
+  },
+  {
+    "author": "Thola studio",
+    "description": "A painfully accurate shower simulator",
+    "genre": "Action",
+    "id": "270196",
+    "link": "https://thola.itch.io/showersimulator",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjcwMTk2LzEzMDUxNjkuanBn/315x250%23c/eJUxIq.jpg",
+    "title": "ShowerSimulator",
+    "video": null,
+    "scrapeWords": [
+      "Shower",
+      "Simulator"
     ]
   },
   {
@@ -21741,6 +21966,23 @@
     "scrapeWords": [
       "Out",
       "camping"
+    ]
+  },
+  {
+    "author": "gloryofrobots",
+    "description": "Arcade fixed shooter inspired by old game Gyruss",
+    "genre": "Shooter",
+    "id": "276826",
+    "link": "https://gloryofrobots.itch.io/ellipsetron",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjc2ODI2LzEzNDE4NjkucG5n/315x250%23c/wMX6Da.png",
+    "title": "ellipsetron",
+    "video": null,
+    "scrapeWords": [
+      "ellipsetron"
     ]
   },
   {
@@ -84110,6 +84352,26 @@
     ]
   },
   {
+    "author": "Geegaz",
+    "description": "Use your movement keys as platforms to progress !",
+    "genre": "Platformer",
+    "id": "699951",
+    "link": "https://geegaz.itch.io/out-of-controls",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwNTA2ODAuZ2lm/315x250%23cm/zGT2b6.gif",
+    "title": "A Key(s) Path",
+    "video": "https://img.itch.zone/aW1nLzQwNTA2ODAuZ2lm/original/ALBKOt.gif",
+    "scrapeWords": [
+      "A",
+      "Keys",
+      "Path"
+    ]
+  },
+  {
     "author": "devtathan",
     "description": "It is a out of control bot that want's to live and the humans  will try to get the control's out of him.",
     "genre": "Action",
@@ -104645,12 +104907,15 @@
   },
   {
     "author": "TuanisApps",
-    "description": "A space RTS, mine asteroids, build your fleet and destroy the invaders.",
+    "description": "A space shooter RTS, mine asteroids, build your fleet and destroy the invaders.",
     "genre": "Strategy",
     "id": "798210",
     "link": "https://tuanisapps.itch.io/extinction-eclipse",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU5NzYyNjgucG5n/315x250%23c/ftIHFf.png",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDU5MzgucG5n/315x250%23c/roY7oU.png",
     "title": "Extinction Eclipse",
     "video": null,
     "scrapeWords": [
@@ -117333,7 +117598,7 @@
     ]
   },
   {
-    "author": "b._.render",
+    "author": "Brender",
     "description": "Ding that Dong and Ring that bell",
     "genre": "Simulation",
     "id": "884149",
@@ -117628,7 +117893,7 @@
     ]
   },
   {
-    "author": "b._.render",
+    "author": "Brender",
     "description": "This my first time trying out a game jam",
     "genre": "Simulation",
     "id": "885776",
@@ -118523,7 +118788,7 @@
     ]
   },
   {
-    "author": "b._.render",
+    "author": "Brender",
     "description": "Avoiding objects the key to success",
     "genre": "Survival",
     "id": "890706",
@@ -122898,7 +123163,7 @@
     ]
   },
   {
-    "author": "b._.render",
+    "author": "Brender",
     "description": "Click that heart, Gain those points",
     "genre": "Simulation",
     "id": "918147",
@@ -130178,7 +130443,7 @@
     ]
   },
   {
-    "author": "b._.render",
+    "author": "Brender",
     "description": "Made in honour of all those games that seemingly load forever",
     "genre": "Simulation",
     "id": "963417",
@@ -130856,7 +131121,7 @@
     ]
   },
   {
-    "author": "b._.render",
+    "author": "Brender",
     "description": "A low poly blender project I brought to godot",
     "genre": "Adventure",
     "id": "965546",
@@ -131901,21 +132166,6 @@
     "video": null,
     "scrapeWords": [
       "Slingshot"
-    ]
-  },
-  {
-    "author": "J1irka",
-    "description": "My first uploaded game.",
-    "genre": null,
-    "id": "971155",
-    "link": "https://j1irka.itch.io/flying-box",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU1MTM4NzEucG5n/315x250%23c/ftFaRH.png",
-    "title": "Flying box",
-    "video": null,
-    "scrapeWords": [
-      "Flying",
-      "box"
     ]
   },
   {
