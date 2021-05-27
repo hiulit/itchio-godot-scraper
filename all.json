@@ -4370,6 +4370,34 @@
     ]
   },
   {
+    "author": "Benjamin Mastripolito",
+    "description": "Ludum Dare 48 Entry - Recursive Puzzle Game!",
+    "genre": "Puzzle",
+    "id": "1017311",
+    "link": "https://ben-m.itch.io/wizsack",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU3OTUwODEucG5n/315x250%23c/8StUG3.png",
+    "title": "I Stole a Wizard's Sack and All I Got Was This Lousy Infinite Pocket Universe",
+    "video": null,
+    "scrapeWords": [
+      "I",
+      "Stole",
+      "a",
+      "Wizards",
+      "Sack",
+      "and",
+      "All",
+      "I",
+      "Got",
+      "Was",
+      "This",
+      "Lousy",
+      "Infinite",
+      "Pocket",
+      "Universe"
+    ]
+  },
+  {
     "author": "dedek",
     "description": "Get to the bottom. Or as the locals say: dno.",
     "genre": "Action",
@@ -5952,6 +5980,22 @@
     "scrapeWords": [
       "Ventus",
       "Celer"
+    ]
+  },
+  {
+    "author": "WiggleWizard",
+    "description": "A normal game about a cool bendy wizard. lɐǝɹɹns",
+    "genre": "Adventure",
+    "id": "1030067",
+    "link": "https://wigglewizard.itch.io/wizgameprototype",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwNTEyMTguZ2lm/315x250%23cm/GvvXVI.gif",
+    "title": "WizGamePrototype",
+    "video": "https://img.itch.zone/aW1nLzYwNTEyMTguZ2lm/original/64nHDa.gif",
+    "scrapeWords": [
+      "Wiz",
+      "Game",
+      "Prototype"
     ]
   },
   {
@@ -7973,6 +8017,25 @@
     ]
   },
   {
+    "author": "slabgames",
+    "description": "Find cute hidden cat, merge game, and play with cute cats.",
+    "genre": "Puzzle",
+    "id": "1050312",
+    "link": "https://slabgames.itch.io/where-is-my-cat",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMTYxODkucG5n/315x250%23c/5cVCly.png",
+    "title": "Where is My Cat?",
+    "video": null,
+    "scrapeWords": [
+      "Where",
+      "is",
+      "My",
+      "Cat"
+    ]
+  },
+  {
     "author": "44pes",
     "description": "Go through the rooms, get the upgrades and find the exit",
     "genre": "Adventure",
@@ -8103,6 +8166,22 @@
     ]
   },
   {
+    "author": "KuriGameDev",
+    "description": "Chaotic, high-speed kart racing.",
+    "genre": "Racing",
+    "id": "1051074",
+    "link": "https://kurigamedev.itch.io/retro-kart-rush",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMTM3MzEucG5n/315x250%23c/pU%2BtWv.png",
+    "title": "Retro Kart Rush",
+    "video": null,
+    "scrapeWords": [
+      "Retro",
+      "Kart",
+      "Rush"
+    ]
+  },
+  {
     "author": "nad_labs",
     "description": "Climb the tower, get da rubies, get rich!",
     "genre": "Adventure",
@@ -8193,6 +8272,25 @@
     "scrapeWords": [
       "Jelly",
       "Mobile"
+    ]
+  },
+  {
+    "author": "Hyperfocused Games",
+    "description": null,
+    "genre": null,
+    "id": "1051835",
+    "link": "https://hyperfocused.itch.io/wgj202-clones",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMjc4NzcucG5n/315x250%23c/1NDQCm.png",
+    "title": "Pop Those Clones",
+    "video": null,
+    "scrapeWords": [
+      "Pop",
+      "Those",
+      "Clones"
     ]
   },
   {
@@ -8287,10 +8385,9 @@
     "link": "https://henlo-birb.itch.io/noodleswoops",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYwMTg1NTgucG5n/315x250%23c/S4an7u.png",
+    "thumb": "https://img.itch.zone/aW1nLzYwNTE2OTkucG5n/315x250%23c/W%2Bsgaa.png",
     "title": "noodleswoops",
     "video": null,
     "scrapeWords": [
@@ -8926,7 +9023,9 @@
     "genre": "Simulation",
     "id": "1054068",
     "link": "https://quadratic-games.itch.io/planetary-timeloop",
-    "platforms": null,
+    "platforms": [
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYwMzA1NTAucG5n/315x250%23c/Tcks2z.png",
     "title": "Planetary Timeloop",
     "video": null,
@@ -9004,7 +9103,7 @@
     "description": "a mobile game",
     "genre": null,
     "id": "1055464",
-    "link": "https://sleepywombat.itch.io/1-orb-bounce",
+    "link": "https://sleepywombat.itch.io/2-orb-bounce",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYwMzk3OTkucG5n/315x250%23c/0ahO53.png",
     "title": "Orb Bounce",
@@ -9038,7 +9137,7 @@
     "id": "1055921",
     "link": "https://salvin18.itch.io/car-platformer",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYwNDI5NDUucG5n/315x250%23c/vTmZ1%2B.png",
+    "thumb": "https://img.itch.zone/aW1nLzYwNDk3NzIucG5n/315x250%23c/zIdut7.png",
     "title": "Yet to be named car platformer",
     "video": null,
     "scrapeWords": [
@@ -9057,7 +9156,8 @@
     "id": "1056046",
     "link": "https://dvorakdwarf.itch.io/yet-another-platformer",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYwNDMyODQucG5n/315x250%23c/dgOyPX.png",
     "title": "Yet Another Platformer",
@@ -9093,7 +9193,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYwNDQ5NDAucG5n/315x250%23c/fxj%2Fuf.png",
     "title": "Tree Invaders",
@@ -9122,6 +9223,24 @@
     ]
   },
   {
+    "author": "sairam4123",
+    "description": "CatchTheEgg is a egg catching game, where you have to catch the egg to survive.",
+    "genre": null,
+    "id": "1056756",
+    "link": "https://sairam4123.itch.io/catch-the-egg",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDc1ODcucG5n/315x250%23c/kTvp89.png",
+    "title": "CatchTheEgg",
+    "video": null,
+    "scrapeWords": [
+      "Catch",
+      "The",
+      "Egg"
+    ]
+  },
+  {
     "author": "TheLogicMaster",
     "description": "A simple runner game",
     "genre": "Platformer",
@@ -9137,6 +9256,73 @@
     "scrapeWords": [
       "Sponge",
       "Runner"
+    ]
+  },
+  {
+    "author": "GarterSnake508",
+    "description": "A car game defying all laws",
+    "genre": "Sports",
+    "id": "1056973",
+    "link": "https://gartersnake508.itch.io/car-go-vroom",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwNDg4NTAucG5n/315x250%23c/h8Vxha.png",
+    "title": "Car Go Vroom",
+    "video": null,
+    "scrapeWords": [
+      "Car",
+      "Go",
+      "Vroom"
+    ]
+  },
+  {
+    "author": "Samlics Kingdom",
+    "description": "last one standing",
+    "genre": "Strategy",
+    "id": "1056995",
+    "link": "https://samlics-kingdom.itch.io/criminal-at-last",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDg5NjYucG5n/315x250%23c/AM14%2F0.png",
+    "title": "Criminal At Last",
+    "video": null,
+    "scrapeWords": [
+      "Criminal",
+      "At",
+      "Last"
+    ]
+  },
+  {
+    "author": "jackboyman",
+    "description": "It is a game about love with Rocks.",
+    "genre": null,
+    "id": "1057019",
+    "link": "https://jackboyman.itch.io/rock-love-gold",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDkxNDgucG5n/315x250%23c/GEVchL.png",
+    "title": "Rock Love Gold",
+    "video": null,
+    "scrapeWords": [
+      "Rock",
+      "Love",
+      "Gold"
+    ]
+  },
+  {
+    "author": "leopeltola",
+    "description": "An arcade shooting game that uses a real quantum computer for generation.",
+    "genre": "Action",
+    "id": "1057230",
+    "link": "https://leopeltola.itch.io/quantum-tower",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwNTA3ODAucG5n/315x250%23c/hb0P7Q.png",
+    "title": "Quantum Tower",
+    "video": null,
+    "scrapeWords": [
+      "Quantum",
+      "Tower"
     ]
   },
   {
@@ -19638,6 +19824,22 @@
     ]
   },
   {
+    "author": "Amil",
+    "description": "Help your little soccer heroes winning epic matches with super powerups ! Full and free for a limited time!",
+    "genre": "Sports",
+    "id": "264239",
+    "link": "https://amil-developer.itch.io/pocket-soccer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjY0MjM5LzEzNjUwMDcuZ2lm/315x250%23cm/6psdph.gif",
+    "title": "Pocket Soccer 2018",
+    "video": "https://img.itch.zone/aW1hZ2UvMjY0MjM5LzEzNjUwMDcuZ2lm/original/9i48qg.gif",
+    "scrapeWords": [
+      "Pocket",
+      "Soccer",
+      "2018"
+    ]
+  },
+  {
     "author": "profan",
     "description": "make friends, save the world",
     "genre": "Interactive Fiction",
@@ -23432,21 +23634,6 @@
     "scrapeWords": [
       "Bitter",
       "Litter"
-    ]
-  },
-  {
-    "author": "Ptafix",
-    "description": "Merge colored balls by colliding them into each other before there is too many of them.",
-    "genre": null,
-    "id": "290286",
-    "link": "https://ptafix.itch.io/merging-balls",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjkwMjg2LzE0NjQzNTMucG5n/315x250%23c/MUeaRV.png",
-    "title": "Merging Balls",
-    "video": null,
-    "scrapeWords": [
-      "Merging",
-      "Balls"
     ]
   },
   {
@@ -56112,8 +56299,11 @@
     "genre": "Platformer",
     "id": "549831",
     "link": "https://andersongarrote.itch.io/garibot",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU5OTY1MDkucG5n/315x250%23c/EZhDWk.png",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNTIxMzEucG5n/315x250%23c/0hGvQy.png",
     "title": "Garibot e o Mundo de Resíduos",
     "video": null,
     "scrapeWords": [
@@ -72905,22 +73095,6 @@
     ]
   },
   {
-    "author": "UsAndRufus",
-    "description": null,
-    "genre": "Simulation",
-    "id": "646953",
-    "link": "https://usandrufus.itch.io/citadel",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NjY5MDQuZ2lm/315x250%23cm/7VUsoZ.gif",
-    "title": "CITADEL",
-    "video": "https://img.itch.zone/aW1nLzM0NjY5MDQuZ2lm/original/QkrYIq.gif",
-    "scrapeWords": [
-      "CITADEL"
-    ]
-  },
-  {
     "author": "Kronos328",
     "description": null,
     "genre": "Shooter",
@@ -79779,9 +79953,7 @@
     "genre": "Platformer",
     "id": "685316",
     "link": "https://dannygaray60.itch.io/xandria",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM3NzEyNzMucG5n/315x250%23c/%2Fewxfo.png",
     "title": "Xandria (prototype)",
     "video": null,
@@ -80536,23 +80708,6 @@
     "video": null,
     "scrapeWords": [
       "Paralysis"
-    ]
-  },
-  {
-    "author": "Tecozo_Art",
-    "description": null,
-    "genre": "Shooter",
-    "id": "689412",
-    "link": "https://tecozo-art.itch.io/forceid",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM3OTg0MTUucG5n/315x250%23c/Bo%2FlVY.png",
-    "title": "ForceID",
-    "video": null,
-    "scrapeWords": [
-      "Force",
-      "ID"
     ]
   },
   {
@@ -87676,6 +87831,23 @@
     ]
   },
   {
+    "author": "LLL",
+    "description": "Action Role Playing Game",
+    "genre": "Action",
+    "id": "716703",
+    "link": "https://illl.itch.io/rhym",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4OTg5ODUucG5n/315x250%23c/Eq3GZy.png",
+    "title": "Unfinished Undefined",
+    "video": null,
+    "scrapeWords": [
+      "Unfinished",
+      "Undefined"
+    ]
+  },
+  {
     "author": "OnyxIdol",
     "description": "Explore a deep sea cave system with your submarine and collect artifacts.",
     "genre": "Action",
@@ -94487,8 +94659,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQxNTE4MjYucG5n/315x250%23c/UsSHrj.png",
     "title": "Laser Maze 2",
@@ -113735,7 +113906,7 @@
     ]
   },
   {
-    "author": "TurtleTech",
+    "author": "Nathcra Games",
     "description": "Climb a Mountain as Macy!",
     "genre": "Platformer",
     "id": "859896",
@@ -115458,7 +115629,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4OTYxNzEucG5n/315x250%23c/o0I2ms.png",
+    "thumb": "https://img.itch.zone/aW1nLzYwNTE5NDYucG5n/315x250%23c/SbZpG9.png",
     "title": "Free Godot Action RPG",
     "video": null,
     "scrapeWords": [
@@ -116045,20 +116216,6 @@
     "scrapeWords": [
       "Falling",
       "Bits"
-    ]
-  },
-  {
-    "author": "R1sk",
-    "description": "Game Nostalgia made for Lab RPLGDC.",
-    "genre": "Educational",
-    "id": "874207",
-    "link": "https://r1sk.itch.io/nostalgia",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MTc3NzYucG5n/315x250%23c/SvVPNg.png",
-    "title": "Nostalgia",
-    "video": null,
-    "scrapeWords": [
-      "Nostalgia"
     ]
   },
   {
@@ -130320,6 +130477,23 @@
     ]
   },
   {
+    "author": "Nathcra Games",
+    "description": "Save Turtallia with the Turtle Swords!",
+    "genre": "Adventure",
+    "id": "962470",
+    "link": "https://nathcra.itch.io/turtle-sword",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNDU3NjMucG5n/315x250%23c/gYKSU4.png",
+    "title": "Turtle Sword",
+    "video": null,
+    "scrapeWords": [
+      "Turtle",
+      "Sword"
+    ]
+  },
+  {
     "author": "Jonny64bit",
     "description": "A tatical space game with the objective of getting to Pluto.. Made for Godot Wild Jam #31.",
     "genre": "Action",
@@ -131851,7 +132025,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1MDk3MDIucG5n/315x250%23c/Tfv1%2FJ.png",
     "title": "RRUYD - run run until you die",
@@ -132362,6 +132536,22 @@
     "scrapeWords": [
       "Block",
       "Swap"
+    ]
+  },
+  {
+    "author": "RiotOfThe13",
+    "description": "Epic twinstick shooter with crazy powerups!",
+    "genre": "Shooter",
+    "id": "973500",
+    "link": "https://riotofthe13.itch.io/twinsticks",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3NDU2OTMucG5n/315x250%23c/esS8Gt.png",
+    "title": "Twinsticks",
+    "video": null,
+    "scrapeWords": [
+      "Twinsticks"
     ]
   },
   {
@@ -135180,6 +135370,25 @@
       "The",
       "Body",
       "Monstrous"
+    ]
+  },
+  {
+    "author": "Valeriooooh",
+    "description": null,
+    "genre": "Adventure",
+    "id": "994203",
+    "link": "https://valeriooooh.itch.io/near-aloe",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNTM5NzAucG5n/315x250%23c/jHv%2BAQ.png",
+    "title": "Near Aloe",
+    "video": null,
+    "scrapeWords": [
+      "Near",
+      "Aloe"
     ]
   },
   {
