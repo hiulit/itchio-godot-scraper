@@ -4,7 +4,7 @@ A scraper for Godot games hosted on https://itch.io/.
 
 ## API URL
 
-https://itchio-godot-scraper.now.sh
+https://itchio-godot-scraper.vercel.app/api
 
 Auto updated every day at 12:00 CET.
 
