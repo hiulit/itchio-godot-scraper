@@ -1,5 +1,7 @@
 # itch.io Godot Scraper
 
+[![GitHub license](https://img.shields.io/github/license/hiulit/itchio-godot-scraper?style=flat-square)](https://github.com/hiulit/itchio-godot-scraper/blob/master/LICENSE)
+
 A scraper for Godot games hosted on https://itch.io/.
 
 ![itch.io Godot scraper banner](itchio-godot-scraper-banner.jpg)
