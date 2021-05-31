@@ -122,4 +122,5 @@ Thanks to:
 ## 📝 Licenses
 
 - Source code: [MIT License](LICENSE).
+- Godot logo: [CC BY](https://creativecommons.org/licenses/by/4.0/).
 - All emojis: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
