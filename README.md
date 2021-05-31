@@ -2,6 +2,8 @@
 
 A scraper for Godot games hosted on https://itch.io/.
 
+![itch.io Godot scraper banner](itchio-godot-scraper-banner.jpg)
+
 ## API URL
 
 https://itchio-godot-scraper.vercel.app/api
