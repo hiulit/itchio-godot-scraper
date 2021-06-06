@@ -1321,7 +1321,8 @@
     "link": "https://myasnick.itch.io/lastrun",
     "platforms": [
       "Windows",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU4ODk2NzMucG5n/315x250%23c/eVaRQV.png",
     "title": "Last Run: Deck Looter Card Crawler",
@@ -5865,9 +5866,7 @@
     "genre": "Rhythm",
     "id": "1028765",
     "link": "https://thisisbennyk.itch.io/funkin-vr",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU4OTIxNDAucG5n/315x250%23c/5kSELy.png",
     "title": "Friday Night Funkin' VR",
     "video": null,
@@ -7497,7 +7496,7 @@
   },
   {
     "author": "Bluestarr52",
-    "description": null,
+    "description": "Made for the Level Up Circle: Beginner Jam #1",
     "genre": "Platformer",
     "id": "1044964",
     "link": "https://bluestarr-games.itch.io/hot-reactor",
@@ -7616,7 +7615,7 @@
   },
   {
     "author": "Golopogus",
-    "description": "Use your flail to dodge... and attack!",
+    "description": "Use your flail to dodge... and attack! Made in a weekend for ScoreSpace #13",
     "genre": null,
     "id": "1045105",
     "link": "https://golopogus.itch.io/flailing-to-dodge",
@@ -7975,7 +7974,7 @@
   },
   {
     "author": "MFauzan Project",
-    "description": null,
+    "description": "control a robot for destruction.",
     "genre": "Platformer",
     "id": "1049002",
     "link": "https://mfproject.itch.io/bugbot",
@@ -9659,7 +9658,7 @@
   },
   {
     "author": "jackboyman",
-    "description": "It is a game about love with Rocks.",
+    "description": "It is a short game about love with Rocks.",
     "genre": null,
     "id": "1057019",
     "link": "https://jackboyman.itch.io/rock-love-gold",
@@ -9807,7 +9806,7 @@
     ]
   },
   {
-    "author": "WUJUN",
+    "author": "Wujun",
     "description": "A Windows desktop virtual pet.",
     "genre": null,
     "id": "1059064",
@@ -11503,6 +11502,24 @@
     ]
   },
   {
+    "author": "CheesecakeCG",
+    "description": "Unfinished game about a sponge-otter-kaiju",
+    "genre": null,
+    "id": "1065781",
+    "link": "https://cheesecakecg.itch.io/wotter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxMzQxNTcucG5n/315x250%23c/Y%2FC9rG.png",
+    "title": "Wotterhammer",
+    "video": null,
+    "scrapeWords": [
+      "Wotterhammer"
+    ]
+  },
+  {
     "author": "albertnez",
     "description": "Quick arcade game that grows a cactus",
     "genre": "Action",
@@ -11761,19 +11778,19 @@
   },
   {
     "author": "Nep toodles",
-    "description": "Its a game i am working on it is the 2nd update rn .",
+    "description": "Its a game i am working on it is the 2.2 update rn .",
     "genre": null,
     "id": "1068723",
     "link": "https://nep-toodles.itch.io/littleclick",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYxMjA4NzcucG5n/315x250%23c/VGyqv9.png",
-    "title": "Little Click : Update 2",
+    "thumb": "https://img.itch.zone/aW1nLzYxMzczNzgucG5n/315x250%23c/e%2BiMWG.png",
+    "title": "Little Click : UPDATE 2.3",
     "video": null,
     "scrapeWords": [
       "Little",
       "Click",
-      "Update",
-      "2"
+      "UPDATE",
+      "23"
     ]
   },
   {
@@ -11829,7 +11846,7 @@
   },
   {
     "author": "irishgreencitrus",
-    "description": "A game about avoiding the lights and hiding",
+    "description": "A game about avoiding the lights and hiding. Made in ~3 hours for TriJam #123",
     "genre": "Puzzle",
     "id": "1069183",
     "link": "https://irishgreencitrus.itch.io/lightup",
@@ -11865,6 +11882,25 @@
     ]
   },
   {
+    "author": "White Lotus Digital",
+    "description": "The worst blizzard of the last 30 years is here, will you be able to survive?",
+    "genre": "Visual Novel",
+    "id": "1069632",
+    "link": "https://white-lotus-ae.itch.io/when-the-winter-comes",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxMjcyMjQucG5n/315x250%23c/UXvMEX.png",
+    "title": "When the Winter Comes",
+    "video": null,
+    "scrapeWords": [
+      "When",
+      "the",
+      "Winter",
+      "Comes"
+    ]
+  },
+  {
     "author": "Nono Kros",
     "description": "An arcade action-platformer for ClockworkPi GameShell. (Playable in Browser)",
     "genre": "Platformer",
@@ -11877,6 +11913,64 @@
     "scrapeWords": [
       "Rat",
       "Buster"
+    ]
+  },
+  {
+    "author": "Samsong",
+    "description": "Don't let them press the Button!",
+    "genre": "Survival",
+    "id": "1071017",
+    "link": "https://samsong.itch.io/shiny-red-button",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxMzc4MjAucG5n/315x250%23c/iF5Gop.png",
+    "title": "Shiny Red Button",
+    "video": null,
+    "scrapeWords": [
+      "Shiny",
+      "Red",
+      "Button"
+    ]
+  },
+  {
+    "author": "Plextora",
+    "description": "​An open-source 2D shooter, featuring squares!​",
+    "genre": "Action",
+    "id": "1071041",
+    "link": "https://plextora.itch.io/bersquare",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxMzgxMTAucG5n/315x250%23c/3cyPEg.png",
+    "title": "BerSquare",
+    "video": null,
+    "scrapeWords": [
+      "Ber",
+      "Square"
+    ]
+  },
+  {
+    "author": "jontanan",
+    "description": "[Beta] Build your own medieval village on the idyllic rocky seaside – Game made for the GoGodotJam",
+    "genre": "Strategy",
+    "id": "1071099",
+    "link": "https://jontanan.itch.io/the-beautiful-village-in-the-cliffs-beta",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxMzgyODgucG5n/315x250%23c/4p4MK4.png",
+    "title": "The beautiful Village in the Cliffs [BETA]",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "beautiful",
+      "Village",
+      "in",
+      "the",
+      "Cliffs",
+      "[BETA]"
     ]
   },
   {
@@ -28712,7 +28806,7 @@
     "description": null,
     "genre": "Role Playing",
     "id": "303567",
-    "link": "https://goldenapples.itch.io/exile-demo-1",
+    "link": "https://awindahl.itch.io/exile-demo-1",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMzAzNTY3LzE0ODcyOTEucG5n/315x250%23c/jrO8MW.png",
     "title": "Exile Demo 1",
@@ -28797,7 +28891,7 @@
     "description": "Descension down a random hole",
     "genre": "Platformer",
     "id": "304700",
-    "link": "https://goldenapples.itch.io/hellevator",
+    "link": "https://awindahl.itch.io/hellevator",
     "platforms": [
       "Windows"
     ],
@@ -29124,7 +29218,7 @@
     "description": "You have to eat, EAT!",
     "genre": "Action",
     "id": "307499",
-    "link": "https://goldenapples.itch.io/feed-me",
+    "link": "https://awindahl.itch.io/feed-me",
     "platforms": [
       "Windows",
       "Linux",
@@ -30536,7 +30630,7 @@
     "description": null,
     "genre": "Adventure",
     "id": "319609",
-    "link": "https://goldenapples.itch.io/mystery-mansion",
+    "link": "https://awindahl.itch.io/mystery-mansion",
     "platforms": [
       "Windows",
       "Linux",
@@ -31907,7 +32001,7 @@
     "description": "When cowboys work, they need a drink.",
     "genre": "Shooter",
     "id": "331888",
-    "link": "https://goldenapples.itch.io/drinking-on-the-job",
+    "link": "https://awindahl.itch.io/drinking-on-the-job",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE2NDMxMTgucG5n/315x250%23c/I7io6L.png",
     "title": "Drinking on the Job",
@@ -36064,7 +36158,7 @@
     "description": "A Nokia-like game",
     "genre": "Action",
     "id": "366419",
-    "link": "https://goldenapples.itch.io/space-blast",
+    "link": "https://awindahl.itch.io/space-blast",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzE4MzQyOTAucG5n/315x250%23c/yts%2Byu.png",
     "title": "SPACE BLAST",
@@ -36764,7 +36858,7 @@
     "description": "Sometimes, even cacti need justice...",
     "genre": "Action",
     "id": "371762",
-    "link": "https://goldenapples.itch.io/cactusjustice",
+    "link": "https://awindahl.itch.io/cactusjustice",
     "platforms": [
       "Windows",
       "Linux",
@@ -40038,7 +40132,7 @@
     "description": null,
     "genre": "Action",
     "id": "409109",
-    "link": "https://goldenapples.itch.io/sp4ce-r4ce",
+    "link": "https://awindahl.itch.io/sp4ce-r4ce",
     "platforms": [
       "Windows",
       "Linux",
@@ -48606,7 +48700,7 @@
     "description": "Try to reap the souls of the innocents in this tiny splatfest!",
     "genre": "Puzzle",
     "id": "470169",
-    "link": "https://goldenapples.itch.io/reap-their-souls",
+    "link": "https://awindahl.itch.io/reap-their-souls",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzI0MDU0NDMucG5n/315x250%23c/0Qy%2BaU.png",
     "title": "Reap Their Souls",
@@ -50679,6 +50773,25 @@
     ]
   },
   {
+    "author": "Mariothedog",
+    "description": "Game I made for Trijam #36 which had the theme \"Power Up\".",
+    "genre": "Action",
+    "id": "483568",
+    "link": "https://mariothedog.itch.io/boss-fight",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0OTQzMTQucG5n/315x250%23c/aj07Cl.png",
+    "title": "Boss Fight",
+    "video": null,
+    "scrapeWords": [
+      "Boss",
+      "Fight"
+    ]
+  },
+  {
     "author": "tomas7777",
     "description": "Control a square and jump between platforms that move increasingly faster.",
     "genre": null,
@@ -51512,7 +51625,10 @@
     "genre": "Shooter",
     "id": "487982",
     "link": "https://leanderish.itch.io/steel",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzMzODkxNDcucG5n/315x250%23c/bTvtRa.png",
     "title": "Operation STEEL",
     "video": null,
@@ -57126,7 +57242,7 @@
     "description": "Puzzle Platformer with a retro look",
     "genre": "Puzzle",
     "id": "536339",
-    "link": "https://goldenapples.itch.io/fort-robot",
+    "link": "https://awindahl.itch.io/fort-robot",
     "platforms": [
       "Windows",
       "Linux",
@@ -64886,7 +65002,7 @@
     "description": "Sail the open seas, battle pirates and find",
     "genre": "Adventure",
     "id": "592443",
-    "link": "https://goldenapples.itch.io/hunt-for-daltonga",
+    "link": "https://awindahl.itch.io/hunt-for-daltonga",
     "platforms": [
       "Windows",
       "Linux",
@@ -80750,7 +80866,7 @@
     "description": "Eis que você acorda em um mundo cheio de monstros, sem saber ao certo quem você é, e o que ocorreu por lá...",
     "genre": "Action",
     "id": "677401",
-    "link": "https://mandys.itch.io/cronicas-de-terragaia",
+    "link": "https://amanditadev.itch.io/terragaia",
     "platforms": [
       "Windows",
       "Linux",
@@ -95614,7 +95730,7 @@
     "description": "Action adventure platformer game set in the frozen wastes.",
     "genre": "Action",
     "id": "738178",
-    "link": "https://goldenapples.itch.io/friggs-rune",
+    "link": "https://awindahl.itch.io/friggs-rune",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQxMDk5NjgucG5n/315x250%23c/xINfkw.png",
     "title": "Frigg's Rune",
@@ -111515,7 +111631,7 @@
     "description": "Have you always dreamt of having a job pushing papers in an authoritarian state library? Look no further!",
     "genre": "Simulation",
     "id": "825543",
-    "link": "https://goldenapples.itch.io/ministry-for-the-assignment-of-literature",
+    "link": "https://awindahl.itch.io/ministry-for-the-assignment-of-literature",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2NDk3MzIucG5n/315x250%23c/vAgkLv.png",
     "title": "Ministry for the Assignment of Literature",
@@ -114233,6 +114349,31 @@
     "scrapeWords": [
       "Beetle",
       "Bunt"
+    ]
+  },
+  {
+    "author": "DisD",
+    "description": "Web Poker 8",
+    "genre": "Card Game",
+    "id": "842379",
+    "link": "https://disd.itch.io/web-lan-poker-8-texas-holdem",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ3MjI3NjQucG5n/315x250%23c/ENmGxr.png",
+    "title": "Web / Lan Poker 8 - Texas Holdem - Cross Plateforms",
+    "video": null,
+    "scrapeWords": [
+      "Web",
+      "Lan",
+      "Poker",
+      "8",
+      "Texas",
+      "Holdem",
+      "Cross",
+      "Plateforms"
     ]
   },
   {
@@ -128013,6 +128154,22 @@
     ]
   },
   {
+    "author": "HowYouDoing",
+    "description": null,
+    "genre": "Rhythm",
+    "id": "930571",
+    "link": "https://howyoudoing.itch.io/sounds-of-chaos",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNjk5MzIucG5n/315x250%23c/FtHuk6.png",
+    "title": "Sounds of Chaos",
+    "video": null,
+    "scrapeWords": [
+      "Sounds",
+      "of",
+      "Chaos"
+    ]
+  },
+  {
     "author": "calcputer",
     "description": "tile based puzzle game",
     "genre": "Puzzle",
@@ -135912,7 +136069,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU3MDc2NTMucG5n/315x250%23c/uexniV.png",
+    "thumb": "https://img.itch.zone/aW1nLzYxMzIzMDAucG5n/315x250%23c/lFNdrD.png",
     "title": "Raging Comet",
     "video": null,
     "scrapeWords": [
@@ -136686,25 +136843,6 @@
     "scrapeWords": [
       "Saturn",
       "Jumper"
-    ]
-  },
-  {
-    "author": "Monkii Goes Boarding",
-    "description": "You can't stop moving in this fast paced twinstick-shooter boss fight!",
-    "genre": "Shooter",
-    "id": "984349",
-    "link": "https://monkii-man.itch.io/boss-fight",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU3MjY1MDQucG5n/315x250%23c/UMbzeJ.png",
-    "title": "Boss Fight",
-    "video": null,
-    "scrapeWords": [
-      "Boss",
-      "Fight"
     ]
   },
   {
