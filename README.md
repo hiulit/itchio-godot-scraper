@@ -104,7 +104,7 @@ If you love this project or find it helpful, please consider supporting it throu
 
 If you can't, consider sharing it with the world...
 
-[![Share on Twitter](https://img.shields.io/badge/Share_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fhiulit%2Fitchio-godot-scraper&text="itch.io+Godot+Scraper"%3A%0D%0AA+scraper+for+Godot+games+hosted+on+%40itchio%0Aby+%40hiulit%0A)
+[![Share on Twitter](https://img.shields.io/badge/Share_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fhiulit%2Fitchio-godot-scraper&text="itch.io+Godot+Scraper"%3A%0D%0AA+scraper+for+%23GodotEngine+games+hosted+on+%40itchio.%0Aby+%40hiulit%0A)
 
 ... or giving it a [star ⭐️](https://github.com/hiulit/itchio-godot-scraper/stargazers).
 
