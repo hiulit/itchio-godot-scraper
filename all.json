@@ -4530,6 +4530,21 @@
     ]
   },
   {
+    "author": "Harrk",
+    "description": null,
+    "genre": "Card Game",
+    "id": "1018462",
+    "link": "https://harrk.itch.io/solitaire",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNTM2MDYucG5n/315x250%23c/uV7Bsz.png",
+    "title": "Solitaire Klondike",
+    "video": null,
+    "scrapeWords": [
+      "Solitaire",
+      "Klondike"
+    ]
+  },
+  {
     "author": "nerdur",
     "description": null,
     "genre": "Puzzle",
@@ -11040,7 +11055,7 @@
     ]
   },
   {
-    "author": "demilunestudios",
+    "author": "demilune",
     "description": "You are trapped and your friends are dropping crates to create a stack for your escape.",
     "genre": "Action",
     "id": "1064967",
@@ -11396,10 +11411,7 @@
     "genre": "Adventure",
     "id": "1065577",
     "link": "https://eltoba.itch.io/deep-dungeon",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYxMDE0NTAucG5n/315x250%23c/xrN5wU.png",
     "title": "Deep Dungeon",
     "video": null,
@@ -11483,6 +11495,7 @@
     "link": "https://fuchsia-studios.itch.io/chanterelle",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxNDczMzcucG5n/315x250%23c/jJ4E90.png",
@@ -11794,16 +11807,15 @@
     "link": "https://nep-toodles.itch.io/littleclick",
     "platforms": [
       "Windows",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMzczNzgucG5n/315x250%23c/e%2BiMWG.png",
-    "title": "Little Click : UPDATE 3",
+    "title": "Little Click released",
     "video": null,
     "scrapeWords": [
       "Little",
       "Click",
-      "UPDATE",
-      "3"
+      "released"
     ]
   },
   {
@@ -11842,7 +11854,7 @@
   },
   {
     "author": "Little Sushi Studio ©",
-    "description": "Ce mini-shooter vous met dans la peau d'un survivant qui se défend d'une horde de zombie… grâce à son Bubble Gun !",
+    "description": "This mini-shooter puts you in the shoes of a survivor who is defending himself from a zombie horde…",
     "genre": "Shooter",
     "id": "1068959",
     "link": "https://little-sushi-studio.itch.io/bubble-dooble",
@@ -11984,6 +11996,22 @@
       "the",
       "Blue",
       "Planet"
+    ]
+  },
+  {
+    "author": "yourgeekeric",
+    "description": "A 3d Tower Defense prototype.",
+    "genre": "Strategy",
+    "id": "1070849",
+    "link": "https://yourgeekeric.itch.io/stoptheslimes",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNDYyNjcucG5n/315x250%23c/ktFQGH.png",
+    "title": "Stop The Slimes",
+    "video": null,
+    "scrapeWords": [
+      "Stop",
+      "The",
+      "Slimes"
     ]
   },
   {
@@ -12170,6 +12198,114 @@
     "scrapeWords": [
       "Deepspace",
       "Chaos"
+    ]
+  },
+  {
+    "author": "Dmanz",
+    "description": null,
+    "genre": "Action",
+    "id": "1072648",
+    "link": "https://dmanz.itch.io/life-of-a-butterfly",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNTcyOTkucG5n/315x250%23c/iWvMpW.png",
+    "title": "Life Of A Butterfly",
+    "video": null,
+    "scrapeWords": [
+      "Life",
+      "Of",
+      "A",
+      "Butterfly"
+    ]
+  },
+  {
+    "author": "msun_",
+    "description": null,
+    "genre": "Action",
+    "id": "1072766",
+    "link": "https://msun.itch.io/rocket-dodger",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNDkxMTkucG5n/315x250%23c/m8%2F1qX.png",
+    "title": "Rocket dodger",
+    "video": null,
+    "scrapeWords": [
+      "Rocket",
+      "dodger"
+    ]
+  },
+  {
+    "author": "Sander Vanhove",
+    "description": "A dice throwing adventure",
+    "genre": "Strategy",
+    "id": "1072771",
+    "link": "https://sandervanhove.itch.io/dice-vs-monsters",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNDkwMDMucG5n/315x250%23c/LUjEdx.png",
+    "title": "Dice vs Monsters (Gotm Jam #5)",
+    "video": null,
+    "scrapeWords": [
+      "Dice",
+      "vs",
+      "Monsters",
+      "Gotm",
+      "Jam",
+      "5"
+    ]
+  },
+  {
+    "author": "SkiaGames",
+    "description": "The first game ever made by SkiaGames, using the Godot Engine",
+    "genre": null,
+    "id": "1073083",
+    "link": "https://skiagames.itch.io/skiagames-pong",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNTEwNjIucG5n/315x250%23c/2U7i3w.png",
+    "title": "Pong by SkiaGames",
+    "video": null,
+    "scrapeWords": [
+      "Pong",
+      "by",
+      "Skia",
+      "Games"
+    ]
+  },
+  {
+    "author": "Bastiasa12",
+    "description": "Beta de dark people, inspirado en fnaf y mi primer juego",
+    "genre": null,
+    "id": "1073601",
+    "link": "https://bastiasa12.itch.io/dark-people-beta",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNTUwMjgucG5n/315x250%23c/B9LT%2BU.png",
+    "title": "Dark People BETA",
+    "video": null,
+    "scrapeWords": [
+      "Dark",
+      "People",
+      "BETA"
+    ]
+  },
+  {
+    "author": "tvstar1999",
+    "description": "tribute to my pet budgie",
+    "genre": "Action",
+    "id": "1073723",
+    "link": "https://tvstar1999.itch.io/my-birb-ivory-lays-egg-in-jungle",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNTU2NzAucG5n/315x250%23c/ytZWkR.png",
+    "title": "my birb ivory lays egg in jungle",
+    "video": null,
+    "scrapeWords": [
+      "my",
+      "birb",
+      "ivory",
+      "lays",
+      "egg",
+      "in",
+      "jungle"
     ]
   },
   {
@@ -24061,6 +24197,24 @@
     "video": null,
     "scrapeWords": [
       "THERMALS"
+    ]
+  },
+  {
+    "author": "Binogure Studio",
+    "description": "Godot Jam project 2018",
+    "genre": "Puzzle",
+    "id": "270338",
+    "link": "https://binogure.itch.io/feu-follet",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1hZ2UvMjcwMzM4LzEzMDczMTAucG5n/315x250%23c/i0pmQa.png",
+    "title": "Feu Follet",
+    "video": null,
+    "scrapeWords": [
+      "Feu",
+      "Follet"
     ]
   },
   {
@@ -37555,6 +37709,23 @@
     ]
   },
   {
+    "author": "USPGameDev",
+    "description": null,
+    "genre": "Shooter",
+    "id": "376868",
+    "link": "https://uspgamedev.itch.io/mechamorphosis",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MTE3NTcucG5n/315x250%23c/A0GBC%2F.png",
+    "title": "Mechamorphosis",
+    "video": null,
+    "scrapeWords": [
+      "Mechamorphosis"
+    ]
+  },
+  {
     "author": "7fault Dev Team",
     "description": "Shoot the other player while your bullets are trap in bubbles !",
     "genre": "Action",
@@ -43813,24 +43984,6 @@
     "video": null,
     "scrapeWords": [
       "Patter"
-    ]
-  },
-  {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -64606,6 +64759,24 @@
     ]
   },
   {
+    "author": "USPGameDev",
+    "description": null,
+    "genre": "Adventure",
+    "id": "588804",
+    "link": "https://uspgamedev.itch.io/mothers-home",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMDk4OTYucG5n/315x250%23c/tRu%2FDY.png",
+    "title": "Mother's Home",
+    "video": null,
+    "scrapeWords": [
+      "Mothers",
+      "Home"
+    ]
+  },
+  {
     "author": "IndieRonin",
     "description": "The project is for my game a month challenge for the month of Feb",
     "genre": "Action",
@@ -64840,6 +65011,24 @@
       "The",
       "Sorcerers",
       "Citadel"
+    ]
+  },
+  {
+    "author": "USPGameDev",
+    "description": null,
+    "genre": "Strategy",
+    "id": "590153",
+    "link": "https://uspgamedev.itch.io/neobreaker",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxMTcyNTkucG5n/315x250%23c/hCXMXA.png",
+    "title": "NeoBreaker",
+    "video": null,
+    "scrapeWords": [
+      "Neo",
+      "Breaker"
     ]
   },
   {
@@ -82642,11 +82831,11 @@
     ]
   },
   {
-    "author": "Jmpre",
+    "author": "Jampre",
     "description": "a small endless game where you only have to dodge one obstacle.",
     "genre": null,
     "id": "685138",
-    "link": "https://jmpre.itch.io/the-fast-and-the-fun",
+    "link": "https://jampre.itch.io/the-fast-and-the-fun",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM3NzA3MjEucG5n/315x250%23c/emirCR.png",
     "title": "the fast and the fun",
@@ -100807,7 +100996,7 @@
   },
   {
     "author": "vaibhavkr",
-    "description": null,
+    "description": "2D Underwater Side-Scroller",
     "genre": "Adventure",
     "id": "761871",
     "link": "https://vaibhavkr.itch.io/fish-adventure",
@@ -101368,6 +101557,23 @@
     ]
   },
   {
+    "author": "Solo Byte Games",
+    "description": "A simple jump and run game where the player can move between to parallel universes.",
+    "genre": "Platformer",
+    "id": "764075",
+    "link": "https://solobytegames.itch.io/mirror-jumper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUwMTA1MTcucG5n/315x250%23c/SFCaIC.png",
+    "title": "Mirror Jumper",
+    "video": null,
+    "scrapeWords": [
+      "Mirror",
+      "Jumper"
+    ]
+  },
+  {
     "author": "ACB_Gamez",
     "description": "A juicy arcade like bullet hell shooter orbiting  a black hole",
     "genre": "Shooter",
@@ -101907,11 +102113,11 @@
     ]
   },
   {
-    "author": "Jmpre",
+    "author": "Jampre",
     "description": "the kid has lost his paper glider and you need to give it back to him",
     "genre": null,
     "id": "766234",
-    "link": "https://jmpre.itch.io/paper-glider",
+    "link": "https://jampre.itch.io/paper-glider",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQyOTEwOTIucG5n/315x250%23c/0dHubk.png",
     "title": "PAPER GLIDER",
@@ -103101,11 +103307,11 @@
     ]
   },
   {
-    "author": "Jmpre",
+    "author": "Jampre",
     "description": "​you are jumping around on pizzas and you really want to eat that shrimp",
     "genre": "Platformer",
     "id": "772164",
-    "link": "https://jmpre.itch.io/pizza-runner",
+    "link": "https://jampre.itch.io/pizza-runner",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQzMjA3NzgucG5n/315x250%23c/2AmqoV.png",
     "title": "PIZZA RUNNER",
@@ -109146,22 +109352,6 @@
     "scrapeWords": [
       "ERROR",
       "0037"
-    ]
-  },
-  {
-    "author": "Nep toodles",
-    "description": "I made it in godot thius time os...........",
-    "genre": "Action",
-    "id": "807023",
-    "link": "https://nep-toodles.itch.io/superdot-godot-example",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ1MjI5MjEucG5n/315x250%23c/jhTAxl.png",
-    "title": "Superdot {Godot example}",
-    "video": null,
-    "scrapeWords": [
-      "Superdot",
-      "Godot",
-      "example"
     ]
   },
   {
@@ -119501,11 +119691,11 @@
     ]
   },
   {
-    "author": "Jmpre",
+    "author": "Jampre",
     "description": "your goal is it to order a hotel room for one night and have a good night sleep.",
     "genre": "Puzzle",
     "id": "877773",
-    "link": "https://jmpre.itch.io/room-for-two",
+    "link": "https://jampre.itch.io/room-for-two",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ5NDUzNDQucG5n/315x250%23c/x3ppFD.png",
     "title": "ROOM FOR TWO",
@@ -122634,20 +122824,6 @@
     "video": null,
     "scrapeWords": [
       "Rotas"
-    ]
-  },
-  {
-    "author": "Nep toodles",
-    "description": null,
-    "genre": "Platformer",
-    "id": "897755",
-    "link": "https://nep-toodles.itch.io/pt",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUwNjY4OTcuanBn/315x250%23c/9JkS%2BN.jpg",
-    "title": "Parti",
-    "video": null,
-    "scrapeWords": [
-      "Parti"
     ]
   },
   {
@@ -129182,22 +129358,6 @@
     ]
   },
   {
-    "author": "EliasG2",
-    "description": "when you fail 5 times you start over",
-    "genre": "Platformer",
-    "id": "937012",
-    "link": "https://eliasg2.itch.io/will-you-ball",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzMDg5OTUucG5n/315x250%23c/xKmx1z.png",
-    "title": "will you ball?",
-    "video": null,
-    "scrapeWords": [
-      "will",
-      "you",
-      "ball"
-    ]
-  },
-  {
     "author": "Touff97",
     "description": "Clear your way through waves of enemies, and gain recognition!",
     "genre": "Shooter",
@@ -129516,11 +129676,11 @@
     ]
   },
   {
-    "author": "Jmpre",
+    "author": "Jampre",
     "description": "you are a host (half ghost half human) and have to escape from the castle",
     "genre": "Platformer",
     "id": "938280",
-    "link": "https://jmpre.itch.io/left-alive",
+    "link": "https://jampre.itch.io/left-alive",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUzMTU5MTYucG5n/315x250%23c/u3Eevj.png",
     "title": "LEFT ALIVE",
@@ -130893,6 +131053,24 @@
     ]
   },
   {
+    "author": "octogene",
+    "description": "Catch up with the rocket!",
+    "genre": "Platformer",
+    "id": "944839",
+    "link": "https://octogene.itch.io/alien-abduction",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1NDIyNzMucG5n/315x250%23c/%2FGZ8aB.png",
+    "title": "Alien Abduction",
+    "video": null,
+    "scrapeWords": [
+      "Alien",
+      "Abduction"
+    ]
+  },
+  {
     "author": "GalaxyGamingBoy",
     "description": "This game is made for the Brackeys 2021.1 Game Jam that I didn't finsh! I liked the idea so I decided to upload it.",
     "genre": "Platformer",
@@ -130906,6 +131084,21 @@
       "Together",
       "is",
       "better"
+    ]
+  },
+  {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
     ]
   },
   {
@@ -132390,6 +132583,21 @@
     "scrapeWords": [
       "Escaping",
       "Winter"
+    ]
+  },
+  {
+    "author": "GregorioFornetti",
+    "description": "Jogo de puzzle com clones que replicam seus movimentos",
+    "genre": "Puzzle",
+    "id": "955915",
+    "link": "https://gregoriofornetti.itch.io/clone-nightmare",
+    "platforms": null,
+    "thumb": null,
+    "title": "Clone Nightmare",
+    "video": null,
+    "scrapeWords": [
+      "Clone",
+      "Nightmare"
     ]
   },
   {
@@ -138296,6 +138504,23 @@
       "01",
       "Black",
       "Moon"
+    ]
+  },
+  {
+    "author": "Genesis Creation Studios",
+    "description": "Adventure through the body as an advantageous white blood cell, protecting it from various viruses.",
+    "genre": "Platformer",
+    "id": "996948",
+    "link": "https://genesis-creation-studios.itch.io/immunity-adventures",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2NzMyNTUucG5n/315x250%23c/JqrSy5.png",
+    "title": "Immunity Adventures",
+    "video": null,
+    "scrapeWords": [
+      "Immunity",
+      "Adventures"
     ]
   },
   {
