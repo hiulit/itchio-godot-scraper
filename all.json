@@ -5853,6 +5853,22 @@
     ]
   },
   {
+    "author": "Bananamanhatguy",
+    "description": "Tight Platformer",
+    "genre": "Platformer",
+    "id": "1028328",
+    "link": "https://bananamanhatguy.itch.io/bananaguy",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNTkxNzYucG5n/315x250%23c/Kq2XHW.png",
+    "title": "Bananaguy",
+    "video": null,
+    "scrapeWords": [
+      "Bananaguy"
+    ]
+  },
+  {
     "author": "Nalum",
     "description": "Just messing around with Godot Engine",
     "genre": null,
@@ -7998,7 +8014,7 @@
     ]
   },
   {
-    "author": "MFauzan Project",
+    "author": "MF Project",
     "description": "control a robot for destruction.",
     "genre": "Platformer",
     "id": "1049002",
@@ -9787,7 +9803,8 @@
     "link": "https://sammyf.itch.io/castles",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMDA0NzMucG5n/315x250%23c/rZSrI%2F.png",
     "title": "Castles",
@@ -9810,6 +9827,28 @@
     "video": null,
     "scrapeWords": [
       "Re-Tyre"
+    ]
+  },
+  {
+    "author": "OshQ Design Zone",
+    "description": "MyLittleBird Poopeon",
+    "genre": "Platformer",
+    "id": "1058859",
+    "link": "https://oshq.itch.io/mylittlebird-04x",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxMDI1OTQucG5n/315x250%23c/iI4BZg.png",
+    "title": "MyLittleBird Poopeon v0.4.x9",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "Little",
+      "Bird",
+      "Poopeon",
+      "v04x9"
     ]
   },
   {
@@ -11062,7 +11101,8 @@
     "link": "https://demilunestudios.itch.io/stack-and-escape",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYwOTc3MDYuanBn/315x250%23c/Krngbl.jpg",
     "title": "Stack And Escape",
@@ -11801,7 +11841,7 @@
   },
   {
     "author": "Nep toodles",
-    "description": "Its a game i am working on it is the 3 update rn .",
+    "description": "Best game ever play now >:/",
     "genre": null,
     "id": "1068723",
     "link": "https://nep-toodles.itch.io/littleclick",
@@ -11853,15 +11893,14 @@
     ]
   },
   {
-    "author": "Little Sushi Studio ©",
+    "author": "Little Sushi Studio",
     "description": "This mini-shooter puts you in the shoes of a survivor who is defending himself from a zombie horde…",
     "genre": "Shooter",
     "id": "1068959",
     "link": "https://little-sushi-studio.itch.io/bubble-dooble",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMjIzNDUuanBn/315x250%23c/N2OY4K.jpg",
     "title": "Bubble Dooble",
@@ -11914,7 +11953,8 @@
     "id": "1069270",
     "link": "https://spoicat.itch.io/up-or-down",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMjc2NTMucG5n/315x250%23c/2oiR86.png",
     "title": "Up or Down?",
@@ -12287,6 +12327,25 @@
     ]
   },
   {
+    "author": "Detective Software Devs",
+    "description": "A Tower Defense game that is also your homescreen.",
+    "genre": "Strategy",
+    "id": "1073622",
+    "link": "https://dsdevs.itch.io/tdlauncher",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNTU0MDgucG5n/315x250%23c/j8YK7B.png",
+    "title": "ImpractiLauncher (Working Title)",
+    "video": null,
+    "scrapeWords": [
+      "Impracti",
+      "Launcher",
+      "Working",
+      "Title"
+    ]
+  },
+  {
     "author": "tvstar1999",
     "description": "tribute to my pet budgie",
     "genre": "Action",
@@ -12306,6 +12365,37 @@
       "egg",
       "in",
       "jungle"
+    ]
+  },
+  {
+    "author": "EliasG2",
+    "description": "avoid getting hit by planes, rockets and birds while falling!",
+    "genre": "Action",
+    "id": "1074159",
+    "link": "https://eliasg2.itch.io/falling-frog",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNTg1NDMucG5n/315x250%23c/YuKW6t.png",
+    "title": "Falling frog",
+    "video": null,
+    "scrapeWords": [
+      "Falling",
+      "frog"
+    ]
+  },
+  {
+    "author": "SeaFerret",
+    "description": "This is epic",
+    "genre": "Simulation",
+    "id": "1075012",
+    "link": "https://seaferret.itch.io/snowball-roll-lol",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNjM1OTgucG5n/315x250%23c/J5DpEE.png",
+    "title": "Snowball goes downhill",
+    "video": null,
+    "scrapeWords": [
+      "Snowball",
+      "goes",
+      "downhill"
     ]
   },
   {
@@ -27354,11 +27444,11 @@
     ]
   },
   {
-    "author": "Iris6",
+    "author": "Iris xii",
     "description": "A game about deploying space colonies and possibly stranding yourself.",
     "genre": "Puzzle",
     "id": "292405",
-    "link": "https://iris6.itch.io/nomynal",
+    "link": "https://iris-xii.itch.io/nomynal",
     "platforms": [
       "Windows",
       "Linux",
@@ -28071,11 +28161,11 @@
     ]
   },
   {
-    "author": "Iris6",
+    "author": "Iris xii",
     "description": "Throw paper planes into incoming waves of people: the game.",
     "genre": "Action",
     "id": "295031",
-    "link": "https://iris6.itch.io/advice-inc",
+    "link": "https://iris-xii.itch.io/advice-inc",
     "platforms": [
       "Windows",
       "Linux",
@@ -43987,6 +44077,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -44939,11 +45047,11 @@
     ]
   },
   {
-    "author": "semperfoo",
+    "author": "gabrielvictor",
     "description": "A game inspired in Rival Schools 2 volleyball mini game",
     "genre": "Sports",
     "id": "445928",
-    "link": "https://semperfoo.itch.io/nice-serve",
+    "link": "https://gabrielvictor.itch.io/nice-serve",
     "platforms": [
       "Android"
     ],
@@ -118168,7 +118276,7 @@
   },
   {
     "author": "Skullzrawk9",
-    "description": null,
+    "description": "My very first game!",
     "genre": "Strategy",
     "id": "867221",
     "link": "https://skullzrawk9.itch.io/googy-goo",
@@ -129230,7 +129338,7 @@
   },
   {
     "author": "Skullzrawk9",
-    "description": null,
+    "description": "You can only shoot from the side!",
     "genre": "Shooter",
     "id": "936135",
     "link": "https://skullzrawk9.itch.io/sidestrike",
@@ -131084,21 +131192,6 @@
       "Together",
       "is",
       "better"
-    ]
-  },
-  {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -136109,11 +136202,11 @@
     ]
   },
   {
-    "author": "r3tr0_dev",
+    "author": "r3trodev",
     "description": "Pixel Shooter is a topdown-shooter style game with randomly generated levels, made with Godot Engine.",
     "genre": "Shooter",
     "id": "978458",
-    "link": "https://r3tr0-dev.itch.io/pixel-shooter",
+    "link": "https://r3trodev.itch.io/pixel-shooter",
     "platforms": [
       "Windows"
     ],
@@ -136533,7 +136626,7 @@
   },
   {
     "author": "Future Games",
-    "description": "Red capsule is dead",
+    "description": "Bang capsule is dead",
     "genre": "Shooter",
     "id": "980995",
     "link": "https://future-games.itch.io/fpza",
@@ -137052,6 +137145,23 @@
     "scrapeWords": [
       "Jungle",
       "Adventure"
+    ]
+  },
+  {
+    "author": "Vladja",
+    "description": "You play as a fox that collects Items, defeats enemies, collects abilities, explores the world, and does much more",
+    "genre": "Adventure",
+    "id": "983871",
+    "link": "https://vladja.itch.io/wanderfox",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3Mzc2MDYuanBn/315x250%23c/OKZxxi.jpg",
+    "title": "WanderFox",
+    "video": null,
+    "scrapeWords": [
+      "Wander",
+      "Fox"
     ]
   },
   {
