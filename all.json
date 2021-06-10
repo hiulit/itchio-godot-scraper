@@ -11667,6 +11667,22 @@
     ]
   },
   {
+    "author": "SOYBABY",
+    "description": "Big kitty's gotta eat to grow!",
+    "genre": "Action",
+    "id": "1066553",
+    "link": "https://soybaby.itch.io/big-cat-fetch",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxMTkzMzYucG5n/315x250%23c/UDyAVi.png",
+    "title": "Big Cat Fetch",
+    "video": null,
+    "scrapeWords": [
+      "Big",
+      "Cat",
+      "Fetch"
+    ]
+  },
+  {
     "author": "Riku42",
     "description": "tower defense",
     "genre": "Strategy",
@@ -11928,6 +11944,25 @@
     ]
   },
   {
+    "author": "Absolute_Beginner",
+    "description": "It's my second game with no reference-Hand Cricket. ( For game jam )",
+    "genre": "Sports",
+    "id": "1069163",
+    "link": "https://absolute-beginner.itch.io/can-you-win-the-corona-part-2",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxMjM2ODMucG5n/315x250%23c/tAYHMU.png",
+    "title": "Can You Win The Corona? - Part-2",
+    "video": null,
+    "scrapeWords": [
+      "Can",
+      "You",
+      "Win",
+      "The",
+      "Corona",
+      "Part-2"
+    ]
+  },
+  {
     "author": "irishgreencitrus",
     "description": "A game about avoiding the lights and hiding. Made in ~3 hours for TriJam #123",
     "genre": "Puzzle",
@@ -12144,6 +12179,23 @@
     ]
   },
   {
+    "author": "EakyRtk",
+    "description": "Liseli bir tenis topunun, okulda yemek parası isteyene hayır diyemeden hafta sonunu getirme macerası. 3 Farklı Sonlu",
+    "genre": "Action",
+    "id": "1071467",
+    "link": "https://eakyrtk.itch.io/hayrsz-oglan-bogazici-gamejam",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNDMzMzkucG5n/315x250%23c/WVE%2Br5.png",
+    "title": "Hayır'sız Oğlan",
+    "video": null,
+    "scrapeWords": [
+      "Hayırsız",
+      "Oğlan"
+    ]
+  },
+  {
     "author": "TassuP",
     "description": "A unique and challenging abstract arcade game with an interesting AI.",
     "genre": null,
@@ -12207,6 +12259,23 @@
       "Lucosa",
       "Hybrid",
       "Flame"
+    ]
+  },
+  {
+    "author": "SkyTheGreatOne",
+    "description": "This is a platformer that I made, try beating my score.",
+    "genre": "Platformer",
+    "id": "1072300",
+    "link": "https://skythegreatone.itch.io/platformer",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNDY0NDYucG5n/315x250%23c/12Xr8j.png",
+    "title": "Platformer (DEMO)",
+    "video": null,
+    "scrapeWords": [
+      "Platformer"
     ]
   },
   {
@@ -12311,22 +12380,6 @@
     ]
   },
   {
-    "author": "Bastiasa12",
-    "description": "Beta de dark people, inspirado en fnaf y mi primer juego",
-    "genre": null,
-    "id": "1073601",
-    "link": "https://bastiasa12.itch.io/dark-people-beta",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYxNTUwMjgucG5n/315x250%23c/B9LT%2BU.png",
-    "title": "Dark People BETA",
-    "video": null,
-    "scrapeWords": [
-      "Dark",
-      "People",
-      "BETA"
-    ]
-  },
-  {
     "author": "Detective Software Devs",
     "description": "A Tower Defense game that is also your homescreen.",
     "genre": "Strategy",
@@ -12383,6 +12436,25 @@
     ]
   },
   {
+    "author": "LOVEPIZZAINC.",
+    "description": "Best way to play the pizz-tastic classic!",
+    "genre": "Platformer",
+    "id": "1074767",
+    "link": "https://lovepizzainc.itch.io/pizza-delivery-godot-port",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNjIxMTUucG5n/315x250%23c/Je7Qlb.png",
+    "title": "Pizza Delivery",
+    "video": null,
+    "scrapeWords": [
+      "Pizza",
+      "Delivery"
+    ]
+  },
+  {
     "author": "SeaFerret",
     "description": "This is epic",
     "genre": "Simulation",
@@ -12396,6 +12468,57 @@
       "Snowball",
       "goes",
       "downhill"
+    ]
+  },
+  {
+    "author": "Blueeyedrat",
+    "description": "Simple 40-card solitaire",
+    "genre": "Card Game",
+    "id": "1075192",
+    "link": "https://blueeyedrat.itch.io/temple-solitaire",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNjQ3NjQucG5n/315x250%23c/gtRU4v.png",
+    "title": "Temple Solitaire",
+    "video": null,
+    "scrapeWords": [
+      "Temple",
+      "Solitaire"
+    ]
+  },
+  {
+    "author": "Skinner Space",
+    "description": "Escape the avalanche, do some sweet tricks, and eat some humans!",
+    "genre": "Action",
+    "id": "1076160",
+    "link": "https://skinner-space.itch.io/yeti-slopes",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNzQxNTUucG5n/315x250%23c/9PUV8D.png",
+    "title": "Yeti Slopes",
+    "video": null,
+    "scrapeWords": [
+      "Yeti",
+      "Slopes"
+    ]
+  },
+  {
+    "author": "B-Ricey763",
+    "description": "For the WPI Touch Tommorrow Game Jam",
+    "genre": "Racing",
+    "id": "1076356",
+    "link": "https://b-ricey763.itch.io/drone-back-home",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNzIxOTYucG5n/315x250%23c/bFdM%2BA.png",
+    "title": "Drone Back Home",
+    "video": null,
+    "scrapeWords": [
+      "Drone",
+      "Back",
+      "Home"
     ]
   },
   {
@@ -33786,7 +33909,7 @@
     "description": null,
     "genre": "Platformer",
     "id": "340927",
-    "link": "https://esblinuxcss.itch.io/dangerous-dilbert",
+    "link": "https://eduardodeadpixel.itch.io/dangerous-dilbert",
     "platforms": [
       "Windows",
       "Linux",
@@ -77289,8 +77412,7 @@
     "link": "https://josephcantrell14.itch.io/prophet-launcher",
     "platforms": [
       "Windows",
-      "Linux",
-      "Android"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1MDYwOTQucG5n/315x250%23c/13qRm%2F.png",
     "title": "Prophet Launcher",
@@ -114778,7 +114900,7 @@
     "description": "An easy little legendary RPG, just avoid the blue bat!",
     "genre": "Role Playing",
     "id": "842757",
-    "link": "https://magusbence.itch.io/the-legend-of-lea",
+    "link": "https://magicalshepherdgames.itch.io/the-legend-of-lea",
     "platforms": [
       "Windows",
       "Linux",
@@ -123150,7 +123272,7 @@
   },
   {
     "author": "anactualhuman",
-    "description": "An endless runner.",
+    "description": "An endless runner",
     "genre": "Action",
     "id": "899848",
     "link": "https://anactualhuman.itch.io/island-destroyer",
@@ -124054,6 +124176,20 @@
       "Amazing",
       "Lost-Property",
       "Office"
+    ]
+  },
+  {
+    "author": "SOYBABY",
+    "description": "Based on Egyptian mythology, you play as ISIS, goddess of magic on a mission to save King OSIRIS from a tragic fate",
+    "genre": "Platformer",
+    "id": "903379",
+    "link": "https://soybaby.itch.io/osiris",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUxMzk1NTAucG5n/315x250%23c/BrmS2A.png",
+    "title": "OSIRIS",
+    "video": null,
+    "scrapeWords": [
+      "OSIRIS"
     ]
   },
   {
@@ -127386,7 +127522,7 @@
   },
   {
     "author": "anactualhuman",
-    "description": "A small precision platformer.",
+    "description": "A small precision platformer",
     "genre": "Platformer",
     "id": "925647",
     "link": "https://anactualhuman.itch.io/robo-go",
@@ -127493,6 +127629,21 @@
       "Lost",
       "Without",
       "Translation"
+    ]
+  },
+  {
+    "author": "TheFuturisticIdiot",
+    "description": null,
+    "genre": "Strategy",
+    "id": "926411",
+    "link": "https://thefuturisticidiot.itch.io/rotate",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyODQ2MzkucG5n/315x250%23c/tgn8hI.png",
+    "title": "Rotate v1.3.0",
+    "video": null,
+    "scrapeWords": [
+      "Rotate",
+      "v130"
     ]
   },
   {
@@ -136889,7 +137040,7 @@
     "id": "982583",
     "link": "https://goldmindbreaker.itch.io/toons-warfare-prototype",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYwMDE0MzAuanBn/315x250%23c/pkRQ5Q.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzYxNjk2NzIucG5n/315x250%23c/0pM1MZ.png",
     "title": "TOONS WARFARE",
     "video": null,
     "scrapeWords": [
