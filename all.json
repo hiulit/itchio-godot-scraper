@@ -9841,14 +9841,13 @@
       "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMDI1OTQucG5n/315x250%23c/iI4BZg.png",
-    "title": "MyLittleBird Poopeon v0.4.x9",
+    "title": "MyLittleBird Poopeon",
     "video": null,
     "scrapeWords": [
       "My",
       "Little",
       "Bird",
-      "Poopeon",
-      "v04x9"
+      "Poopeon"
     ]
   },
   {
@@ -10030,7 +10029,7 @@
     ]
   },
   {
-    "author": "Studio Logo",
+    "author": "米湖汇工作室",
     "description": "Изучайте старое болото.",
     "genre": "Adventure",
     "id": "1059946",
@@ -10201,6 +10200,24 @@
     "scrapeWords": [
       "Friend",
       "Request"
+    ]
+  },
+  {
+    "author": "infinity10004",
+    "description": null,
+    "genre": null,
+    "id": "1060632",
+    "link": "https://infinity10004.itch.io/space-shooter",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwNzE0NjIucG5n/315x250%23c/FQ6y5C.png",
+    "title": "Endless Space shooter",
+    "video": null,
+    "scrapeWords": [
+      "Endless",
+      "Space",
+      "shooter"
     ]
   },
   {
@@ -11866,12 +11883,11 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMzczNzgucG5n/315x250%23c/e%2BiMWG.png",
-    "title": "Little Click released",
+    "title": "Little Click",
     "video": null,
     "scrapeWords": [
       "Little",
-      "Click",
-      "released"
+      "Click"
     ]
   },
   {
@@ -12329,6 +12345,22 @@
     ]
   },
   {
+    "author": "Jesse_esssaj",
+    "description": null,
+    "genre": "Visual Novel",
+    "id": "1072711",
+    "link": "https://jesse-esssaj.itch.io/vanner",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNjU4NjQucG5n/315x250%23c/RpozR9.png",
+    "title": "Vänner?",
+    "video": null,
+    "scrapeWords": [
+      "Vänner"
+    ]
+  },
+  {
     "author": "msun_",
     "description": null,
     "genre": "Action",
@@ -12351,12 +12383,15 @@
     "link": "https://sandervanhove.itch.io/dice-vs-monsters",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYxNDkwMDMucG5n/315x250%23c/LUjEdx.png",
-    "title": "Dice vs Monsters (Gotm Jam #5)",
+    "title": "Dice vs Monsters (2th place in Gotm Jam #5)",
     "video": null,
     "scrapeWords": [
       "Dice",
       "vs",
       "Monsters",
+      "2th",
+      "place",
+      "in",
       "Gotm",
       "Jam",
       "5"
@@ -12471,6 +12506,27 @@
     ]
   },
   {
+    "author": "Nerdiful",
+    "description": null,
+    "genre": "Racing",
+    "id": "1075083",
+    "link": "https://nerdiful.itch.io/untitled-hover-bike-racing-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNjQwNDUucG5n/315x250%23c/fiRNNz.png",
+    "title": "Hover Bike Racing Game",
+    "video": null,
+    "scrapeWords": [
+      "Hover",
+      "Bike",
+      "Racing",
+      "Game"
+    ]
+  },
+  {
     "author": "Blueeyedrat",
     "description": "Simple 40-card solitaire",
     "genre": "Card Game",
@@ -12519,6 +12575,58 @@
       "Drone",
       "Back",
       "Home"
+    ]
+  },
+  {
+    "author": "Parminder Singh",
+    "description": "Can you save your relationship?",
+    "genre": "Action",
+    "id": "1076885",
+    "link": "https://trion129.itch.io/argument-simulator",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNzU0NzgucG5n/315x250%23c/E5YkVH.png",
+    "title": "Argument Simulator",
+    "video": null,
+    "scrapeWords": [
+      "Argument",
+      "Simulator"
+    ]
+  },
+  {
+    "author": "Sariteed",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "1077377",
+    "link": "https://sariteed.itch.io/swedish-squash",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNzg1MDcucG5n/315x250%23c/tm8anK.png",
+    "title": "Swedish Squash",
+    "video": null,
+    "scrapeWords": [
+      "Swedish",
+      "Squash"
+    ]
+  },
+  {
+    "author": "void Games(play);",
+    "description": "You're an alien look for its space craft",
+    "genre": "Platformer",
+    "id": "1077579",
+    "link": "https://void-gamesplay.itch.io/blobby",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNzk2OTQucG5n/315x250%23c/LHIAcz.png",
+    "title": "Blobby",
+    "video": null,
+    "scrapeWords": [
+      "Blobby"
     ]
   },
   {
@@ -44200,24 +44308,6 @@
     ]
   },
   {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
-    ]
-  },
-  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -51630,11 +51720,11 @@
     ]
   },
   {
-    "author": "supermina39",
+    "author": "Minachn",
     "description": "about a kid dreaming of an artifact that make him merge in environment",
     "genre": "Platformer",
     "id": "485889",
-    "link": "https://supermina39.itch.io/that-weird-dream",
+    "link": "https://minachn.itch.io/that-weird-dream",
     "platforms": [
       "Windows",
       "Linux",
@@ -77412,7 +77502,8 @@
     "link": "https://josephcantrell14.itch.io/prophet-launcher",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1MDYwOTQucG5n/315x250%23c/13qRm%2F.png",
     "title": "Prophet Launcher",
@@ -77856,11 +77947,11 @@
     ]
   },
   {
-    "author": "supermina39",
+    "author": "Minachn",
     "description": "2d,pixel art, turn-based",
     "genre": "Role Playing",
     "id": "655639",
-    "link": "https://supermina39.itch.io/fight-with-the-devil",
+    "link": "https://minachn.itch.io/fight-with-the-devil",
     "platforms": [
       "Windows",
       "Linux"
@@ -119841,7 +119932,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5MzUxMjkuanBn/315x250%23c/Odmh3%2B.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzYxNzgxODAuanBn/315x250%23c/n6NlPj.jpg",
     "title": "Work Done (test levels)",
     "video": null,
     "scrapeWords": [
@@ -131346,6 +131437,21 @@
     ]
   },
   {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Escada Games",
     "description": "Asteroids with special relativity",
     "genre": "Shooter",
@@ -132595,6 +132701,23 @@
       "Retrokingdom",
       "Old",
       "Lands"
+    ]
+  },
+  {
+    "author": "roboadam",
+    "description": "It's your first night alone with the new baby and a storm is rolling in. A short horror game.",
+    "genre": "Adventure",
+    "id": "954588",
+    "link": "https://roboadam.itch.io/unfamiliar-household",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNTYwNDMucG5n/315x250%23c/VQRUNT.png",
+    "title": "Unfamiliar Household",
+    "video": null,
+    "scrapeWords": [
+      "Unfamiliar",
+      "Household"
     ]
   },
   {
