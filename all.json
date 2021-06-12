@@ -3424,11 +3424,11 @@
     ]
   },
   {
-    "author": "mesnertkartis",
+    "author": "mtkimmins",
     "description": "You have been called to your Uncle's village to assist the sick, but where is he?",
     "genre": "Adventure",
     "id": "1014820",
-    "link": "https://mesnertkartis.itch.io/the-cure",
+    "link": "https://mtkimmins.itch.io/the-cure",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU3ODA0NzIucG5n/315x250%23c/NgKf%2BQ.png",
     "title": "The Cure",
@@ -11964,7 +11964,7 @@
     "description": "It's my second game with no reference-Hand Cricket. ( For game jam )",
     "genre": "Sports",
     "id": "1069163",
-    "link": "https://absolute-beginner.itch.io/can-you-win-the-corona-part-2",
+    "link": "https://ksmirthun.itch.io/can-you-win-the-corona-part-2",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYxMjM2ODMucG5n/315x250%23c/tAYHMU.png",
     "title": "Can You Win The Corona? - Part-2",
@@ -12398,23 +12398,6 @@
     ]
   },
   {
-    "author": "SkiaGames",
-    "description": "The first game ever made by SkiaGames, using the Godot Engine",
-    "genre": null,
-    "id": "1073083",
-    "link": "https://skiagames.itch.io/skiagames-pong",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYxNTEwNjIucG5n/315x250%23c/2U7i3w.png",
-    "title": "Pong by SkiaGames",
-    "video": null,
-    "scrapeWords": [
-      "Pong",
-      "by",
-      "Skia",
-      "Games"
-    ]
-  },
-  {
     "author": "Detective Software Devs",
     "description": "A Tower Defense game that is also your homescreen.",
     "genre": "Strategy",
@@ -12528,7 +12511,7 @@
   },
   {
     "author": "Blueeyedrat",
-    "description": "Simple 40-card solitaire",
+    "description": "Simple 40-card solitaire with multiple game modes",
     "genre": "Card Game",
     "id": "1075192",
     "link": "https://blueeyedrat.itch.io/temple-solitaire",
@@ -12541,6 +12524,22 @@
     "scrapeWords": [
       "Temple",
       "Solitaire"
+    ]
+  },
+  {
+    "author": "Eray Zesen",
+    "description": "A mini hardcore platformer game",
+    "genre": "Platformer",
+    "id": "1075339",
+    "link": "https://erayzesen.itch.io/ice-cream-man",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNjYzNjguZ2lm/315x250%23cm/cH4b79.gif",
+    "title": "Ice Cream Man",
+    "video": "https://img.itch.zone/aW1nLzYxNjYzNjguZ2lm/original/9422GI.gif",
+    "scrapeWords": [
+      "Ice",
+      "Cream",
+      "Man"
     ]
   },
   {
@@ -12616,6 +12615,23 @@
     ]
   },
   {
+    "author": "Tektow",
+    "description": "A dream-like exploration game made in one month.",
+    "genre": null,
+    "id": "1077460",
+    "link": "https://tektow.itch.io/melty-dream",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNzk1MDYucG5n/315x250%23c/wN065y.png",
+    "title": "Melty Dream",
+    "video": null,
+    "scrapeWords": [
+      "Melty",
+      "Dream"
+    ]
+  },
+  {
     "author": "void Games(play);",
     "description": "You're an alien look for its space craft",
     "genre": "Platformer",
@@ -12627,6 +12643,116 @@
     "video": null,
     "scrapeWords": [
       "Blobby"
+    ]
+  },
+  {
+    "author": "milkchoco",
+    "description": "A mobile-ish game with gravity and game juice",
+    "genre": null,
+    "id": "1078042",
+    "link": "https://milkchoco.itch.io/unnamed-space-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTEyOTgucG5n/315x250%23c/FGdSqd.png",
+    "title": "Unnamed Space Game",
+    "video": null,
+    "scrapeWords": [
+      "Unnamed",
+      "Space",
+      "Game"
+    ]
+  },
+  {
+    "author": "swanandx",
+    "description": "Dodge the bullets and save korosensei from class 3-E",
+    "genre": null,
+    "id": "1078093",
+    "link": "https://swanandx.itch.io/save-korosensei",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxODI5MDgucG5n/315x250%23c/RUYqhY.png",
+    "title": "Save Korosensei",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "Korosensei"
+    ]
+  },
+  {
+    "author": "GalerianStudio",
+    "description": "Hide and Sick, un petit survival horror développé avec Godot Engine.",
+    "genre": "Adventure",
+    "id": "1078607",
+    "link": "https://galerianstudio.itch.io/hide-and-sick",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxODY0NjIucG5n/315x250%23c/dw95%2Fo.png",
+    "title": "Hide and Sick",
+    "video": null,
+    "scrapeWords": [
+      "Hide",
+      "and",
+      "Sick"
+    ]
+  },
+  {
+    "author": "Guill3rmina",
+    "description": "Space Platformer Game",
+    "genre": "Platformer",
+    "id": "1078745",
+    "link": "https://guill3rmina.itch.io/consteleishon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxODg1ODYucG5n/315x250%23c/zAK7cg.png",
+    "title": "Consteleishon",
+    "video": null,
+    "scrapeWords": [
+      "Consteleishon"
+    ]
+  },
+  {
+    "author": "dalo_209",
+    "description": "Ayudá a Maxi a preparar el mejor asado de la Historia",
+    "genre": "Platformer",
+    "id": "1078780",
+    "link": "https://dalo-209.itch.io/maxi-el-asador-xeneize",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxODcxNTMucG5n/315x250%23c/IsA7oF.png",
+    "title": "Maxi, el asador xeneize",
+    "video": null,
+    "scrapeWords": [
+      "Maxi",
+      "el",
+      "asador",
+      "xeneize"
+    ]
+  },
+  {
+    "author": "Troll_hunterx",
+    "description": "​Climb the sky as two bodies tied together by a rope. 10-20 minutes",
+    "genre": "Platformer",
+    "id": "1079568",
+    "link": "https://troll-hunterx.itch.io/twin-bodies",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTE4NjEucG5n/315x250%23c/dzA9DT.png",
+    "title": "Twin Bodies",
+    "video": null,
+    "scrapeWords": [
+      "Twin",
+      "Bodies"
     ]
   },
   {
@@ -15254,7 +15380,7 @@
   },
   {
     "author": "alexholly",
-    "description": null,
+    "description": "LOWREZJAM 2017 Roguelike.",
     "genre": "Action",
     "id": "167649",
     "link": "https://alexholly.itch.io/hell-towers",
@@ -26347,21 +26473,6 @@
     ]
   },
   {
-    "author": "Iki Capitan",
-    "description": null,
-    "genre": null,
-    "id": "286171",
-    "link": "https://ikicapitan.itch.io/frogger-remake",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1hZ2UvMjg2MTcxLzEzOTM0ODkucG5n/315x250%23c/lwVGlK.png",
-    "title": "Frogger Remake",
-    "video": null,
-    "scrapeWords": [
-      "Frogger",
-      "Remake"
-    ]
-  },
-  {
     "author": "CoaguCo Industries",
     "description": "Into Oblivion is the fourth game from CoaguCo Industries where you try to drink others (or bots) under the table.",
     "genre": "Card Game",
@@ -26381,7 +26492,7 @@
   },
   {
     "author": "alexholly",
-    "description": "LOWREZJAM Puzzle Game.",
+    "description": "LOWREZJAM 2018 Puzzle Game.",
     "genre": "Puzzle",
     "id": "286861",
     "link": "https://alexholly.itch.io/match-x",
@@ -109770,7 +109881,7 @@
       "macOS",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU4Mjk2NDQucG5n/315x250%23c/fSgPxV.png",
+    "thumb": "https://img.itch.zone/aW1nLzYxOTIwNjAucG5n/315x250%23c/OrzQuP.png",
     "title": "Donut Seduction",
     "video": null,
     "scrapeWords": [
@@ -132958,8 +133069,11 @@
     "genre": "Puzzle",
     "id": "955915",
     "link": "https://gregoriofornetti.itch.io/clone-nightmare",
-    "platforms": null,
-    "thumb": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTA3MzQucG5n/315x250%23c/WuinB6.png",
     "title": "Clone Nightmare",
     "video": null,
     "scrapeWords": [
@@ -135816,6 +135930,24 @@
     "video": null,
     "scrapeWords": [
       "Gravity"
+    ]
+  },
+  {
+    "author": "Lazy Fox",
+    "description": "Minimalistic city-builder.",
+    "genre": "Puzzle",
+    "id": "972705",
+    "link": "https://lazy-fox.itch.io/build-and-grow",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNzk4MDIucG5n/315x250%23c/Q0qHqb.png",
+    "title": "Build and Grow",
+    "video": null,
+    "scrapeWords": [
+      "Build",
+      "and",
+      "Grow"
     ]
   },
   {
@@ -138944,11 +139076,11 @@
     ]
   },
   {
-    "author": "mesnertkartis",
+    "author": "mtkimmins",
     "description": "You are the plate-spinning duck! Head out the door to begin your first show!",
     "genre": "Platformer",
     "id": "997311",
-    "link": "https://mesnertkartis.itch.io/seven-second-circus",
+    "link": "https://mtkimmins.itch.io/seven-second-circus",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU2NzUzOTcucG5n/315x250%23c/Y1328c.png",
     "title": "Seven Second Circus",
