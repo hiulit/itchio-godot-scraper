@@ -7303,7 +7303,7 @@
     "description": "Mas almas obtienes, mayor será tu poder!",
     "genre": "Adventure",
     "id": "1044147",
-    "link": "https://medicenboga.itch.io/zielen",
+    "link": "https://asaditogames.itch.io/zielen",
     "platforms": [
       "Windows"
     ],
@@ -9527,7 +9527,7 @@
     "description": "find the chest(CasualGame)",
     "genre": "Adventure",
     "id": "1056077",
-    "link": "https://medicenboga.itch.io/find-the-chest",
+    "link": "https://asaditogames.itch.io/find-the-chest",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYwNDMyODEucG5n/315x250%23c/dvIzIm.png",
     "title": "Find The Chest",
@@ -10479,6 +10479,20 @@
       "Transform",
       "Into",
       "Bosses"
+    ]
+  },
+  {
+    "author": "Richar",
+    "description": "Arcade Retro Space Shooter",
+    "genre": "Shooter",
+    "id": "1062673",
+    "link": "https://richarrest.itch.io/naveroide",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxNTUzODAucG5n/315x250%23c/NTWDp4.png",
+    "title": "Naveroide",
+    "video": null,
+    "scrapeWords": [
+      "Naveroide"
     ]
   },
   {
@@ -12287,10 +12301,11 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYxNDY0NDYucG5n/315x250%23c/12Xr8j.png",
-    "title": "Platformer (DEMO)",
+    "thumb": "https://img.itch.zone/aW1nLzYxOTc0NTYucG5n/315x250%23c/ULmSeg.png",
+    "title": "Sky's Platformer",
     "video": null,
     "scrapeWords": [
+      "Skys",
       "Platformer"
     ]
   },
@@ -12548,7 +12563,10 @@
     "genre": "Action",
     "id": "1076160",
     "link": "https://skinner-space.itch.io/yeti-slopes",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYxNzQxNTUucG5n/315x250%23c/9PUV8D.png",
     "title": "Yeti Slopes",
     "video": null,
@@ -12680,6 +12698,39 @@
     ]
   },
   {
+    "author": "Zeno",
+    "description": "Made for GMTK game jam 2021",
+    "genre": "Action",
+    "id": "1078150",
+    "link": "https://zenogamedev.itch.io/gmtk-game-jam",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTg5NzUucG5n/315x250%23c/bEnSmT.png",
+    "title": "Torchure",
+    "video": null,
+    "scrapeWords": [
+      "Torchure"
+    ]
+  },
+  {
+    "author": "dobloY",
+    "description": "Android",
+    "genre": "Action",
+    "id": "1078242",
+    "link": "https://dobloy.itch.io/dodge-the-creeps",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTI1MzMucG5n/315x250%23c/IhCEvr.png",
+    "title": "Dodge The Creeps Android",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "The",
+      "Creeps",
+      "Android"
+    ]
+  },
+  {
     "author": "GalerianStudio",
     "description": "Hide and Sick, un petit survival horror développé avec Godot Engine.",
     "genre": "Adventure",
@@ -12737,6 +12788,96 @@
     ]
   },
   {
+    "author": "FettMortim",
+    "description": null,
+    "genre": "Action",
+    "id": "1078983",
+    "link": "https://fettmortim.itch.io/starlinked",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTc4NTkucG5n/315x250%23c/1tBdTD.png",
+    "title": "Starlinked",
+    "video": null,
+    "scrapeWords": [
+      "Starlinked"
+    ]
+  },
+  {
+    "author": "droid",
+    "description": null,
+    "genre": "Shooter",
+    "id": "1079301",
+    "link": "https://droid.itch.io/shooter-looter-scooter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTk0MDkucG5n/315x250%23c/ZJ4dFX.png",
+    "title": "Shooter Looter Scooter",
+    "video": null,
+    "scrapeWords": [
+      "Shooter",
+      "Looter",
+      "Scooter"
+    ]
+  },
+  {
+    "author": "ollie_d",
+    "description": "You and your partner are going through a rough patch. Stay close otherwise you might drift apart.",
+    "genre": null,
+    "id": "1079305",
+    "link": "https://ollie-d.itch.io/drifting",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMDQwMjkucG5n/315x250%23c/TzSwKr.png",
+    "title": "We're Drifting Apart",
+    "video": null,
+    "scrapeWords": [
+      "Were",
+      "Drifting",
+      "Apart"
+    ]
+  },
+  {
+    "author": "Shawn and A.J.",
+    "description": "Melt the alarm clock with goo before 7:30 AM.",
+    "genre": "Platformer",
+    "id": "1079385",
+    "link": "https://shawn-and-aj.itch.io/clock-meltdown",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDE5MDMucG5n/315x250%23c/IDAPwR.png",
+    "title": "Alarm Clock Meltdown",
+    "video": null,
+    "scrapeWords": [
+      "Alarm",
+      "Clock",
+      "Meltdown"
+    ]
+  },
+  {
+    "author": "RedTeapot",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "1079459",
+    "link": "https://redteapot.itch.io/eyedol-contact",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTQ1ODYucG5n/315x250%23c/fatQyI.png",
+    "title": "Eyedol Contact",
+    "video": null,
+    "scrapeWords": [
+      "Eyedol",
+      "Contact"
+    ]
+  },
+  {
     "author": "Troll_hunterx",
     "description": "​Climb the sky as two bodies tied together by a rope. 10-20 minutes",
     "genre": "Platformer",
@@ -12753,6 +12894,438 @@
     "scrapeWords": [
       "Twin",
       "Bodies"
+    ]
+  },
+  {
+    "author": "Pavlounas",
+    "description": "An introductory to video games co-op game",
+    "genre": "Puzzle",
+    "id": "1079713",
+    "link": "https://pavlounas.itch.io/help-me-help-you",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTI4NTgucG5n/315x250%23c/Pl%2Fj0y.png",
+    "title": "Help Me, Help You!",
+    "video": null,
+    "scrapeWords": [
+      "Help",
+      "Me",
+      "Help",
+      "You"
+    ]
+  },
+  {
+    "author": "GarterSnake508",
+    "description": "Create anything you envision...",
+    "genre": "Action",
+    "id": "1079871",
+    "link": "https://gartersnake508.itch.io/grand-creation",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTY5OTgucG5n/315x250%23c/b5w4Qp.png",
+    "title": "Grand Creation",
+    "video": null,
+    "scrapeWords": [
+      "Grand",
+      "Creation"
+    ]
+  },
+  {
+    "author": "Pedro (Henri) Braga",
+    "description": "Put monsters together to create sick beats and solve puzzles.",
+    "genre": "Puzzle",
+    "id": "1079946",
+    "link": "https://mr-henri.itch.io/synergy",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTY4NzYucG5n/315x250%23c/uGoCkM.png",
+    "title": "Synergy [GMTK Jam 2021]",
+    "video": null,
+    "scrapeWords": [
+      "Synergy",
+      "[GMTK",
+      "Jam",
+      "2021]"
+    ]
+  },
+  {
+    "author": "jockaplay",
+    "description": null,
+    "genre": null,
+    "id": "1080326",
+    "link": "https://jockaplay.itch.io/nightmare2d",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTUzMDUucG5n/315x250%23c/6kIM8k.png",
+    "title": "Nightmare",
+    "video": null,
+    "scrapeWords": [
+      "Nightmare"
+    ]
+  },
+  {
+    "author": "RollingCarey",
+    "description": "Zero Visibility Repeat | Explore 2D Space by Audio Alone",
+    "genre": null,
+    "id": "1080543",
+    "link": "https://rollingcarey.itch.io/zerovisibilityrepeat",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMDA5MDUuanBn/315x250%23c/V0D90o.jpg",
+    "title": "0-Vis:",
+    "video": null,
+    "scrapeWords": [
+      "0-Vis"
+    ]
+  },
+  {
+    "author": "TheZero3546",
+    "description": null,
+    "genre": "Shooter",
+    "id": "1080575",
+    "link": "https://thezero3546.itch.io/planet-defense-force",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTY3NzcucG5n/315x250%23c/ireQBU.png",
+    "title": "Planet Defense Force",
+    "video": null,
+    "scrapeWords": [
+      "Planet",
+      "Defense",
+      "Force"
+    ]
+  },
+  {
+    "author": "Arcane Energy",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1080661",
+    "link": "https://arcane-energy.itch.io/divided-chains-combined-brains",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTY5MTkuZ2lm/315x250%23cm/JgDCuG.gif",
+    "title": "Divided Chains, Combined Brains",
+    "video": "https://img.itch.zone/aW1nLzYxOTY5MTkuZ2lm/original/7Aae%2Bk.gif",
+    "scrapeWords": [
+      "Divided",
+      "Chains",
+      "Combined",
+      "Brains"
+    ]
+  },
+  {
+    "author": "Victor Caramez",
+    "description": "mama sausage must protect baby olive",
+    "genre": "Interactive Fiction",
+    "id": "1080846",
+    "link": "https://essedilha.itch.io/shasheesha-2-mama-strikes-back",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTk0MDgucG5n/315x250%23c/MAdAJM.png",
+    "title": "SHA SHEE SHA 2 - Mama strikes back",
+    "video": null,
+    "scrapeWords": [
+      "SHA",
+      "SHEE",
+      "SHA",
+      "2",
+      "Mama",
+      "strikes",
+      "back"
+    ]
+  },
+  {
+    "author": "LeviMakesGames",
+    "description": null,
+    "genre": "Action",
+    "id": "1081114",
+    "link": "https://levimakesgames.itch.io/maceman",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTkyNDAucG5n/315x250%23c/Uydl%2Fo.png",
+    "title": "Maceman",
+    "video": null,
+    "scrapeWords": [
+      "Maceman"
+    ]
+  },
+  {
+    "author": "jaz",
+    "description": "a small depression",
+    "genre": null,
+    "id": "1081149",
+    "link": "https://jazhands.itch.io/why",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTkzNjYucG5n/315x250%23c/gNUobO.png",
+    "title": "Why",
+    "video": null,
+    "scrapeWords": [
+      "Why"
+    ]
+  },
+  {
+    "author": "Tepig125",
+    "description": "A submission for the GMTK Game Jam 2021, created by Tepig125 and TheJabberwocky!",
+    "genre": "Adventure",
+    "id": "1081166",
+    "link": "https://tepig125.itch.io/patchwork",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTkzMjIucG5n/315x250%23c/5omDtC.png",
+    "title": "Patchwork",
+    "video": null,
+    "scrapeWords": [
+      "Patchwork"
+    ]
+  },
+  {
+    "author": "Chafmere",
+    "description": "Unite the Fox with Her Shadow",
+    "genre": "Platformer",
+    "id": "1081178",
+    "link": "https://chafmere.itch.io/the-fox-and-her-shadow",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTkzOTEucG5n/315x250%23c/bBl%2FUc.png",
+    "title": "The Fox and Her Shadow",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Fox",
+      "and",
+      "Her",
+      "Shadow"
+    ]
+  },
+  {
+    "author": "Skullzrawk9",
+    "description": "Top down shooter where you play as 3 characters!",
+    "genre": "Shooter",
+    "id": "1081213",
+    "link": "https://skullzrawk9.itch.io/stranded-on-earth",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTk1MjkucG5n/315x250%23c/fCxeA7.png",
+    "title": "Stranded on Earth",
+    "video": null,
+    "scrapeWords": [
+      "Stranded",
+      "on",
+      "Earth"
+    ]
+  },
+  {
+    "author": "Vik",
+    "description": "Balance the Yin and Yang energy (Darkness and Light) and solve puzzles",
+    "genre": "Platformer",
+    "id": "1081236",
+    "link": "https://vkmicro.itch.io/the-splitter",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxOTk2NjEucG5n/315x250%23c/pYW7RX.png",
+    "title": "The Splitter",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Splitter"
+    ]
+  },
+  {
+    "author": "SirRANA",
+    "description": "Seven sins unified in one body, a humanity created.",
+    "genre": "Action",
+    "id": "1081294",
+    "link": "https://sirrana.itch.io/seven-union-sins",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDAxNjYucG5n/315x250%23c/C6uNtF.png",
+    "title": "Seven Union Sins",
+    "video": null,
+    "scrapeWords": [
+      "Seven",
+      "Union",
+      "Sins"
+    ]
+  },
+  {
+    "author": "richardhayes",
+    "description": "A game about how sushi sticks together",
+    "genre": "Platformer",
+    "id": "1081351",
+    "link": "https://richardhayes.itch.io/stick-together",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMDAwODEucG5n/315x250%23c/YWYrPc.png",
+    "title": "Stick Together",
+    "video": null,
+    "scrapeWords": [
+      "Stick",
+      "Together"
+    ]
+  },
+  {
+    "author": "Jonah H-W",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "1081412",
+    "link": "https://jonahhw.itch.io/crystal-hunt",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDAzNzIucG5n/315x250%23c/OMIWar.png",
+    "title": "Crystal Hunt",
+    "video": null,
+    "scrapeWords": [
+      "Crystal",
+      "Hunt"
+    ]
+  },
+  {
+    "author": "Cmdr3nder",
+    "description": "Two magnetic brothers need to find some hair for their big dates",
+    "genre": "Puzzle",
+    "id": "1081458",
+    "link": "https://cmdr3nder.itch.io/magny-and-ferrus-big-hair-day",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDA5MjMucG5n/315x250%23c/DbK3tZ.png",
+    "title": "Magny and Ferrus' Big Hair Day",
+    "video": null,
+    "scrapeWords": [
+      "Magny",
+      "and",
+      "Ferrus",
+      "Big",
+      "Hair",
+      "Day"
+    ]
+  },
+  {
+    "author": "freedom3339",
+    "description": "A submission to the GMTK 2021 Gamejam and a homage to combat",
+    "genre": "Puzzle",
+    "id": "1081548",
+    "link": "https://freedom3339.itch.io/comboat",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDExMDkucG5n/315x250%23c/jkyd4j.png",
+    "title": "Comboat",
+    "video": null,
+    "scrapeWords": [
+      "Comboat"
+    ]
+  },
+  {
+    "author": "Lunatic Games",
+    "description": "Play as fuzzy little creatures as you collect all the shards!",
+    "genre": "Platformer",
+    "id": "1081576",
+    "link": "https://lunatic-games.itch.io/spifin",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMDE0OTIucG5n/315x250%23c/rCm95w.png",
+    "title": "Spifin",
+    "video": null,
+    "scrapeWords": [
+      "Spifin"
+    ]
+  },
+  {
+    "author": "flber",
+    "description": "Play as a ball of yarn escaping a cat",
+    "genre": "Platformer",
+    "id": "1081629",
+    "link": "https://flber.itch.io/tangled",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDI5MjAucG5n/315x250%23c/kke3so.png",
+    "title": "Tangled",
+    "video": null,
+    "scrapeWords": [
+      "Tangled"
+    ]
+  },
+  {
+    "author": "HintOfLime",
+    "description": "Too many bloody boxes!",
+    "genre": "Puzzle",
+    "id": "1081701",
+    "link": "https://hintoflime.itch.io/boxstrosity",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDIxNDMucG5n/315x250%23c/tqLDor.png",
+    "title": "BOXSTROSITY",
+    "video": null,
+    "scrapeWords": [
+      "BOXSTROSITY"
+    ]
+  },
+  {
+    "author": "sunshine_sower",
+    "description": "Relativistic speed-running platformer",
+    "genre": "Platformer",
+    "id": "1081789",
+    "link": "https://sunshine-sower.itch.io/cube-runner",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDIyODcucG5n/315x250%23c/0hE0eW.png",
+    "title": "Cube Runner",
+    "video": null,
+    "scrapeWords": [
+      "Cube",
+      "Runner"
+    ]
+  },
+  {
+    "author": "jsokol",
+    "description": "Two entangled electrons travel through space collecting energy while avoiding planets",
+    "genre": null,
+    "id": "1081855",
+    "link": "https://jsokol.itch.io/quanticles",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMDM5MzUuZ2lm/315x250%23cm/eHoGHD.gif",
+    "title": "Quanticles",
+    "video": "https://img.itch.zone/aW1nLzYyMDM5MzUuZ2lm/original/Cf4cs8.gif",
+    "scrapeWords": [
+      "Quanticles"
+    ]
+  },
+  {
+    "author": "lronaldo",
+    "description": "Jhoto, the JHoined TogetHer Interdimensional Magician",
+    "genre": "Puzzle",
+    "id": "1081988",
+    "link": "https://lronaldo.itch.io/jhoto",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDM5MDYucG5n/315x250%23c/jeCrRd.png",
+    "title": "JHOTO",
+    "video": null,
+    "scrapeWords": [
+      "JHOTO"
+    ]
+  },
+  {
+    "author": "program139",
+    "description": "Escape the factory with a pair of electromagnets as fast as possible.",
+    "genre": "Platformer",
+    "id": "1082093",
+    "link": "https://program139.itch.io/magnet-o",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMDM1ODUucG5n/315x250%23c/2jT8Gp.png",
+    "title": "Magnet-O",
+    "video": null,
+    "scrapeWords": [
+      "Magnet-O"
     ]
   },
   {
@@ -31593,7 +32166,7 @@
     ]
   },
   {
-    "author": "Bearcabin",
+    "author": "BEARCABIN",
     "description": "Atmospheric space station simulation",
     "genre": "Simulation",
     "id": "321312",
@@ -59181,7 +59754,7 @@
     "description": "A Glorious Trainwrecks anthro backpacking adventure",
     "genre": "Adventure",
     "id": "545713",
-    "link": "https://voec.itch.io/sexy-egress-backpacked-x-ray",
+    "link": "https://spiderzone.itch.io/sexy-egress-backpacked-x-ray",
     "platforms": [
       "Windows",
       "Linux",
@@ -97318,11 +97891,11 @@
     ]
   },
   {
-    "author": "Jay_Gameing",
+    "author": "floood",
     "description": "Darn cubes",
     "genre": null,
     "id": "739926",
-    "link": "https://jay-gameing.itch.io/stoopidcube",
+    "link": "https://floood.itch.io/stoopidcube",
     "platforms": [
       "Windows"
     ],
@@ -120043,7 +120616,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYxNzgxODAuanBn/315x250%23c/n6NlPj.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzYxOTQyMzQuanBn/315x250%23c/ljzAqC.jpg",
     "title": "Work Done (test levels)",
     "video": null,
     "scrapeWords": [
@@ -126154,15 +126727,14 @@
     "id": "913124",
     "link": "https://endlessness-studios.itch.io/endlessness",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU1NTk1MzcucG5n/315x250%23c/50TjGi.png",
-    "title": "Endlessness 0.1.40",
+    "title": "Endlessness [Alpha]",
     "video": null,
     "scrapeWords": [
       "Endlessness",
-      "0140"
+      "[Alpha]"
     ]
   },
   {
