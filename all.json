@@ -11870,8 +11870,7 @@
     "id": "1067805",
     "link": "https://rimaito.itch.io/akamai",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMjM2MzYucG5n/315x250%23c/h0rhZO.png",
     "title": "Akamai",
@@ -12213,14 +12212,14 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxNzExODgucG5n/315x250%23c/JAE2lC.png",
-    "title": "Return to Reality (ALPHA 1.1)",
+    "title": "Return to Reality (Read Description)",
     "video": null,
     "scrapeWords": [
       "Return",
       "to",
       "Reality",
-      "ALPHA",
-      "11"
+      "Read",
+      "Description"
     ]
   },
   {
@@ -13163,7 +13162,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYyNjcwMzgucG5n/315x250%23c/w3gAg%2B.png",
+    "thumb": "https://img.itch.zone/aW1nLzYyNzcxOTgucG5n/315x250%23c/56ABhw.png",
     "title": "Alarm Clock Meltdown",
     "video": null,
     "scrapeWords": [
@@ -13773,7 +13772,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYyNzE1MzkucG5n/315x250%23c/5YZ4tm.png",
+    "thumb": "https://img.itch.zone/aW1nLzYyNzI4MDEuanBn/315x250%23c/PN1rvg.jpg",
     "title": "Drone Swarm Commander",
     "video": null,
     "scrapeWords": [
@@ -14673,6 +14672,39 @@
     ]
   },
   {
+    "author": "rijandel",
+    "description": "Solve puzzles where you have to swipe hero to victory.",
+    "genre": "Puzzle",
+    "id": "1082590",
+    "link": "https://rijandel.itch.io/stack-the-party",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMTIwNTkucG5n/315x250%23c/R99bas.png",
+    "title": "Stack the Party",
+    "video": null,
+    "scrapeWords": [
+      "Stack",
+      "the",
+      "Party"
+    ]
+  },
+  {
+    "author": "Spyrex",
+    "description": "A game about keeping an orchestra together.",
+    "genre": null,
+    "id": "1082783",
+    "link": "https://spyrex.itch.io/conductor",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMTU5NDEucG5n/315x250%23c/IHqHif.png",
+    "title": "Conductor",
+    "video": null,
+    "scrapeWords": [
+      "Conductor"
+    ]
+  },
+  {
     "author": "NullThief",
     "description": "Use the power of your separated skull and torso to clear your graveyard!",
     "genre": "Action",
@@ -14692,7 +14724,7 @@
   {
     "author": "gabriele6",
     "description": "Use the link to destroy the asteroids and save your planet!",
-    "genre": null,
+    "genre": "Action",
     "id": "1082923",
     "link": "https://gabriele6.itch.io/nebulasteroids",
     "platforms": [
@@ -14700,7 +14732,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYyMDgyMTYucG5n/315x250%23c/eIy4Pl.png",
+    "thumb": "https://img.itch.zone/aW1nLzYyNzUyNzYucG5n/315x250%23c/hXzBsm.png",
     "title": "Nebulasteroids",
     "video": null,
     "scrapeWords": [
@@ -14775,7 +14807,7 @@
   },
   {
     "author": "arsith",
-    "description": "Work your way to the maze using your STACC",
+    "description": "Work your way out of the maze using the STACC",
     "genre": "Puzzle",
     "id": "1083063",
     "link": "https://arsith.itch.io/stacc",
@@ -14802,6 +14834,21 @@
     "scrapeWords": [
       "Manriki",
       "Mania"
+    ]
+  },
+  {
+    "author": "carpetgames",
+    "description": "Switch between two worlds and win the battle on both sides.",
+    "genre": "Adventure",
+    "id": "1083087",
+    "link": "https://carpetgames.itch.io/soul-bound",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMTg0ODYucG5n/315x250%23c/j8iBbQ.png",
+    "title": "Soul Bound",
+    "video": null,
+    "scrapeWords": [
+      "Soul",
+      "Bound"
     ]
   },
   {
@@ -14898,7 +14945,6 @@
     "link": "https://osmago.itch.io/companion-shackles",
     "platforms": [
       "Windows",
-      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYyMTA3NjEucG5n/315x250%23c/IGxM4G.png",
@@ -15089,6 +15135,22 @@
       "The",
       "Ferro",
       "Paradox"
+    ]
+  },
+  {
+    "author": "Ibrahim666",
+    "description": null,
+    "genre": null,
+    "id": "1084081",
+    "link": "https://ibrahim666.itch.io/red-and-blue",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMTQ0MTUucG5n/315x250%23c/sVm8G%2F.png",
+    "title": "Red and blue",
+    "video": null,
+    "scrapeWords": [
+      "Red",
+      "and",
+      "blue"
     ]
   },
   {
@@ -15547,7 +15609,7 @@
     "description": "Cerberus doesn't want to take his bath! Help him reach the fields of Elysium.",
     "genre": "Action",
     "id": "1084739",
-    "link": "https://phischermen.itch.io/escape-from-the-washbin",
+    "link": "https://phischermen.itch.io/escape-from-the-washbasin",
     "platforms": [
       "Windows"
     ],
@@ -48206,6 +48268,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -56143,7 +56223,8 @@
     "link": "https://leanderish.itch.io/steel",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMzODkxNDcucG5n/315x250%23c/bTvtRa.png",
     "title": "Operation STEEL",
@@ -81363,23 +81444,6 @@
     ]
   },
   {
-    "author": "Detective Software Devs",
-    "description": "Don't ask me what's going on here.",
-    "genre": "Strategy",
-    "id": "653000",
-    "link": "https://dsdevs.itch.io/dra",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM1MDUyNzcucG5n/315x250%23c/sllSCw.png",
-    "title": "Dogs, Rabbits, Aliens (Prototype)",
-    "video": null,
-    "scrapeWords": [
-      "Dogs",
-      "Rabbits",
-      "Aliens",
-      "Prototype"
-    ]
-  },
-  {
     "author": "skaiware",
     "description": "First person action-adventure video game",
     "genre": "Action",
@@ -105255,6 +105319,20 @@
     ]
   },
   {
+    "author": "Phischermen",
+    "description": "A brief hypnosis mini game",
+    "genre": null,
+    "id": "761720",
+    "link": "https://phischermen.itch.io/saku",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQyNzA4MTguZ2lm/315x250%23cm/PDbo2n.gif",
+    "title": "Saku",
+    "video": "https://img.itch.zone/aW1nLzQyNzA4MTguZ2lm/original/eTyjo%2B.gif",
+    "scrapeWords": [
+      "Saku"
+    ]
+  },
+  {
     "author": "Particle Arts Studios Ltd.",
     "description": "Space Melee Game",
     "genre": "Role Playing",
@@ -123722,20 +123800,6 @@
     ]
   },
   {
-    "author": "pixel_strengthTWITCH_YT",
-    "description": "DEMO V1.3.0",
-    "genre": "Platformer",
-    "id": "876402",
-    "link": "https://pixel-strengthtwitch-yt.itch.io/angela",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ5MzE2NjQucG5n/315x250%23c/BBegmx.png",
-    "title": "Angela",
-    "video": null,
-    "scrapeWords": [
-      "Angela"
-    ]
-  },
-  {
     "author": "Lerg-exe",
     "description": "You are the robot who was sent from the future to save humanity.  Isnpired by Karlson2D and katan zero(but not as good)",
     "genre": "Action",
@@ -126973,9 +127037,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUxMTk5MDQuZ2lm/315x250%23cm/I17BIh.gif",
+    "thumb": "https://img.itch.zone/aW1nLzYyNzk0OTgucG5n/315x250%23c/lSWRef.png",
     "title": "Joyspring",
-    "video": "https://img.itch.zone/aW1nLzUxMTk5MDQuZ2lm/original/VNAEji.gif",
+    "video": null,
     "scrapeWords": [
       "Joyspring"
     ]
@@ -131776,6 +131840,22 @@
     ]
   },
   {
+    "author": "Scrubbin",
+    "description": "Lost in space and the spacesuit's broken....",
+    "genre": "Action",
+    "id": "926914",
+    "link": "https://scrubbin.itch.io/get-gary-home",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUyNDI3NTUucG5n/315x250%23c/IZMOLB.png",
+    "title": "Get Gary Home",
+    "video": null,
+    "scrapeWords": [
+      "Get",
+      "Gary",
+      "Home"
+    ]
+  },
+  {
     "author": "l1ch1v1l",
     "description": "GAME FOR JAM",
     "genre": "Puzzle",
@@ -135401,21 +135481,6 @@
       "Together",
       "is",
       "better"
-    ]
-  },
-  {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -139102,9 +139167,7 @@
     "genre": "Puzzle",
     "id": "967613",
     "link": "https://fartfish.itch.io/fist-bump",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU0OTE2OTAucG5n/315x250%23c/AYJz8C.png",
     "title": "Fist Bump",
     "video": null,
