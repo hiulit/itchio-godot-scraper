@@ -1361,9 +1361,7 @@
     "genre": "Action",
     "id": "1007761",
     "link": "https://achegames.itch.io/bubbles-born-different",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU3NDA1NTIuanBn/315x250%23c/ddSBit.jpg",
     "title": "Bubbles Born Different",
     "video": null,
@@ -6442,7 +6440,9 @@
     "genre": "Action",
     "id": "1036326",
     "link": "https://nekuromu.itch.io/ods-invasion",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYxMjQxMDYucG5n/315x250%23c/cU4isR.png",
     "title": "Orbital Deterrent Squadron! Invasion!",
     "video": null,
@@ -11257,22 +11257,6 @@
     ]
   },
   {
-    "author": "Megameca04",
-    "description": "Healing with plants",
-    "genre": null,
-    "id": "1065117",
-    "link": "https://megameca04.itch.io/natura",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYwOTg0MzAucG5n/315x250%23c/cKWSVE.png",
-    "title": "Natura",
-    "video": null,
-    "scrapeWords": [
-      "Natura"
-    ]
-  },
-  {
     "author": "PinguStoleMyUsername",
     "description": "Grow plants, grow your garden.",
     "genre": "Educational",
@@ -11334,7 +11318,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYxMDAwODgucG5n/315x250%23c/1454nn.png",
+    "thumb": "https://img.itch.zone/aW1nLzYyOTU5MzMucG5n/315x250%23c/SarscZ.png",
     "title": "Hairy Situation!!!",
     "video": null,
     "scrapeWords": [
@@ -11703,6 +11687,21 @@
     ]
   },
   {
+    "author": "Thomas Mazzaferro",
+    "description": "Turn-Based Battles",
+    "genre": "Role Playing",
+    "id": "1066113",
+    "link": "https://thomasmazzaferro.itch.io/bookandblade",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyOTU3NTAucG5n/315x250%23c/OEogec.png",
+    "title": "Book & Blade",
+    "video": null,
+    "scrapeWords": [
+      "Book",
+      "Blade"
+    ]
+  },
+  {
     "author": "StraightUpGruntled",
     "description": "Traverse down a direlect ship to repair the engine",
     "genre": "Platformer",
@@ -11827,23 +11826,6 @@
       "Steal",
       "The",
       "Cookies"
-    ]
-  },
-  {
-    "author": "skiythe",
-    "description": "Scrutiny | A Game That Exists",
-    "genre": "Role Playing",
-    "id": "1067160",
-    "link": "https://skiythe.itch.io/scrutiny",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYxMjAwODYucG5n/315x250%23c/8WVQpT.png",
-    "title": "Scrutiny",
-    "video": null,
-    "scrapeWords": [
-      "Scrutiny"
     ]
   },
   {
@@ -12529,6 +12511,25 @@
     "video": null,
     "scrapeWords": [
       "Vänner"
+    ]
+  },
+  {
+    "author": "Hammak",
+    "description": "Buy materials, craft items from them, craft items from crafted items. Then sell it, gain profit and buy more materials!",
+    "genre": "Strategy",
+    "id": "1072733",
+    "link": "https://hammak.itch.io/produce-the-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxNDg5MzQucG5n/315x250%23c/SaAK6B.png",
+    "title": "Produce, The Game",
+    "video": null,
+    "scrapeWords": [
+      "Produce",
+      "The",
+      "Game"
     ]
   },
   {
@@ -13241,6 +13242,25 @@
       "Alarm",
       "Clock",
       "Meltdown"
+    ]
+  },
+  {
+    "author": "HITMAN CAT GAMES",
+    "description": "Perdidos en el espacio y con nuestra nave averiada... solo queremos volver a casa",
+    "genre": "Racing",
+    "id": "1079439",
+    "link": "https://hitman-cat-games.itch.io/long-road-to-home",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxOTExMDEucG5n/315x250%23c/YiQIF0.png",
+    "title": "Long Road to Home",
+    "video": null,
+    "scrapeWords": [
+      "Long",
+      "Road",
+      "to",
+      "Home"
     ]
   },
   {
@@ -16680,6 +16700,24 @@
     ]
   },
   {
+    "author": "HITMAN CAT GAMES",
+    "description": "Tres princesas compiten para conseguir la mano del príncipe sapo",
+    "genre": null,
+    "id": "1090089",
+    "link": "https://hitman-cat-games.itch.io/a-frog-for-the-queendome",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyNzQ2MzIucG5n/315x250%23c/2zrPuc.png",
+    "title": "A Frog for the Queendome",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Frog",
+      "for",
+      "the",
+      "Queendome"
+    ]
+  },
+  {
     "author": "flaffal",
     "description": "Short, comedic, challenging little game about a mischievous fairy",
     "genre": "Action",
@@ -16812,6 +16850,25 @@
     ]
   },
   {
+    "author": "sininenblue",
+    "description": "Murder mutated monsters for meals",
+    "genre": "Action",
+    "id": "1092219",
+    "link": "https://sininenblue.itch.io/mutated-meals",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyOTA4NTcucG5n/315x250%23c/Kv3ED8.png",
+    "title": "Mutated Meals",
+    "video": null,
+    "scrapeWords": [
+      "Mutated",
+      "Meals"
+    ]
+  },
+  {
     "author": "heybechill",
     "description": "Fill in the space with blocks!",
     "genre": "Puzzle",
@@ -16823,6 +16880,25 @@
     "video": null,
     "scrapeWords": [
       "Blockulus"
+    ]
+  },
+  {
+    "author": "SOMEwaterSHOULDhelp",
+    "description": "A quick experience. Nothing special.",
+    "genre": "Shooter",
+    "id": "1093025",
+    "link": "https://somewatershouldhelp.itch.io/crowd-control",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyOTY1NzAucG5n/315x250%23c/Orjr04.png",
+    "title": "Crowd Control",
+    "video": null,
+    "scrapeWords": [
+      "Crowd",
+      "Control"
     ]
   },
   {
@@ -50074,11 +50150,11 @@
     ]
   },
   {
-    "author": "Zeversoft",
+    "author": "Zever Games",
     "description": "Switch cookies, solve puzzles!",
     "genre": "Puzzle",
     "id": "450125",
-    "link": "https://zeversoft.itch.io/cookie-switch",
+    "link": "https://zevergames.itch.io/cookie-switch",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzIyNzg0NDgucG5n/315x250%23c/BwsOcJ.png",
     "title": "Cookie Switch",
@@ -90481,23 +90557,6 @@
     ]
   },
   {
-    "author": "6E23",
-    "description": "Control the crowd. Stop the pandemic. Don't explode.",
-    "genre": "Action",
-    "id": "696430",
-    "link": "https://6e23.itch.io/crowd-control",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM4Mzc2MzgucG5n/315x250%23c/XV9c%2Bn.png",
-    "title": "Crowd Control",
-    "video": null,
-    "scrapeWords": [
-      "Crowd",
-      "Control"
-    ]
-  },
-  {
     "author": "einnjo",
     "description": "Rescue the astronaut, made for GMTK Game Jam 2020",
     "genre": "Survival",
@@ -97028,7 +97087,7 @@
     "description": "Explore a mysterious world and fight dangerous robots, demons, beasts and more to bring back treasure for your guild!",
     "genre": "Adventure",
     "id": "727169",
-    "link": "https://lospec.itch.io/heroes-guild-help-wanted",
+    "link": "https://lozpekistan-game-studio.itch.io/heroes-guild-help-wanted",
     "platforms": [
       "Windows",
       "Linux",
@@ -100613,6 +100672,22 @@
     ]
   },
   {
+    "author": "ProgramZan",
+    "description": "I am not finished, BUT it's funny to make a speedrun!",
+    "genre": "Action",
+    "id": "738245",
+    "link": "https://programzan.itch.io/be-a-friend",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzQxMTAyMTMucG5n/315x250%23c/xAN2sU.png",
+    "title": "Be a Friend",
+    "video": null,
+    "scrapeWords": [
+      "Be",
+      "a",
+      "Friend"
+    ]
+  },
+  {
     "author": "Jordgubben",
     "description": "Meet your new in-laws for the first time.",
     "genre": "Interactive Fiction",
@@ -101757,7 +101832,7 @@
   },
   {
     "author": "PhyzBot",
-    "description": "lawd he hikin'",
+    "description": "a Unique puzzle game with a slimy twist!",
     "genre": "Puzzle",
     "id": "742124",
     "link": "https://phyzbot.itch.io/sluggy-jean",
@@ -108257,6 +108332,24 @@
       "Way",
       "to",
       "Die"
+    ]
+  },
+  {
+    "author": "Golden Wreath Games",
+    "description": "A competitive horde mode where 2 players try to outlive the other",
+    "genre": "Action",
+    "id": "774850",
+    "link": "https://krazykain.itch.io/returntosender",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUxNzgxMDkuanBn/315x250%23c/ECjXds.jpg",
+    "title": "Return To Sender",
+    "video": null,
+    "scrapeWords": [
+      "Return",
+      "To",
+      "Sender"
     ]
   },
   {
@@ -118305,6 +118398,25 @@
     ]
   },
   {
+    "author": "Deranged Turtle Games",
+    "description": "Freshly steamed with a side of butter sauce.",
+    "genre": null,
+    "id": "837535",
+    "link": "https://derangedturtlegames.itch.io/mad-crab-grab",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNjczNTYucG5n/315x250%23c/%2FJnZMo.png",
+    "title": "Mad Crab Grab",
+    "video": null,
+    "scrapeWords": [
+      "Mad",
+      "Crab",
+      "Grab"
+    ]
+  },
+  {
     "author": "MartimDev",
     "description": "Typing game where you beat other Search Engines at racing.",
     "genre": "Racing",
@@ -126143,16 +126255,14 @@
     "description": "A rhythm-based fighting game.",
     "genre": "Fighting",
     "id": "887445",
-    "link": "https://solreaper.itch.io/rb-1",
+    "link": "https://solreaper.itch.io/rb",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYxMTM0MTEucG5n/315x250%23c/Kb5ObJ.png",
-    "title": "Rythm Brawl : The Prologue",
+    "thumb": "https://img.itch.zone/aW1nLzYyOTAwNzQucG5n/315x250%23c/ar%2F0%2BO.png",
+    "title": "Rythm Brawl",
     "video": null,
     "scrapeWords": [
       "Rythm",
-      "Brawl",
-      "The",
-      "Prologue"
+      "Brawl"
     ]
   },
   {
@@ -127334,12 +127444,14 @@
   },
   {
     "author": "spiderdash",
-    "description": "Puzzle game about dashing between 2D obstacles.",
+    "description": "Precision based puzzle game about dashing in the world of polygons.",
     "genre": "Puzzle",
     "id": "896896",
     "link": "https://spiderdash.itch.io/long-tail",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUxODk0MDcucG5n/315x250%23c/Verxi6.png",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyOTc3NDYucG5n/315x250%23c/p5jDDo.png",
     "title": "Long Tail",
     "video": null,
     "scrapeWords": [
@@ -130288,6 +130400,24 @@
     ]
   },
   {
+    "author": "EndlessnessStudios",
+    "description": ".io style Zombie survival shooter!",
+    "genre": "Survival",
+    "id": "913124",
+    "link": "https://endlessness-studios.itch.io/endlessness",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1NTk1MzcucG5n/315x250%23c/50TjGi.png",
+    "title": "Endlessness Alpha 0.1.50.1",
+    "video": null,
+    "scrapeWords": [
+      "Endlessness",
+      "Alpha",
+      "01501"
+    ]
+  },
+  {
     "author": "EvasiveAce",
     "description": "A game (jam) around some birds.",
     "genre": "Action",
@@ -130982,7 +131112,9 @@
     "genre": "Platformer",
     "id": "919418",
     "link": "https://realcyguy.itch.io/sliding-game",
-    "platforms": null,
+    "platforms": [
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUxOTk1NTEucG5n/315x250%23c/4%2FsSRo.png",
     "title": "Sliding Game",
     "video": null,
@@ -135899,6 +136031,24 @@
       "a",
       "memory",
       "game"
+    ]
+  },
+  {
+    "author": "Deranged Turtle Games",
+    "description": "In a post-apocolyptic world... all you can do is tri.",
+    "genre": "Puzzle",
+    "id": "946897",
+    "link": "https://derangedturtlegames.itch.io/trihard",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MDExOTMucG5n/315x250%23c/A9p1Um.png",
+    "title": "TriHard",
+    "video": null,
+    "scrapeWords": [
+      "Tri",
+      "Hard"
     ]
   },
   {
@@ -143349,6 +143499,25 @@
       "Inu",
       "Bubu",
       "Adventure"
+    ]
+  },
+  {
+    "author": "Kenneth Dodrill",
+    "description": "jake stepped out of his RV to once again meet with his brother",
+    "genre": "Adventure",
+    "id": "998415",
+    "link": "https://stormkmd.itch.io/my-brother-lives-in-a-canyon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYwMDI5NjMucG5n/315x250%23c/gyhmlB.png",
+    "title": "my brother lives in a canyon",
+    "video": null,
+    "scrapeWords": [
+      "my",
+      "brother",
+      "lives",
+      "in",
+      "a",
+      "canyon"
     ]
   },
   {
