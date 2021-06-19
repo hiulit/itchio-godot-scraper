@@ -5842,7 +5842,8 @@
     "id": "1028328",
     "link": "https://bananamanhatguy.itch.io/bananaguy",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYyNDcyNjguanBn/315x250%23c/GVx1AU.jpg",
     "title": "Bananaguy",
@@ -6138,6 +6139,24 @@
       "Invader",
       "2k21",
       "Playtest2"
+    ]
+  },
+  {
+    "author": "DevLive",
+    "description": "If you are a big fan of arcade shooting game with the new modern combat",
+    "genre": "Shooter",
+    "id": "1032941",
+    "link": "https://devlive.itch.io/big-bang",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU5Mjc4OTYucG5n/315x250%23c/4VTse4.png",
+    "title": "Big Bang",
+    "video": null,
+    "scrapeWords": [
+      "Big",
+      "Bang"
     ]
   },
   {
@@ -11184,7 +11203,7 @@
     "description": "You are trapped and your friends are dropping crates to create a stack for your escape.",
     "genre": "Action",
     "id": "1064967",
-    "link": "https://demilunestudios.itch.io/stack-and-escape",
+    "link": "https://demilunegames.itch.io/stack-and-escape",
     "platforms": [
       "Windows",
       "Linux",
@@ -11254,6 +11273,22 @@
       "A",
       "Growing",
       "Disaster"
+    ]
+  },
+  {
+    "author": "Megameca04",
+    "description": "Healing with plants",
+    "genre": null,
+    "id": "1065117",
+    "link": "https://megameca04.itch.io/natura",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwOTg0MzAucG5n/315x250%23c/cKWSVE.png",
+    "title": "Natura",
+    "video": null,
+    "scrapeWords": [
+      "Natura"
     ]
   },
   {
@@ -11591,9 +11626,9 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYxMDIxNjAuanBn/315x250%23c/6eKtRt.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzYzMDUwMjYuZ2lm/315x250%23cm/LGrDQs.gif",
     "title": "Let's Grow",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzYzMDUwMjYuZ2lm/original/FX6IVI.gif",
     "scrapeWords": [
       "Lets",
       "Grow"
@@ -12048,11 +12083,13 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMjU3NTMucG5n/315x250%23c/l%2BYkM6.png",
-    "title": "Barking Irons",
+    "title": "BARKING IRONS (Jam version)",
     "video": null,
     "scrapeWords": [
-      "Barking",
-      "Irons"
+      "BARKING",
+      "IRONS",
+      "Jam",
+      "version"
     ]
   },
   {
@@ -12343,6 +12380,24 @@
     "scrapeWords": [
       "Lost",
       "Gladiator"
+    ]
+  },
+  {
+    "author": "Reineke",
+    "description": "A game about collecting eggs!",
+    "genre": "Puzzle",
+    "id": "1071307",
+    "link": "https://reineke.itch.io/ovocaper",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyNzI0NTEucG5n/315x250%23c/4Rqa0Z.png",
+    "title": "OVOCAPER",
+    "video": null,
+    "scrapeWords": [
+      "OVOCAPER"
     ]
   },
   {
@@ -14764,6 +14819,23 @@
     ]
   },
   {
+    "author": "yumaikas",
+    "description": "Weave through robots on a quest for a stranger",
+    "genre": "Action",
+    "id": "1082537",
+    "link": "https://yumaikas.itch.io/wisp",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDYxNjMuZ2lm/315x250%23cm/V3B2kw.gif",
+    "title": "WISP",
+    "video": "https://img.itch.zone/aW1nLzYyMDYxNjMuZ2lm/original/xe%2F89f.gif",
+    "scrapeWords": [
+      "WISP"
+    ]
+  },
+  {
     "author": "rijandel",
     "description": "Solve puzzles where you have to swipe hero to victory.",
     "genre": "Puzzle",
@@ -16020,24 +16092,6 @@
     ]
   },
   {
-    "author": "bietlxn",
-    "description": "A short game. It's not even a game! i didn't have time to finish it.",
-    "genre": "Puzzle",
-    "id": "1085451",
-    "link": "https://bietlxn.itch.io/dim-hop",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYyMTk5NzkucG5n/315x250%23c/Vot99S.png",
-    "title": "Dim Hop",
-    "video": null,
-    "scrapeWords": [
-      "Dim",
-      "Hop"
-    ]
-  },
-  {
     "author": "Matteo Vera",
     "description": "Escape hell by competing in a rap battle",
     "genre": "Rhythm",
@@ -16265,7 +16319,7 @@
   },
   {
     "author": "THE0R",
-    "description": null,
+    "description": "Small mining game with simple but addictive mechanics!",
     "genre": null,
     "id": "1086387",
     "link": "https://theogen.itch.io/deep-and-sound",
@@ -16417,6 +16471,26 @@
       "of",
       "the",
       "Mind"
+    ]
+  },
+  {
+    "author": "nfitzen",
+    "description": "Combine rats to form a Rat King",
+    "genre": "Adventure",
+    "id": "1087040",
+    "link": "https://nfitzen.itch.io/the-rat-king",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": null,
+    "title": "The Rat King",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Rat",
+      "King"
     ]
   },
   {
@@ -16718,6 +16792,24 @@
     ]
   },
   {
+    "author": "Priory Games",
+    "description": "Become a Medieval Jouster as you compete across Europe in order to be crowned the Grand Champion.",
+    "genre": "Simulation",
+    "id": "1090964",
+    "link": "https://priory-games.itch.io/gallantry",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyODE1MzkucG5n/315x250%23c/NtcnFo.png",
+    "title": "Gallantry",
+    "video": null,
+    "scrapeWords": [
+      "Gallantry"
+    ]
+  },
+  {
     "author": "flaffal",
     "description": "Short, comedic, challenging little game about a mischievous fairy",
     "genre": "Action",
@@ -16850,6 +16942,21 @@
     ]
   },
   {
+    "author": "Goreh",
+    "description": "EARTH DEFEND",
+    "genre": "Action",
+    "id": "1092039",
+    "link": "https://goreh.itch.io/defend",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyOTkzOTUucG5n/315x250%23c/BIQgyd.png",
+    "title": "Earth Defend",
+    "video": null,
+    "scrapeWords": [
+      "Earth",
+      "Defend"
+    ]
+  },
+  {
     "author": "sininenblue",
     "description": "Murder mutated monsters for meals",
     "genre": "Action",
@@ -16902,6 +17009,26 @@
     ]
   },
   {
+    "author": "ThEnigmArtist",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "1093766",
+    "link": "https://blackboxceo.itch.io/arena-tm-rpg-rpg-mini-game-archery",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzMDE2ODYucG5n/315x250%23c/BcvScG.png",
+    "title": "Arena TM RPG + Rpg mini game (Archery)",
+    "video": null,
+    "scrapeWords": [
+      "Arena",
+      "TM",
+      "RPG",
+      "Rpg",
+      "mini",
+      "game",
+      "Archery"
+    ]
+  },
+  {
     "author": "Shawy Adventures",
     "description": "Retro Action Platformer",
     "genre": "Platformer",
@@ -16918,6 +17045,59 @@
     "scrapeWords": [
       "Shawy",
       "Adventures"
+    ]
+  },
+  {
+    "author": "jhonnystene",
+    "description": "BALD STEVEN. BOTTOM TEXT.",
+    "genre": "Platformer",
+    "id": "1094104",
+    "link": "https://jhonnystene.itch.io/super-stevio-66",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzMDQwMDMucG5n/315x250%23c/xfoiG8.png",
+    "title": "Super Stevio 66",
+    "video": null,
+    "scrapeWords": [
+      "Super",
+      "Stevio",
+      "66"
+    ]
+  },
+  {
+    "author": "humboldt123",
+    "description": "A short game about a ghost who has to piece together a heart.",
+    "genre": "Platformer",
+    "id": "1094227",
+    "link": "https://humboldt123.itch.io/cosmic-spirit",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzMDQ5MDEucG5n/315x250%23c/NcqyeQ.png",
+    "title": "Cosmic Spirit",
+    "video": null,
+    "scrapeWords": [
+      "Cosmic",
+      "Spirit"
+    ]
+  },
+  {
+    "author": "HyphenPixel",
+    "description": "The early EARLY alpha of a game I'm going to be working on",
+    "genre": "Survival",
+    "id": "1094238",
+    "link": "https://http-r-hyphenpixel.itch.io/islands-alpha",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzMDQ5OTcucG5n/315x250%23c/PifFvB.png",
+    "title": "Islands_Alpha_0.0.1",
+    "video": null,
+    "scrapeWords": [
+      "Islands_Alpha_001"
     ]
   },
   {
@@ -46569,23 +46749,6 @@
     ]
   },
   {
-    "author": "AlexHoratio",
-    "description": null,
-    "genre": null,
-    "id": "419112",
-    "link": "https://alexhoratio.itch.io/mlem",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIwODY4OTQucG5n/315x250%23c/Mpkcrm.png",
-    "title": "Mlem",
-    "video": null,
-    "scrapeWords": [
-      "Mlem"
-    ]
-  },
-  {
     "author": "Michael Macha",
     "description": "Groundhog. Out of hole. Like, now.",
     "genre": "Action",
@@ -74597,6 +74760,22 @@
     ]
   },
   {
+    "author": "Xavier Jorge",
+    "description": "No more bingo for ya",
+    "genre": null,
+    "id": "616019",
+    "link": "https://ditou.itch.io/stay-home-gramps",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzMyNzcwNTYucG5n/315x250%23c/cLRmkM.png",
+    "title": "Stay home Gramps",
+    "video": null,
+    "scrapeWords": [
+      "Stay",
+      "home",
+      "Gramps"
+    ]
+  },
+  {
     "author": "Nutr1z",
     "description": null,
     "genre": "Strategy",
@@ -78642,6 +78821,23 @@
       "The",
       "Hunted",
       "Woods"
+    ]
+  },
+  {
+    "author": "Studio CloudScape",
+    "description": "Mini-books within mini-books.",
+    "genre": "Puzzle",
+    "id": "634991",
+    "link": "https://cloudscapegt.itch.io/pathway",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzMDQyMjQuanBn/315x250%23c/kmbbMW.jpg",
+    "title": "Pathway",
+    "video": null,
+    "scrapeWords": [
+      "Pathway"
     ]
   },
   {
@@ -104375,6 +104571,21 @@
       "Is",
       "My",
       "Human"
+    ]
+  },
+  {
+    "author": "Xendra",
+    "description": "A brutally deep roguelite monster collector. Force bosses to join your team, and steal their skills!",
+    "genre": "Strategy",
+    "id": "753973",
+    "link": "https://xendra.itch.io/malice-and-greed",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzMDgyOTQucG5n/315x250%23c/uuJ4f2.png",
+    "title": "Malice & Greed DEMO",
+    "video": null,
+    "scrapeWords": [
+      "Malice",
+      "Greed"
     ]
   },
   {
