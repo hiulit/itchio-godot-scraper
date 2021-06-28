@@ -59,8 +59,7 @@
     "id": "1000342",
     "link": "https://ericthedrifter.itch.io/drifter-dynasty",
     "platforms": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU5NDM0MTcucG5n/315x250%23c/g3vlVq.png",
     "title": "Drifter Dynasty",
@@ -4632,11 +4631,11 @@
     ]
   },
   {
-    "author": "PrymeEvil",
+    "author": "Psychrono Games",
     "description": "Beat everyone else's runs in this short speedrunning game!",
     "genre": "Platformer",
     "id": "1020158",
-    "link": "https://prymeevil.itch.io/beat-run",
+    "link": "https://psychrono-games.itch.io/beat-run",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU4MTQ2MjUuanBn/315x250%23c/fdDrKq.jpg",
     "title": "Beat Run!",
@@ -13660,7 +13659,11 @@
     "genre": "Puzzle",
     "id": "1080117",
     "link": "https://threee-partners.itch.io/ndo",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYyNTU2NzMucG5n/315x250%23c/2csoO%2F.png",
     "title": "Endocytosis",
     "video": null,
@@ -18203,6 +18206,23 @@
     ]
   },
   {
+    "author": "redencya",
+    "description": "One input precision platformer about control schemes",
+    "genre": "Platformer",
+    "id": "1097722",
+    "link": "https://redencya.itch.io/spaced-out",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzE0NzIucG5n/315x250%23c/gENKMi.png",
+    "title": "Aroki & Wasda: Spaced Out!",
+    "video": null,
+    "scrapeWords": [
+      "Aroki",
+      "Wasda",
+      "Spaced",
+      "Out"
+    ]
+  },
+  {
     "author": "EscapeNumber001",
     "description": "Action-packed sorting game!",
     "genre": "Action",
@@ -18238,7 +18258,7 @@
   },
   {
     "author": "OreoThePony",
-    "description": "Morse code RPG!",
+    "description": "Morse code JRPG!",
     "genre": "Role Playing",
     "id": "1098144",
     "link": "https://oreothepony.itch.io/morse",
@@ -18263,6 +18283,21 @@
     "scrapeWords": [
       "Ghost",
       "Maker"
+    ]
+  },
+  {
+    "author": "Haydoggo",
+    "description": null,
+    "genre": "Action",
+    "id": "1099503",
+    "link": "https://haydoggo.itch.io/onebutton",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzI1MjYucG5n/315x250%23c/frDI79.png",
+    "title": "Defence Console",
+    "video": null,
+    "scrapeWords": [
+      "Defence",
+      "Console"
     ]
   },
   {
@@ -18391,7 +18426,7 @@
   },
   {
     "author": "henridarko",
-    "description": "An western procedural generated bullet hell.",
+    "description": "An western bullet hell.",
     "genre": "Action",
     "id": "1100571",
     "link": "https://henridarko.itch.io/chaos-in-the-saloon",
@@ -18482,6 +18517,36 @@
     ]
   },
   {
+    "author": "Pitxardo",
+    "description": "Drill and destroy blocks to infinity in this mix of arcade and puzzle",
+    "genre": "Puzzle",
+    "id": "1102194",
+    "link": "https://pitxardo.itch.io/manic-driller",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNTgxNzgucG5n/315x250%23c/mW%2F4Z2.png",
+    "title": "Manic Driller",
+    "video": null,
+    "scrapeWords": [
+      "Manic",
+      "Driller"
+    ]
+  },
+  {
+    "author": "Exuin",
+    "description": "Mini Jam 83: Dread!",
+    "genre": "Action",
+    "id": "1102723",
+    "link": "https://emily2.itch.io/monster-jumble",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzgyMzYucG5n/315x250%23c/wrP6s3.png",
+    "title": "Monster Jumble",
+    "video": null,
+    "scrapeWords": [
+      "Monster",
+      "Jumble"
+    ]
+  },
+  {
     "author": "supersleeper",
     "description": "A quick, relaxing, and easy-to-consume 1-button game involving teleportation.",
     "genre": null,
@@ -18550,12 +18615,31 @@
     ]
   },
   {
+    "author": "sonatsuer",
+    "description": "Adventures of Mr. Havuch, a superhero who is also a carrot.",
+    "genre": "Platformer",
+    "id": "1103408",
+    "link": "https://sonatsuer.itch.io/mr-havuch",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzEzODMucG5n/315x250%23c/kOVH6n.png",
+    "title": "Mr. Havuch",
+    "video": null,
+    "scrapeWords": [
+      "Mr",
+      "Havuch"
+    ]
+  },
+  {
     "author": "sairam4123",
     "description": "OpenSkyCity is a city builder and a economy simulator",
     "genre": "Simulation",
     "id": "1103427",
     "link": "https://sairam4123.itch.io/openskycity",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYzNjU4NTQuanBn/315x250%23c/rlz4XX.jpg",
     "title": "OpenSkyCity",
     "video": null,
@@ -18617,6 +18701,37 @@
     ]
   },
   {
+    "author": "Linces",
+    "description": "One Button - No control of your own direction",
+    "genre": "Puzzle",
+    "id": "1104134",
+    "link": "https://linces.itch.io/no-certain-direction",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzY4MzYucG5n/315x250%23c/ND%2BQ9p.png",
+    "title": "No Certain Direction",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Certain",
+      "Direction"
+    ]
+  },
+  {
+    "author": "Vopaman",
+    "description": "Clone of flappy bird",
+    "genre": null,
+    "id": "1104259",
+    "link": "https://vopaman.itch.io/flappy-lantern",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzA5OTkucG5n/315x250%23c/SAEzSy.png",
+    "title": "Flappy lantern",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "lantern"
+    ]
+  },
+  {
     "author": "s2007131",
     "description": "My attempt at replicating source engine movement.",
     "genre": "Action",
@@ -18632,6 +18747,193 @@
       "surf",
       "in",
       "godot"
+    ]
+  },
+  {
+    "author": "LilaLump",
+    "description": "Ein gerechtes Urteil. Es lebe die Partei!",
+    "genre": null,
+    "id": "1104332",
+    "link": "https://lilalump.itch.io/keine-zeit-fuer-gerechtigkeit",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzM4MzkucG5n/315x250%23c/2pmreX.png",
+    "title": "Keine Zeit für Gerechtigkeit",
+    "video": null,
+    "scrapeWords": [
+      "Keine",
+      "Zeit",
+      "für",
+      "Gerechtigkeit"
+    ]
+  },
+  {
+    "author": "oathmilks",
+    "description": "TRPG about fighting enemies. You must conquer or reach the designated destination.",
+    "genre": "Role Playing",
+    "id": "1104505",
+    "link": "https://oathmilks.itch.io/war-in-the-sky",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzI3NzQuZ2lm/315x250%23cm/C%2BBTCL.gif",
+    "title": "War in the Sky",
+    "video": "https://img.itch.zone/aW1nLzYzNzI3NzQuZ2lm/original/ZZdt0f.gif",
+    "scrapeWords": [
+      "War",
+      "in",
+      "the",
+      "Sky"
+    ]
+  },
+  {
+    "author": "Mr_Twan",
+    "description": "Jumpy Boi is a simple, flappy bird inspired game.",
+    "genre": "Puzzle",
+    "id": "1104508",
+    "link": "https://mr-twan.itch.io/jumpy-boi",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzNzI1NjQucG5n/315x250%23c/jZougW.png",
+    "title": "Jumpy Boi",
+    "video": null,
+    "scrapeWords": [
+      "Jumpy",
+      "Boi"
+    ]
+  },
+  {
+    "author": "Epiphron",
+    "description": "Pickup all the rainbow-colored pyramids !",
+    "genre": "Puzzle",
+    "id": "1104759",
+    "link": "https://epiphron.itch.io/colorquest",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzM5NTMucG5n/315x250%23c/ffqPhe.png",
+    "title": "ColorQuest",
+    "video": null,
+    "scrapeWords": [
+      "Color",
+      "Quest"
+    ]
+  },
+  {
+    "author": "Firminou",
+    "description": "A top down roguelike where three dices decide your skills",
+    "genre": "Shooter",
+    "id": "1104968",
+    "link": "https://firminou.itch.io/fear-coefficient",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzU2MzgucG5n/315x250%23c/Zi8D8i.png",
+    "title": "Fear Coefficient",
+    "video": null,
+    "scrapeWords": [
+      "Fear",
+      "Coefficient"
+    ]
+  },
+  {
+    "author": "gernknod",
+    "description": "fast-paced platformer",
+    "genre": "Platformer",
+    "id": "1105011",
+    "link": "https://gernknod.itch.io/elemental-dice-magician",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzU4OTIucG5n/315x250%23c/9zCsB%2F.png",
+    "title": "Elemental Dice Magician",
+    "video": null,
+    "scrapeWords": [
+      "Elemental",
+      "Dice",
+      "Magician"
+    ]
+  },
+  {
+    "author": "Future Games",
+    "description": "Demolish crates >:^)",
+    "genre": "Action",
+    "id": "1105131",
+    "link": "https://future-games.itch.io/crate-chaos",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzNzY0NTQucG5n/315x250%23c/L5jtpf.png",
+    "title": "Crate Chaos",
+    "video": null,
+    "scrapeWords": [
+      "Crate",
+      "Chaos"
+    ]
+  },
+  {
+    "author": "Not Jam",
+    "description": "Drag and drop dice to any stat or action, then watch as the action unfolds!",
+    "genre": "Survival",
+    "id": "1105385",
+    "link": "https://not-jam.itch.io/drag-and-dread",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzgxNDMucG5n/315x250%23c/Iq0IgO.png",
+    "title": "Drag and Dread",
+    "video": null,
+    "scrapeWords": [
+      "Drag",
+      "and",
+      "Dread"
+    ]
+  },
+  {
+    "author": "zac_huber",
+    "description": null,
+    "genre": "Action",
+    "id": "1105426",
+    "link": "https://zac-huber.itch.io/dagger-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzNzg0MzYucG5n/315x250%23c/h4zhXx.png",
+    "title": "Dagger Game",
+    "video": null,
+    "scrapeWords": [
+      "Dagger",
+      "Game"
+    ]
+  },
+  {
+    "author": "MF Project",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1105558",
+    "link": "https://mfproject.itch.io/tdsotm",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzNzkyOTIucG5n/315x250%23c/rG9dUZ.png",
+    "title": "The Dark Side of the Moon",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Dark",
+      "Side",
+      "of",
+      "the",
+      "Moon"
+    ]
+  },
+  {
+    "author": "UncleAndNephew",
+    "description": "Focus required - get your head out of the clouds!",
+    "genre": null,
+    "id": "1105590",
+    "link": "https://uncleandnephew.itch.io/rainbow-run",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNzk1NDAucG5n/315x250%23c/YNTCJw.png",
+    "title": "Rainbow Run",
+    "video": null,
+    "scrapeWords": [
+      "Rainbow",
+      "Run"
     ]
   },
   {
@@ -47114,21 +47416,6 @@
     ]
   },
   {
-    "author": "Engram Interactive",
-    "description": "Cyberpunk JRPG",
-    "genre": "Role Playing",
-    "id": "411558",
-    "link": "https://engraminteractive.itch.io/fractured-core",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMwOTEyMzcucG5n/315x250%23c/DESYVb.png",
-    "title": "Fractured Core",
-    "video": null,
-    "scrapeWords": [
-      "Fractured",
-      "Core"
-    ]
-  },
-  {
     "author": "Tarkis",
     "description": "2D Platformer by Jerome M. St.Martin",
     "genre": "Platformer",
@@ -54927,20 +55214,6 @@
       "they",
       "hate",
       "me"
-    ]
-  },
-  {
-    "author": "pintman",
-    "description": "Simpe asteroids clone",
-    "genre": "Action",
-    "id": "468710",
-    "link": "https://pintman.itch.io/asteroids",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzOTU0MDcucG5n/315x250%23c/CUwGI7.png",
-    "title": "Asteroids",
-    "video": null,
-    "scrapeWords": [
-      "Asteroids"
     ]
   },
   {
@@ -81374,7 +81647,7 @@
     ]
   },
   {
-    "author": "simonknowsstuff",
+    "author": "Simon",
     "description": "PHYSICA - Physics Simulator",
     "genre": "Simulation",
     "id": "641657",
@@ -81672,6 +81945,24 @@
     "scrapeWords": [
       "Gone",
       "Fishing"
+    ]
+  },
+  {
+    "author": "Zyx_32",
+    "description": "Dodge all asteroids, catch the most stars and get the highest score in space",
+    "genre": "Action",
+    "id": "643688",
+    "link": "https://zyx-32.itch.io/asteroids",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0NDU0OTEuanBn/315x250%23c/dQxBnP.jpg",
+    "title": "Asteroids",
+    "video": null,
+    "scrapeWords": [
+      "Asteroids"
     ]
   },
   {
@@ -92282,7 +92573,7 @@
     ]
   },
   {
-    "author": "simonknowsstuff",
+    "author": "Simon",
     "description": "A drunkard's nightmare",
     "genre": "Platformer",
     "id": "696446",
@@ -97874,11 +98165,11 @@
     ]
   },
   {
-    "author": "qpcode",
+    "author": "Clover",
     "description": "my first game",
     "genre": null,
     "id": "722265",
-    "link": "https://qpcode.itch.io/circle-that-changes-colors",
+    "link": "https://quad-clover.itch.io/circle-that-changes-colors",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQwMDUyMjEucG5n/315x250%23c/UzMihn.png",
     "title": "circle that changes colors",
@@ -127271,7 +127562,7 @@
     ]
   },
   {
-    "author": "8b0000",
+    "author": "EightBoo",
     "description": "I made pong in Godot",
     "genre": null,
     "id": "885402",
@@ -142318,7 +142609,7 @@
     ]
   },
   {
-    "author": "8b0000",
+    "author": "EightBoo",
     "description": "Download Project Kosbelum Today!",
     "genre": "Shooter",
     "id": "975036",
@@ -142790,13 +143081,18 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU3MTkzMzEucG5n/315x250%23c/t9PWrL.png",
-    "title": "You're a wizard, lizard",
+    "title": "You're a wizard, lizard (canceled, full project for download)",
     "video": null,
     "scrapeWords": [
       "Youre",
       "a",
       "wizard",
-      "lizard"
+      "lizard",
+      "canceled",
+      "full",
+      "project",
+      "for",
+      "download"
     ]
   },
   {
@@ -144948,7 +145244,7 @@
     ]
   },
   {
-    "author": "Birt",
+    "author": "eg",
     "description": "The tiny mining collectathon.",
     "genre": "Adventure",
     "id": "994892",
