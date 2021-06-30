@@ -17108,6 +17108,24 @@
     ]
   },
   {
+    "author": "SDSLabs",
+    "description": "An outrun themed, multiplayer, cross-platform, thrilling racing and shooting game.",
+    "genre": "Racing",
+    "id": "1091316",
+    "link": "https://sdslabs.itch.io/outrun-chase",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyODM5NjQucG5n/315x250%23c/Xg6l7O.png",
+    "title": "Outrun Chase",
+    "video": null,
+    "scrapeWords": [
+      "Outrun",
+      "Chase"
+    ]
+  },
+  {
     "author": "Khairul Hidayat",
     "description": "Free Downloadable Games",
     "genre": "Racing",
@@ -17164,6 +17182,21 @@
       "Grande",
       "Familia",
       "Shooter"
+    ]
+  },
+  {
+    "author": "Toby",
+    "description": null,
+    "genre": "Fighting",
+    "id": "1091599",
+    "link": "https://tobiy.itch.io/dungeon16bit",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNjU3MDMucG5n/315x250%23c/KFUs3F.png",
+    "title": "16-bit Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "16-bit",
+      "Dungeon"
     ]
   },
   {
@@ -17728,7 +17761,7 @@
   },
   {
     "author": "antoneo",
-    "description": "Gunbotro is a hard but short platformer, that will probably make you rage.",
+    "description": "Gunbotro is a platformer game with 3 worlds in which you can or can't do certain abilities.",
     "genre": "Platformer",
     "id": "1095869",
     "link": "https://antoneo.itch.io/gunbotro",
@@ -18769,6 +18802,31 @@
     ]
   },
   {
+    "author": "Greasy Elephant",
+    "description": "Drive around with one arm!",
+    "genre": "Racing",
+    "id": "1104299",
+    "link": "https://greasy-elephant.itch.io/dont-drive-and-one-arm",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzODg3NTEucG5n/315x250%23c/HNB4l2.png",
+    "title": "DONT DRIVE AND ONE ARM: You somehow lost your arm",
+    "video": null,
+    "scrapeWords": [
+      "DONT",
+      "DRIVE",
+      "AND",
+      "ONE",
+      "ARM",
+      "You",
+      "somehow",
+      "lost",
+      "your",
+      "arm"
+    ]
+  },
+  {
     "author": "LilaLump",
     "description": "Ein gerechtes Urteil. Es lebe die Partei!",
     "genre": null,
@@ -18847,6 +18905,25 @@
     "scrapeWords": [
       "Color",
       "Quest"
+    ]
+  },
+  {
+    "author": "Clauveira",
+    "description": "Shader experimentation at Godot Engine - 2021",
+    "genre": null,
+    "id": "1104921",
+    "link": "https://clauveira.itch.io/pen-ink-shader-godot",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzODk3MzgucG5n/315x250%23c/yUjMO9.png",
+    "title": "Pen & Ink Shader - Godot",
+    "video": null,
+    "scrapeWords": [
+      "Pen",
+      "Ink",
+      "Shader",
+      "Godot"
     ]
   },
   {
@@ -19113,6 +19190,101 @@
       "Pew",
       "Pew",
       "Forever"
+    ]
+  },
+  {
+    "author": "bubbaerikson",
+    "description": "You really don't want to get zapped.",
+    "genre": "Action",
+    "id": "1106929",
+    "link": "https://bubbaerikson.itch.io/dont-get-zapped",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzODg4ODAuanBn/315x250%23c/rbEpCR.jpg",
+    "title": "Don't Get Zapped",
+    "video": null,
+    "scrapeWords": [
+      "Dont",
+      "Get",
+      "Zapped"
+    ]
+  },
+  {
+    "author": "Paulette",
+    "description": null,
+    "genre": null,
+    "id": "1107361",
+    "link": "https://paulette.itch.io/le-vrai-jeu-vido-gnrateur",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzOTU4NTYuZ2lm/315x250%23cm/qOMY7T.gif",
+    "title": "Le vrai jeu vidéo: Générateur de réponse",
+    "video": "https://img.itch.zone/aW1nLzYzOTU4NTYuZ2lm/original/1KGYOq.gif",
+    "scrapeWords": [
+      "Le",
+      "vrai",
+      "jeu",
+      "vidéo",
+      "Générateur",
+      "de",
+      "réponse"
+    ]
+  },
+  {
+    "author": "Extern-A86",
+    "description": "2D Action Shooter Game",
+    "genre": "Action",
+    "id": "1107388",
+    "link": "https://extern-a86.itch.io/alien-wham",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzOTIxNjYuanBn/315x250%23c/8KKI0B.jpg",
+    "title": "Alien Wham",
+    "video": null,
+    "scrapeWords": [
+      "Alien",
+      "Wham"
+    ]
+  },
+  {
+    "author": "J_arrow",
+    "description": "A game about time... and keys.",
+    "genre": "Platformer",
+    "id": "1107481",
+    "link": "https://j-arrow.itch.io/no-key-no-time",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzOTMzMzAucG5n/315x250%23c/AOYV%2Bl.png",
+    "title": "No Key No Time",
+    "video": null,
+    "scrapeWords": [
+      "No",
+      "Key",
+      "No",
+      "Time"
+    ]
+  },
+  {
+    "author": "Unreal Codeer",
+    "description": "Hyperspace Drifter - Android is classic arcade-style shooter game",
+    "genre": "Action",
+    "id": "1107827",
+    "link": "https://unrealcodeer.itch.io/hyperspace-drifter",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzOTU2NDMuZ2lm/315x250%23cm/TuUY0v.gif",
+    "title": "Hyperspace Drifter - Android",
+    "video": "https://img.itch.zone/aW1nLzYzOTU2NDMuZ2lm/original/N5fG2E.gif",
+    "scrapeWords": [
+      "Hyperspace",
+      "Drifter",
+      "Android"
     ]
   },
   {
@@ -25593,11 +25765,11 @@
     ]
   },
   {
-    "author": "PyroPenguin",
+    "author": "Nettea",
     "description": "Escape the void in an overloading escape pod",
     "genre": null,
     "id": "233447",
-    "link": "https://pyropenguin.itch.io/core-overcharged",
+    "link": "https://nettea.itch.io/core-overcharged",
     "platforms": [
       "Windows",
       "Linux",
@@ -55362,6 +55534,20 @@
     ]
   },
   {
+    "author": "pintman",
+    "description": "Simpe asteroids clone",
+    "genre": "Action",
+    "id": "468710",
+    "link": "https://pintman.itch.io/asteroids",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzOTU0MDcucG5n/315x250%23c/CUwGI7.png",
+    "title": "Asteroids",
+    "video": null,
+    "scrapeWords": [
+      "Asteroids"
+    ]
+  },
+  {
     "author": "SMAXBAT",
     "description": null,
     "genre": "Interactive Fiction",
@@ -67593,6 +67779,7 @@
     "link": "https://gamaturgie.itch.io/dont-trust-the-crust",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ2MzE0MTMuanBn/315x250%23c/9%2B%2BLuO.jpg",
@@ -82074,24 +82261,6 @@
     ]
   },
   {
-    "author": "Zyx_32",
-    "description": "Dodge all asteroids, catch the most stars and get the highest score in space",
-    "genre": "Action",
-    "id": "643688",
-    "link": "https://zyx-32.itch.io/asteroids",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NDU0OTEuanBn/315x250%23c/dQxBnP.jpg",
-    "title": "Asteroids",
-    "video": null,
-    "scrapeWords": [
-      "Asteroids"
-    ]
-  },
-  {
     "author": "RevTheGame",
     "description": "The Video Series Now in Game Form",
     "genre": "Adventure",
@@ -83258,6 +83427,24 @@
       "Alchemy",
       "The",
       "Weapon"
+    ]
+  },
+  {
+    "author": "Dark Peace",
+    "description": "Story-rich RPG Bullethell about light & dark, psychology and extremism",
+    "genre": "Adventure",
+    "id": "649566",
+    "link": "https://bottled-up-studio.itch.io/dojordin",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0OTQ3OTAucG5n/315x250%23c/oBQ0oW.png",
+    "title": "Dojordin [outdated]",
+    "video": null,
+    "scrapeWords": [
+      "Dojordin",
+      "[outdated]"
     ]
   },
   {
@@ -89056,8 +89243,7 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS",
-      "Android"
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM3NTU0ODMucG5n/315x250%23c/XkA2ca.png",
     "title": "A Handsome Story",
@@ -92101,6 +92287,21 @@
     "scrapeWords": [
       "Neo",
       "Genesis"
+    ]
+  },
+  {
+    "author": "ODD_OLIVER",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "695442",
+    "link": "https://odd-oliver.itch.io/gmtkjam",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzMDk4MTgucG5n/315x250%23c/MkbtNP.png",
+    "title": "Pottery Run",
+    "video": null,
+    "scrapeWords": [
+      "Pottery",
+      "Run"
     ]
   },
   {
@@ -96869,7 +97070,7 @@
   },
   {
     "author": "MenacingMecha",
-    "description": "PS1 aesthetic demo in Godot (Available under MIT License)",
+    "description": "PS1 shader demo in Godot (Available free under MIT License)",
     "genre": null,
     "id": "712958",
     "link": "https://menacingmecha.itch.io/godot-psx-style-demo",
@@ -96877,9 +97078,9 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NjA2MjQucG5n/315x250%23c/wCyjx9.png",
+    "thumb": "https://img.itch.zone/aW1nLzYzOTAyNjAuZ2lm/315x250%23cm/3j4crs.gif",
     "title": "Godot PSX Style Demo",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzYzOTAyNjAuZ2lm/original/5SlDmA.gif",
     "scrapeWords": [
       "Godot",
       "PSX",
@@ -100623,7 +100824,7 @@
     ]
   },
   {
-    "author": "AJ08Coder",
+    "author": "ArmadilloDev",
     "description": "Top-down shooter game",
     "genre": "Survival",
     "id": "733080",
@@ -102640,7 +102841,7 @@
   },
   {
     "author": "GapaGames",
-    "description": "Medieval-Space-Strategy-Sim in weird retro style!",
+    "description": "Overscoped Medieval-Space-Strategy-Sim in weird retro style!",
     "genre": "Strategy",
     "id": "737917",
     "link": "https://gapagames.itch.io/stellar-king",
@@ -121169,6 +121370,7 @@
     "id": "840609",
     "link": "https://phyzbot.itch.io/rubiks-queue",
     "platforms": [
+      "Windows",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MTMzNTkucG5n/315x250%23c/OFvary.png",
@@ -125566,26 +125768,6 @@
     ]
   },
   {
-    "author": "nad_labs",
-    "description": null,
-    "genre": "Strategy",
-    "id": "871907",
-    "link": "https://nad-labs.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
-    "title": "Escape The Lab",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Lab"
-    ]
-  },
-  {
     "author": "GNamimates",
     "description": "among us",
     "genre": "Interactive Fiction",
@@ -127703,28 +127885,6 @@
     "video": null,
     "scrapeWords": [
       "Pong"
-    ]
-  },
-  {
-    "author": "SCORPIXELITE",
-    "description": null,
-    "genre": "Adventure",
-    "id": "885470",
-    "link": "https://scorpixelite.itch.io/warning-crash-landing-is-prohibited",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5OTE0NTAucG5n/315x250%23c/LUN9%2B0.png",
-    "title": "Warning! Crash Landing is Prohibited",
-    "video": null,
-    "scrapeWords": [
-      "Warning",
-      "Crash",
-      "Landing",
-      "is",
-      "Prohibited"
     ]
   },
   {
@@ -133962,6 +134122,26 @@
     ]
   },
   {
+    "author": "twodotsixk",
+    "description": "help an alien to escape from a laboratory cloning himself",
+    "genre": "Platformer",
+    "id": "924725",
+    "link": "https://twodotsixk.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUyMjkxODgucG5n/315x250%23c/0SdS0C.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
+    ]
+  },
+  {
     "author": "yokelpole",
     "description": "A Flappy Bird inspired space shooter",
     "genre": "Shooter",
@@ -137506,6 +137686,20 @@
     ]
   },
   {
+    "author": "Patrick Cavanaugh",
+    "description": "Oculopolis is a 2D side-scrolling shooter.",
+    "genre": "Platformer",
+    "id": "941622",
+    "link": "https://pmcava.itch.io/oculopolis",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzOTIxNjAucG5n/315x250%23c/ZaCMY4.png",
+    "title": "Oculopolis",
+    "video": null,
+    "scrapeWords": [
+      "Oculopolis"
+    ]
+  },
+  {
     "author": "Lil_Nip",
     "description": null,
     "genre": "Action",
@@ -138629,11 +138823,11 @@
     ]
   },
   {
-    "author": "FreddryTurbina",
+    "author": "Leandro Cuello",
     "description": "will you be able to overcome the training of a light traveler?",
     "genre": "Platformer",
     "id": "949066",
-    "link": "https://freddryturbina.itch.io/99c",
+    "link": "https://leandrocuello.itch.io/99c",
     "platforms": [
       "Windows",
       "Linux",
