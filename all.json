@@ -11854,6 +11854,21 @@
     ]
   },
   {
+    "author": "lazar404",
+    "description": "little, 3-level game made using godot",
+    "genre": "Platformer",
+    "id": "1066519",
+    "link": "https://lazar404.itch.io/drawit",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxMDc0NjUucG5n/315x250%23c/r95Uml.png",
+    "title": "DrawIt",
+    "video": null,
+    "scrapeWords": [
+      "Draw",
+      "It"
+    ]
+  },
+  {
     "author": "TokenOracle",
     "description": null,
     "genre": "Action",
@@ -16996,6 +17011,23 @@
     ]
   },
   {
+    "author": "Scrapy Ninja",
+    "description": "Fight your way through the infected to secure a vial of the virus for your organization.",
+    "genre": "Shooter",
+    "id": "1089502",
+    "link": "https://scrapyninja.itch.io/viroscape",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MDIwMzEucG5n/315x250%23c/yis4bH.png",
+    "title": "ViroScape",
+    "video": null,
+    "scrapeWords": [
+      "Viro",
+      "Scape"
+    ]
+  },
+  {
     "author": "Hookiecat",
     "description": null,
     "genre": null,
@@ -17957,7 +17989,7 @@
   },
   {
     "author": "Busy Weasel Games",
-    "description": "Rescue good carrots from the Bad Bunny Empire.",
+    "description": "Rescue the Good Carrots from the Bad Bunny Empire.",
     "genre": "Shooter",
     "id": "1096358",
     "link": "https://busyweasel.itch.io/good-carrots-in-the-bad-bunny-land",
@@ -18810,7 +18842,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYzODg3NTEucG5n/315x250%23c/HNB4l2.png",
+    "thumb": "https://img.itch.zone/aW1nLzYzOTgzNTcucG5n/315x250%23c/eNv37Z.png",
     "title": "DONT DRIVE AND ONE ARM: You somehow lost your arm",
     "video": null,
     "scrapeWords": [
@@ -18856,6 +18888,23 @@
     "scrapeWords": [
       "Dimensional",
       "Puzzle"
+    ]
+  },
+  {
+    "author": "DarkStar Dragon Comics",
+    "description": "This is an incredibly crudely made game, please don't play it.",
+    "genre": "Platformer",
+    "id": "1104399",
+    "link": "https://darkstar-dragon-comics.itch.io/flappy-cube",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzNzE4MjUucG5n/315x250%23c/asoREG.png",
+    "title": "Flappy Cube",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Cube"
     ]
   },
   {
@@ -19270,21 +19319,87 @@
     ]
   },
   {
-    "author": "Unreal Codeer",
-    "description": "Hyperspace Drifter - Android is classic arcade-style shooter game",
+    "author": "Jax_the_Freak",
+    "description": "short, sweet platformer",
+    "genre": "Platformer",
+    "id": "1108014",
+    "link": "https://jax-the-freak.itch.io/my-freaky-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzOTYzNjEucG5n/315x250%23c/rAwLLf.png",
+    "title": "My freaky Adventure",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "freaky",
+      "Adventure"
+    ]
+  },
+  {
+    "author": "jdbuenol",
+    "description": "Small minigame for the Curdle Jam #15",
+    "genre": null,
+    "id": "1108706",
+    "link": "https://jdbuenol.itch.io/box-the-cats",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MDEwNzEucG5n/315x250%23c/Xhq2kd.png",
+    "title": "Box the cats",
+    "video": null,
+    "scrapeWords": [
+      "Box",
+      "the",
+      "cats"
+    ]
+  },
+  {
+    "author": "iomeanslife",
+    "description": "A very simple memory game with cute animals",
+    "genre": "Puzzle",
+    "id": "1108796",
+    "link": "https://iomeanslife.itch.io/basic-memory-game",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MDE1OTgucG5n/315x250%23c/GIDo%2Fz.png",
+    "title": "Basic Memory Game",
+    "video": null,
+    "scrapeWords": [
+      "Basic",
+      "Memory",
+      "Game"
+    ]
+  },
+  {
+    "author": "iomeanslife",
+    "description": "Evade the water and try to not get your make-shift boat flooded.",
     "genre": "Action",
-    "id": "1107827",
-    "link": "https://unrealcodeer.itch.io/hyperspace-drifter",
+    "id": "1108886",
+    "link": "https://iomeanslife.itch.io/temple-flood",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0MDIxMzMucG5n/315x250%23c/LUiq7U.png",
+    "title": "Temple Flood",
+    "video": null,
+    "scrapeWords": [
+      "Temple",
+      "Flood"
+    ]
+  },
+  {
+    "author": "Epic Store",
+    "description": "Hyperspace Travelers is classic arcade-style shoot-him-up prototype",
+    "genre": "Action",
+    "id": "1109067",
+    "link": "https://epic-store.itch.io/hyperspace-travelers",
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYzOTU2NDMuZ2lm/315x250%23cm/TuUY0v.gif",
-    "title": "Hyperspace Drifter - Android",
-    "video": "https://img.itch.zone/aW1nLzYzOTU2NDMuZ2lm/original/N5fG2E.gif",
+    "thumb": "https://img.itch.zone/aW1nLzY0MDMzNDQuZ2lm/315x250%23cm/SOU3%2BK.gif",
+    "title": "Hyperspace Travelers",
+    "video": "https://img.itch.zone/aW1nLzY0MDMzNDQuZ2lm/original/m5Qjbf.gif",
     "scrapeWords": [
       "Hyperspace",
-      "Drifter",
-      "Android"
+      "Travelers"
     ]
   },
   {
@@ -56511,9 +56626,9 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzI0MzIxMzUucG5n/315x250%23c/zgCgFo.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0MDA1NTQuZ2lm/315x250%23cm/ikisT1.gif",
     "title": "Airship Funk (Proof of Concept Demo)",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzY0MDA1NTQuZ2lm/original/9TCl02.gif",
     "scrapeWords": [
       "Airship",
       "Funk",
@@ -67408,23 +67523,6 @@
     ]
   },
   {
-    "author": "Loen",
-    "description": "It's autitstic, how could it be better?",
-    "genre": null,
-    "id": "558095",
-    "link": "https://loen.itch.io/autistic-geometry",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwMDY5MDAucG5n/315x250%23c/DmRWuS.png",
-    "title": "Autistic Geometry",
-    "video": null,
-    "scrapeWords": [
-      "Autistic",
-      "Geometry"
-    ]
-  },
-  {
     "author": "NZkiwi3",
     "description": "Adventure RPG",
     "genre": "Adventure",
@@ -75037,21 +75135,6 @@
       "of",
       "the",
       "Storm"
-    ]
-  },
-  {
-    "author": "Grey Ghost",
-    "description": "defend your world!",
-    "genre": "Action",
-    "id": "608655",
-    "link": "https://pinguinogelato.itch.io/ghosts-defense",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzMyMzMyMzcucG5n/315x250%23c/rpQXl1.png",
-    "title": "Ghost's Defense",
-    "video": null,
-    "scrapeWords": [
-      "Ghosts",
-      "Defense"
     ]
   },
   {
@@ -104158,7 +104241,6 @@
     "link": "https://phyzbot.itch.io/sluggy-jean",
     "platforms": [
       "Windows",
-      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQzMTIxNzMucG5n/315x250%23c/nGuTA1.png",
@@ -104559,7 +104641,7 @@
     ]
   },
   {
-    "author": "Peter",
+    "author": "Pelatho",
     "description": "2D Retro Arcade Shooter with light RPG Elements.",
     "genre": "Action",
     "id": "743872",
@@ -125768,6 +125850,26 @@
     ]
   },
   {
+    "author": "nad_labs",
+    "description": null,
+    "genre": "Strategy",
+    "id": "871907",
+    "link": "https://nad-labs.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
+    ]
+  },
+  {
     "author": "GNamimates",
     "description": "among us",
     "genre": "Interactive Fiction",
@@ -127885,6 +127987,28 @@
     "video": null,
     "scrapeWords": [
       "Pong"
+    ]
+  },
+  {
+    "author": "SCORPIXELITE",
+    "description": null,
+    "genre": "Adventure",
+    "id": "885470",
+    "link": "https://scorpixelite.itch.io/warning-crash-landing-is-prohibited",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5OTE0NTAucG5n/315x250%23c/LUN9%2B0.png",
+    "title": "Warning! Crash Landing is Prohibited",
+    "video": null,
+    "scrapeWords": [
+      "Warning",
+      "Crash",
+      "Landing",
+      "is",
+      "Prohibited"
     ]
   },
   {
@@ -134122,26 +134246,6 @@
     ]
   },
   {
-    "author": "twodotsixk",
-    "description": "help an alien to escape from a laboratory cloning himself",
-    "genre": "Platformer",
-    "id": "924725",
-    "link": "https://twodotsixk.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyMjkxODgucG5n/315x250%23c/0SdS0C.png",
-    "title": "Escape The Lab",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Lab"
-    ]
-  },
-  {
     "author": "yokelpole",
     "description": "A Flappy Bird inspired space shooter",
     "genre": "Shooter",
@@ -137691,7 +137795,10 @@
     "genre": "Platformer",
     "id": "941622",
     "link": "https://pmcava.itch.io/oculopolis",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYzOTIxNjAucG5n/315x250%23c/ZaCMY4.png",
     "title": "Oculopolis",
     "video": null,
@@ -137770,7 +137877,9 @@
     "genre": "Platformer",
     "id": "942150",
     "link": "https://bauti777.itch.io/arachnia",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUzMzk2OTYucG5n/315x250%23c/joeHv8.png",
     "title": "Arachnia",
     "video": null,
@@ -142626,23 +142735,6 @@
     ]
   },
   {
-    "author": "Arrowshot Studio",
-    "description": "First game",
-    "genre": "Platformer",
-    "id": "972805",
-    "link": "https://arrowshot-studio.itch.io/flappy-cube",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU1MjM4ODIucG5n/315x250%23c/1YlNaE.png",
-    "title": "Flappy Cube",
-    "video": null,
-    "scrapeWords": [
-      "Flappy",
-      "Cube"
-    ]
-  },
-  {
     "author": "Aether95",
     "description": null,
     "genre": "Platformer",
@@ -143638,7 +143730,8 @@
     "link": "https://cahatstrophe-games.itch.io/worlds-worst-asteroids-clone",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2Mjg5ODEucG5n/315x250%23c/0yyzFY.png",
     "title": "The World's Worst Asteroids Clone",
