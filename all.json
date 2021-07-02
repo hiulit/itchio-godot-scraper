@@ -892,7 +892,7 @@
   },
   {
     "author": "kintrix",
-    "description": "An intense fast-paced bullet-hell, where you kill enemies by touching them",
+    "description": "An intense fast-paced bullet-hell, where you kill enemies by charging into them",
     "genre": "Action",
     "id": "1004032",
     "link": "https://kintrix.itch.io/neobum",
@@ -5931,6 +5931,26 @@
       "Valhalla",
       "Story",
       "～鬱陶しき日々～"
+    ]
+  },
+  {
+    "author": "SplendidDog",
+    "description": "Time Never Stops",
+    "genre": "Platformer",
+    "id": "1029018",
+    "link": "https://splendiddog.itch.io/time-never-stops",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MDM5MDQucG5n/315x250%23c/53tLnm.png",
+    "title": "Time never stops",
+    "video": null,
+    "scrapeWords": [
+      "Time",
+      "never",
+      "stops"
     ]
   },
   {
@@ -17581,24 +17601,6 @@
     ]
   },
   {
-    "author": "Gameplaystorm3",
-    "description": "Um jogo de plataforma simples com diversos desafios para cumprir.",
-    "genre": "Platformer",
-    "id": "1094885",
-    "link": "https://gameplaystorm3.itch.io/square-challengs",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYzMDkzMjEucG5n/315x250%23c/FfoNJK.png",
-    "title": "Square Challenges",
-    "video": null,
-    "scrapeWords": [
-      "Square",
-      "Challenges"
-    ]
-  },
-  {
     "author": "AndreTerra",
     "description": "A chill city builder",
     "genre": null,
@@ -18614,6 +18616,26 @@
     ]
   },
   {
+    "author": "bengineering",
+    "description": "A game in the style of the Octogeddon.",
+    "genre": "Action",
+    "id": "1102233",
+    "link": "https://bengineering.itch.io/mutant-mayhem",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzNTg0NDQuanBn/315x250%23c/gzdXvT.jpg",
+    "title": "Mutant Mayhem",
+    "video": null,
+    "scrapeWords": [
+      "Mutant",
+      "Mayhem"
+    ]
+  },
+  {
     "author": "Exuin",
     "description": "Mini Jam 83: Dread!",
     "genre": "Action",
@@ -18842,7 +18864,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYzOTgzNTcucG5n/315x250%23c/eNv37Z.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0MDc5NTkucG5n/315x250%23c/tRc8Op.png",
     "title": "DONT DRIVE AND ONE ARM: You somehow lost your arm",
     "video": null,
     "scrapeWords": [
@@ -19400,6 +19422,110 @@
     "scrapeWords": [
       "Hyperspace",
       "Travelers"
+    ]
+  },
+  {
+    "author": "nousername010",
+    "description": "Escape from the parking lot. Submission to WGJ 207",
+    "genre": "Action",
+    "id": "1109173",
+    "link": "https://nousername010.itch.io/dead-set-wheels",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MDQyNzcuanBn/315x250%23c/kAAb5H.jpg",
+    "title": "Dead Set Wheels",
+    "video": null,
+    "scrapeWords": [
+      "Dead",
+      "Set",
+      "Wheels"
+    ]
+  },
+  {
+    "author": "Jax_the_Freak",
+    "description": "short, sweet platformer",
+    "genre": "Platformer",
+    "id": "1109331",
+    "link": "https://jax-the-freak.itch.io/my-freaky-adventure-v2",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0MDUyMzMucG5n/315x250%23c/WVR%2Bn9.png",
+    "title": "My freaky Adventure V2",
+    "video": null,
+    "scrapeWords": [
+      "My",
+      "freaky",
+      "Adventure",
+      "V2"
+    ]
+  },
+  {
+    "author": "GingerBread",
+    "description": "A Witness-like 2d game. Will you find the three secret elephants?",
+    "genre": "Puzzle",
+    "id": "1109377",
+    "link": "https://gingerbreaddevelopment.itch.io/millefeuille",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MTEyMzIucG5n/315x250%23c/r6dVwI.png",
+    "title": "Millefeuille - [The Witness fangame prototype]",
+    "video": null,
+    "scrapeWords": [
+      "Millefeuille",
+      "[The",
+      "Witness",
+      "fangame",
+      "prototype]"
+    ]
+  },
+  {
+    "author": "Gameplaystorm3",
+    "description": "Este é um jogo de plataforma simples com uma diferente  mecânica, com diversos desafios a se cumprir",
+    "genre": "Platformer",
+    "id": "1109929",
+    "link": "https://gameplaystorm3.itch.io/square-challengs",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MTAzOTkucG5n/315x250%23c/2QhOVr.png",
+    "title": "Square Challengs",
+    "video": null,
+    "scrapeWords": [
+      "Square",
+      "Challengs"
+    ]
+  },
+  {
+    "author": "youkoseki",
+    "description": null,
+    "genre": "Action",
+    "id": "1110047",
+    "link": "https://youkoseki.itch.io/dodge",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0MTA2NDAucG5n/315x250%23c/UpMVKD.png",
+    "title": "Dodge & Shoot",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "Shoot"
+    ]
+  },
+  {
+    "author": "Black Mercury",
+    "description": "Build up speed to crash through asteroids without flying out of controll",
+    "genre": "Action",
+    "id": "1110180",
+    "link": "https://black-mercury.itch.io/rocketdrill",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0MTEyNjEucG5n/315x250%23c/7WJOwO.png",
+    "title": "RocketDrill",
+    "video": null,
+    "scrapeWords": [
+      "Rocket",
+      "Drill"
     ]
   },
   {
@@ -28432,10 +28558,7 @@
     "genre": "Rhythm",
     "id": "249937",
     "link": "https://sotsfgs.itch.io/ddrrr",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjQ5OTM3LzExOTMxMjgucG5n/315x250%23c/hcMRww.png",
     "title": "Dance Dance Road Rage Revolutions",
     "video": null,
@@ -76524,6 +76647,24 @@
     ]
   },
   {
+    "author": "YourPalAtlas",
+    "description": null,
+    "genre": "Puzzle",
+    "id": "614963",
+    "link": "https://yourpalatlas.itch.io/upgrade",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyNzIwNjUucG5n/315x250%23c/mP3y2p.png",
+    "title": "Upgrade",
+    "video": null,
+    "scrapeWords": [
+      "Upgrade"
+    ]
+  },
+  {
     "author": "JonasmanTheBot",
     "description": "A dumb game about a mustache!",
     "genre": "Platformer",
@@ -85040,7 +85181,8 @@
     "link": "https://trackmaster.itch.io/trackmaster-free-for-all-motorsport",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUwNjQxMTIucG5n/315x250%23c/xyYMB5.png",
     "title": "TrackMaster: Free For All Motorsport",
@@ -97364,22 +97506,6 @@
       "OGA",
       "Summer",
       "Jam"
-    ]
-  },
-  {
-    "author": "JafCraze",
-    "description": "Fire at your own risk!",
-    "genre": "Shooter",
-    "id": "714013",
-    "link": "https://jafcraze.itch.io/unfriendly-fire",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzM5NTY5NTMucG5n/315x250%23c/Et7DSU.png",
-    "title": "UnFriendly Fire",
-    "video": null,
-    "scrapeWords": [
-      "Un",
-      "Friendly",
-      "Fire"
     ]
   },
   {
@@ -112304,24 +112430,6 @@
     ]
   },
   {
-    "author": "Boxed Meat Revolution",
-    "description": "Make electric loops around your enemies to destroy them.",
-    "genre": "Puzzle",
-    "id": "780578",
-    "link": "https://boxedmeatrevolution.itch.io/electro-loop-tion",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQzNjU5MDUucG5n/315x250%23c/N5GWgF.png",
-    "title": "Electro-loop-tion",
-    "video": null,
-    "scrapeWords": [
-      "Electro-loop-tion"
-    ]
-  },
-  {
     "author": "The Missing Bracket",
     "description": "A horror game about finding murderers in your spaceship",
     "genre": null,
@@ -117856,9 +117964,9 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2MjM2NzIucG5n/315x250%23c/pczIEg.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0MDcxNDAuZ2lm/315x250%23cm/rwnc38.gif",
     "title": "Inktober 2020 Demo Disc",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzY0MDcxNDAuZ2lm/original/T2CYBM.gif",
     "scrapeWords": [
       "Inktober",
       "2020",
@@ -132523,7 +132631,7 @@
   },
   {
     "author": "kintrix",
-    "description": "A nokia 3310 style puzzle platformer",
+    "description": "A nokia 3310 style puzzle platformer, where you can swap the ground with air!",
     "genre": "Platformer",
     "id": "912302",
     "link": "https://kintrix.itch.io/viewshift",
@@ -137880,7 +137988,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMzk2OTYucG5n/315x250%23c/joeHv8.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0MDk3ODMucG5n/315x250%23c/gsYv0X.png",
     "title": "Arachnia",
     "video": null,
     "scrapeWords": [
@@ -142021,6 +142129,25 @@
     ]
   },
   {
+    "author": "Emanuel Montero",
+    "description": null,
+    "genre": "Role Playing",
+    "id": "967614",
+    "link": "https://emontero.itch.io/bloodlust-2",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0OTE3ODMucG5n/315x250%23c/36KpQ4.png",
+    "title": "Bloodlust 2: Santa Monica",
+    "video": null,
+    "scrapeWords": [
+      "Bloodlust",
+      "2",
+      "Santa",
+      "Monica"
+    ]
+  },
+  {
     "author": "Ihsan Entertainment",
     "description": "Pranke deine Freunde und Familie!",
     "genre": null,
@@ -145244,21 +145371,6 @@
     "video": null,
     "scrapeWords": [
       "HEPTACHROME"
-    ]
-  },
-  {
-    "author": "drinkCARROTjuice",
-    "description": null,
-    "genre": "Platformer",
-    "id": "991154",
-    "link": "https://drinkcarrotjuice.itch.io/littlealien",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU2NTM2NzkucG5n/315x250%23c/qrCEsJ.png",
-    "title": "Little Alien",
-    "video": null,
-    "scrapeWords": [
-      "Little",
-      "Alien"
     ]
   },
   {
