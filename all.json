@@ -508,11 +508,11 @@
     ]
   },
   {
-    "author": "Finix2002",
+    "author": "Arnav Ghatti",
     "description": "Made for the Godot Game Jam 32",
     "genre": "Adventure",
     "id": "1002133",
-    "link": "https://finix2002.itch.io/missile-dodge",
+    "link": "https://arnav-ghatti.itch.io/missile-dodge",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU3MDQ0ODEucG5n/315x250%23c/V1%2FmsB.png",
     "title": "Missile Dodge",
@@ -10465,11 +10465,11 @@
     ]
   },
   {
-    "author": "Demon Horse",
+    "author": "Bohdan Radchenko",
     "description": null,
     "genre": "Puzzle",
     "id": "1061370",
-    "link": "https://demon-horse.itch.io/guess-the-anime",
+    "link": "https://bohdan-radchenko.itch.io/guess-the-anime",
     "platforms": [
       "Windows",
       "Android"
@@ -12333,6 +12333,24 @@
       "Up",
       "or",
       "Down"
+    ]
+  },
+  {
+    "author": "Reilly",
+    "description": "Trapped in the mines while working, you must reach the surface using only your wits",
+    "genre": "Adventure",
+    "id": "1069470",
+    "link": "https://strudlay.itch.io/miner-inconvenicence",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzMDgyMzEucG5n/315x250%23c/LDnmno.png",
+    "title": "Miner Inconvenience",
+    "video": null,
+    "scrapeWords": [
+      "Miner",
+      "Inconvenience"
     ]
   },
   {
@@ -15502,6 +15520,23 @@
     ]
   },
   {
+    "author": "LylianAnduin",
+    "description": "2D pixel art plateformer about bubbles",
+    "genre": "Platformer",
+    "id": "1083609",
+    "link": "https://lyliananduin.itch.io/bulles",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MjMyODQucG5n/315x250%23c/extfg9.png",
+    "title": "Bulles",
+    "video": null,
+    "scrapeWords": [
+      "Bulles"
+    ]
+  },
+  {
     "author": "ApeHardware",
     "description": "If it suffers, you suffer. Remove the link.",
     "genre": "Adventure",
@@ -17258,7 +17293,9 @@
     "link": "https://sdslabs.itch.io/outrun-chase",
     "platforms": [
       "Windows",
-      "macOS"
+      "Linux",
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYyODM5NjQucG5n/315x250%23c/Xg6l7O.png",
     "title": "Outrun Chase",
@@ -18932,6 +18969,23 @@
     ]
   },
   {
+    "author": "Dukebot",
+    "description": "Use the ball to break the bricks with the help of many different power-ups.",
+    "genre": "Action",
+    "id": "1103714",
+    "link": "https://dukebot.itch.io/breakout-space-ball-adventure",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzNjc2ODgucG5n/315x250%23c/Qz%2FmZL.png",
+    "title": "Breakout Space Ball Adventure",
+    "video": null,
+    "scrapeWords": [
+      "Breakout",
+      "Space",
+      "Ball",
+      "Adventure"
+    ]
+  },
+  {
     "author": "Linces",
     "description": "One Button - No control of your own direction",
     "genre": "Puzzle",
@@ -19391,6 +19445,22 @@
     ]
   },
   {
+    "author": "kota",
+    "description": "Open source boomshine clone made in godot",
+    "genre": "Puzzle",
+    "id": "1106913",
+    "link": "https://shmakota.itch.io/boomshine",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzODg1NTAucG5n/315x250%23c/Qbe10e.png",
+    "title": "Waiting for Boomshine",
+    "video": null,
+    "scrapeWords": [
+      "Waiting",
+      "for",
+      "Boomshine"
+    ]
+  },
+  {
     "author": "bubbaerikson",
     "description": "You really don't want to get zapped.",
     "genre": "Action",
@@ -19703,6 +19773,61 @@
     "scrapeWords": [
       "Space",
       "Alert"
+    ]
+  },
+  {
+    "author": "Reco Diq",
+    "description": "Worlds Hardest Game",
+    "genre": "Strategy",
+    "id": "1110456",
+    "link": "https://bubdlowski-games.itch.io/dodge-the-box",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0MTMxMTgucG5n/315x250%23c/33tSNA.png",
+    "title": "Dodge The Box(The Hardest Game Ever)",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "The",
+      "Box",
+      "The",
+      "Hardest",
+      "Game",
+      "Ever"
+    ]
+  },
+  {
+    "author": "DrewV",
+    "description": "Networked local multiplayer typing game",
+    "genre": null,
+    "id": "1110572",
+    "link": "https://drewv.itch.io/keyboard-cowboy",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MTM4MDkucG5n/315x250%23c/AiLHhY.png",
+    "title": "Keyboard Cowboy",
+    "video": null,
+    "scrapeWords": [
+      "Keyboard",
+      "Cowboy"
+    ]
+  },
+  {
+    "author": "hell",
+    "description": "A slice of sofa game",
+    "genre": "Puzzle",
+    "id": "1110685",
+    "link": "https://hellman.itch.io/sofa-chop",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MjE3MDUucG5n/315x250%23c/Fs79MF.png",
+    "title": "Sofa Chop",
+    "video": null,
+    "scrapeWords": [
+      "Sofa",
+      "Chop"
     ]
   },
   {
@@ -56000,20 +56125,6 @@
     ]
   },
   {
-    "author": "pintman",
-    "description": "Simpe asteroids clone",
-    "genre": "Action",
-    "id": "468710",
-    "link": "https://pintman.itch.io/asteroids",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIzOTU0MDcucG5n/315x250%23c/CUwGI7.png",
-    "title": "Asteroids",
-    "video": null,
-    "scrapeWords": [
-      "Asteroids"
-    ]
-  },
-  {
     "author": "SMAXBAT",
     "description": null,
     "genre": "Interactive Fiction",
@@ -82700,6 +82811,24 @@
     ]
   },
   {
+    "author": "Zyx_32",
+    "description": "Dodge all asteroids, catch the most stars and get the highest score in space",
+    "genre": "Action",
+    "id": "643688",
+    "link": "https://zyx-32.itch.io/asteroids",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzM0NDU0OTEuanBn/315x250%23c/dQxBnP.jpg",
+    "title": "Asteroids",
+    "video": null,
+    "scrapeWords": [
+      "Asteroids"
+    ]
+  },
+  {
     "author": "RevTheGame",
     "description": "The Video Series Now in Game Form",
     "genre": "Adventure",
@@ -93168,11 +93297,11 @@
     ]
   },
   {
-    "author": "hlentz",
+    "author": "hslentz",
     "description": null,
     "genre": "Action",
     "id": "696124",
-    "link": "https://hlentz.itch.io/babysitter-from-outer-space",
+    "link": "https://hslentz.itch.io/babysitter-from-outer-space",
     "platforms": [
       "Windows"
     ],
@@ -110938,6 +111067,23 @@
     ]
   },
   {
+    "author": "jacobdory",
+    "description": "Pong mixed with Brickbreaker!",
+    "genre": "Sports",
+    "id": "773197",
+    "link": "https://jacobdory.itch.io/atomic-pong",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQzMjcxNDkuanBn/315x250%23c/IEr%2Fvg.jpg",
+    "title": "Pong Hockey",
+    "video": null,
+    "scrapeWords": [
+      "Pong",
+      "Hockey"
+    ]
+  },
+  {
     "author": "ASD Games",
     "description": "Capture the stars!",
     "genre": null,
@@ -116178,11 +116324,11 @@
     ]
   },
   {
-    "author": "Finix2002",
+    "author": "Arnav Ghatti",
     "description": "A tricky puzzle game. Hard to solve",
     "genre": "Puzzle",
     "id": "803744",
-    "link": "https://finix2002.itch.io/underwater-mysteries",
+    "link": "https://arnav-ghatti.itch.io/underwater-mysteries",
     "platforms": [
       "Windows",
       "Linux",
@@ -116861,7 +117007,7 @@
     "description": "Survive against angry customers while trying not to melt!",
     "genre": "Survival",
     "id": "807411",
-    "link": "https://umuts.itch.io/icecream-survival",
+    "link": "https://umutsevdi.itch.io/icecream-survival",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1MjUzMjcucG5n/315x250%23c/7zN84C.png",
     "title": "Icecream Survival",
@@ -117977,11 +118123,11 @@
     ]
   },
   {
-    "author": "Demon Horse",
+    "author": "Bohdan Radchenko",
     "description": "Simple roguelite platformer for android",
     "genre": "Platformer",
     "id": "815996",
-    "link": "https://demon-horse.itch.io/just-dungeon",
+    "link": "https://bohdan-radchenko.itch.io/just-dungeon",
     "platforms": [
       "Android"
     ],
@@ -122183,12 +122329,12 @@
   },
   {
     "author": "amdotblacksheep",
-    "description": "Deathguys are seeking revenge! Join the deathsquad and help them survive.",
+    "description": "DeathGuys are seeking revenge! Join the deathsquad and help them survive.",
     "genre": null,
     "id": "843375",
     "link": "https://amdotblacksheep.itch.io/deathguy",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ3Mjc5NTIucG5n/315x250%23c/%2B9LXVo.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0MjE4MDUuanBlZw==/315x250%23c/pr%2BQ4f.jpeg",
     "title": "DeathGuy",
     "video": null,
     "scrapeWords": [
@@ -122450,7 +122596,7 @@
     "description": "Elf mixed up all gifts that she was meant to deliver. Help her find out which surprise gift belongs to who.",
     "genre": "Puzzle",
     "id": "845222",
-    "link": "https://umuts.itch.io/elf-in-a-flue",
+    "link": "https://umutsevdi.itch.io/elf-in-a-flue",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ3NDM0MTMucG5n/315x250%23c/FtQJXk.png",
     "title": "Elf in a Flue",
@@ -133624,24 +133770,6 @@
     ]
   },
   {
-    "author": "enotofil",
-    "description": "survival flood-filling",
-    "genre": "Puzzle",
-    "id": "916226",
-    "link": "https://enotofil.itch.io/dropsk",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUxODAxNjEucG5n/315x250%23c/SzPSie.png",
-    "title": "Dropsk",
-    "video": null,
-    "scrapeWords": [
-      "Dropsk"
-    ]
-  },
-  {
     "author": "SpaceScape",
     "description": null,
     "genre": "Simulation",
@@ -143221,9 +143349,7 @@
     "genre": "Puzzle",
     "id": "972705",
     "link": "https://lazy-fox.itch.io/build-and-grow",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYxNzk4MDIucG5n/315x250%23c/Q0qHqb.png",
     "title": "Build and Grow",
     "video": null,
