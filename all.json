@@ -12477,6 +12477,7 @@
     "id": "1070834",
     "link": "https://8-bit-falcons.itch.io/return-to-reality",
     "platforms": [
+      "Windows",
       "Linux",
       "macOS"
     ],
@@ -15474,9 +15475,7 @@
     "genre": "Action",
     "id": "1083513",
     "link": "https://rad-potato.itch.io/moon-slinger",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYyMTA2NjguanBn/315x250%23c/K7sDuP.jpg",
     "title": "Moon Slinger",
     "video": null,
@@ -17185,7 +17184,8 @@
     "id": "1089502",
     "link": "https://scrapyninja.itch.io/viroscape",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY0MDIwMzEucG5n/315x250%23c/yis4bH.png",
     "title": "ViroScape",
@@ -18772,7 +18772,10 @@
     "genre": "Action",
     "id": "1101328",
     "link": "https://poliz.itch.io/amateur-fluff",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYzNTMxNDcucG5n/315x250%23c/sUxXti.png",
     "title": "Amateur Fluff",
     "video": null,
@@ -19799,6 +19802,24 @@
     ]
   },
   {
+    "author": "Guuzzeji",
+    "description": "A short horror game made in Godot",
+    "genre": "Survival",
+    "id": "1109600",
+    "link": "https://guuzzeji.itch.io/the-office-computer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MDkzNTQucG5n/315x250%23c/nJEkZE.png",
+    "title": "The Office Computer",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Office",
+      "Computer"
+    ]
+  },
+  {
     "author": "Gameplaystorm3",
     "description": "Este é um jogo de plataforma simples com uma diferente  mecânica, com diversos desafios a se cumprir",
     "genre": "Platformer",
@@ -19813,6 +19834,24 @@
     "scrapeWords": [
       "Square",
       "Challengs"
+    ]
+  },
+  {
+    "author": "Benny Heller",
+    "description": "Turn-base bullet-hell class warfare!",
+    "genre": "Shooter",
+    "id": "1109970",
+    "link": "https://e1sif.itch.io/salvagette",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MDk4MzgucG5n/315x250%23c/NzPH%2Fl.png",
+    "title": "Salvagette",
+    "video": null,
+    "scrapeWords": [
+      "Salvagette"
     ]
   },
   {
@@ -20130,7 +20169,7 @@
     ]
   },
   {
-    "author": "twosticks",
+    "author": "TwoSticks",
     "description": "Weird forces are acting on our spaceship... and they are getting worse!",
     "genre": "Action",
     "id": "1112938",
@@ -20160,6 +20199,77 @@
     "scrapeWords": [
       "Big",
       "Donut"
+    ]
+  },
+  {
+    "author": "batmangreen123",
+    "description": "the game of cheap bricks",
+    "genre": "Platformer",
+    "id": "1113693",
+    "link": "https://batmangreen123.itch.io/weak-bricks",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MzQ1NDQucG5n/315x250%23c/XVcWX8.png",
+    "title": "weak bricks",
+    "video": null,
+    "scrapeWords": [
+      "weak",
+      "bricks"
+    ]
+  },
+  {
+    "author": "The Isaac",
+    "description": "Bug with a Wrecking Ball!",
+    "genre": "Action",
+    "id": "1113921",
+    "link": "https://the-isaac.itch.io/the-sacred-chain",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0Mzg2NDUucG5n/315x250%23c/%2FUbxKC.png",
+    "title": "The Sacred Chain",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Sacred",
+      "Chain"
+    ]
+  },
+  {
+    "author": "Brender",
+    "description": "Sink all the balls in the time limit and you win",
+    "genre": "Simulation",
+    "id": "1113926",
+    "link": "https://b-render.itch.io/pool-of-speed",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0MzY0NzIucG5n/315x250%23c/fCkoWt.png",
+    "title": "Pool of Speed",
+    "video": null,
+    "scrapeWords": [
+      "Pool",
+      "of",
+      "Speed"
+    ]
+  },
+  {
+    "author": "Cambori",
+    "description": "Rpg where you fight lizard people and get there class to use as your own",
+    "genre": "Role Playing",
+    "id": "1114214",
+    "link": "https://cambori.itch.io/reptile",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0MzgyODAucG5n/315x250%23c/r2jPqV.png",
+    "title": "Lizard Agenda",
+    "video": null,
+    "scrapeWords": [
+      "Lizard",
+      "Agenda"
     ]
   },
   {
@@ -41981,23 +42091,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -50638,6 +50731,23 @@
     ]
   },
   {
+    "author": "Xiuhman",
+    "description": "A playable demo of a challenging 2D Shooter made in Godot Engine!",
+    "genre": "Shooter",
+    "id": "426646",
+    "link": "https://xiuhman.itch.io/tesine",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzOTU0MTEucG5n/315x250%23c/uAzsY%2B.png",
+    "title": "Tesine",
+    "video": null,
+    "scrapeWords": [
+      "Tesine"
+    ]
+  },
+  {
     "author": "Ronaldo Junior",
     "description": "Avoid The Enemies, Get The Key and Complete The Level!",
     "genre": "Survival",
@@ -58343,6 +58453,25 @@
     ]
   },
   {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -64443,6 +64572,26 @@
     "video": null,
     "scrapeWords": [
       "Sneek"
+    ]
+  },
+  {
+    "author": "diquiros",
+    "description": null,
+    "genre": "Platformer",
+    "id": "530221",
+    "link": "https://diquiros.itch.io/truth-of-blood-woods",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI3NTQzNDEucG5n/315x250%23c/MFinZc.png",
+    "title": "Truth of Blood Woods",
+    "video": null,
+    "scrapeWords": [
+      "Truth",
+      "of",
+      "Blood",
+      "Woods"
     ]
   },
   {
@@ -72068,7 +72217,7 @@
     "description": "A 2d platformer with custom levels",
     "genre": "Platformer",
     "id": "587395",
-    "link": "https://moonpod.itch.io/spry",
+    "link": "https://moonspod.itch.io/spry",
     "platforms": [
       "Windows",
       "Linux"
@@ -73902,24 +74051,6 @@
     "video": null,
     "scrapeWords": [
       "HORRIBAL"
-    ]
-  },
-  {
-    "author": "Just Some Chars",
-    "description": "Dodgeball but with cubes",
-    "genre": "Platformer",
-    "id": "597625",
-    "link": "https://jschars.itch.io/dodgecube",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMxNzc4NDcucG5n/315x250%23c/HQBGxT.png",
-    "title": "DODGECUBE",
-    "video": null,
-    "scrapeWords": [
-      "DODGECUBE"
     ]
   },
   {
@@ -91985,7 +92116,7 @@
   {
     "author": "Paco",
     "description": "A platformer where you don't control the character, but the world.",
-    "genre": "Platformer",
+    "genre": "Puzzle",
     "id": "693358",
     "link": "https://venompaco.itch.io/dextra",
     "platforms": [
@@ -118383,7 +118514,7 @@
     ]
   },
   {
-    "author": "notiiivan",
+    "author": "i v",
     "description": "Interrogate strange demons to determine which one caused your death. Oh, and you can shoot them at any time.",
     "genre": "Interactive Fiction",
     "id": "816393",
@@ -125624,15 +125755,15 @@
   },
   {
     "author": "YUME Interactive",
-    "description": "an unfinished platformer challenge",
+    "description": "a challenging platformer for a cause",
     "genre": "Platformer",
     "id": "864462",
-    "link": "https://yumeindie.itch.io/go-on-demo",
+    "link": "https://yumeindie.itch.io/go-on-campaign",
     "platforms": [
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ4NTM5NTgucG5n/315x250%23c/K7FHof.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0Mzc5MzYucG5n/315x250%23c/7HdSz%2B.png",
     "title": "Go ON Demo",
     "video": null,
     "scrapeWords": [
@@ -127138,10 +127269,11 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzUzMDQ4MDMucG5n/315x250%23c/q8PWd4.png",
-    "title": "Quadremor",
+    "title": "Quadremor (prototype)",
     "video": null,
     "scrapeWords": [
-      "Quadremor"
+      "Quadremor",
+      "prototype"
     ]
   },
   {
@@ -130663,7 +130795,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYzODM4NzEucG5n/315x250%23c/aL%2B1fP.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0MzUwOTIucG5n/315x250%23c/8cAknn.png",
     "title": "Long Tail",
     "video": null,
     "scrapeWords": [
@@ -134620,7 +134752,9 @@
     "genre": "Action",
     "id": "920478",
     "link": "https://studioadriatic.itch.io/path-of-slime",
-    "platforms": null,
+    "platforms": [
+      "Android"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzUyNzMzNTQucG5n/315x250%23c/B5tJjK.png",
     "title": "Path Of Slime",
     "video": null,
@@ -139116,6 +139250,24 @@
     ]
   },
   {
+    "author": "SoloRobo",
+    "description": "Match box colors to clear the stage!",
+    "genre": "Puzzle",
+    "id": "945785",
+    "link": "https://solorobo.itch.io/boxoku",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEyMDcucG5n/315x250%23c/GWg5Xr.png",
+    "title": "Boxoku!",
+    "video": null,
+    "scrapeWords": [
+      "Boxoku"
+    ]
+  },
+  {
     "author": "JurassicKangaru",
     "description": null,
     "genre": null,
@@ -142036,7 +142188,7 @@
   },
   {
     "author": "Clauveira",
-    "description": "Multiplayer project at Godot",
+    "description": "Local Multiplayer project at Godot",
     "genre": "Fighting",
     "id": "964896",
     "link": "https://clauveira.itch.io/champion-bash",
