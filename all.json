@@ -13844,8 +13844,11 @@
     "genre": "Platformer",
     "id": "1080228",
     "link": "https://lightcrater.itch.io/phantom-shift",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYxOTQ3NDgucG5n/315x250%23c/3nNwqv.png",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0NDQwNDAucG5n/315x250%23c/GDCm8j.png",
     "title": "Phantom Shift",
     "video": null,
     "scrapeWords": [
@@ -20239,7 +20242,7 @@
   },
   {
     "author": "Brender",
-    "description": "Sink all the balls in the time limit and you win",
+    "description": "Get all the balls in under 2 min and you win",
     "genre": "Simulation",
     "id": "1113926",
     "link": "https://b-render.itch.io/pool-of-speed",
@@ -20270,6 +20273,44 @@
     "scrapeWords": [
       "Lizard",
       "Agenda"
+    ]
+  },
+  {
+    "author": "MenacingMecha",
+    "description": "Hyper difficult, hyper casual, sports/rhythm action",
+    "genre": "Rhythm",
+    "id": "1115070",
+    "link": "https://menacingmecha.itch.io/turbo-table-tennis",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0NDM3NzUuZ2lm/315x250%23cm/Ch3iWy.gif",
+    "title": "TURBO TABLE TENNIS",
+    "video": "https://img.itch.zone/aW1nLzY0NDM3NzUuZ2lm/original/8k8Jf9.gif",
+    "scrapeWords": [
+      "TURBO",
+      "TABLE",
+      "TENNIS"
+    ]
+  },
+  {
+    "author": "VlC",
+    "description": "Avoid the shapes that copy your cursor's movement!",
+    "genre": "Action",
+    "id": "1115342",
+    "link": "https://vlco-o.itch.io/tailtrail",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0NDYwMTIucG5n/315x250%23c/mz4Ngy.png",
+    "title": "TailTrail",
+    "video": null,
+    "scrapeWords": [
+      "Tail",
+      "Trail"
     ]
   },
   {
@@ -56480,6 +56521,20 @@
     ]
   },
   {
+    "author": "pintman",
+    "description": "Simpe asteroids clone",
+    "genre": "Action",
+    "id": "468710",
+    "link": "https://pintman.itch.io/asteroids",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzOTU0MDcucG5n/315x250%23c/CUwGI7.png",
+    "title": "Asteroids",
+    "video": null,
+    "scrapeWords": [
+      "Asteroids"
+    ]
+  },
+  {
     "author": "SMAXBAT",
     "description": null,
     "genre": "Interactive Fiction",
@@ -68704,6 +68759,21 @@
     "video": null,
     "scrapeWords": [
       "Re-Pairing"
+    ]
+  },
+  {
+    "author": "Acrosicious",
+    "description": "duct tape doesn't fix everything. but quite a lot of things.",
+    "genre": "Platformer",
+    "id": "560634",
+    "link": "https://acrosicious.itch.io/gaffer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI5NDI4OTQucG5n/315x250%23c/6fYH3w.png",
+    "title": "Gaffer Person",
+    "video": null,
+    "scrapeWords": [
+      "Gaffer",
+      "Person"
     ]
   },
   {
@@ -83167,24 +83237,6 @@
     ]
   },
   {
-    "author": "Zyx_32",
-    "description": "Dodge all asteroids, catch the most stars and get the highest score in space",
-    "genre": "Action",
-    "id": "643688",
-    "link": "https://zyx-32.itch.io/asteroids",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NDU0OTEuanBn/315x250%23c/dQxBnP.jpg",
-    "title": "Asteroids",
-    "video": null,
-    "scrapeWords": [
-      "Asteroids"
-    ]
-  },
-  {
     "author": "RevTheGame",
     "description": "The Video Series Now in Game Form",
     "genre": "Adventure",
@@ -89076,26 +89128,6 @@
     "video": null,
     "scrapeWords": [
       "Purpled"
-    ]
-  },
-  {
-    "author": "4COWL",
-    "description": "Game_Jam Endless Runner",
-    "genre": "Action",
-    "id": "677508",
-    "link": "https://4cowl.itch.io/vive-la-revolution",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM3MTgwNTYucG5n/315x250%23c/EpYElm.png",
-    "title": "Vive la Revolution",
-    "video": null,
-    "scrapeWords": [
-      "Vive",
-      "la",
-      "Revolution"
     ]
   },
   {
@@ -117291,7 +117323,7 @@
   },
   {
     "author": "LunarPenguin",
-    "description": "Juuuust a norrrmal game...",
+    "description": "J̸u̶s̵t̵ ̷a̵ ̴n̴o̶r̴m̴a̶l̸ ̷g̷a̸m̴e̸.̸.̴.̴",
     "genre": "Action",
     "id": "806993",
     "link": "https://lunarpenguin.itch.io/error-37",
@@ -121637,7 +121669,7 @@
     "description": null,
     "genre": "Adventure",
     "id": "837446",
-    "link": "https://epiblitikos.itch.io/mini-jam-68-sleep-no-text",
+    "link": "https://joedaywalt.itch.io/mini-jam-68-sleep-no-text",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2OTYyNDcucG5n/315x250%23c/Azg79p.png",
     "title": "Mini Jam 68: Sleep (No Text)",
@@ -124453,6 +124485,25 @@
       "Gold",
       "Fish",
       "Brain"
+    ]
+  },
+  {
+    "author": "PranshuTG",
+    "description": "Bingo",
+    "genre": "Puzzle",
+    "id": "857326",
+    "link": "https://pranshutg.itch.io/bingo-multiplayer",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ4MTA4NzgucG5n/315x250%23c/MwYuMq.png",
+    "title": "Bingo Multiplayer",
+    "video": null,
+    "scrapeWords": [
+      "Bingo",
+      "Multiplayer"
     ]
   },
   {
@@ -140655,7 +140706,7 @@
     "description": "Light the dungeon and try not to get eaten by its indiscriminate denizens!",
     "genre": "Adventure",
     "id": "955262",
-    "link": "https://epiblitikos.itch.io/lamplighter",
+    "link": "https://joedaywalt.itch.io/lamplighter",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU2MTU2MjMuZ2lm/315x250%23cm/DQ5waJ.gif",
     "title": "Lamplighter [Prototype]",
@@ -142196,10 +142247,9 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU5ODU3NzQucG5n/315x250%23c/2arm3m.png",
-    "title": "[Alpha] Champion Bash",
+    "title": "Champion Bash",
     "video": null,
     "scrapeWords": [
-      "[Alpha]",
       "Champion",
       "Bash"
     ]
@@ -143756,7 +143806,9 @@
     "genre": "Puzzle",
     "id": "972705",
     "link": "https://lazy-fox.itch.io/build-and-grow",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzY0Mjc3MzUucG5n/315x250%23c/kVxd5u.png",
     "title": "Build and Grow",
     "video": null,
