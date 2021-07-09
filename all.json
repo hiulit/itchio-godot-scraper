@@ -9093,11 +9093,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
-    "description": null,
+    "author": "PileOfAmoebas",
+    "description": "Control a colony of creatures. Mess up their lives.",
     "genre": "Role Playing",
     "id": "1053308",
-    "link": "https://alexhoratio.itch.io/sell-your-food",
+    "link": "https://pileofamoebas.itch.io/sell-your-food",
     "platforms": [
       "Windows",
       "Linux",
@@ -12870,6 +12870,21 @@
     ]
   },
   {
+    "author": "Quantum Studios",
+    "description": "Rogue-Lite browser enemy-hitting madness!",
+    "genre": null,
+    "id": "1072908",
+    "link": "https://iquantum-studios.itch.io/arkalite",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NTk4NjQucG5n/315x250%23c/5GcO25.png",
+    "title": "ArkLite",
+    "video": null,
+    "scrapeWords": [
+      "Ark",
+      "Lite"
+    ]
+  },
+  {
     "author": "Bastiasa12",
     "description": "Beta de dark people, inspirado en fnaf y mi primer juego",
     "genre": null,
@@ -13798,11 +13813,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": "Feed carrots to aliens. Don't eat eaten by the moon. Thanks for coming to my TED Talk.",
     "genre": "Action",
     "id": "1080045",
-    "link": "https://alexhoratio.itch.io/moon-doctor",
+    "link": "https://pileofamoebas.itch.io/moon-doctor",
     "platforms": [
       "Windows",
       "Linux",
@@ -16634,24 +16649,6 @@
     ]
   },
   {
-    "author": "ColdCalzone",
-    "description": "Attack the invaders with your Turret!",
-    "genre": "Shooter",
-    "id": "1085841",
-    "link": "https://coldcalzone.itch.io/turbit",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYyMjIwMDEucG5n/315x250%23c/qs%2B7hI.png",
-    "title": "TURBIT",
-    "video": null,
-    "scrapeWords": [
-      "TURBIT"
-    ]
-  },
-  {
     "author": "Levi",
     "description": "Collect your ducklings and lead them to safety!",
     "genre": "Platformer",
@@ -18835,6 +18832,24 @@
     ]
   },
   {
+    "author": "Maystra",
+    "description": "2D multiplayer shooter with classic deathmatch mode",
+    "genre": "Shooter",
+    "id": "1101444",
+    "link": "https://maystra.itch.io/lost-lives",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzODY2NzEucG5n/315x250%23c/Y3fu22.png",
+    "title": "Lost Lives",
+    "video": null,
+    "scrapeWords": [
+      "Lost",
+      "Lives"
+    ]
+  },
+  {
     "author": "FiPlay",
     "description": "Collect all of them to complete the mission",
     "genre": "Platformer",
@@ -19313,6 +19328,20 @@
     "scrapeWords": [
       "Crate",
       "Chaos"
+    ]
+  },
+  {
+    "author": "davidarthurpaul",
+    "description": "A battle between a Twitch streamer and their chat!",
+    "genre": "Platformer",
+    "id": "1105197",
+    "link": "https://davidarthurpaul.itch.io/chataclysm",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NDMyOTMucG5n/315x250%23c/xhalP2.png",
+    "title": "Chataclysm",
+    "video": null,
+    "scrapeWords": [
+      "Chataclysm"
     ]
   },
   {
@@ -20285,7 +20314,7 @@
   },
   {
     "author": "Skinner Space",
-    "description": null,
+    "description": "Kill people and crash police cars!",
     "genre": "Action",
     "id": "1112978",
     "link": "https://skinner-space.itch.io/big-donut",
@@ -20465,6 +20494,21 @@
     ]
   },
   {
+    "author": "RC",
+    "description": "Help the raptor escape a facility by running, jumping and chomping the evil humans keeping you captive!",
+    "genre": "Platformer",
+    "id": "1115497",
+    "link": "https://rrcc.itch.io/raptor-run",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NDkyNzcucG5n/315x250%23c/lriISB.png",
+    "title": "Raptor Run",
+    "video": null,
+    "scrapeWords": [
+      "Raptor",
+      "Run"
+    ]
+  },
+  {
     "author": "ZAWADSHARIF",
     "description": "First time  I create this game.",
     "genre": "Platformer",
@@ -20482,6 +20526,37 @@
       "Pi",
       "Pi",
       "Box"
+    ]
+  },
+  {
+    "author": "WizardMike",
+    "description": "Control a fire spirit and help him reactivate totem that chase away the snow",
+    "genre": null,
+    "id": "1116938",
+    "link": "https://wizardmike.itch.io/last-hope",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NTYzMTkucG5n/315x250%23c/BvyUYI.png",
+    "title": "Last Hope",
+    "video": null,
+    "scrapeWords": [
+      "Last",
+      "Hope"
+    ]
+  },
+  {
+    "author": "MZM01",
+    "description": "A mobile RPG game created in 72 hours following HeartBeast's tutorials.",
+    "genre": "Action",
+    "id": "1117001",
+    "link": "https://mzm01.itch.io/monsterlandrpg",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NTY3OTMucG5n/315x250%23c/XvTuxv.png",
+    "title": "MonsterLandRPG",
+    "video": null,
+    "scrapeWords": [
+      "Monster",
+      "Land",
+      "RPG"
     ]
   },
   {
@@ -20503,11 +20578,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": null,
     "genre": null,
     "id": "112474",
-    "link": "https://alexhoratio.itch.io/yet-another-puzzle-game",
+    "link": "https://pileofamoebas.itch.io/yet-another-puzzle-game",
     "platforms": [
       "Windows",
       "Linux",
@@ -20668,11 +20743,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": "An atmospheric, analytical experience...",
     "genre": null,
     "id": "115603",
-    "link": "https://alexhoratio.itch.io/homogeny",
+    "link": "https://pileofamoebas.itch.io/homogeny",
     "platforms": [
       "Windows",
       "Linux",
@@ -20913,11 +20988,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": "It's a terrible idea to listen. Best to keep moving.",
     "genre": null,
     "id": "118686",
-    "link": "https://alexhoratio.itch.io/banality",
+    "link": "https://pileofamoebas.itch.io/banality",
     "platforms": [
       "Windows",
       "Linux",
@@ -21182,11 +21257,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": "A hectic, fast-paced shooter where the player's job is to shoot enemies and avoid getting bounced into the walls.",
     "genre": "Shooter",
     "id": "131726",
-    "link": "https://alexhoratio.itch.io/super-displacement",
+    "link": "https://pileofamoebas.itch.io/super-displacement",
     "platforms": [
       "Windows",
       "Linux",
@@ -21311,11 +21386,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": "Be a robot, collect shoes, don't run out of power!",
     "genre": "Action",
     "id": "135210",
-    "link": "https://alexhoratio.itch.io/shoehunt",
+    "link": "https://pileofamoebas.itch.io/shoehunt",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMTM1MjEwLzYyMTMwNC5wbmc=/315x250%23c/kIPpob.png",
     "title": "Shoehunt",
@@ -30122,11 +30197,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": "A 2D hack-n-slash type deal - play as a mushroom who seeks approval from a floating eyeball.",
     "genre": "Action",
     "id": "254613",
-    "link": "https://alexhoratio.itch.io/mushroom-the-ruckus",
+    "link": "https://pileofamoebas.itch.io/mushroom-the-ruckus",
     "platforms": [
       "Windows",
       "Linux"
@@ -42369,11 +42444,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
+    "author": "PileOfAmoebas",
     "description": "A horizontal space shooter wherein you have to rescue your pet from a distant planet!",
     "genre": "Shooter",
     "id": "347928",
-    "link": "https://alexhoratio.itch.io/warp-tek",
+    "link": "https://pileofamoebas.itch.io/warp-tek",
     "platforms": [
       "Windows",
       "Linux",
@@ -58949,11 +59024,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
-    "description": null,
+    "author": "PileOfAmoebas",
+    "description": "Please save my database of EXTREMELY IMPORTANT INFORMATION.",
     "genre": "Shooter",
     "id": "481586",
-    "link": "https://alexhoratio.itch.io/32-bad-sectors",
+    "link": "https://pileofamoebas.itch.io/32-bad-sectors",
     "platforms": [
       "Windows",
       "Linux",
@@ -65075,7 +65150,7 @@
     ]
   },
   {
-    "author": "✨charly✨",
+    "author": "𝓬𝓱𝓪𝓻𝓵𝔂 🎀",
     "description": "a 3D HAMSTERBALL platformer game that only uses 2 BUTTONS!",
     "genre": "Platformer",
     "id": "533286",
@@ -101109,11 +101184,11 @@
     ]
   },
   {
-    "author": "Rat-like",
+    "author": "5ock",
     "description": "Jumping jump game in which you jump",
     "genre": "Platformer",
     "id": "730250",
-    "link": "https://rat-like.itch.io/jumpdawg-4096",
+    "link": "https://5ock.itch.io/jumpdawg-4096",
     "platforms": [
       "Windows"
     ],
@@ -126435,7 +126510,7 @@
     ]
   },
   {
-    "author": "abdelhakim",
+    "author": "Abdelhakim Mahha",
     "description": "car 2d physics with some stages and steering wheel",
     "genre": "Racing",
     "id": "868351",
@@ -128831,6 +128906,25 @@
     ]
   },
   {
+    "author": "Stave",
+    "description": "O is a game where you are the letter O and you shoot shapes.",
+    "genre": "Shooter",
+    "id": "883272",
+    "link": "https://stavegames.itch.io/o-the-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1OTc5NDEucG5n/315x250%23c/DARcAL.png",
+    "title": "O The Game",
+    "video": null,
+    "scrapeWords": [
+      "O",
+      "The",
+      "Game"
+    ]
+  },
+  {
     "author": "Ronflax",
     "description": "Hey, here is my new prototype game. You can try it quickly from the browser. Have fun!",
     "genre": "Adventure",
@@ -129849,7 +129943,7 @@
     "id": "887445",
     "link": "https://solreaper.itch.io/rb",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYyOTAwNzQucG5n/315x250%23c/ar%2F0%2BO.png",
+    "thumb": "https://img.itch.zone/aW1nLzY0NjI1MzQucG5n/315x250%23c/05yZnU.png",
     "title": "Rythm Brawl",
     "video": null,
     "scrapeWords": [
@@ -146534,11 +146628,11 @@
     ]
   },
   {
-    "author": "AlexHoratio",
-    "description": null,
+    "author": "PileOfAmoebas",
+    "description": ".... how did I get here again?",
     "genre": "Rhythm",
     "id": "991116",
-    "link": "https://alexhoratio.itch.io/heptachrome",
+    "link": "https://pileofamoebas.itch.io/heptachrome",
     "platforms": [
       "Windows",
       "Linux",
