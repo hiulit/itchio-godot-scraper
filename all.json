@@ -5732,6 +5732,29 @@
     ]
   },
   {
+    "author": "Pandaqi",
+    "description": "Cooperatively create a teddy bear topia!",
+    "genre": "Action",
+    "id": "1026852",
+    "link": "https://pandaqi.itch.io/i-wish-you-good-hug",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NTY3NTcucG5n/315x250%23c/cHHvTa.png",
+    "title": "I Wish You Good Hug",
+    "video": null,
+    "scrapeWords": [
+      "I",
+      "Wish",
+      "You",
+      "Good",
+      "Hug"
+    ]
+  },
+  {
     "author": "howmironic",
     "description": null,
     "genre": "Interactive Fiction",
@@ -8018,20 +8041,6 @@
       "de",
       "la",
       "gravité"
-    ]
-  },
-  {
-    "author": "BubbleDev",
-    "description": null,
-    "genre": "Platformer",
-    "id": "1047040",
-    "link": "https://bubbledev.itch.io/jellyjump",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzU5ODQ4NDUucG5n/315x250%23c/48AEOH.png",
-    "title": "Jelly+",
-    "video": null,
-    "scrapeWords": [
-      "Jelly"
     ]
   },
   {
@@ -14645,23 +14654,6 @@
     ]
   },
   {
-    "author": "TheLastMage",
-    "description": "The frog's quest for watermelon",
-    "genre": "Platformer",
-    "id": "1081596",
-    "link": "https://thelastdarkmage.itch.io/tooongue",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYyMDE1NTQucG5n/315x250%23c/dHskWd.png",
-    "title": "Tooongue",
-    "video": null,
-    "scrapeWords": [
-      "Tooongue"
-    ]
-  },
-  {
     "author": "Kelsala",
     "description": "a beaver and a platypus build a dam!",
     "genre": "Puzzle",
@@ -15523,11 +15515,11 @@
     ]
   },
   {
-    "author": "Tishoe",
+    "author": "shoebe",
     "description": "Fling yourself around platforms with an attached magnetic ball",
     "genre": "Platformer",
     "id": "1083311",
-    "link": "https://tishoe.itch.io/flingus",
+    "link": "https://shoebe.itch.io/flingus",
     "platforms": [
       "Windows",
       "Linux",
@@ -16322,6 +16314,23 @@
     ]
   },
   {
+    "author": "cartoonist103",
+    "description": "Rage your way through one heck of a game! (Note: May not be one heck of a game)",
+    "genre": "Platformer",
+    "id": "1084850",
+    "link": "https://cartoonist103.itch.io/rage-game-the-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYyMTc2ODgucG5n/315x250%23c/AycC%2FY.png",
+    "title": "Rage Game: The Game",
+    "video": null,
+    "scrapeWords": [
+      "Rage",
+      "Game",
+      "The",
+      "Game"
+    ]
+  },
+  {
     "author": "OppositeDonotexist",
     "description": null,
     "genre": "Puzzle",
@@ -16639,6 +16648,25 @@
     "scrapeWords": [
       "Bear-tter",
       "Together"
+    ]
+  },
+  {
+    "author": "MrPiedPiper",
+    "description": "Like soccer, but with rope and Blorbs!",
+    "genre": null,
+    "id": "1085641",
+    "link": "https://mrpiedpiper.itch.io/blorbwranglers",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyNDk0MDYucG5n/315x250%23c/Y1wzBg.png",
+    "title": "BlorbWranglers",
+    "video": null,
+    "scrapeWords": [
+      "Blorb",
+      "Wranglers"
     ]
   },
   {
@@ -18401,21 +18429,6 @@
     ]
   },
   {
-    "author": "BubbleDev",
-    "description": null,
-    "genre": null,
-    "id": "1097160",
-    "link": "https://bubbledev.itch.io/buyit",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYzMjU5MTYucG5n/315x250%23c/AJXOYw.png",
-    "title": "Buy It!",
-    "video": null,
-    "scrapeWords": [
-      "Buy",
-      "It"
-    ]
-  },
-  {
     "author": "chuchodal",
     "description": "You play as a cloak who tries to wield a shot gun",
     "genre": "Action",
@@ -19815,6 +19828,25 @@
     ]
   },
   {
+    "author": "Sagdahl",
+    "description": "Escape a maze of mind-blowing horrors and face off against C'thulu in the latest installation of the Crab Run Franchise",
+    "genre": "Platformer",
+    "id": "1108085",
+    "link": "https://sagdahl.itch.io/crab-run-cthulus-wrath",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzOTY2ODAucG5n/315x250%23c/UN4CME.png",
+    "title": "Crab Run: C'thulus Wrath",
+    "video": null,
+    "scrapeWords": [
+      "Crab",
+      "Run",
+      "Cthulus",
+      "Wrath"
+    ]
+  },
+  {
     "author": "KotoWasTaken",
     "description": "My first game, made in 1h but actually in 3h",
     "genre": "Simulation",
@@ -19884,18 +19916,21 @@
     ]
   },
   {
-    "author": "Reglest5 Games",
-    "description": "Dark stories",
-    "genre": "Adventure",
-    "id": "1108881",
-    "link": "https://reglest5-games.itch.io/baikal-tales",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzY0MDIwMTgucG5n/315x250%23c/YKO1Y6.png",
-    "title": "Baikal Tales",
+    "author": "zondarg",
+    "description": "A tanky twinstick shooter dungeon crawler for OUYA",
+    "genre": "Shooter",
+    "id": "1108814",
+    "link": "https://zondarg.itch.io/mtrs",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0OTkyMjAucG5n/315x250%23c/%2BdqpLQ.png",
+    "title": "The Mechanoid Tomb",
     "video": null,
     "scrapeWords": [
-      "Baikal",
-      "Tales"
+      "The",
+      "Mechanoid",
+      "Tomb"
     ]
   },
   {
@@ -20429,7 +20464,8 @@
     "id": "1112978",
     "link": "https://skinner-space.itch.io/big-donut",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY0MzEwNDQuZ2lm/315x250%23cm/uaDfDx.gif",
     "title": "Big Donut",
@@ -20545,23 +20581,6 @@
     "scrapeWords": [
       "Lizard",
       "Agenda"
-    ]
-  },
-  {
-    "author": "bloody chicken",
-    "description": null,
-    "genre": null,
-    "id": "1114357",
-    "link": "https://bloody-chicken.itch.io/196",
-    "platforms": [
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzY0NjkwNzMucG5n/315x250%23c/5cqarc.png",
-    "title": "Floppaware",
-    "video": null,
-    "scrapeWords": [
-      "Floppaware"
     ]
   },
   {
@@ -21253,6 +21272,20 @@
     ]
   },
   {
+    "author": "Golden _Rickyy Studios",
+    "description": "Sorry (This is not a full game but planned to be... only title screen, game, and game over",
+    "genre": "Survival",
+    "id": "1119823",
+    "link": "https://golden-rickyy-studios.itch.io/jollo",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NzUwMzkucG5n/315x250%23c/9Wd2FR.png",
+    "title": "JOLLO",
+    "video": null,
+    "scrapeWords": [
+      "JOLLO"
+    ]
+  },
+  {
     "author": "panda",
     "description": "The free mobile game experience DEMO",
     "genre": "Puzzle",
@@ -21386,7 +21419,9 @@
     "genre": "Strategy",
     "id": "1120637",
     "link": "https://gregorsoenn.itch.io/crowyal-game-of-ur",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzY0Nzk3NDYucG5n/315x250%23c/Fse6K2.png",
     "title": "Crowyal Game of Ur",
     "video": null,
@@ -21860,7 +21895,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY0OTU5NjUucG5n/315x250%23c/Mw6ZX5.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1MDMwMjIucG5n/315x250%23c/GjlcTs.png",
     "title": "Mistotion",
     "video": null,
     "scrapeWords": [
@@ -21894,7 +21929,7 @@
       "Windows",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY0OTQ3MTMucG5n/315x250%23c/HQ5QTL.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1MDgwNzkucG5n/315x250%23c/4IG9Nt.png",
     "title": "Duck Yeah!",
     "video": null,
     "scrapeWords": [
@@ -21920,6 +21955,25 @@
       "World",
       "of",
       "Ariamis"
+    ]
+  },
+  {
+    "author": "qewer33",
+    "description": null,
+    "genre": "Simulation",
+    "id": "1123357",
+    "link": "https://qewer33.itch.io/sistem-kurtarma-arac",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0OTY4ODcucG5n/315x250%23c/elKVMy.png",
+    "title": "Sistem Kurtarma Aracı",
+    "video": null,
+    "scrapeWords": [
+      "Sistem",
+      "Kurtarma",
+      "Aracı"
     ]
   },
   {
@@ -21952,6 +22006,80 @@
       "Una",
       "triste",
       "historia"
+    ]
+  },
+  {
+    "author": "Baú Maker",
+    "description": "Faça as escolhas certas nessa linha do tempo",
+    "genre": "Adventure",
+    "id": "1123779",
+    "link": "https://baumaker.itch.io/a-lifetime-of-adventures",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MDEyNTEucG5n/315x250%23c/bGVquz.png",
+    "title": "A Lifetime of Adventures",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "Lifetime",
+      "of",
+      "Adventures"
+    ]
+  },
+  {
+    "author": "lootss",
+    "description": "Fishing mini-game, entry for Fishing Game Jam 2021",
+    "genre": "Simulation",
+    "id": "1123823",
+    "link": "https://lootss.itch.io/fishing-pro-2021",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1MDEzNzMucG5n/315x250%23c/rlF5Dp.png",
+    "title": "Fishing Pro 2021",
+    "video": null,
+    "scrapeWords": [
+      "Fishing",
+      "Pro",
+      "2021"
+    ]
+  },
+  {
+    "author": "Josh",
+    "description": "An Attack On Titan based fan made spin off or something",
+    "genre": "Platformer",
+    "id": "1123947",
+    "link": "https://joshuajrodrigues.itch.io/hunting-aryn-yayger",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MDI0MzIucG5n/315x250%23c/daqmQb.png",
+    "title": "Hunting Aryn Yayger",
+    "video": null,
+    "scrapeWords": [
+      "Hunting",
+      "Aryn",
+      "Yayger"
+    ]
+  },
+  {
+    "author": "Sajeg",
+    "description": "A small game optimised for Android.",
+    "genre": null,
+    "id": "1124410",
+    "link": "https://sajeg.itch.io/falling-blocks",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MDY1MTMucG5n/315x250%23c/9i%2B8Eg.png",
+    "title": "Falling Blocks",
+    "video": null,
+    "scrapeWords": [
+      "Falling",
+      "Blocks"
     ]
   },
   {
@@ -91867,7 +91995,8 @@
     "platforms": [
       "Windows",
       "Linux",
-      "macOS"
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM3NTU0ODMucG5n/315x250%23c/XkA2ca.png",
     "title": "A Handsome Story",
@@ -122150,24 +122279,6 @@
     ]
   },
   {
-    "author": "Jawfish",
-    "description": "Godot Wild Jam #27 entry",
-    "genre": "Action",
-    "id": "829764",
-    "link": "https://jawfish.itch.io/overbooked",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ2NTAzMTEucG5n/315x250%23c/3lCJF8.png",
-    "title": "Overbooked",
-    "video": null,
-    "scrapeWords": [
-      "Overbooked"
-    ]
-  },
-  {
     "author": "Henkrip",
     "description": "Save the children and hide from the librarian",
     "genre": "Platformer",
@@ -128451,6 +128562,26 @@
     ]
   },
   {
+    "author": "nad_labs",
+    "description": null,
+    "genre": "Strategy",
+    "id": "871907",
+    "link": "https://nad-labs.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
+    ]
+  },
+  {
     "author": "GNamimates",
     "description": "among us",
     "genre": "Interactive Fiction",
@@ -131286,7 +131417,11 @@
     "genre": "Fighting",
     "id": "887445",
     "link": "https://solreaper.itch.io/rb",
-    "platforms": null,
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzY0NjI1MzQucG5n/315x250%23c/05yZnU.png",
     "title": "Rythm Brawl",
     "video": null,
@@ -136883,26 +137018,6 @@
       "Friends",
       "Dungeon",
       "Rescue"
-    ]
-  },
-  {
-    "author": "twodotsixk",
-    "description": "help an alien to escape from a laboratory cloning himself",
-    "genre": "Platformer",
-    "id": "924725",
-    "link": "https://twodotsixk.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyMjkxODgucG5n/315x250%23c/0SdS0C.png",
-    "title": "Escape The Lab",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Lab"
     ]
   },
   {
