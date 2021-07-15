@@ -8044,6 +8044,20 @@
     ]
   },
   {
+    "author": "BubbleDev",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1047040",
+    "link": "https://bubbledev.itch.io/jellyjump",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5ODQ4NDUucG5n/315x250%23c/48AEOH.png",
+    "title": "Jelly+",
+    "video": null,
+    "scrapeWords": [
+      "Jelly"
+    ]
+  },
+  {
     "author": "Sezotove",
     "description": null,
     "genre": "Strategy",
@@ -14654,6 +14668,23 @@
     ]
   },
   {
+    "author": "TheLastMage",
+    "description": "The frog's quest for watermelon",
+    "genre": "Platformer",
+    "id": "1081596",
+    "link": "https://thelastdarkmage.itch.io/tooongue",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyMDE1NTQucG5n/315x250%23c/dHskWd.png",
+    "title": "Tooongue",
+    "video": null,
+    "scrapeWords": [
+      "Tooongue"
+    ]
+  },
+  {
     "author": "Kelsala",
     "description": "a beaver and a platypus build a dam!",
     "genre": "Puzzle",
@@ -18072,7 +18103,7 @@
     ]
   },
   {
-    "author": "antoNEO",
+    "author": "Atoneo",
     "description": "Gunbotro is a platformer game where you need to save ammo, you only get 10 ammo bullets.",
     "genre": "Platformer",
     "id": "1095869",
@@ -18426,6 +18457,21 @@
     "scrapeWords": [
       "n",
       "Portal"
+    ]
+  },
+  {
+    "author": "BubbleDev",
+    "description": null,
+    "genre": null,
+    "id": "1097160",
+    "link": "https://bubbledev.itch.io/buyit",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYzMjU5MTYucG5n/315x250%23c/AJXOYw.png",
+    "title": "Buy It!",
+    "video": null,
+    "scrapeWords": [
+      "Buy",
+      "It"
     ]
   },
   {
@@ -18972,7 +19018,7 @@
     "description": "A quick, relaxing, and easy-to-consume 1-button game involving teleportation.",
     "genre": null,
     "id": "1103057",
-    "link": "https://supersleeper.itch.io/boundless-button",
+    "link": "https://sneepypixels.itch.io/boundless-button",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYzNjM3NDUucG5n/315x250%23c/060vac.png",
     "title": "Boundless Button",
@@ -19351,7 +19397,7 @@
     ]
   },
   {
-    "author": "Firminou",
+    "author": "firminou",
     "description": "A top down roguelike where three dices decide your skills",
     "genre": "Shooter",
     "id": "1104968",
@@ -20790,7 +20836,9 @@
     "id": "1117386",
     "link": "https://bottled-up-studio.itch.io/last-ticket-for-eternity",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY0OTA4OTEucG5n/315x250%23c/mHeW8G.png",
     "title": "Last ticket for Eternity",
@@ -20877,7 +20925,7 @@
     ]
   },
   {
-    "author": "Firminou",
+    "author": "firminou",
     "description": "A speedrunning game in the dark",
     "genre": "Racing",
     "id": "1117950",
@@ -20891,6 +20939,22 @@
       "the",
       "light",
       "told"
+    ]
+  },
+  {
+    "author": "Taishoo",
+    "description": "A top-down action RPG featuring the story of the unsung hero of modern Filipino mythology and the last moon.",
+    "genre": "Role Playing",
+    "id": "1117992",
+    "link": "https://taishoo.itch.io/mithos",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0NjM3MTUucG5n/315x250%23c/nNrqJ6.png",
+    "title": "Mithos",
+    "video": null,
+    "scrapeWords": [
+      "Mithos"
     ]
   },
   {
@@ -21101,7 +21165,7 @@
     "description": "A classic space shooter bullet hell with a twist",
     "genre": "Shooter",
     "id": "1118752",
-    "link": "https://supersleeper.itch.io/time-talon",
+    "link": "https://sneepypixels.itch.io/time-talon",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY0NjgxOTAucG5n/315x250%23c/Vv89Tx.png",
     "title": "Time Talon",
@@ -21411,6 +21475,26 @@
     "video": null,
     "scrapeWords": [
       "Virement"
+    ]
+  },
+  {
+    "author": "futur_null",
+    "description": "Vaporwave action game; not about The Simpsons",
+    "genre": "Action",
+    "id": "1120565",
+    "link": "https://futur-null.itch.io/tremblay-kinfolk-overdrive",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0Nzk0ODkucG5n/315x250%23c/uEofdW.png",
+    "title": "Tremblay Kinfolk Overdrive",
+    "video": null,
+    "scrapeWords": [
+      "Tremblay",
+      "Kinfolk",
+      "Overdrive"
     ]
   },
   {
@@ -21887,6 +21971,22 @@
     ]
   },
   {
+    "author": "MsCarrotCake",
+    "description": "Management game about renting out your space",
+    "genre": "Strategy",
+    "id": "1122533",
+    "link": "https://mscarrotcake.itch.io/space-for-rent",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0OTIzODMucG5n/315x250%23c/ZjZwNu.png",
+    "title": "Space for rent",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "for",
+      "rent"
+    ]
+  },
+  {
     "author": "EakyRtk",
     "description": "Canım Ana'nın yerinde doğru iksir tariflerini oluşturmaya çalış. Bu yolda karşına zorluklar çıkacak!",
     "genre": "Action",
@@ -22064,6 +22164,21 @@
     ]
   },
   {
+    "author": "Kimzzy",
+    "description": "Ghost theme, on the classic Snake.",
+    "genre": "Puzzle",
+    "id": "1124378",
+    "link": "https://kimzzy.itch.io/ghost-snake",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1MDYzOTkuanBn/315x250%23c/zi8zmZ.jpg",
+    "title": "Ghost Snake",
+    "video": null,
+    "scrapeWords": [
+      "Ghost",
+      "Snake"
+    ]
+  },
+  {
     "author": "Sajeg",
     "description": "A small game optimised for Android.",
     "genre": null,
@@ -22080,6 +22195,23 @@
     "scrapeWords": [
       "Falling",
       "Blocks"
+    ]
+  },
+  {
+    "author": "Infatuation",
+    "description": "An in-development subversive bullet-hell",
+    "genre": "Shooter",
+    "id": "1124516",
+    "link": "https://infatuation.itch.io/bullet-priest",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MDc5MDYucG5n/315x250%23c/DmrukE.png",
+    "title": "Bullet Priest",
+    "video": null,
+    "scrapeWords": [
+      "Bullet",
+      "Priest"
     ]
   },
   {
@@ -22101,6 +22233,40 @@
       "Another",
       "Puzzle",
       "Game"
+    ]
+  },
+  {
+    "author": "vadik07",
+    "description": "Hold on as much as you can before the water rises!",
+    "genre": "Action",
+    "id": "1125193",
+    "link": "https://vadik07.itch.io/out-of-bolts",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1MTIxNjkucG5n/315x250%23c/AAkJct.png",
+    "title": "Out of Bolts!",
+    "video": null,
+    "scrapeWords": [
+      "Out",
+      "of",
+      "Bolts"
+    ]
+  },
+  {
+    "author": "TheFallenLegion",
+    "description": "Simple top down shooter with weird shooting",
+    "genre": "Shooter",
+    "id": "1125378",
+    "link": "https://thefallenlegion.itch.io/space-attack-force",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MTM1NDgucG5n/315x250%23c/eRfkXU.png",
+    "title": "Space Attack Force",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Attack",
+      "Force"
     ]
   },
   {
@@ -79316,25 +79482,6 @@
     ]
   },
   {
-    "author": "GruseT",
-    "description": "You play as a ember trying to find its way back to the fiery brazier it calls home. but be careful not to burn out!",
-    "genre": "Platformer",
-    "id": "615254",
-    "link": "https://gruset.itch.io/dying-ember",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMyNzMyMTcucG5n/315x250%23c/HbGdz6.png",
-    "title": "Dying Ember",
-    "video": null,
-    "scrapeWords": [
-      "Dying",
-      "Ember"
-    ]
-  },
-  {
     "author": "Rafa Fiedo",
     "description": "Game made during a gamejam - Ludum Dare 46 whith theme \"Keep it alive\"",
     "genre": "Strategy",
@@ -104402,6 +104549,23 @@
     ]
   },
   {
+    "author": "GFXghost",
+    "description": "A minimalistic, casual, rotation-based puzzle game.",
+    "genre": "Puzzle",
+    "id": "735266",
+    "link": "https://gfxghost.itch.io/silrolette",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwOTE5MjAucG5n/315x250%23c/dR6Rvn.png",
+    "title": "Silrolette",
+    "video": null,
+    "scrapeWords": [
+      "Silrolette"
+    ]
+  },
+  {
     "author": "Code Wiz Reading",
     "description": "A game created by a Code Wiz student.",
     "genre": "Platformer",
@@ -109826,7 +109990,7 @@
     ]
   },
   {
-    "author": "atmozzie",
+    "author": "Anderson Alvarenga",
     "description": "Jogo feito no Godot Engine e disponível no Google Play Store",
     "genre": "Shooter",
     "id": "756161",
@@ -122279,6 +122443,24 @@
     ]
   },
   {
+    "author": "Jawfish",
+    "description": "Godot Wild Jam #27 entry",
+    "genre": "Action",
+    "id": "829764",
+    "link": "https://jawfish.itch.io/overbooked",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ2NTAzMTEucG5n/315x250%23c/3lCJF8.png",
+    "title": "Overbooked",
+    "video": null,
+    "scrapeWords": [
+      "Overbooked"
+    ]
+  },
+  {
     "author": "Henkrip",
     "description": "Save the children and hide from the librarian",
     "genre": "Platformer",
@@ -129236,6 +129418,22 @@
     ]
   },
   {
+    "author": "pixel_strengthTWITCH_YT",
+    "description": "DEMO V1.2.6",
+    "genre": "Platformer",
+    "id": "876402",
+    "link": "https://pixel-strengthtwitch-yt.itch.io/angela",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MzE2NjQucG5n/315x250%23c/BBegmx.png",
+    "title": "Angela",
+    "video": null,
+    "scrapeWords": [
+      "Angela"
+    ]
+  },
+  {
     "author": "Lerg-exe",
     "description": "You are the robot who was sent from the future to save humanity.  Isnpired by Karlson2D and katan zero(but not as good)",
     "genre": "Action",
@@ -129974,24 +130172,6 @@
     "scrapeWords": [
       "Snow",
       "Sorrow"
-    ]
-  },
-  {
-    "author": "Foxiz",
-    "description": null,
-    "genre": null,
-    "id": "879915",
-    "link": "https://foxiz.itch.io/bob-the-bakery",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ5NTMwMDcucG5n/315x250%23c/byAsCq.png",
-    "title": "Bob the Bakery",
-    "video": null,
-    "scrapeWords": [
-      "Bob",
-      "the",
-      "Bakery"
     ]
   },
   {
@@ -132623,14 +132803,14 @@
   },
   {
     "author": "spiderdash",
-    "description": "Precision based puzzle game about dashing in the world of polygons.",
+    "description": "You cannot pass through your own tail!",
     "genre": "Puzzle",
     "id": "896896",
     "link": "https://spiderdash.itch.io/long-tail",
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY0MzUwOTIucG5n/315x250%23c/8cAknn.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1MTMwOTgucG5n/315x250%23c/vSvxVA.png",
     "title": "Long Tail",
     "video": null,
     "scrapeWords": [
@@ -140299,6 +140479,23 @@
     ]
   },
   {
+    "author": "TheoTheTorch",
+    "description": "You fall down into a deep blue cave. You have to get out, by breaking the magic crystal.",
+    "genre": "Platformer",
+    "id": "940537",
+    "link": "https://theothetorch.itch.io/blue-insides",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzMjg4MjYucG5n/315x250%23c/w9Bf7t.png",
+    "title": "Blue Insides",
+    "video": null,
+    "scrapeWords": [
+      "Blue",
+      "Insides"
+    ]
+  },
+  {
     "author": "Wartori",
     "description": "Game for wowie game jam",
     "genre": "Platformer",
@@ -140753,7 +140950,7 @@
     ]
   },
   {
-    "author": "atmozzie",
+    "author": "Anderson Alvarenga",
     "description": "Jogo feito na Global Game Jam 2021 usando Godot Engine",
     "genre": "Adventure",
     "id": "943365",
@@ -149085,6 +149282,22 @@
     "video": null,
     "scrapeWords": [
       "Divisible"
+    ]
+  },
+  {
+    "author": "Gerhard Atze",
+    "description": "A lone gunman defending his last stand in the desert heat",
+    "genre": "Survival",
+    "id": "999394",
+    "link": "https://gerhard-atze.itch.io/zombrero",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2ODg5NDkucG5n/315x250%23c/7BMdCm.png",
+    "title": "Zombrero",
+    "video": null,
+    "scrapeWords": [
+      "Zombrero"
     ]
   },
   {
