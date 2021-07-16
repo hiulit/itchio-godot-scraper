@@ -9176,6 +9176,25 @@
     ]
   },
   {
+    "author": "GuiWong",
+    "description": "Shop simulator in a rpg-like game",
+    "genre": null,
+    "id": "1053327",
+    "link": "https://guiwong.itch.io/shopkeepers-duty",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYwMzk1NDcucG5n/315x250%23c/YVADa4.png",
+    "title": "Shopkeeper's Duty",
+    "video": null,
+    "scrapeWords": [
+      "Shopkeepers",
+      "Duty"
+    ]
+  },
+  {
     "author": "Zachary Pinkham",
     "description": "Collect and pack weapons in this grid-based puzzle game to help your knight win his battles!",
     "genre": "Puzzle",
@@ -12933,11 +12952,11 @@
     ]
   },
   {
-    "author": "Quantum Studios",
+    "author": "iQuantum Studios",
     "description": "Rogue-Lite browser enemy-hitting madness!",
     "genre": null,
     "id": "1072908",
-    "link": "https://iquantum-studios.itch.io/arkalite",
+    "link": "https://iquantum-studios.itch.io/arklite",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY0NTk4NjQucG5n/315x250%23c/5GcO25.png",
     "title": "ArkLite",
@@ -17793,22 +17812,6 @@
     ]
   },
   {
-    "author": "HyphenPixel",
-    "description": "The early EARLY alpha of a game I'm going to be working on",
-    "genre": "Survival",
-    "id": "1094238",
-    "link": "https://http-r-hyphenpixel.itch.io/islands-alpha",
-    "platforms": [
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYzMDQ5OTcucG5n/315x250%23c/PifFvB.png",
-    "title": "Islands_Alpha_0.1.1",
-    "video": null,
-    "scrapeWords": [
-      "Islands_Alpha_011"
-    ]
-  },
-  {
     "author": "Skinner Space",
     "description": "Smash cars and drive at full speed!",
     "genre": "Racing",
@@ -19893,6 +19896,22 @@
     ]
   },
   {
+    "author": "Pekko",
+    "description": "Compact Survival Multiplayer Game, Focused on combat, base building, and upgrading tools.",
+    "genre": "Survival",
+    "id": "1108394",
+    "link": "https://pekkoyama.itch.io/flint",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MjAzMzkucG5n/315x250%23c/k91pIA.png",
+    "title": "Flint",
+    "video": null,
+    "scrapeWords": [
+      "Flint"
+    ]
+  },
+  {
     "author": "KotoWasTaken",
     "description": "My first game, made in 1h but actually in 3h",
     "genre": "Simulation",
@@ -21728,7 +21747,7 @@
   },
   {
     "author": "MadEngineer",
-    "description": "Just a small roguelike I made as an early birthday present for the VTuber DiceQueenDi",
+    "description": "Just a small roguelike I made  for the VTuber DiceQueenDi",
     "genre": "Strategy",
     "id": "1121724",
     "link": "https://madengineer.itch.io/witch-hunter-di-to-the-rescue",
@@ -21783,6 +21802,22 @@
       "Face",
       "Underwater",
       "Diver"
+    ]
+  },
+  {
+    "author": "guydoesthings",
+    "description": "escape a facility using your health as ammo",
+    "genre": null,
+    "id": "1121838",
+    "link": "https://guydoesthings.itch.io/slime-game",
+    "platforms": null,
+    "thumb": null,
+    "title": "unamed jam game",
+    "video": null,
+    "scrapeWords": [
+      "unamed",
+      "jam",
+      "game"
     ]
   },
   {
@@ -22144,6 +22179,25 @@
     ]
   },
   {
+    "author": "DiamondWarrior",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1123859",
+    "link": "https://diamondwarrior.itch.io/edward-the-egg",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MDE3OTIucG5n/315x250%23c/%2BsPmpa.png",
+    "title": "Edward The Egg",
+    "video": null,
+    "scrapeWords": [
+      "Edward",
+      "The",
+      "Egg"
+    ]
+  },
+  {
     "author": "Josh",
     "description": "An Attack On Titan based fan made spin off or something",
     "genre": "Platformer",
@@ -22270,6 +22324,22 @@
     ]
   },
   {
+    "author": "sushi",
+    "description": "A short and sweet pet simulation game.",
+    "genre": "Simulation",
+    "id": "1125768",
+    "link": "https://rainbowism.itch.io/socks",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MTYzMDMucG5n/315x250%23c/%2FFOcFn.png",
+    "title": "Socks",
+    "video": null,
+    "scrapeWords": [
+      "Socks"
+    ]
+  },
+  {
     "author": "airmcmonky",
     "description": "Keep the sides from touching",
     "genre": null,
@@ -22283,6 +22353,77 @@
       "Two",
       "Button",
       "Speed"
+    ]
+  },
+  {
+    "author": "MujuOFC",
+    "description": "a game I'm creating from 2d shooting, this is my first game, so if it's buggy haha ​​ha ha ha",
+    "genre": "Action",
+    "id": "1125950",
+    "link": "https://mujuofc.itch.io/stay-alive",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1MjI1ODAucG5n/315x250%23c/b78D5e.png",
+    "title": "Stay alive",
+    "video": null,
+    "scrapeWords": [
+      "Stay",
+      "alive"
+    ]
+  },
+  {
+    "author": "Xalph Five",
+    "description": "What if Rock Paper Scissors was a chill card game?",
+    "genre": "Card Game",
+    "id": "1125967",
+    "link": "https://xalph555.itch.io/rpscg",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MTc5NDEucG5n/315x250%23c/RXkgK3.png",
+    "title": "Rock Paper Scissors The Card Game",
+    "video": null,
+    "scrapeWords": [
+      "Rock",
+      "Paper",
+      "Scissors",
+      "The",
+      "Card",
+      "Game"
+    ]
+  },
+  {
+    "author": "mokarrom",
+    "description": "A small local multiplayer game made using Godot",
+    "genre": "Shooter",
+    "id": "1125997",
+    "link": "https://mokarrom.itch.io/dotwar",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MTgzNjQucG5n/315x250%23c/9fF1eC.png",
+    "title": "DotWar",
+    "video": null,
+    "scrapeWords": [
+      "Dot",
+      "War"
+    ]
+  },
+  {
+    "author": "fabianchelba5",
+    "description": null,
+    "genre": "Action",
+    "id": "1126904",
+    "link": "https://fabianchelba5.itch.io/pillige-of-liberty",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MjQ1NTUucG5n/315x250%23c/7kDgXl.png",
+    "title": "Pillige Of liberty",
+    "video": null,
+    "scrapeWords": [
+      "Pillige",
+      "Of",
+      "liberty"
     ]
   },
   {
@@ -53792,6 +53933,24 @@
     ]
   },
   {
+    "author": "Kidoncio",
+    "description": "A bunny platformer",
+    "genre": "Platformer",
+    "id": "438599",
+    "link": "https://kidoncio.itch.io/hoppy-days",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Joe",
     "description": "A  2d space shooter with exploding asteroids",
     "genre": "Shooter",
@@ -79479,6 +79638,25 @@
     "scrapeWords": [
       "Pet",
       "Keeper"
+    ]
+  },
+  {
+    "author": "GruseT",
+    "description": "You play as a ember trying to find its way back to the fiery brazier it calls home. but be careful not to burn out!",
+    "genre": "Platformer",
+    "id": "615254",
+    "link": "https://gruset.itch.io/dying-ember",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyNzMyMTcucG5n/315x250%23c/HbGdz6.png",
+    "title": "Dying Ember",
+    "video": null,
+    "scrapeWords": [
+      "Dying",
+      "Ember"
     ]
   },
   {
@@ -109026,7 +109204,7 @@
     ]
   },
   {
-    "author": "Double Blade Studios",
+    "author": "D. Zenith",
     "description": "A very short horror game based on the Ben Drowned creepypasta story by Jadusable.",
     "genre": "Adventure",
     "id": "751592",
@@ -109884,7 +110062,7 @@
   },
   {
     "author": "DefaultHeathen",
-    "description": "Survive",
+    "description": "Blast guns through a tight ancient sewer system to bring survivors home! If only you knew where the exit was.....",
     "genre": null,
     "id": "755658",
     "link": "https://defaultheathen.itch.io/caverns",
@@ -113196,11 +113374,11 @@
     ]
   },
   {
-    "author": "Knights Game",
+    "author": "GenesisViado",
     "description": "New Hard Game 2020",
     "genre": "Puzzle",
     "id": "772707",
-    "link": "https://knights-game.itch.io/hardest-game-ez-edition",
+    "link": "https://genesisviado.itch.io/hardest-game-ez-edition",
     "platforms": [
       "Windows"
     ],
@@ -125283,11 +125461,11 @@
     ]
   },
   {
-    "author": "Knights Game",
+    "author": "GenesisViado",
     "description": "Adventure Game 2021",
     "genre": "Adventure",
     "id": "848694",
-    "link": "https://knights-game.itch.io/hulu-adventure",
+    "link": "https://genesisviado.itch.io/hulu-adventure",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ4MDEyMjUucG5n/315x250%23c/Z9GbUW.png",
     "title": "Hulu Adventure",
@@ -132803,7 +132981,7 @@
   },
   {
     "author": "spiderdash",
-    "description": "You cannot pass through your own tail!",
+    "description": "You cannot pass through your own tail! How do you collect all coins on the board?",
     "genre": "Puzzle",
     "id": "896896",
     "link": "https://spiderdash.itch.io/long-tail",
@@ -132878,7 +133056,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY0NTUxODgucG5n/315x250%23c/2rvXol.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1MjQ2NjMucG5n/315x250%23c/tvZi%2FX.png",
     "title": "Gedaria",
     "video": null,
     "scrapeWords": [
@@ -133290,11 +133468,11 @@
     ]
   },
   {
-    "author": "Knights Game",
+    "author": "GenesisViado",
     "description": "The New Adventure Game.",
     "genre": "Adventure",
     "id": "900782",
-    "link": "https://knights-game.itch.io/jemeyah",
+    "link": "https://genesisviado.itch.io/jemeyah",
     "platforms": [
       "Windows",
       "Android"
@@ -133471,7 +133649,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYxMDkyNzMucG5n/315x250%23c/oNY7RP.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1MjQwMDgucG5n/315x250%23c/nF8X4j.png",
     "title": "Of Mice and Moggies",
     "video": null,
     "scrapeWords": [
@@ -141296,21 +141474,6 @@
     "video": null,
     "scrapeWords": [
       "Boxoku"
-    ]
-  },
-  {
-    "author": "JurassicKangaru",
-    "description": null,
-    "genre": null,
-    "id": "945822",
-    "link": "https://jurassickangaru.itch.io/hoppy-days",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
