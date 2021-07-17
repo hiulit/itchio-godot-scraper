@@ -8627,6 +8627,22 @@
     ]
   },
   {
+    "author": "AnNoviceIndie",
+    "description": "Will you able to escape without losing your mind? Don't stress out!!!",
+    "genre": "Action",
+    "id": "1051981",
+    "link": "https://annoviceindie.itch.io/nin9",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MjU4NDAucG5n/315x250%23c/enSTaG.png",
+    "title": "Nin9",
+    "video": null,
+    "scrapeWords": [
+      "Nin9"
+    ]
+  },
+  {
     "author": "BackAt50Ft",
     "description": "Made for GodotCon, July 2021",
     "genre": "Puzzle",
@@ -17365,8 +17381,10 @@
     "genre": "Puzzle",
     "id": "1089619",
     "link": "https://elarnoldo.itch.io/popgamedemo",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYzNzAwNzkucG5n/315x250%23c/F%2FvhoS.png",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MzE2MTAucG5n/315x250%23c/WT64%2Fx.png",
     "title": "PopGameDemo",
     "video": null,
     "scrapeWords": [
@@ -17800,7 +17818,6 @@
     "id": "1094227",
     "link": "https://humboldt123.itch.io/cosmic-spirit",
     "platforms": [
-      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYzMDQ5MDEucG5n/315x250%23c/NcqyeQ.png",
@@ -19002,6 +19019,25 @@
     ]
   },
   {
+    "author": "Glitenshi",
+    "description": "Control God and take care of rainbows!",
+    "genre": null,
+    "id": "1102301",
+    "link": "https://glitenshi.itch.io/dontworryrainbows",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzNTkxMDcucG5n/315x250%23c/hl0mru.png",
+    "title": "Don't worry, Rainbows!",
+    "video": null,
+    "scrapeWords": [
+      "Dont",
+      "worry",
+      "Rainbows"
+    ]
+  },
+  {
     "author": "Exuin",
     "description": "Mini Jam 83: Dread!",
     "genre": "Action",
@@ -19473,7 +19509,9 @@
     "link": "https://wimpress.itch.io/little-spy",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY0NjM3NTUucG5n/315x250%23c/5roLF1.png",
     "title": "Little Spy",
@@ -20962,7 +21000,7 @@
   },
   {
     "author": "Taishoo",
-    "description": "A top-down action RPG featuring the story of the unsung hero of modern Filipino mythology and the last moon.",
+    "description": "A top-down filipino A-RPG featuring the story of the unsung hero of ancient pinoy mythology during medieval philippines.",
     "genre": "Role Playing",
     "id": "1117992",
     "link": "https://taishoo.itch.io/mithos",
@@ -22306,6 +22344,33 @@
     ]
   },
   {
+    "author": "PneumaVoid",
+    "description": "How can you find a purpose, when the entire world has been destroyed?",
+    "genre": "Visual Novel",
+    "id": "1125356",
+    "link": "https://pneumavoid.itch.io/the-girl-i-met-at-the-end-of-the-world",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MjYzNjkucG5n/315x250%23c/3Ltrx4.png",
+    "title": "The Girl I Met At The End Of The World",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Girl",
+      "I",
+      "Met",
+      "At",
+      "The",
+      "End",
+      "Of",
+      "The",
+      "World"
+    ]
+  },
+  {
     "author": "TheFallenLegion",
     "description": "Simple top down shooter with weird shooting",
     "genre": "Shooter",
@@ -22406,6 +22471,26 @@
     "scrapeWords": [
       "Dot",
       "War"
+    ]
+  },
+  {
+    "author": "Walrusware",
+    "description": "A project Lunar Marathon game",
+    "genre": "Visual Novel",
+    "id": "1126815",
+    "link": "https://walrusware.itch.io/emily-is-at-the-zoo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MjYzMTYucG5n/315x250%23c/onMSk%2B.png",
+    "title": "Emily is at the Zoo",
+    "video": null,
+    "scrapeWords": [
+      "Emily",
+      "is",
+      "at",
+      "the",
+      "Zoo"
     ]
   },
   {
@@ -50314,7 +50399,7 @@
   },
   {
     "author": "Niv 🦌",
-    "description": "a slice-of-death adventure",
+    "description": null,
     "genre": "Visual Novel",
     "id": "408890",
     "link": "https://nivrad00.itch.io/purrgatory-icd",
@@ -50323,7 +50408,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIwMzIyMjgucG5n/315x250%23c/NQe2Qw.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1Mjg4NDMucG5n/315x250%23c/GcJA4x.png",
     "title": "purrgatory - i can't draw jam",
     "video": null,
     "scrapeWords": [
@@ -68494,6 +68579,25 @@
     ]
   },
   {
+    "author": "janglee",
+    "description": "Move inside a surface of a cube and find your way to the next level.",
+    "genre": "Puzzle",
+    "id": "543583",
+    "link": "https://janglee.itch.io/earth-is-flat",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MTI0MTYucG5n/315x250%23c/RIhj4f.png",
+    "title": "Earth is Flat",
+    "video": null,
+    "scrapeWords": [
+      "Earth",
+      "is",
+      "Flat"
+    ]
+  },
+  {
     "author": "Deakcor",
     "description": "Save all the spirits",
     "genre": "Adventure",
@@ -69906,11 +70010,11 @@
     ]
   },
   {
-    "author": "//amaZoo",
+    "author": "LlamaAndSloth",
     "description": "Try to fix your spacecraft to save you from an Asteroid!",
     "genre": "Puzzle",
     "id": "552766",
-    "link": "https://llamazoo.itch.io/enter-the-glitch",
+    "link": "https://llama-and-sloth.itch.io/enter-the-glitch",
     "platforms": [
       "Windows",
       "macOS"
@@ -96342,6 +96446,26 @@
     ]
   },
   {
+    "author": "idletalent_me",
+    "description": "Catch and cuddle those naughty teddies before they can smash the priceless artifacts!",
+    "genre": "Action",
+    "id": "697134",
+    "link": "https://idletalent-me.itch.io/naughty-teddies-invade-the-museum",
+    "platforms": [
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYxMDY4NjIucG5n/315x250%23c/baYj3n.png",
+    "title": "Naughty Teddies Invade the Museum",
+    "video": null,
+    "scrapeWords": [
+      "Naughty",
+      "Teddies",
+      "Invade",
+      "the",
+      "Museum"
+    ]
+  },
+  {
     "author": "littlebattler",
     "description": "You may want to win, but your cat doesn't care.",
     "genre": "Racing",
@@ -108344,25 +108468,6 @@
     ]
   },
   {
-    "author": "Bilzeiboube",
-    "description": "Start a new project ! It's an alpha.",
-    "genre": "Platformer",
-    "id": "748062",
-    "link": "https://bilzeiboube.itch.io/rocketjourney",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQxNzc3NjMuanBn/315x250%23c/K%2FKUR1.jpg",
-    "title": "RocketJourney",
-    "video": null,
-    "scrapeWords": [
-      "Rocket",
-      "Journey"
-    ]
-  },
-  {
     "author": "TrueSaltireX",
     "description": "First demo game made with Godot",
     "genre": "Platformer",
@@ -116708,11 +116813,11 @@
     ]
   },
   {
-    "author": "Andre Game Dev!",
+    "author": "async studio",
     "description": null,
     "genre": "Strategy",
     "id": "790583",
-    "link": "https://andregamedev.itch.io/samurai-hex",
+    "link": "https://async-studio.itch.io/samurai-hex",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ0MjY0NDIucG5n/315x250%23c/dX9QyU.png",
     "title": "Samurai Hex",
@@ -122314,6 +122419,23 @@
     ]
   },
   {
+    "author": "MadamLaunch",
+    "description": "Literally just Puzzle Fighter but better",
+    "genre": "Puzzle",
+    "id": "828304",
+    "link": "https://madamlaunch.itch.io/comeback",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzUzODQ3MzkuZ2lm/315x250%23cm/FpwXdR.gif",
+    "title": "Comeback",
+    "video": "https://img.itch.zone/aW1nLzUzODQ3MzkuZ2lm/original/ij%2Bq0e.gif",
+    "scrapeWords": [
+      "Comeback"
+    ]
+  },
+  {
     "author": "Fupi",
     "description": "Rearrange animations to get the character past the obstacles!",
     "genre": "Puzzle",
@@ -122481,7 +122603,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMDM4ODEucG5n/315x250%23c/wmoMgA.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1MjkxMjYucG5n/315x250%23c/ABz4TV.png",
     "title": "Escape The Box",
     "video": null,
     "scrapeWords": [
@@ -132981,7 +133103,7 @@
   },
   {
     "author": "spiderdash",
-    "description": "You cannot pass through your own tail! How do you collect all coins on the board?",
+    "description": "You cannot pass through your own tail! How will you collect all coins on the board?",
     "genre": "Puzzle",
     "id": "896896",
     "link": "https://spiderdash.itch.io/long-tail",
@@ -134052,24 +134174,6 @@
     "video": null,
     "scrapeWords": [
       "Madeleine"
-    ]
-  },
-  {
-    "author": "Bilzeiboube",
-    "description": "This game was made for the Globale Game Jam in 48 hours.",
-    "genre": "Action",
-    "id": "903149",
-    "link": "https://bilzeiboube.itch.io/arefable",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUwOTk3NDIuanBn/315x250%23c/sglR9N.jpg",
-    "title": "Aréfable",
-    "video": null,
-    "scrapeWords": [
-      "Aréfable"
     ]
   },
   {
@@ -140435,6 +140539,26 @@
       "Beat",
       "the",
       "Witch"
+    ]
+  },
+  {
+    "author": "QUARTZO Game Studio",
+    "description": "Reconnect with the meaning of the colors, restore the power of the crystals and make the world colorful again!",
+    "genre": "Platformer",
+    "id": "939752",
+    "link": "https://gamesbyquartzo.itch.io/iris",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU4NzY1NDkucG5n/315x250%23c/XcG7e3.png",
+    "title": "IRIS: A Colorful Dream",
+    "video": null,
+    "scrapeWords": [
+      "IRIS",
+      "A",
+      "Colorful",
+      "Dream"
     ]
   },
   {
@@ -149330,7 +149454,7 @@
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzU2ODYxMjMucG5n/315x250%23c/x1I1L%2F.png",
-    "title": "I Know You, But How Visual Novel",
+    "title": "I Know You, But How Visual Novel Demo",
     "video": null,
     "scrapeWords": [
       "I",
