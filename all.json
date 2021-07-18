@@ -2605,11 +2605,11 @@
     ]
   },
   {
-    "author": "PseudotsugaMensk",
+    "author": "AdeptusCat",
     "description": "A take on the weeping angels from the Dr. Who universe. Dont let them get close enough to touch you!",
     "genre": "Survival",
     "id": "1012899",
-    "link": "https://pseudotsugamensk.itch.io/fear-jam-8-dont-blink",
+    "link": "https://adeptuscat.itch.io/fear-jam-8-dont-blink",
     "platforms": [
       "Linux"
     ],
@@ -3450,6 +3450,23 @@
       "seen",
       "the",
       "children"
+    ]
+  },
+  {
+    "author": "tj1603",
+    "description": null,
+    "genre": "Action",
+    "id": "1014994",
+    "link": "https://tj1603.itch.io/henk-rpg",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY0NDgxNDQucG5n/315x250%23c/QNgOI6.png",
+    "title": "HenkRPG",
+    "video": null,
+    "scrapeWords": [
+      "Henk",
+      "RPG"
     ]
   },
   {
@@ -13098,11 +13115,7 @@
     "genre": "Racing",
     "id": "1075083",
     "link": "https://nerdiful.itch.io/untitled-hover-bike-racing-game",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzYxNjQwNDUucG5n/315x250%23c/fiRNNz.png",
     "title": "Hover Bike Racing Game",
     "video": null,
@@ -17042,6 +17055,23 @@
     ]
   },
   {
+    "author": "Creepy Ellie",
+    "description": "Give blood, Feed Your Heart",
+    "genre": "Action",
+    "id": "1087011",
+    "link": "https://creepy-ellie.itch.io/blood-oxygen",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyNTk4MTEucG5n/315x250%23c/LeVIDE.png",
+    "title": "Blood Oxygen",
+    "video": null,
+    "scrapeWords": [
+      "Blood",
+      "Oxygen"
+    ]
+  },
+  {
     "author": "Mostly Mirth",
     "description": "A platforming game about controlling 2 slimes",
     "genre": "Platformer",
@@ -17818,6 +17848,7 @@
     "id": "1094227",
     "link": "https://humboldt123.itch.io/cosmic-spirit",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYzMDQ5MDEucG5n/315x250%23c/NcqyeQ.png",
@@ -20243,22 +20274,18 @@
   },
   {
     "author": "Reco Diq",
-    "description": "Worlds Hardest Game",
+    "description": "Worlds Hardest Game!!",
     "genre": "Strategy",
     "id": "1110456",
-    "link": "https://bubdlowski-games.itch.io/dodge-the-box",
+    "link": "https://reco-diq.itch.io/to-the-gates",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY0MTMxMTgucG5n/315x250%23c/33tSNA.png",
-    "title": "Dodge The Box(The Hardest Game Ever)",
+    "title": "To The Gates",
     "video": null,
     "scrapeWords": [
-      "Dodge",
+      "To",
       "The",
-      "Box",
-      "The",
-      "Hardest",
-      "Game",
-      "Ever"
+      "Gates"
     ]
   },
   {
@@ -20363,6 +20390,25 @@
       "Shooter",
       "Game",
       "Thingy"
+    ]
+  },
+  {
+    "author": "Spirit Warrior",
+    "description": "Jake is trapped in a strange cave, help him out.",
+    "genre": "Platformer",
+    "id": "1111268",
+    "link": "https://spirit-warrior.itch.io/the-clumsy-miner",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MDIzNTYucG5n/315x250%23c/6%2F1G38.png",
+    "title": "Jake & The Mysterious Cave",
+    "video": null,
+    "scrapeWords": [
+      "Jake",
+      "The",
+      "Mysterious",
+      "Cave"
     ]
   },
   {
@@ -20576,25 +20622,6 @@
     "scrapeWords": [
       "Big",
       "Donut"
-    ]
-  },
-  {
-    "author": "jul2040",
-    "description": "Fight to be the last car standing.",
-    "genre": "Racing",
-    "id": "1113005",
-    "link": "https://jul2040.itch.io/dropout-derby",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzY0MzAzMzMucG5n/315x250%23c/nyVL%2Ff.png",
-    "title": "Dropout Derby",
-    "video": null,
-    "scrapeWords": [
-      "Dropout",
-      "Derby"
     ]
   },
   {
@@ -21238,9 +21265,7 @@
     "genre": "Platformer",
     "id": "1118937",
     "link": "https://drdrub.itch.io/funk-duck",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY0NzQ0NDEucG5n/315x250%23c/yPDioP.png",
     "title": "Funk Duck",
     "video": null,
@@ -21404,6 +21429,26 @@
     "video": null,
     "scrapeWords": [
       "JOLLO"
+    ]
+  },
+  {
+    "author": "pibolib",
+    "description": "Puzzle game in a time machine",
+    "genre": "Puzzle",
+    "id": "1120038",
+    "link": "https://pibolib.itch.io/gemstreak",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1Mjc0NTAucG5n/315x250%23c/9SqzOu.png",
+    "title": "GemStreak: Curse of the Time Machine",
+    "video": null,
+    "scrapeWords": [
+      "Gem",
+      "Streak",
+      "Curse",
+      "of",
+      "the",
+      "Time",
+      "Machine"
     ]
   },
   {
@@ -22474,6 +22519,21 @@
     ]
   },
   {
+    "author": "deejuu",
+    "description": "Tossed across the galaxy through a gateway, can you lead your ship back home?",
+    "genre": "Strategy",
+    "id": "1126756",
+    "link": "https://deejuu.itch.io/stellarvoyage",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1Mzc1MTcuanBn/315x250%23c/h3L265.jpg",
+    "title": "Stellar Voyage",
+    "video": null,
+    "scrapeWords": [
+      "Stellar",
+      "Voyage"
+    ]
+  },
+  {
     "author": "Walrusware",
     "description": "A project Lunar Marathon game",
     "genre": "Visual Novel",
@@ -22509,6 +22569,126 @@
       "Pillige",
       "Of",
       "liberty"
+    ]
+  },
+  {
+    "author": "jetamp",
+    "description": "Dive in to time maker's dimension to prevent time collapsed with time drive equipped UAV.",
+    "genre": "Simulation",
+    "id": "1127639",
+    "link": "https://jetamp.itch.io/time-drive",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1Mjk0MzYucG5n/315x250%23c/jUOWg3.png",
+    "title": "Time Drive",
+    "video": null,
+    "scrapeWords": [
+      "Time",
+      "Drive"
+    ]
+  },
+  {
+    "author": "Marquis Kurt",
+    "description": "Squash the bugs in your codebase. Quick!",
+    "genre": "Shooter",
+    "id": "1127691",
+    "link": "https://marquiskurt.itch.io/bug-bounty",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1Mjk4ODYucG5n/315x250%23c/YmTyoS.png",
+    "title": "Bug Bounty!",
+    "video": null,
+    "scrapeWords": [
+      "Bug",
+      "Bounty"
+    ]
+  },
+  {
+    "author": "Bananamanhatguy",
+    "description": "Tight Platformer",
+    "genre": "Platformer",
+    "id": "1127898",
+    "link": "https://bananamanhatguy.itch.io/banananaguy",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MzM3MjUuanBn/315x250%23c/u5FBQP.jpg",
+    "title": "Banananaguy",
+    "video": null,
+    "scrapeWords": [
+      "Banananaguy"
+    ]
+  },
+  {
+    "author": "uJnaE",
+    "description": "Play as a platformer character in a weird purple planet.",
+    "genre": "Platformer",
+    "id": "1127918",
+    "link": "https://ujnae.itch.io/purple-planet-escape",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MzE0NTEucG5n/315x250%23c/r0AS%2Fc.png",
+    "title": "Purple Planet Escape",
+    "video": null,
+    "scrapeWords": [
+      "Purple",
+      "Planet",
+      "Escape"
+    ]
+  },
+  {
+    "author": "vvizard_horse",
+    "description": "Big Boi Sneks",
+    "genre": "Survival",
+    "id": "1128068",
+    "link": "https://vvizard-horse.itch.io/snaker3d",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1MzYzNzMucG5n/315x250%23c/1%2FCrK%2B.png",
+    "title": "Snaker 3D",
+    "video": null,
+    "scrapeWords": [
+      "Snaker",
+      "3",
+      "D"
+    ]
+  },
+  {
+    "author": "Lazarwolfe",
+    "description": "Raúl fell down a forgotten well where he found an artifact of old, or did he?",
+    "genre": "Platformer",
+    "id": "1128703",
+    "link": "https://lazarwolfe.itch.io/the-lost-wand",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1MzczNDkucG5n/315x250%23c/%2FUOxnY.png",
+    "title": "The Lost Wand",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Lost",
+      "Wand"
+    ]
+  },
+  {
+    "author": "metalboyrick",
+    "description": "A Rube-Goldberg Experience！",
+    "genre": "Puzzle",
+    "id": "1128705",
+    "link": "https://metalboyrick.itch.io/goldberg",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1MzgxNDYucG5n/315x250%23c/YXokJc.png",
+    "title": "Goldberg",
+    "video": null,
+    "scrapeWords": [
+      "Goldberg"
     ]
   },
   {
@@ -116758,11 +116938,7 @@
     "genre": null,
     "id": "789632",
     "link": "https://sirbuildsalot.itch.io/scratch-island",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ1NzQ2MDUucG5n/315x250%23c/tetana.png",
     "title": "Scratch Island (Online World)",
     "video": null,
@@ -125899,11 +126075,11 @@
     ]
   },
   {
-    "author": "PseudotsugaMensk",
+    "author": "AdeptusCat",
     "description": null,
     "genre": "Action",
     "id": "852829",
-    "link": "https://pseudotsugamensk.itch.io/world-war-cthulhu",
+    "link": "https://adeptuscat.itch.io/world-war-cthulhu",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUzOTE2MzUucG5n/315x250%23c/lUk%2FiD.png",
     "title": "World War Cthulhu",
