@@ -61,7 +61,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU5NDM0MTcucG5n/315x250%23c/g3vlVq.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1NTgwMTgucG5n/315x250%23c/g3tfQp.png",
     "title": "Drifter Dynasty",
     "video": null,
     "scrapeWords": [
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "author": "Mr_rudy",
+    "author": "Rudy",
     "description": "#RATS",
     "genre": null,
     "id": "1000961",
@@ -7112,6 +7112,23 @@
     ]
   },
   {
+    "author": "Mitos",
+    "description": "Tilt your phone to lead all dots to the target!",
+    "genre": null,
+    "id": "1041485",
+    "link": "https://mitos.itch.io/marbletilt",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyOTM2ODAucG5n/315x250%23c/kVq5rl.png",
+    "title": "Marble Tilt",
+    "video": null,
+    "scrapeWords": [
+      "Marble",
+      "Tilt"
+    ]
+  },
+  {
     "author": "GarterSnake508",
     "description": "Evil beings have taken over the sewers. Only you can stop them.",
     "genre": "Platformer",
@@ -10390,23 +10407,6 @@
     ]
   },
   {
-    "author": "Dayls",
-    "description": "My first best game",
-    "genre": "Action",
-    "id": "1060101",
-    "link": "https://dayls.itch.io/leaky-snake",
-    "platforms": [
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYwNjkyNDEucG5n/315x250%23c/PRQsA5.png",
-    "title": "Leaky snake",
-    "video": null,
-    "scrapeWords": [
-      "Leaky",
-      "snake"
-    ]
-  },
-  {
     "author": "GoodnightOwl",
     "description": "Work your way through various puzzles across 5 worlds, each with its own unique ruleset.",
     "genre": "Puzzle",
@@ -13112,8 +13112,11 @@
     "description": null,
     "genre": "Racing",
     "id": "1075083",
-    "link": "https://nerdiful.itch.io/untitled-hover-bike-racing-game",
-    "platforms": null,
+    "link": "https://nerdiful.itch.io/hover-bike-racing-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzYxNjQwNDUucG5n/315x250%23c/fiRNNz.png",
     "title": "Hover Bike Racing Game",
     "video": null,
@@ -17632,7 +17635,7 @@
   },
   {
     "author": "Toby",
-    "description": null,
+    "description": "Dungeon",
     "genre": "Fighting",
     "id": "1091599",
     "link": "https://tobiy.itch.io/dungeon16bit",
@@ -20877,7 +20880,6 @@
     "id": "1116144",
     "link": "https://zawadsharif.itch.io/pipi-box",
     "platforms": [
-      "Windows",
       "Linux",
       "Android"
     ],
@@ -22888,6 +22890,22 @@
     ]
   },
   {
+    "author": "Forchild",
+    "description": null,
+    "genre": "Action",
+    "id": "1128333",
+    "link": "https://forchild.itch.io/not-so-paladin",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1NTM0ODMucG5n/315x250%23c/VotHjt.png",
+    "title": "Not So Paladin",
+    "video": null,
+    "scrapeWords": [
+      "Not",
+      "So",
+      "Paladin"
+    ]
+  },
+  {
     "author": "Kjarrigan",
     "description": "A game by Flippez and Kjarrigan for the Godot Wild Jam 35",
     "genre": "Adventure",
@@ -23184,6 +23202,22 @@
     ]
   },
   {
+    "author": "forddefect",
+    "description": "invaders",
+    "genre": "Action",
+    "id": "1129507",
+    "link": "https://forddefect.itch.io/space-invader-clone",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1NDIxNzgucG5n/315x250%23c/2HhRSV.png",
+    "title": "Space Invader Clone",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Invader",
+      "Clone"
+    ]
+  },
+  {
     "author": "erytau",
     "description": "Pong plus Tetris",
     "genre": "Puzzle",
@@ -23255,6 +23289,21 @@
     ]
   },
   {
+    "author": "Toby",
+    "description": "Red Forest",
+    "genre": "Platformer",
+    "id": "1130160",
+    "link": "https://tobiy.itch.io/redforest",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1NTMyODgucG5n/315x250%23c/9JdS5M.png",
+    "title": "RedForest",
+    "video": null,
+    "scrapeWords": [
+      "Red",
+      "Forest"
+    ]
+  },
+  {
     "author": "MatthewLacker",
     "description": "Warehouse Job Sim In Hell Text Adventure",
     "genre": null,
@@ -23299,6 +23348,94 @@
       "a",
       "Cool",
       "Villain"
+    ]
+  },
+  {
+    "author": "Nityam",
+    "description": "Pokemon Platformer 2.5d Game",
+    "genre": "Platformer",
+    "id": "1131305",
+    "link": "https://nityam.itch.io/poke-dream-catch-em-all",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NTQyMzUucG5n/315x250%23c/gq65BU.png",
+    "title": "Poke Dream Catch Em All",
+    "video": null,
+    "scrapeWords": [
+      "Poke",
+      "Dream",
+      "Catch",
+      "Em",
+      "All"
+    ]
+  },
+  {
+    "author": "RandomValue134",
+    "description": "A game, where you can DASH OVER some ugly fungi",
+    "genre": "Platformer",
+    "id": "1131311",
+    "link": "https://randomvalue134.itch.io/dashover",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NTQxMjkucG5n/315x250%23c/qRCoFW.png",
+    "title": "Dash Over",
+    "video": null,
+    "scrapeWords": [
+      "Dash",
+      "Over"
+    ]
+  },
+  {
+    "author": "digits0801",
+    "description": "Submission for the first official Rorius Game Jam",
+    "genre": "Shooter",
+    "id": "1131446",
+    "link": "https://digits0801.itch.io/sweet-theif-shooter",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NTQ5MjEucG5n/315x250%23c/V%2F3Pay.png",
+    "title": "Sweet Theif Shooter",
+    "video": null,
+    "scrapeWords": [
+      "Sweet",
+      "Theif",
+      "Shooter"
+    ]
+  },
+  {
+    "author": "KonKon Media",
+    "description": "A point-and-click survival horror game prototype.",
+    "genre": "Survival",
+    "id": "1131808",
+    "link": "https://konkonmedia.itch.io/chained",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NTc1MTkucG5n/315x250%23c/G94BO9.png",
+    "title": "Chained",
+    "video": null,
+    "scrapeWords": [
+      "Chained"
+    ]
+  },
+  {
+    "author": "wolewd",
+    "description": "If you hate cockroach, this game is for you",
+    "genre": "Action",
+    "id": "1131904",
+    "link": "https://wolewd.itch.io/cockroach-smasher",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1NTgyNDkucG5n/315x250%23c/dvKcEV.png",
+    "title": "Cockroach Smasher",
+    "video": null,
+    "scrapeWords": [
+      "Cockroach",
+      "Smasher"
     ]
   },
   {
@@ -59472,6 +59609,20 @@
     ]
   },
   {
+    "author": "pintman",
+    "description": "Simpe asteroids clone",
+    "genre": "Action",
+    "id": "468710",
+    "link": "https://pintman.itch.io/asteroids",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzOTU0MDcucG5n/315x250%23c/CUwGI7.png",
+    "title": "Asteroids",
+    "video": null,
+    "scrapeWords": [
+      "Asteroids"
+    ]
+  },
+  {
     "author": "SMAXBAT",
     "description": null,
     "genre": "Interactive Fiction",
@@ -75748,10 +75899,12 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzMyNTc1NzMucG5n/315x250%23c/ADxNcy.png",
-    "title": "Dungeonn",
+    "title": "Dungeonn: Chapter I",
     "video": null,
     "scrapeWords": [
-      "Dungeonn"
+      "Dungeonn",
+      "Chapter",
+      "I"
     ]
   },
   {
@@ -84563,11 +84716,11 @@
     ]
   },
   {
-    "author": "AndresLot",
+    "author": "Lotcam",
     "description": "A combo arcade game that tests your skills!",
     "genre": "Survival",
     "id": "633480",
-    "link": "https://andreslot.itch.io/oasis-showdown",
+    "link": "https://lotcam.itch.io/oasis-showdown",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzMzODI4MTQucG5n/315x250%23c/W2Bnb1.png",
     "title": "Oasis Showdown",
@@ -86185,24 +86338,6 @@
     "scrapeWords": [
       "Gone",
       "Fishing"
-    ]
-  },
-  {
-    "author": "Zyx_32",
-    "description": "Dodge all asteroids, catch the most stars and get the highest score in space",
-    "genre": "Action",
-    "id": "643688",
-    "link": "https://zyx-32.itch.io/asteroids",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NDU0OTEuanBn/315x250%23c/dQxBnP.jpg",
-    "title": "Asteroids",
-    "video": null,
-    "scrapeWords": [
-      "Asteroids"
     ]
   },
   {
@@ -143291,12 +143426,7 @@
     "genre": null,
     "id": "951121",
     "link": "https://sx2.itch.io/maze-2d",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS",
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU4Nzk4OTgucG5n/315x250%23c/6PhRLx.png",
     "title": "Maze 2D",
     "video": null,
@@ -147566,9 +147696,7 @@
     "genre": "Platformer",
     "id": "978310",
     "link": "https://dimension-software.itch.io/collonize-mars-program-1",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzU1NTc4OTcuanBn/315x250%23c/QNt16i.jpg",
     "title": "Collonize-Mars-Program 1",
     "video": null,
