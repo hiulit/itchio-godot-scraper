@@ -4423,26 +4423,6 @@
     ]
   },
   {
-    "author": "Outfrost",
-    "description": "A pixel art action adventure",
-    "genre": "Action",
-    "id": "1017319",
-    "link": "https://outfrost.itch.io/planet-ld48b",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU3OTM3NTcuanBn/315x250%23c/lDmUJH.jpg",
-    "title": "Planet LD48B",
-    "video": null,
-    "scrapeWords": [
-      "Planet",
-      "LD48",
-      "B"
-    ]
-  },
-  {
     "author": "<M/M>",
     "description": "A game made for Ludum Dare 48",
     "genre": "Adventure",
@@ -11468,7 +11448,7 @@
     "description": "You are trapped and your friends are dropping crates to create a stack for your escape.",
     "genre": "Action",
     "id": "1064967",
-    "link": "https://demilunegames.itch.io/stack-and-escape",
+    "link": "https://demilunestudios.itch.io/stack-and-escape",
     "platforms": [
       "Windows",
       "Linux",
@@ -12317,24 +12297,6 @@
     "scrapeWords": [
       "Cheaters",
       "Inn"
-    ]
-  },
-  {
-    "author": "Nep toodles",
-    "description": "Best game ever play now >:/",
-    "genre": null,
-    "id": "1068723",
-    "link": "https://nep-toodles.itch.io/littleclick",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYxMzczNzgucG5n/315x250%23c/e%2BiMWG.png",
-    "title": "Little Click",
-    "video": null,
-    "scrapeWords": [
-      "Little",
-      "Click"
     ]
   },
   {
@@ -13624,7 +13586,7 @@
   },
   {
     "author": "DimensionOmega",
-    "description": "Use your soul to fight the corruption that leaks in the mysterious and atmospheric universe of Astra.",
+    "description": "A 2D action, adventure, metroidvania with atmospheric hand drawn animations and surroundings.",
     "genre": "Adventure",
     "id": "1079088",
     "link": "https://dimensionomega.itch.io/astra-fading-stars-demo",
@@ -17432,9 +17394,10 @@
     "id": "1089619",
     "link": "https://elarnoldo.itch.io/popgamedemo",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY1MzE2MTAucG5n/315x250%23c/WT64%2Fx.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1NjYwMTUuanBn/315x250%23c/D8PXTl.jpg",
     "title": "PopGameDemo",
     "video": null,
     "scrapeWords": [
@@ -22558,6 +22521,24 @@
     ]
   },
   {
+    "author": "davidarthurpaul",
+    "description": "​Super Smash Bros credits inspired game with Twitch",
+    "genre": "Shooter",
+    "id": "1125377",
+    "link": "https://davidarthurpaul.itch.io/spotlight",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1Mzc1NzAucG5n/315x250%23c/alefJk.png",
+    "title": "Twitch Chat Credits Game: Spotlight!",
+    "video": null,
+    "scrapeWords": [
+      "Twitch",
+      "Chat",
+      "Credits",
+      "Game",
+      "Spotlight"
+    ]
+  },
+  {
     "author": "TheFallenLegion",
     "description": "Simple top down shooter with weird shooting",
     "genre": "Shooter",
@@ -22922,7 +22903,7 @@
   },
   {
     "author": "Astral Byte",
-    "description": "Godot Jam #35 entry",
+    "description": "Godot Wild Jam #35 entry",
     "genre": "Adventure",
     "id": "1128498",
     "link": "https://astralbyte.itch.io/parr-planetary-ai-research-rover",
@@ -22940,6 +22921,24 @@
       "AI",
       "Research",
       "Rover"
+    ]
+  },
+  {
+    "author": "Lowlande52",
+    "description": "a trash-themed jam entry with no scrubs controls",
+    "genre": "Action",
+    "id": "1128597",
+    "link": "https://lowlande52.itch.io/haute-pickup-artist",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NjYxMjUucG5n/315x250%23c/Nr4ZV0.png",
+    "title": "Haute Pickup Artist",
+    "video": null,
+    "scrapeWords": [
+      "Haute",
+      "Pickup",
+      "Artist"
     ]
   },
   {
@@ -23351,6 +23350,36 @@
     ]
   },
   {
+    "author": "saeed latifi",
+    "description": "This game is at a very early stage. develop in Godot game engine",
+    "genre": "Platformer",
+    "id": "1130894",
+    "link": "https://saeed-latifi.itch.io/rugoe-of-desert",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1NTEwODcucG5n/315x250%23c/IpLDS4.png",
+    "title": "rugoe of desert",
+    "video": null,
+    "scrapeWords": [
+      "rugoe",
+      "of",
+      "desert"
+    ]
+  },
+  {
+    "author": "Milan",
+    "description": "A game about slowing time and dodging walls",
+    "genre": "Action",
+    "id": "1131247",
+    "link": "https://milanvarady.itch.io/kron",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1NTM5MjgucG5n/315x250%23c/WtqOey.png",
+    "title": "Kron",
+    "video": null,
+    "scrapeWords": [
+      "Kron"
+    ]
+  },
+  {
     "author": "Nityam",
     "description": "Pokemon Platformer 2.5d Game",
     "genre": "Platformer",
@@ -23392,19 +23421,34 @@
     "description": "Submission for the first official Rorius Game Jam",
     "genre": "Shooter",
     "id": "1131446",
-    "link": "https://digits0801.itch.io/sweet-theif-shooter",
+    "link": "https://digits0801.itch.io/sweet-thief-shooter",
     "platforms": [
       "Windows",
       "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY1NTQ5MjEucG5n/315x250%23c/V%2F3Pay.png",
-    "title": "Sweet Theif Shooter",
+    "title": "Sweet Thief Shooter",
     "video": null,
     "scrapeWords": [
       "Sweet",
-      "Theif",
+      "Thief",
       "Shooter"
+    ]
+  },
+  {
+    "author": "jngo102",
+    "description": "Flappy Bird but Hollow Knight",
+    "genre": "Platformer",
+    "id": "1131674",
+    "link": "https://jngo102.itch.io/flappy-knight",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1NjMwNzQucG5n/315x250%23c/mOgbVt.png",
+    "title": "Flappy Knight",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Knight"
     ]
   },
   {
@@ -23436,6 +23480,62 @@
     "scrapeWords": [
       "Cockroach",
       "Smasher"
+    ]
+  },
+  {
+    "author": "Kai",
+    "description": "solve a murder in a room full of museum objects",
+    "genre": "Visual Novel",
+    "id": "1132126",
+    "link": "https://kai20.itch.io/murder-mystery-collage",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NjA5MDAucG5n/315x250%23c/gQydwx.png",
+    "title": "murder mystery collage",
+    "video": null,
+    "scrapeWords": [
+      "murder",
+      "mystery",
+      "collage"
+    ]
+  },
+  {
+    "author": "thisGameDev",
+    "description": "Mix chemicals to help your country in war!  Made for Xanderjam #4 - Summer Jam.",
+    "genre": "Adventure",
+    "id": "1132397",
+    "link": "https://thisgamedev.itch.io/chemixer-at-war",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NjE0MDcucG5n/315x250%23c/xJUGbF.png",
+    "title": "Chemixer at War",
+    "video": null,
+    "scrapeWords": [
+      "Chemixer",
+      "at",
+      "War"
+    ]
+  },
+  {
+    "author": "uJnaE",
+    "description": "Catch the Shapes in this simple rhythm game!",
+    "genre": "Rhythm",
+    "id": "1133152",
+    "link": "https://ujnae.itch.io/catch-the-shapes",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NjY3NjkucG5n/315x250%23c/oZoMVa.png",
+    "title": "Catch the Shapes",
+    "video": null,
+    "scrapeWords": [
+      "Catch",
+      "the",
+      "Shapes"
     ]
   },
   {
@@ -24163,7 +24263,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzIzNDQzMjAuanBn/315x250%23c/i3lhB3.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzY1NjYzMjQuanBn/315x250%23c/fWfaGY.jpg",
     "title": "Mechanic 8230",
     "video": null,
     "scrapeWords": [
@@ -45183,23 +45283,6 @@
     ]
   },
   {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
-    ]
-  },
-  {
     "author": "greenerworld",
     "description": "And today is a gift... That's why they call it present",
     "genre": null,
@@ -61593,6 +61676,25 @@
     "scrapeWords": [
       "Project",
       "Huesos"
+    ]
+  },
+  {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
     ]
   },
   {
@@ -84923,11 +85025,11 @@
     ]
   },
   {
-    "author": "Fuchsilein",
+    "author": "Foxel Indie Dev",
     "description": "Combat Demo, try to defeat as many goblins as possible",
     "genre": "Role Playing",
     "id": "634659",
-    "link": "https://fuchsilein.itch.io/foxel",
+    "link": "https://foxeldev.itch.io/foxel",
     "platforms": [
       "Windows"
     ],
@@ -95109,11 +95211,11 @@
     ]
   },
   {
-    "author": "Okidoki",
+    "author": "Resurge",
     "description": "A dungeon-crawler arcade game",
     "genre": "Shooter",
     "id": "693045",
-    "link": "https://okidoki-games.itch.io/ricochet",
+    "link": "https://resurge.itch.io/ricochet",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzM4NDQyMTkucG5n/315x250%23c/gWicTK.png",
     "title": "Ricochet",
@@ -100318,11 +100420,11 @@
     ]
   },
   {
-    "author": "SquishyBear",
+    "author": "UncleBear",
     "description": "Jump around in the world of shapes and defeat other shapes as well!",
     "genre": "Platformer",
     "id": "708758",
-    "link": "https://squishybear.itch.io/akriti",
+    "link": "https://unclebear.itch.io/akriti",
     "platforms": [
       "Windows",
       "Linux",
@@ -132851,7 +132953,7 @@
   },
   {
     "author": "SRC Corporation",
-    "description": "A rhythm-based fighting game.",
+    "description": "An exhilirating VS Rhythm Game",
     "genre": "Fighting",
     "id": "887445",
     "link": "https://solreaper.itch.io/rb",
@@ -138023,9 +138125,7 @@
     "genre": "Action",
     "id": "920478",
     "link": "https://studioadriatic.itch.io/path-of-slime",
-    "platforms": [
-      "Android"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzUyNzMzNTQucG5n/315x250%23c/B5tJjK.png",
     "title": "Path Of Slime",
     "video": null,
@@ -142575,6 +142675,21 @@
     ]
   },
   {
+    "author": "Toby",
+    "description": "a short game",
+    "genre": null,
+    "id": "945924",
+    "link": "https://tobiy.itch.io/shortgame",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjg2MzAucG5n/315x250%23c/Q6dxs8.png",
+    "title": "ShortGame",
+    "video": null,
+    "scrapeWords": [
+      "Short",
+      "Game"
+    ]
+  },
+  {
     "author": "Escada Games",
     "description": "Asteroids with special relativity",
     "genre": "Shooter",
@@ -144411,7 +144526,7 @@
   },
   {
     "author": "Created_by_a_guy",
-    "description": "Made for Godot Wild Jam",
+    "description": "You are a simple ball in a plataformer, but one day your abilities fade away, go and get them back.",
     "genre": "Platformer",
     "id": "957028",
     "link": "https://created-by-a-guy.itch.io/where-is-everything",
@@ -150025,25 +150140,6 @@
     "scrapeWords": [
       "Elemental",
       "Parasite"
-    ]
-  },
-  {
-    "author": "eg",
-    "description": "The tiny mining collectathon.",
-    "genre": "Adventure",
-    "id": "994892",
-    "link": "https://birt.itch.io/mini-miny",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYxNDc1OTEucG5n/315x250%23c/KkIxgl.png",
-    "title": "Mini Miny",
-    "video": null,
-    "scrapeWords": [
-      "Mini",
-      "Miny"
     ]
   },
   {
