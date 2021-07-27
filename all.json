@@ -15351,7 +15351,7 @@
   },
   {
     "author": "Joseph Cantrell",
-    "description": "Endlessly defend from hordes of imported images.",
+    "description": "Endlessly defend from hordes of user imported images.",
     "genre": "Action",
     "id": "1082500",
     "link": "https://josephcantrell14.itch.io/endless-custom-shooter",
@@ -17791,6 +17791,23 @@
     "scrapeWords": [
       "Crowd",
       "Control"
+    ]
+  },
+  {
+    "author": "ninapsis",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1093078",
+    "link": "https://ninapsis.itch.io/pixel-manifesto",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NzE1MDcucG5n/315x250%23c/d0n9Ri.png",
+    "title": "Pixel Manifesto",
+    "video": null,
+    "scrapeWords": [
+      "Pixel",
+      "Manifesto"
     ]
   },
   {
@@ -22958,7 +22975,7 @@
   },
   {
     "author": "SPOICAT",
-    "description": "When a Lime colored Square's Mirror got some bugs.",
+    "description": "When a Square's Mirror got some bugs.",
     "genre": "Puzzle",
     "id": "1126946",
     "link": "https://spoicat.itch.io/squares-mirror",
@@ -22966,7 +22983,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY1NDQ5MjAucG5n/315x250%23c/FsGzbh.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1OTc2ODkucG5n/315x250%23c/rFef4l.png",
     "title": "Square's Mirror",
     "video": null,
     "scrapeWords": [
@@ -23803,6 +23820,27 @@
     ]
   },
   {
+    "author": "davidpeterworks",
+    "description": null,
+    "genre": "Action",
+    "id": "1133025",
+    "link": "https://davidpeterworks.itch.io/falling-cats",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1OTI3NTQucG5n/315x250%23c/Nas%2BrC.png",
+    "title": "(NEW) Falling Cats",
+    "video": null,
+    "scrapeWords": [
+      "NEW",
+      "Falling",
+      "Cats"
+    ]
+  },
+  {
     "author": "uJnaE",
     "description": "Catch the Shapes in this simple rhythm game!",
     "genre": "Rhythm",
@@ -23955,7 +23993,7 @@
     "id": "1134017",
     "link": "https://simpingtuna.itch.io/borncg-godot-platformer",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzY1NzM0MTEuanBn/315x250%23c/2TnDIr.jpg",
+    "thumb": "https://img.itch.zone/aW1nLzY2MDMzMTYuanBn/315x250%23c/tuDi4Y.jpg",
     "title": "BornCG Godot Platformer",
     "video": null,
     "scrapeWords": [
@@ -23994,6 +24032,26 @@
       "Heroes",
       "of",
       "Dunia"
+    ]
+  },
+  {
+    "author": "Brender",
+    "description": null,
+    "genre": "Simulation",
+    "id": "1134129",
+    "link": "https://b-render.itch.io/merchant",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1NzM3ODYucG5n/315x250%23c/mT7yWX.png",
+    "title": "Merchant of Apple Island",
+    "video": null,
+    "scrapeWords": [
+      "Merchant",
+      "of",
+      "Apple",
+      "Island"
     ]
   },
   {
@@ -24290,20 +24348,35 @@
   },
   {
     "author": "Asthalis",
-    "description": "a cute not-so-easy 2D platformer with only 2 control keys !",
+    "description": "a cute not-all-that-easy 2D platformer with only 2 control keys !",
     "genre": "Platformer",
     "id": "1136087",
     "link": "https://asthalis.itch.io/hop-2d",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY1ODU5NzQucG5n/315x250%23c/ljyYEx.png",
-    "title": "Hop! 2D (beta 6)",
+    "title": "Hop! 2D (beta 7-en)",
     "video": null,
     "scrapeWords": [
       "Hop",
       "2",
       "D",
       "beta",
-      "6"
+      "7-en"
+    ]
+  },
+  {
+    "author": "Toby",
+    "description": "Flappy Bird",
+    "genre": "Platformer",
+    "id": "1136151",
+    "link": "https://tobiy.itch.io/flappybird",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY1OTk3MTYucG5n/315x250%23c/PwYTdl.png",
+    "title": "FlappyBird",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Bird"
     ]
   },
   {
@@ -24401,6 +24474,24 @@
     ]
   },
   {
+    "author": "RcubDev",
+    "description": "A space western puzzle platformer -- rescue your trusty steed!",
+    "genre": "Platformer",
+    "id": "1137035",
+    "link": "https://rcubdev.itch.io/scootem-shootem",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1OTEzMjQucG5n/315x250%23c/i5YzaR.png",
+    "title": "Scoot'em & Shoot'em",
+    "video": null,
+    "scrapeWords": [
+      "Scootem",
+      "Shootem"
+    ]
+  },
+  {
     "author": "HammerBro",
     "description": "Two Button Train-themed Resource Management Game -- Mostly feature complete, but very little content.",
     "genre": null,
@@ -24457,7 +24548,7 @@
   {
     "author": "RUShunter",
     "description": null,
-    "genre": null,
+    "genre": "Puzzle",
     "id": "1137514",
     "link": "https://rushunter.itch.io/we-need-more-gold",
     "platforms": [
@@ -24465,7 +24556,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY1OTQ3MTYucG5n/315x250%23c/lNR%2FnC.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1OTk5MTEucG5n/315x250%23c/9gs4Wi.png",
     "title": "We Need More Gold!",
     "video": null,
     "scrapeWords": [
@@ -24473,6 +24564,27 @@
       "Need",
       "More",
       "Gold"
+    ]
+  },
+  {
+    "author": "nothing",
+    "description": null,
+    "genre": "Action",
+    "id": "1137575",
+    "link": "https://n-thing.itch.io/clocktower-time-attack",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MDMxNDEucG5n/315x250%23c/LYAFk2.png",
+    "title": "Clock Tower: Time Attack",
+    "video": null,
+    "scrapeWords": [
+      "Clock",
+      "Tower",
+      "Time",
+      "Attack"
     ]
   },
   {
@@ -24524,6 +24636,132 @@
       "The",
       "Golden",
       "Timepiece"
+    ]
+  },
+  {
+    "author": "Benrix0",
+    "description": "Un rpg orienté die n' retry avec de la génération de donjons aléatoire",
+    "genre": "Adventure",
+    "id": "1138060",
+    "link": "https://benrix0.itch.io/dynamic-rpg",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1OTg0NzIucG5n/315x250%23c/pAniCj.png",
+    "title": "Dynamic RPG",
+    "video": null,
+    "scrapeWords": [
+      "Dynamic",
+      "RPG"
+    ]
+  },
+  {
+    "author": "Gamet",
+    "description": "Snake-like endless action game about food",
+    "genre": "Action",
+    "id": "1138168",
+    "link": "https://gamet.itch.io/reach-it",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1OTkyMTEucG5n/315x250%23c/LsZOBj.png",
+    "title": "Reach it",
+    "video": null,
+    "scrapeWords": [
+      "Reach",
+      "it"
+    ]
+  },
+  {
+    "author": "rkamil",
+    "description": "an unusual apple collecting simulator",
+    "genre": null,
+    "id": "1138200",
+    "link": "https://rkamil.itch.io/sadownik",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1OTkzOTUucG5n/315x250%23c/ZI1Wlk.png",
+    "title": "Sadownik",
+    "video": null,
+    "scrapeWords": [
+      "Sadownik"
+    ]
+  },
+  {
+    "author": "cgzcode",
+    "description": "Toy car racing game",
+    "genre": "Racing",
+    "id": "1138326",
+    "link": "https://cgzcode.itch.io/run-rush",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MDAyNTEucG5n/315x250%23c/UDYwOZ.png",
+    "title": "Run Rush",
+    "video": null,
+    "scrapeWords": [
+      "Run",
+      "Rush"
+    ]
+  },
+  {
+    "author": "Poliz",
+    "description": "Super Beta -0.0.1",
+    "genre": "Adventure",
+    "id": "1138356",
+    "link": "https://poliz.itch.io/the-mouse-revenge-of-the-mouse",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MDAzMTgucG5n/315x250%23c/KOGGu0.png",
+    "title": "The mouse Revenge of the mouse",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "mouse",
+      "Revenge",
+      "of",
+      "the",
+      "mouse"
+    ]
+  },
+  {
+    "author": "hezek90",
+    "description": "game of life",
+    "genre": "Simulation",
+    "id": "1138420",
+    "link": "https://hezek90.itch.io/conway-game-of-life",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MDA4MjgucG5n/315x250%23c/sWlA%2Fe.png",
+    "title": "Conway Game of Life",
+    "video": null,
+    "scrapeWords": [
+      "Conway",
+      "Game",
+      "of",
+      "Life"
+    ]
+  },
+  {
+    "author": "Zayle",
+    "description": "Become a one man army to save your people from an ongoing war.",
+    "genre": "Action",
+    "id": "1138473",
+    "link": "https://zayleradomi.itch.io/rive",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MDE2MzIucG5n/315x250%23c/mnYccR.png",
+    "title": "Rive",
+    "video": null,
+    "scrapeWords": [
+      "Rive"
     ]
   },
   {
@@ -83738,7 +83976,7 @@
   },
   {
     "author": "Dawidak Games",
-    "description": "Puzzle platformer made over 4x4 pixelart idea.",
+    "description": "Puzzle platformer made over 4x4 pixel-art idea.",
     "genre": "Platformer",
     "id": "620820",
     "link": "https://dawidak.itch.io/black-goo",
@@ -89355,7 +89593,7 @@
   },
   {
     "author": "Joseph Cantrell",
-    "description": "Tap to dodge fake news and collect the truth of the world above to score evermore.",
+    "description": "Tap left and right to help President Trump dodge fake news and collect the truth of the world above to score evermore.",
     "genre": "Platformer",
     "id": "654094",
     "link": "https://josephcantrell14.itch.io/untrumpable",
@@ -109543,22 +109781,6 @@
     ]
   },
   {
-    "author": "Artfrost",
-    "description": "нашествие голодных котов",
-    "genre": "Action",
-    "id": "742924",
-    "link": "https://artfrost.itch.io/cat-astrophe",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQxNDYxOTYucG5n/315x250%23c/otky2O.png",
-    "title": "Cat-astrophe",
-    "video": null,
-    "scrapeWords": [
-      "Cat-astrophe"
-    ]
-  },
-  {
     "author": "Gan_HOPE326",
     "description": "A game about computation",
     "genre": "Puzzle",
@@ -110588,7 +110810,7 @@
   },
   {
     "author": "Joseph Cantrell",
-    "description": "Spark through the infernal abyss to ignite the Essence.",
+    "description": "Spark through the procedurally generated infernal abyss to ignite Essence.",
     "genre": "Survival",
     "id": "749584",
     "link": "https://josephcantrell14.itch.io/infernight",
@@ -125816,7 +126038,7 @@
   },
   {
     "author": "Joseph Cantrell",
-    "description": "Run through your shadowed infernal world.",
+    "description": "Run and jump across procedurally generated platforms as a firewall encroaches.",
     "genre": "Platformer",
     "id": "837496",
     "link": "https://josephcantrell14.itch.io/infernal-shadowrunner",
@@ -127004,7 +127226,7 @@
   },
   {
     "author": "Joseph Cantrell",
-    "description": "Spark through a 3D infernal abyss.",
+    "description": "Spark through a procedurally generated 3D infernal abyss.",
     "genre": "Survival",
     "id": "844338",
     "link": "https://josephcantrell14.itch.io/infernight-3d",
@@ -130532,7 +130754,7 @@
   },
   {
     "author": "Joseph Cantrell",
-    "description": "Aim to offend the 3D pillars of society.",
+    "description": "An FPS taking aim at infinitely spawning 3D caricatures of the pillars of human society.",
     "genre": "Action",
     "id": "869823",
     "link": "https://josephcantrell14.itch.io/prophet-launcher-3d",
@@ -133826,7 +134048,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY0NjI1MzQucG5n/315x250%23c/05yZnU.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1OTc3MjUucG5n/315x250%23c/wzVgRD.png",
     "title": "Rythm Brawl",
     "video": null,
     "scrapeWords": [
@@ -135042,11 +135264,11 @@
     ]
   },
   {
-    "author": "spiderdash",
+    "author": "rkamil",
     "description": "You cannot pass through your own tail! How will you collect all coins on the board?",
     "genre": "Puzzle",
     "id": "896896",
-    "link": "https://spiderdash.itch.io/long-tail",
+    "link": "https://rkamil.itch.io/long-tail",
     "platforms": [
       "Windows"
     ],
@@ -147245,6 +147467,25 @@
     ]
   },
   {
+    "author": "Adam Hojer",
+    "description": "Plošinovka, která Vám hravým způsobem představí historii čísla Pí π.",
+    "genre": "Platformer",
+    "id": "967047",
+    "link": "https://adam-hojer.itch.io/ludolfovo-cislo",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1NjU3NzQucG5n/315x250%23c/jNYPcg.png",
+    "title": "Ludolfovo číslo π",
+    "video": null,
+    "scrapeWords": [
+      "Ludolfovo",
+      "číslo",
+      "π"
+    ]
+  },
+  {
     "author": "AcheGames",
     "description": "Get as many gems as you can for higher points.",
     "genre": null,
@@ -148053,7 +148294,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY0ODUwMjIucG5n/315x250%23c/ir63Vl.png",
+    "thumb": "https://img.itch.zone/aW1nLzY1OTk3NzAucG5n/315x250%23c/sbiTtM.png",
     "title": "Build and Grow",
     "video": null,
     "scrapeWords": [
