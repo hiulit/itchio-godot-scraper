@@ -6658,7 +6658,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU5MjE3ODcucG5n/315x250%23c/weKqsh.png",
+    "thumb": "https://img.itch.zone/aW1nLzY2MTA2NzcucG5n/315x250%23c/DDdsJY.png",
     "title": "What-A-Pizza",
     "video": null,
     "scrapeWords": [
@@ -15922,7 +15922,7 @@
   {
     "author": "Ibrahim666",
     "description": null,
-    "genre": null,
+    "genre": "Puzzle",
     "id": "1084081",
     "link": "https://ibrahim666.itch.io/red-and-blue",
     "platforms": null,
@@ -20850,6 +20850,21 @@
     ]
   },
   {
+    "author": "SOYBABY",
+    "description": "Defend humanity from killer cyborgs from the future",
+    "genre": "Action",
+    "id": "1114071",
+    "link": "https://soybaby.itch.io/cyborg-warrior",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NDA1MDMucG5n/315x250%23c/a%2FVfjx.png",
+    "title": "Cyborg Warrior",
+    "video": null,
+    "scrapeWords": [
+      "Cyborg",
+      "Warrior"
+    ]
+  },
+  {
     "author": "Cambori",
     "description": "Rpg where you fight lizard people and get there class to use as your own",
     "genre": "Role Playing",
@@ -24444,18 +24459,76 @@
     ]
   },
   {
+    "author": "doomium-chloride",
+    "description": "Forcefully adapt the enemy",
+    "genre": "Action",
+    "id": "1136474",
+    "link": "https://doomium-chloride.itch.io/adapt",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1ODg5MDkucG5n/315x250%23c/sueAPs.png",
+    "title": "Animalistic Drone Attack Prevention Tactics",
+    "video": null,
+    "scrapeWords": [
+      "Animalistic",
+      "Drone",
+      "Attack",
+      "Prevention",
+      "Tactics"
+    ]
+  },
+  {
+    "author": "LuxeL",
+    "description": "Listen to silence. It has so much to say.",
+    "genre": null,
+    "id": "1136785",
+    "link": "https://luxel.itch.io/connection",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1OTMyMjUucG5n/315x250%23c/hhOXd2.png",
+    "title": "Connection.",
+    "video": null,
+    "scrapeWords": [
+      "Connection"
+    ]
+  },
+  {
     "author": "netherbell",
     "description": "Survive 60 seconds!",
     "genre": "Action",
     "id": "1136799",
     "link": "https://netherbell.itch.io/gfp",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzY1ODk4OTUucG5n/315x250%23c/UnOOQe.png",
     "title": "GOLDEN FEVER",
     "video": null,
     "scrapeWords": [
       "GOLDEN",
       "FEVER"
+    ]
+  },
+  {
+    "author": "Pandaqi",
+    "description": "It's dodgeball, but without any restrictions!",
+    "genre": "Action",
+    "id": "1136945",
+    "link": "https://pandaqi.itch.io/totems-of-tag",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY1OTA2NTcucG5n/315x250%23c/Rrb7J2.png",
+    "title": "Totems of Tag",
+    "video": null,
+    "scrapeWords": [
+      "Totems",
+      "of",
+      "Tag"
     ]
   },
   {
@@ -24656,6 +24729,23 @@
     ]
   },
   {
+    "author": "nflcar",
+    "description": "A co-op dungeon player in which your character is randomized.",
+    "genre": "Adventure",
+    "id": "1138157",
+    "link": "https://nflcar.itch.io/dungeon-scramble",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MDUzNzgucG5n/315x250%23c/rTFGtI.png",
+    "title": "Dungeon Scramble",
+    "video": null,
+    "scrapeWords": [
+      "Dungeon",
+      "Scramble"
+    ]
+  },
+  {
     "author": "Gamet",
     "description": "Snake-like endless action game about food",
     "genre": "Action",
@@ -24762,6 +24852,22 @@
     "video": null,
     "scrapeWords": [
       "Rive"
+    ]
+  },
+  {
+    "author": "Dylbo___",
+    "description": "The donut of godot",
+    "genre": "Survival",
+    "id": "1139296",
+    "link": "https://dirsh.itch.io/dte",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MDczNzkucG5n/315x250%23c/6T06UD.png",
+    "title": "Dodge the Elementals",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "the",
+      "Elementals"
     ]
   },
   {
@@ -89418,7 +89524,8 @@
     "link": "https://wizard-of-ox.itch.io/definitely-not-chess",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzM1MTI0MjUucG5n/315x250%23c/wVWFSt.png",
     "title": "Definitely Not Chess",
@@ -93773,23 +93880,6 @@
     "scrapeWords": [
       "Super",
       "Ball"
-    ]
-  },
-  {
-    "author": "CraigChilds94",
-    "description": null,
-    "genre": null,
-    "id": "678587",
-    "link": "https://craigchilds94.itch.io/darkness",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM3MjU2ODgucG5n/315x250%23c/Ya5owO.png",
-    "title": "Darkness",
-    "video": null,
-    "scrapeWords": [
-      "Darkness"
     ]
   },
   {
@@ -107031,7 +107121,7 @@
   },
   {
     "author": "GFXghost",
-    "description": "A minimalistic, casual, rotation-based puzzle game.",
+    "description": "A minimalistic, casual puzzle game.",
     "genre": "Puzzle",
     "id": "735266",
     "link": "https://gfxghost.itch.io/silrolette",
@@ -107039,7 +107129,7 @@
       "Windows",
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQwOTE5MjAucG5n/315x250%23c/dR6Rvn.png",
+    "thumb": "https://img.itch.zone/aW1nLzY2MDg4NTguanBn/315x250%23c/ZLiUGp.jpg",
     "title": "Silrolette",
     "video": null,
     "scrapeWords": [
@@ -109778,6 +109868,22 @@
       "Jump",
       "Adventures",
       "2"
+    ]
+  },
+  {
+    "author": "Artfrost",
+    "description": "нашествие голодных котов",
+    "genre": "Action",
+    "id": "742924",
+    "link": "https://artfrost.itch.io/cat-astrophe",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQxNDYxOTYucG5n/315x250%23c/otky2O.png",
+    "title": "Cat-astrophe",
+    "video": null,
+    "scrapeWords": [
+      "Cat-astrophe"
     ]
   },
   {
@@ -117637,7 +117743,7 @@
   },
   {
     "author": "Luke I. Wilson",
-    "description": "A classic bicolor, scrolling shooter with refreshingly cinematic story.",
+    "description": "A classic bicolor, scrolling space shooter.",
     "genre": "Action",
     "id": "781015",
     "link": "https://fivemoreminix.itch.io/vrmnnvzn",
@@ -124647,11 +124753,11 @@
     ]
   },
   {
-    "author": "Gonza L",
+    "author": "Gonza Leyes",
     "description": "Defend your town from an enemy invasion in this Scrabble RPG!",
     "genre": "Puzzle",
     "id": "828908",
-    "link": "https://gonza-l.itch.io/word-witch",
+    "link": "https://gonza-leyes.itch.io/word-witch",
     "platforms": [
       "Windows",
       "macOS"
@@ -126972,8 +127078,7 @@
     "link": "https://disd.itch.io/web-lan-poker-8-texas-holdem",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ3MjI3NjQucG5n/315x250%23c/ENmGxr.png",
     "title": "Web / Lan Poker 8 - Texas Holdem - Cross Plateforms",
@@ -134048,7 +134153,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY1OTc3MjUucG5n/315x250%23c/wzVgRD.png",
+    "thumb": "https://img.itch.zone/aW1nLzY2MDc1NjcucG5n/315x250%23c/%2FCMdsB.png",
     "title": "Rythm Brawl",
     "video": null,
     "scrapeWords": [
@@ -146022,6 +146127,22 @@
     "video": null,
     "scrapeWords": [
       "Minimap"
+    ]
+  },
+  {
+    "author": "Und3rC0ver",
+    "description": "My first released game for my first game jam ;)",
+    "genre": "Platformer",
+    "id": "960946",
+    "link": "https://und3rc0ver.itch.io/darkness",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0NTE3NDMucG5n/315x250%23c/6VSGnJ.png",
+    "title": "Darkness",
+    "video": null,
+    "scrapeWords": [
+      "Darkness"
     ]
   },
   {
