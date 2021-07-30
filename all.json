@@ -4780,6 +4780,23 @@
     ]
   },
   {
+    "author": "ZanBradTheCr3per",
+    "description": "Totally not a Dude Simulator rip off lol..",
+    "genre": "Simulation",
+    "id": "1020993",
+    "link": "https://zanbradthecr3per.itch.io/hit-and-run-simulator",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MjI4NjgucG5n/315x250%23c/xhjBQj.png",
+    "title": "Hit N' Run Simulator",
+    "video": null,
+    "scrapeWords": [
+      "Hit",
+      "N",
+      "Run",
+      "Simulator"
+    ]
+  },
+  {
     "author": "Brender",
     "description": "the adventurous ninjafrog",
     "genre": "Adventure",
@@ -17721,6 +17738,26 @@
     ]
   },
   {
+    "author": "Marquis Kurt",
+    "description": "Switch costumes. Solve puzzles. Wake up.",
+    "genre": "Puzzle",
+    "id": "1092520",
+    "link": "https://marquiskurt.itch.io/costumemaster-reloaded",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYyOTI4NDMucG5n/315x250%23c/lNjJ2E.png",
+    "title": "The Costumemaster: Reloaded",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Costumemaster",
+      "Reloaded"
+    ]
+  },
+  {
     "author": "heybechill",
     "description": "Fill in the space with blocks!",
     "genre": "Puzzle",
@@ -22924,7 +22961,9 @@
     "genre": "Visual Novel",
     "id": "1126815",
     "link": "https://walrusware.itch.io/emily-is-at-the-zoo",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzY1MjYzMTYucG5n/315x250%23c/onMSk%2B.png",
     "title": "Emily is at the Zoo",
     "video": null,
@@ -24060,6 +24099,7 @@
     "link": "https://b-render.itch.io/merchant",
     "platforms": [
       "Windows",
+      "Linux",
       "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY1NzM3ODYucG5n/315x250%23c/mT7yWX.png",
@@ -24890,6 +24930,22 @@
     ]
   },
   {
+    "author": "SimpingTuna",
+    "description": "Aesthetic Arcade Game with Funky Music",
+    "genre": "Puzzle",
+    "id": "1138705",
+    "link": "https://simpingtuna.itch.io/dodge-the-creeps",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MDMyODcuanBn/315x250%23c/6y6k9R.jpg",
+    "title": "Dodge The Creeps!",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "The",
+      "Creeps"
+    ]
+  },
+  {
     "author": "Dylbo___",
     "description": "The donut of godot",
     "genre": "Survival",
@@ -24922,6 +24978,20 @@
       "Monstrous",
       "Chant",
       "X"
+    ]
+  },
+  {
+    "author": "SETE-7",
+    "description": null,
+    "genre": "Strategy",
+    "id": "1140299",
+    "link": "https://sete-7.itch.io/2amd",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MTU5OTIucG5n/315x250%23c/Iui9LU.png",
+    "title": "A.A.M.D",
+    "video": null,
+    "scrapeWords": [
+      "AAMD"
     ]
   },
   {
@@ -24958,6 +25028,153 @@
       "Down",
       "Below",
       "Prototype"
+    ]
+  },
+  {
+    "author": "gabajo",
+    "description": null,
+    "genre": "Action",
+    "id": "1141131",
+    "link": "https://gabajo.itch.io/squares",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MTk4NzIucG5n/315x250%23c/ODb2v1.png",
+    "title": "Squares",
+    "video": null,
+    "scrapeWords": [
+      "Squares"
+    ]
+  },
+  {
+    "author": "Hai Dang",
+    "description": "Step out from the black-gray world.",
+    "genre": "Platformer",
+    "id": "1141139",
+    "link": "https://hai-dang.itch.io/step-out",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MTk3NzAucG5n/315x250%23c/mqbDMb.png",
+    "title": "Step Out",
+    "video": null,
+    "scrapeWords": [
+      "Step",
+      "Out"
+    ]
+  },
+  {
+    "author": "Zapina Studios",
+    "description": "A minecraft like project with VR support....",
+    "genre": "Simulation",
+    "id": "1141149",
+    "link": "https://zapina.itch.io/destcraft",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MjAxMjYuanBn/315x250%23c/egj1X9.jpg",
+    "title": "DestCraft",
+    "video": null,
+    "scrapeWords": [
+      "Dest",
+      "Craft"
+    ]
+  },
+  {
+    "author": "mtk4000",
+    "description": "Find your way back to your crew in the dark using flares.",
+    "genre": "Adventure",
+    "id": "1141250",
+    "link": "https://mtk4000.itch.io/flare",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MjA2MTEucG5n/315x250%23c/14HDPQ.png",
+    "title": "Flare",
+    "video": null,
+    "scrapeWords": [
+      "Flare"
+    ]
+  },
+  {
+    "author": "dest1337",
+    "description": "You're a traffic lights manager XD.",
+    "genre": "Simulation",
+    "id": "1141377",
+    "link": "https://dest1337.itch.io/traffic-man",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MjEzODkucG5n/315x250%23c/OspRKU.png",
+    "title": "Traffic Man",
+    "video": null,
+    "scrapeWords": [
+      "Traffic",
+      "Man"
+    ]
+  },
+  {
+    "author": "Catskhi",
+    "description": null,
+    "genre": "Adventure",
+    "id": "1141627",
+    "link": "https://catskhi.itch.io/carnacide",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MjI3ODMucG5n/315x250%23c/bg5EBi.png",
+    "title": "Carnacide",
+    "video": null,
+    "scrapeWords": [
+      "Carnacide"
+    ]
+  },
+  {
+    "author": "H_Elprogramador",
+    "description": null,
+    "genre": null,
+    "id": "1141988",
+    "link": "https://h-elprogramador.itch.io/h-minigames",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MjUxMzkucG5n/315x250%23c/8Bouom.png",
+    "title": "H Minigames",
+    "video": null,
+    "scrapeWords": [
+      "H",
+      "Minigames"
+    ]
+  },
+  {
+    "author": "voxelvoid",
+    "description": "Slavic game made in Godot during a polish game jam",
+    "genre": "Action",
+    "id": "1142013",
+    "link": "https://voxelvoid.itch.io/the-last-of-pagans",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MjU0ODUucG5n/315x250%23c/4p4nVo.png",
+    "title": "THE LAST OF PAGANS",
+    "video": null,
+    "scrapeWords": [
+      "THE",
+      "LAST",
+      "OF",
+      "PAGANS"
+    ]
+  },
+  {
+    "author": "MeztliRA",
+    "description": "A simple puzzle game, with teleporter",
+    "genre": "Puzzle",
+    "id": "1142059",
+    "link": "https://meztlira.itch.io/slimrek",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MjU4MTQucG5n/315x250%23c/hNGiaG.png",
+    "title": "Slimrek",
+    "video": null,
+    "scrapeWords": [
+      "Slimrek"
     ]
   },
   {
@@ -40043,7 +40260,7 @@
     ]
   },
   {
-    "author": "RDTxE",
+    "author": "RTDxE",
     "description": "RogueLike, which I have not completed :(",
     "genre": "Action",
     "id": "293534",
@@ -54408,22 +54625,6 @@
     ]
   },
   {
-    "author": "thejacobhardman",
-    "description": "A simple 2D game where you dodge enemies.",
-    "genre": "Action",
-    "id": "418794",
-    "link": "https://thejacobhardman.itch.io/dodge-the-creeps",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIwODUyMjUucG5n/315x250%23c/CjmT1M.png",
-    "title": "Dodge The Creeps!",
-    "video": null,
-    "scrapeWords": [
-      "Dodge",
-      "The",
-      "Creeps"
-    ]
-  },
-  {
     "author": "gloryofrobots",
     "description": "Digital version of the card game Cuttle",
     "genre": "Card Game",
@@ -56426,24 +56627,6 @@
     "video": null,
     "scrapeWords": [
       "Patter"
-    ]
-  },
-  {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -74722,9 +74905,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0MDMxOTQuZ2lm/315x250%23cm/DVTEvO.gif",
+    "thumb": "https://img.itch.zone/aW1nLzY2MjMwMzUuZ2lm/315x250%23cm/B%2BLtWs.gif",
     "title": "DROID7",
-    "video": "https://img.itch.zone/aW1nLzQ0MDMxOTQuZ2lm/original/JTBY83.gif",
+    "video": "https://img.itch.zone/aW1nLzY2MjMwMzUuZ2lm/original/SyvNkY.gif",
     "scrapeWords": [
       "DROID7"
     ]
@@ -83084,7 +83267,7 @@
   {
     "author": "Ori Brusilovsky",
     "description": "Defent the Ookie. Walk the walk.",
-    "genre": null,
+    "genre": "Survival",
     "id": "618111",
     "link": "https://brusi.itch.io/ookie",
     "platforms": [
@@ -89207,7 +89390,7 @@
   },
   {
     "author": "FRACTiLE Games",
-    "description": "Simple but challenging zero-gravity 3D high score shoot'em up in series of unique mazes",
+    "description": "Simple but challenging 3D arcade shoot'em up where you fight against hostile drones in an endless series of unique mazes",
     "genre": "Action",
     "id": "650351",
     "link": "https://fractilegames.itch.io/polychoron",
@@ -98845,6 +99028,7 @@
     "id": "697134",
     "link": "https://idletalent-me.itch.io/naughty-teddies-invade-the-museum",
     "platforms": [
+      "Windows",
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMDY4NjIucG5n/315x250%23c/baYj3n.png",
@@ -144001,6 +144185,21 @@
     "video": null,
     "scrapeWords": [
       "Boxoku"
+    ]
+  },
+  {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
     ]
   },
   {
