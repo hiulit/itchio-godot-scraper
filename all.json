@@ -2164,6 +2164,27 @@
     ]
   },
   {
+    "author": "sidetrackpcc",
+    "description": null,
+    "genre": "Platformer",
+    "id": "1012096",
+    "link": "https://sidetrackpcc.itch.io/dr-adkins-in-cola-quest",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MjkxNzUucG5n/315x250%23c/clabh%2F.png",
+    "title": "Dr. Adkins in Cola Quest",
+    "video": null,
+    "scrapeWords": [
+      "Dr",
+      "Adkins",
+      "in",
+      "Cola",
+      "Quest"
+    ]
+  },
+  {
     "author": "azagaya",
     "description": null,
     "genre": null,
@@ -11970,6 +11991,21 @@
     ]
   },
   {
+    "author": "nothing",
+    "description": "I experiment with creating a platformer",
+    "genre": "Platformer",
+    "id": "1065916",
+    "link": "https://n-thing.itch.io/first-platformer",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzYxMDM0NjQucG5n/315x250%23c/V4S8Zy.png",
+    "title": "First Platformer",
+    "video": null,
+    "scrapeWords": [
+      "First",
+      "Platformer"
+    ]
+  },
+  {
     "author": "Birdwards",
     "description": "A turn-based strategy game about cannibal frogs",
     "genre": "Strategy",
@@ -12670,7 +12706,7 @@
   },
   {
     "author": "Doubtful Penguin",
-    "description": "You shoot Red Things as a Tank . . . Yup",
+    "description": "You shoot Red Things as a Tank",
     "genre": "Shooter",
     "id": "1071083",
     "link": "https://doubtfulpenguin.itch.io/tanky",
@@ -19463,23 +19499,6 @@
     ]
   },
   {
-    "author": "DarkStar Dragon Comics",
-    "description": "This is an incredibly crudely made game, please don't play it.",
-    "genre": "Platformer",
-    "id": "1104399",
-    "link": "https://darkstar-dragon-comics.itch.io/flappy-cube",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYzNzE4MjUucG5n/315x250%23c/asoREG.png",
-    "title": "Flappy Cube",
-    "video": null,
-    "scrapeWords": [
-      "Flappy",
-      "Cube"
-    ]
-  },
-  {
     "author": "oathmilks",
     "description": "TRPG about fighting enemies. You must conquer or reach the designated destination.",
     "genre": "Role Playing",
@@ -19895,7 +19914,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY1MzE4OTcucG5n/315x250%23c/5UZMad.png",
+    "thumb": "https://img.itch.zone/aW1nLzY2MzI5MDAucG5n/315x250%23c/qSoHT4.png",
     "title": "Factorysation",
     "video": null,
     "scrapeWords": [
@@ -23101,7 +23120,7 @@
     ]
   },
   {
-    "author": "LRD123",
+    "author": "LRD",
     "description": "Fly through space and collect Lost Tech.",
     "genre": null,
     "id": "1128065",
@@ -23124,10 +23143,11 @@
     "link": "https://vvizard-horse.itch.io/snaker3d",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY1MzYzNzMucG5n/315x250%23c/1%2FCrK%2B.png",
-    "title": "Snaker 3D",
+    "title": "Snake r 3D",
     "video": null,
     "scrapeWords": [
-      "Snaker",
+      "Snake",
+      "r",
       "3",
       "D"
     ]
@@ -24249,7 +24269,8 @@
     "id": "1135522",
     "link": "https://cabben06.itch.io/light-to-the-past",
     "platforms": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY1ODIxMjAucG5n/315x250%23c/IQ7Wnn.png",
     "title": "A Light to The Past",
@@ -24986,7 +25007,9 @@
     "genre": "Strategy",
     "id": "1140299",
     "link": "https://sete-7.itch.io/2amd",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzY2MTU5OTIucG5n/315x250%23c/Iui9LU.png",
     "title": "A.A.M.D",
     "video": null,
@@ -25094,6 +25117,21 @@
     ]
   },
   {
+    "author": "JtDevGames",
+    "description": null,
+    "genre": null,
+    "id": "1141339",
+    "link": "https://jtdevgames.itch.io/planet-builder",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2Mjg3NzMucG5n/315x250%23c/VaF4Iv.png",
+    "title": "Planet Builder",
+    "video": null,
+    "scrapeWords": [
+      "Planet",
+      "Builder"
+    ]
+  },
+  {
     "author": "dest1337",
     "description": "You're a traffic lights manager XD.",
     "genre": "Simulation",
@@ -25106,6 +25144,27 @@
     "scrapeWords": [
       "Traffic",
       "Man"
+    ]
+  },
+  {
+    "author": "Cab",
+    "description": "Inlev dig i utforskandet av ett okänt hus, som kanske inte är så okänt som det verkar...",
+    "genre": "Puzzle",
+    "id": "1141447",
+    "link": "https://cabben06.itch.io/ljus-till-det-forflutna",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MjE4ODkucG5n/315x250%23c/7Iwwto.png",
+    "title": "Ett Ljus Till Det Förflutna",
+    "video": null,
+    "scrapeWords": [
+      "Ett",
+      "Ljus",
+      "Till",
+      "Det",
+      "Förflutna"
     ]
   },
   {
@@ -25122,6 +25181,37 @@
     "video": null,
     "scrapeWords": [
       "Carnacide"
+    ]
+  },
+  {
+    "author": "St Animaties",
+    "description": "Keynode, The new buttonmashing Rhythm game!",
+    "genre": "Rhythm",
+    "id": "1141629",
+    "link": "https://st-animaties.itch.io/keynode",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MjI3ODYucG5n/315x250%23c/vRVSJM.png",
+    "title": "Keynode",
+    "video": null,
+    "scrapeWords": [
+      "Keynode"
+    ]
+  },
+  {
+    "author": "shouganai28",
+    "description": "Gawr Gura / Hololive EN NES-style Fangame",
+    "genre": "Action",
+    "id": "1141856",
+    "link": "https://shouganai28.itch.io/guras-birthday",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MzIyMzQucG5n/315x250%23c/gUjCeF.png",
+    "title": "Gura's Birthday",
+    "video": null,
+    "scrapeWords": [
+      "Guras",
+      "Birthday"
     ]
   },
   {
@@ -25168,13 +25258,82 @@
     "link": "https://meztlira.itch.io/slimrek",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY2MjU4MTQucG5n/315x250%23c/hNGiaG.png",
     "title": "Slimrek",
     "video": null,
     "scrapeWords": [
       "Slimrek"
+    ]
+  },
+  {
+    "author": "abeni",
+    "description": null,
+    "genre": "Adventure",
+    "id": "1142444",
+    "link": "https://abeni.itch.io/earth1",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2Mjk0ODMuanBn/315x250%23c/dR%2BvHp.jpg",
+    "title": "Earth",
+    "video": null,
+    "scrapeWords": [
+      "Earth"
+    ]
+  },
+  {
+    "author": "TriangleDev",
+    "description": "Rage Game",
+    "genre": "Platformer",
+    "id": "1143018",
+    "link": "https://triangledev.itch.io/bananaman",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MzE5OTYucG5n/315x250%23c/s%2Bk6x7.png",
+    "title": "BananaMan",
+    "video": null,
+    "scrapeWords": [
+      "Banana",
+      "Man"
+    ]
+  },
+  {
+    "author": "MeztliRA",
+    "description": "A little rpg game",
+    "genre": "Role Playing",
+    "id": "1143092",
+    "link": "https://meztlira.itch.io/mirpeg",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MzI0NzAucG5n/315x250%23c/47RVur.png",
+    "title": "Mirpeg",
+    "video": null,
+    "scrapeWords": [
+      "Mirpeg"
+    ]
+  },
+  {
+    "author": "StraightUpGruntled",
+    "description": "Serve your customers, become an angry robot, and blow off your steam.",
+    "genre": "Simulation",
+    "id": "1143116",
+    "link": "https://straightupgruntled.itch.io/mad-hat-dash",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY2MzI0ODIucG5n/315x250%23c/EnyWBr.png",
+    "title": "Mad Hat Dash",
+    "video": null,
+    "scrapeWords": [
+      "Mad",
+      "Hat",
+      "Dash"
     ]
   },
   {
@@ -49260,6 +49419,24 @@
     ]
   },
   {
+    "author": "Nathan R.",
+    "description": "A fun little platformer for everyone, including any other little sentient beings around.",
+    "genre": "Platformer",
+    "id": "368315",
+    "link": "https://nathan-r.itch.io/panicproject",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI1NzQ1OTcucG5n/315x250%23c/Vxs6bR.png",
+    "title": "Panic Machine Demo (Alpha)",
+    "video": null,
+    "scrapeWords": [
+      "Panic",
+      "Machine",
+      "Alpha"
+    ]
+  },
+  {
     "author": "kotob",
     "description": "You play as a ghost that possesses cult members. Pass all the tests to gain enlightenment!",
     "genre": null,
@@ -73063,26 +73240,6 @@
     ]
   },
   {
-    "author": "SweeneyXx",
-    "description": "Steal all of the diamonds from their rightful owner, Rex, if he hears you, hide!!",
-    "genre": "Puzzle",
-    "id": "556676",
-    "link": "https://sweeneyxx.itch.io/dont-steal-from-rex",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI5MTgwMDMucG5n/315x250%23c/8IohLy.png",
-    "title": "Don't Steal From Rex!",
-    "video": null,
-    "scrapeWords": [
-      "Dont",
-      "Steal",
-      "From",
-      "Rex"
-    ]
-  },
-  {
     "author": "Marcus Forsberg",
     "description": "Kill zombies, level up, unlock and customize guns.",
     "genre": "Shooter",
@@ -75190,25 +75347,6 @@
       "TIME",
       "OF",
       "PLAGUE"
-    ]
-  },
-  {
-    "author": "Vsevolod Ganin",
-    "description": "Multiplayer Pong clone",
-    "genre": "Sports",
-    "id": "573119",
-    "link": "https://vsga.itch.io/pong",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzMwNDA0ODEucG5n/315x250%23c/iPFrn7.png",
-    "title": "Yet Another Pong",
-    "video": null,
-    "scrapeWords": [
-      "Yet",
-      "Another",
-      "Pong"
     ]
   },
   {
@@ -99029,7 +99167,8 @@
     "link": "https://idletalent-me.itch.io/naughty-teddies-invade-the-museum",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxMDY4NjIucG5n/315x250%23c/baYj3n.png",
     "title": "Naughty Teddies Invade the Museum",
@@ -105144,6 +105283,25 @@
     "scrapeWords": [
       "Mermaids",
       "Rock"
+    ]
+  },
+  {
+    "author": "KennyTheBard",
+    "description": "Yet another Pong-like game, this project is more of an exercise for me in order to get to better know Godot.",
+    "genre": "Sports",
+    "id": "727007",
+    "link": "https://kennythebard.itch.io/pong",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQwMzYxNzQucG5n/315x250%23c/Eoe8VT.png",
+    "title": "Yet Another Pong",
+    "video": null,
+    "scrapeWords": [
+      "Yet",
+      "Another",
+      "Pong"
     ]
   },
   {
@@ -148712,6 +148870,23 @@
       "Build",
       "and",
       "Grow"
+    ]
+  },
+  {
+    "author": "Arrowshot Studio",
+    "description": "First game",
+    "genre": "Platformer",
+    "id": "972805",
+    "link": "https://arrowshot-studio.itch.io/flappy-cube",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU1MjM4ODIucG5n/315x250%23c/1YlNaE.png",
+    "title": "Flappy Cube",
+    "video": null,
+    "scrapeWords": [
+      "Flappy",
+      "Cube"
     ]
   },
   {
