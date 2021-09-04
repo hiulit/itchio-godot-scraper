@@ -6649,23 +6649,6 @@
     ]
   },
   {
-    "author": "HetBest",
-    "description": null,
-    "genre": "Shooter",
-    "id": "1034768",
-    "link": "https://hetbest.itch.io/cosmic-path",
-    "platforms": [
-      "Windows"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU5MDY5MzcucG5n/315x250%23c/weTsQ6.png",
-    "title": "Cosmic path",
-    "video": null,
-    "scrapeWords": [
-      "Cosmic",
-      "path"
-    ]
-  },
-  {
     "author": "JafCraze",
     "description": "Who are you to judge?",
     "genre": "Role Playing",
@@ -6837,7 +6820,7 @@
   },
   {
     "author": "Deranged Turtle Games",
-    "description": "Be a magical unicorn prancing among the clouds... Just dont go SPLAT!",
+    "description": "Prance through the clouds in this magical flappy birds clone",
     "genre": "Action",
     "id": "1037504",
     "link": "https://derangedturtlegames.itch.io/flappy-unicorn",
@@ -13347,9 +13330,7 @@
     "id": "1075083",
     "link": "https://nerdiful.itch.io/hover-bike-racing-game",
     "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzYxNjQwNDUucG5n/315x250%23c/fiRNNz.png",
     "title": "Jet Bikes Racing Game",
@@ -30383,6 +30364,24 @@
     ]
   },
   {
+    "author": "Ernesto Torres",
+    "description": "A small game where you decide how the heroes rest and recover from daily adventures.",
+    "genre": "Role Playing",
+    "id": "1163236",
+    "link": "https://iamernesto.itch.io/a-short-rest",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5MTI4MTIucG5n/315x250%23c/s8z8Yz.png",
+    "title": "A short rest",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "short",
+      "rest"
+    ]
+  },
+  {
     "author": "Aravinth_SS",
     "description": "The Cover-Image dose not represent the actual game",
     "genre": null,
@@ -30399,7 +30398,7 @@
     ]
   },
   {
-    "author": "A Glorious Future is Coming",
+    "author": "Science Fiction Games",
     "description": "Boomer Shooter",
     "genre": "Shooter",
     "id": "1163853",
@@ -30414,7 +30413,7 @@
     ]
   },
   {
-    "author": "A Glorious Future is Coming",
+    "author": "Science Fiction Games",
     "description": "Voxel Space FPS",
     "genre": "Platformer",
     "id": "1163879",
@@ -30423,11 +30422,11 @@
       "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY5MDMxNTUucG5n/315x250%23c/DdUcLA.png",
-    "title": "Ya Bossmang!",
+    "title": "Boss Man",
     "video": null,
     "scrapeWords": [
-      "Ya",
-      "Bossmang"
+      "Boss",
+      "Man"
     ]
   },
   {
@@ -31475,6 +31474,25 @@
       "Noorak",
       "little",
       "light"
+    ]
+  },
+  {
+    "author": "Incunabula",
+    "description": "A besieged village is in dire need of your help... would you mind?",
+    "genre": "Simulation",
+    "id": "1168361",
+    "link": "https://incunabula.itch.io/mind-what-you-build",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5MTIxNDYucG5n/315x250%23c/o2e5v8.png",
+    "title": "Mind What You Build",
+    "video": null,
+    "scrapeWords": [
+      "Mind",
+      "What",
+      "You",
+      "Build"
     ]
   },
   {
@@ -32663,17 +32681,18 @@
   },
   {
     "author": "Dratonix",
-    "description": "You're a AI testing a game, as gametesters have become too expense",
+    "description": "You're an AI who has to prove its the best ai",
     "genre": "Platformer",
     "id": "1175451",
     "link": "https://dratonix.itch.io/test-lab",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzY4NDk5MjAucG5n/315x250%23c/rmEPGY.png",
-    "title": "Test Lab",
+    "thumb": "https://img.itch.zone/aW1nLzY5MTI1NjAucG5n/315x250%23c/KNKhqo.png",
+    "title": "AI Chaos War",
     "video": null,
     "scrapeWords": [
-      "Test",
-      "Lab"
+      "AI",
+      "Chaos",
+      "War"
     ]
   },
   {
@@ -32683,9 +32702,9 @@
     "id": "1175599",
     "link": "https://kaffedev.itch.io/hungry-frogs",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzY4NDQ5NDIucG5n/315x250%23c/44dESR.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5MTMzMzguZ2lm/315x250%23cm/gm4oj2.gif",
     "title": "Hungry Frogs",
-    "video": null,
+    "video": "https://img.itch.zone/aW1nLzY5MTMzMzguZ2lm/original/RQbMAM.gif",
     "scrapeWords": [
       "Hungry",
       "Frogs"
@@ -33208,6 +33227,24 @@
     ]
   },
   {
+    "author": "Cearáj",
+    "description": "when you",
+    "genre": null,
+    "id": "1177654",
+    "link": "https://cearaj.itch.io/when-you",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY4NzY1NDQucG5n/315x250%23c/Lgk0ON.png",
+    "title": "When you",
+    "video": null,
+    "scrapeWords": [
+      "When",
+      "you"
+    ]
+  },
+  {
     "author": "Myster_E",
     "description": "Drive away intruders who disturb your grave by hexing cave paintings to life",
     "genre": "Platformer",
@@ -33503,7 +33540,7 @@
     "id": "1179797",
     "link": "https://valexand-ulb.itch.io/tales-of-the-giants",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzY5MDAxMDMucG5n/315x250%23c/hP7ngS.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5MTAzMDAucG5n/315x250%23c/rA9oVU.png",
     "title": "Tales of the Giants",
     "video": null,
     "scrapeWords": [
@@ -33681,7 +33718,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY4ODYyMDcucG5n/315x250%23c/0gvs7r.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5MTAyOTgucG5n/315x250%23c/Z1Lhxu.png",
     "title": "Long Jump Man",
     "video": null,
     "scrapeWords": [
@@ -33746,6 +33783,23 @@
     ]
   },
   {
+    "author": "A Cat Developer",
+    "description": "Un juego donde vas de la mano con un robot",
+    "genre": "Platformer",
+    "id": "1182333",
+    "link": "https://a-cat-developer.itch.io/give-me-a-hand",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY4OTE4NDcucG5n/315x250%23c/S59jnG.png",
+    "title": "Give Me a Hand",
+    "video": null,
+    "scrapeWords": [
+      "Give",
+      "Me",
+      "a",
+      "Hand"
+    ]
+  },
+  {
     "author": "Staid Cat",
     "description": "Esa espada es bonita ¿Debería tomarla?",
     "genre": "Action",
@@ -33755,7 +33809,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY4OTE0MTYucG5n/315x250%23c/VrVBEz.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5MTE1MDYucG5n/315x250%23c/PjpDQW.png",
     "title": "Ghostlike",
     "video": null,
     "scrapeWords": [
@@ -33780,6 +33834,20 @@
       "ONE",
       "TOUCH",
       "RUNNER"
+    ]
+  },
+  {
+    "author": "celestialturnip",
+    "description": "Play five chaotic levels of this four-player Pong remake",
+    "genre": "Sports",
+    "id": "1183453",
+    "link": "https://celestialturnip.itch.io/facepong",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY4OTcxMTIuZ2lm/315x250%23cm/oBXObL.gif",
+    "title": "FACEPONG",
+    "video": "https://img.itch.zone/aW1nLzY4OTcxMTIuZ2lm/original/BNJJ1U.gif",
+    "scrapeWords": [
+      "FACEPONG"
     ]
   },
   {
@@ -33906,6 +33974,121 @@
     ]
   },
   {
+    "author": "KaffeDev",
+    "description": "Find what secrets lie inside this mysterious station.",
+    "genre": "Adventure",
+    "id": "1185140",
+    "link": "https://kaffedev.itch.io/luna",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5MTMyNzIuZ2lm/315x250%23cm/KlXIqz.gif",
+    "title": "Luna",
+    "video": "https://img.itch.zone/aW1nLzY5MTMyNzIuZ2lm/original/KY3YUq.gif",
+    "scrapeWords": [
+      "Luna"
+    ]
+  },
+  {
+    "author": "Maybe Anonymous",
+    "description": "Jump around, except you're a spike.",
+    "genre": "Action",
+    "id": "1185230",
+    "link": "https://maybeanonymous.itch.io/sharp-jumping",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5MDk0NjYucG5n/315x250%23c/OKHL1v.png",
+    "title": "Sharp Jumping",
+    "video": null,
+    "scrapeWords": [
+      "Sharp",
+      "Jumping"
+    ]
+  },
+  {
+    "author": "poacher2k",
+    "description": "A gamejam tribute to Winterbells",
+    "genre": "Platformer",
+    "id": "1185241",
+    "link": "https://poacher2k.itch.io/summercoins",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5MTI0NDMucG5n/315x250%23c/rSe05h.png",
+    "title": "Summercoins",
+    "video": null,
+    "scrapeWords": [
+      "Summercoins"
+    ]
+  },
+  {
+    "author": "Vladilima",
+    "description": "Pong, backwards.",
+    "genre": null,
+    "id": "1185387",
+    "link": "https://vladilima.itch.io/gnop",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5MTI1MTgucG5n/315x250%23c/0qu5Mk.png",
+    "title": "Gnop",
+    "video": null,
+    "scrapeWords": [
+      "Gnop"
+    ]
+  },
+  {
+    "author": "qazzquimby",
+    "description": "Submission to \"Keep it simple\" Godot jam",
+    "genre": null,
+    "id": "1185614",
+    "link": "https://qazzquimby.itch.io/touch-the-yellow-dot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5MTE5NDYucG5n/315x250%23c/mlpwjR.png",
+    "title": "Touch the Yellow Dot",
+    "video": null,
+    "scrapeWords": [
+      "Touch",
+      "the",
+      "Yellow",
+      "Dot"
+    ]
+  },
+  {
+    "author": "lavaduder",
+    "description": null,
+    "genre": "Interactive Fiction",
+    "id": "1185786",
+    "link": "https://lavaduder.itch.io/this-is-a-stick-up",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5MTI5NzcucG5n/315x250%23c/ZzpO%2FA.png",
+    "title": "This is a stick up",
+    "video": null,
+    "scrapeWords": [
+      "This",
+      "is",
+      "a",
+      "stick",
+      "up"
+    ]
+  },
+  {
+    "author": "Djuff-Oficial",
+    "description": "SWIPE RPG de portas, será que você consegue juntar 10 moedas?",
+    "genre": "Adventure",
+    "id": "1186065",
+    "link": "https://djuff-oficial.itch.io/masmorra-morbida",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5MTQ5MjEucG5n/315x250%23c/o7A6t5.png",
+    "title": "Masmorra Mórbida",
+    "video": null,
+    "scrapeWords": [
+      "Masmorra",
+      "Mórbida"
+    ]
+  },
+  {
     "author": "PileOfAmoebas",
     "description": "It's a terrible idea to listen. Best to keep moving.",
     "genre": null,
@@ -33976,6 +34159,22 @@
       "Pour",
       "some",
       "tea"
+    ]
+  },
+  {
+    "author": "ijet",
+    "description": null,
+    "genre": null,
+    "id": "122091",
+    "link": "https://ijet.itch.io/dodge-the-creeps",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzU5MTgyMjYucG5n/315x250%23c/MToDF8.png",
+    "title": "Dodge the Creeps",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "the",
+      "Creeps"
     ]
   },
   {
@@ -52993,26 +53192,6 @@
     ]
   },
   {
-    "author": "JigmeDatse",
-    "description": "Tutorial Jam submission using Godot",
-    "genre": "Strategy",
-    "id": "328541",
-    "link": "https://jigmedatse.itch.io/dodge-the-creeps",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": null,
-    "title": "Dodge the Creeps",
-    "video": null,
-    "scrapeWords": [
-      "Dodge",
-      "the",
-      "Creeps"
-    ]
-  },
-  {
     "author": "miretz",
     "description": "If you ever play with weather, please be careful!!!",
     "genre": "Card Game",
@@ -55274,23 +55453,6 @@
       "be",
       "a",
       "Triangle"
-    ]
-  },
-  {
-    "author": "Raespark",
-    "description": "Peace and Tranquilty",
-    "genre": null,
-    "id": "347133",
-    "link": "https://raespark.itch.io/grow",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/315x250%23cm/IBBuUu.gif",
-    "title": "Grow",
-    "video": "https://img.itch.zone/aW1nLzE3MjMyNzMuZ2lm/original/ucEAZ5.gif",
-    "scrapeWords": [
-      "Grow"
     ]
   },
   {
@@ -71674,6 +71836,25 @@
     ]
   },
   {
+    "author": "FigyTuna",
+    "description": "Collect and grow all 27 kinds of plants!",
+    "genre": "Simulation",
+    "id": "480061",
+    "link": "https://figytuna.itch.io/grow",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzI0NzgyMzMucG5n/315x250%23c/cHYthc.png",
+    "title": "Grow",
+    "video": null,
+    "scrapeWords": [
+      "Grow"
+    ]
+  },
+  {
     "author": "Timon Herzog",
     "description": "Dodge and Splash",
     "genre": "Action",
@@ -81889,8 +82070,7 @@
     "link": "https://ivan-tigan.itch.io/reckless",
     "platforms": [
       "Windows",
-      "Linux",
-      "macOS"
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MzY2NzEuZ2lm/315x250%23cm/I%2B8Eha.gif",
     "title": "RECKLESS",
@@ -109169,11 +109349,7 @@
     "genre": "Action",
     "id": "703116",
     "link": "https://devwodsobe.itch.io/wodsobe",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
+    "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQyMjAzODMucG5n/315x250%23c/xDfBdX.png",
     "title": "Hoitown Files: Wodsobe",
     "video": null,
@@ -127491,7 +127667,7 @@
   },
   {
     "author": "async studio",
-    "description": null,
+    "description": "A combat game with card mechanics",
     "genre": "Strategy",
     "id": "790583",
     "link": "https://async-studio.itch.io/samurai-hex",
@@ -134598,15 +134774,15 @@
   },
   {
     "author": "Deranged Turtle Games",
-    "description": "Freshly steamed with a side of butter sauce.",
-    "genre": null,
+    "description": "Eat your way from the bay to the sea in this casual and unique reverse-pinball action clicker game",
+    "genre": "Action",
     "id": "837535",
     "link": "https://derangedturtlegames.itch.io/mad-crab-grab",
     "platforms": [
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzUzNjczNTYucG5n/315x250%23c/%2FJnZMo.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5MDg2MzEucG5n/315x250%23c/bpiIQ9.png",
     "title": "Mad Crab Grab",
     "video": null,
     "scrapeWords": [
