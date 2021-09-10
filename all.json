@@ -397,24 +397,6 @@
     ]
   },
   {
-    "author": "lukewardford",
-    "description": "Another abstract game where you need to solve puzzles while fight enemies.",
-    "genre": "Puzzle",
-    "id": "1001902",
-    "link": "https://lukewardford.itch.io/yeol",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU3MDI3MzYucG5n/315x250%23c/eOcMKw.png",
-    "title": "Yeol",
-    "video": null,
-    "scrapeWords": [
-      "Yeol"
-    ]
-  },
-  {
     "author": "AliAdel",
     "description": "This game was made by AliAdel",
     "genre": "Action",
@@ -19023,24 +19005,6 @@
     ]
   },
   {
-    "author": "chuchodal",
-    "description": "You play as a cloak who tries to wield a shot gun",
-    "genre": "Action",
-    "id": "1097185",
-    "link": "https://chuchodal.itch.io/cloak-shooter",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzYzMjU2OTAucG5n/315x250%23c/QEt4EO.png",
-    "title": "cloak shooter",
-    "video": null,
-    "scrapeWords": [
-      "cloak",
-      "shooter"
-    ]
-  },
-  {
     "author": "Chisell",
     "description": "A quick puzzle game about technically solving problems",
     "genre": "Puzzle",
@@ -21986,11 +21950,11 @@
     ]
   },
   {
-    "author": "Stoned Xander",
+    "author": "Casual Garage Coder",
     "description": "A web version of the executable Maze game",
     "genre": "Puzzle",
     "id": "1118290",
-    "link": "https://stoned-xander.itch.io/maze-web",
+    "link": "https://casual-garage-coder.itch.io/maze-web",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY0NjU2MjcucG5n/315x250%23c/K3PA1W.png",
     "title": "Maze-Web",
@@ -23538,7 +23502,7 @@
     ]
   },
   {
-    "author": "MujuOFC",
+    "author": "4Trazado",
     "description": "a game I'm creating from 2d shooting, this is my first game, so if it's buggy haha ​​ha ha ha",
     "genre": "Action",
     "id": "1125950",
@@ -29097,7 +29061,8 @@
     "id": "1157407",
     "link": "https://genesisviado.itch.io/card-hunter",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Android"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY3NTgwODAuanBn/315x250%23c/5TT5Pw.jpg",
     "title": "Card Hunter",
@@ -32187,9 +32152,9 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY5MzYyNzYuZ2lm/315x250%23cm/OXzpd7.gif",
+    "thumb": "https://img.itch.zone/aW1nLzY5NTY1MzUuZ2lm/315x250%23cm/O9eNiH.gif",
     "title": "Untitled Chaos Game",
-    "video": "https://img.itch.zone/aW1nLzY5MzYyNzYuZ2lm/original/Wlf%2Fpv.gif",
+    "video": "https://img.itch.zone/aW1nLzY5NTY1MzUuZ2lm/original/Q4HmVC.gif",
     "scrapeWords": [
       "Untitled",
       "Chaos",
@@ -32198,7 +32163,7 @@
   },
   {
     "author": "Jordan_Jack_1",
-    "description": "This game is a submission of Game jam. This game is based on theme 'OPPOSITE'.",
+    "description": "This game is based on theme 'OPPOSITE'. You have to do opposite to win the game.",
     "genre": "Adventure",
     "id": "1169613",
     "link": "https://jordan-jack-1.itch.io/dumb-die",
@@ -32374,7 +32339,7 @@
     ]
   },
   {
-    "author": "MujuOFC",
+    "author": "4Trazado",
     "description": "this game is like muck but it's 2d",
     "genre": "Adventure",
     "id": "1170995",
@@ -34821,7 +34786,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY5MjgzNzYucG5n/315x250%23c/pJAosI.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NTcxNDEucG5n/315x250%23c/uYkY5y.png",
     "title": "The Alchemist",
     "video": null,
     "scrapeWords": [
@@ -36450,6 +36415,22 @@
     ]
   },
   {
+    "author": "Jattmackson",
+    "description": "Press this button, A Lot. If you have to ask why this game isn't for you! But why not...?(Beta)",
+    "genre": null,
+    "id": "1190934",
+    "link": "https://jattmackson.itch.io/a-button-game",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5NDYzNDcuanBn/315x250%23c/TjY3WK.jpg",
+    "title": "A BUTTON Game",
+    "video": null,
+    "scrapeWords": [
+      "A",
+      "BUTTON",
+      "Game"
+    ]
+  },
+  {
     "author": "red_tourist",
     "description": null,
     "genre": "Puzzle",
@@ -36490,6 +36471,94 @@
     "video": null,
     "scrapeWords": [
       "Maré"
+    ]
+  },
+  {
+    "author": "Muhtasim Ishmam",
+    "description": "\"ESCAPE FROM THE DARKNESS\" IS A 2D THRILLER AND SURVIVAL  SHOOTER GAME",
+    "genre": "Survival",
+    "id": "1191673",
+    "link": "https://muhtasim-ishmam.itch.io/escape-from-the-darkness",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NTA0MTkucG5n/315x250%23c/jxBk6S.png",
+    "title": "Escape From The Darkness",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "From",
+      "The",
+      "Darkness"
+    ]
+  },
+  {
+    "author": "michelxrf",
+    "description": null,
+    "genre": "Action",
+    "id": "1192475",
+    "link": "https://michelxrf.itch.io/the-duck-game",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NTUxMDUucG5n/315x250%23c/twCmUO.png",
+    "title": "The Duck Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Duck",
+      "Game"
+    ]
+  },
+  {
+    "author": "Coderman64",
+    "description": "One bear takes on the entire season of Fall!",
+    "genre": "Platformer",
+    "id": "1192634",
+    "link": "https://coderman64.itch.io/autumn-bear",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5NTU5NjUucG5n/315x250%23c/KMIdFJ.png",
+    "title": "Autumn Bear",
+    "video": null,
+    "scrapeWords": [
+      "Autumn",
+      "Bear"
+    ]
+  },
+  {
+    "author": "Vitika",
+    "description": null,
+    "genre": "Adventure",
+    "id": "1192752",
+    "link": "https://vitika.itch.io/the-frustrating-game",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NTY1ODQucG5n/315x250%23c/%2B%2FJBdi.png",
+    "title": "The Frustrating Game",
+    "video": null,
+    "scrapeWords": [
+      "The",
+      "Frustrating",
+      "Game"
+    ]
+  },
+  {
+    "author": "CodeArt",
+    "description": null,
+    "genre": "Action",
+    "id": "1192833",
+    "link": "https://codeart.itch.io/todosh",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5NTcxOTMucG5n/315x250%23c/S12CMF.png",
+    "title": "Todosh",
+    "video": null,
+    "scrapeWords": [
+      "Todosh"
     ]
   },
   {
@@ -43278,11 +43347,11 @@
     ]
   },
   {
-    "author": "DSGuy",
+    "author": "DSGuy02",
     "description": "A simple yet fun dodging game",
     "genre": "Survival",
     "id": "241202",
-    "link": "https://dsguy.itch.io/dodge-it-legacy",
+    "link": "https://dsguy02.itch.io/dodge-it-legacy",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjQxMjAyLzExNTAwMzUucG5n/315x250%23c/VXA7D6.png",
     "title": "Dodge It!",
@@ -44474,11 +44543,11 @@
     ]
   },
   {
-    "author": "DSGuy",
+    "author": "DSGuy02",
     "description": "An old-style two player game!",
     "genre": null,
     "id": "248627",
-    "link": "https://dsguy.itch.io/shoplifter-3",
+    "link": "https://dsguy02.itch.io/shoplifter-3",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjQ4NjI3LzExODc2ODEuZ2lm/315x250%23cm/boQwIv.gif",
     "title": "Shoplifter",
@@ -45630,11 +45699,11 @@
     ]
   },
   {
-    "author": "DSGuy",
+    "author": "DSGuy02",
     "description": "A simple and frustrating game to play",
     "genre": "Survival",
     "id": "254403",
-    "link": "https://dsguy.itch.io/wall-invaders",
+    "link": "https://dsguy02.itch.io/wall-invaders",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjU0NDAzLzEyMjE5OTkucG5n/315x250%23c/KmN4mU.png",
     "title": "Wall Invaders",
@@ -46121,11 +46190,11 @@
     ]
   },
   {
-    "author": "DSGuy",
+    "author": "DSGuy02",
     "description": "A simple space-shooter game",
     "genre": "Shooter",
     "id": "261197",
-    "link": "https://dsguy.itch.io/shoot-n-void",
+    "link": "https://dsguy02.itch.io/shoot-n-void",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjYxMTk3LzEyNTgwODAucG5n/315x250%23c/GISfDu.png",
     "title": "Shoot N'Void",
@@ -46280,11 +46349,11 @@
     ]
   },
   {
-    "author": "DSGuy",
+    "author": "DSGuy02",
     "description": "a game where you swipe!",
     "genre": null,
     "id": "263076",
-    "link": "https://dsguy.itch.io/swipe-it",
+    "link": "https://dsguy02.itch.io/swipe-it",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMjYzMDc2LzEyNjk3ODgucG5n/315x250%23c/Z4G1P2.png",
     "title": "Swipe It!",
@@ -52703,11 +52772,11 @@
     ]
   },
   {
-    "author": "DSGuy",
+    "author": "DSGuy02",
     "description": "How low can you go!?",
     "genre": "Platformer",
     "id": "302764",
-    "link": "https://dsguy.itch.io/get-down",
+    "link": "https://dsguy02.itch.io/get-down",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1hZ2UvMzAyNzY0LzE0ODI1OTIucG5n/315x250%23c/BrV%2FjV.png",
     "title": "Get Down!",
@@ -62657,23 +62726,6 @@
     ]
   },
   {
-    "author": "mdogdope",
-    "description": "A space adventure",
-    "genre": "Simulation",
-    "id": "393243",
-    "link": "https://mdogdope.itch.io/galbarion",
-    "platforms": [
-      "Windows",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzE5NjMxMzcucG5n/315x250%23c/ttt3wn.png",
-    "title": "Galbarion",
-    "video": null,
-    "scrapeWords": [
-      "Galbarion"
-    ]
-  },
-  {
     "author": "Rossmck",
     "description": "laser cat defend vases from robbers",
     "genre": "Action",
@@ -72322,6 +72374,20 @@
     ]
   },
   {
+    "author": "pintman",
+    "description": "Simpe asteroids clone",
+    "genre": "Action",
+    "id": "468710",
+    "link": "https://pintman.itch.io/asteroids",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzIzOTU0MDcucG5n/315x250%23c/CUwGI7.png",
+    "title": "Asteroids",
+    "video": null,
+    "scrapeWords": [
+      "Asteroids"
+    ]
+  },
+  {
     "author": "SMAXBAT",
     "description": null,
     "genre": "Interactive Fiction",
@@ -73627,11 +73693,11 @@
     ]
   },
   {
-    "author": "DSGuy",
+    "author": "DSGuy02",
     "description": "A new corporation promises joy, should one join them?",
     "genre": null,
     "id": "475767",
-    "link": "https://dsguy.itch.io/join-us",
+    "link": "https://dsguy02.itch.io/join-us",
     "platforms": [
       "Windows",
       "Linux",
@@ -94258,7 +94324,7 @@
   },
   {
     "author": "Ori Brusilovsky",
-    "description": "Defent the Ookie. Walk the walk.",
+    "description": "Defend the Ookie. Walk the walk.",
     "genre": "Survival",
     "id": "618111",
     "link": "https://brusi.itch.io/ookie",
@@ -98960,24 +99026,6 @@
     "scrapeWords": [
       "Gone",
       "Fishing"
-    ]
-  },
-  {
-    "author": "Zyx_32",
-    "description": "Dodge all asteroids, catch the most stars and get the highest score in space",
-    "genre": "Action",
-    "id": "643688",
-    "link": "https://zyx-32.itch.io/asteroids",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzM0NDU0OTEuanBn/315x250%23c/dQxBnP.jpg",
-    "title": "Asteroids",
-    "video": null,
-    "scrapeWords": [
-      "Asteroids"
     ]
   },
   {
@@ -115319,7 +115367,7 @@
   },
   {
     "author": "Patrice Metcalf-Putnam",
-    "description": "Casual time-management game inspired by games like Diner Dash. Level up your cat and defeat Laundrocorp!",
+    "description": "A point-and-click time-management game where cats rule and laundry is big business",
     "genre": "Simulation",
     "id": "723704",
     "link": "https://patricemp.itch.io/laundry-simulator",
@@ -143032,8 +143080,7 @@
     "id": "876402",
     "link": "https://pixel-strengthtwitch-yt.itch.io/angela",
     "platforms": [
-      "Windows",
-      "Linux"
+      "Windows"
     ],
     "thumb": "https://img.itch.zone/aW1nLzQ5MzE2NjQucG5n/315x250%23c/BBegmx.png",
     "title": "Angela",
@@ -144098,6 +144145,22 @@
     "scrapeWords": [
       "Nomads",
       "Sky"
+    ]
+  },
+  {
+    "author": "LuxLux-robotics",
+    "description": "A sandbox game about hummanity and the universe in development.",
+    "genre": "Simulation",
+    "id": "883026",
+    "link": "https://luxlux-robotics.itch.io/god-of-creation",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY0NzA5MzMucG5n/315x250%23c/tz0aVZ.png",
+    "title": "God of creation",
+    "video": null,
+    "scrapeWords": [
+      "God",
+      "of",
+      "creation"
     ]
   },
   {
