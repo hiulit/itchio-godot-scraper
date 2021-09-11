@@ -9990,7 +9990,7 @@
     "description": "Game for the GoGodotJam game jam",
     "genre": "Rhythm",
     "id": "1055973",
-    "link": "https://solreaper.itch.io/floors-of-timing",
+    "link": "https://mahaddareshani.itch.io/floors-of-timing",
     "platforms": [
       "Windows",
       "Linux",
@@ -19665,6 +19665,23 @@
     ]
   },
   {
+    "author": "whattherust",
+    "description": "Mission to save the Galaxy.",
+    "genre": "Shooter",
+    "id": "1103362",
+    "link": "https://whattherust.itch.io/spacewarzone",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzYzODMwMTUucG5n/315x250%23c/EntlaG.png",
+    "title": "Space Warzone",
+    "video": null,
+    "scrapeWords": [
+      "Space",
+      "Warzone"
+    ]
+  },
+  {
     "author": "sonatsuer",
     "description": "Adventures of Mr. Havuch, a superhero who is also a carrot.",
     "genre": "Platformer",
@@ -26215,7 +26232,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY2MjU0ODUucG5n/315x250%23c/4p4nVo.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NTgzMzYucG5n/315x250%23c/oE%2Fs3w.png",
     "title": "THE LAST OF PAGANS",
     "video": null,
     "scrapeWords": [
@@ -34261,7 +34278,8 @@
     "id": "1185695",
     "link": "https://alexkircher.itch.io/rgbpuzzle",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY5Mjc3MDEucG5n/315x250%23c/53t1kw.png",
     "title": "RGBPuzzle",
@@ -34573,8 +34591,25 @@
     ]
   },
   {
+    "author": "fLuke",
+    "description": null,
+    "genre": "Adventure",
+    "id": "1186918",
+    "link": "https://heptadecimal.itch.io/dungeon-stepper",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5MjA3OTgucG5n/315x250%23c/rDovRH.png",
+    "title": "Dungeon Stepper",
+    "video": null,
+    "scrapeWords": [
+      "Dungeon",
+      "Stepper"
+    ]
+  },
+  {
     "author": "bucketfish",
-    "description": "a short platformer for 'stop waiting for godot' jam 2021.",
+    "description": "an atmospheric and challenging platformer",
     "genre": "Platformer",
     "id": "1186957",
     "link": "https://bucketfish.itch.io/sunset-shaped",
@@ -35325,7 +35360,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY5MzYyNDkucG5n/315x250%23c/XgfJcp.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NjM4MDUucG5n/315x250%23c/uspc3C.png",
     "title": "Ball Godot",
     "video": null,
     "scrapeWords": [
@@ -35638,7 +35673,7 @@
   },
   {
     "author": "Haredo",
-    "description": null,
+    "description": "First time using Godot",
     "genre": "Adventure",
     "id": "1189050",
     "link": "https://haredo.itch.io/sarqa-quest",
@@ -36309,6 +36344,25 @@
     ]
   },
   {
+    "author": "GGBot",
+    "description": "A Button Mashing Project for Godot Engine / Source Code",
+    "genre": "Racing",
+    "id": "1189616",
+    "link": "https://ggbot.itch.io/snail-racing",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NTIyNDQuanBn/315x250%23c/NEMxeX.jpg",
+    "title": "Snail Racing",
+    "video": null,
+    "scrapeWords": [
+      "Snail",
+      "Racing"
+    ]
+  },
+  {
     "author": "Shining Wing",
     "description": "An incomplete Mega Man engine in Godot Engine",
     "genre": "Platformer",
@@ -36376,6 +36430,47 @@
     "scrapeWords": [
       "Mister",
       "Coinz"
+    ]
+  },
+  {
+    "author": "sprvlln",
+    "description": "Top-Down Shooter in a Procedurally-Generated Infinite Casino Tower.",
+    "genre": "Shooter",
+    "id": "1190486",
+    "link": "https://sprvlln.itch.io/just-business",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NDM3MTQucG5n/315x250%23c/MW%2B%2BKN.png",
+    "title": "Just Business",
+    "video": null,
+    "scrapeWords": [
+      "Just",
+      "Business"
+    ]
+  },
+  {
+    "author": "Twin Trouble",
+    "description": "Anti-fascist gamers fight the Trump Zombie plague in this spree of rioting and looting!",
+    "genre": "Action",
+    "id": "1190550",
+    "link": "https://twintrouble.itch.io/smash-maga-trump-zombie-apocalypse",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NDM5ODkucG5n/315x250%23c/UF0oCI.png",
+    "title": "Smash MAGA! Trump Zombie Apocalypse",
+    "video": null,
+    "scrapeWords": [
+      "Smash",
+      "MAGA",
+      "Trump",
+      "Zombie",
+      "Apocalypse"
     ]
   },
   {
@@ -36494,6 +36589,26 @@
     ]
   },
   {
+    "author": "Diefonk",
+    "description": "Based on a dream",
+    "genre": null,
+    "id": "1191978",
+    "link": "https://diefonk.itch.io/you-reached-avalon",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NTI0MjEuZ2lm/315x250%23cm/3%2Bke3A.gif",
+    "title": "You Reached Avalon",
+    "video": "https://img.itch.zone/aW1nLzY5NTI0MjEuZ2lm/original/%2FcptNn.gif",
+    "scrapeWords": [
+      "You",
+      "Reached",
+      "Avalon"
+    ]
+  },
+  {
     "author": "michelxrf",
     "description": null,
     "genre": "Action",
@@ -36538,7 +36653,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY5NTY1ODQucG5n/315x250%23c/%2B%2FJBdi.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NjM0NjAucG5n/315x250%23c/8Ufx52.png",
     "title": "The Frustrating Game",
     "video": null,
     "scrapeWords": [
@@ -36559,6 +36674,60 @@
     "video": null,
     "scrapeWords": [
       "Todosh"
+    ]
+  },
+  {
+    "author": "resu",
+    "description": "A simple plugin for Godot that allows you to save and load variables in an dictionary.",
+    "genre": null,
+    "id": "1193058",
+    "link": "https://resuijaix.itch.io/savenode",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5NTkwNTgucG5n/315x250%23c/u5dExY.png",
+    "title": "SaveNode Godot Addon",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "Node",
+      "Godot",
+      "Addon"
+    ]
+  },
+  {
+    "author": "NexxeN GaminG",
+    "description": "Uma critica social à cultura do cancelamento.",
+    "genre": "Puzzle",
+    "id": "1193166",
+    "link": "https://nexxengaming.itch.io/sr-empatia",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NjAwMzQucG5n/315x250%23c/6yrH6e.png",
+    "title": "Sr. Empatia",
+    "video": null,
+    "scrapeWords": [
+      "Sr",
+      "Empatia"
+    ]
+  },
+  {
+    "author": "IncompleteNinny",
+    "description": "An artsy incremental prototype about a tree.",
+    "genre": null,
+    "id": "1193500",
+    "link": "https://incompleteninny.itch.io/tree-leavins",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NjE5NTMucG5n/315x250%23c/D%2FTWCr.png",
+    "title": "Tree Leavins",
+    "video": null,
+    "scrapeWords": [
+      "Tree",
+      "Leavins"
     ]
   },
   {
@@ -62726,6 +62895,23 @@
     ]
   },
   {
+    "author": "mdogdope",
+    "description": "A space adventure",
+    "genre": "Simulation",
+    "id": "393243",
+    "link": "https://mdogdope.itch.io/galbarion",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzE5NjMxMzcucG5n/315x250%23c/ttt3wn.png",
+    "title": "Galbarion",
+    "video": null,
+    "scrapeWords": [
+      "Galbarion"
+    ]
+  },
+  {
     "author": "Rossmck",
     "description": "laser cat defend vases from robbers",
     "genre": "Action",
@@ -67703,24 +67889,6 @@
     "video": null,
     "scrapeWords": [
       "Patter"
-    ]
-  },
-  {
-    "author": "Kidoncio",
-    "description": "A bunny platformer",
-    "genre": "Platformer",
-    "id": "438599",
-    "link": "https://kidoncio.itch.io/hoppy-days",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzIyMDI4MjkucG5n/315x250%23c/UDssPZ.png",
-    "title": "Hoppy Days",
-    "video": null,
-    "scrapeWords": [
-      "Hoppy",
-      "Days"
     ]
   },
   {
@@ -90755,6 +90923,23 @@
     ]
   },
   {
+    "author": "timbeaudet",
+    "description": null,
+    "genre": "Racing",
+    "id": "602238",
+    "link": "https://timbeaudet.itch.io/highway-racer",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMxOTMwODIucG5n/315x250%23c/Bx%2Bu3B.png",
+    "title": "Highway Racer",
+    "video": null,
+    "scrapeWords": [
+      "Highway",
+      "Racer"
+    ]
+  },
+  {
     "author": "Luis servin",
     "description": null,
     "genre": null,
@@ -101414,7 +101599,7 @@
     "description": "A game about wormholes!",
     "genre": "Puzzle",
     "id": "656112",
-    "link": "https://solreaper.itch.io/wormholes",
+    "link": "https://mahaddareshani.itch.io/wormholes",
     "platforms": [
       "Windows",
       "Linux",
@@ -122257,7 +122442,7 @@
   {
     "author": "Untailo",
     "description": "Control 2 different characters in this puzzle-platformer",
-    "genre": "Puzzle",
+    "genre": "Platformer",
     "id": "749975",
     "link": "https://untailo.itch.io/homelette",
     "platforms": [
@@ -130635,25 +130820,6 @@
     ]
   },
   {
-    "author": "Chris Parlette",
-    "description": "Deliver bread without letting too many jobs stack up!",
-    "genre": "Action",
-    "id": "792512",
-    "link": "https://cparlette.itch.io/carbloader",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzQ0Mzc1ODYucG5n/315x250%23c/6BpXYV.png",
-    "title": "CarbLoader",
-    "video": null,
-    "scrapeWords": [
-      "Carb",
-      "Loader"
-    ]
-  },
-  {
     "author": "sage7",
     "description": "Your sandwich, stolen! Interrogate your suspects. Search for clues. Identify the culprit.",
     "genre": "Adventure",
@@ -134621,7 +134787,7 @@
     "description": null,
     "genre": "Racing",
     "id": "821429",
-    "link": "https://solreaper.itch.io/dice-racers",
+    "link": "https://mahaddareshani.itch.io/dice-racers",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzQ2MDQ2MTEucG5n/315x250%23c/HllJzY.png",
     "title": "Dice Racers",
@@ -142420,6 +142586,26 @@
     ]
   },
   {
+    "author": "nad_labs",
+    "description": null,
+    "genre": "Strategy",
+    "id": "871907",
+    "link": "https://nad-labs.itch.io/escape-the-lab",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ5MDE1NTEucG5n/315x250%23c/LU0jQc.png",
+    "title": "Escape The Lab",
+    "video": null,
+    "scrapeWords": [
+      "Escape",
+      "The",
+      "Lab"
+    ]
+  },
+  {
     "author": "GNamimates",
     "description": "among us",
     "genre": "Interactive Fiction",
@@ -145218,7 +145404,7 @@
     "description": "Fight To The Beat",
     "genre": "Rhythm",
     "id": "887445",
-    "link": "https://solreaper.itch.io/rb",
+    "link": "https://mahaddareshani.itch.io/rb",
     "platforms": null,
     "thumb": "https://img.itch.zone/aW1nLzY3NjE0MzIucG5n/315x250%23c/POYx06.png",
     "title": "Rhythm Brawl",
@@ -150785,26 +150971,6 @@
     ]
   },
   {
-    "author": "twodotsixk",
-    "description": "help an alien to escape from a laboratory cloning himself",
-    "genre": "Platformer",
-    "id": "924725",
-    "link": "https://twodotsixk.itch.io/escape-the-lab",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUyMjkxODgucG5n/315x250%23c/0SdS0C.png",
-    "title": "Escape The Lab",
-    "video": null,
-    "scrapeWords": [
-      "Escape",
-      "The",
-      "Lab"
-    ]
-  },
-  {
     "author": "yokelpole",
     "description": "A Flappy Bird inspired space shooter",
     "genre": "Shooter",
@@ -154921,6 +155087,21 @@
     ]
   },
   {
+    "author": "JurassicKangaru",
+    "description": null,
+    "genre": null,
+    "id": "945822",
+    "link": "https://jurassickangaru.itch.io/hoppy-days",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzUzNjEzMDIucG5n/315x250%23c/7%2BHZob.png",
+    "title": "Hoppy Days",
+    "video": null,
+    "scrapeWords": [
+      "Hoppy",
+      "Days"
+    ]
+  },
+  {
     "author": "Toby",
     "description": "a short game",
     "genre": null,
@@ -157689,11 +157870,11 @@
     ]
   },
   {
-    "author": "Izloople",
+    "author": "Idey",
     "description": "A short Godot Wild Jam 31 game.",
     "genre": "Puzzle",
     "id": "964541",
-    "link": "https://izloople.itch.io/exploit",
+    "link": "https://idey.itch.io/exploit",
     "platforms": [
       "Windows",
       "Linux",
