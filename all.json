@@ -203,6 +203,24 @@
     ]
   },
   {
+    "author": "Carras",
+    "description": "Made for The Godot Wild Jam #32, themed 'Seven'",
+    "genre": null,
+    "id": "1001377",
+    "link": "https://carrastgoc.itch.io/lo-fi-7",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU3MDA5NDgucG5n/315x250%23c/YSdVUn.png",
+    "title": "Lo-fi-7",
+    "video": null,
+    "scrapeWords": [
+      "Lo-fi-7"
+    ]
+  },
+  {
     "author": "Narking",
     "description": "A Top-Down Shooter about a militar robot and sci-fi experements",
     "genre": "Shooter",
@@ -10005,11 +10023,11 @@
     ]
   },
   {
-    "author": "DvorakDwarf",
+    "author": "Titleless",
     "description": "This is a short platformer I made to see what I want to learn.",
     "genre": "Platformer",
     "id": "1056046",
-    "link": "https://dvorakdwarf.itch.io/yet-another-platformer",
+    "link": "https://titleless.itch.io/yet-another-platformer",
     "platforms": [
       "Windows",
       "macOS"
@@ -12378,20 +12396,6 @@
       "Steal",
       "The",
       "Cookies"
-    ]
-  },
-  {
-    "author": "WaveCollapse",
-    "description": "Physics-Based Top Down Shooter",
-    "genre": "Shooter",
-    "id": "1067207",
-    "link": "https://wavecollapse.itch.io/impulse",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzYxMTk5MDYucG5n/315x250%23c/MPXYzj.png",
-    "title": "Impulse",
-    "video": null,
-    "scrapeWords": [
-      "Impulse"
     ]
   },
   {
@@ -17776,7 +17780,7 @@
     "platforms": [
       "Android"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzYyNzA5MjQucG5n/315x250%23c/BPEtf7.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NzQ0MTEucG5n/315x250%23c/O2HkzT.png",
     "title": "Magilaria Pre Alpha",
     "video": null,
     "scrapeWords": [
@@ -25060,7 +25064,9 @@
     "genre": "Puzzle",
     "id": "1135555",
     "link": "https://domenico-labaki.itch.io/polygon-swap",
-    "platforms": null,
+    "platforms": [
+      "Windows"
+    ],
     "thumb": "https://img.itch.zone/aW1nLzY1ODIzOTQucG5n/315x250%23c/Y64j7y.png",
     "title": "Polygon Swap",
     "video": null,
@@ -25823,6 +25829,22 @@
     "scrapeWords": [
       "Among",
       "Ass"
+    ]
+  },
+  {
+    "author": "SimpingTuna",
+    "description": "Aesthetic Arcade Game with Funky Music",
+    "genre": "Puzzle",
+    "id": "1138705",
+    "link": "https://simpingtuna.itch.io/godot",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY2MDMyODcuanBn/315x250%23c/6y6k9R.jpg",
+    "title": "Dodge The Creeps!",
+    "video": null,
+    "scrapeWords": [
+      "Dodge",
+      "The",
+      "Creeps"
     ]
   },
   {
@@ -28435,7 +28457,7 @@
     "description": "Box rocket gloves to win the tournament!",
     "genre": "Sports",
     "id": "1153167",
-    "link": "https://whyatt1872.itch.io/skii",
+    "link": "https://whyatt1872.itch.io/ski-box",
     "platforms": [
       "Windows",
       "Linux",
@@ -30352,6 +30374,22 @@
     ]
   },
   {
+    "author": "Blubbits",
+    "description": "First demo of the Blubbits game",
+    "genre": "Adventure",
+    "id": "1162924",
+    "link": "https://blubbits.itch.io/blubbits-demo",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NzM4NzEucG5n/315x250%23c/qL7jfv.png",
+    "title": "Blubbits Demo",
+    "video": null,
+    "scrapeWords": [
+      "Blubbits"
+    ]
+  },
+  {
     "author": "TheWildBlue",
     "description": "Catch falling fruit 🍋🍏🍓",
     "genre": null,
@@ -30473,7 +30511,7 @@
     ]
   },
   {
-    "author": "Science Fiction Games",
+    "author": "Glorious Future",
     "description": "Boomer Shooter",
     "genre": "Shooter",
     "id": "1163853",
@@ -30488,7 +30526,7 @@
     ]
   },
   {
-    "author": "Science Fiction Games",
+    "author": "Glorious Future",
     "description": "Voxel Space FPS",
     "genre": "Platformer",
     "id": "1163879",
@@ -33724,7 +33762,7 @@
       "Linux",
       "macOS"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY4NzU5NDIucG5n/315x250%23c/XocGaQ.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NzM2NTcuanBn/315x250%23c/OJAOvp.jpg",
     "title": "War for family 2 demo",
     "video": null,
     "scrapeWords": [
@@ -34886,7 +34924,7 @@
     "platforms": [
       "Windows"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzY5NTcxNDEucG5n/315x250%23c/uYkY5y.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NzI1NjEucG5n/315x250%23c/o1k44X.png",
     "title": "The Alchemist",
     "video": null,
     "scrapeWords": [
@@ -35434,7 +35472,22 @@
     ]
   },
   {
-    "author": "mikewake",
+    "author": "payaosito",
+    "description": "It's time for a lizard to get some snacks.",
+    "genre": "Action",
+    "id": "1188555",
+    "link": "https://payaosito.itch.io/lunchtime",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5MzE0NjAucG5n/315x250%23c/8Jqqjd.png",
+    "title": "LunchTime",
+    "video": null,
+    "scrapeWords": [
+      "Lunch",
+      "Time"
+    ]
+  },
+  {
+    "author": "Mike Wake",
     "description": "A gamejam game about protecting the planet from asteroids",
     "genre": "Shooter",
     "id": "1188580",
@@ -36458,7 +36511,9 @@
     "id": "1189691",
     "link": "https://beeznutzdev.itch.io/queens",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY5NDE1MjgucG5n/315x250%23c/QlCB83.png",
     "title": "Queens",
@@ -36872,6 +36927,117 @@
     "video": null,
     "scrapeWords": [
       "Snakoros"
+    ]
+  },
+  {
+    "author": "Bootlag",
+    "description": null,
+    "genre": "Action",
+    "id": "1194728",
+    "link": "https://bootlag.itch.io/bottled-up",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5NzQ0NTUucG5n/315x250%23c/jDCZmS.png",
+    "title": "Bottled Up",
+    "video": null,
+    "scrapeWords": [
+      "Bottled",
+      "Up"
+    ]
+  },
+  {
+    "author": "WalrusWilram",
+    "description": "ESCAPE a lab while SHARING your body with SOMEONE ELSE...",
+    "genre": "Strategy",
+    "id": "1194767",
+    "link": "https://walruswilram.itch.io/you-are-legion",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NzcyNzEucG5n/315x250%23c/wGbxDA.png",
+    "title": "You are Legion",
+    "video": null,
+    "scrapeWords": [
+      "You",
+      "are",
+      "Legion"
+    ]
+  },
+  {
+    "author": "SteveTheNinja",
+    "description": "Interactive 2D boids simulation",
+    "genre": "Simulation",
+    "id": "1195178",
+    "link": "https://stevetheninja.itch.io/godot-boids",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NzIxNjgucG5n/315x250%23c/15AoU4.png",
+    "title": "Boids in Godot",
+    "video": null,
+    "scrapeWords": [
+      "Boids",
+      "in",
+      "Godot"
+    ]
+  },
+  {
+    "author": "shinkarom",
+    "description": "A simple traffic avoidance game",
+    "genre": "Racing",
+    "id": "1195240",
+    "link": "https://shinkarom.itch.io/laneswitch",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NzI2MjEuanBn/315x250%23c/F1E7Hd.jpg",
+    "title": "Laneswitch",
+    "video": null,
+    "scrapeWords": [
+      "Laneswitch"
+    ]
+  },
+  {
+    "author": "MaybeAnonymousDev",
+    "description": "A game where you were on the edge of quitting, but then there was a fire.",
+    "genre": "Platformer",
+    "id": "1195387",
+    "link": "https://maybeanonymous.itch.io/squoffice-the-firing",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NzM0NDcucG5n/315x250%23c/QCBP8p.png",
+    "title": "Squoffice: The Firing",
+    "video": null,
+    "scrapeWords": [
+      "Squoffice",
+      "The",
+      "Firing"
+    ]
+  },
+  {
+    "author": "Kalonica",
+    "description": "You walk around a park and there are people in the park.",
+    "genre": "Simulation",
+    "id": "1195943",
+    "link": "https://kalonica.itch.io/there-are-people-in-the-park",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NzcxNDAucG5n/315x250%23c/4Tqy3K.png",
+    "title": "There are people in the park",
+    "video": null,
+    "scrapeWords": [
+      "There",
+      "are",
+      "people",
+      "in",
+      "the",
+      "park"
     ]
   },
   {
@@ -66015,22 +66181,6 @@
     ]
   },
   {
-    "author": "thejacobhardman",
-    "description": "A simple 2D game where you dodge enemies.",
-    "genre": "Action",
-    "id": "418794",
-    "link": "https://thejacobhardman.itch.io/dodge-the-creeps",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzIwODUyMjUucG5n/315x250%23c/CjmT1M.png",
-    "title": "Dodge The Creeps!",
-    "video": null,
-    "scrapeWords": [
-      "Dodge",
-      "The",
-      "Creeps"
-    ]
-  },
-  {
     "author": "gloryofrobots",
     "description": "Digital version of the card game Cuttle",
     "genre": "Card Game",
@@ -78887,23 +79037,6 @@
     ]
   },
   {
-    "author": "Ice Pixel Games",
-    "description": "A hardcore space shooter. Can you survive for 180 seconds?",
-    "genre": "Shooter",
-    "id": "511760",
-    "link": "https://icepixelgames.itch.io/vacuum",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/315x250%23cm/GkIDyj.gif",
-    "title": "VACUUM",
-    "video": "https://img.itch.zone/aW1nLzI2NjU5MzIuZ2lm/original/flzpEL.gif",
-    "scrapeWords": [
-      "VACUUM"
-    ]
-  },
-  {
     "author": "Pandaqi",
     "description": "An action platformer about keeping yourself alive by shooting trees and then setting them on fire",
     "genre": "Action",
@@ -79642,6 +79775,20 @@
       "of",
       "Flying",
       "Rocks"
+    ]
+  },
+  {
+    "author": "Nocity",
+    "description": "Minimalist bullet hell boss shooter.",
+    "genre": "Action",
+    "id": "518532",
+    "link": "https://nocity.itch.io/impulse",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzI2OTMwMTAucG5n/315x250%23c/mEkOw8.png",
+    "title": "Impulse",
+    "video": null,
+    "scrapeWords": [
+      "Impulse"
     ]
   },
   {
@@ -91969,6 +92116,24 @@
     ]
   },
   {
+    "author": "Senopiece",
+    "description": "Simple backbone project.",
+    "genre": null,
+    "id": "607493",
+    "link": "https://senopiece.itch.io/savetheball",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzMyMjUxODIucG5n/315x250%23c/4KiZTD.png",
+    "title": "SaveTheBall",
+    "video": null,
+    "scrapeWords": [
+      "Save",
+      "The",
+      "Ball"
+    ]
+  },
+  {
     "author": "InterDan",
     "description": null,
     "genre": "Strategy",
@@ -101182,7 +101347,7 @@
     "description": "An autobattler game that may have something to do with chess",
     "genre": "Card Game",
     "id": "653293",
-    "link": "https://tuii.itch.io/march-of-the-white-king",
+    "link": "https://banjotui.itch.io/march-of-the-white-king",
     "platforms": [
       "Windows",
       "Linux"
@@ -144393,26 +144558,6 @@
     ]
   },
   {
-    "author": "IvanZelta",
-    "description": null,
-    "genre": "Adventure",
-    "id": "882404",
-    "link": "https://ivanzelta.itch.io/nomorekings",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "macOS"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzU2MzcyMTAucG5n/315x250%23c/XkNTeD.png",
-    "title": "No More Kings",
-    "video": null,
-    "scrapeWords": [
-      "No",
-      "More",
-      "Kings"
-    ]
-  },
-  {
     "author": "Synzorasize",
     "description": "A basic platformer where you change color to interact with the map.",
     "genre": "Platformer",
@@ -155802,7 +155947,7 @@
       "Windows",
       "Linux"
     ],
-    "thumb": "https://img.itch.zone/aW1nLzU0MjQ4MjIucG5n/315x250%23c/b9Xy9r.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5NzY4MzIucG5n/315x250%23c/EuGkNo.png",
     "title": "Machine Battle",
     "video": null,
     "scrapeWords": [
