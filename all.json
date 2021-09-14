@@ -21635,7 +21635,7 @@
     ]
   },
   {
-    "author": "AvectaTV",
+    "author": "Avecta",
     "description": "A small platformer and introduction to the crew of Scallywags!",
     "genre": "Adventure",
     "id": "1116758",
@@ -27218,11 +27218,11 @@
       "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY2NTQ0NzIucG5n/315x250%23c/cd5u6l.png",
-    "title": "Ink land - V1.1 (Bug fix)",
+    "title": "Ink Land - V1.1 (Bug fix)",
     "video": null,
     "scrapeWords": [
       "Ink",
-      "land",
+      "Land",
       "V11",
       "Bug",
       "fix"
@@ -28258,6 +28258,24 @@
       "with",
       "a",
       "fox"
+    ]
+  },
+  {
+    "author": "KreativServer",
+    "description": "A 2D Pixelart Metroidvania",
+    "genre": "Platformer",
+    "id": "1152598",
+    "link": "https://kreativserver.itch.io/akapolis",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY4MDkzMTcucG5n/315x250%23c/vW4j5l.png",
+    "title": "Akapolis",
+    "video": null,
+    "scrapeWords": [
+      "Akapolis"
     ]
   },
   {
@@ -30511,7 +30529,7 @@
     ]
   },
   {
-    "author": "Glorious Future",
+    "author": "Science Fiction Games",
     "description": "Boomer Shooter",
     "genre": "Shooter",
     "id": "1163853",
@@ -30526,7 +30544,7 @@
     ]
   },
   {
-    "author": "Glorious Future",
+    "author": "Science Fiction Games",
     "description": "Voxel Space FPS",
     "genre": "Platformer",
     "id": "1163879",
@@ -34555,6 +34573,20 @@
     ]
   },
   {
+    "author": "TriOrvis",
+    "description": "Journey inside the remains of Giant monster searching for treasure. Beware of what lurks within!",
+    "genre": "Platformer",
+    "id": "1186297",
+    "link": "https://triorvis.itch.io/kaiju-body-dungeon",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5MTYwNTQuanBn/315x250%23c/7dS4dA.jpg",
+    "title": "Kaiju-Body-Dungeon",
+    "video": null,
+    "scrapeWords": [
+      "Kaiju-Body-Dungeon"
+    ]
+  },
+  {
     "author": "rushork",
     "description": "Halfling & Mushrooms",
     "genre": "Adventure",
@@ -34819,6 +34851,25 @@
     "scrapeWords": [
       "Rush",
       "Life"
+    ]
+  },
+  {
+    "author": "Cheeseness",
+    "description": "A game about delivering packages via hot air balloon in a village among the clouds (#stopwaitingforgodot jam 2021)",
+    "genre": null,
+    "id": "1187286",
+    "link": "https://cheeseness.itch.io/cloud-courier",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5MzY5NjgucG5n/315x250%23c/xBG4U1.png",
+    "title": "Cloud Courier",
+    "video": null,
+    "scrapeWords": [
+      "Cloud",
+      "Courier"
     ]
   },
   {
@@ -36396,7 +36447,8 @@
     "link": "https://zcipher90.itch.io/super-golden-speedster-3d",
     "platforms": [
       "Windows",
-      "Linux"
+      "Linux",
+      "macOS"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY5Mzc1ODcucG5n/315x250%23c/P88MEy.png",
     "title": "Super Golden Speedster 3D",
@@ -36754,7 +36806,7 @@
     "id": "1192634",
     "link": "https://coderman64.itch.io/autumn-bear",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzY5NTU5NjUucG5n/315x250%23c/KMIdFJ.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5ODMxNTcucG5n/315x250%23c/sEGz%2B%2F.png",
     "title": "Autumn Bear",
     "video": null,
     "scrapeWords": [
@@ -36809,6 +36861,21 @@
     "video": null,
     "scrapeWords": [
       "Todosh"
+    ]
+  },
+  {
+    "author": "Positive Zero",
+    "description": "A chaotic pizza-delivery zombie-survival arcade game",
+    "genre": null,
+    "id": "1193033",
+    "link": "https://positive-zero.itch.io/azure-lux-jam",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5ODE1MDAucG5n/315x250%23c/0tMvAi.png",
+    "title": "Pizzas & Zombies",
+    "video": null,
+    "scrapeWords": [
+      "Pizzas",
+      "Zombies"
     ]
   },
   {
@@ -36930,6 +36997,22 @@
     ]
   },
   {
+    "author": "Kai",
+    "description": "wander through a library made out of dioramas dreaming of a different world",
+    "genre": "Interactive Fiction",
+    "id": "1194398",
+    "link": "https://kai20.itch.io/archiver",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5ODI2MDIuanBn/315x250%23c/Ah1bs1.jpg",
+    "title": "Archiver",
+    "video": null,
+    "scrapeWords": [
+      "Archiver"
+    ]
+  },
+  {
     "author": "Bootlag",
     "description": null,
     "genre": "Action",
@@ -37020,6 +37103,38 @@
     ]
   },
   {
+    "author": "Elfi",
+    "description": "An AGBIC game about bees",
+    "genre": "Action",
+    "id": "1195444",
+    "link": "https://elfifae.itch.io/miel",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5ODE1MTEucG5n/315x250%23c/3Whc2U.png",
+    "title": "Miel",
+    "video": null,
+    "scrapeWords": [
+      "Miel"
+    ]
+  },
+  {
+    "author": "Retrocade Media",
+    "description": "An Infinite wave based shooter with a unique dash mechanic",
+    "genre": "Shooter",
+    "id": "1195751",
+    "link": "https://retrocademedia.itch.io/viral-reload",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5ODM2OTQucG5n/315x250%23c/GCq3b4.png",
+    "title": "Viral Reload",
+    "video": null,
+    "scrapeWords": [
+      "Viral",
+      "Reload"
+    ]
+  },
+  {
     "author": "Kalonica",
     "description": "You walk around a park and there are people in the park.",
     "genre": "Simulation",
@@ -37038,6 +37153,90 @@
       "in",
       "the",
       "park"
+    ]
+  },
+  {
+    "author": "Fefeman",
+    "description": "An aerial combat magical girl game",
+    "genre": "Action",
+    "id": "1196343",
+    "link": "https://fefeman.itch.io/maiden-monstruous",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5Nzk2MDAucG5n/315x250%23c/uAPa5v.png",
+    "title": "Maiden Monstruous",
+    "video": null,
+    "scrapeWords": [
+      "Maiden",
+      "Monstruous"
+    ]
+  },
+  {
+    "author": "Mateu S",
+    "description": "Demo of the YouTube series \"Make a Godot Roguelike\"",
+    "genre": "Action",
+    "id": "1196492",
+    "link": "https://mateu-s.itch.io/godot-roguelike-tutorial",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5ODA1NjMucG5n/315x250%23c/6O5FpH.png",
+    "title": "Godot Roguelike Tutorial",
+    "video": null,
+    "scrapeWords": [
+      "Godot",
+      "Roguelike",
+      "Tutorial"
+    ]
+  },
+  {
+    "author": "photodenshi",
+    "description": null,
+    "genre": null,
+    "id": "1196747",
+    "link": "https://photodenshi.itch.io/loading",
+    "platforms": [
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5ODIxMDIucG5n/315x250%23c/M4gO%2Fc.png",
+    "title": "Loading",
+    "video": null,
+    "scrapeWords": [
+      "Loading"
+    ]
+  },
+  {
+    "author": "gkc",
+    "description": "Add Candles With Clubs. Part of LEJ14.",
+    "genre": "Sports",
+    "id": "1197018",
+    "link": "https://gkc.itch.io/extreme-cake-decorator",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5ODM1MTcucG5n/315x250%23c/IsoSqV.png",
+    "title": "Extreme Cake Decorator",
+    "video": null,
+    "scrapeWords": [
+      "Extreme",
+      "Cake",
+      "Decorator"
+    ]
+  },
+  {
+    "author": "DogTag",
+    "description": null,
+    "genre": "Adventure",
+    "id": "1197124",
+    "link": "https://dogtag.itch.io/pruefungsjagd",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5ODQxNzAuanBn/315x250%23c/SIuK9H.jpg",
+    "title": "Prüfungsjagd",
+    "video": null,
+    "scrapeWords": [
+      "Prüfungsjagd"
     ]
   },
   {
@@ -92726,6 +92925,21 @@
     ]
   },
   {
+    "author": "StyxOo",
+    "description": "Small godot arena crawler",
+    "genre": "Puzzle",
+    "id": "611127",
+    "link": "https://styxoo.itch.io/arena-crawl",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5ODEyODkucG5n/315x250%23c/a%2Fn1bz.png",
+    "title": "Arena Crawl",
+    "video": null,
+    "scrapeWords": [
+      "Arena",
+      "Crawl"
+    ]
+  },
+  {
     "author": "TakeLime",
     "description": "Discover an infinite procedural world, unite with monsters, discover the universe and create your own one with friends",
     "genre": "Adventure",
@@ -97606,6 +97820,28 @@
     "video": null,
     "scrapeWords": [
       "Oasim"
+    ]
+  },
+  {
+    "author": "ThEnigmArtist",
+    "description": "2d single/co op action rpg mini game",
+    "genre": "Survival",
+    "id": "632689",
+    "link": "https://blackboxceo.itch.io/black-box-man-down",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU0MzUwNjkuanBn/315x250%23c/hizsu0.jpg",
+    "title": "Man Down:  2 player co op version",
+    "video": null,
+    "scrapeWords": [
+      "Man",
+      "Down",
+      "2",
+      "player",
+      "co",
+      "op",
+      "version"
     ]
   },
   {
@@ -117982,7 +118218,7 @@
     "description": "Top-down shooter game",
     "genre": "Survival",
     "id": "733080",
-    "link": "https://armadillodev.itch.io/duck-dash",
+    "link": "https://aj08coder.itch.io/duck-dash",
     "platforms": [
       "Windows"
     ],
@@ -128586,6 +128822,23 @@
     "scrapeWords": [
       "Feline",
       "FREE"
+    ]
+  },
+  {
+    "author": "RevTheGame",
+    "description": "Every Mobile Game I Make in 2021 For One Low Price",
+    "genre": null,
+    "id": "778591",
+    "link": "https://revthegame.itch.io/revpass",
+    "platforms": [
+      "Android"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzQ0MTA1MTcucG5n/315x250%23c/stuz93.png",
+    "title": "revPass",
+    "video": null,
+    "scrapeWords": [
+      "rev",
+      "Pass"
     ]
   },
   {
@@ -157140,7 +157393,7 @@
     ]
   },
   {
-    "author": "kdiduk",
+    "author": "Kirill Diduk",
     "description": "A simple roguelike game with pixel graphics prepared for 7DRL Jam",
     "genre": null,
     "id": "956715",
