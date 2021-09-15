@@ -345,11 +345,11 @@
     ]
   },
   {
-    "author": "s4Ne",
+    "author": "svierne",
     "description": "Gravity minigolf in space",
     "genre": "Puzzle",
     "id": "1001802",
-    "link": "https://s4ne.itch.io/petty-pioneer",
+    "link": "https://svierne.itch.io/petty-pioneer",
     "platforms": [
       "Windows",
       "Linux"
@@ -1109,7 +1109,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": "An epic adventure to find a potion that cure diarrhea",
     "genre": "Platformer",
     "id": "1006024",
@@ -11062,7 +11062,7 @@
     ]
   },
   {
-    "author": "Kai",
+    "author": "Kai Werder",
     "description": "walk to the telescope and reach your hand out",
     "genre": "Adventure",
     "id": "1062688",
@@ -24579,7 +24579,7 @@
     ]
   },
   {
-    "author": "Kai",
+    "author": "Kai Werder",
     "description": "solve a murder in a room full of museum objects",
     "genre": "Visual Novel",
     "id": "1132126",
@@ -24651,6 +24651,26 @@
       "NEW",
       "Falling",
       "Cats"
+    ]
+  },
+  {
+    "author": "NizMI",
+    "description": "\"all objects in the universe must have a mystery, even though it is as small as an atom\"",
+    "genre": "Adventure",
+    "id": "1133101",
+    "link": "https://nizarihsan.itch.io/0001",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY3MDgxNDYucG5n/315x250%23c/a2McPR.png",
+    "title": "the sun has frozen",
+    "video": null,
+    "scrapeWords": [
+      "the",
+      "sun",
+      "has",
+      "frozen"
     ]
   },
   {
@@ -26276,7 +26296,7 @@
     ]
   },
   {
-    "author": "Sinlesss",
+    "author": "sinny",
     "description": "Collect coins to unlock new blocks. For every time a block collide with something you earn coins!",
     "genre": null,
     "id": "1142281",
@@ -26980,7 +27000,7 @@
   },
   {
     "author": "panguala",
-    "description": null,
+    "description": "Go back in time and interact with the previous agents in order to complete your missions. Created for Game Jaaj 6",
     "genre": "Action",
     "id": "1145613",
     "link": "https://panguala.itch.io/new-new-cycle",
@@ -29829,6 +29849,21 @@
     ]
   },
   {
+    "author": "89o",
+    "description": "you turn the game on, but nothing happens. you don’t feel any different.",
+    "genre": null,
+    "id": "1160335",
+    "link": "https://89o.itch.io/s3ctor",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5ODc4MzcucG5n/315x250%23c/sgDWj9.png",
+    "title": "S3CTOR",
+    "video": null,
+    "scrapeWords": [
+      "S3",
+      "CTOR"
+    ]
+  },
+  {
     "author": "Winged",
     "description": "Just snip it!",
     "genre": "Action",
@@ -30398,7 +30433,8 @@
     "id": "1162924",
     "link": "https://blubbits.itch.io/blubbits-demo",
     "platforms": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "thumb": "https://img.itch.zone/aW1nLzY5NzM4NzEucG5n/315x250%23c/qL7jfv.png",
     "title": "Blubbits Demo",
@@ -36997,7 +37033,7 @@
     ]
   },
   {
-    "author": "Kai",
+    "author": "Kai Werder",
     "description": "wander through a library made out of dioramas dreaming of a different world",
     "genre": "Interactive Fiction",
     "id": "1194398",
@@ -37120,13 +37156,32 @@
     ]
   },
   {
+    "author": "Meno",
+    "description": "Mon tout premier jeu",
+    "genre": "Action",
+    "id": "1195665",
+    "link": "https://meno-uwu.itch.io/un-petit-donjon",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5Nzc1NDkucG5n/315x250%23c/Ia1rkZ.png",
+    "title": "Un Petit Donjon",
+    "video": null,
+    "scrapeWords": [
+      "Un",
+      "Petit",
+      "Donjon"
+    ]
+  },
+  {
     "author": "Retrocade Media",
     "description": "An Infinite wave based shooter with a unique dash mechanic",
     "genre": "Shooter",
     "id": "1195751",
     "link": "https://retrocademedia.itch.io/viral-reload",
     "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzY5ODM2OTQucG5n/315x250%23c/GCq3b4.png",
+    "thumb": "https://img.itch.zone/aW1nLzY5OTAzODkucG5n/315x250%23c/LY4Xno.png",
     "title": "Viral Reload",
     "video": null,
     "scrapeWords": [
@@ -37173,7 +37228,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": "Demo of the YouTube series \"Make a Godot Roguelike\"",
     "genre": "Action",
     "id": "1196492",
@@ -37237,6 +37292,41 @@
     "video": null,
     "scrapeWords": [
       "Prüfungsjagd"
+    ]
+  },
+  {
+    "author": "Sander Vanhove",
+    "description": "Dinosaurs on catapults!",
+    "genre": "Adventure",
+    "id": "1197784",
+    "link": "https://sandervanhove.itch.io/dinopult",
+    "platforms": null,
+    "thumb": "https://img.itch.zone/aW1nLzY5ODc5MDQucG5n/315x250%23c/yccYUB.png",
+    "title": "Dinopult (DINOJAM #1)",
+    "video": null,
+    "scrapeWords": [
+      "Dinopult",
+      "DINOJAM",
+      "1"
+    ]
+  },
+  {
+    "author": "tavoe",
+    "description": "The Tomb Inspector's Guild needs you to inspect a tomb. Descend to the savage TOOM WORLD and seek your fate.",
+    "genre": "Adventure",
+    "id": "1198292",
+    "link": "https://tavoe.itch.io/toom-world",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5OTA3NzYucG5n/315x250%23c/dlQXCN.png",
+    "title": "Toom World",
+    "video": null,
+    "scrapeWords": [
+      "Toom",
+      "World"
     ]
   },
   {
@@ -102180,7 +102270,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": null,
     "genre": "Shooter",
     "id": "657062",
@@ -118214,7 +118304,7 @@
     ]
   },
   {
-    "author": "ArmadilloDev",
+    "author": "AJ08Coder",
     "description": "Top-down shooter game",
     "genre": "Survival",
     "id": "733080",
@@ -121092,7 +121182,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": "A procedural generated islands adventure.",
     "genre": "Adventure",
     "id": "739163",
@@ -125356,7 +125446,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": "A chicken endless runner",
     "genre": null,
     "id": "762181",
@@ -136949,20 +137039,6 @@
     ]
   },
   {
-    "author": "Claxvii",
-    "description": null,
-    "genre": null,
-    "id": "830404",
-    "link": "https://claxvii.itch.io/insulation",
-    "platforms": null,
-    "thumb": "https://img.itch.zone/aW1nLzQ2NTM1MDMuanBn/315x250%23c/2F9U33.jpg",
-    "title": "Insulation",
-    "video": null,
-    "scrapeWords": [
-      "Insulation"
-    ]
-  },
-  {
     "author": "Zeno",
     "description": "Made For TPS Game Jam",
     "genre": "Action",
@@ -139661,7 +139737,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": "A match 3 game adventure",
     "genre": "Adventure",
     "id": "848710",
@@ -151004,7 +151080,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": "A pixeleted space roguelike",
     "genre": "Shooter",
     "id": "920129",
@@ -154667,25 +154743,6 @@
       "Mad",
       "Pizza",
       "Rush"
-    ]
-  },
-  {
-    "author": "guydoesthings",
-    "description": "My desperate attempt at giving a product FAST",
-    "genre": null,
-    "id": "939795",
-    "link": "https://guydoesthings.itch.io/aritgame",
-    "platforms": [
-      "Windows",
-      "Linux"
-    ],
-    "thumb": "https://img.itch.zone/aW1nLzUzMzQ4NTMucG5n/315x250%23c/92zk7%2F.png",
-    "title": "arit the alien",
-    "video": null,
-    "scrapeWords": [
-      "arit",
-      "the",
-      "alien"
     ]
   },
   {
@@ -160422,6 +160479,23 @@
     ]
   },
   {
+    "author": "Kikimora Games",
+    "description": "You are an invader,  a multiplying army of one.  This world is dying and you are here to take part in the feast.",
+    "genre": "Puzzle",
+    "id": "974992",
+    "link": "https://kikimora.itch.io/mitos",
+    "platforms": [
+      "Windows"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzY5NzI1NDEuZ2lm/315x250%23cm/9zRoEb.gif",
+    "title": "MiTOS",
+    "video": "https://img.itch.zone/aW1nLzY5NzI1NDEuZ2lm/original/n0tMfX.gif",
+    "scrapeWords": [
+      "Mi",
+      "TOS"
+    ]
+  },
+  {
     "author": "muggy672",
     "description": "Download Project Kosbelum Today!",
     "genre": "Shooter",
@@ -161559,7 +161633,7 @@
     ]
   },
   {
-    "author": "Mateu S",
+    "author": "Mateu",
     "description": "A  Godot game about Godot",
     "genre": "Action",
     "id": "982856",
@@ -162370,6 +162444,32 @@
     "video": null,
     "scrapeWords": [
       "Deadarang"
+    ]
+  },
+  {
+    "author": "hpnrep6",
+    "description": "Explore wonderful things!",
+    "genre": "Adventure",
+    "id": "988788",
+    "link": "https://hpnrep6.itch.io/jay-jay-dating-sim-jay-jays-basement-of-fun",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "thumb": "https://img.itch.zone/aW1nLzU2MjkwNjMucG5n/315x250%23c/xFX5IH.png",
+    "title": "Jay Jay Dating Sim: Jay Jay's Basement of Fun",
+    "video": null,
+    "scrapeWords": [
+      "Jay",
+      "Jay",
+      "Dating",
+      "Sim",
+      "Jay",
+      "Jays",
+      "Basement",
+      "of",
+      "Fun"
     ]
   },
   {
