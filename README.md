@@ -53,6 +53,8 @@ For the scraper to be able to find a game, the game's build name must follow the
 * [Git](https://git-scm.com/) installed on your computer.
 * [Node.js](https://nodejs.org/en/) installed on your computer.
 
+**Warning:** Don't update the `node-fetch` package.
+
 ### Installation
 
 ```bash

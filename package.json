@@ -29,10 +29,12 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "node-fetch": "^2.6.2",
-    "nodemon": "^2.0.13",
-    "request": "^2.88.2"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.6",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "twitter-api-v2": "^1.8.1"
   },
   "engines": {
     "node": "12.x"

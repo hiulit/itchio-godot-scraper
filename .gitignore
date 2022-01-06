@@ -1,4 +1,5 @@
-.env
 *.log
+.env
 .tmp/
 node_modules/
+all-old.json
