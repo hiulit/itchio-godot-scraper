@@ -19,7 +19,7 @@ let noResults = []
 
 let promisesDone = 0
 
-function flattenDeep(arr) {
+function flattenDeep (arr) {
   return arr.reduce(
     (acc, val) =>
       Array.isArray(val) ? acc.concat(flattenDeep(val)) : acc.concat(val),
@@ -27,15 +27,15 @@ function flattenDeep(arr) {
   )
 }
 
-function sortByKey(array, key) {
-  return array.sort(function(a, b) {
+function sortByKey (array, key) {
+  return array.sort(function (a, b) {
     var x = a[key]
     var y = b[key]
     return x < y ? -1 : x > y ? 1 : 0
   })
 }
 
-function readJSON(path) {
+function readJSON (path) {
   try {
     return JSON.parse(fs.readFileSync(path, 'utf8'))
   } catch (err) {
@@ -44,7 +44,7 @@ function readJSON(path) {
   }
 }
 
-function writeJSON(data, path) {
+function writeJSON (data, path) {
   try {
     fs.writeFileSync(path + '.json', JSON.stringify(data, null, 2))
     console.log()
@@ -57,12 +57,12 @@ function writeJSON(data, path) {
   }
 }
 
-function scraper(url) {
-  return new Promise(function(resolve, reject) {
-    request(url.url, function(err, resp, body) {
+function scraper (url) {
+  return new Promise(function (resolve, reject) {
+    request(url.url, function (err, resp, body) {
       let percentage_progress = ((url.id * 100) / url.nPages).toFixed(0)
 
-      function waitingPercent(p) {
+      function waitingPercent (p) {
         readline.clearLine(process.stdout, 0)
         readline.cursorTo(process.stdout, 0)
         text =
@@ -86,7 +86,7 @@ function scraper(url) {
         reject(err)
       } else {
         if ($('.game_cell').length) {
-          $('.game_cell').each(function(i, elem) {
+          $('.game_cell').each(function (i, elem) {
             let game = {}
 
             game.author = $(elem)
@@ -116,7 +116,7 @@ function scraper(url) {
             $(elem)
               .find('.game_cell_data .game_platform')
               .children()
-              .each(function(i, elem) {
+              .each(function (i, elem) {
                 let platform = $(elem).attr('title')
                 if (platform) {
                   platform = platform.replace('Download for ', '')
@@ -153,7 +153,7 @@ function scraper(url) {
             // Create an array of words separated by spaces
             scrapeWords = scrapeWords.split(' ')
             // Remove some values from the array
-            scrapeWords = scrapeWords.filter(function(el) {
+            scrapeWords = scrapeWords.filter(function (el) {
               return el !== ('-' || '_')
             })
             // Remove booleans from array (null, undefined, false, '') but no the number '0'.
@@ -175,14 +175,14 @@ function scraper(url) {
   })
 }
 
-function getAllGames() {
+function getAllGames () {
   console.log('Scraping started ...')
   console.log()
 
   for (let i = 0; i < scrapeURLS.length; i++) {
     const scrapeURL = scrapeURLS[i]
 
-    request(baseURL + scrapeURL, function(error, response, html) {
+    request(baseURL + scrapeURL, function (error, response, html) {
       if (!error) {
         let $ = cheerio.load(html)
 
@@ -203,14 +203,14 @@ function getAllGames() {
             id: i,
             maxPages: maxPages,
             nPages: nPages,
-            url: url,
+            url: url
           })
         }
 
         let scrapers = urls.map(scraper)
 
         Promise.all(scrapers).then(
-          function(scrapes) {
+          function (scrapes) {
             if (noResults.length) {
               console.log()
               console.log(noResults)
@@ -242,7 +242,7 @@ function getAllGames() {
               writeJSON(final, 'all')
             }
           },
-          function(error) {
+          function (error) {
             // At least one of them went wrong.
             console.log('error', error)
           }
