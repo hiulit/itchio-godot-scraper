@@ -177,6 +177,8 @@ function scraper (url) {
 }
 
 function getAllGames () {
+  fs.copyFileSync('all.json', 'all-old.json')
+
   console.log('Scraping started ...')
   console.log()
 
@@ -241,6 +243,8 @@ function getAllGames () {
               final = sortByKey(final, 'id')
 
               writeJSON(final, 'all')
+
+              twitterBot()
             }
           },
           function (error) {
@@ -253,8 +257,4 @@ function getAllGames () {
   }
 }
 
-fs.copyFileSync('all.json', 'all-old.json')
-
 getAllGames()
-
-twitterBot()
