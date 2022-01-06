@@ -2,6 +2,7 @@ const cheerio = require('cheerio')
 const fs = require('fs')
 const readline = require('readline')
 const request = require('request')
+const twitterBot = require('./twitter-bot')
 
 const http = require('http')
 const https = require('https')
@@ -252,4 +253,8 @@ function getAllGames () {
   }
 }
 
+fs.copyFileSync('all.json', 'all-old.json')
+
 getAllGames()
+
+twitterBot()
