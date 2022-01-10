@@ -123,6 +123,10 @@ function scraper (url) {
                   platform = platform.replace('Download for ', '')
                   platforms.push(platform)
                 }
+                let web_flag = $(elem).hasClass('web_flag')
+                if (web_flag) {
+                  platforms.push('HTML5')
+                }
               })
             game.platforms = platforms.length ? platforms : null
 
