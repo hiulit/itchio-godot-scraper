@@ -25,11 +25,11 @@ Auto updated every day at 12:00 CET.
 
 ### Number of games by platform
 
-![Graphic - Number of games by platform](graphs/images/games-by-platform.jpg)
+![Graphic - Number of games by platform](graph-images/number-of-games-by-platform.jpg)
 
 ### Top authors by game count
 
-![Graphic - Top authors by game count](graphs/images/top-authors-by-game-count.jpg)
+![Graphic - Top authors by game count](graph-images/top-authors-by-game-count.jpg)
 
 ## 🚀 Usage
 
@@ -81,8 +81,6 @@ For the scraper to be able to find a game, the game's build name must follow the
 git clone https://github.com/hiulit/itchio-godot-scraper.git
 # Go to the repository folder.
 cd itchio-godot-scraper
-# Create a temporary folder, needed for some files.
-mkdir .tmp
 # Install the node modules.
 npm install
 ```
