@@ -1,5 +1,6 @@
+*.DS_Store
 *.log
 .env
 .tmp/
-node_modules/
 all-old.json
+node_modules/
