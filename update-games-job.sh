@@ -5,6 +5,8 @@ source ".env"
 readonly SCRIPT_PATH="$ENV_SCRIPT_PATH"
 readonly FILES_ARRAY=(
     "all.json"
+    "graphs/images/number-of-games-by-platform.jpg"
+    "graphs/images/top-authors-by-game-count.jpg"
 )
 
 CHANGES_ARRAY=()
