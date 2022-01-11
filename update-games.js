@@ -130,7 +130,7 @@ function scraper (url) {
             scrapeWords = scrapeWords.filter(function (el) {
               return el !== ('-' || '_')
             })
-            // Remove booleans from array (null, undefined, false, '') but no the number '0'.
+            // Remove booleans from array (null, undefined, false, '') but not the number '0'.
             scrapeWords = scrapeWords.filter(el => el === 0 || Boolean(el))
 
             game.scrapeWords = scrapeWords
