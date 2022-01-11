@@ -18,7 +18,12 @@ function ctrl_c() {
     echo >&2
     echo "Unstash changes ..." >&2
     echo >&2
-    git stash pop
+    if [[ "$DIRTY_FILES" -eq 1 ]]; then
+        echo
+        echo "Unstash changes ..." >&2
+        echo
+        git stash pop
+    fi
     exit 1
 }
 
