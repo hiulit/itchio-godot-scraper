@@ -1,4 +1,5 @@
 const Jimp = require('jimp')
+const path = require('path')
 // const fs = require('fs')
 // const fsPromises = fs.promises
 const { ChartJSNodeCanvas } = require('chartjs-node-canvas')
@@ -124,9 +125,12 @@ let graphGenerator = {
       //   buffer,
       //   'base64'
       // )
+
       Jimp.read(buffer, (err, res) => {
         if (err) throw new Error(err)
-        res.resize(width, height).write(`../images/${data.name}.jpg`)
+        res
+          .resize(width, height)
+          .write(path.resolve(__filename, `../../images/${data.name}.jpg`))
       })
 
       console.log(`Graph "${data.name}" has been generated successfully!`)
