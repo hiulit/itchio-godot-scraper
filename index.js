@@ -1,7 +1,16 @@
 const cheerio = require('cheerio')
 const cors = require('cors')
 const express = require('express')
-const fetch = require('node-fetch')
+const getAuthorsByGameCount = require('./helpers/getAuthorsByGameCount')
+const getAuthors = require('./helpers/getAuthors')
+const getGame = require('./helpers/getGame')
+const getGameByID = require('./helpers/getGameByID')
+const getGames = require('./helpers/getGames')
+const getGamesByAuthor = require('./helpers/getGamesByAuthor')
+const getGamesByPlatform = require('./helpers/getGamesByPlatform')
+const getGamesTitles = require('./helpers/getGamesTitles')
+const getObjectByMaxValueAttribute = require('./utils/getObjectByMaxValueAttribute')
+const getPlatforms = require('./helpers/getPlatforms')
 const path = require('path')
 
 const app = express()
@@ -17,67 +26,33 @@ const apiUrl =
     ? 'http://localhost:' + port + '/all.json'
     : 'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/all.json'
 
-async function getGames () {
-  const response = await fetch(apiUrl)
-  return response.json()
-}
-
-async function getGame (url) {
-  const response = await fetch(url)
-  return response.text()
-}
-
-function getObjectByMaxValueAttribute (array, attribute) {
-  // 'array' must be type Array
-  // 'attribute' must be type String
-  let max = Math.max.apply(
-    Math,
-    array.map(function (obj) {
-      return obj[attribute]
-    })
-  )
-
-  let obj = array.find(function (obj) {
-    return obj[attribute] == max
-  })
-
-  return obj
-}
-
 app.get('/', (req, res) => {
   res.redirect('/api')
 })
 
 app.get('/api', (req, res) => {
-  getGames().then(games => {
+  getGames(apiUrl).then(games => {
     res.json(games)
   })
 })
 
 app.get('/api/games', (req, res) => {
-  getGames().then(games => {
-    let titles = []
+  getGames(apiUrl).then(games => {
+    let titles = getGamesTitles(games)
 
-    for (let i = 0; i < games.length; i++) {
-      const game = games[i]
-
-      if (!titles.includes(game.title)) {
-        titles.push(game.title)
-      }
-    }
     res.json(titles)
   })
 })
 
 app.get('/api/game/title/:title', function (req, res) {
-  getGames().then(games => {
+  getGames(apiUrl).then(games => {
     let promiseArray = []
 
     for (let i = 0; i < games.length; i++) {
       const game = games[i]
 
       let gameTitleRequest = req.params.title
-      // Remove extension if matching Godot's games extensions.
+      // Remove extension if matching Godot's game extensions.
       if (
         path.extname(gameTitleRequest) == '.pck' ||
         path.extname(gameTitleRequest) == '.zip'
@@ -161,17 +136,8 @@ app.get('/api/game/title/:title', function (req, res) {
 })
 
 app.get('/api/game/id/:id', (req, res) => {
-  getGames().then(games => {
-    let gameByID
-
-    for (let i = 0; i < games.length; i++) {
-      const game = games[i]
-
-      if (game.id === req.params.id) {
-        gameByID = game
-        break
-      }
-    }
+  getGames(apiUrl).then(games => {
+    let gameByID = getGameByID(games, req.params.id)
 
     if (gameByID) {
       res.json(gameByID)
@@ -182,16 +148,8 @@ app.get('/api/game/id/:id', (req, res) => {
 })
 
 app.get('/api/authors', (req, res) => {
-  getGames().then(games => {
-    let authors = []
-
-    for (let i = 0; i < games.length; i++) {
-      const game = games[i]
-
-      if (!authors.includes(game.author)) {
-        authors.push(game.author)
-      }
-    }
+  getGames(apiUrl).then(games => {
+    let authors = getAuthors(games)
 
     if (authors) {
       res.json(authors)
@@ -202,44 +160,28 @@ app.get('/api/authors', (req, res) => {
 })
 
 app.get('/api/authors/top/:number', function (req, res) {
-  getGames().then(games => {
-    let authors = []
-    let authorCounts = {}
-    let authorWithGameCount
-    let topAuthors = []
+  getGames(apiUrl).then(games => {
+    let topAuthors = getAuthorsByGameCount(games, req.params.number)
 
-    for (let index = 0; index < games.length; index++) {
-      const game = games[index]
-      authors.push(game.author)
-    }
+    // var graphData = {
+    //   type: 'bar',
+    //   name: 'top-authors-by-game-count',
+    //   title: 'Top authors by game count',
+    //   showLegend: false,
+    //   labelsAnchor: 'end'
+    // }
 
-    // Count how many times each author is in the array.
-    // That equals to the ammount of games that author has.
-    authors.forEach(function (x) {
-      authorCounts[x] = (authorCounts[x] || 0) + 1
-    })
+    // var labels = []
+    // var datasets = []
+    // for (let index = 0; index < topAuthors.length; index++) {
+    //   const element = topAuthors[index]
+    //   labels.push(element.author)
+    //   datasets.push(element.games)
+    // }
+    // graphData.labels = labels
+    // graphData.datasets = datasets
 
-    // Create an array with separate objects for each author.
-    authorWithGameCount = Object.keys(authorCounts).map(function (key) {
-      let obj = {
-        author: null,
-        games: null
-      }
-      obj.author = key
-      obj.games = authorCounts[key]
-      return obj
-    })
-
-    // Sort array by number of games (DESC).
-    authorWithGameCount.sort(function (a, b) {
-      return parseFloat(b.games) - parseFloat(a.games)
-    })
-
-    // Return only the top X authors.
-    for (let index = 0; index < req.params.number; index++) {
-      const element = authorWithGameCount[index]
-      topAuthors.push(element)
-    }
+    // generateGraph(graphData)
 
     if (topAuthors) {
       res.json(topAuthors)
@@ -250,16 +192,8 @@ app.get('/api/authors/top/:number', function (req, res) {
 })
 
 app.get('/api/author/:author', function (req, res) {
-  getGames().then(games => {
-    let gamesByAuthor = []
-
-    for (let i = 0; i < games.length; i++) {
-      const game = games[i]
-
-      if (game.author.toUpperCase() === req.params.author.toUpperCase()) {
-        gamesByAuthor.push(game)
-      }
-    }
+  getGames(apiUrl).then(games => {
+    let gamesByAuthor = getGamesByAuthor(games, req.params.author)
 
     if (gamesByAuthor) {
       res.json(gamesByAuthor)
@@ -270,22 +204,8 @@ app.get('/api/author/:author', function (req, res) {
 })
 
 app.get('/api/platforms', (req, res) => {
-  getGames().then(games => {
-    let platforms = []
-
-    for (let i = 0; i < games.length; i++) {
-      const game = games[i]
-
-      if (game.platforms && game.platforms.length) {
-        for (let j = 0; j < game.platforms.length; j++) {
-          const platform = game.platforms[j]
-
-          if (!platforms.includes(platform)) {
-            platforms.push(platform)
-          }
-        }
-      }
-    }
+  getGames(apiUrl).then(games => {
+    let platforms = getPlatforms(games)
 
     if (platforms) {
       res.json(platforms)
@@ -296,22 +216,8 @@ app.get('/api/platforms', (req, res) => {
 })
 
 app.get('/api/platform/:platform', function (req, res) {
-  getGames().then(games => {
-    let gamesByPlatforms = []
-
-    for (let i = 0; i < games.length; i++) {
-      const game = games[i]
-
-      if (game.platforms && game.platforms.length) {
-        for (let j = 0; j < game.platforms.length; j++) {
-          const platform = game.platforms[j]
-
-          if (platform.toUpperCase() === req.params.platform.toUpperCase()) {
-            gamesByPlatforms.push(game)
-          }
-        }
-      }
-    }
+  getGames(apiUrl).then(games => {
+    let gamesByPlatforms = getGamesByPlatform(games, req.params.platform)
 
     if (gamesByPlatforms) {
       res.json(gamesByPlatforms)

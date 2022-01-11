@@ -1,8 +1,15 @@
 const cheerio = require('cheerio')
+const flattenDeep = require('./utils/flattenDeep')
 const fs = require('fs')
+const generateGraphs = require('./graphs')
+const mkdir = require('./utils/mkdir')
+const path = require('path')
+const readJSON = require('./utils/readJSON')
 const readline = require('readline')
 const request = require('request')
+const sortByKey = require('./utils/sortByKey')
 const twitterBot = require('./twitter-bot')
+const writeJSON = require('./utils/writeJSON')
 
 const http = require('http')
 const https = require('https')
@@ -19,44 +26,6 @@ let nPages
 let noResults = []
 
 let promisesDone = 0
-
-function flattenDeep (arr) {
-  return arr.reduce(
-    (acc, val) =>
-      Array.isArray(val) ? acc.concat(flattenDeep(val)) : acc.concat(val),
-    []
-  )
-}
-
-function sortByKey (array, key) {
-  return array.sort(function (a, b) {
-    var x = a[key]
-    var y = b[key]
-    return x < y ? -1 : x > y ? 1 : 0
-  })
-}
-
-function readJSON (path) {
-  try {
-    return JSON.parse(fs.readFileSync(path, 'utf8'))
-  } catch (err) {
-    console.error(err)
-    return false
-  }
-}
-
-function writeJSON (data, path) {
-  try {
-    fs.writeFileSync(path + '.json', JSON.stringify(data, null, 2))
-    console.log()
-    console.log(
-      '\033[1;32m"' + path + '.json"\033[0m has been created successfully!'
-    )
-    console.log()
-  } catch (err) {
-    console.error(err)
-  }
-}
 
 function scraper (url) {
   return new Promise(function (resolve, reject) {
@@ -123,6 +92,10 @@ function scraper (url) {
                   platform = platform.replace('Download for ', '')
                   platforms.push(platform)
                 }
+                let web_flag = $(elem).hasClass('web_flag')
+                if (web_flag) {
+                  platforms.push('HTML5')
+                }
               })
             game.platforms = platforms.length ? platforms : null
 
@@ -160,7 +133,6 @@ function scraper (url) {
             // Remove booleans from array (null, undefined, false, '') but no the number '0'.
             scrapeWords = scrapeWords.filter(el => el === 0 || Boolean(el))
 
-            // console.log(scrapeWords)
             game.scrapeWords = scrapeWords
             game.scrapeWords = scrapeWords.length ? scrapeWords : null
 
@@ -177,7 +149,8 @@ function scraper (url) {
 }
 
 function getAllGames () {
-  fs.copyFileSync('all.json', 'all-old.json')
+  mkdir(path.join(__dirname, '.tmp'))
+  fs.copyFileSync(path.resolve('all.json'), path.resolve('all-old.json'))
 
   console.log('Scraping started ...')
   console.log()
@@ -244,7 +217,9 @@ function getAllGames () {
 
               writeJSON(final, 'all')
 
-              twitterBot()
+              generateGraphs()
+
+              twitterBot.tweet()
             }
           },
           function (error) {
