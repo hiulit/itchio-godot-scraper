@@ -126,7 +126,7 @@ let graphGenerator = {
       // )
       Jimp.read(buffer, (err, res) => {
         if (err) throw new Error(err)
-        res.resize(width, height).write(`./graph-images/${data.name}.jpg`)
+        res.resize(width, height).write(`../images/${data.name}.jpg`)
       })
 
       console.log(`Graph "${data.name}" has been generated successfully!`)
