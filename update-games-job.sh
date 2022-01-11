@@ -90,9 +90,9 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo
         git checkout develop
         echo
-        echo "Pulling from 'develop' ..."
+        echo "Pulling and rebasing from 'develop' ..."
         echo
-        git pull
+        git pull --rebase
         echo
         echo "Pushing to 'develop' ..."
         echo
