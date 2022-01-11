@@ -1,5 +1,5 @@
 const Jimp = require('jimp')
-const fs = require('fs')
+// const fs = require('fs')
 // const fsPromises = fs.promises
 const { ChartJSNodeCanvas } = require('chartjs-node-canvas')
 // const ChartDataLabels = require('chartjs-plugin-datalabels')
