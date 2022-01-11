@@ -1,3 +1,4 @@
+const config = require('../config')
 const fs = require('fs')
 const path = require('path')
 const readJSON = require('../utils/readJSON')
@@ -10,8 +11,6 @@ let twitterBot = {
 
     const oldJSONPath = path.resolve('all-old.json')
     const newJSONPath = path.resolve('all.json')
-
-    let debugMode = false
 
     if (!fs.existsSync(oldJSONPath) || !fs.existsSync(newJSONPath)) {
       console.log(`ERROR: The following files must exists!
@@ -29,7 +28,7 @@ let twitterBot = {
     if (newGames.length) {
       let client
 
-      if (!debugMode) {
+      if (!config.debug) {
         if (
           !process.env.TWITTER_API_KEY ||
           !process.env.TWITTER_API_SECRET ||
@@ -53,10 +52,10 @@ let twitterBot = {
       }
 
       ;(async function () {
-        if (!debugMode) {
+        if (!config.debug) {
           let meUser = await client.v2.me({ 'tweet.fields': ['id', 'text'] })
 
-          if (meUser.data.username !== loggedInUserName && !debugMode) {
+          if (meUser.data.username !== loggedInUserName && !config.debug) {
             console.log(
               `ERROR: Logged-in username ("${meUser.data.username}") must be "${loggedInUserName}"!`
             )
@@ -72,7 +71,7 @@ ${game.link} by ${game.author}
 ${game.platforms ? '\nAvailable for #' + game.platforms.join(' #') + '\n' : ''}
 #ItchioGodotScraper #GodotEngine #MadeWithGodot`
 
-          if (debugMode) {
+          if (config.debug) {
             console.log(tweetMessage)
             console.log('----')
           } else {
