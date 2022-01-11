@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const graphGenerator = require('../graph-generator')
+const graphGenerator = require('./generator')
 
 let numberOfGamesByPlatform = function () {
   let games = JSON.parse(fs.readFileSync(path.resolve('all.json')))

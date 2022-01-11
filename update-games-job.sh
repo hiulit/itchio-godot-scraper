@@ -5,6 +5,8 @@ source ".env"
 readonly SCRIPT_PATH="$ENV_SCRIPT_PATH"
 readonly FILES_ARRAY=(
     "all.json"
+    "graphs/images/number-of-games-by-platform.jpg"
+    "graphs/images/top-authors-by-game-count.jpg"
 )
 
 CHANGES_ARRAY=()
@@ -18,7 +20,12 @@ function ctrl_c() {
     echo >&2
     echo "Unstash changes ..." >&2
     echo >&2
-    git stash pop
+    if [[ "$DIRTY_FILES" -eq 1 ]]; then
+        echo
+        echo "Unstash changes ..." >&2
+        echo
+        git stash pop
+    fi
     exit 1
 }
 

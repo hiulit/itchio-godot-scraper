@@ -1,6 +1,6 @@
 const fs = require('fs')
 const getAuthorsByGameCount = require('../helpers/getAuthorsByGameCount')
-const graphGenerator = require('../graph-generator')
+const graphGenerator = require('./generator')
 const path = require('path')
 
 let topAuthorsByGameCount = function () {

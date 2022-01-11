@@ -163,26 +163,6 @@ app.get('/api/authors/top/:number', function (req, res) {
   getGames(apiUrl).then(games => {
     let topAuthors = getAuthorsByGameCount(games, req.params.number)
 
-    // var graphData = {
-    //   type: 'bar',
-    //   name: 'top-authors-by-game-count',
-    //   title: 'Top authors by game count',
-    //   showLegend: false,
-    //   labelsAnchor: 'end'
-    // }
-
-    // var labels = []
-    // var datasets = []
-    // for (let index = 0; index < topAuthors.length; index++) {
-    //   const element = topAuthors[index]
-    //   labels.push(element.author)
-    //   datasets.push(element.games)
-    // }
-    // graphData.labels = labels
-    // graphData.datasets = datasets
-
-    // generateGraph(graphData)
-
     if (topAuthors) {
       res.json(topAuthors)
     } else {
