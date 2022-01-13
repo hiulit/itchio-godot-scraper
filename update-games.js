@@ -217,9 +217,9 @@ function getAllGames () {
 
               writeJSON(final, 'all')
 
-              generateGraphs()
-
               twitterBot.tweet()
+
+              generateGraphs()
             }
           },
           function (error) {
