@@ -1,14 +1,12 @@
 const cheerio = require('cheerio')
 const flattenDeep = require('./utils/flattenDeep')
 const fs = require('fs')
-const generateGraphs = require('./graphs')
 const mkdir = require('./utils/mkdir')
 const path = require('path')
 const readJSON = require('./utils/readJSON')
 const readline = require('readline')
 const request = require('request')
 const sortByKey = require('./utils/sortByKey')
-const twitterBot = require('./twitter-bot')
 const writeJSON = require('./utils/writeJSON')
 
 const http = require('http')
@@ -150,7 +148,9 @@ function scraper (url) {
 
 function getAllGames () {
   mkdir(path.join(__dirname, '.tmp'))
-  fs.copyFileSync(path.resolve('all.json'), path.resolve('all-old.json'))
+  if (fs.existsSync(path.resolve('all.json'))) {
+    fs.copyFileSync(path.resolve('all.json'), path.resolve('all-old.json'))
+  }
 
   console.log('Scraping started ...')
   console.log()
@@ -216,10 +216,6 @@ function getAllGames () {
               final = sortByKey(final, 'id')
 
               writeJSON(final, 'all')
-
-              twitterBot.tweet()
-
-              generateGraphs()
             }
           },
           function (error) {
@@ -231,5 +227,10 @@ function getAllGames () {
     })
   }
 }
+
+console.log(`
+Update games
+------------
+`)
 
 getAllGames()
