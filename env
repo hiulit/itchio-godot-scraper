@@ -4,12 +4,12 @@
 # To use it, add a dot '.' at the beginning of this file.
 # (e.g. ".env")
 
-# The full path to the folder where the 'update-games-job.sh' script is located.
-ENV_SCRIPT_PATH=""
-# The full path to your SSH private key.
-ENV_SSH_PRIVATE_KEY_PATH=""
-# The full path to your node executable.
+# Absolute path to the folder of the repository.
+ENV_REPO_PATH=""
+# Absolute path to your node executable.
 ENV_NODE_PATH=""
+# Absolute path to your SSH private key (optional).
+ENV_SSH_PRIVATE_KEY_PATH=""
 # Twitter API keys.
 TWITTER_API_KEY=""
 TWITTER_API_SECRET=""

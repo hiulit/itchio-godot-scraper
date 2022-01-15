@@ -2,7 +2,14 @@
 
 source ".env"
 
-readonly SCRIPT_PATH="$ENV_SCRIPT_PATH"
+if [[ -z "$ENV_REPO_PATH" ]]; then
+    echo >&2
+    echo "ERROR: 'ENV_REPO_PATH' is empty!" >&2
+    echo >&2
+    exit 1
+fi
+
+readonly REPO_PATH="$ENV_REPO_PATH"
 readonly FILES_ARRAY=(
     "all.json"
     "graphs/images/number-of-games-by-platform.jpg"
@@ -18,15 +25,28 @@ function ctrl_c() {
     echo >&2
     echo "Cancelled by the user!" >&2
     echo >&2
-    echo "Unstash changes ..." >&2
-    echo >&2
     if [[ "$DIRTY_FILES" -eq 1 ]]; then
-        echo
         echo "Unstash changes ..." >&2
-        echo
+        echo >&2
         git stash pop
     fi
     exit 1
+}
+
+function node() {
+    if [[ -z "$1" ]]; then
+        echo >&2
+        echo "ERROR: 'node' function needs an argument!" >&2
+        echo >&2
+        exit 1
+    fi
+
+    "$ENV_NODE_PATH" "$1" &
+    PID="$!"
+    wait $PID
+    trap - TERM INT
+    wait $PID
+    EXIT_STATUS="$?"
 }
 
 echo
@@ -34,11 +54,13 @@ echo "---- START ----"
 echo
 echo "$(date "+%Y-%m-%d %H:%M")"
 echo
-eval "$(ssh-agent)"
-eval ssh-add -K "$ENV_SSH_PRIVATE_KEY_PATH"
-echo
+if [[ -n "$ENV_SSH_PRIVATE_KEY_PATH" ]] && command -v ssh-agent &> /dev/null && command -v ssh-add &> /dev/null; then
+    eval "$(ssh-agent)"
+    eval ssh-add -K "$ENV_SSH_PRIVATE_KEY_PATH"
+    echo
+fi
 
-cd "$SCRIPT_PATH"
+cd "$REPO_PATH"
 
 # Check for unstaged files.
 git update-index -q --refresh 
@@ -52,16 +74,14 @@ if [[ "$DIRTY_FILES" -eq 1 ]]; then
     echo "Stash changes ..."
     echo
     git stash
+    echo
 fi
-echo
 
 trap ctrl_c TERM INT
-eval "$ENV_NODE_PATH" update-games.js &
-PID="$!"
-wait $PID
-trap - TERM INT
-wait $PID
-EXIT_STATUS="$?"
+
+node "update-games.js"
+node "graphs"
+node "twitter-bot"
 
 git update-index -q --refresh
 while IFS= read -r line; do
@@ -121,14 +141,15 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
 else
     echo
     echo "No modified files detected ... Nothing to do here."
+    echo
 fi
 
 if [[ "$DIRTY_FILES" -eq 1 ]]; then
-    echo
     echo "Unstash changes ..."
     echo
     git stash pop
+    echo
 fi
-echo
+
 echo "---- END ----"
 echo

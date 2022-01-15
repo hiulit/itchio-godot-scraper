@@ -1,7 +1,8 @@
 *.DS_Store
 *.log
 .env
+.logs/
 .tmp/
 all-old.json
-package-lock.json
 node_modules/
+package-lock.json

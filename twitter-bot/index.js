@@ -88,4 +88,9 @@ ${game.platforms ? '\nAvailable for #' + game.platforms.join(' #') + '\n' : ''}
   }
 }
 
-module.exports = twitterBot
+console.log(`
+Twitter bot
+-----------
+`)
+
+twitterBot.tweet()
