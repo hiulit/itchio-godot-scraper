@@ -56,7 +56,7 @@ echo "$(date "+%Y-%m-%d %H:%M")"
 echo
 if [[ -n "$ENV_SSH_PRIVATE_KEY_PATH" ]] && command -v ssh-agent &> /dev/null && command -v ssh-add &> /dev/null; then
     eval "$(ssh-agent)"
-    eval ssh-add -K "$ENV_SSH_PRIVATE_KEY_PATH"
+    eval ssh-add "$ENV_SSH_PRIVATE_KEY_PATH"
     echo
 fi
 
