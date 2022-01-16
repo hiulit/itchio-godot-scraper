@@ -9,6 +9,8 @@ if [[ -z "$ENV_REPO_PATH" ]]; then
     exit 1
 fi
 
+CURRENT_BRANCH="$(git symbolic-ref --short HEAD)"
+
 readonly REPO_PATH="$ENV_REPO_PATH"
 readonly FILES_ARRAY=(
     "all.json"
@@ -62,6 +64,14 @@ fi
 
 cd "$REPO_PATH"
 
+if [[ "$CURRENT_BRANCH" != "develop" ]]; then
+    echo
+    echo "Checking out to 'develop' ..."
+    echo
+    git checkout develop
+    echo
+fi
+
 # Check for unstaged files.
 git update-index -q --refresh 
 git diff-index --quiet HEAD --
@@ -105,14 +115,14 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo
         echo "All the files in 'FILES_ARRAY' look the same ... Nothing to do here."
     else
-        echo
-        echo "Checking out to 'develop' ..."
-        echo
-        git checkout develop
-        echo
-        echo "Pulling and rebasing from 'develop' ..."
-        echo
-        git pull --rebase
+        # echo
+        # echo "Checking out to 'develop' ..."
+        # echo
+        # git checkout develop
+        # echo
+        # echo "Pulling and rebasing from 'develop' ..."
+        # echo
+        # git pull --rebase
         echo
         echo "Pushing to 'develop' ..."
         echo
@@ -137,6 +147,10 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo "Checking out to 'develop' ..."
         echo
         git checkout develop
+        echo
+        echo "Pulling from 'develop' ..."
+        git pull
+        echo
     fi
 else
     echo
