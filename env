@@ -8,8 +8,10 @@
 ENV_REPO_PATH=""
 # Absolute path to your node executable.
 ENV_NODE_PATH=""
-# Absolute path to your SSH private key (optional).
+# Absolute path to your SSH private key.
 ENV_SSH_PRIVATE_KEY_PATH=""
+# SSH private key's password
+ENV_SSH_PRIVATE_KEY_PASSWORD=""
 # Twitter API keys.
 TWITTER_API_KEY=""
 TWITTER_API_SECRET=""

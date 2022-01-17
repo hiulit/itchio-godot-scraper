@@ -56,13 +56,15 @@ echo "---- START ----"
 echo
 echo "$(date "+%Y-%m-%d %H:%M")"
 echo
+
 if [[ -n "$ENV_SSH_PRIVATE_KEY_PATH" ]] && command -v ssh-agent &> /dev/null && command -v ssh-add &> /dev/null; then
     eval "$(ssh-agent)"
     platform="$(uname)"
+    echo "$platform"
     if [[ "$platform" == "Darwin" ]]; then
         eval ssh-add -K "$ENV_SSH_PRIVATE_KEY_PATH"
     elif [[ "$platform" == "Linux" ]]; then
-        eval ssh-add -k "$ENV_SSH_PRIVATE_KEY_PATH"
+        eval SSH_PASS="$ENV_SSH_PRIVATE_KEY_PASSWORD" SSH_ASKPASS="$REPO_PATH/ssh_ask_pass" ssh-add "$ENV_SSH_PRIVATE_KEY_PATH" < /dev/null
     fi
     echo
 fi
@@ -170,5 +172,8 @@ if [[ "$DIRTY_FILES" -eq 1 ]]; then
     echo
 fi
 
+echo
+echo "$(date "+%Y-%m-%d %H:%M")"
+echo
 echo "---- END ----"
 echo
