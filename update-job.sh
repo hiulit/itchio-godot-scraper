@@ -64,7 +64,7 @@ if [[ -n "$ENV_SSH_PRIVATE_KEY_PATH" ]] && command -v ssh-agent &> /dev/null && 
     if [[ "$platform" == "Darwin" ]]; then
         eval ssh-add -K "$ENV_SSH_PRIVATE_KEY_PATH"
     elif [[ "$platform" == "Linux" ]]; then
-        eval SSH_PASS="$ENV_SSH_PRIVATE_KEY_PASSWORD" SSH_ASKPASS="$REPO_PATH/ssh_ask_pass" ssh-add "$ENV_SSH_PRIVATE_KEY_PATH" < /dev/null
+        eval ssh-add -k "$ENV_SSH_PRIVATE_KEY_PATH"
     fi
     echo
 fi
