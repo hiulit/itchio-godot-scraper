@@ -51,6 +51,10 @@ function node() {
     EXIT_STATUS="$?"
 }
 
+if [[ -f "update-job.log" ]]; then
+    rm "update-job.log"
+fi
+
 echo
 echo "---- START ----"
 echo
