@@ -17,7 +17,7 @@ https.globalAgent.maxSockets = 1
 let baseURL = 'https://itch.io/games/'
 let scrapeURLS = ['made-with-godot', 'tag-godot']
 
-let itemsPerPage = 30
+let itemsPerPage = 36
 let maxPages
 let nPages
 
