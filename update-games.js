@@ -1,4 +1,5 @@
 const cheerio = require('cheerio')
+const fflate = require('fflate')
 const flattenDeep = require('./utils/flattenDeep')
 const fs = require('fs')
 const mkdir = require('./utils/mkdir')
@@ -17,7 +18,7 @@ https.globalAgent.maxSockets = 1
 let baseURL = 'https://itch.io/games/'
 let scrapeURLS = ['made-with-godot', 'tag-godot']
 
-let itemsPerPage = 30
+let itemsPerPage = 36
 let maxPages
 let nPages
 
@@ -57,19 +58,13 @@ function scraper (url) {
           $('.game_cell').each(function (i, elem) {
             let game = {}
 
-            game.author = $(elem)
-              .find('.game_cell_data .game_author')
-              .text()
+            game.author = $(elem).find('.game_cell_data .game_author').text()
             game.author = game.author ? game.author : null
 
-            game.description = $(elem)
-              .find('.game_cell_data .game_text')
-              .text()
+            game.description = $(elem).find('.game_cell_data .game_text').text()
             game.description = game.description ? game.description : null
 
-            game.genre = $(elem)
-              .find('.game_cell_data .game_genre')
-              .text()
+            game.genre = $(elem).find('.game_cell_data .game_genre').text()
             game.genre = game.genre ? game.genre : null
 
             game.id = $(elem).attr('data-game_id')
@@ -99,7 +94,8 @@ function scraper (url) {
 
             game.thumb = $(elem)
               .find('.game_thumb')
-              .attr('data-background_image')
+              .find('img')
+              .attr('data-lazy_src')
             game.thumb = game.thumb ? game.thumb : null
 
             game.title = $(elem)
@@ -216,6 +212,11 @@ function getAllGames () {
               final = sortByKey(final, 'id')
 
               writeJSON(final, 'all')
+
+              // Compress 'all.json' using gzip.
+              let allJSON = fs.readFileSync(path.resolve('all.json'))
+              let gzipped = fflate.gzipSync(allJSON)
+              fs.writeFileSync('all.json.gz', gzipped)
             }
           },
           function (error) {

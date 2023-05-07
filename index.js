@@ -23,8 +23,8 @@ app.use(cors())
 
 const apiUrl =
   process.env.NODE_ENV === 'development'
-    ? 'http://localhost:' + port + '/all.json'
-    : 'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/all.json'
+    ? 'http://localhost:' + port + '/all.json.gz'
+    : 'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/all.json.gz'
 
 app.get('/', (req, res) => {
   res.redirect('/api')
