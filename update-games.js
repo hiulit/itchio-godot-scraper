@@ -1,4 +1,5 @@
 const cheerio = require('cheerio')
+const fflate = require('fflate')
 const flattenDeep = require('./utils/flattenDeep')
 const fs = require('fs')
 const mkdir = require('./utils/mkdir')
@@ -211,6 +212,11 @@ function getAllGames () {
               final = sortByKey(final, 'id')
 
               writeJSON(final, 'all')
+
+              // Compress 'all.json' using gzip.
+              let allJSON = fs.readFileSync(path.resolve('all.json'))
+              let gzipped = fflate.gzipSync(allJSON)
+              fs.writeFileSync('all.json.gz', gzipped)
             }
           },
           function (error) {
