@@ -57,19 +57,13 @@ function scraper (url) {
           $('.game_cell').each(function (i, elem) {
             let game = {}
 
-            game.author = $(elem)
-              .find('.game_cell_data .game_author')
-              .text()
+            game.author = $(elem).find('.game_cell_data .game_author').text()
             game.author = game.author ? game.author : null
 
-            game.description = $(elem)
-              .find('.game_cell_data .game_text')
-              .text()
+            game.description = $(elem).find('.game_cell_data .game_text').text()
             game.description = game.description ? game.description : null
 
-            game.genre = $(elem)
-              .find('.game_cell_data .game_genre')
-              .text()
+            game.genre = $(elem).find('.game_cell_data .game_genre').text()
             game.genre = game.genre ? game.genre : null
 
             game.id = $(elem).attr('data-game_id')
