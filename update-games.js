@@ -93,7 +93,8 @@ function scraper (url) {
 
             game.thumb = $(elem)
               .find('.game_thumb')
-              .attr('data-background_image')
+              .find('img')
+              .attr('data-lazy_src')
             game.thumb = game.thumb ? game.thumb : null
 
             game.title = $(elem)
