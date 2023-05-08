@@ -75,11 +75,11 @@ fi
 
 cd "$REPO_PATH"
 
-if [[ "$CURRENT_BRANCH" != "develop" ]]; then
+if [[ "$CURRENT_BRANCH" != "master" ]]; then
     echo
-    echo "Checking out to 'develop' ..."
+    echo "Checking out to 'master' ..."
     echo
-    git checkout develop
+    git checkout master
     echo
 fi
 
