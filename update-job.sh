@@ -127,7 +127,6 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo "All the files in 'FILES_ARRAY' look the same ... Nothing to do here."
     else
         git pull
-        git merge --no-edit develop
         git push
     fi
 else
