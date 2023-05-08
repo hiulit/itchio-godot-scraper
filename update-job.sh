@@ -14,7 +14,6 @@ CURRENT_BRANCH="$(git symbolic-ref --short HEAD)"
 readonly REPO_PATH="$ENV_REPO_PATH"
 readonly FILES_ARRAY=(
     "all.json"
-    "all.json.gz"
     "graphs/images/number-of-games-by-platform.jpg"
     "graphs/images/top-authors-by-game-count.jpg"
 )
