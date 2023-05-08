@@ -126,42 +126,9 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo
         echo "All the files in 'FILES_ARRAY' look the same ... Nothing to do here."
     else
-        # echo
-        # echo "Checking out to 'develop' ..."
-        # echo
-        # git checkout develop
-        # echo
-        # echo "Pulling and rebasing from 'develop' ..."
-        # echo
-        # git pull --rebase
-        echo
-        echo "Pushing to 'develop' ..."
-        echo
-        git push
-        echo
-        echo "Checking out to 'master' ..."
-        echo
-        git checkout master
-        echo
-        echo "Pulling from 'master' ..."
-        echo
         git pull
-        echo
-        echo "Merging 'develop' into 'master' ..."
-        echo
         git merge --no-edit develop
-        echo
-        echo "Pushing to 'master' ..."
-        echo
         git push
-        echo
-        echo "Checking out to 'develop' ..."
-        echo
-        git checkout develop
-        echo
-        echo "Pulling from 'develop' ..."
-        git pull
-        echo
     fi
 else
     echo
