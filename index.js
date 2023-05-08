@@ -1,8 +1,9 @@
 const cheerio = require('cheerio')
+const compression = require('compression')
 const cors = require('cors')
 const express = require('express')
-const getAuthorsByGameCount = require('./helpers/getAuthorsByGameCount')
 const getAuthors = require('./helpers/getAuthors')
+const getAuthorsByGameCount = require('./helpers/getAuthorsByGameCount')
 const getGame = require('./helpers/getGame')
 const getGameByID = require('./helpers/getGameByID')
 const getGames = require('./helpers/getGames')
@@ -20,11 +21,12 @@ if (process.env.NODE_ENV === 'development') app.use(express.static(__dirname))
 
 app.set('port', port)
 app.use(cors())
+app.use(compression())
 
 const apiUrl =
   process.env.NODE_ENV === 'development'
-    ? 'http://localhost:' + port + '/all.json.gz'
-    : 'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/all.json.gz'
+    ? 'http://localhost:' + port + '/all.json'
+    : 'https://raw.githubusercontent.com/hiulit/itchio-scraper/master/all.json'
 
 app.get('/', (req, res) => {
   res.redirect('/api')
