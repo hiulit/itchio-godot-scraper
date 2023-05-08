@@ -17,7 +17,7 @@ https.globalAgent.maxSockets = 1
 let baseURL = 'https://itch.io/games/'
 let scrapeURLS = ['made-with-godot', 'tag-godot']
 
-let itemsPerPage = 30
+let itemsPerPage = 36
 let maxPages
 let nPages
 
@@ -57,19 +57,13 @@ function scraper (url) {
           $('.game_cell').each(function (i, elem) {
             let game = {}
 
-            game.author = $(elem)
-              .find('.game_cell_data .game_author')
-              .text()
+            game.author = $(elem).find('.game_cell_data .game_author').text()
             game.author = game.author ? game.author : null
 
-            game.description = $(elem)
-              .find('.game_cell_data .game_text')
-              .text()
+            game.description = $(elem).find('.game_cell_data .game_text').text()
             game.description = game.description ? game.description : null
 
-            game.genre = $(elem)
-              .find('.game_cell_data .game_genre')
-              .text()
+            game.genre = $(elem).find('.game_cell_data .game_genre').text()
             game.genre = game.genre ? game.genre : null
 
             game.id = $(elem).attr('data-game_id')
@@ -99,7 +93,8 @@ function scraper (url) {
 
             game.thumb = $(elem)
               .find('.game_thumb')
-              .attr('data-background_image')
+              .find('img')
+              .attr('data-lazy_src')
             game.thumb = game.thumb ? game.thumb : null
 
             game.title = $(elem)

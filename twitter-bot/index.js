@@ -69,7 +69,7 @@ let twitterBot = {
           } ${game.genre ? '#' + game.genre : ''}\n
 ${game.link} by ${game.author}
 ${game.platforms ? '\nAvailable for #' + game.platforms.join(' #') + '\n' : ''}
-#ItchioGodotScraper #GodotEngine #MadeWithGodot`
+#ItchioGodotScraper`
 
           if (config.debug) {
             console.log(tweetMessage)

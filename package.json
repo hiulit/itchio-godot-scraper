@@ -31,6 +31,7 @@
     "chartjs-node-canvas": "^4.1.6",
     "chartjs-plugin-datalabels": "^2.0.0",
     "cheerio": "^1.0.0-rc.10",
+    "compression": "^1.7.4",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
