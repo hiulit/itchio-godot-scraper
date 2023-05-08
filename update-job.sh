@@ -105,6 +105,7 @@ node "graphs"
 node "twitter-bot"
 
 git update-index -q --refresh
+git pull
 while IFS= read -r line; do
     CHANGES_ARRAY+=("${line}")
 done < <(git diff-index --name-only HEAD --)
@@ -126,7 +127,6 @@ if [[ -n "${CHANGES_ARRAY[@]}" ]]; then
         echo
         echo "All the files in 'FILES_ARRAY' look the same ... Nothing to do here."
     else
-        git pull
         git push
     fi
 else
