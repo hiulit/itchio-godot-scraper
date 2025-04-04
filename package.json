@@ -1,6 +1,6 @@
 {
   "name": "itchio-godot-scraper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A scraper for Godot games hosted on https://itch.io",
   "keywords": [
     "scraper",
@@ -27,21 +27,13 @@
     "update-games": "node update-games.js"
   },
   "dependencies": {
-    "chart.js": "^3.7.1",
-    "chartjs-node-canvas": "^4.1.6",
-    "chartjs-plugin-datalabels": "^2.0.0",
-    "cheerio": "^1.0.0-rc.10",
-    "compression": "^1.7.4",
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "compression": "^1.8.0",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.1",
-    "express": "^4.18.1",
-    "jimp": "^0.16.1",
-    "node-fetch": "^2.6.7",
-    "nodemon": "^2.0.16",
-    "request": "^2.88.2",
-    "twitter-api-v2": "^1.12.0"
-  },
-  "engines": {
-    "node": "16.x"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "twitter-api-v2": "^1.22.0"
   }
 }
