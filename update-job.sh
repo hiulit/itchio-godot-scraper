@@ -14,8 +14,6 @@ CURRENT_BRANCH="$(git symbolic-ref --short HEAD)"
 readonly REPO_PATH="$ENV_REPO_PATH"
 readonly FILES_ARRAY=(
     "all.json"
-    "graphs/images/number-of-games-by-platform.jpg"
-    "graphs/images/top-authors-by-game-count.jpg"
 )
 
 CHANGES_ARRAY=()
@@ -101,7 +99,6 @@ fi
 trap ctrl_c TERM INT
 
 node "update-games.js"
-node "graphs"
 node "twitter-bot"
 
 git update-index -q --refresh

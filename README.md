@@ -21,16 +21,6 @@ https://itchio-godot-scraper.vercel.app/api
 
 Auto updated every day at 12:00 CET.
 
-## 📊 Statistics
-
-### Number of games by platform
-
-![Graphic - Number of games by platform](graphs/images/number-of-games-by-platform.jpg)
-
-### Top authors by game count
-
-![Graphic - Top authors by game count](graphs/images/top-authors-by-game-count.jpg)
-
 ## 🚀 Usage
 
 - `/api` - Get all the games.
