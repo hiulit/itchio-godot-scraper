@@ -1,8 +1,8 @@
-const fetch = require('node-fetch')
+const axios = require('axios');
 
 let getGames = async function (url) {
-  const response = await fetch(url)
-  return response.json()
+  const response = await axios.get(url);
+  return response.data;
 }
 
-module.exports = getGames
+module.exports = getGames;

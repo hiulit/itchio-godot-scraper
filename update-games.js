@@ -1,231 +1,189 @@
-const cheerio = require('cheerio')
-const flattenDeep = require('./utils/flattenDeep')
-const fs = require('fs')
-const mkdir = require('./utils/mkdir')
+const axios = require("axios");
+const cheerio = require("cheerio");
+const fs = require("fs");
 const path = require('path')
-const readJSON = require('./utils/readJSON')
-const readline = require('readline')
-const request = require('request')
-const sortByKey = require('./utils/sortByKey')
-const writeJSON = require('./utils/writeJSON')
 
-const http = require('http')
-const https = require('https')
-http.globalAgent.maxSockets = 1
-https.globalAgent.maxSockets = 1
+const http = require("http");
+const https = require("https");
+http.globalAgent.maxSockets = 1;
+https.globalAgent.maxSockets = 1;
 
-let baseURL = 'https://itch.io/games/'
-let scrapeURLS = ['made-with-godot', 'tag-godot']
+let baseURL = "https://itch.io/games/";
+let scrapeURLS = ["made-with-godot", "tag-godot"];
 
-let itemsPerPage = 36
-let maxPages
-let nPages
+let allResults = [];
 
-let noResults = []
 
-let promisesDone = 0
+const logSameLine = (message) => {
+  process.stdout.clearLine();
+  process.stdout.cursorTo(0);
+  process.stdout.write(message);
+};
 
-function scraper (url) {
-  return new Promise(function (resolve, reject) {
-    request(url.url, function (err, resp, body) {
-      let percentage_progress = ((url.id * 100) / url.nPages).toFixed(0)
+const scrapePage = async (scrapeURL, pageNumber) => {
+  const url = `${baseURL}${scrapeURL}?page=${pageNumber}`;
+  try {
+    logSameLine(`Scraping page ${pageNumber}...`);
 
-      function waitingPercent (p) {
-        readline.clearLine(process.stdout, 0)
-        readline.cursorTo(process.stdout, 0)
-        text =
-          'Scraping progress for ' +
-          url.url.substring(0, url.url.indexOf('?')) +
-          ': ' +
-          percentage_progress +
-          '% of ' +
-          url.maxPages +
-          ' games.'
-        process.stdout.write(text)
-      }
+    const { data } = await axios.get(url);
+    const $ = cheerio.load(data);
 
-      waitingPercent(percentage_progress)
+    let results = [];
 
-      let $ = cheerio.load(body)
+    if ($(".game_cell").length) {
+      $(".game_cell").each(function (i, elem) {
+        let game = {};
 
-      let results = []
+        game.author =
+          $(elem).find(".game_cell_data .game_author").text().trim() || null;
+        game.description =
+          $(elem).find(".game_cell_data .game_text").text().trim() || null;
+        game.genre = $(elem).find(".game_cell_data .game_genre").text().trim() || null;
+        game.id = $(elem).attr("data-game_id") || null;
+        game.link =
+          $(elem)
+            .find(".game_cell_data .game_title .title.game_link")
+            .attr("href") || null;
 
-      if (err) {
-        reject(err)
-      } else {
-        if ($('.game_cell').length) {
-          $('.game_cell').each(function (i, elem) {
-            let game = {}
+        let platforms = [];
+        $(elem)
+          .find(".game_cell_data .game_platform")
+          .children()
+          .each(function (i, elem) {
+            let platform = $(elem).attr("title");
+            if (platform) {
+              platform = platform.replace("Download for ", "");
+              platforms.push(platform);
+            }
+            if ($(elem).hasClass("web_flag")) {
+              platforms.push("HTML5");
+            }
+          });
+        game.platforms = platforms.length ? platforms : null;
 
-            game.author = $(elem).find('.game_cell_data .game_author').text()
-            game.author = game.author ? game.author : null
+        game.thumb =
+          $(elem).find(".game_thumb img").attr("data-lazy_src") || null;
+        game.title =
+          $(elem).find(".game_cell_data .game_title .title.game_link").text().trim() ||
+          null;
+        game.video =
+          $(elem).find(".game_thumb .gif_overlay").attr("data-gif") || null;
 
-            game.description = $(elem).find('.game_cell_data .game_text').text()
-            game.description = game.description ? game.description : null
+        let scrapeWords = game.title ? game.title : "";
+        scrapeWords = scrapeWords
+          .replace(/[&\/\\#,+()$~%.'":*!¡?¿<>{}@]/g, "")
+          .replace(/([a-z0-9])([A-Z])/g, "$1 $2")
+          .replace(/demo/gi, "")
+          .split(" ")
+          .filter((el) => el !== "-" && el !== "_")
+          .filter((el) => el === 0 || Boolean(el));
+        game.scrapeWords = scrapeWords.length ? scrapeWords : null;
 
-            game.genre = $(elem).find('.game_cell_data .game_genre').text()
-            game.genre = game.genre ? game.genre : null
+        results.push(game);
+      });
+      
+      return results;
+    } else {
+      console.log(`\nNo results found for ${scrapeURL} on page ${pageNumber}`);
+      return [];
+    }
+  } catch (error) {
+    console.error(`\nError scraping page ${pageNumber}: ${error.message}.`);
+    throw error;
+  }
+};
 
-            game.id = $(elem).attr('data-game_id')
-            game.id = game.id ? game.id : null
+const scrapeAllPages = async (scrapeURL) => {
+  let currentPage = 1;
+  let consecutiveEmptyPages = 0;
+  const MAX_EMPTY_PAGES = 3;
+  
+  console.log(`\nScraping ${baseURL}${scrapeURL}...`);
+  let totalResults = 0;
 
-            game.link = $(elem)
-              .find('.game_cell_data .game_title .title.game_link')
-              .attr('href')
-            game.link = game.link ? game.link : null
-
-            let platforms = []
-            $(elem)
-              .find('.game_cell_data .game_platform')
-              .children()
-              .each(function (i, elem) {
-                let platform = $(elem).attr('title')
-                if (platform) {
-                  platform = platform.replace('Download for ', '')
-                  platforms.push(platform)
-                }
-                let web_flag = $(elem).hasClass('web_flag')
-                if (web_flag) {
-                  platforms.push('HTML5')
-                }
-              })
-            game.platforms = platforms.length ? platforms : null
-
-            game.thumb = $(elem)
-              .find('.game_thumb')
-              .find('img')
-              .attr('data-lazy_src')
-            game.thumb = game.thumb ? game.thumb : null
-
-            game.title = $(elem)
-              .find('.game_cell_data .game_title .title.game_link')
-              .text()
-            game.title = game.title ? game.title : null
-
-            game.video = $(elem)
-              .find('.game_thumb .gif_overlay')
-              .attr('data-gif')
-            game.video = game.video ? game.video : null
-
-            let scrapeWords = game.title
-            // Remove special characters
-            scrapeWords = scrapeWords.replace(
-              /[&\/\\#,+()$~%.'":*!¡?¿<>{}@]/g,
-              ''
-            )
-            // Separate camelCase words
-            scrapeWords = scrapeWords.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
-            // Remove 'Demo' word
-            scrapeWords = scrapeWords.replace(/demo/gi, '')
-            // Create an array of words separated by spaces
-            scrapeWords = scrapeWords.split(' ')
-            // Remove some values from the array
-            scrapeWords = scrapeWords.filter(function (el) {
-              return el !== ('-' || '_')
-            })
-            // Remove booleans from array (null, undefined, false, '') but not the number '0'.
-            scrapeWords = scrapeWords.filter(el => el === 0 || Boolean(el))
-
-            game.scrapeWords = scrapeWords
-            game.scrapeWords = scrapeWords.length ? scrapeWords : null
-
-            results.push(game)
-          })
-        } else {
-          noResults.push({ 'No results at index:': url.url })
+  while (true) {
+    try {
+      const pageResults = await scrapePage(scrapeURL, currentPage);
+      totalResults += pageResults.length;
+      
+      if (pageResults.length === 0) {
+        consecutiveEmptyPages++;
+        if (consecutiveEmptyPages >= MAX_EMPTY_PAGES) {
+          console.log(`\nReached ${MAX_EMPTY_PAGES} consecutive empty pages for ${scrapeURL}. Stopping.`);
+          break;
         }
-
-        resolve(results)
+      } else {
+        allResults = [...allResults, ...pageResults];
+        consecutiveEmptyPages = 0;
       }
-    })
-  })
-}
+      
+      currentPage++;
 
-function getAllGames () {
-  mkdir(path.join(__dirname, '.tmp'))
+      await new Promise(resolve => setTimeout(resolve, 1000));
+      
+    } catch (error) {
+      if (error.response && error.response.status === 404) {
+        console.log(`Page ${currentPage} not found for ${baseURL}${scrapeURL}. Stopping.`);
+      } else {
+        console.error(`\nError fetching page ${currentPage} for ${baseURL}${scrapeURL}: ${error.message}.`);
+      }
+      break;
+    }
+  }
+
+  console.log(`Finished scraping ${baseURL}${scrapeURL}. Found ${totalResults} games.`);
+};
+
+
+const processFinalResults = () => {
+  console.log("\nProcessing games...")
+  console.log(`Before deduplication: ${allResults.length} total games`);
+  
+  const uniqueGames = new Map();
+  
+  for (const game of allResults) {
+    if (game.id) {
+      uniqueGames.set(game.id, game);
+    }
+  }
+  
+  let uniqueResults = Array.from(uniqueGames.values());
+  
+  const duplicatesRemoved = allResults.length - uniqueResults.length;
+  
+  console.log(`Removed ${duplicatesRemoved} duplicates (${(duplicatesRemoved / allResults.length * 100).toFixed(2)}% of total)`);
+  console.log(`After deduplication: ${uniqueResults.length} unique games`);
+  
+  uniqueResults.sort((a, b) => {
+    const idA = parseInt(a.id);
+    const idB = parseInt(b.id);
+    return idA - idB;
+  });
+  
+  console.log(`Results sorted by ID in ascending order`);
+  
+  return uniqueResults;
+};
+
+const main = async () => {
   if (fs.existsSync(path.resolve('all.json'))) {
     fs.copyFileSync(path.resolve('all.json'), path.resolve('all-old.json'))
   }
 
-  console.log('Scraping started ...')
-  console.log()
-
-  for (let i = 0; i < scrapeURLS.length; i++) {
-    const scrapeURL = scrapeURLS[i]
-
-    request(baseURL + scrapeURL, function (error, response, html) {
-      if (!error) {
-        let $ = cheerio.load(html)
-
-        maxPages = parseInt(
-          $('.game_count')
-            .text()
-            .match(/[0-9.,]+/g)[0]
-            .replace(',', '')
-        )
-
-        nPages = Math.ceil(maxPages / itemsPerPage)
-        // nPages = 1
-
-        let urls = []
-        for (let i = 1; i < nPages + 1; i++) {
-          const url = baseURL + scrapeURL + '?page=' + i
-          urls.push({
-            id: i,
-            maxPages: maxPages,
-            nPages: nPages,
-            url: url
-          })
-        }
-
-        let scrapers = urls.map(scraper)
-
-        Promise.all(scrapers).then(
-          function (scrapes) {
-            if (noResults.length) {
-              console.log()
-              console.log(noResults)
-            }
-
-            // "scrapes" collects the results from all pages.
-            scrapes = flattenDeep(scrapes)
-
-            writeJSON(scrapes, '.tmp/' + scrapeURL)
-
-            promisesDone++
-
-            if (promisesDone == scrapeURLS.length) {
-              console.log('DONE!')
-
-              let arr1 = readJSON('.tmp/' + scrapeURLS[0] + '.json')
-              let arr2 = readJSON('.tmp/' + scrapeURLS[1] + '.json')
-
-              arr1 = arr1.concat(arr2) // merge two arrays
-
-              let foo = new Map()
-              for (const key of arr1) {
-                foo.set(key.title, key)
-              }
-              let final = [...foo.values()]
-
-              final = sortByKey(final, 'id')
-
-              writeJSON(final, 'all')
-            }
-          },
-          function (error) {
-            // At least one of them went wrong.
-            console.log('error', error)
-          }
-        )
-      }
-    })
+  console.log("Scraping started...");
+  
+  for (const scrapeURL of scrapeURLS) {
+    await scrapeAllPages(scrapeURL);
   }
-}
+  
+  console.log(`\nRaw scraping complete. Found ${allResults.length} total games.`);
+  
+  const finalResults = processFinalResults();
+  
+  fs.writeFileSync(path.resolve('all.json'), JSON.stringify(finalResults, null, 2));
+  console.log(`\nScraping complete. Saved ${finalResults.length} unique games to all.json`);
+};
 
-console.log(`
-Update games
-------------
-`)
-
-getAllGames()
+main().catch(err => {
+  console.error("\nAn error occurred:", err);
+});

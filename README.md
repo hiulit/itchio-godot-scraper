@@ -9,7 +9,6 @@ A scraper for Godot games hosted on https://itch.io/.
 ## Table of contents
 
 - [API URL](#-api-url)
-- [Statistics](#-statistics)
 - [Usage](#-usage)
 - [How does the scraper find games](#-how-does-the-scraper-find-games)
 - [Troubleshooting](#ℹ%EF%B8%8F-troubleshooting)
@@ -20,16 +19,6 @@ A scraper for Godot games hosted on https://itch.io/.
 https://itchio-godot-scraper.vercel.app/api
 
 Auto updated every day at 12:00 CET.
-
-## 📊 Statistics
-
-### Number of games by platform
-
-![Graphic - Number of games by platform](graphs/images/number-of-games-by-platform.jpg)
-
-### Top authors by game count
-
-![Graphic - Top authors by game count](graphs/images/top-authors-by-game-count.jpg)
 
 ## 🚀 Usage
 
@@ -71,8 +60,6 @@ For the scraper to be able to find a game, the game's build name must follow the
 
 * [Git](https://git-scm.com/) installed on your computer.
 * [Node.js](https://nodejs.org/en/) installed on your computer.
-
-**Warning:** Don't update the `node-fetch` package.
 
 ### Installation
 
